@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "ISA.17.1",
+      "edition_verse_id": "BSB:ISA.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the burden against Damascus: “Behold, Damascus is no longer a city; it has become a heap of ruins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.17.2",
+      "edition_verse_id": "BSB:ISA.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The cities of Aroer are forsaken; they will be left to the flocks, which will lie down with no one to fear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.3",
+      "edition_verse_id": "BSB:ISA.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The fortress will disappear from Ephraim, and the sovereignty from Damascus. The remnant of Aram will be like the splendor of the Israelites,” declares the LORD of Hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.4",
+      "edition_verse_id": "BSB:ISA.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“In that day the splendor of Jacob will fade, and the fat of his body will waste away,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.5",
+      "edition_verse_id": "BSB:ISA.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "as the reaper gathers the standing grain and harvests the ears with his arm, as one gleans heads of grain in the Valley of Rephaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.6",
+      "edition_verse_id": "BSB:ISA.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Yet gleanings will remain, like an olive tree that has been beaten— two or three berries atop the tree, four or five on its fruitful branches,” declares the LORD, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.7",
+      "edition_verse_id": "BSB:ISA.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In that day men will look to their Maker and turn their eyes to the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.8",
+      "edition_verse_id": "BSB:ISA.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They will not look to the altars they have fashioned with their hands or to the Asherahs and incense altars they have made with their fingers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.9",
+      "edition_verse_id": "BSB:ISA.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "In that day their strong cities will be like forsaken thickets and summits, abandoned to the Israelites and to utter desolation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.10",
+      "edition_verse_id": "BSB:ISA.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For you have forgotten the God of your salvation and failed to remember the Rock of your refuge. Therefore, though you cultivate delightful plots and set out cuttings from exotic vines —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.11",
+      "edition_verse_id": "BSB:ISA.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "though on the day you plant you make them grow, and on that morning you help your seed sprout — yet the harvest will vanish on the day of disease and incurable pain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.12",
+      "edition_verse_id": "BSB:ISA.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Alas, the tumult of many peoples; they rage like the roaring seas and clamoring nations; they rumble like the crashing of mighty waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.13",
+      "edition_verse_id": "BSB:ISA.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The nations rage like the rush of many waters. He rebukes them, and they flee far away, driven before the wind like chaff on the hills, like tumbleweeds before a gale.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.17.14",
+      "edition_verse_id": "BSB:ISA.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In the evening, there is sudden terror! Before morning, they are no more! This is the portion of those who loot us and the lot of those who plunder us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

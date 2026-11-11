@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HEB",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "HEB.1.1",
+      "edition_verse_id": "BSB:HEB.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On many past occasions and in many different ways, God spoke to our fathers through the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.1.2",
+      "edition_verse_id": "BSB:HEB.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.1.3",
+      "edition_verse_id": "BSB:HEB.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The Son is the radiance of God’s glory and the exact representation of His nature, upholding all things by His powerful word. After He had provided purification for sins, He sat down at the right hand of the Majesty on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.1.4",
+      "edition_verse_id": "BSB:HEB.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So He became as far superior to the angels as the name He has inherited is excellent beyond theirs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.1.5",
+      "edition_verse_id": "BSB:HEB.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For to which of the angels did God ever say: “You are My Son; today I have become Your Father”? Or again: “I will be His Father, and He will be My Son”?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.1.6",
+      "edition_verse_id": "BSB:HEB.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And again, when God brings His firstborn into the world, He says: “Let all God’s angels worship Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.1.7",
+      "edition_verse_id": "BSB:HEB.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now about the angels He says: “He makes His angels winds, His servants flames of fire.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.1.8",
+      "edition_verse_id": "BSB:HEB.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But about the Son He says: “Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.1.9",
+      "edition_verse_id": "BSB:HEB.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You have loved righteousness and hated wickedness; therefore God, Your God, has anointed You above Your companions with the oil of joy.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.1.10",
+      "edition_verse_id": "BSB:HEB.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And: “In the beginning, O Lord, You laid the foundations of the earth, and the heavens are the work of Your hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.1.11",
+      "edition_verse_id": "BSB:HEB.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They will perish, but You remain; they will all wear out like a garment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.1.12",
+      "edition_verse_id": "BSB:HEB.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You will roll them up like a robe; like a garment they will be changed; but You remain the same, and Your years will never end.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.1.13",
+      "edition_verse_id": "BSB:HEB.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.1.14",
+      "edition_verse_id": "BSB:HEB.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Are not the angels ministering spirits sent to serve those who will inherit salvation?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

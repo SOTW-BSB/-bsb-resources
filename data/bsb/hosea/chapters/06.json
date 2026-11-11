@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HOS",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "HOS.6.1",
+      "edition_verse_id": "BSB:HOS.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Come, let us return to the LORD. For He has torn us to pieces, but He will heal us; He has wounded us, but He will bind up our wounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.6.2",
+      "edition_verse_id": "BSB:HOS.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "After two days He will revive us; on the third day He will raise us up, that we may live in His presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.3",
+      "edition_verse_id": "BSB:HOS.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So let us know — let us press on to know the LORD. As surely as the sun rises, He will appear; He will come to us like the rain, like the spring showers that water the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.4",
+      "edition_verse_id": "BSB:HOS.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "What shall I do with you, O Ephraim? What shall I do with you, O Judah? For your loyalty is like a morning mist, like the early dew that vanishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.5",
+      "edition_verse_id": "BSB:HOS.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore I have hewn them by the prophets; I have slain them by the words of My mouth, and My judgments go forth like lightning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.6",
+      "edition_verse_id": "BSB:HOS.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.7",
+      "edition_verse_id": "BSB:HOS.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But they, like Adam, have transgressed the covenant; there they were unfaithful to Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.8",
+      "edition_verse_id": "BSB:HOS.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Gilead is a city of evildoers, tracked with footprints of blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.9",
+      "edition_verse_id": "BSB:HOS.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Like raiders who lie in ambush, so does a band of priests; they murder on the way to Shechem; surely they have committed atrocities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.10",
+      "edition_verse_id": "BSB:HOS.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In the house of Israel I have seen a horrible thing: Ephraim practices prostitution there, and Israel is defiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.6.11",
+      "edition_verse_id": "BSB:HOS.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Also for you, O Judah, a harvest is appointed, when I restore My people from captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

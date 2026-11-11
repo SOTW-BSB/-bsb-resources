@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "ISA.26.1",
+      "edition_verse_id": "BSB:ISA.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In that day this song will be sung in the land of Judah: We have a strong city; salvation is established as its walls and ramparts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.26.2",
+      "edition_verse_id": "BSB:ISA.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Open the gates so a righteous nation may enter— one that remains faithful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.3",
+      "edition_verse_id": "BSB:ISA.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You will keep in perfect peace the steadfast of mind, because he trusts in You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.4",
+      "edition_verse_id": "BSB:ISA.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Trust in the LORD forever, because GOD the LORD is the Rock eternal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.5",
+      "edition_verse_id": "BSB:ISA.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For He has humbled those who dwell on high; He lays the lofty city low. He brings it down to the ground; He casts it into the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.6",
+      "edition_verse_id": "BSB:ISA.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Feet trample it down — the feet of the oppressed, the steps of the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.7",
+      "edition_verse_id": "BSB:ISA.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The path of the righteous is level; You clear a straight path for the upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.8",
+      "edition_verse_id": "BSB:ISA.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yes, we wait for You, O LORD; we walk in the path of Your judgments. Your name and renown are the desire of our souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.9",
+      "edition_verse_id": "BSB:ISA.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "My soul longs for You in the night; indeed, my spirit seeks You at dawn. For when Your judgments come upon the earth, the people of the world learn righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.10",
+      "edition_verse_id": "BSB:ISA.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Though grace is shown to the wicked man, he does not learn righteousness. In the land of righteousness he acts unjustly and fails to see the majesty of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.11",
+      "edition_verse_id": "BSB:ISA.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "O LORD, Your hand is upraised, but they do not see it. They will see Your zeal for Your people and be put to shame. The fire set for Your enemies will consume them!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.12",
+      "edition_verse_id": "BSB:ISA.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "O LORD, You will establish peace for us. For all that we have accomplished, You have done for us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.13",
+      "edition_verse_id": "BSB:ISA.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "O LORD our God, other lords besides You have ruled over us, but Your name alone do we confess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.14",
+      "edition_verse_id": "BSB:ISA.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The dead will not live; the departed spirits will not rise. Therefore You have punished and destroyed them; You have wiped out all memory of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.15",
+      "edition_verse_id": "BSB:ISA.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You have enlarged the nation, O LORD; You have enlarged the nation. You have gained glory for Yourself; You have extended all the borders of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.16",
+      "edition_verse_id": "BSB:ISA.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "O LORD, they sought You in their distress; when You disciplined them, they poured out a quiet prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.17",
+      "edition_verse_id": "BSB:ISA.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "As a woman with child about to give birth writhes and cries out in pain, so were we in Your presence, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.18",
+      "edition_verse_id": "BSB:ISA.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "We were with child; we writhed in pain; but we gave birth to wind. We have given no salvation to the earth, nor brought any life into the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.19",
+      "edition_verse_id": "BSB:ISA.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Your dead will live; their bodies will rise. Awake and sing, you who dwell in the dust! For your dew is like the dew of the morning, and the earth will bring forth her dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.20",
+      "edition_verse_id": "BSB:ISA.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Go, my people, enter your rooms and shut your doors behind you. Hide yourselves a little while until the wrath has passed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.26.21",
+      "edition_verse_id": "BSB:ISA.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For behold, the LORD is coming out of His dwelling to punish the inhabitants of the earth for their iniquity. The earth will reveal her bloodshed and will no longer conceal her slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

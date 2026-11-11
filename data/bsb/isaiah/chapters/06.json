@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "ISA.6.1",
+      "edition_verse_id": "BSB:ISA.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe filled the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.2",
+      "edition_verse_id": "BSB:ISA.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Above Him stood seraphim, each having six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.3",
+      "edition_verse_id": "BSB:ISA.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they were calling out to one another: “Holy, holy, holy is the LORD of Hosts; all the earth is full of His glory.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.4",
+      "edition_verse_id": "BSB:ISA.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "At the sound of their voices the doorposts and thresholds shook, and the temple was filled with smoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.5",
+      "edition_verse_id": "BSB:ISA.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then I said: “Woe is me, for I am ruined, because I am a man of unclean lips dwelling among a people of unclean lips; for my eyes have seen the King, the LORD of Hosts.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.6",
+      "edition_verse_id": "BSB:ISA.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then one of the seraphim flew to me, and in his hand was a glowing coal that he had taken with tongs from the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.7",
+      "edition_verse_id": "BSB:ISA.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And with it he touched my mouth and said: “Now that this has touched your lips, your iniquity is removed and your sin is atoned for.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.8",
+      "edition_verse_id": "BSB:ISA.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then I heard the voice of the Lord saying: “Whom shall I send? Who will go for Us?” And I said: “Here am I. Send me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.9",
+      "edition_verse_id": "BSB:ISA.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And He replied: “Go and tell this people, ‘Be ever hearing, but never understanding; be ever seeing, but never perceiving.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.10",
+      "edition_verse_id": "BSB:ISA.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Make the hearts of this people calloused; deafen their ears and close their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn and be healed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.6.11",
+      "edition_verse_id": "BSB:ISA.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then I asked: “How long, O Lord?” And He replied: “Until the cities lie ruined and without inhabitant, until the houses are left unoccupied and the land is desolate and ravaged,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.12",
+      "edition_verse_id": "BSB:ISA.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "until the LORD has driven men far away and the land is utterly forsaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.6.13",
+      "edition_verse_id": "BSB:ISA.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And though a tenth remains in the land, it will be burned again. As the terebinth and oak leave stumps when felled, so the holy seed will be a stump in the land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

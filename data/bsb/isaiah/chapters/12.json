@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "ISA.12.1",
+      "edition_verse_id": "BSB:ISA.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In that day you will say: “O LORD, I will praise You. Although You were angry with me, Your anger has turned away, and You have comforted me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.12.2",
+      "edition_verse_id": "BSB:ISA.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Surely God is my salvation; I will trust and not be afraid. For the LORD GOD is my strength and my song, and He also has become my salvation.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.12.3",
+      "edition_verse_id": "BSB:ISA.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "With joy you will draw water from the springs of salvation,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.12.4",
+      "edition_verse_id": "BSB:ISA.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and on that day you will say: “Give praise to the LORD; proclaim His name! Make His works known among the peoples; declare that His name is exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.12.5",
+      "edition_verse_id": "BSB:ISA.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Sing to the LORD, for He has done glorious things. Let this be known in all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.12.6",
+      "edition_verse_id": "BSB:ISA.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Cry out and sing, O citizen of Zion, for great among you is the Holy One of Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

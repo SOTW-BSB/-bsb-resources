@@ -1,0 +1,429 @@
+{
+  "edition_id": "BSB",
+  "book_code": "HOS",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Hebrew \\fqa Joash\\ft , a variant of \\fqa Jehoash\\f*",
+          "raw_sha256": "7ffb0f70b66746ec11a10885d761feeaf739c394b8a2879ba3dd7e418aa177bc"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\fqa Jezreel \\ft means \\fqa God sows\\ft ; also in verse 11.\\f*",
+          "raw_sha256": "ee1810b65e5b5127da35f8b79d607c49fbdee6649f732b2f28c1f6b6ce409c93"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 1:6 \\fqa Lo-ruhamah \\ft means \\fqa she has not received mercy\\ft .\\f*",
+          "raw_sha256": "3849bc63a40145f2d981a63bc8e0a5929b646d7423b0fb8c1e409650dfb669ba"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\fqa Lo-ammi \\ft means \\fqa not My people\\ft .\\f*",
+          "raw_sha256": "9689f13e0a4dd916bc8f5b43163e44a88b7221f102c42520a3050acf4c589865"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft Hebrew \\fqa I am not yours\\f*",
+          "raw_sha256": "c5391005af6e20eac2c0e9e46c28b11ef79784edcacefbe4d7dc60ec8fae4f4a"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\ft Cited in \\ref Romans 9:26|ROM 9:26\\ref*\\f*",
+          "raw_sha256": "866bf085d07a153fbadcca979cfd96a35dfcf4b463f7783e6427a3c852314360"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Hebrew \\fqa Ammi\\f*",
+          "raw_sha256": "e59ed1e95be5af7d60716eb5a331bdf63cf9f55f66cb0a6701a37cf7fe6dbfa9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Or \\fqa Mercy is shown\\ft ; Hebrew \\fqa Ruhamah\\ft , which means \\fqa she has received mercy\\f*",
+          "raw_sha256": "3fde2453c5f26889ba1b9d10f51d24b253fcd85b7df8d9ced3e44452b3a3cf66"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Hebrew \\fqa your path\\f*",
+          "raw_sha256": "75fbd25dac01574b52c38e81ffa5025e9f3691753af805a2f6fe4873a573f7ec"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 2:15 \\fqa Achor \\ft means \\fqa trouble\\ft .\\f*",
+          "raw_sha256": "7852cb36836f845405fb93f034f1605e023fdd96e47137c56bfb4b09a4cd12d5"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Hebrew \\fqa my Ishi\\f*",
+          "raw_sha256": "a7d9a1ff08a6bf2abec593de0dfca82c924ddb4affa96a8872c793b75d66aae8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Hebrew \\fqa my Baal\\f*",
+          "raw_sha256": "47ec73b6442349d6defe9a2b756fff589aa09da51ffa0eb6da80d29ccc85ec9b"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 2:19 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "a912a51f0fdf0af22b2c1facfddacec7b74ebbd8e09cf70b748358426b47440d"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 2:22 \\fqa Jezreel \\ft means \\fqa God sows\\ft .\\f*",
+          "raw_sha256": "f9e5e91c0f0142b9098a3895a7c9b2b871e4d4019298e80a2b0b8d4789c46b74"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 2:23 \\ft Hebrew \\fqa Lo-ruhamah\\ft ; LXX \\fqa I will love her who was not loved\\f*",
+          "raw_sha256": "4ee15a89e3b8a2efd6cd62091908bcd02ea7e1aac94a9f1b542156eb040f9ebf"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:23 \\ft Hebrew \\fqa Lo-ammi\\f*",
+          "raw_sha256": "cd555adb22ac90b9fc3cce6233317d79141ca6822729680b76bf5e8ddc7fdb91"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:23 \\ft Cited in \\ref Romans 9:25|ROM 9:25\\ref* and 1 Peter 2:10\\f*",
+          "raw_sha256": "105d52b17215fa95f72f663841228397546434086022abe16dc3ff78c40479e6"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft Or \\fqa Go show love to a woman who is loved by another\\f*",
+          "raw_sha256": "b4d3913ba9e64f63868a8ad4f85f1a52201f5b4e2845837caddadf37fb697925"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft Literally \\fqa and love raisin cakes\\f*",
+          "raw_sha256": "21b87b488b34d24f1d1462b9814d702da52e9abacc350f0331410053c79ea352"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\fqa 15 shekels \\ft is approximately 6 ounces or 171 grams of silver.\\f*",
+          "raw_sha256": "fefce083c1b29ff2a9d9288f02661bbee9b9959b22b74d241c906b51e8ee2820"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\ft Or \\fqa a homer and a half of barley\\ft ; that is, a total of approximately 9.36 bushels or 330 liters (probably about 436 pounds or 198 kilograms of barley); LXX \\fqa a homer of barley and a wineskin full of wine\\f*",
+          "raw_sha256": "03143d50309203ad4b12b5db067aa7b2d2fab11df03d3b2c7edb6bd618a3d457"
+        }
+      ]
+    },
+    "4": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 4:4 \\ft Or \\fqa for My case is against you, O priests\\f*",
+          "raw_sha256": "3fa572ee530c7a87724ac6cb7465c69565f3e5fe1693320c33ebdfc5b2c513c6"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft Or \\fqa they exchanged their glorious God \\ft (Syriac); MT \\fqa I will exchange their glory\\f*",
+          "raw_sha256": "3cff04462a56ea3286b4144c597e898c57d0e2ee5bbcce7e7758a92186583d1d"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 4:8 \\ft Or \\fqa the sin offerings\\f*",
+          "raw_sha256": "c38b42e2906d6e337bd3843a68daaeaaf62b46f19c385d8834dd1d62ee522566"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 4:15 \\fqa Beth-aven \\ft means \\fqa house of wickedness\\ft . This is a derogatory term for Bethel, which means \\fqa house of God\\ft ; see \\ref 1 Kings 12:28–29|1KI 12:28-29\\ref*.\\f*",
+          "raw_sha256": "6fc0e9f55f5d78b6f1026be85616cd21caa338fd4aac05782dc1b239a3f1398e"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 4:17 \\ft That is, the northern kingdom of Israel\\f*",
+          "raw_sha256": "6bd99dbd915af4671487715af3a0f7ee9400dbf239a15c4176a8d8e1289008fb"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 4:18 \\ft Hebrew \\fqa her shields\\f*",
+          "raw_sha256": "2b4ae9202edb51d68701fc4d45a5f6daab037afbc54b2dc869e37b03448e9369"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 4:19 \\ft Hebrew \\fqa has wrapped her\\f*",
+          "raw_sha256": "0128abee2a2c627b90cb9d813c8e42f3438c953f62fabdd268eb8c36828d1e64"
+        }
+      ]
+    },
+    "5": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 5:3 \\ft That is, the northern kingdom of Israel; also in verses 5, 9, 11, 12, 13, and 14\\f*",
+          "raw_sha256": "364066849840855d3dc42b1068ee98fba74e936208517bc80c24e1a53674c7ca"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 5:7 \\ft Or \\fqa their New Moon feast \\ft or \\fqa the coming month\\f*",
+          "raw_sha256": "a39f06c2b6b588ccc2d6ffec587412168e6ddeed3f3b7b8e81796a7c4758466e"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 5:8 \\fqa Beth-aven \\ft means \\fqa house of wickedness\\ft . This is a derogatory term for Bethel, which means \\fqa house of God\\ft ; see \\ref 1 Kings 12:28–29|1KI 12:28-29\\ref*.\\f*",
+          "raw_sha256": "214556a167571fbf1b80a614cdd440fe15835aa162414b1d772cde1ce3122c4a"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft See \\ref Proverbs 22:28|PRO 22:28\\ref* and Proverbs 23:10.\\f*",
+          "raw_sha256": "a561a0fdd7798874f3e340c0b742e086dddd2e9eac29ec3954fdffe9ae21299c"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 5:11 \\ft Or \\fqa to follow human precepts\\f*",
+          "raw_sha256": "5bb3153df37d73537b53e5b7d704db360dc12b1a9af81661eeb3fe22cc3b4737"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 5:13 \\ft Or \\fqa to King Jareb\\f*",
+          "raw_sha256": "c9fd152cd562943ca90d9854ab7db311f2c58d8f68f1d3ee1a0c82d7c3d604d7"
+        }
+      ]
+    },
+    "6": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 6:4 \\ft That is, the northern kingdom of Israel; also in verse 10\\f*",
+          "raw_sha256": "eb942685756be244f1e786cd5b271f912128966a3a6013ca59f37f8349562b24"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\ft Cited in \\ref Matthew 9:13|MAT 9:13\\ref* and Matthew 12:7\\f*",
+          "raw_sha256": "57e4849abba47b6d26e073217807a8a0bee4ee9cf20309f6e4559ddf712dad6a"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 6:7 \\ft Or \\fqa As at Adam, they have transgressed\\f*",
+          "raw_sha256": "348199a2dfaa64e4b83b9bc0b50162932901f06d3cf1d06ae753b594117cd2d0"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 6:11 \\ft Or \\fqa restore the fortunes of My people\\f*",
+          "raw_sha256": "c7cb39ad2b61f2003c35d9b68f90a66d1069fa195f499082848c33eccb51e98b"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\ft That is, the northern kingdom of Israel; also in verses 8 and 11\\f*",
+          "raw_sha256": "3cb5fb7649c910022de2b82d29783e89943c987bd8a66f116b3a52241f481d2b"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 7:6 \\ft Literally \\fqa their baker sleeps\\f*",
+          "raw_sha256": "9c7ea58adf6c8b0a1b25a39e62dfe37a8c4009b3817ffd7fc7f8b66e0329620f"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 7:12 \\ft Or \\fqa I will chastise them according to what was reported against them in the assembly.\\f*",
+          "raw_sha256": "ecb99d1d3ca968d7ccd88b9d14ea5421736b3e52945392939371ae20c162aa51"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 7:14 \\ft Some Hebrew manuscripts and LXX; see \\ref 1 Kings 18:28|1KI 18:28\\ref*. Most Hebrew manuscripts \\fqa They gather together\\f*",
+          "raw_sha256": "2b0c58b738325fc509966c6498260eaa91066a91bacb33e2947cf850f7545cd1"
+        }
+      ]
+    },
+    "8": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 8:5 \\ft Or \\fqa calf idol\\ft ; see \\ref 1 Kings 12:29|1KI 12:29\\ref*.\\f*",
+          "raw_sha256": "719cca8811e4532d2561fe8fc863b42accbfab459c15d5cd4e4bef4c66b324b9"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 8:9 \\ft That is, the northern kingdom of Israel; also in verse 11\\f*",
+          "raw_sha256": "a1f006a615af53a3ec773d2f027438014506121bc8165e34291f1ae7f876ffb6"
+        }
+      ]
+    },
+    "9": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 9:3 \\ft That is, the northern kingdom of Israel; similarly in verses 8, 11, 13, and 16\\f*",
+          "raw_sha256": "2917185166c0b90d85d00b9e6e152c9cb38afbb6fb7003cd5134f6321a84ff82"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 9:8 \\ft Or \\fqa The prophet is the watchman over Ephraim, the people of my God\\f*",
+          "raw_sha256": "eac9ae95287f3a7c37ddcfe1a2daffa0ffe6ff64b9ca3339d72ca700bfadf370"
+        }
+      ]
+    },
+    "10": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 10:5 \\fqa Beth-aven \\ft means \\fqa house of wickedness\\ft . This is a derogatory term for Bethel, which means \\fqa house of God\\ft ; see \\ref 1 Kings 12:28–29|1KI 12:28-29\\ref*.\\f*",
+          "raw_sha256": "11781f58333f073770455a0197c19924fcef9c5ac2c971792adafdd206dd9153"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft Or \\fqa to King Jareb\\f*",
+          "raw_sha256": "10b77f866f253f7e82690078db1aa77a9fb34c09e1fda54c4ef7a53e0160e36c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft That is, the northern kingdom of Israel; also in verse 11\\f*",
+          "raw_sha256": "a37f39788841690b3f5f1921800825bb177d9827fb8c7013035fe5ce0deeb9de"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft Or \\fqa of its own counsel\\f*",
+          "raw_sha256": "01b6b23afa1e0c1557efb23ac5cfd720c44f78c7fc49ed0f07ede957ec38cc71"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 10:8 \\ft Or \\fqa of wickedness\\ft ; \\fqa Aven \\ft is a reference to Beth-aven (a derogatory term for Bethel); see verse 5.\\f*",
+          "raw_sha256": "c3b6c0f2ee0f09f989d5c76f73b618ae3ae46d95171f60abbf1dc2d8fc1aa066"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:8 \\ft Cited in \\ref Luke 23:30|LUK 23:30\\ref*; see also Revelation 6:16.\\f*",
+          "raw_sha256": "bdcd836d6c6adced77ba74c2c1c08fbbf2e6aa4b0e3a54287771dd7f87b38b96"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 10:9 \\ft Or \\fqa Did not the battle overtake the sons of iniquity in Gibeah?\\f*",
+          "raw_sha256": "0bf687ca039df3c886785f7b948c1c87903e84e1447c70b3100c177c6ecc2fc7"
+        }
+      ]
+    },
+    "11": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 11:1 \\ft Cited in \\ref Matthew 2:15|MAT 2:15\\ref*\\f*",
+          "raw_sha256": "50ad3342c9188b69f11580c489ebf28977f0580ff7a767aad91734f38fb2cdd8"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 11:2 \\ft LXX; Hebrew \\fqa The more they called them, the more they went from them.\\f*",
+          "raw_sha256": "733989adec9125dfa744016ad39184c496deb28849855ad83cb64fd21a3164b3"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 11:3 \\ft That is, the northern kingdom of Israel; also in verses 8, 9, and 12\\f*",
+          "raw_sha256": "ec317b011c020c10a6042f512f81e80afd14cdf388309d2bc3988eec68d4fb29"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 11:12 \\ft Or \\fqa and Judah is unruly against God, the faithful Holy One\\f*",
+          "raw_sha256": "be06455cb8e8be312865b3adfe2609a83e8fea1498a0cfb2ece6425bdff40037"
+        }
+      ]
+    },
+    "12": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 12:1 \\ft That is, the northern kingdom of Israel; also in verses 8 and 14\\f*",
+          "raw_sha256": "082ab14c63489223b1a7b48d533eb34703cff4059c5849dc2c56ee53cd89eddc"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 12:2 \\fqa Jacob \\ft means \\fqa he grasps the heel \\ft or \\fqa he deceives\\ft .\\f*",
+          "raw_sha256": "41be60a690744c06c413ae3c123cc977b2cf6898bd8ba483bb6708518e58bba0"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 12:4 \\ft Or \\fqa Angel\\f*",
+          "raw_sha256": "6807d9bcffd4eb3adec4ce8dc1959558d1af91b5b0548b7561a4ba6c2cf9c2f1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:4 \\ft LXX and Syriac; MT \\fqa and there He spoke with us\\f*",
+          "raw_sha256": "885a9a84e3150c0a2b6007d9f84c2c90c87bc42b12e01da681b8c4e53ec2b528"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 12:12 \\ft That is, northwest Mesopotamia\\f*",
+          "raw_sha256": "9ccb4bf1b4db9fe93e79c34796adc4d2d587a1c9ba64289afdf93154305e1a8b"
+        }
+      ]
+    },
+    "13": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 13:1 \\ft That is, the northern kingdom of Israel; also in verse 12\\f*",
+          "raw_sha256": "a1ae2432126471030a39864c4dd39b6b93ce5e687b2c4972e868c48eeb4291d2"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 13:2 \\ft Or \\fqa “The men who sacrifice kiss the calves!”\\ft See \\ref 1 Kings 19:18|1KI 19:18\\ref*.\\f*",
+          "raw_sha256": "dd808386e7827dc15ba3afd5a73d7b975bb7f19aff2a381c9c8e81f94d7a41e0"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 13:10 \\ft Or \\fqa Shall I be your King now\\f*",
+          "raw_sha256": "ccf350929782b7746959dfdcb79791e073b43d8c0c16dc1a1e0c86e327e4fd77"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 13:14 \\ft Or \\fqa Shall I ransom them from the power of Sheol? Shall I redeem them from Death?\\f*",
+          "raw_sha256": "8622640d89d857bbaf92a69d0fbda1db0ec5b2d768369474f021d2eafc10b921"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:14 \\ft LXX \\fqa Where, O Death, is your penalty? Where, O Hades, is your sting?\\ft Cited in \\ref 1 Corinthians 15:55|1CO 15:55\\ref*\\f*",
+          "raw_sha256": "de12d422fa5570c2d9750dbec3a600b5084c20d28961cf6d78f1095bcc60019e"
+        }
+      ]
+    },
+    "14": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 14:2 \\ft LXX and Syriac; Hebrew \\fqa that we may present our lips as sacrificial bulls\\f*",
+          "raw_sha256": "7fe5ce594577ce5e8b7798ee2383c359434e607a6a9b5a9505c3a0152bd487e5"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 14:8 \\ft That is, the northern kingdom of Israel\\f*",
+          "raw_sha256": "64836311e2fe5629457134a61ba006611e54c10f06daa80f8e55611a79bf0287"
+        },
+        {
+          "source_usfm": "\\f + \\fr 14:8 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\f*",
+          "raw_sha256": "b363aac596acf7a4ffd7f120d341ffe369e98ff42f1a3362541813163302f320"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

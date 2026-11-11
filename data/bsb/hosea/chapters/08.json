@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HOS",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "HOS.8.1",
+      "edition_verse_id": "BSB:HOS.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Put the ram’s horn to your lips! An eagle looms over the house of the LORD, because the people have transgressed My covenant and rebelled against My law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.8.2",
+      "edition_verse_id": "BSB:HOS.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Israel cries out to Me, “O our God, we know You!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.3",
+      "edition_verse_id": "BSB:HOS.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But Israel has rejected good; an enemy will pursue him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.4",
+      "edition_verse_id": "BSB:HOS.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They set up kings, but not by Me. They make princes, but without My approval. With their silver and gold they make themselves idols, to their own destruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.5",
+      "edition_verse_id": "BSB:HOS.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He has rejected your calf, O Samaria. My anger burns against them. How long will they be incapable of innocence?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.6",
+      "edition_verse_id": "BSB:HOS.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For this thing is from Israel— a craftsman made it, and it is not God. It will be broken to pieces, that calf of Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.7",
+      "edition_verse_id": "BSB:HOS.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For they sow the wind, and they shall reap the whirlwind. There is no standing grain; what sprouts fails to yield flour. Even if it should produce, the foreigners would swallow it up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.8",
+      "edition_verse_id": "BSB:HOS.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Israel is swallowed up! Now they are among the nations like a worthless vessel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.9",
+      "edition_verse_id": "BSB:HOS.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For they have gone up to Assyria like a wild donkey on its own. Ephraim has hired lovers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.10",
+      "edition_verse_id": "BSB:HOS.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Though they hire allies among the nations, I will now round them up, and they will begin to diminish under the oppression of the king of princes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.11",
+      "edition_verse_id": "BSB:HOS.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Though Ephraim multiplied the altars for sin, they became his altars for sinning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.12",
+      "edition_verse_id": "BSB:HOS.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Though I wrote for them the great things of My law, they regarded them as something strange.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.13",
+      "edition_verse_id": "BSB:HOS.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Though they offer sacrifices as gifts to Me, and though they eat the meat, the LORD does not accept them. Now He will remember their iniquity and punish their sins: They will return to Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.8.14",
+      "edition_verse_id": "BSB:HOS.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Israel has forgotten his Maker and built palaces; Judah has multiplied its fortified cities. But I will send fire upon their cities, and it will consume their citadels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

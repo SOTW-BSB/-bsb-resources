@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "ISA.29.1",
+      "edition_verse_id": "BSB:ISA.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe to you, O Ariel, the city of Ariel where David camped! Year upon year let your festivals recur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.29.2",
+      "edition_verse_id": "BSB:ISA.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I will constrain Ariel, and there will be mourning and lamentation; she will be like an altar hearth before Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.3",
+      "edition_verse_id": "BSB:ISA.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will camp in a circle around you; I will besiege you with towers and set up siege works against you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.4",
+      "edition_verse_id": "BSB:ISA.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You will be brought low, you will speak from the ground, and out of the dust your words will be muffled. Your voice will be like a spirit from the ground; your speech will whisper out of the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.5",
+      "edition_verse_id": "BSB:ISA.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But your many foes will be like fine dust, the multitude of the ruthless like blowing chaff. Then suddenly, in an instant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.6",
+      "edition_verse_id": "BSB:ISA.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "you will be visited by the LORD of Hosts with thunder and earthquake and loud noise, with windstorm and tempest and consuming flame of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.7",
+      "edition_verse_id": "BSB:ISA.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the many nations going out to battle against Ariel— even all who war against her, laying siege and attacking her— will be like a dream, like a vision in the night,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.8",
+      "edition_verse_id": "BSB:ISA.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "as when a hungry man dreams he is eating, then awakens still hungry; as when a thirsty man dreams he is drinking, then awakens faint and parched. So will it be for all the many nations who go to battle against Mount Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.9",
+      "edition_verse_id": "BSB:ISA.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Stop and be astonished; blind yourselves and be sightless; be drunk, but not with wine; stagger, but not from strong drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.10",
+      "edition_verse_id": "BSB:ISA.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the LORD has poured out on you a spirit of deep sleep. He has shut your eyes, O prophets; He has covered your heads, O seers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.11",
+      "edition_verse_id": "BSB:ISA.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the entire vision will be to you like the words sealed in a scroll. If it is handed to someone to read, he will say, “I cannot, because it is sealed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.29.12",
+      "edition_verse_id": "BSB:ISA.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Or if the scroll is handed to one unable to read, he will say, “I cannot read.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.13",
+      "edition_verse_id": "BSB:ISA.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore the Lord said: “These people draw near to Me with their mouths and honor Me with their lips, but their hearts are far from Me. Their worship of Me is but rules taught by men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.29.14",
+      "edition_verse_id": "BSB:ISA.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore I will again confound these people with wonder upon wonder. The wisdom of the wise will vanish, and the intelligence of the intelligent will be hidden.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.15",
+      "edition_verse_id": "BSB:ISA.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Woe to those who dig deep to hide their plans from the LORD. In darkness they do their works and say, “Who sees us, and who will know?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.16",
+      "edition_verse_id": "BSB:ISA.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You have turned things upside down, as if the potter were regarded as clay. Shall what is formed say to him who formed it, “He did not make me”? Can the pottery say of the potter, “He has no understanding”?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.17",
+      "edition_verse_id": "BSB:ISA.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "In a very short time, will not Lebanon become an orchard, and the orchard seem like a forest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.18",
+      "edition_verse_id": "BSB:ISA.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "On that day the deaf will hear the words of the scroll, and out of the deep darkness the eyes of the blind will see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.19",
+      "edition_verse_id": "BSB:ISA.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The humble will increase their joy in the LORD, and the poor among men will rejoice in the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.20",
+      "edition_verse_id": "BSB:ISA.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For the ruthless will vanish, the mockers will disappear, and all who look for evil will be cut down—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.21",
+      "edition_verse_id": "BSB:ISA.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "those who indict a man with a word, who ensnare the mediator at the gate, and who with false charges deprive the innocent of justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.22",
+      "edition_verse_id": "BSB:ISA.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Therefore the LORD who redeemed Abraham says of the house of Jacob: “No longer will Jacob be ashamed and no more will his face grow pale.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.29.23",
+      "edition_verse_id": "BSB:ISA.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For when he sees his children around him, the work of My hands, they will honor My name, they will sanctify the Holy One of Jacob, and they will stand in awe of the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.29.24",
+      "edition_verse_id": "BSB:ISA.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then the wayward in spirit will come to understanding, and those who grumble will accept instruction.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

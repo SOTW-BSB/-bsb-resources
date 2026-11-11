@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 52,
+  "verses": [
+    {
+      "id": "ISA.52.1",
+      "edition_verse_id": "BSB:ISA.52.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.52.2",
+      "edition_verse_id": "BSB:ISA.52.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the chains from your neck, O captive Daughter of Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.3",
+      "edition_verse_id": "BSB:ISA.52.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For this is what the LORD says: “You were sold for nothing, and without money you will be redeemed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.52.4",
+      "edition_verse_id": "BSB:ISA.52.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For this is what the Lord GOD says: “At first My people went down to Egypt to live, then Assyria oppressed them without cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.52.5",
+      "edition_verse_id": "BSB:ISA.52.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And now what have I here? declares the LORD. For My people have been taken without cause; those who rule them taunt, declares the LORD, and My name is blasphemed continually all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.6",
+      "edition_verse_id": "BSB:ISA.52.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore My people will know My name; therefore they will know on that day that I am He who speaks. Here I am!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.7",
+      "edition_verse_id": "BSB:ISA.52.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, “Your God reigns!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.8",
+      "edition_verse_id": "BSB:ISA.52.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Listen! Your watchmen lift up their voices, together they shout for joy. For every eye will see when the LORD returns to Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.9",
+      "edition_verse_id": "BSB:ISA.52.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Break forth in joy, sing together, O ruins of Jerusalem, for the LORD has comforted His people; He has redeemed Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.10",
+      "edition_verse_id": "BSB:ISA.52.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The LORD has bared His holy arm in the sight of all the nations; all the ends of the earth will see the salvation of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.11",
+      "edition_verse_id": "BSB:ISA.52.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Depart, depart, go out from there! Touch no unclean thing; come out from it, purify yourselves, you who carry the vessels of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.12",
+      "edition_verse_id": "BSB:ISA.52.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For you will not leave in a hurry nor flee in haste, for the LORD goes before you, and the God of Israel is your rear guard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.13",
+      "edition_verse_id": "BSB:ISA.52.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Behold, My Servant will prosper; He will be raised and lifted up and highly exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.14",
+      "edition_verse_id": "BSB:ISA.52.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Just as many were appalled at Him— His appearance was disfigured beyond that of any man, and His form was marred beyond human likeness—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.52.15",
+      "edition_verse_id": "BSB:ISA.52.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "so He will sprinkle many nations. Kings will shut their mouths because of Him. For they will see what they have not been told, and they will understand what they have not heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

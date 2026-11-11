@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "ISA.36.1",
+      "edition_verse_id": "BSB:ISA.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the fourteenth year of Hezekiah’s reign, Sennacherib king of Assyria attacked and captured all the fortified cities of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.2",
+      "edition_verse_id": "BSB:ISA.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the king of Assyria sent the Rabshakeh, with a great army, from Lachish to King Hezekiah at Jerusalem. And he stopped by the aqueduct of the upper pool, on the road to the Launderer’s Field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.3",
+      "edition_verse_id": "BSB:ISA.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Eliakim son of Hilkiah the palace administrator, Shebna the scribe, and Joah son of Asaph the recorder, went out to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.4",
+      "edition_verse_id": "BSB:ISA.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The Rabshakeh said to them, “Tell Hezekiah that this is what the great king, the king of Assyria, says: What is the basis of this confidence of yours?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.5",
+      "edition_verse_id": "BSB:ISA.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You claim to have a strategy and strength for war, but these are empty words. In whom are you now trusting, that you have rebelled against me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.6",
+      "edition_verse_id": "BSB:ISA.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Look now, you are trusting in Egypt, that splintered reed of a staff that will pierce the hand of anyone who leans on it. Such is Pharaoh king of Egypt to all who trust in him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.7",
+      "edition_verse_id": "BSB:ISA.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But if you say to me, ‘We trust in the LORD our God,’ is He not the One whose high places and altars Hezekiah has removed, saying to Judah and Jerusalem, ‘You must worship before this altar’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.8",
+      "edition_verse_id": "BSB:ISA.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now, therefore, make a bargain with my master, the king of Assyria. I will give you two thousand horses — if you can put riders on them!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.9",
+      "edition_verse_id": "BSB:ISA.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For how can you repel a single officer among the least of my master’s servants when you depend on Egypt for chariots and horsemen?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.10",
+      "edition_verse_id": "BSB:ISA.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So now, was it apart from the LORD that I have come up against this land to destroy it? The LORD Himself said to me, ‘Go up against this land and destroy it.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.11",
+      "edition_verse_id": "BSB:ISA.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Eliakim, Shebna, and Joah said to the Rabshakeh, “Please speak to your servants in Aramaic, since we understand it. Do not speak to us in Hebrew in the hearing of the people on the wall.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.12",
+      "edition_verse_id": "BSB:ISA.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But the Rabshakeh replied, “Has my master sent me to speak these words only to you and your master, and not to the men sitting on the wall, who are destined with you to eat their own dung and drink their own urine?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.13",
+      "edition_verse_id": "BSB:ISA.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the Rabshakeh stood and called out loudly in Hebrew: “Hear the words of the great king, the king of Assyria!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.14",
+      "edition_verse_id": "BSB:ISA.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "This is what the king says: Do not let Hezekiah deceive you, for he cannot deliver you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.15",
+      "edition_verse_id": "BSB:ISA.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Do not let Hezekiah persuade you to trust in the LORD when he says, ‘The LORD will surely deliver us; this city will not be given into the hand of the king of Assyria.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.16",
+      "edition_verse_id": "BSB:ISA.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Do not listen to Hezekiah, for this is what the king of Assyria says: Make peace with me and come out to me. Then every one of you will eat from his own vine and his own fig tree, and drink water from his own cistern,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.17",
+      "edition_verse_id": "BSB:ISA.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "until I come and take you away to a land like your own— a land of grain and new wine, a land of bread and vineyards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.18",
+      "edition_verse_id": "BSB:ISA.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Do not let Hezekiah mislead you when he says, ‘The LORD will deliver us.’ Has the god of any nation ever delivered his land from the hand of the king of Assyria?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.19",
+      "edition_verse_id": "BSB:ISA.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have they delivered Samaria from my hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.20",
+      "edition_verse_id": "BSB:ISA.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Who among all the gods of these lands has delivered his land from my hand? How then can the LORD deliver Jerusalem from my hand?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.36.21",
+      "edition_verse_id": "BSB:ISA.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But the people remained silent and did not answer a word, for Hezekiah had commanded, “Do not answer him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.36.22",
+      "edition_verse_id": "BSB:ISA.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then Hilkiah’s son Eliakim the palace administrator, Shebna the scribe, and Asaph’s son Joah the recorder came to Hezekiah with their clothes torn, and they relayed to him the words of the Rabshakeh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

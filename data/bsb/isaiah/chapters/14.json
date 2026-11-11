@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "ISA.14.1",
+      "edition_verse_id": "BSB:ISA.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.14.2",
+      "edition_verse_id": "BSB:ISA.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The nations will escort Israel and bring it to its homeland. Then the house of Israel will possess the nations as menservants and maidservants in the LORD’s land. They will make captives of their captors and rule over their oppressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.3",
+      "edition_verse_id": "BSB:ISA.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "On the day that the LORD gives you rest from your pain and torment, and from the hard labor into which you were forced,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.14.4",
+      "edition_verse_id": "BSB:ISA.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "you will sing this song of contempt against the king of Babylon: How the oppressor has ceased, and how his fury has ended!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.5",
+      "edition_verse_id": "BSB:ISA.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The LORD has broken the staff of the wicked, the scepter of the rulers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.6",
+      "edition_verse_id": "BSB:ISA.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "It struck the peoples in anger with unceasing blows; it subdued the nations in rage with relentless persecution.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.7",
+      "edition_verse_id": "BSB:ISA.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the earth is at peace and at rest; they break out in song.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.8",
+      "edition_verse_id": "BSB:ISA.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Even the cypresses and cedars of Lebanon exult over you: “Since you have been laid low, no woodcutter comes against us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.9",
+      "edition_verse_id": "BSB:ISA.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Sheol beneath is eager to meet you upon your arrival. It stirs the spirits of the dead to greet you— all the rulers of the earth. It makes all the kings of the nations rise from their thrones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.10",
+      "edition_verse_id": "BSB:ISA.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They will all respond to you, saying, “You too have become weak, as we are; you have become like us!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.11",
+      "edition_verse_id": "BSB:ISA.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Your pomp has been brought down to Sheol, along with the music of your harps. Maggots are your bed and worms your blanket.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.12",
+      "edition_verse_id": "BSB:ISA.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "How you have fallen from heaven, O day star, son of the dawn! You have been cut down to the ground, O destroyer of nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.13",
+      "edition_verse_id": "BSB:ISA.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You said in your heart: “I will ascend to the heavens; I will raise my throne above the stars of God. I will sit on the mount of assembly, in the far reaches of the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.14",
+      "edition_verse_id": "BSB:ISA.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I will ascend above the tops of the clouds; I will make myself like the Most High.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.15",
+      "edition_verse_id": "BSB:ISA.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But you will be brought down to Sheol, to the lowest depths of the Pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.16",
+      "edition_verse_id": "BSB:ISA.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Those who see you will stare; they will ponder your fate: “Is this the man who shook the earth and made the kingdoms tremble,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.17",
+      "edition_verse_id": "BSB:ISA.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "who turned the world into a desert and destroyed its cities, who refused to let the captives return to their homes?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.18",
+      "edition_verse_id": "BSB:ISA.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "All the kings of the nations lie in state, each in his own tomb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.19",
+      "edition_verse_id": "BSB:ISA.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But you are cast out of your grave like a rejected branch, covered by those slain with the sword, and dumped into a rocky pit like a carcass trampled underfoot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.20",
+      "edition_verse_id": "BSB:ISA.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You will not join them in burial, since you have destroyed your land and slaughtered your own people. The offspring of the wicked will never again be mentioned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.21",
+      "edition_verse_id": "BSB:ISA.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Prepare a place to slaughter his sons for the iniquities of their forefathers. They will never rise up to possess a land or cover the earth with their cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.22",
+      "edition_verse_id": "BSB:ISA.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "“I will rise up against them,” declares the LORD of Hosts. “I will cut off from Babylon her name and her remnant, her offspring and her posterity,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.23",
+      "edition_verse_id": "BSB:ISA.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“I will make her a place for owls and for swamplands; I will sweep her away with the broom of destruction,” declares the LORD of Hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.24",
+      "edition_verse_id": "BSB:ISA.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The LORD of Hosts has sworn: “Surely, as I have planned, so will it be; as I have purposed, so will it stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.14.25",
+      "edition_verse_id": "BSB:ISA.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I will break Assyria in My land; I will trample him on My mountain. His yoke will be taken off My people, and his burden removed from their shoulders.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.26",
+      "edition_verse_id": "BSB:ISA.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "This is the plan devised for the whole earth, and this is the hand stretched out over all the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.27",
+      "edition_verse_id": "BSB:ISA.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The LORD of Hosts has purposed, and who can thwart Him? His hand is outstretched, so who can turn it back?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.28",
+      "edition_verse_id": "BSB:ISA.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "In the year that King Ahaz died, this burden was received:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.14.29",
+      "edition_verse_id": "BSB:ISA.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Do not rejoice, all you Philistines, that the rod that struck you is broken. For a viper will spring from the root of the snake, and a flying serpent from its egg.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.30",
+      "edition_verse_id": "BSB:ISA.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then the firstborn of the poor will find pasture, and the needy will lie down in safety, but I will kill your root by famine, and your remnant will be slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.31",
+      "edition_verse_id": "BSB:ISA.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Wail, O gate! Cry out, O city! Melt away, all you Philistines! For a cloud of smoke comes from the north, and there are no stragglers in its ranks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.14.32",
+      "edition_verse_id": "BSB:ISA.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "What answer will be given to the envoys of that nation? “The LORD has founded Zion, where His afflicted people will find refuge.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

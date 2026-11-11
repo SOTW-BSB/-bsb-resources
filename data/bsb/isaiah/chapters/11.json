@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "ISA.11.1",
+      "edition_verse_id": "BSB:ISA.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then a shoot will spring up from the stump of Jesse, and a Branch from his roots will bear fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.11.2",
+      "edition_verse_id": "BSB:ISA.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The Spirit of the LORD will rest on Him— the Spirit of wisdom and understanding, the Spirit of counsel and strength, the Spirit of knowledge and fear of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.3",
+      "edition_verse_id": "BSB:ISA.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And He will delight in the fear of the LORD. He will not judge by what His eyes see, and He will not decide by what His ears hear,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.4",
+      "edition_verse_id": "BSB:ISA.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "but with righteousness He will judge the poor, and with equity He will decide for the lowly of the earth. He will strike the earth with the rod of His mouth and slay the wicked with the breath of His lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.5",
+      "edition_verse_id": "BSB:ISA.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Righteousness will be the belt around His hips, and faithfulness the sash around His waist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.6",
+      "edition_verse_id": "BSB:ISA.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The wolf will live with the lamb, and the leopard will lie down with the goat; the calf and young lion and fatling will be together, and a little child will lead them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.7",
+      "edition_verse_id": "BSB:ISA.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The cow will graze with the bear, their young will lie down together, and the lion will eat straw like the ox.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.8",
+      "edition_verse_id": "BSB:ISA.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The infant will play by the cobra’s den, and the toddler will reach into the viper’s nest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.9",
+      "edition_verse_id": "BSB:ISA.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They will neither harm nor destroy on all My holy mountain, for the earth will be full of the knowledge of the LORD as the sea is full of water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.10",
+      "edition_verse_id": "BSB:ISA.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "On that day the Root of Jesse will stand as a banner for the peoples. The nations will seek Him, and His place of rest will be glorious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.11.11",
+      "edition_verse_id": "BSB:ISA.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "On that day the Lord will extend His hand a second time to recover the remnant of His people from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.12",
+      "edition_verse_id": "BSB:ISA.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He will raise a banner for the nations and gather the exiles of Israel; He will collect the scattered of Judah from the four corners of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.13",
+      "edition_verse_id": "BSB:ISA.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the jealousy of Ephraim will depart, and the adversaries of Judah will be cut off. Ephraim will no longer envy Judah, nor will Judah harass Ephraim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.14",
+      "edition_verse_id": "BSB:ISA.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They will swoop down on the slopes of the Philistines to the west; together they will plunder the sons of the east. They will lay their hands on Edom and Moab, and the Ammonites will be subject to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.15",
+      "edition_verse_id": "BSB:ISA.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The LORD will devote to destruction the gulf of the Sea of Egypt; with a scorching wind He will sweep His hand over the Euphrates. He will split it into seven streams for men to cross with dry sandals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.11.16",
+      "edition_verse_id": "BSB:ISA.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "There will be a highway for the remnant of His people who remain from Assyria, as there was for Israel when they came up from the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "edition_id": "BSB",
+  "book_code": "HAB",
+  "chapters": {
+    "1": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft LXX \\fqa Look, you scoffers, wonder and perish!\\f*",
+          "raw_sha256": "433dd3565f14d04c57c60ee3cbc8f6d40863e2f15468fff381302a03670224ed"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft Cited in \\ref Acts 13:41|ACT 13:41\\ref*\\f*",
+          "raw_sha256": "90a87f269c00f77757a4cac050719502528aa65bad19095f4f1618985abe5dce"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 1:6 \\ft That is, the Babylonians\\f*",
+          "raw_sha256": "86fec2f47fe5b7a591e5602ebec430ff1aa13b673a6616aecc2ed25a99431209"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 1:15 \\ft Literally \\fqa He pulls all of them up\\f*",
+          "raw_sha256": "8664ef5d337e88c40c4082621bbe2a93e03967e142ca8ccd953728d82974874a"
+        }
+      ]
+    },
+    "2": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 2:3 \\ft Or \\fqa Though He lingers, wait for Him, since He will surely come and will not delay\\ft ; see also LXX; cited in \\ref Hebrews 10:37|HEB 10:37\\ref*.\\f*",
+          "raw_sha256": "936f8b2630874a92c2441c3a7c0d327612ac2773cf890dc3d3e64861c4f6eee3"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 2:4 \\ft LXX \\fqa If he should draw back, My soul has no pleasure in him\\f*",
+          "raw_sha256": "6cc358297fd5f1e03be54f23b5b149f5cd3a225e5cce3e299d316bf0008a031d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:4 \\ft Or \\fqa faithfulness\\ft ; cited in \\ref Romans 1:17|ROM 1:17\\ref*, Galatians 3:11, and Hebrews 10:38\\f*",
+          "raw_sha256": "6f3674c0dfec060066f7eec570486cc5b087d7b6b914cb84127e92d1ed03b7ff"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 2:5 \\ft DSS; MT \\fqa wine\\f*",
+          "raw_sha256": "8c49115440da588d2472e4118b1f2dfd1d99274df4a3105800cc1eea22b7596e"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\ft Literally \\fqa sinning against your soul\\f*",
+          "raw_sha256": "7338c80fc39721d3e3ff2abe708605e3eddee1fc42ab85657cc3b983c6ac8fd7"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft DSS, LXX, and Syriac \\fqa and stagger\\f*",
+          "raw_sha256": "ef2e45dccddbd40b5287df06ce5e5c21478c569741ed9ac42e66957359480bf9"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\fqa Shigionoth \\ft is probably a musical term indicating the setting for the prayer.\\f*",
+          "raw_sha256": "2b7fc6c087d12b4f0f9add2278de91603e168c3264d1ff166df08551feec45ea"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\fqa Selah \\ft or \\fqa Interlude \\ft is probably a musical or literary term; also in verses 9 and 13.\\f*",
+          "raw_sha256": "9a34e095a1a816531af410a6791497fd53309140033cc2cfa9e849a88aea1e46"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

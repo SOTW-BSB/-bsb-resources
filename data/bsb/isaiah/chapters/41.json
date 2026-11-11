@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 41,
+  "verses": [
+    {
+      "id": "ISA.41.1",
+      "edition_verse_id": "BSB:ISA.41.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Be silent before Me, O islands, and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.41.2",
+      "edition_verse_id": "BSB:ISA.41.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Who has aroused one from the east and called him to his feet in righteousness? He hands nations over to him and subdues kings before him. He turns them to dust with his sword, to windblown chaff with his bow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.3",
+      "edition_verse_id": "BSB:ISA.41.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He pursues them, going on safely, hardly touching the path with his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.4",
+      "edition_verse_id": "BSB:ISA.41.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who has performed this and carried it out, calling forth the generations from the beginning? I, the LORD — the first and the last— I am He.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.5",
+      "edition_verse_id": "BSB:ISA.41.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The islands see and fear; the ends of the earth tremble. They approach and come forward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.6",
+      "edition_verse_id": "BSB:ISA.41.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Each one helps the other and says to his brother, “Be strong!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.7",
+      "edition_verse_id": "BSB:ISA.41.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The craftsman encourages the goldsmith, and he who wields the hammer cheers him who strikes the anvil, saying of the welding, “It is good.” He nails it down so it will not be toppled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.8",
+      "edition_verse_id": "BSB:ISA.41.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“But you, O Israel, My servant, Jacob, whom I have chosen, descendant of Abraham My friend—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.9",
+      "edition_verse_id": "BSB:ISA.41.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I brought you from the ends of the earth and called you from its farthest corners. I said, ‘You are My servant.’ I have chosen and not rejected you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.10",
+      "edition_verse_id": "BSB:ISA.41.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.11",
+      "edition_verse_id": "BSB:ISA.41.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Behold, all who rage against you will be ashamed and disgraced; those who contend with you will be reduced to nothing and will perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.12",
+      "edition_verse_id": "BSB:ISA.41.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You will seek them but will not find them. Those who wage war against you will come to nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.13",
+      "edition_verse_id": "BSB:ISA.41.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For I am the LORD your God, who takes hold of your right hand and tells you: Do not fear, I will help you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.14",
+      "edition_verse_id": "BSB:ISA.41.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Do not fear, O Jacob, you worm, O few men of Israel. I will help you,” declares the LORD. “Your Redeemer is the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.15",
+      "edition_verse_id": "BSB:ISA.41.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Behold, I will make you into a threshing sledge, new and sharp, with many teeth. You will thresh the mountains and crush them, and reduce the hills to chaff.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.16",
+      "edition_verse_id": "BSB:ISA.41.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You will winnow them, and a wind will carry them away; a gale will scatter them. But you will rejoice in the LORD; you will glory in the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.17",
+      "edition_verse_id": "BSB:ISA.41.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The poor and needy seek water, but there is none; their tongues are parched with thirst. I, the LORD, will answer them; I, the God of Israel, will not forsake them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.18",
+      "edition_verse_id": "BSB:ISA.41.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will open rivers on the barren heights, and fountains in the middle of the valleys. I will turn the desert into a pool of water, and the dry land into flowing springs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.19",
+      "edition_verse_id": "BSB:ISA.41.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I will plant cedars in the wilderness, acacias, myrtles, and olive trees. I will set cypresses in the desert, elms and boxwood together,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.20",
+      "edition_verse_id": "BSB:ISA.41.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "so that all may see and know, may consider and understand, that the hand of the LORD has done this and the Holy One of Israel has created it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.21",
+      "edition_verse_id": "BSB:ISA.41.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Present your case,” says the LORD. “Submit your arguments,” says the King of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.22",
+      "edition_verse_id": "BSB:ISA.41.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "“Let them come and tell us what will happen. Tell the former things, so that we may reflect on them and know the outcome. Or announce to us what is coming.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.23",
+      "edition_verse_id": "BSB:ISA.41.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Tell us the things that are to come, so that we may know that you are gods. Yes, do something good or evil, that we may look on together in dismay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.24",
+      "edition_verse_id": "BSB:ISA.41.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Behold, you are nothing and your work is of no value. Anyone who chooses you is detestable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.25",
+      "edition_verse_id": "BSB:ISA.41.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I have raised up one from the north, and he has come — one from the east who calls on My name. He will march over rulers as if they were mortar, like a potter who treads the clay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.26",
+      "edition_verse_id": "BSB:ISA.41.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Who has declared this from the beginning, so that we may know, and from times past, so that we may say: ‘He was right’? No one announced it, no one foretold it, no one heard your words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.27",
+      "edition_verse_id": "BSB:ISA.41.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "I was the first to tell Zion: ‘Look, here they are!’ And I gave to Jerusalem a herald of good news.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.28",
+      "edition_verse_id": "BSB:ISA.41.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When I look, there is no one; there is no counselor among them; when I ask them, they have nothing to say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.41.29",
+      "edition_verse_id": "BSB:ISA.41.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "See, they are all a delusion; their works amount to nothing; their images are as empty as the wind.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

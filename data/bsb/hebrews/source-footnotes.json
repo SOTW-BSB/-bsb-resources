@@ -1,0 +1,513 @@
+{
+  "edition_id": "BSB",
+  "book_code": "HEB",
+  "chapters": {
+    "1": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\ft Or \\fqa in His Son\\f*",
+          "raw_sha256": "a28e658898e05e358dcc54127dfe4315949ffbceab0efcedff9d8c6ed4f3f23e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\ft Or \\fqa the world\\ft ; literally \\fqa the ages\\f*",
+          "raw_sha256": "d4792e902bf7400908e405ab2387e305acb537331dc9f2f294ffe24fb3fede73"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft \\ref Psalm 2:7|PSA 2:7\\ref*; literally \\fqa today I have begotten You\\f*",
+          "raw_sha256": "384f3a5f2faf304492adb46bf54420647a7dd1b9677aed0af695c36e5fd853b0"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft \\ref 2 Samuel 7:14|2SA 7:14\\ref*; 1 Chronicles 17:13\\f*",
+          "raw_sha256": "1dc02b2881df3f8e253960fd20f201fedae32c78d016794b0a0cb0a6ea7e77c6"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 1:6 \\ft \\ref Deuteronomy 32:43|DEU 32:43\\ref* (see DSS and LXX)\\f*",
+          "raw_sha256": "50513436e7342fe3e44b087b6fa8758f2b3e7f2aafe817b36057b082962690f5"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 1:7 \\ft \\ref Psalm 104:4|PSA 104:4\\ref* (see also LXX)\\f*",
+          "raw_sha256": "465c81bb29d9604abb6b982b33ecfc21a61ad5c7a708ff5fef7cbce0e9d0d9b9"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft \\ref Psalm 45:6–7|PSA 45:6-7\\ref*\\f*",
+          "raw_sha256": "be06ff2a6c12dcc2e11d95ee9b6d260b9c6aacdcc5637c068621ac72327e26bd"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft BYZ and TR do not include \\fqa like a garment\\ft .\\f*",
+          "raw_sha256": "63fed4c2269d6eea591056ff2a95104ddcae735dd5ca97a66856fb9ac7aab5cc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft \\ref Psalm 102:25–27|PSA 102:25-27\\ref*\\f*",
+          "raw_sha256": "b186a1e14445ffb8eab25447ceda13d4073902ac5904380dba849997ac080ac0"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft \\ref Psalm 110:1|PSA 110:1\\ref*\\f*",
+          "raw_sha256": "0f1918b7fb1d0b51e5c2891ee0c261130a8b1237005472539f3ec6fdedf33635"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Literally \\fqa Are they not all\\f*",
+          "raw_sha256": "38a49047d0aa4f45a7cbc6f4b6abea1aa325b744fafd2429f14cf0e7608fa131"
+        }
+      ]
+    },
+    "2": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft Or \\fqa a little while lower\\ft ; also in verse 9\\f*",
+          "raw_sha256": "69aefa2da85405b381cf6d134bbe58567feca1af401cef8a9ae1dca0dedc0fec"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft WH and TR include \\fqa and set him over the works of Your hands\\ft .\\f*",
+          "raw_sha256": "0916e4652dfae2c572f96ad1e4faee3d7d775378a4ed25714c83fc3200e1af44"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 2:8 \\ft \\ref Psalm 8:4–6|PSA 8:4-6\\ref* (see also LXX)\\f*",
+          "raw_sha256": "b5e0dcb0d749ba88c9b882f9a1b05d0645c9c4f04e4346572d61e8dbfdc417f2"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\ft Or \\fqa pioneer \\ft or \\fqa founder\\f*",
+          "raw_sha256": "714cc0c3452d7d354249f1be473879c37994366203c250fb60f127ac43a1453c"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 2:12 \\ft \\ref Psalm 22:22|PSA 22:22\\ref* (see also LXX)\\f*",
+          "raw_sha256": "60606e8e90495ac604f520047f8e36435bc2d9923292ff352580172fe7d579fd"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 2:13 \\ft \\ref Isaiah 8:17|ISA 8:17\\ref*\\f*",
+          "raw_sha256": "e4357daa5913e301081907d53ae62a0824af4ef298172ad8e39dbfe9899031e2"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:13 \\ft \\ref Isaiah 8:18|ISA 8:18\\ref*\\f*",
+          "raw_sha256": "521dfd15c2e43e536e1116d494e150a0064afe9a45ba79e96482b8be0710b980"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\ft Or \\fqa to make propitiation\\f*",
+          "raw_sha256": "8edb167bc718e4f648c118b35d273f396e4b74f098cc891354f53e8477bae795"
+        }
+      ]
+    },
+    "3": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\ft Literally \\fqa just as Moses in all His house\\ft ; SBL \\fqa just as Moses in His house\\f*",
+          "raw_sha256": "6fb472edb6322b4b9d37f0c051829c536ab24ed588c59966dce12c5720d59e72"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\ft \\ref Numbers 12:7|NUM 12:7\\ref*\\f*",
+          "raw_sha256": "325d22b6facfdf3db6038eb334acf229af18bb41c8a6fb50d4b06e9085208d80"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft NE, WH, BYZ, and TR include \\fqa to the end\\ft .\\f*",
+          "raw_sha256": "0ef85a349d87fa0a5ce934752e37c20db8da357ea46006d8380148f36d8ae99b"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft \\ref Psalm 95:7–11|PSA 95:7-11\\ref* (see also LXX)\\f*",
+          "raw_sha256": "0d8a63b2ad37ddc37eed3626924796c6617a5fe9b7a2f28af58fe79b71975f9e"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\ft \\ref Psalm 95:7–8|PSA 95:7-8\\ref*\\f*",
+          "raw_sha256": "0c0ba1773db263a66bd74258566acc974c90a385e4d1da367116a96cd55f97ec"
+        }
+      ]
+    },
+    "4": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 4:2 \\ft Literally \\fqa not having been united in the faith of those who heard\\f*",
+          "raw_sha256": "d98637fa70405c697862d61596a8accb72bad25071e01a640d64ed4971d3ed05"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft \\ref Psalm 95:11|PSA 95:11\\ref*; also in verse 5\\f*",
+          "raw_sha256": "2bf675b58087d247923d13b683f6406456d9e250fce8b6b0196d43d59eca2d26"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 4:4 \\ft \\ref Genesis 2:2|GEN 2:2\\ref*\\f*",
+          "raw_sha256": "3a45767c8146ad5826a6a34012d1ad87acf0294191d3254ed17d208b5c5c8d41"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft \\ref Psalm 95:7–8|PSA 95:7-8\\ref*\\f*",
+          "raw_sha256": "08624147126b121c8a6d179bd007352d185d1872c428ae72575c1c63dec4ff3a"
+        }
+      ]
+    },
+    "5": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 5:5 \\ft \\ref Psalm 2:7|PSA 2:7\\ref*; literally \\fqa today I have begotten You\\f*",
+          "raw_sha256": "64e710c9d409a753f1dcdaf46d6f7f9ecb9a8bd89aa4d4c47d69901ffdc57a6f"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 5:6 \\ft \\ref Psalm 110:4|PSA 110:4\\ref*\\f*",
+          "raw_sha256": "34dac51d7cfe2a8c3bd23865915831a4952fe1d27462d596ede16e8196e7c8a5"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 5:12 \\ft Or \\fqa of the oracles of God\\f*",
+          "raw_sha256": "236d2a6490129f804f736c1fe2ceffec7e67dc5d6c66fbf3cabdd2e339f693af"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\ft Or \\fqa from acts that lead to death\\f*",
+          "raw_sha256": "f5d60a08d8fa0af93d9e3aa1d0ceace30b2da43b1c817b04ccc175f5dc43177b"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 6:2 \\ft Or \\fqa cleansing rites\\f*",
+          "raw_sha256": "d244f61c747cf550376fa050a61a3a317b7d27df183e939d9812ee7aefac4e97"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 6:14 \\ft \\ref Genesis 22:17|GEN 22:17\\ref*\\f*",
+          "raw_sha256": "5d5cfee68260bdb7c2e0d2ab082e233a953da91770e93907c89b6c865ff1db6b"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\ft \\ref Genesis 14:18|GEN 14:18\\ref*\\f*",
+          "raw_sha256": "247b7a712afc17f17c815a6c2795244be02f68a2d0e458edfd428de9022dd867"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 7:17 \\ft \\ref Psalm 110:4|PSA 110:4\\ref*\\f*",
+          "raw_sha256": "b3e657f91d69989f040bd66209ef5b42332ce5ff0940c926fdb4bd28c396c4ce"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 7:21 \\ft \\ref Psalm 110:4|PSA 110:4\\ref*\\f*",
+          "raw_sha256": "3da07d7973551363f013b8ea845384dd73eb4ff2c6c9b9dc2f79f237c20b8311"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 7:25 \\ft Or \\fqa forever\\f*",
+          "raw_sha256": "da68969b459e42078050f470ba0c6c4a42bacd77d664787caa1d53e9798fc9d8"
+        }
+      ]
+    },
+    "8": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 8:5 \\ft \\ref Exodus 25:40|EXO 25:40\\ref*; see also Exodus 26:30.\\f*",
+          "raw_sha256": "965f7f00f3d6e3fc45ae0640ef54313783f73d5f77dcf8e63be2d4c594450195"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 8:12 \\ft \\ref Jeremiah 31:31–34|JER 31:31-34\\ref* (see also LXX)\\f*",
+          "raw_sha256": "7397808678aed7810e287d5788028ddd9084e53491a67641193b2079c875776e"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 8:13 \\ft Literally \\fqa In saying new\\ft ; here and in \\ref Hebrews 9:1|HEB 9:1\\ref* and 18, \\fqa covenant \\ft is included for clarity but is not contained in the Greek. A broader interpretation could also include \\fqa priesthood \\ft or \\fqa tabernacle\\ft .\\f*",
+          "raw_sha256": "d4d15eb8a693d6a6aa9393c47921c98ebdebf219f3cc2e763e0673f9c840f33d"
+        }
+      ]
+    },
+    "9": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 9:1 \\ft Literally \\fqa the first\\ft ; also in verse 18; see the footnote for \\ref Hebrews 8:13|HEB 8:13\\ref*.\\f*",
+          "raw_sha256": "33bda857e388000b8d36e97b893b7504a4f01d2947cc6eb3e4af1493b75eb193"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 9:2 \\ft Or \\fqa the Bread of the Presence\\f*",
+          "raw_sha256": "a6d985311a400531c63c3896b8a8b0cff53ccc95a29f757d634ea5e53158f722"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 9:3 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "f0090deaa34b05ba78a9f679ac558f549ba487ec34bd8ce349aa2cbe7ae1d6a2"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 9:5 \\ft Or \\fqa atonement cover\\f*",
+          "raw_sha256": "fa62945098e13935a6acc6c74f22f63e47156b1f22d4be8f8029c0539dd69851"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 9:8 \\ft Or \\fqa the Holy Place\\ft ; also in verses 12 and 25\\f*",
+          "raw_sha256": "357102c9d74a8cde5072280303352d9b81a6835a62757d5b27b45ee1857260f3"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 9:11 \\ft BYZ and TR \\fqa that are to come\\f*",
+          "raw_sha256": "2d088a87ccf764e5a2a367fbfc5eb919d7ee6df4fa7d882482a586c907fd039d"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 9:14 \\ft BYZ and TR \\fqa your\\f*",
+          "raw_sha256": "51cc8347606a6da8347ca15ea630291c6561cc425fe9e14f856046596b9ee0de"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 9:16 \\ft Greek \\fqa diathēkē \\ft is also translated as \\fqa covenant \\ft throughout this chapter.\\f*",
+          "raw_sha256": "5747a69d5159d644c88030ccd86da96e08ab15198ec3dd224bfd2b426e8f05bf"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 9:19 \\ft SBL does not include \\fqa and goats\\ft .\\f*",
+          "raw_sha256": "ef74f1ba0d5ad77a3b6b877c8c551f816d8628dbd255817a547a43209208e4c8"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 9:20 \\ft \\ref Exodus 24:8|EXO 24:8\\ref*\\f*",
+          "raw_sha256": "7bf7aa5087d4c39c099c1696bc568c7be39cf16efcfdcdc456328aee558648d9"
+        }
+      ]
+    },
+    "10": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 10:7 \\ft \\ref Psalm 40:6–8|PSA 40:6-8\\ref* (see also LXX)\\f*",
+          "raw_sha256": "5b55b5829b1addf3fc034f31c7f6b8a24b50e27fcf9ee6a865100914f7ca1dc5"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 10:16 \\ft \\ref Jeremiah 31:33|JER 31:33\\ref*\\f*",
+          "raw_sha256": "d42f4d35775b664eb87479c378c88ea62e6e68fb45d67651b9f899d79c01d2fd"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 10:17 \\ft \\ref Jeremiah 31:34|JER 31:34\\ref*\\f*",
+          "raw_sha256": "48d48229d6174e49ff7dfcc196f5f6481f7a66e7b63b72760d79fc4c85342fb6"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 10:19 \\ft Or \\fqa the Holy Place\\f*",
+          "raw_sha256": "3ea59d5be9a7520fa8fb74926187a29af447bf1bca0c2d1ef0bde9bb9d94ea27"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 10:20 \\ft Literally \\fqa through the veil that is His flesh\\f*",
+          "raw_sha256": "0abca60c496d7bce8ef954bee7b63467f4263c03d47ce691ae4bdb782f5df5ec"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 10:30 \\ft \\ref Deuteronomy 32:35|DEU 32:35\\ref* (see also LXX)\\f*",
+          "raw_sha256": "ffa72666256ab6977ddc0c736592340f56f8a4697b194b01bd4888ea5061afee"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:30 \\ft \\ref Deuteronomy 32:36|DEU 32:36\\ref*; Psalm 135:14\\f*",
+          "raw_sha256": "9246630f5e2afb666b49a83daaaa7ff522c9911cb8591eb8e466f11c953088d6"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 10:32 \\ft Or \\fqa Remember when you were first enlightened.\\f*",
+          "raw_sha256": "c33d1ac0488216ac660561621aeb174be8f9a3f831f5b5b0acf8ce3ff61b05e5"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 10:38 \\ft BYZ and TR \\fqa But the righteous will live by faith\\f*",
+          "raw_sha256": "876fbbea55168e076b919a155753098095238e057c8dec1f370e53ca5e5f6a45"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:38 \\ft \\ref Habakkuk 2:3–4|HAB 2:3-4\\ref* (see also LXX)\\f*",
+          "raw_sha256": "7d9a60d60cb8de533bbf6046598d0584787f249e0e010051e99db331c6719ad6"
+        }
+      ]
+    },
+    "11": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 11:5 \\ft Literally \\fqa transferred \\ft or \\fqa translated\\f*",
+          "raw_sha256": "8f92bb211596d3090282c0d4535e045f5bbf77f898f24a4fc7f580b2584454ac"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:5 \\ft \\ref Genesis 5:24|GEN 5:24\\ref* (see also LXX)\\f*",
+          "raw_sha256": "7c50421b6135ad0a249db5f9a182aecc74df0957543e532f2e6b71a3ccb35dd8"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 11:17 \\ft Or \\fqa only begotten son \\ft or \\fqa unique son\\f*",
+          "raw_sha256": "08faa170ebd1f0039b98709a628cf4d05ba9af77f789cfbc57eca52018ae4ae8"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 11:18 \\ft \\ref Genesis 21:12|GEN 21:12\\ref*\\f*",
+          "raw_sha256": "3906022ddd48de514df537bf2434c255187b5e0a9f35f60cf4cddd4a1c4a7061"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 11:29 \\ft Literally \\fqa made an attempt\\f*",
+          "raw_sha256": "f2db09dc66d7d28ff13c08fda6813b23cdb0f1cbe686f053d4c3fe9b8cd065b2"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 11:37 \\ft NE, WH, BYZ, and TR include \\fqa they were put to the test,\\f*",
+          "raw_sha256": "8e796a694c52890302829173c74aa2b2bacdbdee3c4e74a248b856ad4e117e45"
+        }
+      ]
+    },
+    "12": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 12:2 \\ft Or \\fqa pioneer \\ft or \\fqa founder\\f*",
+          "raw_sha256": "37ec33fa2ba61aabc56201b69d3f1aa3c0530c3710f41d5122afee40df3d8393"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 12:6 \\ft Literally \\fqa and He flogs every son He receives\\ft ; \\ref Proverbs 3:11–12|PRO 3:11-12\\ref* (see also LXX)\\f*",
+          "raw_sha256": "4a70de069166f831891585a43f192204634afc17ff63237e2699cf9c4c3a8966"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 12:11 \\ft Or \\fqa it yields the peaceful fruit of righteousness\\f*",
+          "raw_sha256": "a90b6e19ee2eb9be99c495e4415196157b30f698bd0821ab9c8b9cb1f4e89fe8"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 12:12 \\ft \\ref Isaiah 35:3|ISA 35:3\\ref*\\f*",
+          "raw_sha256": "fc98ee1e49d611402c362bb083e81a5bf96c240caa9cf1ab57502349d1e2fd4f"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 12:13 \\ft \\ref Proverbs 4:26|PRO 4:26\\ref* (see also LXX)\\f*",
+          "raw_sha256": "dd17d9a740918aae8fe16eb38ea1793aecf252ba30dea3569050db1e719cf658"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 12:15 \\ft See \\ref Deuteronomy 29:18|DEU 29:18\\ref*\\f*",
+          "raw_sha256": "735b66699354c2aeebd06cade8fbbd12e33d1e2cbd5706faefbdc0f04af99cb8"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 12:18 \\ft Literally \\fqa to what can be touched and\\f*",
+          "raw_sha256": "f9edc910cc96684a4a0036695eccb914087a9ec7c09ac4ec1481ba62e65e0ae8"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 12:20 \\ft \\ref Exodus 19:12–13|EXO 19:12-13\\ref*\\f*",
+          "raw_sha256": "6539a2cf1b32fb3d6683923b6e42623878eb8032433df699256de793104eb374"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 12:21 \\ft \\ref Deuteronomy 9:19|DEU 9:19\\ref*\\f*",
+          "raw_sha256": "a5d8ba4b1862049dbd4070cd70eaf7007a7fcb7c004f14037e9cb9f0fcf300f0"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 12:26 \\ft \\ref Haggai 2:6|HAG 2:6\\ref*\\f*",
+          "raw_sha256": "8ad81ac26b0a0a4e1b9cda170de86d8a80b8960a56ce12ed963c19d7cd89515f"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 12:29 \\ft \\ref Deuteronomy 4:24|DEU 4:24\\ref*\\f*",
+          "raw_sha256": "92c4bf744b7dcf71bdf576d94126a5fb97237e4a2da1776c5454fef21518e7c9"
+        }
+      ]
+    },
+    "13": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 13:5 \\ft \\ref Deuteronomy 31:6|DEU 31:6\\ref*, 8; Joshua 1:5\\f*",
+          "raw_sha256": "10f1ae7b89e987976dde916393ee42598472d3b85d6476692855ac09c1ca27dd"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 13:6 \\ft \\ref Psalm 118:6|PSA 118:6\\ref* (see also LXX)\\f*",
+          "raw_sha256": "d5bbbfb5845db94699d81ab87980dbfe777dace078c330132ca28ab4dedc4253"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 13:21 \\ft BYZ and TR \\fqa every good work\\f*",
+          "raw_sha256": "fa355eac1f46dce64661dd4ac8d1e3a0a3fc6b0e8e3a6104c0b1ebfdb6a997b7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:21 \\ft BYZ and TR \\fqa you\\f*",
+          "raw_sha256": "c8d6057a9a1cff824863df2e40202c22219de8122f1ae5bbb0e827e281f3d324"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 13:25 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "2592fa7b9402ac11edf3b0b1ed8bf9fe64b052bad9b671d4330fe021edb34725"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

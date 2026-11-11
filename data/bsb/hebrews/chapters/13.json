@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HEB",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "HEB.13.1",
+      "edition_verse_id": "BSB:HEB.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Continue in brotherly love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.2",
+      "edition_verse_id": "BSB:HEB.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Do not neglect to show hospitality to strangers, for by so doing some people have entertained angels without knowing it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.3",
+      "edition_verse_id": "BSB:HEB.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Remember those in prison as if you were bound with them, and those who are mistreated as if you were suffering with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.4",
+      "edition_verse_id": "BSB:HEB.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Marriage should be honored by all and the marriage bed kept undefiled, for God will judge the sexually immoral and adulterers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.5",
+      "edition_verse_id": "BSB:HEB.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.6",
+      "edition_verse_id": "BSB:HEB.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So we say with confidence: “The Lord is my helper; I will not be afraid. What can man do to me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.7",
+      "edition_verse_id": "BSB:HEB.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember your leaders who spoke the word of God to you. Consider the outcome of their way of life and imitate their faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.8",
+      "edition_verse_id": "BSB:HEB.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jesus Christ is the same yesterday and today and forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.9",
+      "edition_verse_id": "BSB:HEB.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do not be carried away by all kinds of strange teachings, for it is good for the heart to be strengthened by grace and not by foods of no value to those devoted to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.10",
+      "edition_verse_id": "BSB:HEB.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "We have an altar from which those who serve at the tabernacle have no right to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.11",
+      "edition_verse_id": "BSB:HEB.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Although the high priest brings the blood of animals into the Holy Place as a sacrifice for sin, the bodies are burned outside the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.12",
+      "edition_verse_id": "BSB:HEB.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And so Jesus also suffered outside the city gate, to sanctify the people by His own blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.13",
+      "edition_verse_id": "BSB:HEB.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore let us go to Him outside the camp, bearing the disgrace He bore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.14",
+      "edition_verse_id": "BSB:HEB.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For here we do not have a permanent city, but we are looking for the city that is to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.15",
+      "edition_verse_id": "BSB:HEB.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Through Jesus, therefore, let us continually offer to God a sacrifice of praise, the fruit of lips that confess His name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.16",
+      "edition_verse_id": "BSB:HEB.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And do not neglect to do good and to share with others, for with such sacrifices God is pleased.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.17",
+      "edition_verse_id": "BSB:HEB.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Obey your leaders and submit to them, for they watch over your souls as those who must give an account. To this end, allow them to lead with joy and not with grief, for that would be of no advantage to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.18",
+      "edition_verse_id": "BSB:HEB.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Pray for us; we are convinced that we have a clear conscience and desire to live honorably in every way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.19",
+      "edition_verse_id": "BSB:HEB.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I especially urge you to pray that I may be restored to you soon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.20",
+      "edition_verse_id": "BSB:HEB.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now may the God of peace, who through the blood of the eternal covenant brought back from the dead our Lord Jesus, that great Shepherd of the sheep,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.21",
+      "edition_verse_id": "BSB:HEB.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "equip you with every good thing to do His will. And may He accomplish in us what is pleasing in His sight through Jesus Christ, to whom be glory forever and ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.13.22",
+      "edition_verse_id": "BSB:HEB.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I urge you, brothers, to bear with my word of exhortation, for I have only written to you briefly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.23",
+      "edition_verse_id": "BSB:HEB.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Be aware that our brother Timothy has been released. If he arrives soon, I will come with him to see you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.24",
+      "edition_verse_id": "BSB:HEB.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Greet all your leaders and all the saints. Those from Italy send you greetings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.13.25",
+      "edition_verse_id": "BSB:HEB.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Grace be with all of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

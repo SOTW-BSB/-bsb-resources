@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "ISA.5.1",
+      "edition_verse_id": "BSB:ISA.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I will sing for my beloved a song of his vineyard: My beloved had a vineyard on a very fertile hill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.5.2",
+      "edition_verse_id": "BSB:ISA.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He dug it up and cleared the stones and planted the finest vines. He built a watchtower in the middle and dug out a winepress as well. He waited for the vineyard to yield good grapes, but the fruit it produced was sour!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.3",
+      "edition_verse_id": "BSB:ISA.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“And now, O dwellers of Jerusalem and men of Judah, I exhort you to judge between Me and My vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.4",
+      "edition_verse_id": "BSB:ISA.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "What more could have been done for My vineyard than I have done for it? Why, when I expected sweet grapes, did it bring forth sour fruit?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.5",
+      "edition_verse_id": "BSB:ISA.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now I will tell you what I am about to do to My vineyard: I will take away its hedge, and it will be consumed; I will tear down its wall, and it will be trampled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.6",
+      "edition_verse_id": "BSB:ISA.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will make it a wasteland, neither pruned nor cultivated, and thorns and briers will grow up. I will command the clouds that rain shall not fall on it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.7",
+      "edition_verse_id": "BSB:ISA.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the vineyard of the LORD of Hosts is the house of Israel, and the men of Judah are the plant of His delight. He looked for justice, but saw bloodshed; for righteousness, but heard a cry of distress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.8",
+      "edition_verse_id": "BSB:ISA.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Woe to you who add house to house and join field to field until no place is left and you live alone in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.9",
+      "edition_verse_id": "BSB:ISA.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I heard the LORD of Hosts declare: “Surely many houses will become desolate, great mansions left unoccupied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.10",
+      "edition_verse_id": "BSB:ISA.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For ten acres of vineyard will yield but a bath of wine, and a homer of seed only an ephah of grain.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.11",
+      "edition_verse_id": "BSB:ISA.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Woe to those who rise early in the morning in pursuit of strong drink, who linger into the evening, to be inflamed by wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.12",
+      "edition_verse_id": "BSB:ISA.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "At their feasts are the lyre and harp, tambourines and flutes and wine. They disregard the actions of the LORD and fail to see the work of His hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.13",
+      "edition_verse_id": "BSB:ISA.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore My people will go into exile for their lack of understanding; their dignitaries are starving and their masses are parched with thirst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.14",
+      "edition_verse_id": "BSB:ISA.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore Sheol enlarges its throat and opens wide its enormous jaws, and down go Zion’s nobles and masses, her revelers and carousers!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.15",
+      "edition_verse_id": "BSB:ISA.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So mankind will be brought low, and each man humbled; the arrogant will lower their eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.16",
+      "edition_verse_id": "BSB:ISA.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But the LORD of Hosts will be exalted by His justice, and the holy God will show Himself holy in righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.17",
+      "edition_verse_id": "BSB:ISA.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Lambs will graze as in their own pastures, and strangers will feed in the ruins of the wealthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.18",
+      "edition_verse_id": "BSB:ISA.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Woe to those who draw iniquity with cords of deceit and pull sin along with cart ropes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.19",
+      "edition_verse_id": "BSB:ISA.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "to those who say, “Let Him hurry and hasten His work so that we may see it! Let the plan of the Holy One of Israel come so that we may know it!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.20",
+      "edition_verse_id": "BSB:ISA.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Woe to those who call evil good and good evil, who turn darkness to light and light to darkness, who replace bitter with sweet and sweet with bitter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.21",
+      "edition_verse_id": "BSB:ISA.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Woe to those who are wise in their own eyes and clever in their own sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.22",
+      "edition_verse_id": "BSB:ISA.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Woe to those who are heroes in drinking wine and champions in mixing strong drink,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.23",
+      "edition_verse_id": "BSB:ISA.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "who acquit the guilty for a bribe and deprive the innocent of justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.24",
+      "edition_verse_id": "BSB:ISA.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Therefore, as a tongue of fire consumes the straw, and as dry grass shrivels in the flame, so their roots will decay and their blossoms will blow away like dust; for they have rejected the instruction of the LORD of Hosts and despised the word of the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.25",
+      "edition_verse_id": "BSB:ISA.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Therefore the anger of the LORD burns against His people; His hand is raised against them to strike them down. The mountains quake, and the corpses lie like refuse in the streets. Despite all this, His anger is not turned away; His hand is still upraised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.26",
+      "edition_verse_id": "BSB:ISA.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He lifts a banner for the distant nations and whistles for those at the ends of the earth. Behold— how speedily and swiftly they come!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.27",
+      "edition_verse_id": "BSB:ISA.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "None of them grows weary or stumbles; no one slumbers or sleeps. No belt is loose and no sandal strap is broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.28",
+      "edition_verse_id": "BSB:ISA.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Their arrows are sharpened, and all their bows are strung. The hooves of their horses are like flint; their chariot wheels are like a whirlwind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.29",
+      "edition_verse_id": "BSB:ISA.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Their roaring is like that of a lion; they roar like young lions. They growl and seize their prey; they carry it away, and no one can rescue it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.5.30",
+      "edition_verse_id": "BSB:ISA.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "In that day they will roar over it, like the roaring of the sea. If one looks over the land, he will see darkness and distress; even the light will be obscured by clouds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 45,
+  "verses": [
+    {
+      "id": "ISA.45.1",
+      "edition_verse_id": "BSB:ISA.45.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is what the LORD says to Cyrus His anointed, whose right hand I have grasped to subdue nations before him, to disarm kings, to open the doors before him, so that the gates will not be shut:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.45.2",
+      "edition_verse_id": "BSB:ISA.45.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“I will go before you and level the mountains; I will break down the gates of bronze and cut through the bars of iron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.3",
+      "edition_verse_id": "BSB:ISA.45.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will give you the treasures of darkness and the riches hidden in secret places, so that you may know that I am the LORD, the God of Israel, who calls you by name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.4",
+      "edition_verse_id": "BSB:ISA.45.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the sake of Jacob My servant and Israel My chosen one, I call you by name; I have given you a title of honor, though you have not known Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.5",
+      "edition_verse_id": "BSB:ISA.45.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I am the LORD, and there is no other; there is no God but Me. I will equip you for battle, though you have not known Me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.6",
+      "edition_verse_id": "BSB:ISA.45.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "so that all may know, from where the sun rises to where it sets, that there is none but Me; I am the LORD, and there is no other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.7",
+      "edition_verse_id": "BSB:ISA.45.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I form the light and create the darkness; I bring prosperity and create calamity. I, the LORD, do all these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.8",
+      "edition_verse_id": "BSB:ISA.45.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Drip down, O heavens, from above, and let the skies pour down righteousness. Let the earth open up that salvation may sprout and righteousness spring up with it; I, the LORD, have created it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.9",
+      "edition_verse_id": "BSB:ISA.45.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Woe to him who quarrels with his Maker— one clay pot among many. Does the clay ask the potter, ‘What are you making?’ Does your work say, ‘He has no hands’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.10",
+      "edition_verse_id": "BSB:ISA.45.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Woe to him who says to his father, ‘What have you begotten?’ or to his mother, ‘What have you brought forth?’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.11",
+      "edition_verse_id": "BSB:ISA.45.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Thus says the LORD, the Holy One of Israel, and its Maker: “Concerning things to come, do you question Me about My sons, or instruct Me in the work of My hands?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.12",
+      "edition_verse_id": "BSB:ISA.45.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "It is I who made the earth and created man upon it. It was My hands that stretched out the heavens, and I ordained all their host.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.13",
+      "edition_verse_id": "BSB:ISA.45.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I will raise up Cyrus in righteousness, and I will make all his ways straight. He will rebuild My city and set My exiles free, but not for payment or reward, says the LORD of Hosts.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.14",
+      "edition_verse_id": "BSB:ISA.45.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "This is what the LORD says: “The products of Egypt and the merchandise of Cush, along with the Sabeans, men of stature, will come over to you and will be yours; they will trudge behind you; they will come over in chains and bow down to you. They will confess to you: ‘God is indeed with you, and there is no other; there is no other God.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.45.15",
+      "edition_verse_id": "BSB:ISA.45.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Truly You are a God who hides Himself, O God of Israel, the Savior.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.16",
+      "edition_verse_id": "BSB:ISA.45.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They will all be put to shame and humiliated; the makers of idols will depart together in disgrace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.17",
+      "edition_verse_id": "BSB:ISA.45.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But Israel will be saved by the LORD with an everlasting salvation; you will not be put to shame or humiliated, to ages everlasting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.18",
+      "edition_verse_id": "BSB:ISA.45.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For thus says the LORD, who created the heavens— He is God; He formed the earth and fashioned it; He established it; He did not create it to be empty, but formed it to be inhabited: “I am the LORD, and there is no other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.19",
+      "edition_verse_id": "BSB:ISA.45.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I have not spoken in secret, from a place in a land of darkness. I did not say to the descendants of Jacob, ‘Seek Me in a wasteland.’ I, the LORD, speak the truth; I say what is right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.20",
+      "edition_verse_id": "BSB:ISA.45.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Come, gather together, and draw near, you fugitives from the nations. Ignorant are those who carry idols of wood and pray to a god that cannot save.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.21",
+      "edition_verse_id": "BSB:ISA.45.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Speak up and present your case— yes, let them take counsel together. Who foretold this long ago? Who announced it from ancient times? Was it not I, the LORD? There is no other God but Me, a righteous God and Savior; there is none but Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.22",
+      "edition_verse_id": "BSB:ISA.45.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Turn to Me and be saved, all the ends of the earth; for I am God, and there is no other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.23",
+      "edition_verse_id": "BSB:ISA.45.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "By Myself I have sworn; truth has gone out from My mouth, a word that will not be revoked: Every knee will bow before Me, every tongue will swear allegiance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.24",
+      "edition_verse_id": "BSB:ISA.45.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Surely they will say of Me, ‘In the LORD alone are righteousness and strength.’” All who rage against Him will come to Him and be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.45.25",
+      "edition_verse_id": "BSB:ISA.45.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In the LORD all descendants of Israel will be justified and will exult.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

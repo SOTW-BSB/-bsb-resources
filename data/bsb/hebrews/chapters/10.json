@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HEB",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "HEB.10.1",
+      "edition_verse_id": "BSB:HEB.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.2",
+      "edition_verse_id": "BSB:HEB.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.3",
+      "edition_verse_id": "BSB:HEB.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Instead, those sacrifices are an annual reminder of sins,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.4",
+      "edition_verse_id": "BSB:HEB.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "because it is impossible for the blood of bulls and goats to take away sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.5",
+      "edition_verse_id": "BSB:HEB.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore, when Christ came into the world, He said: “Sacrifice and offering You did not desire, but a body You prepared for Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.6",
+      "edition_verse_id": "BSB:HEB.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In burnt offerings and sin offerings You took no delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.7",
+      "edition_verse_id": "BSB:HEB.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then I said, ‘Here I am, it is written about Me in the scroll: I have come to do Your will, O God.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.8",
+      "edition_verse_id": "BSB:HEB.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In the passage above He says, “Sacrifices and offerings, burnt offerings and sin offerings You did not desire, nor did You delight in them” (although they are offered according to the law).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.9",
+      "edition_verse_id": "BSB:HEB.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then He adds, “Here I am, I have come to do Your will.” He takes away the first to establish the second.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.10",
+      "edition_verse_id": "BSB:HEB.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And by that will, we have been sanctified through the sacrifice of the body of Jesus Christ once for all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.11",
+      "edition_verse_id": "BSB:HEB.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Day after day every priest stands to minister and to offer again and again the same sacrifices, which can never take away sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.12",
+      "edition_verse_id": "BSB:HEB.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But when this Priest had offered for all time one sacrifice for sins, He sat down at the right hand of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.13",
+      "edition_verse_id": "BSB:HEB.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Since that time, He waits for His enemies to be made a footstool for His feet,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.14",
+      "edition_verse_id": "BSB:HEB.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "because by a single offering He has made perfect for all time those who are being sanctified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.15",
+      "edition_verse_id": "BSB:HEB.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The Holy Spirit also testifies to us about this. First He says:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.16",
+      "edition_verse_id": "BSB:HEB.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“This is the covenant I will make with them after those days, declares the Lord. I will put My laws in their hearts and inscribe them on their minds.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.17",
+      "edition_verse_id": "BSB:HEB.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then He adds: “Their sins and lawless acts I will remember no more.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.18",
+      "edition_verse_id": "BSB:HEB.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And where these have been forgiven, an offering for sin is no longer needed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.19",
+      "edition_verse_id": "BSB:HEB.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore, brothers, since we have confidence to enter the Most Holy Place by the blood of Jesus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.20",
+      "edition_verse_id": "BSB:HEB.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "by the new and living way opened for us through the curtain of His body,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.21",
+      "edition_verse_id": "BSB:HEB.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and since we have a great priest over the house of God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.22",
+      "edition_verse_id": "BSB:HEB.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled to cleanse us from a guilty conscience and our bodies washed with pure water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.23",
+      "edition_verse_id": "BSB:HEB.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Let us hold resolutely to the hope we profess, for He who promised is faithful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.24",
+      "edition_verse_id": "BSB:HEB.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And let us consider how to spur one another on to love and good deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.25",
+      "edition_verse_id": "BSB:HEB.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Let us not neglect meeting together, as some have made a habit, but let us encourage one another, and all the more as you see the Day approaching.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.26",
+      "edition_verse_id": "BSB:HEB.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If we deliberately go on sinning after we have received the knowledge of the truth, no further sacrifice for sins remains,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.27",
+      "edition_verse_id": "BSB:HEB.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "but only a fearful expectation of judgment and of raging fire that will consume all adversaries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.28",
+      "edition_verse_id": "BSB:HEB.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.29",
+      "edition_verse_id": "BSB:HEB.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "How much more severely do you think one deserves to be punished who has trampled on the Son of God, profaned the blood of the covenant that sanctified him, and insulted the Spirit of grace?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.30",
+      "edition_verse_id": "BSB:HEB.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For we know Him who said, “Vengeance is Mine; I will repay,” and again, “The Lord will judge His people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.31",
+      "edition_verse_id": "BSB:HEB.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "It is a fearful thing to fall into the hands of the living God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.32",
+      "edition_verse_id": "BSB:HEB.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Remember the early days that you were in the light. In those days, you endured a great conflict in the face of suffering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.33",
+      "edition_verse_id": "BSB:HEB.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Sometimes you were publicly exposed to ridicule and persecution; at other times you were partners with those who were so treated.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.34",
+      "edition_verse_id": "BSB:HEB.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "You sympathized with those in prison and joyfully accepted the confiscation of your property, knowing that you yourselves had a better and permanent possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.35",
+      "edition_verse_id": "BSB:HEB.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "So do not throw away your confidence; it holds a great reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.10.36",
+      "edition_verse_id": "BSB:HEB.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "You need to persevere, so that after you have done the will of God, you will receive what He has promised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.37",
+      "edition_verse_id": "BSB:HEB.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For, “In just a little while, He who is coming will come and will not delay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.38",
+      "edition_verse_id": "BSB:HEB.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But My righteous one will live by faith; and if he shrinks back, I will take no pleasure in him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.10.39",
+      "edition_verse_id": "BSB:HEB.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "edition_id": "BSB",
+  "book_code": "HAG",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\fqa Jehozadak \\ft is a variant of \\fqa Jozadak\\ft ; also in verses 12 and 14; see \\ref Ezra 3:2|EZR 3:2\\ref*.\\f*",
+          "raw_sha256": "c0303d3aa95b8e0c73300d91677e81c8ff86f5d228733985a5d1ebf0e540cea0"
+        }
+      ]
+    },
+    "2": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 2:2 \\fqa Jehozadak \\ft is a variant of \\fqa Jozadak\\ft ; also in verse 4; see \\ref Ezra 3:2|EZR 3:2\\ref*.\\f*",
+          "raw_sha256": "d4cff6a64db16a93db1efc80c1b515eb9e546eea7522d438fa2a0e7b43702bbc"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Cited in \\ref Hebrews 12:26|HEB 12:26\\ref*\\f*",
+          "raw_sha256": "7130f64a754b16575dd5980001846eb1d6b855caf446e4ce52897932f9efe39d"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 2:15 \\ft Or \\fqa backward\\ft ; also in verse 18\\f*",
+          "raw_sha256": "b611fe466a0ab6f06d9ce4897aedd82e04400d1ce72af82bac4894abb0c1679f"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Literally \\fqa a heap of twenty\\f*",
+          "raw_sha256": "b4460465ee9b050da152bf424f6fd3c28dc5f564be34a948a52ffcb84f509618"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Literally \\fqa to draw out fifty from the winepress\\f*",
+          "raw_sha256": "b877f29b3622cb81d753b21653535b8b20fa0158dcc2eecd1431ca9202ebd2e8"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

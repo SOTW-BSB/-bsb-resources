@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "ISA.27.1",
+      "edition_verse_id": "BSB:ISA.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In that day the LORD will take His sharp, great, and mighty sword, and bring judgment on Leviathan the fleeing serpent— Leviathan the coiling serpent— and He will slay the dragon of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.27.2",
+      "edition_verse_id": "BSB:ISA.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In that day: “Sing about a fruitful vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.3",
+      "edition_verse_id": "BSB:ISA.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I, the LORD, am its keeper; I water it continually. I guard it night and day so no one can disturb it;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.4",
+      "edition_verse_id": "BSB:ISA.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I am not angry. If only thorns and briers confronted Me, I would march and trample them, I would burn them to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.5",
+      "edition_verse_id": "BSB:ISA.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Or let them lay claim to My protection; let them make peace with Me— yes, let them make peace with Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.6",
+      "edition_verse_id": "BSB:ISA.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In the days to come, Jacob will take root. Israel will bud and blossom and fill the whole world with fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.7",
+      "edition_verse_id": "BSB:ISA.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Has the LORD struck Israel as He struck her oppressors? Was she killed like those who slayed her?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.8",
+      "edition_verse_id": "BSB:ISA.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "By warfare and exile You contended with her and removed her with a fierce wind, as on the day the east wind blows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.9",
+      "edition_verse_id": "BSB:ISA.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Therefore Jacob’s guilt will be atoned for, and the full fruit of the removal of his sin will be this: When he makes all the altar stones like crushed bits of chalk, no Asherah poles or incense altars will remain standing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.10",
+      "edition_verse_id": "BSB:ISA.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the fortified city lies deserted — a homestead abandoned, a wilderness forsaken. There the calves graze, and there they lie down; they strip its branches bare.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.11",
+      "edition_verse_id": "BSB:ISA.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When its limbs are dry, they are broken off. Women come and use them for kindling; for this is a people without understanding. Therefore their Maker has no compassion on them, and their Creator shows them no favor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.27.12",
+      "edition_verse_id": "BSB:ISA.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "In that day the LORD will thresh from the flowing Euphrates to the Wadi of Egypt, and you, O Israelites, will be gathered one by one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.27.13",
+      "edition_verse_id": "BSB:ISA.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And in that day a great ram’s horn will sound, and those who were perishing in Assyria will come forth with those who were exiles in Egypt. And they will worship the LORD on the holy mountain in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HEB",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "HEB.5.1",
+      "edition_verse_id": "BSB:HEB.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Every high priest is appointed from among men to represent them in matters relating to God, to offer gifts and sacrifices for sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.5.2",
+      "edition_verse_id": "BSB:HEB.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He is able to deal gently with those who are ignorant and misguided, since he himself is subject to weakness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.5.3",
+      "edition_verse_id": "BSB:HEB.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "That is why he is obligated to offer sacrifices for his own sins, as well as for the sins of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.5.4",
+      "edition_verse_id": "BSB:HEB.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "No one takes this honor upon himself; he must be called by God, just as Aaron was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.5.5",
+      "edition_verse_id": "BSB:HEB.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So also Christ did not take upon Himself the glory of becoming a high priest, but He was called by the One who said to Him: “You are My Son; today I have become Your Father.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.5.6",
+      "edition_verse_id": "BSB:HEB.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And in another passage God says: “You are a priest forever in the order of Melchizedek.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.5.7",
+      "edition_verse_id": "BSB:HEB.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "During the days of Jesus’ earthly life, He offered up prayers and petitions with loud cries and tears to the One who could save Him from death, and He was heard because of His reverence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.5.8",
+      "edition_verse_id": "BSB:HEB.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Although He was a Son, He learned obedience from what He suffered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.5.9",
+      "edition_verse_id": "BSB:HEB.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And having been made perfect, He became the source of eternal salvation to all who obey Him",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.5.10",
+      "edition_verse_id": "BSB:HEB.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and was designated by God as high priest in the order of Melchizedek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.5.11",
+      "edition_verse_id": "BSB:HEB.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "We have much to say about this, but it is hard to explain, because you are dull of hearing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.5.12",
+      "edition_verse_id": "BSB:HEB.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Although by this time you ought to be teachers, you need someone to reteach you the basic principles of God’s word. You need milk, not solid food!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.5.13",
+      "edition_verse_id": "BSB:HEB.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For everyone who lives on milk is still an infant, inexperienced in the message of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.5.14",
+      "edition_verse_id": "BSB:HEB.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But solid food is for the mature, who by constant use have trained their senses to distinguish good from evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

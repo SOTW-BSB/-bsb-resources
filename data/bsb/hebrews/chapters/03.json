@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HEB",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "HEB.3.1",
+      "edition_verse_id": "BSB:HEB.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Therefore, holy brothers, who share in the heavenly calling, set your focus on Jesus, the apostle and high priest whom we confess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.3.2",
+      "edition_verse_id": "BSB:HEB.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He was faithful to the One who appointed Him, just as Moses was faithful in all God’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.3",
+      "edition_verse_id": "BSB:HEB.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Jesus has been counted worthy of greater glory than Moses, just as the builder of a house has greater honor than the house itself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.3.4",
+      "edition_verse_id": "BSB:HEB.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And every house is built by someone, but God is the builder of everything.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.5",
+      "edition_verse_id": "BSB:HEB.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now Moses was faithful as a servant in all God’s house, testifying to what would be spoken later.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.3.6",
+      "edition_verse_id": "BSB:HEB.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But Christ is faithful as the Son over God’s house. And we are His house, if we hold firmly to our confidence and the hope of which we boast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.7",
+      "edition_verse_id": "BSB:HEB.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore, as the Holy Spirit says: “Today, if you hear His voice,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.3.8",
+      "edition_verse_id": "BSB:HEB.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "do not harden your hearts, as you did in the rebellion, in the day of testing in the wilderness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.9",
+      "edition_verse_id": "BSB:HEB.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "where your fathers tested and tried Me, and for forty years saw My works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.10",
+      "edition_verse_id": "BSB:HEB.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore I was angry with that generation, and I said, ‘Their hearts are always going astray, and they have not known My ways.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.11",
+      "edition_verse_id": "BSB:HEB.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So I swore on oath in My anger, ‘They shall never enter My rest.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.12",
+      "edition_verse_id": "BSB:HEB.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "See to it, brothers, that none of you has a wicked heart of unbelief that turns away from the living God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.3.13",
+      "edition_verse_id": "BSB:HEB.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.14",
+      "edition_verse_id": "BSB:HEB.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "We have come to share in Christ if we hold firmly to the end the assurance we had at first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.3.15",
+      "edition_verse_id": "BSB:HEB.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.16",
+      "edition_verse_id": "BSB:HEB.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For who were the ones who heard and rebelled? Were they not all those Moses led out of Egypt?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.3.17",
+      "edition_verse_id": "BSB:HEB.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.18",
+      "edition_verse_id": "BSB:HEB.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And to whom did He swear that they would never enter His rest? Was it not to those who disobeyed?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.3.19",
+      "edition_verse_id": "BSB:HEB.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So we see that it was because of their unbelief that they were unable to enter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

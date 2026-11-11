@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "ISA.32.1",
+      "edition_verse_id": "BSB:ISA.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Behold, a king will reign in righteousness, and princes will rule with justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.32.2",
+      "edition_verse_id": "BSB:ISA.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Each will be like a shelter from the wind, a refuge from the storm, like streams of water in a dry land, like the shadow of a great rock in an arid land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.3",
+      "edition_verse_id": "BSB:ISA.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then the eyes of those who see will no longer be closed, and the ears of those who hear will listen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.4",
+      "edition_verse_id": "BSB:ISA.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The mind of the rash will know and understand, and the stammering tongue will speak clearly and fluently.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.5",
+      "edition_verse_id": "BSB:ISA.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "No longer will a fool be called noble, nor a scoundrel be respected.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.6",
+      "edition_verse_id": "BSB:ISA.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For a fool speaks foolishness; his mind plots iniquity. He practices ungodliness and speaks falsely about the LORD; he leaves the hungry empty and deprives the thirsty of drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.7",
+      "edition_verse_id": "BSB:ISA.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The weapons of the scoundrel are destructive; he hatches plots to destroy the poor with lies, even when the plea of the needy is just.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.8",
+      "edition_verse_id": "BSB:ISA.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But a noble man makes honorable plans; he stands up for worthy causes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.9",
+      "edition_verse_id": "BSB:ISA.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Stand up, you complacent women; listen to me. Give ear to my word, you overconfident daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.10",
+      "edition_verse_id": "BSB:ISA.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In a little more than a year you will tremble, O secure ones. For the grape harvest will fail and the fruit harvest will not arrive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.11",
+      "edition_verse_id": "BSB:ISA.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Shudder, you ladies of leisure; tremble, you daughters of complacency. Strip yourselves bare and put sackcloth around your waists.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.12",
+      "edition_verse_id": "BSB:ISA.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Beat your breasts for the pleasant fields, for the fruitful vines,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.13",
+      "edition_verse_id": "BSB:ISA.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and for the land of my people, overgrown with thorns and briers — even for every house of merriment in this city of revelry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.14",
+      "edition_verse_id": "BSB:ISA.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the palace will be forsaken, the busy city abandoned. The hill and the watchtower will become caves forever — the delight of wild donkeys and a pasture for flocks —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.15",
+      "edition_verse_id": "BSB:ISA.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "until the Spirit is poured out upon us from on high. Then the desert will be an orchard, and the orchard will seem like a forest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.16",
+      "edition_verse_id": "BSB:ISA.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then justice will inhabit the wilderness, and righteousness will dwell in the fertile field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.17",
+      "edition_verse_id": "BSB:ISA.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The work of righteousness will be peace; the service of righteousness will be quiet confidence forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.18",
+      "edition_verse_id": "BSB:ISA.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then my people will dwell in a peaceful place, in safe and secure places of rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.19",
+      "edition_verse_id": "BSB:ISA.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But hail will level the forest, and the city will sink to the depths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.32.20",
+      "edition_verse_id": "BSB:ISA.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Blessed are those who sow beside abundant waters, who let the ox and donkey range freely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

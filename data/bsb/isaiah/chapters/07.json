@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "ISA.7.1",
+      "edition_verse_id": "BSB:ISA.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now in the days that Ahaz son of Jotham, the son of Uzziah, was king of Judah, Rezin king of Aram marched up to wage war against Jerusalem. He was accompanied by Pekah son of Remaliah the king of Israel, but he could not overpower the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.2",
+      "edition_verse_id": "BSB:ISA.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When it was reported to the house of David that Aram was in league with Ephraim, the hearts of Ahaz and his people trembled like trees in the forest shaken by the wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.3",
+      "edition_verse_id": "BSB:ISA.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then the LORD said to Isaiah, “Go out with your son Shear-jashub to meet Ahaz at the end of the aqueduct that feeds the upper pool, on the road to the Launderer’s Field,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.4",
+      "edition_verse_id": "BSB:ISA.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and say to him: Calm down and be quiet. Do not be afraid or disheartened over these two smoldering stubs of firewood— over the fierce anger of Rezin and Aram and of the son of Remaliah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.5",
+      "edition_verse_id": "BSB:ISA.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For Aram, along with Ephraim and the son of Remaliah, has plotted your ruin, saying:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.6",
+      "edition_verse_id": "BSB:ISA.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "‘Let us invade Judah, terrorize it, and divide it among ourselves. Then we can install the son of Tabeal over it as king.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.7",
+      "edition_verse_id": "BSB:ISA.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But this is what the Lord GOD says: ‘It will not arise; it will not happen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.8",
+      "edition_verse_id": "BSB:ISA.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the head of Aram is Damascus, and the head of Damascus is Rezin. Within sixty-five years Ephraim will be shattered as a people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.9",
+      "edition_verse_id": "BSB:ISA.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you do not stand firm in your faith, then you will not stand at all.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.10",
+      "edition_verse_id": "BSB:ISA.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Again the LORD spoke to Ahaz, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.11",
+      "edition_verse_id": "BSB:ISA.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“Ask for a sign from the LORD your God, whether from the depths of Sheol or the heights of heaven.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.12",
+      "edition_verse_id": "BSB:ISA.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But Ahaz replied, “I will not ask; I will not test the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.13",
+      "edition_verse_id": "BSB:ISA.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Isaiah said, “Hear now, O house of David! Is it not enough to try the patience of men? Will you try the patience of my God as well?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.14",
+      "edition_verse_id": "BSB:ISA.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore the Lord Himself will give you a sign: Behold, the virgin will be with child and give birth to a son, and will call Him Immanuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.15",
+      "edition_verse_id": "BSB:ISA.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "By the time He knows enough to reject evil and choose good, He will be eating curds and honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.16",
+      "edition_verse_id": "BSB:ISA.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For before the boy knows enough to reject evil and choose good, the land of the two kings you dread will be laid waste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.17",
+      "edition_verse_id": "BSB:ISA.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The LORD will bring on you and on your people and on the house of your father a time unlike any since the day Ephraim separated from Judah— He will bring the king of Assyria.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.18",
+      "edition_verse_id": "BSB:ISA.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "On that day the LORD will whistle to the flies at the farthest streams of the Nile and to the bees in the land of Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.19",
+      "edition_verse_id": "BSB:ISA.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And they will all come and settle in the steep ravines and clefts of the rocks, in all the thornbushes and watering holes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.20",
+      "edition_verse_id": "BSB:ISA.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "On that day the Lord will use a razor hired from beyond the Euphrates— the king of Assyria— to shave your head and the hair of your legs, and to remove your beard as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.21",
+      "edition_verse_id": "BSB:ISA.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "On that day a man will raise a young cow and two sheep,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.22",
+      "edition_verse_id": "BSB:ISA.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "and from the abundance of milk they give, he will eat curds; for all who remain in the land will eat curds and honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.23",
+      "edition_verse_id": "BSB:ISA.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And on that day, in every place that had a thousand vines worth a thousand shekels of silver, only briers and thorns will be found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.7.24",
+      "edition_verse_id": "BSB:ISA.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Men will go there with bow and arrow, for the land will be covered with briers and thorns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.7.25",
+      "edition_verse_id": "BSB:ISA.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For fear of the briers and thorns, you will no longer traverse the hills once tilled by the hoe; they will become places for oxen to graze and sheep to trample.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

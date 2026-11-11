@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "ISA.28.1",
+      "edition_verse_id": "BSB:ISA.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe to the majestic crown of Ephraim’s drunkards, to the fading flower of his glorious splendor, set on the summit above the fertile valley, the pride of those overcome by wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.28.2",
+      "edition_verse_id": "BSB:ISA.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Behold, the Lord has one who is strong and mighty. Like a hailstorm or destructive tempest, like a driving rain or flooding downpour, he will smash that crown to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.3",
+      "edition_verse_id": "BSB:ISA.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The majestic crown of Ephraim’s drunkards will be trampled underfoot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.4",
+      "edition_verse_id": "BSB:ISA.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The fading flower of his beautiful splendor, set on the summit above the fertile valley, will be like a ripe fig before the summer harvest: Whoever sees it will take it in his hand and swallow it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.5",
+      "edition_verse_id": "BSB:ISA.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "On that day the LORD of Hosts will be a crown of glory, a diadem of splendor to the remnant of His people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.6",
+      "edition_verse_id": "BSB:ISA.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "a spirit of justice to him who sits in judgment, and a strength to those who repel the onslaught at the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.7",
+      "edition_verse_id": "BSB:ISA.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "These also stagger from wine and stumble from strong drink: Priests and prophets reel from strong drink and are befuddled by wine. They stumble because of strong drink, muddled in their visions and stumbling in their judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.8",
+      "edition_verse_id": "BSB:ISA.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For all their tables are covered with vomit; there is not a place without filth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.9",
+      "edition_verse_id": "BSB:ISA.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Whom is He trying to teach? To whom is He explaining His message? To infants just weaned from milk? To babies removed from the breast?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.10",
+      "edition_verse_id": "BSB:ISA.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For they hear: “Order on order, order on order, line on line, line on line; a little here, a little there.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.11",
+      "edition_verse_id": "BSB:ISA.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Indeed, with mocking lips and foreign tongues, He will speak to this people",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.12",
+      "edition_verse_id": "BSB:ISA.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "to whom He has said: “This is the place of rest, let the weary rest; this is the place of repose.” But they would not listen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.13",
+      "edition_verse_id": "BSB:ISA.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the word of the LORD to them will become: “Order on order, order on order, line on line, line on line; a little here, a little there,” so that they will go stumbling backward and will be injured, ensnared, and captured.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.14",
+      "edition_verse_id": "BSB:ISA.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore hear the word of the LORD, O scoffers who rule this people in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.15",
+      "edition_verse_id": "BSB:ISA.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For you said, “We have made a covenant with death; we have fashioned an agreement with Sheol. When the overwhelming scourge passes through it will not touch us, because we have made lies our refuge and falsehood our hiding place.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.16",
+      "edition_verse_id": "BSB:ISA.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So this is what the Lord GOD says: “See, I lay a stone in Zion, a tested stone, a precious cornerstone, a sure foundation; the one who believes will never be shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.28.17",
+      "edition_verse_id": "BSB:ISA.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will make justice the measuring line and righteousness the level. Hail will sweep away your refuge of lies, and water will flood your hiding place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.18",
+      "edition_verse_id": "BSB:ISA.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Your covenant with death will be dissolved, and your agreement with Sheol will not stand. When the overwhelming scourge passes through, you will be trampled by it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.19",
+      "edition_verse_id": "BSB:ISA.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "As often as it passes through, it will carry you away; it will sweep through morning after morning, by day and by night.” The understanding of this message will bring sheer terror.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.20",
+      "edition_verse_id": "BSB:ISA.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Indeed, the bed is too short to stretch out on, and the blanket too small to wrap around you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.21",
+      "edition_verse_id": "BSB:ISA.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For the LORD will rise up as at Mount Perazim. He will rouse Himself as in the Valley of Gibeon, to do His work, His strange work, and to perform His task, His disturbing task.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.22",
+      "edition_verse_id": "BSB:ISA.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So now, do not mock, or your shackles will become heavier. Indeed, I have heard from the Lord GOD of Hosts a decree of destruction against the whole land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.23",
+      "edition_verse_id": "BSB:ISA.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Listen and hear my voice. Pay attention and hear what I say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.24",
+      "edition_verse_id": "BSB:ISA.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Does the plowman plow for planting every day? Does he continuously loosen and harrow the soil?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.25",
+      "edition_verse_id": "BSB:ISA.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When he has leveled its surface, does he not sow caraway and scatter cumin? He plants wheat in rows and barley in plots, and rye within its border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.26",
+      "edition_verse_id": "BSB:ISA.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For his God instructs and teaches him properly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.27",
+      "edition_verse_id": "BSB:ISA.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Surely caraway is not threshed with a sledge, and the wheel of a cart is not rolled over the cumin. But caraway is beaten out with a stick, and cumin with a rod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.28",
+      "edition_verse_id": "BSB:ISA.28.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Grain for bread must be ground, but it is not endlessly threshed. Though the wheels of the cart roll over it, the horses do not crush it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.28.29",
+      "edition_verse_id": "BSB:ISA.28.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This also comes from the LORD of Hosts, who is wonderful in counsel and excellent in wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

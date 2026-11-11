@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "ISA.42.1",
+      "edition_verse_id": "BSB:ISA.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Here is My Servant, whom I uphold, My Chosen One, in whom My soul delights. I will put My Spirit on Him, and He will bring justice to the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.42.2",
+      "edition_verse_id": "BSB:ISA.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He will not cry out or raise His voice, nor make His voice heard in the streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.3",
+      "edition_verse_id": "BSB:ISA.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A bruised reed He will not break and a smoldering wick He will not extinguish; He will faithfully bring forth justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.4",
+      "edition_verse_id": "BSB:ISA.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He will not grow weak or discouraged before He has established justice on the earth. In His law the islands will put their hope.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.5",
+      "edition_verse_id": "BSB:ISA.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "This is what God the LORD says— He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.6",
+      "edition_verse_id": "BSB:ISA.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“I, the LORD, have called you for a righteous purpose, and I will take hold of your hand. I will keep you and appoint you to be a covenant for the people and a light to the nations,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.7",
+      "edition_verse_id": "BSB:ISA.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "to open the eyes of the blind, to bring prisoners out of the dungeon and those sitting in darkness out from the prison house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.8",
+      "edition_verse_id": "BSB:ISA.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I am the LORD; that is My name! I will not yield My glory to another or My praise to idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.9",
+      "edition_verse_id": "BSB:ISA.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Behold, the former things have happened, and now I declare new things. Before they spring forth I proclaim them to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.10",
+      "edition_verse_id": "BSB:ISA.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Sing to the LORD a new song— His praise from the ends of the earth— you who go down to the sea, and all that is in it, you islands, and all who dwell in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.11",
+      "edition_verse_id": "BSB:ISA.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let the desert and its cities raise their voices; let the villages of Kedar cry aloud. Let the people of Sela sing for joy; let them cry out from the mountaintops.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.12",
+      "edition_verse_id": "BSB:ISA.42.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let them give glory to the LORD and declare His praise in the islands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.13",
+      "edition_verse_id": "BSB:ISA.42.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The LORD goes forth like a mighty one; He stirs up His zeal like a warrior. He shouts; yes, He roars in triumph over His enemies:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.14",
+      "edition_verse_id": "BSB:ISA.42.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“I have kept silent from ages past; I have remained quiet and restrained. But now I will groan like a woman in labor; I will at once gasp and pant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.15",
+      "edition_verse_id": "BSB:ISA.42.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will lay waste the mountains and hills and dry up all their vegetation. I will turn the rivers into dry land and drain the marshes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.16",
+      "edition_verse_id": "BSB:ISA.42.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I will lead the blind by a way they did not know; I will guide them on unfamiliar paths. I will turn darkness into light before them and rough places into level ground. These things I will do for them, and I will not forsake them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.17",
+      "edition_verse_id": "BSB:ISA.42.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But those who trust in idols and say to molten images, ‘You are our gods!’ will be turned back in utter shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.18",
+      "edition_verse_id": "BSB:ISA.42.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Listen, you deaf ones; look, you blind ones, that you may see!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.19",
+      "edition_verse_id": "BSB:ISA.42.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Who is blind but My servant, or deaf like the messenger I am sending? Who is blind like My covenant partner, or blind like the servant of the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.20",
+      "edition_verse_id": "BSB:ISA.42.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Though seeing many things, you do not keep watch. Though your ears are open, you do not hear.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.21",
+      "edition_verse_id": "BSB:ISA.42.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The LORD was pleased, for the sake of His righteousness, to magnify His law and make it glorious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.22",
+      "edition_verse_id": "BSB:ISA.42.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But this is a people plundered and looted, all trapped in caves or imprisoned in dungeons. They have become plunder with no one to rescue them, and loot with no one to say, “Send them back!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.23",
+      "edition_verse_id": "BSB:ISA.42.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Who among you will pay attention to this? Who will listen and obey hereafter?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.24",
+      "edition_verse_id": "BSB:ISA.42.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Who gave Jacob up for spoil, and Israel to the plunderers? Was it not the LORD, against whom we have sinned? They were unwilling to walk in His ways, and they would not obey His law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.42.25",
+      "edition_verse_id": "BSB:ISA.42.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So He poured out on them His furious anger and the fierceness of battle. It enveloped them in flames, but they did not understand; it consumed them, but they did not take it to heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

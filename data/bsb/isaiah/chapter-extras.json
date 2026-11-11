@@ -1,0 +1,391 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Judah’s Rebellion",
+        "\\s1 Meaningless Offerings",
+        "\\s1 The Corruption of Zion"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Mountain of the House of the LORD",
+        "\\s1 The Day of Reckoning"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Judgment on Jerusalem and Judah",
+        "\\s1 A Warning to the Daughters of Zion"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 A Remnant in Zion"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Song of the Vineyard",
+        "\\s1 Woes to the Wicked"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Isaiah’s Commission"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 A Message to Ahaz",
+        "\\s1 The Sign of Immanuel",
+        "\\s1 Judgment to Come"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Assyrian Invasion Prophesied",
+        "\\s1 A Call to Fear God",
+        "\\s1 Darkness and Light"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Unto Us a Child Is Born",
+        "\\s1 Judgment against Israel’s Pride",
+        "\\s1 Judgment against Israel’s Hypocrisy",
+        "\\s1 Judgment against Israel’s Unrepentance"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Woe to Tyrants",
+        "\\s1 Judgment on Assyria",
+        "\\s1 A Remnant Shall Return"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Root of Jesse"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Joyful Thanksgiving"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 The Burden against Babylon"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Restoration for Israel",
+        "\\s1 The Fall of the King of Babylon",
+        "\\s1 God’s Purpose against Assyria",
+        "\\s1 Philistia Will Be Destroyed"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 The Burden against Moab"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Moab’s Destruction"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 The Burden against Damascus"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 A Message to Cush"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 The Burden against Egypt",
+        "\\s1 A Blessing upon the Earth"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 A Sign against Egypt and Cush"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 Babylon Is Fallen",
+        "\\s1 The Burden against Edom",
+        "\\s1 The Burden against Arabia"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 The Valley of Vision",
+        "\\s1 A Message for Shebna"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 The Burden against Tyre"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 God’s Judgment on the Earth"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 Praise to the Victorious God"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 A Song of Salvation"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 The LORD’s Vineyard"
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 The Captivity of Ephraim",
+        "\\s1 A Cornerstone in Zion",
+        "\\s1 Listen and Hear"
+      ]
+    },
+    "29": {
+      "source_headings": [
+        "\\s1 Woe to David’s City",
+        "\\s1 Sanctification for the Godly"
+      ]
+    },
+    "30": {
+      "source_headings": [
+        "\\s1 The Worthless Treaty with Egypt",
+        "\\s1 God Will Be Gracious"
+      ]
+    },
+    "31": {
+      "source_headings": [
+        "\\s1 Woe to Those Who Rely on Egypt"
+      ]
+    },
+    "32": {
+      "source_headings": [
+        "\\s1 A Righteous King",
+        "\\s1 The Women of Jerusalem"
+      ]
+    },
+    "33": {
+      "source_headings": [
+        "\\s1 The LORD Is Exalted"
+      ]
+    },
+    "34": {
+      "source_headings": [
+        "\\s1 Judgment on the Nations",
+        "\\s1 Judgment on Edom"
+      ]
+    },
+    "35": {
+      "source_headings": [
+        "\\s1 The Glory of Zion"
+      ]
+    },
+    "36": {
+      "source_headings": [
+        "\\s1 Sennacherib Threatens Jerusalem"
+      ]
+    },
+    "37": {
+      "source_headings": [
+        "\\s1 Isaiah’s Message of Deliverance",
+        "\\s1 Sennacherib’s Blasphemous Letter",
+        "\\s1 Hezekiah’s Prayer",
+        "\\s1 Sennacherib’s Fall Prophesied",
+        "\\s1 Jerusalem Delivered from the Assyrians"
+      ]
+    },
+    "38": {
+      "source_headings": [
+        "\\s1 Hezekiah’s Illness and Recovery",
+        "\\s1 Hezekiah’s Song of Thanksgiving"
+      ]
+    },
+    "39": {
+      "source_headings": [
+        "\\s1 Hezekiah Shows His Treasures"
+      ]
+    },
+    "40": {
+      "source_headings": [
+        "\\s1 Prepare the Way for the LORD",
+        "\\s1 The Enduring Word",
+        "\\s1 Here Is Your God!"
+      ]
+    },
+    "41": {
+      "source_headings": [
+        "\\s1 God’s Help to Israel",
+        "\\s1 Meaningless Idols"
+      ]
+    },
+    "42": {
+      "source_headings": [
+        "\\s1 Here Is My Servant",
+        "\\s1 A New Song of Praise",
+        "\\s1 Israel Is Deaf and Blind"
+      ]
+    },
+    "43": {
+      "source_headings": [
+        "\\s1 Israel’s Only Savior",
+        "\\s1 A Way in the Wilderness",
+        "\\s1 Israel’s Unfaithfulness"
+      ]
+    },
+    "44": {
+      "source_headings": [
+        "\\s1 The LORD Has Chosen Israel",
+        "\\s1 Jerusalem to Be Restored"
+      ]
+    },
+    "45": {
+      "source_headings": [
+        "\\s1 God Calls Cyrus"
+      ]
+    },
+    "46": {
+      "source_headings": [
+        "\\s1 Babylon’s Idols"
+      ]
+    },
+    "47": {
+      "source_headings": [
+        "\\s1 The Humiliation of Babylon"
+      ]
+    },
+    "48": {
+      "source_headings": [
+        "\\s1 Israel’s Stubbornness",
+        "\\s1 Deliverance Promised to Israel"
+      ]
+    },
+    "49": {
+      "source_headings": [
+        "\\s1 The Servant and Light to the Gentiles"
+      ]
+    },
+    "50": {
+      "source_headings": [
+        "\\s1 Israel’s Sin",
+        "\\s1 The Servant’s Obedience"
+      ]
+    },
+    "51": {
+      "source_headings": [
+        "\\s1 Salvation for Zion",
+        "\\s1 God’s Fury Removed"
+      ]
+    },
+    "52": {
+      "source_headings": [
+        "\\s1 Deliverance for Jerusalem",
+        "\\s1 The Servant Exalted"
+      ]
+    },
+    "53": {
+      "source_headings": [
+        "\\s1 The Suffering Servant",
+        "\\s1 A Grave Assigned"
+      ]
+    },
+    "54": {
+      "source_headings": [
+        "\\s1 Future Blessings for Zion"
+      ]
+    },
+    "55": {
+      "source_headings": [
+        "\\s1 Invitation to the Needy"
+      ]
+    },
+    "56": {
+      "source_headings": [
+        "\\s1 Salvation for Foreigners",
+        "\\s1 Israel’s Sinful Leaders"
+      ]
+    },
+    "57": {
+      "source_headings": [
+        "\\s1 The Blessed Death of the Righteous",
+        "\\s1 God Condemns Idolatry",
+        "\\s1 Healing for the Repentant"
+      ]
+    },
+    "58": {
+      "source_headings": [
+        "\\s1 True Fasts and Sabbaths"
+      ]
+    },
+    "59": {
+      "source_headings": [
+        "\\s1 Sin Separates Us from God",
+        "\\s1 The Covenant of the Redeemer"
+      ]
+    },
+    "60": {
+      "source_headings": [
+        "\\s1 Future Glory for Zion"
+      ]
+    },
+    "61": {
+      "source_headings": [
+        "\\s1 The Year of the LORD’s Favor"
+      ]
+    },
+    "62": {
+      "source_headings": [
+        "\\s1 Zion’s Salvation and New Name"
+      ]
+    },
+    "63": {
+      "source_headings": [
+        "\\s1 God’s Vengeance on the Nations",
+        "\\s1 God’s Mercies Recalled",
+        "\\s1 A Prayer for Mercy"
+      ]
+    },
+    "64": {
+      "source_headings": [
+        "\\s1 A Prayer for God’s Power"
+      ]
+    },
+    "65": {
+      "source_headings": [
+        "\\s1 Judgments and Promises",
+        "\\s1 A New Heaven and a New Earth"
+      ]
+    },
+    "66": {
+      "source_headings": [
+        "\\s1 Heaven Is My Throne",
+        "\\s1 Rejoice with Jerusalem",
+        "\\s1 Final Judgments against the Wicked"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

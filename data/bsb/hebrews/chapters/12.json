@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HEB",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "HEB.12.1",
+      "edition_verse_id": "BSB:HEB.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off every encumbrance and the sin that so easily entangles, and let us run with endurance the race set out for us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.2",
+      "edition_verse_id": "BSB:HEB.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let us fix our eyes on Jesus, the author and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.3",
+      "edition_verse_id": "BSB:HEB.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.4",
+      "edition_verse_id": "BSB:HEB.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In your struggle against sin, you have not yet resisted to the point of shedding your blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.5",
+      "edition_verse_id": "BSB:HEB.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And you have forgotten the exhortation that addresses you as sons: “My son, do not take lightly the discipline of the Lord, and do not lose heart when He rebukes you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.6",
+      "edition_verse_id": "BSB:HEB.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For the Lord disciplines the one He loves, and He chastises every son He receives.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.7",
+      "edition_verse_id": "BSB:HEB.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Endure suffering as discipline; God is treating you as sons. For what son is not disciplined by his father?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.8",
+      "edition_verse_id": "BSB:HEB.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If you do not experience discipline like everyone else, then you are illegitimate children and not true sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.9",
+      "edition_verse_id": "BSB:HEB.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Furthermore, we have all had earthly fathers who disciplined us, and we respected them. Should we not much more submit to the Father of our spirits and live?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.10",
+      "edition_verse_id": "BSB:HEB.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Our fathers disciplined us for a short time as they thought best, but God disciplines us for our good, so that we may share in His holiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.11",
+      "edition_verse_id": "BSB:HEB.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "No discipline seems enjoyable at the time, but painful. Later on, however, it yields a harvest of righteousness and peace to those who have been trained by it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.12",
+      "edition_verse_id": "BSB:HEB.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore strengthen your limp hands and weak knees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.13",
+      "edition_verse_id": "BSB:HEB.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Make straight paths for your feet, so that the lame may not be disabled, but rather healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.14",
+      "edition_verse_id": "BSB:HEB.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Pursue peace with everyone, as well as holiness, without which no one will see the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.15",
+      "edition_verse_id": "BSB:HEB.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "See to it that no one falls short of the grace of God, and that no root of bitterness springs up to cause trouble and defile many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.16",
+      "edition_verse_id": "BSB:HEB.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "See to it that no one is sexually immoral, or is godless like Esau, who for a single meal sold his birthright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.17",
+      "edition_verse_id": "BSB:HEB.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For you know that afterward, when he wanted to inherit the blessing, he was rejected. He could find no ground for repentance, though he sought the blessing with tears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.18",
+      "edition_verse_id": "BSB:HEB.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For you have not come to a mountain that can be touched and that is burning with fire; to darkness, gloom, and storm;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.19",
+      "edition_verse_id": "BSB:HEB.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "to a trumpet blast or to a voice that made its hearers beg that no further word be spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.20",
+      "edition_verse_id": "BSB:HEB.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.21",
+      "edition_verse_id": "BSB:HEB.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The sight was so terrifying that even Moses said, “I am trembling with fear.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.22",
+      "edition_verse_id": "BSB:HEB.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Instead, you have come to Mount Zion, to the city of the living God, the heavenly Jerusalem. You have come to myriads of angels",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.23",
+      "edition_verse_id": "BSB:HEB.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "in joyful assembly, to the congregation of the firstborn, enrolled in heaven. You have come to God the Judge of all, to the spirits of the righteous made perfect,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.24",
+      "edition_verse_id": "BSB:HEB.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.25",
+      "edition_verse_id": "BSB:HEB.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "See to it that you do not refuse Him who speaks. For if the people did not escape when they refused Him who warned them on earth, how much less will we escape if we reject Him who warns us from heaven?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.26",
+      "edition_verse_id": "BSB:HEB.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "At that time His voice shook the earth, but now He has promised, “Once more I will shake not only the earth, but heaven as well.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.27",
+      "edition_verse_id": "BSB:HEB.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The words “Once more” signify the removal of what can be shaken — that is, created things — so that the unshakable may remain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.12.28",
+      "edition_verse_id": "BSB:HEB.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Therefore, since we are receiving an unshakable kingdom, let us be filled with gratitude, and so worship God acceptably with reverence and awe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.12.29",
+      "edition_verse_id": "BSB:HEB.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“For our God is a consuming fire.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

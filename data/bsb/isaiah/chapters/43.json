@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 43,
+  "verses": [
+    {
+      "id": "ISA.43.1",
+      "edition_verse_id": "BSB:ISA.43.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But now, this is what the LORD says— He who created you, O Jacob, and He who formed you, O Israel: “Do not fear, for I have redeemed you; I have called you by your name; you are Mine!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.43.2",
+      "edition_verse_id": "BSB:ISA.43.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When you pass through the waters, I will be with you; and when you go through the rivers, they will not overwhelm you. When you walk through the fire, you will not be scorched; the flames will not set you ablaze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.3",
+      "edition_verse_id": "BSB:ISA.43.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I am the LORD your God, the Holy One of Israel, your Savior; I give Egypt for your ransom, Cush and Seba in your place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.4",
+      "edition_verse_id": "BSB:ISA.43.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Because you are precious and honored in My sight, and because I love you, I will give men in exchange for you and nations in place of your life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.5",
+      "edition_verse_id": "BSB:ISA.43.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Do not be afraid, for I am with you; I will bring your offspring from the east and gather you from the west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.6",
+      "edition_verse_id": "BSB:ISA.43.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold them back!’ Bring My sons from afar, and My daughters from the ends of the earth—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.7",
+      "edition_verse_id": "BSB:ISA.43.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "everyone called by My name and created for My glory, whom I have indeed formed and made.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.8",
+      "edition_verse_id": "BSB:ISA.43.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Bring out a people who have eyes but are blind, and who have ears but are deaf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.9",
+      "edition_verse_id": "BSB:ISA.43.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "All the nations gather together and the peoples assemble. Who among them can declare this, and proclaim to us the former things? Let them present their witnesses to vindicate them, so that others may hear and say, “It is true.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.10",
+      "edition_verse_id": "BSB:ISA.43.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“You are My witnesses,” declares the LORD, “and My servant whom I have chosen, so that you may consider and believe Me and understand that I am He. Before Me no god was formed, and after Me none will come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.11",
+      "edition_verse_id": "BSB:ISA.43.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I, yes I, am the LORD, and there is no Savior but Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.12",
+      "edition_verse_id": "BSB:ISA.43.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I alone decreed and saved and proclaimed— I, and not some foreign god among you. So you are My witnesses,” declares the LORD, “that I am God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.13",
+      "edition_verse_id": "BSB:ISA.43.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Even from eternity I am He, and none can deliver out of My hand. When I act, who can reverse it?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.14",
+      "edition_verse_id": "BSB:ISA.43.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thus says the LORD your Redeemer, the Holy One of Israel: “For your sake, I will send to Babylon and bring them all as fugitives, even the Chaldeans, in the ships in which they rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.15",
+      "edition_verse_id": "BSB:ISA.43.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I am the LORD, your Holy One, the Creator of Israel, and your King.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.16",
+      "edition_verse_id": "BSB:ISA.43.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thus says the LORD, who makes a way in the sea and a path through the surging waters,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.17",
+      "edition_verse_id": "BSB:ISA.43.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "who brings out the chariots and horses, the armies and warriors together, to lie down, never to rise again; to be extinguished, snuffed out like a wick:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.18",
+      "edition_verse_id": "BSB:ISA.43.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Do not call to mind the former things; pay no attention to the things of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.19",
+      "edition_verse_id": "BSB:ISA.43.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Behold, I am about to do something new; even now it is coming. Do you not see it? Indeed, I will make a way in the wilderness and streams in the desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.20",
+      "edition_verse_id": "BSB:ISA.43.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The beasts of the field will honor Me, the jackals and the ostriches, because I provide water in the wilderness and rivers in the desert, to give drink to My chosen people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.21",
+      "edition_verse_id": "BSB:ISA.43.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The people I formed for Myself will declare My praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.22",
+      "edition_verse_id": "BSB:ISA.43.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But you have not called on Me, O Jacob, because you have grown weary of Me, O Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.23",
+      "edition_verse_id": "BSB:ISA.43.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "You have not brought Me sheep for burnt offerings, nor honored Me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.24",
+      "edition_verse_id": "BSB:ISA.43.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "You have not bought Me sweet cane with your silver, nor satisfied Me with the fat of your sacrifices. But you have burdened Me with your sins; you have wearied Me with your iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.25",
+      "edition_verse_id": "BSB:ISA.43.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I, yes I, am He who blots out your transgressions for My own sake and remembers your sins no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.26",
+      "edition_verse_id": "BSB:ISA.43.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Remind Me, let us argue the matter together. State your case, so that you may be vindicated.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.27",
+      "edition_verse_id": "BSB:ISA.43.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Your first father sinned, and your spokesmen rebelled against Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.43.28",
+      "edition_verse_id": "BSB:ISA.43.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So I will disgrace the princes of your sanctuary, and I will devote Jacob to destruction and Israel to reproach.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

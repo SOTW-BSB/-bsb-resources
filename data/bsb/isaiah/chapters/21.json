@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "ISA.21.1",
+      "edition_verse_id": "BSB:ISA.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the burden against the Desert by the Sea: Like whirlwinds sweeping through the Negev, an invader comes from the desert, from a land of terror.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.21.2",
+      "edition_verse_id": "BSB:ISA.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "A dire vision is declared to me: “The traitor still betrays, and the destroyer still destroys. Go up, O Elam! Lay siege, O Media! I will put an end to all her groaning.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.3",
+      "edition_verse_id": "BSB:ISA.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore my body is filled with anguish. Pain grips me, like the pains of a woman in labor. I am bewildered to hear, I am dismayed to see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.4",
+      "edition_verse_id": "BSB:ISA.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My heart falters; fear makes me tremble. The twilight I desired has turned to horror.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.5",
+      "edition_verse_id": "BSB:ISA.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They prepare a table, they lay out a carpet, they eat, they drink! Rise up, O princes, oil the shields!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.6",
+      "edition_verse_id": "BSB:ISA.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For this is what the Lord says to me: “Go, post a lookout and have him report what he sees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.7",
+      "edition_verse_id": "BSB:ISA.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When he sees chariots with teams of horsemen, riders on donkeys, riders on camels, he must be alert, fully alert.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.8",
+      "edition_verse_id": "BSB:ISA.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the lookout shouted: “Day after day, my lord, I stand on the watchtower; night after night I stay at my post.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.9",
+      "edition_verse_id": "BSB:ISA.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Look, here come the riders, horsemen in pairs.” And one answered, saying: “Fallen, fallen is Babylon! All the images of her gods lie shattered on the ground!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.10",
+      "edition_verse_id": "BSB:ISA.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "O my people, crushed on the threshing floor, I tell you what I have heard from the LORD of Hosts, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.11",
+      "edition_verse_id": "BSB:ISA.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "This is the burden against Dumah: One calls to me from Seir, “Watchman, what is left of the night? Watchman, what is left of the night?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.21.12",
+      "edition_verse_id": "BSB:ISA.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The watchman replies, “Morning has come, but also the night. If you would inquire, then inquire. Come back yet again.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.13",
+      "edition_verse_id": "BSB:ISA.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "This is the burden against Arabia: In the thickets of Arabia you must lodge, O caravans of Dedanites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.21.14",
+      "edition_verse_id": "BSB:ISA.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Bring water for the thirsty, O dwellers of Tema; meet the refugees with food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.15",
+      "edition_verse_id": "BSB:ISA.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For they flee from the sword— the sword that is drawn— from the bow that is bent, and from the stress of battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.21.16",
+      "edition_verse_id": "BSB:ISA.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For this is what the Lord says to me: “Within one year, as a hired worker would count it, all the glory of Kedar will be gone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.21.17",
+      "edition_verse_id": "BSB:ISA.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The remaining archers, the warriors of Kedar, will be few.” For the LORD, the God of Israel, has spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

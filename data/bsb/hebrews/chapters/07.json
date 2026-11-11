@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HEB",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "HEB.7.1",
+      "edition_verse_id": "BSB:HEB.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the slaughter of the kings and blessed him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.2",
+      "edition_verse_id": "BSB:HEB.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and Abraham apportioned to him a tenth of everything. First, his name means “king of righteousness.” Then also, “king of Salem” means “king of peace.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.3",
+      "edition_verse_id": "BSB:HEB.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Without father or mother or genealogy, without beginning of days or end of life, like the Son of God, he remains a priest for all time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.4",
+      "edition_verse_id": "BSB:HEB.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Consider how great Melchizedek was: Even the patriarch Abraham gave him a tenth of the plunder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.5",
+      "edition_verse_id": "BSB:HEB.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now the law commands the sons of Levi who become priests to collect a tenth from the people — that is, from their brothers — though they too are descended from Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.6",
+      "edition_verse_id": "BSB:HEB.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But Melchizedek, who did not trace his descent from Levi, collected a tenth from Abraham and blessed him who had the promises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.7",
+      "edition_verse_id": "BSB:HEB.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And indisputably, the lesser is blessed by the greater.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.8",
+      "edition_verse_id": "BSB:HEB.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In the case of the Levites, mortal men collect the tenth; but in the case of Melchizedek, it is affirmed that he lives on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.9",
+      "edition_verse_id": "BSB:HEB.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And so to speak, Levi, who collects the tenth, paid the tenth through Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.10",
+      "edition_verse_id": "BSB:HEB.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For when Melchizedek met Abraham, Levi was still in the loin of his ancestor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.11",
+      "edition_verse_id": "BSB:HEB.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now if perfection could have been attained through the Levitical priesthood ( for on this basis the people received the law), why was there still need for another priest to appear — one in the order of Melchizedek and not in the order of Aaron?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.12",
+      "edition_verse_id": "BSB:HEB.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For when the priesthood is changed, the law must be changed as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.13",
+      "edition_verse_id": "BSB:HEB.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He of whom these things are said belonged to a different tribe, from which no one has ever served at the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.14",
+      "edition_verse_id": "BSB:HEB.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For it is clear that our Lord descended from Judah, a tribe as to which Moses said nothing about priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.15",
+      "edition_verse_id": "BSB:HEB.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And this point is even more clear if another priest like Melchizedek appears,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.16",
+      "edition_verse_id": "BSB:HEB.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "one who has become a priest not by a law of succession, but by the power of an indestructible life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.17",
+      "edition_verse_id": "BSB:HEB.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For it is testified: “You are a priest forever in the order of Melchizedek.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.18",
+      "edition_verse_id": "BSB:HEB.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So the former commandment is set aside because it was weak and useless",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.19",
+      "edition_verse_id": "BSB:HEB.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "( for the law made nothing perfect), and a better hope is introduced, by which we draw near to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.20",
+      "edition_verse_id": "BSB:HEB.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And none of this happened without an oath. For others became priests without an oath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.21",
+      "edition_verse_id": "BSB:HEB.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "but Jesus became a priest with an oath by the One who said to Him: “The Lord has sworn and will not change His mind: ‘You are a priest forever.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.22",
+      "edition_verse_id": "BSB:HEB.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Because of this oath, Jesus has become the guarantee of a better covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.23",
+      "edition_verse_id": "BSB:HEB.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now there have been many other priests, since death prevented them from continuing in office.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.24",
+      "edition_verse_id": "BSB:HEB.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But because Jesus lives forever, He has a permanent priesthood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.25",
+      "edition_verse_id": "BSB:HEB.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Therefore He is able to save completely those who draw near to God through Him, since He always lives to intercede for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.26",
+      "edition_verse_id": "BSB:HEB.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Such a high priest truly befits us — One who is holy, innocent, undefiled, set apart from sinners, and exalted above the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HEB.7.27",
+      "edition_verse_id": "BSB:HEB.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Unlike the other high priests, He does not need to offer daily sacrifices, first for His own sins and then for the sins of the people; He sacrificed for sin once for all when He offered up Himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HEB.7.28",
+      "edition_verse_id": "BSB:HEB.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For the law appoints as high priests men who are weak; but the oath, which came after the law, appointed the Son, who has been made perfect forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

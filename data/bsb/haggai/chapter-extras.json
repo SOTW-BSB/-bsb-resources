@@ -1,0 +1,20 @@
+{
+  "edition_id": "BSB",
+  "book_code": "HAG",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 A Call to Rebuild the Temple",
+        "\\s1 The People Obey"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Coming Glory of God’s House",
+        "\\s1 Blessings for a Defiled People",
+        "\\s1 Zerubbabel the LORD’s Signet Ring"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

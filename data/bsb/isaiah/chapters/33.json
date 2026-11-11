@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 33,
+  "verses": [
+    {
+      "id": "ISA.33.1",
+      "edition_verse_id": "BSB:ISA.33.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe to you, O destroyer never destroyed, O traitor never betrayed! When you have finished destroying, you will be destroyed. When you have finished betraying, you will be betrayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.33.2",
+      "edition_verse_id": "BSB:ISA.33.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O LORD, be gracious to us! We wait for You. Be our strength every morning and our salvation in time of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.3",
+      "edition_verse_id": "BSB:ISA.33.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The peoples flee the thunder of Your voice; the nations scatter when You rise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.4",
+      "edition_verse_id": "BSB:ISA.33.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Your spoil, O nations, is gathered as by locusts; like a swarm of locusts men sweep over it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.5",
+      "edition_verse_id": "BSB:ISA.33.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The LORD is exalted, for He dwells on high; He has filled Zion with justice and righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.6",
+      "edition_verse_id": "BSB:ISA.33.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He will be the sure foundation for your times, a storehouse of salvation, wisdom, and knowledge. The fear of the LORD is Zion’s treasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.7",
+      "edition_verse_id": "BSB:ISA.33.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, their valiant ones cry aloud in the streets; the envoys of peace weep bitterly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.8",
+      "edition_verse_id": "BSB:ISA.33.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The highways are deserted; travel has ceased. The treaty has been broken, the witnesses are despised, and human life is disregarded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.9",
+      "edition_verse_id": "BSB:ISA.33.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The land mourns and languishes; Lebanon is ashamed and decayed. Sharon is like a desert; Bashan and Carmel shake off their leaves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.10",
+      "edition_verse_id": "BSB:ISA.33.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Now I will arise,” says the LORD. “Now I will lift Myself up. Now I will be exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.11",
+      "edition_verse_id": "BSB:ISA.33.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You conceive chaff; you give birth to stubble. Your breath is a fire that will consume you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.12",
+      "edition_verse_id": "BSB:ISA.33.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The peoples will be burned to ashes, like thorns cut down and set ablaze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.13",
+      "edition_verse_id": "BSB:ISA.33.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You who are far off, hear what I have done; you who are near, acknowledge My might.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.14",
+      "edition_verse_id": "BSB:ISA.33.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The sinners in Zion are afraid; trembling grips the ungodly: “Who of us can dwell with a consuming fire? Who of us can dwell with everlasting flames?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.15",
+      "edition_verse_id": "BSB:ISA.33.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He who walks righteously and speaks with sincerity, who refuses gain from extortion, whose hand never takes a bribe, who stops his ears against murderous plots and shuts his eyes tightly against evil—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.16",
+      "edition_verse_id": "BSB:ISA.33.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "he will dwell on the heights; the mountain fortress will be his refuge; his food will be provided and his water assured.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.17",
+      "edition_verse_id": "BSB:ISA.33.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Your eyes will see the King in His beauty and behold a land that stretches afar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.18",
+      "edition_verse_id": "BSB:ISA.33.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Your mind will ponder the former terror: “Where is he who tallies? Where is he who weighs? Where is he who counts the towers?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.19",
+      "edition_verse_id": "BSB:ISA.33.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You will no longer see the insolent, a people whose speech is unintelligible, who stammer in a language you cannot understand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.20",
+      "edition_verse_id": "BSB:ISA.33.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Look upon Zion, the city of our appointed feasts. Your eyes will see Jerusalem, a peaceful pasture, a tent that does not wander; its tent pegs will not be pulled up, nor will any of its cords be broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.21",
+      "edition_verse_id": "BSB:ISA.33.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But there the Majestic One, our LORD, will be for us a place of rivers and wide canals, where no galley with oars will row, and no majestic vessel will pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.22",
+      "edition_verse_id": "BSB:ISA.33.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For the LORD is our Judge, the LORD is our lawgiver, the LORD is our King. It is He who will save us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.23",
+      "edition_verse_id": "BSB:ISA.33.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Your ropes are slack; they cannot secure the mast or spread the sail. Then an abundance of spoils will be divided, and even the lame will carry off plunder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.33.24",
+      "edition_verse_id": "BSB:ISA.33.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And no resident of Zion will say, “I am sick.” The people who dwell there will be forgiven of iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

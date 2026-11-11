@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "ISA.35.1",
+      "edition_verse_id": "BSB:ISA.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The wilderness and the dry land will be glad; the desert will rejoice and blossom like a rose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.35.2",
+      "edition_verse_id": "BSB:ISA.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It will bloom profusely and rejoice with joy and singing. The glory of Lebanon will be given to it, the splendor of Carmel and Sharon. They will see the glory of the LORD, the splendor of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.35.3",
+      "edition_verse_id": "BSB:ISA.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Strengthen the limp hands and steady the feeble knees!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.35.4",
+      "edition_verse_id": "BSB:ISA.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Say to those with anxious hearts: “Be strong, do not fear! Behold, your God will come with vengeance. With divine retribution He will come to save you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.35.5",
+      "edition_verse_id": "BSB:ISA.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the eyes of the blind will be opened and the ears of the deaf unstopped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.35.6",
+      "edition_verse_id": "BSB:ISA.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the lame will leap like a deer and the mute tongue will shout for joy. For waters will gush forth in the wilderness, and streams in the desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.35.7",
+      "edition_verse_id": "BSB:ISA.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The parched ground will become a pool, the thirsty land springs of water. In the haunt where jackals once lay, there will be grass and reeds and papyrus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.35.8",
+      "edition_verse_id": "BSB:ISA.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And there will be a highway called the Way of Holiness. The unclean will not travel it — only those who walk in the Way — and fools will not stray onto it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.35.9",
+      "edition_verse_id": "BSB:ISA.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "No lion will be there, and no vicious beast will go up on it. Such will not be found there, but the redeemed will walk upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.35.10",
+      "edition_verse_id": "BSB:ISA.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So the redeemed of the LORD will return and enter Zion with singing, crowned with everlasting joy. Gladness and joy will overtake them, and sorrow and sighing will flee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

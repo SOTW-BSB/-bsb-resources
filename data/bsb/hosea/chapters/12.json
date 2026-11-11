@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HOS",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "HOS.12.1",
+      "edition_verse_id": "BSB:HOS.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Ephraim feeds on the wind and pursues the east wind all day long; he multiplies lies and violence; he makes a covenant with Assyria and sends olive oil to Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HOS.12.2",
+      "edition_verse_id": "BSB:HOS.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD has a charge to bring against Judah. He will punish Jacob according to his ways and repay him according to his deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.3",
+      "edition_verse_id": "BSB:HOS.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "In the womb he grasped his brother’s heel, and in his vigor he wrestled with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.4",
+      "edition_verse_id": "BSB:HOS.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.5",
+      "edition_verse_id": "BSB:HOS.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "the LORD God of Hosts, the LORD is His name of renown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.6",
+      "edition_verse_id": "BSB:HOS.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But you must return to your God; maintain love and justice, and always wait on your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.7",
+      "edition_verse_id": "BSB:HOS.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "A merchant loves to defraud with dishonest scales in his hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.8",
+      "edition_verse_id": "BSB:HOS.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Ephraim boasts: “How rich I have become! I have found wealth for myself. In all my labors, they can find in me no iniquity that is sinful.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.9",
+      "edition_verse_id": "BSB:HOS.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But I am the LORD your God ever since the land of Egypt. I will again make you dwell in tents, as in the days of the appointed feast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.10",
+      "edition_verse_id": "BSB:HOS.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I spoke through the prophets and multiplied their visions; I gave parables through the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.11",
+      "edition_verse_id": "BSB:HOS.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Is there iniquity in Gilead? They will surely come to nothing. Do they sacrifice bulls in Gilgal? Indeed, their altars will be heaps of stones in the furrows of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.12",
+      "edition_verse_id": "BSB:HOS.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Jacob fled to the land of Aram and Israel worked for a wife — for a wife he tended sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.13",
+      "edition_verse_id": "BSB:HOS.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But by a prophet the LORD brought Israel out of Egypt, and by a prophet he was preserved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HOS.12.14",
+      "edition_verse_id": "BSB:HOS.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ephraim has provoked bitter anger, so his Lord will leave his bloodguilt upon him and repay him for his contempt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

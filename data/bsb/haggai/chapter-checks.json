@@ -1,0 +1,20 @@
+{
+  "edition_id": "BSB",
+  "book_code": "HAG",
+  "chapter_count": 2,
+  "verse_count": 38,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "e013e67202fe07c5cc0430cd1af20a94a333c30d041a50e616b86ac4b2ec484c"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "omitted_from_main_text": [],
+      "sha256": "c2f1e253a26bf161a488430b7fc36df1ac7e449a7f23f057809ba02ecd80cd7a"
+    }
+  ]
+}
