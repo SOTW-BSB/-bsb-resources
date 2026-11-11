@@ -1,0 +1,851 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2SA",
+  "chapters": {
+    "1": {
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 1:18 \\ft Or \\fqa be taught the use of the bow\\ft ; literally \\fqa be taught the bow\\f*",
+          "raw_sha256": "54658f6166dc6faf338eb28bf0cebd8461667efe025bb462014884bb173ad013"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:18 \\ft Or \\fqa the Book of the Upright One\\ft , commonly cited as \\fqa Jasher\\ft ; note that \\fqa the Song of the Bow \\ft that follows is not found in known manuscripts attributed to Jasher.\\f*",
+          "raw_sha256": "5d38fe104b1b02f6b7ff1f3f5c57fac9b6114fd4d1cbef5024504ed0343856a5"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 1:21 \\ft Or \\fqa no showers falling on your terraced fields\\ft ; LXX \\fqa no fields of firstfruits\\ft ; Hebrew \\fqa no fields of offerings\\f*",
+          "raw_sha256": "f1715da31fd1bf43bdf3dca23c8c44b39553afd95c2ba57f01ff623cd3d343f9"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "9bcd78fc6b207e219e2e0a607d5fe785f285d978b569ff123b08a391dcbd5ff0"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 2:8 \\fqa Ish-bosheth \\ft is also called \\fqa Esh-baal\\ft ; see \\ref 1 Chronicles 8:33|1CH 8:33\\ref*.\\f*",
+          "raw_sha256": "3432eded9865f72ec54ee25b5ade171630104d4c4e41e1699fb2d77ca4fc0f58"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\fqa Helkath-hazzurim \\ft means \\fqa the Field of Swords\\ft .\\f*",
+          "raw_sha256": "d1919037f30aa43aa124c374ba008ba96d60e9fdeda88227608b7e9c7f4e1ba2"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 2:29 \\ft See LXX; Hebrew \\fqa marched all through Bithron\\f*",
+          "raw_sha256": "47cd91e4817f58653796243b218ea0fce1c29effc0449050e071920913eb9980"
+        }
+      ]
+    },
+    "3": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft LXX \\fqa Daluia\\ft ; some translators \\fqa Daniel\\ft ; see \\ref 1 Chronicles 3:1|1CH 3:1\\ref*.\\f*",
+          "raw_sha256": "4a4244bf5a98c299a31694036dc64163b1b6700efeaad5b09bdae2e05ab8d032"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\fqa Paltiel \\ft is a variant of \\fqa Palti\\ft ; see \\ref 1 Samuel 25:44|1SA 25:44\\ref*.\\f*",
+          "raw_sha256": "11ccf188e9416a738859ee1734f730f95b7dfea842bb2f4fccb955022acaeb38"
+        }
+      ]
+    },
+    "5": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 5:8 \\ft Or \\fqa who are enemies of David\\f*",
+          "raw_sha256": "f8892523f0d7ffc0809ce75a56a4d5da536df72dbb13a586e01f27e4ac44afbf"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 5:9 \\ft Hebrew \\fqa the Millo\\f*",
+          "raw_sha256": "a114daec435bc9c914969b9bdd41573e7a98da07d29d90cd01c8b28fdc4f02d3"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 5:14 \\fqa Shammua \\ft is a variant of \\fqa Shimea\\ft ; see \\ref 1 Chronicles 3:5|1CH 3:5\\ref*.\\f*",
+          "raw_sha256": "e9e25f2ddbfa353c29717b60d72bfc3b1c1738e0896ab39e326331b714278241"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 5:20 \\fqa Baal-perazim \\ft means \\fqa The Lord Bursts Out\\ft .\\f*",
+          "raw_sha256": "ed2959781ba6089e0aee17d402a4c6ec8740254d1036aaf10a42a48b0bdcd0c9"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 5:23 \\ft Or \\fqa aspen trees \\ft or \\fqa poplar trees\\ft ; also in verse 24\\f*",
+          "raw_sha256": "ac8e300f2d696bdae2aff7c8957c25b154e3883336d9f8052acbda2d13b4cd16"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 5:25 \\ft LXX (see also \\ref 1 Chronicles 14:16|1CH 14:16\\ref*); Hebrew \\fqa Geba\\f*",
+          "raw_sha256": "cf969c6652ef0dd3cb4337e46af768b369d498f5842fe363d4ba44dce33c361e"
+        }
+      ]
+    },
+    "6": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 6:2 \\ft That is, Kiriath-jearim; see \\ref 1 Chronicles 13:6|1CH 13:6\\ref*.\\f*",
+          "raw_sha256": "7fa76b841af369969d67d55c9caf16bc902f1116da4486d903d03d4d4a34a7fb"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:2 \\ft Hebrew; LXX and Vulgate do not include \\fqa the Name—\\f*",
+          "raw_sha256": "19ab819aed835d50adb1c0609d203bf09253adefc31626bbdd3e7646ed358548"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 6:4 \\ft DSS and some LXX manuscripts; MT includes \\fqa from the house of Abinadab, which was on the hill\\ft .\\f*",
+          "raw_sha256": "fc99a6b932cc5a47b34be8c6c3993180a8eb1a1c7e75503f7de0a37d7234e54e"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 6:5 \\ft Literally \\fqa before the LORD with all woods of cypress\\ft ; LXX \\fqa playing before the Lord on well-tuned instruments mightily, and with songs\\ft ; some of the instruments in this verse are uncertain; see \\ref 1 Chronicles 13:8|1CH 13:8\\ref*.\\f*",
+          "raw_sha256": "4589f12d225c93311d318850ee330f790dd2953181ebbb8a7619b6612befd8b2"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\fqa Nacon \\ft is a variant of \\fqa Chidon\\ft ; see \\ref 1 Chronicles 13:9|1CH 13:9\\ref*.\\f*",
+          "raw_sha256": "df6c9523c1f950ad332109a08b105f4893b3aa6ad1692264571468e53c4952e3"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 6:7 \\ft MT; DSS \\fqa for this\\f*",
+          "raw_sha256": "7bc6e830f708fa2c579de34244bf47a80fdd310cac94f6b132f4b254885581cd"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 6:8 \\fqa Perez-uzzah \\ft means \\fqa outbreak against Uzzah\\ft .\\f*",
+          "raw_sha256": "faf26633123cc061dc4cc6931054d522cb12a69374ab3d1dcca396bede66beda"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 6:19 \\ft Or \\fqa a portion of meat\\f*",
+          "raw_sha256": "05a497747680bbfc96b2c3c6859425d5037784af40dbe24525f9e2eecdd115f2"
+        }
+      ]
+    },
+    "7": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 7:7 \\ft Or \\fqa tribes\\f*",
+          "raw_sha256": "83d8f99d55fdce3fed9988f91765e3521a67035f67ac3f21a4c84dc1a0ebe3f1"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 7:14 \\ft Cited in \\ref Hebrews 1:5|HEB 1:5\\ref*\\f*",
+          "raw_sha256": "ed3620d94da7a13fc8e887e79dbd2fef03886848a1b38d5adb98dcc1e16a2e8c"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 7:16 \\ft Some Hebrew manuscripts and LXX; most Hebrew manuscripts \\fqa you\\f*",
+          "raw_sha256": "267fbdda6a901fdbbfb65dcdfbae0d0955b04479445e1a0125091826133c4719"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 7:19 \\ft Or \\fqa And this is Your instruction for mankind, O Lord GOD.\\f*",
+          "raw_sha256": "52897987c83afeb2a874d282e61e2cea3bc179cc15d480d760ec76c2dfb58af8"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 7:23 \\ft See LXX and \\ref 1 Chronicles 17:21|1CH 17:21\\ref*; Hebrew \\fqa You performed for Yourself great and awesome wonders for Your land, before Your people, whom You have redeemed for Yourself from Egypt, from nations and their gods.\\f*",
+          "raw_sha256": "6a7a9bd9a24ffb1b7f546881d27204242b4ae22d00cd6fcc22fa3ddce1626343"
+        }
+      ]
+    },
+    "8": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 8:1 \\fqa Metheg-ammah \\ft means \\fqa bridle of the mother city\\ft .\\f*",
+          "raw_sha256": "249dfd89f1af8bbb6547c0458fd7bfb5f0ebc30c5cc6318d5f3d769f2862f441"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 8:3 \\ft LXX, Syriac, and Vulgate (see also \\ref 1 Chronicles 18:3|1CH 18:3\\ref*); Hebrew \\fqa along the River\\ft , or an alternate reading \\fqa along the Euphrates\\f*",
+          "raw_sha256": "fb622fef8c8ef42b8da955f5c2c6c52da39513d873ac29f2476aa46023b55cf1"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 8:4 \\ft LXX (see also DSS and \\ref 1 Chronicles 18:4|1CH 18:4\\ref*); MT \\fqa captured from him seventeen hundred charioteers\\f*",
+          "raw_sha256": "eb177ead246d8501ae8b5422141f7ef5f6e19af4cd7051ec06fb92c84e5b3120"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 8:8 \\ft Hebrew; some LXX manuscripts \\fqa Tebah\\ft ; see \\ref 1 Chronicles 18:8|1CH 18:8\\ref*.\\f*",
+          "raw_sha256": "155a2ebefa79cf81f6393f86acd7fd2f277dbcd5c6d0e3438c91ca8b04c0dea0"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 8:9 \\fqa Toi \\ft is a variant of \\fqa Tou\\ft ; also in verse 10; see \\ref 1 Chronicles 18:9|1CH 18:9\\ref*.\\f*",
+          "raw_sha256": "a0451936f65d529f3e7db15f0385f47e004eb8d8876940f3c8f3ad7cc57ad811"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 8:10 \\fqa Joram \\ft is a variant of \\fqa Hadoram\\ft ; see \\ref 1 Chronicles 18:10|1CH 18:10\\ref*.\\f*",
+          "raw_sha256": "cf3051080df7089386ea964a7e291ff3f4b4336d799e677cc15860ded872fade"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 8:12 \\ft Some Hebrew manuscripts, LXX, and Syriac (see also verse 14 and \\ref 1 Chronicles 18:11|1CH 18:11\\ref*); most Hebrew manuscripts \\fqa Aram\\f*",
+          "raw_sha256": "614f03bf244ecd84733e9cd4535745173f30123e22e3aa3301f29908a8f2611f"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 8:13 \\ft A few Hebrew manuscripts, LXX, and Syriac (see also verse 14 and \\ref 1 Chronicles 18:12|1CH 18:12\\ref*); most Hebrew manuscripts \\fqa Arameans\\f*",
+          "raw_sha256": "042b216718a399e92f732f422c48e76c2e85ff0505b615304801e328225a116d"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 8:17 \\fqa Seraiah \\ft is also called \\fqa Sheva\\ft , \\fqa Shisha\\ft , and \\fqa Shavsha\\ft ; see \\ref 2 Samuel 20:25|2SA 20:25\\ref*, 1 Kings 4:3, and 1 Chronicles 18:16.\\f*",
+          "raw_sha256": "5a434e3bb2776bc6660beff3736a90e728dbe2352ba544107a9fef2e5b7f2b8d"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 8:18 \\ft Literally \\fqa priests\\ft , or possibly \\fqa chief officials\\ft ; see LXX, Targum Yonaton, and \\ref 1 Chronicles 18:17|1CH 18:17\\ref*.\\f*",
+          "raw_sha256": "9cbe581a901d08b2b7c19718a6549c802f1bcd01e630f82c55602e698a35a813"
+        }
+      ]
+    },
+    "9": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 9:6 \\fqa Mephibosheth \\ft is also called \\fqa Merib-baal\\ft ; see \\ref 1 Chronicles 8:34|1CH 8:34\\ref*.\\f*",
+          "raw_sha256": "a725b246db3c4b919b557c158c8ee5b3b3d17a9b0d38cfcbd13c1a22aece5b5d"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 9:11 \\ft LXX; Hebrew \\fqa my table\\f*",
+          "raw_sha256": "6174b2f51f0a8b49701fc0636f0f6c99c78ca3d60cc804bea89a78fbe6d30cc5"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 9:12 \\fqa Mica \\ft is a variant of \\fqa Micah\\ft ; see \\ref 1 Chronicles 8:34|1CH 8:34\\ref*.\\f*",
+          "raw_sha256": "65d011813cc4a61fa52197eb216b0de0f896740dd04e1950a9ea02b94ecb11f7"
+        }
+      ]
+    },
+    "10": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 10:16 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "ec5ede8d5c3fbb8fc9694613e73a064d93eb1186ae10e59a38a378d91c22eb53"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:16 \\fqa Shobach \\ft is a variant of \\fqa Shophach\\ft ; see \\ref 1 Chronicles 19:16|1CH 19:16\\ref*.\\f*",
+          "raw_sha256": "3a1d63453c89f8e194cafee84d074233684375211517f1fa8f5a170480c04b66"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 10:18 \\ft Some LXX manuscripts (see also \\ref 1 Chronicles 19:18|1CH 19:18\\ref*); Hebrew \\fqa horsemen\\f*",
+          "raw_sha256": "7411a2d0455e0267a103652947ab276bf6ded6119a219c1d5c3ffc1a335aee72"
+        }
+      ]
+    },
+    "11": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 11:1 \\ft Literally \\fqa At the turn of the year\\f*",
+          "raw_sha256": "da0e36800e7db291843de4b211248df52e62ba2272ce521ed938d170248c6308"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 11:3 \\fqa Eliam \\ft is a variant of \\fqa Ammiel\\ft ; see \\ref 1 Chronicles 3:5|1CH 3:5\\ref*.\\f*",
+          "raw_sha256": "37fda70f9f5334244a17e06dfe60866a0abf5de6c79fdba64f94e63a5343e341"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 11:11 \\ft Or \\fqa staying at Sukkoth\\f*",
+          "raw_sha256": "8601b36a42ae9c5faf4d3e4d22f8c8b2a1bfff1b0464a9587eb9920d675fae6e"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 11:21 \\fqa Jerubbesheth \\ft is also known as \\fqa Jerubbaal\\ft , that is, Gideon.\\f*",
+          "raw_sha256": "4add08a10fd30f398a751d1340a76e31f904b8d35730d1978ef22732044e4cd8"
+        }
+      ]
+    },
+    "12": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft Hebrew \\fqa in his bosom\\ft ; also in verse 8\\f*",
+          "raw_sha256": "4cc55ff4ff932142918c8e43d74a9a9c6cca09b6360664d5681edd5e195bbda7"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 12:14 \\ft DSS; MT \\fqa you have brought utter contempt from the enemies of the LORD\\f*",
+          "raw_sha256": "fd1e4b1bfd2b45e711db2a867d6219e0cc92c758888726b90172ebf6a1ddea33"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 12:16 \\ft DSS and LXX; MT does not include \\fqa in sackcloth\\ft .\\f*",
+          "raw_sha256": "32f26cb513d4ce55a3540ffb1c26544f2e4b4a59c90b1856c6bc4e2adfadb3ff"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 12:24 \\ft Or \\fqa she \\ft or \\fqa he\\f*",
+          "raw_sha256": "7a06efd14de2727c1138af96a0eae108357e11b78d7059f431d5db73decae631"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 12:25 \\ft Literally \\fqa to name him Jedidiah because of the LORD\\ft ; \\fqa Jedidiah \\ft means \\fqa beloved of the LORD\\f*",
+          "raw_sha256": "c9280e08f3bf6294e0be809983c42df9eba56f3e4c793d6af0f6d1aacc310134"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 12:27 \\ft Or \\fqa and have captured the city of waters\\f*",
+          "raw_sha256": "5e20c792b47cb6b61fd01dd238c25de11d9ee84474ffc04b7f002809b5d67e0a"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 12:30 \\ft Or \\fqa from the head of Milcom\\ft . Milcom, also called Molech, was god of the Ammonites; see \\ref Leviticus 18:21|LEV 18:21\\ref* and 1 Kings 11:7.\\f*",
+          "raw_sha256": "14c376d4c912d95258433d8b308c945eeb384be03826c6e09bc341ba16517fce"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:30 \\fqa A talent \\ft is approximately 75.4 pounds or 34.2 kilograms of gold.\\f*",
+          "raw_sha256": "f96d16ae3bca743c96a07e649af5dea213d427371a5ecbbd814719ccf88ebf3f"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 12:31 \\ft Literally \\fqa put them under saws\\f*",
+          "raw_sha256": "eb4f237c5decdfb941f33fee35b31528967b1a229d6a8dc5de87e51fcf4dde74"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:31 \\ft Literally \\fqa and he made them pass through the brick kilns.\\f*",
+          "raw_sha256": "e4573df514b44c2455e5f4584f3403e5c0d3bcfc2d75c72ccef38c158d5fe9a1"
+        }
+      ]
+    },
+    "13": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 13:3 \\fqa Shimeah \\ft is a variant of \\fqa Shammah\\ft , \\fqa Shimea\\ft , and \\fqa Shimei\\ft ; see \\ref 1 Samuel 16:9|1SA 16:9\\ref*, 2 Samuel 21:21, and 1 Chronicles 2:13.\\f*",
+          "raw_sha256": "63471d339639bad0d2e2b5908b13996a7738c0af85d3991545349053813c0203"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 13:18 \\ft Or \\fqa a robe with long sleeves\\ft ; see also \\ref Genesis 37:3|GEN 37:3\\ref*.\\f*",
+          "raw_sha256": "4da79f5f668caa5430af4b426a8fd8d1becbe8af2045cc1a6fcd585449d05895"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 13:21 \\ft DSS and LXX include \\fqa But he would not punish his son Amnon, because he loved him, since he was his firstborn.\\f*",
+          "raw_sha256": "b7c4976f71b6af01d628c6cdf58a4eb35cb6760f2a0f5cff75218c20f305867d"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 13:27 \\ft LXX and Vulgate include \\fqa And Absalom prepared a feast fit for a king.\\f*",
+          "raw_sha256": "4f62aa4241a910195d6b92b4b5e590653000ea9e388d60c8cacda548a01e1f25"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 13:34 \\ft Or \\fqa behind him\\f*",
+          "raw_sha256": "5d6046141ed9972c91b029630c72d1aea9539d730c505179e25d7028e48dc757"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:34 \\ft LXX; Hebrew does not include \\fqa And the watchman...\\ft .\\f*",
+          "raw_sha256": "6222097a6a008e046b1fb8fbb2bac2a4d2551f2ac1137c6e4d75cfe485950742"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 13:39 \\ft MT; DSS and LXX \\fqa And the spirit of the king \\ft \\f*",
+          "raw_sha256": "76add88c77c276001a01e9b7af6f1b79d1042c172248afb9c8f03ec5f48388ef"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:39 \\ft Or \\fqa ceased to go out after Absalom\\f*",
+          "raw_sha256": "6f82cfc34bef2d2a3e9225f35601706d311e81d1b9fce828bbd5321fa0be8eba"
+        }
+      ]
+    },
+    "14": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 14:17 \\ft Or \\fqa Angel\\ft ; also in verse 20\\f*",
+          "raw_sha256": "74100dfd269eb07f36147b7d148d0498416289a39bfcc4b638f6d16f13049ce1"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 14:26 \\fqa 200 shekels \\ft is approximately 5 pounds or 2.3 kilograms of hair.\\f*",
+          "raw_sha256": "5b6d5a7adde01d3c420710463450bc5aef1d929437e07de5ece0c952b3d3081a"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 14:30 \\ft LXX includes \\fqa So the servants of Joab came to him with their clothes torn and said to him, “The servants of Absalom have set your field on fire.”\\f*",
+          "raw_sha256": "13172d8e9561f185289af131a8b096b7144e65a719c09fce6fa58acf6dde56c3"
+        }
+      ]
+    },
+    "15": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 15:7 \\ft Syriac and some LXX manuscripts; Hebrew \\fqa forty\\f*",
+          "raw_sha256": "60718ebc139e494f5e1012b454e97549bd1cb85f2a1e982573753cb0f70fbbd3"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 15:8 \\ft Some LXX manuscripts; Hebrew does not include \\fqa in Hebron\\ft .\\f*",
+          "raw_sha256": "8fb85c85c9efe3f030d1c44c94a4f6657a636d966950f2bd9b01c41cd2e0be38"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 15:20 \\ft LXX; Hebrew \\fqa May loving devotion and faithfulness be with you.\\f*",
+          "raw_sha256": "2dfc3e66a906dabe6e727a301ed4a63d9366e6e561b3edfffda280449dcbc886"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 15:24 \\ft Or \\fqa Abiathar went up\\f*",
+          "raw_sha256": "fde12c66b8a606b0939f51f1cc7b0f358d99a64f79195b4cba6f9c9a48cfbc63"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 15:27 \\ft Hebrew; LXX \\fqa Behold,\\f*",
+          "raw_sha256": "ab9233832c33ebc2c4e11a948d2dc4a3bff37d6f2961077f441c86814dd740f1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:27 \\ft Literally \\fqa your son Ahimaaz and Jonathan son of Abiathar, your two sons with you\\f*",
+          "raw_sha256": "c2362eb903e73a0d5f5829d383092546289ed660a798f585d49c57f8311e3b59"
+        }
+      ]
+    },
+    "16": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 16:14 \\ft Some LXX manuscripts \\fqa arrived at the Jordan\\f*",
+          "raw_sha256": "e83c2d6de98dc2b0190eb5b979a49c2e1bde9d4f7af6561d976a0abc9ea84388"
+        }
+      ]
+    },
+    "17": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 17:3 \\ft LXX; see also DSS; MT \\fqa and bring all the people back to you. When everyone returns except the man you seek,\\f*",
+          "raw_sha256": "7a5496469dee2e26a53b4bb98a67394df613527685ed5a11875ea184314fe223"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 17:9 \\ft Or \\fqa If he should attack your troops first\\f*",
+          "raw_sha256": "61be64e01aef66ec0705c47af3cbc172f0209e0b504fcf2342814b53162dd0ba"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 17:25 \\fqa Ithra \\ft is a variant of \\fqa Jether\\ft ; see \\ref 1 Kings 2:5|1KI 2:5\\ref*.\\f*",
+          "raw_sha256": "3fdc9562859cbf0900ae80628e8086f9a43461c43f1495362338c8892d9bd31a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 17:25 \\ft Some LXX manuscripts (see also \\ref 1 Chronicles 2:17|1CH 2:17\\ref*); MT and other LXX manuscripts \\fqa Israelite\\f*",
+          "raw_sha256": "0875edfdc1565e299817170dbefdfbdbd9331515c1223dd36ed233ef3af98f08"
+        },
+        {
+          "source_usfm": "\\f + \\fr 17:25 \\ft Or \\fqa Abigal\\ft , a variant of \\fqa Abigail\\f*",
+          "raw_sha256": "bb3f83fba21ce2c15f28aa6465911f758a9d8bc8173cb9dccb79fc53516488e8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 17:25 \\ft Or \\fqa of Jesse\\ft ; see DSS and \\ref 1 Chronicles 2:13–16|1CH 2:13-16\\ref*\\f*",
+          "raw_sha256": "8e35a5f355d84a559049857028e8cd2c2052dae473b926ca065e265cb9d7124d"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 17:28 \\ft Most LXX manuscripts and Syriac; Hebrew includes \\fqa roasted seeds\\ft .\\f*",
+          "raw_sha256": "066fcd6f81ea6dc05f4ef41718c86689a9e2c320e87383ec7d80adba8c8c629d"
+        }
+      ]
+    },
+    "18": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 18:3 \\ft Two Hebrew manuscripts, some LXX manuscripts, and Vulgate; most Hebrew manuscripts \\fqa care; for now there are ten thousand like us\\f*",
+          "raw_sha256": "da63ce153a46107215fd34a1dd6e706a668fee8914c5f0e1710b9dac8e79f709"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 18:9 \\ft Or \\fqa large terebinth \\ft or \\fqa very great tree\\ft ; similarly in verses 10 and 14\\f*",
+          "raw_sha256": "174c3bbb3127d050578dffc174483c0bb41ca7e62325b3736930f0fd882e13b2"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 18:11 \\fqa 10 shekels \\ft is approximately 4 ounces or 114 grams of silver.\\f*",
+          "raw_sha256": "0ea891519ae724e382d587a41b8980594d83f8cc5f604d25acf4fadef81ea27a"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 18:12 \\fqa 1,000 shekels \\ft is approximately 25.1 pounds or 11.4 kilograms of silver.\\f*",
+          "raw_sha256": "03d28938c38daf5db1d5200b5249f944c2af6d3f51b160fc50f1019a8c526979"
+        },
+        {
+          "source_usfm": "\\f + \\fr 18:12 \\ft A few Hebrew manuscripts, LXX, Vulgate, and Syriac; most Hebrew manuscripts \\fqa Whoever you may be, protect the young man Absalom. \\ft or \\fqa Let no one touch the young man Absalom.\\f*",
+          "raw_sha256": "ba187f9d5c9df27870b3e1430e28215caa0dcd276e049e30f62a35aa52e236b4"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 18:13 \\ft Or \\fqa If I had dealt treacherously against his life\\f*",
+          "raw_sha256": "298106b5092d6a77e35e73945b1c45c9f3012520b6f0f600898b3386514070c2"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 18:23 \\ft That is, the plain of the Jordan\\f*",
+          "raw_sha256": "c371847b1d63f8dc08ab3d82f0d9102f3ce73351a21c729acf24264728504d85"
+        }
+      ]
+    },
+    "19": {
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 19:26 \\ft LXX, Syriac, and Vulgate \\fqa Saddle a donkey for me\\ft ; Hebrew \\fqa I will saddle a donkey for myself\\f*",
+          "raw_sha256": "ffa20d7f6f83753b8c6ea9f530660cf3a2fd021f760c6125bb89131b601c164c"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 19:27 \\ft Or \\fqa Angel\\f*",
+          "raw_sha256": "330a30e018f132cc25e91c30b6e88268975f7e240459d5eddf8cd89e673682d5"
+        }
+      ]
+    },
+    "20": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 20:6 \\ft Or \\fqa and snatch away our eyes \\ft or \\fqa and do us serious harm\\f*",
+          "raw_sha256": "75c41bf741d408ce7094eb30fe3ef079fe4dce619caf3e6285c8eaa6d6e98109"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 20:8 \\ft Literally \\fqa Now Joab was dressed in military attire, and over it was a belt around his waist with a dagger in its sheath. And as he stepped forward, it fell out.\\f*",
+          "raw_sha256": "71b46787d5eda7dd6762e8a2ffc2ec387c71f8143fa9a85ca996b1789a1c3a02"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 20:14 \\ft Hebrew \\fqa to Abel and Beth-maacah\\ft ; see verse 15.\\f*",
+          "raw_sha256": "f85cfc9eac122aaf52b322d8776f5c2f6891885c018dd526a43d3f64314cd39b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 20:14 \\ft Hebrew; LXX and Vulgate \\fqa Bicrites\\f*",
+          "raw_sha256": "a92802a9db9ab8e2657685a864fa07a95ce83bdc9ff7b8e59dc6ae92c4d025d8"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 20:24 \\fqa Adoram \\ft is a variant of \\fqa Adoniram \\ft and \\fqa Hadoram\\ft ; see \\ref 1 Kings 4:6|1KI 4:6\\ref* and 2 Chronicles 10:18.\\f*",
+          "raw_sha256": "895535586387fa80ba8b1b5132c665563468297721605362b36c64b4d22b8de7"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 20:25 \\fqa Sheva \\ft is also called \\fqa Seraiah\\ft , \\fqa Shisha\\ft , and \\fqa Shavsha\\ft ; see \\ref 2 Samuel 8:17|2SA 8:17\\ref*, 1 Kings 4:3, and 1 Chronicles 18:16.\\f*",
+          "raw_sha256": "3e2cff90084c1b2791d5c1f0defcb678fd6e3bb1a4de2caa2ef5f09de3269a7a"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 20:26 \\ft Hebrew; some LXX manuscripts and Syriac \\fqa Ithrite\\ft ; see \\ref 2 Samuel 23:38|2SA 23:38\\ref*.\\f*",
+          "raw_sha256": "bd5c1c68a64f12c423693b2e3f55a8140b28456252c5dc91d5dd581603e17078"
+        }
+      ]
+    },
+    "21": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 21:6 \\ft Or \\fqa expose them \\ft or \\fqa execute them\\ft ; similarly in verse 9\\f*",
+          "raw_sha256": "42bee418f5b4bc84bbfb760c59b3cd861f2edeaded01b3dc3957a984c537dcf1"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 21:8 \\ft Two Hebrew manuscripts, some LXX manuscripts, and Syriac (see also \\ref 1 Samuel 18:19|1SA 18:19\\ref*); most Hebrew and LXX manuscripts \\fqa Michal\\f*",
+          "raw_sha256": "4fb2939f5ccab69eb815bc5a49824799214fcd60ce9d08d9a239fc71ef4cbd8d"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 21:16 \\ft Or \\fqa the giant\\ft ; also in verses 18, 20, and 22\\f*",
+          "raw_sha256": "d601b0bb0f851c8c59f0c259e9bec4a28ee48b5ba08880b9e6ae1878398dbebc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 21:16 \\fqa 300 shekels \\ft is approximately 7.5 pounds or 3.4 kilograms.\\f*",
+          "raw_sha256": "d10c0724bd7d2a3dd8e24a647c67ee735596511a55ce1dbd016d321d4ab48d99"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 21:18 \\fqa Saph \\ft is a variant of \\fqa Sippai\\ft ; see \\ref 1 Chronicles 20:4|1CH 20:4\\ref*.\\f*",
+          "raw_sha256": "c107bd7c003afd5df89995403ddcbb7e3d8295d280ee4750d3cac86d40dbbb00"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 21:19 \\ft See \\ref 1 Chronicles 20:5|1CH 20:5\\ref*; Hebrew \\fqa Jaare-oregim\\f*",
+          "raw_sha256": "a2f1b2877fe5ad8e4c077bde0553a27d2e9c43f46e225feca23103763119d222"
+        },
+        {
+          "source_usfm": "\\f + \\fr 21:19 \\ft See \\ref 1 Chronicles 20:5|1CH 20:5\\ref*; Hebrew does not include \\fqa the brother of\\ft .\\f*",
+          "raw_sha256": "d30001ea65a783a6dfb939390b8c5472d022686082ddbfa699460da57cb4e184"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 21:21 \\fqa Shimei \\ft is a variant of \\fqa Shammah\\ft , \\fqa Shimeah\\ft , and \\fqa Shimea\\ft ; see \\ref 1 Samuel 16:9|1SA 16:9\\ref*, 2 Samuel 13:3, and 1 Chronicles 2:13.\\f*",
+          "raw_sha256": "59fe49bbadcaf986e6f47e63c6cb05b345cf6c4db41ceaced1ad964a52b07f3c"
+        }
+      ]
+    },
+    "22": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 22:8 \\ft Most Hebrew sources; Vulgate, Syriac, and two Hebrew manuscripts (see also \\ref Psalm 18:7|PSA 18:7\\ref*) \\fqa mountains\\f*",
+          "raw_sha256": "9e77d56d0b4d196cae226b03ca43ea1d2192dc55f37360dc0879e32d5ba38517"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 22:11 \\ft Many Hebrew manuscripts (see also \\ref Psalm 18:10|PSA 18:10\\ref*); most Hebrew manuscripts \\fqa He was seen\\f*",
+          "raw_sha256": "b4815fb05dfd6132a9c8e970d7eb77465dbc113e11825c1baa3bd72128e2542e"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 22:13 \\ft Or \\fqa bolts of lightning\\f*",
+          "raw_sha256": "62a290bf3abd1cd014a1c07f3cfb2e33c637d63fb680f3495cdbfce47631d3a8"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 22:25 \\ft Hebrew; LXX and Vulgate (see also \\ref Psalm 18:24|PSA 18:24\\ref*) \\fqa according to the cleanness of my hands\\f*",
+          "raw_sha256": "18fa1c6c135c6955c448ed046263134d7cdbe6a5eb3c63f31f95e7ad9cf8b6f0"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 22:36 \\ft Or \\fqa and Your help exalts me \\ft or \\fqa and You stoop down to make me great\\f*",
+          "raw_sha256": "97c5044f8a81d7188aa7b62c920fd8d7041824c1bd9ea4929b30a93e9eba1e07"
+        }
+      ],
+      "46": [
+        {
+          "source_usfm": "\\f + \\fr 22:46 \\ft Some LXX manuscripts and Vulgate (see also \\ref Psalm 18:45|PSA 18:45\\ref*); MT \\fqa and arm themselves\\f*",
+          "raw_sha256": "253b637417a087a151dcda14214030dc8ccf6a93ccaa4c35e273aec9e9862d12"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 22:50 \\ft Cited in \\ref Romans 15:9|ROM 15:9\\ref*\\f*",
+          "raw_sha256": "051f048e6305eb60d1d220e67239a04f942b5f5c9ef67d6690f9a0e879b1a6c4"
+        }
+      ]
+    },
+    "23": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 23:1 \\ft Or \\fqa the hero of the songs of Israel \\ft or \\fqa the favorite of the Strong One of Israel\\f*",
+          "raw_sha256": "0ec31fcb2e60fc1dbcf6bc442eccea3b8a6f784581b1ccd3fb280c408c02c698"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 23:8 \\fqa Tahchemonite \\ft is probably a variant of \\fqa Hachmonite\\ft ; see \\ref 1 Chronicles 11:11|1CH 11:11\\ref*.\\f*",
+          "raw_sha256": "2e69a8f6cb67e59fca336a1391bbb5777f7a604a7bd2f6c336618e142fb6b94d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:8 \\ft Or \\fqa chief among the captains\\f*",
+          "raw_sha256": "b80e63b192bdad2b8bd32b758e60e5707435999946e974a28e8fe20174fc14d2"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:8 \\ft Some LXX manuscripts (see also \\ref 1 Chronicles 11:11|1CH 11:11\\ref*); Hebrew \\fqa He was called Adino the Eznite because of\\f*",
+          "raw_sha256": "3fab333dff029c64ec0b00f984654bad282790a11318e1e9590c1e586ef40a71"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 23:9 \\fqa Dodo \\ft is a variant of \\fqa Dodai\\ft ; see \\ref 1 Chronicles 27:4|1CH 27:4\\ref*.\\f*",
+          "raw_sha256": "3f9f0c952e3cdd5e34d7f43cba90ea8294dd231d227b2df7ce8f7654f8549ff5"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 23:18 \\ft Most Hebrew manuscripts (see also \\ref 1 Chronicles 11:20|1CH 11:20\\ref*); two Hebrew manuscripts and Syriac \\fqa the Thirty\\f*",
+          "raw_sha256": "42e713b7204bd9dbe21077be4ba9daf04b7e6c754478633cf2b38853b56d41ae"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 23:19 \\ft Hebrew; Syriac \\fqa the Thirty\\f*",
+          "raw_sha256": "b6d8a86d6e549ac3665bca9caf49ee2151fe60621e5bbe0600fb31a562b42c2e"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 23:20 \\ft Or \\fqa Benaiah son of Jehoiada was the son of Ishhai\\f*",
+          "raw_sha256": "fe085242a1b03f1c89fb7551e50404defb4a29438e5f7c9e98c01e45fb238e39"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:20 \\ft Or \\fqa two sons of Ariel\\f*",
+          "raw_sha256": "da05c73bad760739da78d9c52b63e8248240b3a87647a2cc563abdb3b9352baf"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 23:24 \\ft Literally \\fqa In the Thirty (were):\\f*",
+          "raw_sha256": "8332e0fe6ac76d6bff384cc315d28893f768f5757712df3b7dbab9f1281d52f8"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 23:27 \\ft Hebrew; some LXX manuscripts \\fqa Sibbecai\\ft ; see \\ref 2 Samuel 21:18|2SA 21:18\\ref* and 1 Chronicles 11:29.\\f*",
+          "raw_sha256": "5288881124dfae164df3cd4f8c89bf6a9f99b570bc54b91204f5786100e6509c"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 23:29 \\ft Some Hebrew manuscripts and Vulgate (see also \\ref 1 Chronicles 11:30|1CH 11:30\\ref*); most MT manuscripts \\fqa Heleb\\f*",
+          "raw_sha256": "dc7e93af32d471a7c958875e1c0fb0bdcfc67f90f5d1d49fcecfa22a78cb5398"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:29 \\fqa Ittai \\ft is a variant of \\fqa Ithai\\ft ; see \\ref 1 Chronicles 11:31|1CH 11:31\\ref*.\\f*",
+          "raw_sha256": "8e3456b35a2f5f2d6a386bdfca7a711592a0f2b48395f9cff18ab926a9b34a56"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 23:30 \\fqa Hiddai \\ft is a variant of \\fqa Hurai\\ft ; see \\ref 1 Chronicles 11:32|1CH 11:32\\ref*.\\f*",
+          "raw_sha256": "2f23b873eafd1c99bde4e3985ff86d81debd42f3bd0479e1803fc7a218e5696f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:30 \\ft Or \\fqa from the ravines\\f*",
+          "raw_sha256": "1fc8b758b56a5e4e99c1c90d9009e02ce5bd0a3764fce399d1f80e27af2b98ee"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 23:32 \\fqa Jashen \\ft is a variant of \\fqa Hashem\\ft ; see \\ref 1 Chronicles 11:34|1CH 11:34\\ref*.\\f*",
+          "raw_sha256": "64575228da84df9913def84df333085b55bf077899686b5d33ca962cc0edfa95"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 23:33 \\ft Some LXX manuscripts (see also \\ref 1 Chronicles 11:34|1CH 11:34\\ref*); Hebrew \\fqa Jonathan, \\fv 33\\fv*Shammah\\f*",
+          "raw_sha256": "11645973ec15b5d27c3f1ace9ca653c81756d23b003630e37a78891b6e0f4c60"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:33 \\ft Hebrew; some LXX manuscripts \\fqa Sachar\\ft ; see \\ref 1 Chronicles 11:35|1CH 11:35\\ref*.\\f*",
+          "raw_sha256": "2d0f45f625d7b8c6cd85b3646101d7d07236be643d50ecda60760d8666c312a6"
+        }
+      ]
+    },
+    "24": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 24:2 \\ft LXX \\fqa to Joab and the army commanders with him\\f*",
+          "raw_sha256": "5565f028448ba1c7373c2c04dddae8504c3b1e732b28d2b6f0528e3957aaf52c"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 24:6 \\ft Hebrew; some LXX manuscripts \\fqa to Gilead and to the land of the Hittites\\f*",
+          "raw_sha256": "d95d5d614e4fa3b5ce89a4cca8ef3f33aedd42c5589dcfa0b5aed70a3f95dbbd"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 24:7 \\ft Or \\fqa to the south of Judah\\f*",
+          "raw_sha256": "76ff25196552ff0332eae6d06cfb5b95e47b3f8b838017a49e95a5ce0e5ee0e1"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 24:13 \\ft LXX (see also \\ref 1 Chronicles 21:12|1CH 21:12\\ref*); Hebrew \\fqa seven\\f*",
+          "raw_sha256": "3e7a733d49ca5cb2222c6534dd231366ec834811e6e35a9431f4641a53284d9f"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 24:15 \\ft Literally \\fqa and of the people from Dan to Beersheba, seventy thousand men died\\f*",
+          "raw_sha256": "cee98dedd96190107c573e40d32276849d85b545a8d7cbd8878f5908e68787a1"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 24:16 \\fqa Araunah \\ft is a variant of \\fqa Ornan\\ft ; see \\ref 1 Chronicles 21:15|1CH 21:15\\ref* and 2 Chronicles 3:1.\\f*",
+          "raw_sha256": "4462d080d5935f26ffaa3ba8df77686401786110850dca296ee435989ec2283b"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 24:17 \\ft DSS and LXX; MT does not include \\fqa the shepherd\\ft .\\f*",
+          "raw_sha256": "6ff21099979a358eb98b6358adffd569f0ba7042853ef6181ba1209781cf72e8"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 24:24 \\fqa 50 shekels \\ft is approximately 1.26 pounds or 569.8 grams of silver.\\f*",
+          "raw_sha256": "028617957da97dc5bf4aa4748cea9737f34fae51333379e914d51188ccf19b56"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

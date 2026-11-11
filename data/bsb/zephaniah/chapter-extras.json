@@ -1,0 +1,29 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ZEP",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Zephaniah Prophesies Judgment on Judah",
+        "\\s1 The Day of the LORD"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 A Call to Repentance",
+        "\\s1 Judgment on the Philistines",
+        "\\s1 Judgment on Moab and Ammon",
+        "\\s1 Judgment on Cush and Assyria"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Judgment on Jerusalem",
+        "\\s1 Purification of the Nations",
+        "\\s1 A Faithful Remnant",
+        "\\s1 Israel’s Restoration"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

@@ -1,0 +1,34 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2TI",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Paul’s Greeting to Timothy",
+        "\\s1 Faithfulness under Persecution",
+        "\\s1 Holding to Sound Teaching"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Grace and Perseverance",
+        "\\s1 The Lord’s Approved Workman"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Evil in the Last Days",
+        "\\s1 All Scripture Is God-Breathed"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Preach the Word",
+        "\\s1 Personal Concerns",
+        "\\s1 The Lord Remains Faithful",
+        "\\s1 Final Greetings"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

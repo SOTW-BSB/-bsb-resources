@@ -1,0 +1,27 @@
+{
+  "edition_id": "BSB",
+  "book_code": "TIT",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Paul’s Greeting to Titus",
+        "\\s1 Appointing Elders on Crete",
+        "\\s1 Correcting False Teachers"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Teaching Sound Doctrine",
+        "\\s1 God’s Grace Brings Salvation"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Heirs of Grace",
+        "\\s1 Avoid Divisions",
+        "\\s1 Final Remarks and Greetings"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

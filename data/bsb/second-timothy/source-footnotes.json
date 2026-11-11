@@ -1,0 +1,87 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2TI",
+  "chapters": {
+    "1": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 1:7 \\ft Or \\fqa timidity \\ft or \\fqa cowardice\\f*",
+          "raw_sha256": "1dba7f5ab61e3559e779c5fccd1d092b92e8fc4d024a9a54116295318e302094"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft Literally \\fqa before times eternal\\f*",
+          "raw_sha256": "0d8c398dbca9f12a54a6bfa63382b1f01a03d43ad2a93177b9b611dabf687695"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft Or \\fqa what He has entrusted to me\\f*",
+          "raw_sha256": "3b78f90bc6a3c7af3bf12849db73682a7211d9d0919705a1d305c2f8ec8f5294"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Literally \\fqa sound words\\f*",
+          "raw_sha256": "90dd88000de077c5cfa71c818b5338e41fcb5b924f68818679b6611f43952b03"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Or \\fqa the good deposit entrusted to you\\f*",
+          "raw_sha256": "58613a2094bbc6557471b4799d391aadef956b4ac860bda5cdb3a65dbb6eac69"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 1:15 \\ft Literally \\fqa in Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "d9365e112218d8e40aa2adb1a7e7b52f13f66b8e89138303f6c743b50c233916"
+        }
+      ]
+    },
+    "2": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 2:14 \\ft SBL, BYZ, and TR \\fqa the Lord\\f*",
+          "raw_sha256": "44c6636fb8837a102a7810d2f51be738a23ff825d1316ce8cb2e749a9c39f73f"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 2:19 \\ft \\ref Numbers 16:5|NUM 16:5\\ref* (see also LXX)\\f*",
+          "raw_sha256": "6d871c2d4eaf16be937f18108bf0a936804ca3e381a9d1866e4cb2cdf82d0aac"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 2:21 \\ft Literally \\fqa cleanses himself of these\\f*",
+          "raw_sha256": "e0957ac1856be887b5bb17df91e7a2a250bcae02746c296cb2e76761fb3a04ff"
+        }
+      ]
+    },
+    "3": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft See \\ref Jasher 79:27|79:27\\ref*. \\fqa The Book of Jashar \\ft or \\fqa the Book of the Upright One \\ft is often cited as \\fqa Jasher\\ft .\\f*",
+          "raw_sha256": "068607699249ff917cb23255c41d516e4511cc4af4ef763196961d7617a3b76b"
+        }
+      ]
+    },
+    "4": {
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 4:19 \\fqa Prisca \\ft is a variant of \\fqa Priscilla\\ft ; see \\ref Acts 18:2|ACT 18:2\\ref*.\\f*",
+          "raw_sha256": "a41112f41c15e421daf5cdceb32c7712cf6f5c5c7b6a4379c1ea775df88ef802"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 4:22 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "065967cbacea79d1a40412d4f5957467af7dda44ec72bd7f08bda90ea8b06ab6"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

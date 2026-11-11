@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "SNG.2.1",
+      "edition_verse_id": "BSB:SNG.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I am a rose of Sharon, a lily of the valley.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.2.2",
+      "edition_verse_id": "BSB:SNG.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Like a lily among the thorns is my darling among the maidens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.3",
+      "edition_verse_id": "BSB:SNG.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Like an apple tree among the trees of the forest is my beloved among the young men. I delight to sit in his shade, and his fruit is sweet to my taste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.4",
+      "edition_verse_id": "BSB:SNG.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He has brought me to the house of wine, and his banner over me is love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.5",
+      "edition_verse_id": "BSB:SNG.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Sustain me with raisins; refresh me with apples, for I am faint with love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.6",
+      "edition_verse_id": "BSB:SNG.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "His left hand is under my head, and his right arm embraces me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.7",
+      "edition_verse_id": "BSB:SNG.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "O daughters of Jerusalem, I adjure you by the gazelles and does of the field: Do not arouse or awaken love until the time is right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.8",
+      "edition_verse_id": "BSB:SNG.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Listen! My beloved approaches. Look! Here he comes, leaping across the mountains, bounding over the hills.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.9",
+      "edition_verse_id": "BSB:SNG.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "My beloved is like a gazelle or a young stag. Look, he stands behind our wall, gazing through the windows, peering through the lattice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.10",
+      "edition_verse_id": "BSB:SNG.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "My beloved calls to me, “Arise, my darling. Come away with me, my beautiful one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.11",
+      "edition_verse_id": "BSB:SNG.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For now the winter is past; the rain is over and gone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.12",
+      "edition_verse_id": "BSB:SNG.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The flowers have appeared in the countryside; the season of singing has come, and the cooing of turtledoves is heard in our land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.13",
+      "edition_verse_id": "BSB:SNG.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The fig tree ripens its figs; the blossoming vines spread their fragrance. Arise, come away, my darling; come away with me, my beautiful one.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.14",
+      "edition_verse_id": "BSB:SNG.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "O my dove in the clefts of the rock, in the crevices of the cliff, let me see your face, let me hear your voice; for your voice is sweet, and your countenance is lovely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.15",
+      "edition_verse_id": "BSB:SNG.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Catch for us the foxes— the little foxes that ruin the vineyards— for our vineyards are in bloom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.16",
+      "edition_verse_id": "BSB:SNG.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "My beloved is mine and I am his; he pastures his flock among the lilies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.2.17",
+      "edition_verse_id": "BSB:SNG.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Before the day breaks and shadows flee, turn, my beloved, and be like a gazelle or a young stag on the mountains of Bether.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

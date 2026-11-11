@@ -1,0 +1,26 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ZEP",
+  "chapter_count": 3,
+  "verse_count": 53,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "998f5e5a0936fb66a0aa836a7e4c20dea600c92ba58278d8dfed257dffdf5cb3"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "74bf80e5752e2804076cb25489c9b6fdca653f414e445d24d3efca289e7a8b30"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "4808c5b72c47a1ca47e21bde0ffd896b641bcf4ded3792c4a3a6c84999a3b252"
+    }
+  ]
+}

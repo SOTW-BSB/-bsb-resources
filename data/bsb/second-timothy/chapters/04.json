@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2TI",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "2TI.4.1",
+      "edition_verse_id": "BSB:2TI.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I charge you in the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of His appearing and His kingdom:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.2",
+      "edition_verse_id": "BSB:2TI.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Preach the word; be prepared in season and out of season; reprove, rebuke, and encourage with every form of patient instruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.3",
+      "edition_verse_id": "BSB:2TI.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the time will come when men will not tolerate sound doctrine, but with itching ears they will gather around themselves teachers to suit their own desires.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.4",
+      "edition_verse_id": "BSB:2TI.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So they will turn their ears away from the truth and turn aside to myths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.5",
+      "edition_verse_id": "BSB:2TI.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But you, be sober in all things, endure hardship, do the work of an evangelist, fulfill your ministry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.6",
+      "edition_verse_id": "BSB:2TI.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For I am already being poured out like a drink offering, and the time of my departure is at hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.7",
+      "edition_verse_id": "BSB:2TI.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I have fought the good fight, I have finished the race, I have kept the faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.8",
+      "edition_verse_id": "BSB:2TI.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "From now on there is laid up for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day — and not only to me, but to all who crave His appearing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.9",
+      "edition_verse_id": "BSB:2TI.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Make every effort to come to me quickly,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.10",
+      "edition_verse_id": "BSB:2TI.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "because Demas, in his love of this world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, and Titus to Dalmatia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.11",
+      "edition_verse_id": "BSB:2TI.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Only Luke is with me. Get Mark and bring him with you, because he is useful to me in the ministry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.12",
+      "edition_verse_id": "BSB:2TI.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Tychicus, however, I have sent to Ephesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.13",
+      "edition_verse_id": "BSB:2TI.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.14",
+      "edition_verse_id": "BSB:2TI.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Alexander the coppersmith did great harm to me. The Lord will repay him according to his deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.15",
+      "edition_verse_id": "BSB:2TI.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You too should beware of him, for he has vigorously opposed our message.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.16",
+      "edition_verse_id": "BSB:2TI.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "At my first defense, no one stood with me, but everyone deserted me. May it not be charged against them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.17",
+      "edition_verse_id": "BSB:2TI.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But the Lord stood by me and strengthened me, so that through me the message would be fully proclaimed, and all the Gentiles would hear it. So I was delivered from the mouth of the lion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.18",
+      "edition_verse_id": "BSB:2TI.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the Lord will rescue me from every evil action and bring me safely into His heavenly kingdom. To Him be the glory forever and ever. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TI.4.19",
+      "edition_verse_id": "BSB:2TI.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Greet Prisca and Aquila, as well as the household of Onesiphorus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.20",
+      "edition_verse_id": "BSB:2TI.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Erastus has remained at Corinth, and Trophimus I left sick in Miletus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.21",
+      "edition_verse_id": "BSB:2TI.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Make every effort to come to me before winter. Eubulus sends you greetings, as do Pudens, Linus, Claudia, and all the brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TI.4.22",
+      "edition_verse_id": "BSB:2TI.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The Lord be with your spirit. Grace be with you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

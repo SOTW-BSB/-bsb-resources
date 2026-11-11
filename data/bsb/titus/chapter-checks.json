@@ -1,0 +1,26 @@
+{
+  "edition_id": "BSB",
+  "book_code": "TIT",
+  "chapter_count": 3,
+  "verse_count": 46,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 16,
+      "omitted_from_main_text": [],
+      "sha256": "854c2d53916186a82b9a80849b9f8489d34e56faa4ae4f8e816dffc07bc3fd6a"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "26a4cd301d05cb8f63a20c0a9ba89e055a11f68b09579f322d6f7f5026ddf9cc"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "1a0965c8906d423e185b8f66e9afce17189bda4f2f75988da81a0b0360581052"
+    }
+  ]
+}

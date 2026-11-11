@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ZEC",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "ZEC.10.1",
+      "edition_verse_id": "BSB:ZEC.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Ask the LORD for rain in springtime; the LORD makes the storm clouds, and He will give everyone showers of rain and crops in the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.10.2",
+      "edition_verse_id": "BSB:ZEC.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For idols speak deceit and diviners see illusions; they tell false dreams and offer empty comfort. Therefore the people wander like sheep, oppressed for lack of a shepherd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.3",
+      "edition_verse_id": "BSB:ZEC.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“My anger burns against the shepherds, and I will punish the leaders. For the LORD of Hosts attends to His flock, the house of Judah; He will make them like His royal steed in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.4",
+      "edition_verse_id": "BSB:ZEC.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The cornerstone will come from Judah, the tent peg from him, as well as the battle bow and every ruler together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.5",
+      "edition_verse_id": "BSB:ZEC.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They will be like mighty men in battle, trampling the enemy in the mire of the streets. They will fight because the LORD is with them, and they will put the horsemen to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.6",
+      "edition_verse_id": "BSB:ZEC.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will strengthen the house of Judah and save the house of Joseph. I will restore them because I have compassion on them, and they will be as though I had not rejected them. For I am the LORD their God, and I will answer them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.7",
+      "edition_verse_id": "BSB:ZEC.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ephraim will be like a mighty man, and their hearts will be glad as with wine. Their children will see it and be joyful; their hearts will rejoice in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.8",
+      "edition_verse_id": "BSB:ZEC.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will whistle for them to gather, for I have redeemed them; and they will be as numerous as they once were.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.9",
+      "edition_verse_id": "BSB:ZEC.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Though I sow them among the nations, they will remember Me in distant lands; they and their children will live and return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.10",
+      "edition_verse_id": "BSB:ZEC.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I will bring them back from Egypt and gather them from Assyria. I will bring them to Gilead and Lebanon until no more room is found for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.11",
+      "edition_verse_id": "BSB:ZEC.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They will pass through the sea of distress and strike the waves of the sea; all the depths of the Nile will dry up. The pride of Assyria will be brought down, and the scepter of Egypt will depart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.10.12",
+      "edition_verse_id": "BSB:ZEC.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will strengthen them in the LORD, and in His name they will walk,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

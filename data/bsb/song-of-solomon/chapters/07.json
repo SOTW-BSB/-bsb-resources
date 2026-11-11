@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "SNG.7.1",
+      "edition_verse_id": "BSB:SNG.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How beautiful are your sandaled feet, O daughter of the prince! The curves of your thighs are like jewels, the handiwork of a master.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.7.2",
+      "edition_verse_id": "BSB:SNG.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Your navel is a rounded goblet; it never lacks blended wine. Your waist is a mound of wheat encircled by the lilies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.3",
+      "edition_verse_id": "BSB:SNG.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Your breasts are like two fawns, twins of a gazelle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.4",
+      "edition_verse_id": "BSB:SNG.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Your neck is like a tower made of ivory; your eyes are like the pools of Heshbon by the gate of Bath-rabbim; your nose is like the tower of Lebanon, facing toward Damascus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.5",
+      "edition_verse_id": "BSB:SNG.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Your head crowns you like Mount Carmel, the hair of your head like purple threads; the king is captured in your tresses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.6",
+      "edition_verse_id": "BSB:SNG.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "How fair and pleasant you are, O love, with your delights!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.7",
+      "edition_verse_id": "BSB:SNG.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Your stature is like a palm tree; your breasts are clusters of fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.8",
+      "edition_verse_id": "BSB:SNG.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I said, “I will climb the palm tree; I will take hold of its fruit.” May your breasts be like clusters of the vine, the fragrance of your breath like apples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.9",
+      "edition_verse_id": "BSB:SNG.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and your mouth like the finest wine. May it flow smoothly to my beloved, gliding gently over lips and teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.10",
+      "edition_verse_id": "BSB:SNG.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I belong to my beloved, and his desire is for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.11",
+      "edition_verse_id": "BSB:SNG.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Come, my beloved, let us go to the countryside; let us spend the night among the wildflowers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.12",
+      "edition_verse_id": "BSB:SNG.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let us go early to the vineyards to see if the vine has budded, if the blossom has opened, if the pomegranates are in bloom — there I will give you my love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.7.13",
+      "edition_verse_id": "BSB:SNG.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The mandrakes send forth a fragrance, and at our door is every delicacy, new as well as old, that I have treasured up for you, my beloved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

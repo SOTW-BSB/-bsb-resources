@@ -1,0 +1,41 @@
+{
+  "edition_id": "BSB",
+  "book_code": "TIT",
+  "chapters": {
+    "1": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\ft Literally \\fqa before times eternal\\f*",
+          "raw_sha256": "1b277063da1f45e374621c8645f5cda2b148785e392d40a0110c07b82aee48e0"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 1:6 \\ft Or \\fqa faithful to his wife\\f*",
+          "raw_sha256": "3e92675752e38c26a27feb894d279b2e47be46045b236064fa1da2351df5ff43"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft This quote, also known as the Epimenides paradox, has been attributed to the Cretan philosopher Epimenides of Knossos.\\f*",
+          "raw_sha256": "0a16aaac1870a7dae28f8dabd399d9852211b7908e3e4838ed35ab4a179e5541"
+        }
+      ]
+    },
+    "3": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\ft Or \\fqa of regeneration\\f*",
+          "raw_sha256": "cdd2c3a0a929b9bf40e7a85b87115030752437e575086b34acafa46668b05208"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "f469150d9aabef1e0d6990dfbdd1e431f9c02a83db410103ec84880e4cf32b98"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

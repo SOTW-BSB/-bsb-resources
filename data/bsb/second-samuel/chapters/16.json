@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2SA",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "2SA.16.1",
+      "edition_verse_id": "BSB:2SA.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When David had gone a little beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a pair of saddled donkeys loaded with two hundred loaves of bread, a hundred clusters of raisins, a hundred summer fruits, and a skin of wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.2",
+      "edition_verse_id": "BSB:2SA.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Why do you have these?” asked the king. Ziba replied, “The donkeys are for the king’s household to ride, the bread and summer fruit are for the young men to eat, and the wine is to refresh those who become exhausted in the wilderness.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.3",
+      "edition_verse_id": "BSB:2SA.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Where is your master’s grandson?” asked the king. And Ziba answered, “Indeed, he is staying in Jerusalem, for he has said, ‘Today, the house of Israel will restore to me the kingdom of my grandfather.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.4",
+      "edition_verse_id": "BSB:2SA.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So the king said to Ziba, “All that belongs to Mephibosheth is now yours!” “I humbly bow before you,” said Ziba. “May I find favor in your eyes, my lord the king!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.5",
+      "edition_verse_id": "BSB:2SA.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As King David approached Bahurim, a man from the family of the house of Saul was just coming out. His name was Shimei son of Gera, and as he approached, he kept yelling out curses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.6",
+      "edition_verse_id": "BSB:2SA.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He threw stones at David and at all the servants of the king, though the troops and all the mighty men were on David’s right and left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.16.7",
+      "edition_verse_id": "BSB:2SA.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And as he yelled curses, Shimei said, “Get out, get out, you worthless man of bloodshed!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.8",
+      "edition_verse_id": "BSB:2SA.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD has paid you back for all the blood of the house of Saul, in whose place you have reigned, and the LORD has delivered the kingdom into the hand of your son Absalom. See, you have come to ruin because you are a man of bloodshed!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.16.9",
+      "edition_verse_id": "BSB:2SA.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Abishai son of Zeruiah said to the king, “Why should this dead dog curse my lord the king? Let me go over and cut off his head!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.10",
+      "edition_verse_id": "BSB:2SA.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But the king replied, “What have I to do with you, O sons of Zeruiah? If he curses me because the LORD told him, ‘Curse David,’ who can ask, ‘Why did you do this?’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.11",
+      "edition_verse_id": "BSB:2SA.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then David said to Abishai and to all his servants, “Behold, my own son, my own flesh and blood, seeks my life. How much more, then, this Benjamite! Leave him alone and let him curse me, for the LORD has told him so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.12",
+      "edition_verse_id": "BSB:2SA.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Perhaps the LORD will see my affliction and repay me with good for the cursing I receive today.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.16.13",
+      "edition_verse_id": "BSB:2SA.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So David and his men proceeded along the road as Shimei went along the ridge of the hill opposite him. As Shimei went, he yelled curses, threw stones, and flung dust at David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.14",
+      "edition_verse_id": "BSB:2SA.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Finally, the king and all the people with him arrived, exhausted. And there he refreshed himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.16.15",
+      "edition_verse_id": "BSB:2SA.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then Absalom and all the men of Israel came to Jerusalem, and Ahithophel was with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.16",
+      "edition_verse_id": "BSB:2SA.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And David’s friend Hushai the Archite went to Absalom and said to him, “Long live the king! Long live the king!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.16.17",
+      "edition_verse_id": "BSB:2SA.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“Is this the loyalty you show your friend?” Absalom replied. “Why did you not go with your friend?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.18",
+      "edition_verse_id": "BSB:2SA.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Not at all,” Hushai answered. “For the one chosen by the LORD, by this people, and by all the men of Israel — his I will be, and with him I will remain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.19",
+      "edition_verse_id": "BSB:2SA.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Furthermore, whom should I serve if not his son? As I served in your father’s presence, so also I will serve in yours.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.16.20",
+      "edition_verse_id": "BSB:2SA.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Absalom said to Ahithophel, “Give me counsel. What should we do?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.21",
+      "edition_verse_id": "BSB:2SA.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Ahithophel replied, “Sleep with your father’s concubines, whom he has left to take care of the palace. When all Israel hears that you have become a stench to your father, then the hands of all who are with you will be strengthened.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.22",
+      "edition_verse_id": "BSB:2SA.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So they pitched a tent for Absalom on the roof, and he slept with his father’s concubines in the sight of all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.16.23",
+      "edition_verse_id": "BSB:2SA.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now in those days the advice of Ahithophel was like the consultation of the word of God. Such was the regard that both David and Absalom had for Ahithophel’s advice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

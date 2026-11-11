@@ -1,0 +1,117 @@
+{
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Most translators add subheadings for speaker identifications such as \\fqa The Bride\\ft , \\fqa The Groom\\ft , and \\fqa The Friends \\ft based on the gender and number of the Hebrew words.\\f*",
+          "raw_sha256": "e47d1b552175caeac9f89102951393a1b1340a15d5f6ff21c0390ec168e4f846"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Sharon Plain is a region in the coastal plain of Israel\\f*",
+          "raw_sha256": "89d20d1c99f332e038bbf0800e0c952a3e413805c0a0d4aeac91122c4490eadf"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 2:4 \\ft That is, the banquet hall\\f*",
+          "raw_sha256": "b35299d6de8a18bd684e68d2b4c34581395c298d227661d251970140c63c44cd"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 2:12 \\ft Or \\fqa pruning\\f*",
+          "raw_sha256": "86880476b0a48925bb1fc110ed02c1bc6b958c5622d7503f12f65837549c9102"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\ft Or \\fqa the rugged mountains\\f*",
+          "raw_sha256": "58ca7dd2c4202f4e48ff399d086047b68a7cdf73cd2f5b46a8b823c7a94a9fb5"
+        }
+      ]
+    },
+    "3": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 3:7 \\ft That is, the couch on which servants carry a king\\f*",
+          "raw_sha256": "5ed2358354b554787327bc1a2658380584fcb5fd6863217c71ceded4f0f1c4cb"
+        }
+      ]
+    },
+    "4": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 4:8 \\ft Or \\fqa Look down\\f*",
+          "raw_sha256": "679e51e34c57b5b08ddf4afaffe895716584620295d54542b985be33fc0ef7d7"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 4:15 \\ft Or \\fqa flowing water \\ft or \\fqa living water\\f*",
+          "raw_sha256": "480da509de6f40e4f43189455324ee632dd1fe2f4d29e765366759bdae544c4c"
+        }
+      ]
+    },
+    "5": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 5:16 \\ft Hebrew \\fqa palate\\f*",
+          "raw_sha256": "13d071f4858ab9f0822da3bd1c8c7a2ec9e804b70c3069826383f6ba0a8d648d"
+        }
+      ]
+    },
+    "6": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 6:12 \\ft Or \\fqa among the chariots of Amminadab\\f*",
+          "raw_sha256": "2c3eeefa15ee03544aca009d650b11be5aa21982156a31406c533cba9834e8f8"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 6:13 \\ft Or \\fqa the dance of the two camps\\f*",
+          "raw_sha256": "a0d5bf66bc5d26073b822e3c9947a32b3471cb1c16936f8e0b04797d3f6d3a8a"
+        }
+      ]
+    },
+    "7": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 7:9 \\ft Hebrew \\fqa palate \\ft \\f*",
+          "raw_sha256": "895071db4da213fb0988ff0f01ae489e1740c525ba84b5b97bb3e85cb94d5a19"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:9 \\ft LXX, Syriac, and Vulgate; Hebrew \\fqa gliding gently over lips as we sleep\\f*",
+          "raw_sha256": "29794a7d8ef4c2e19211eee6e7fef9e87b4ff49ec46142a19e1beddc0d30bdf0"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 7:11 \\ft Or \\fqa among the henna blossoms \\ft or \\fqa in the villages\\f*",
+          "raw_sha256": "c05182efa7e6d5fdc8a2e94792dd248d85f671553b3b04770089b86601fc4fb4"
+        }
+      ]
+    },
+    "8": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 8:6 \\ft Or \\fqa passion\\f*",
+          "raw_sha256": "f6ce7a435264f08e7b25e15dd09639a405a4560c2b50bb70963cd771a84676ef"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 8:11 \\ft Hebrew \\fqa a thousand of silver\\ft ; that is, approximately 25.1 pounds or 11.4 kilograms of silver\\f*",
+          "raw_sha256": "6484985c260d11ca32c15e212b27c4361c57b505137d80e6209d8dd421209fa6"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

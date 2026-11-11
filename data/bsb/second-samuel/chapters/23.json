@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2SA",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "2SA.23.1",
+      "edition_verse_id": "BSB:2SA.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These are the last words of David: “The oracle of David son of Jesse, the oracle of the man raised on high, the one anointed by the God of Jacob, and the sweet psalmist of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.23.2",
+      "edition_verse_id": "BSB:2SA.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The Spirit of the LORD spoke through me; His word was on my tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.3",
+      "edition_verse_id": "BSB:2SA.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The God of Israel spoke; the Rock of Israel said to me, ‘He who rules the people with justice, who rules in the fear of God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.4",
+      "edition_verse_id": "BSB:2SA.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "is like the light of the morning at sunrise of a cloudless dawn, the glistening after the rain on the sprouting grass of the earth.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.5",
+      "edition_verse_id": "BSB:2SA.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Is not my house right with God? For He has established with me an everlasting covenant, ordered and secured in every part. Will He not bring about my full salvation and my every desire?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.6",
+      "edition_verse_id": "BSB:2SA.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But the worthless are all like thorns raked aside, for they can never be gathered by hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.7",
+      "edition_verse_id": "BSB:2SA.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The man who touches them must be armed with iron or with the shaft of a spear. The fire burns them to ashes in the place where they lie.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.8",
+      "edition_verse_id": "BSB:2SA.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite was chief of the Three. He wielded his spear against eight hundred men, whom he killed at one time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.23.9",
+      "edition_verse_id": "BSB:2SA.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Next in command was Eleazar son of Dodo the Ahohite. As one of the three mighty men, he went with David to taunt the Philistines who had gathered for battle at Pas-dammim. The men of Israel retreated,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.10",
+      "edition_verse_id": "BSB:2SA.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but Eleazar stood his ground and struck the Philistines until his hand grew weary and stuck to his sword. The LORD brought about a great victory that day. Then the troops returned to him, but only to plunder the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.11",
+      "edition_verse_id": "BSB:2SA.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And after him was Shammah son of Agee the Hararite. When the Philistines had banded together near a field full of lentils, Israel’s troops fled from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.12",
+      "edition_verse_id": "BSB:2SA.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But Shammah took his stand in the middle of the field, defended it, and struck down the Philistines. So the LORD brought about a great victory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.13",
+      "edition_verse_id": "BSB:2SA.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "At harvest time, three of the thirty chief men went down to David at the cave of Adullam, while a company of Philistines was encamped in the Valley of Rephaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.23.14",
+      "edition_verse_id": "BSB:2SA.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "At that time David was in the stronghold, and the garrison of the Philistines was at Bethlehem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.15",
+      "edition_verse_id": "BSB:2SA.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "David longed for water and said, “Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.16",
+      "edition_verse_id": "BSB:2SA.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So the three mighty men broke through the Philistine camp, drew water from the well near the gate of Bethlehem, and brought it back to David. But he refused to drink it; instead , he poured it out to the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.23.17",
+      "edition_verse_id": "BSB:2SA.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "saying, “Far be it from me, O LORD, to do this! Is this not the blood of the men who risked their lives?” So he refused to drink it. Such were the exploits of the three mighty men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.18",
+      "edition_verse_id": "BSB:2SA.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now Abishai, the brother of Joab and son of Zeruiah, was chief of the Three, and he wielded his spear against three hundred men, killed them, and won a name along with the Three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.23.19",
+      "edition_verse_id": "BSB:2SA.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Was he not more honored than the Three? And he became their commander, even though he was not included among the Three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.20",
+      "edition_verse_id": "BSB:2SA.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Benaiah son of Jehoiada was a man of valor from Kabzeel, a man of many exploits. He struck down two champions of Moab, and on a snowy day he went down into a pit and killed a lion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.23.21",
+      "edition_verse_id": "BSB:2SA.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He also struck down an Egyptian, a huge man. Although the Egyptian had a spear in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.22",
+      "edition_verse_id": "BSB:2SA.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "These were the exploits of Benaiah son of Jehoiada, who won a name along with the three mighty men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.23",
+      "edition_verse_id": "BSB:2SA.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He was most honored among the Thirty, but he did not become one of the Three. And David appointed him over his guard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.24",
+      "edition_verse_id": "BSB:2SA.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Now these were members of the Thirty: Asahel the brother of Joab, Elhanan son of Dodo of Bethlehem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.23.25",
+      "edition_verse_id": "BSB:2SA.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Shammah the Harodite, Elika the Harodite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.26",
+      "edition_verse_id": "BSB:2SA.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Helez the Paltite, Ira son of Ikkesh the Tekoite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.27",
+      "edition_verse_id": "BSB:2SA.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Abiezer the Anathothite, Mebunnai the Hushathite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.28",
+      "edition_verse_id": "BSB:2SA.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Zalmon the Ahohite, Maharai the Netophathite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.29",
+      "edition_verse_id": "BSB:2SA.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Heled son of Baanah the Netophathite, Ittai son of Ribai from Gibeah of the Benjamites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.30",
+      "edition_verse_id": "BSB:2SA.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Benaiah the Pirathonite, Hiddai from the brooks of Gaash,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.31",
+      "edition_verse_id": "BSB:2SA.23.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Abi-albon the Arbathite, Azmaveth the Barhumite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.32",
+      "edition_verse_id": "BSB:2SA.23.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Eliahba the Shaalbonite, the sons of Jashen, Jonathan",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.33",
+      "edition_verse_id": "BSB:2SA.23.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "son of Shammah the Hararite, Ahiam son of Sharar the Hararite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.34",
+      "edition_verse_id": "BSB:2SA.23.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Eliphelet son of Ahasbai the Maacathite, Eliam son of Ahithophel the Gilonite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.35",
+      "edition_verse_id": "BSB:2SA.23.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Hezro the Carmelite, Paarai the Arbite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.36",
+      "edition_verse_id": "BSB:2SA.23.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Igal son of Nathan of Zobah, Bani the Gadite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.37",
+      "edition_verse_id": "BSB:2SA.23.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Zelek the Ammonite, Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.38",
+      "edition_verse_id": "BSB:2SA.23.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Ira the Ithrite, Gareb the Ithrite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.23.39",
+      "edition_verse_id": "BSB:2SA.23.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "and Uriah the Hittite. There were thirty-seven in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

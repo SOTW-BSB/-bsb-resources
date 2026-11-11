@@ -1,0 +1,21 @@
+{
+  "edition_id": "BSB",
+  "book_code": "3JN",
+  "chapters": {
+    "1": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft Literally \\fqa I have written something to the church\\f*",
+          "raw_sha256": "5f44731b181ab98cd92d1cd675150434ea60bd89ad16953599a053a7ba925726"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Literally \\fqa and we will speak mouth to mouth\\ft ; some translators begin a new verse (15) after \\fqa face to face.\\f*",
+          "raw_sha256": "d1e1ff7a2141ba6bdeb10ed1868479c0db149c76e36ad3d1b8bd86d8d6c38312"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

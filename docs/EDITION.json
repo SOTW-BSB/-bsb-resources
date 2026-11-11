@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "translation_title": "Berean Standard Bible",
+  "digital_source_id": "BSB publisher USFM (owner-supplied)",
+  "digital_format": "USFM 3.1",
+  "canon": "Protestant 66 books",
+  "source_url": "https://berean.bible/downloads.htm",
+  "rights_url": "https://berean.bible/terms.htm",
+  "source_archive_sha256": "f0c56438eb89c98e8f62c5c00461e25cc35b098ad5b179bc350cede759ee5f87",
+  "presenting_library": "Servants of the Way Digital Library",
+  "public_display_label": "Berean Standard Bible",
+  "rights_summary": "Public Domain per official Berean Bible terms, effective 2023-04-30",
+  "edition_identification_note": "The publisher labels its current USFM as updated to the third printing; ZIP has no independent signed edition version manifest. This build is locked to the exact owner-supplied archive SHA-256.",
+  "capabilities": {
+    "verses": true,
+    "chapter_navigation": true,
+    "book_navigation": true,
+    "source_note_archival": true,
+    "source_pdf_scan": false,
+    "embedded_strongs": false,
+    "original_language_word_click_ui": false,
+    "historical_commentary_ui": false,
+    "source_superscriptions_displayed": false
+  }
+}

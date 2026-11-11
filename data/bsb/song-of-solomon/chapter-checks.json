@@ -1,0 +1,56 @@
+{
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapter_count": 8,
+  "verse_count": 117,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "0cc265a87697b7f73572b58e615c30a47102f4a65e7098e8c32655afe4e3b0f4"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "5469ce13e83cd944e4c360ce794b73e8b918e135a2d8199b1bada3c76f2a3a9d"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 11,
+      "omitted_from_main_text": [],
+      "sha256": "7b3f757048c332b014ca5c3c402272bc7ac72e436ebcfa2f2f531b17110e77e7"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 16,
+      "omitted_from_main_text": [],
+      "sha256": "d1120470c88ff453c392ebeb17623017c24fc3c3aeaeaf1338cb68b9f969a316"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 16,
+      "omitted_from_main_text": [],
+      "sha256": "efc6d56122fe9e451ae49c49234940ee84771fc360cf1161e6aaca5a16fbff9c"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 13,
+      "omitted_from_main_text": [],
+      "sha256": "b889855c1be146b04c9fe980c573581a72972059c3cfebae2adff6b0bdac9f99"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 13,
+      "omitted_from_main_text": [],
+      "sha256": "4a4200705c6f7104127e4f07abf3fdf958f155f469aaed6c5e9f7d40f50fdf27"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "c748570f511ba8636205f90e176e909f99e61e8ecad21abaa6c4ea3eb9aed06f"
+    }
+  ]
+}

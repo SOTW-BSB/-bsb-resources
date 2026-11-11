@@ -1,0 +1,14 @@
+{
+  "edition_id": "BSB",
+  "book_code": "3JN",
+  "chapter_count": 1,
+  "verse_count": 14,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "cdc8c093306c0c76a56e08531996bfefb64285b2666f51635d56e803dbe6fa4c"
+    }
+  ]
+}

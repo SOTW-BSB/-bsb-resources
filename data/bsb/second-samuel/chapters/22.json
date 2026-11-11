@@ -1,0 +1,620 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2SA",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "2SA.22.1",
+      "edition_verse_id": "BSB:2SA.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And David sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.22.2",
+      "edition_verse_id": "BSB:2SA.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He said: “The LORD is my rock, my fortress, and my deliverer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.3",
+      "edition_verse_id": "BSB:2SA.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My God is my rock, in whom I take refuge, my shield, and the horn of my salvation. My stronghold, my refuge, and my Savior, You save me from violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.4",
+      "edition_verse_id": "BSB:2SA.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will call upon the LORD, who is worthy to be praised; so shall I be saved from my enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.5",
+      "edition_verse_id": "BSB:2SA.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For the waves of death engulfed me; the torrents of chaos overwhelmed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.6",
+      "edition_verse_id": "BSB:2SA.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The cords of Sheol entangled me; the snares of death confronted me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.7",
+      "edition_verse_id": "BSB:2SA.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In my distress I called upon the LORD; I cried out to my God. And from His temple He heard my voice, and my cry for help reached His ears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.8",
+      "edition_verse_id": "BSB:2SA.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the earth shook and quaked; the foundations of the heavens trembled; they were shaken because He burned with anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.9",
+      "edition_verse_id": "BSB:2SA.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Smoke rose from His nostrils, and consuming fire came from His mouth; glowing coals blazed forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.10",
+      "edition_verse_id": "BSB:2SA.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He parted the heavens and came down with dark clouds beneath His feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.11",
+      "edition_verse_id": "BSB:2SA.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He mounted a cherub and flew; He soared on the wings of the wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.12",
+      "edition_verse_id": "BSB:2SA.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He made darkness a canopy around Him, a gathering of water and thick clouds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.13",
+      "edition_verse_id": "BSB:2SA.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "From the brightness of His presence coals of fire blazed forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.14",
+      "edition_verse_id": "BSB:2SA.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD thundered from heaven; the voice of the Most High resounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.15",
+      "edition_verse_id": "BSB:2SA.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He shot His arrows and scattered the foes; He hurled lightning and routed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.16",
+      "edition_verse_id": "BSB:2SA.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The channels of the sea appeared, and the foundations of the world were exposed at the rebuke of the LORD, at the blast of the breath of His nostrils.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.17",
+      "edition_verse_id": "BSB:2SA.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He reached down from on high and took hold of me; He drew me out of deep waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.18",
+      "edition_verse_id": "BSB:2SA.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He rescued me from my powerful enemy, from foes too mighty for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.19",
+      "edition_verse_id": "BSB:2SA.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They confronted me in my day of calamity, but the LORD was my support.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.20",
+      "edition_verse_id": "BSB:2SA.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He brought me out into the open; He rescued me because He delighted in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.21",
+      "edition_verse_id": "BSB:2SA.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The LORD has rewarded me according to my righteousness; He has repaid me according to the cleanness of my hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.22",
+      "edition_verse_id": "BSB:2SA.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I have kept the ways of the LORD and have not wickedly departed from my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.23",
+      "edition_verse_id": "BSB:2SA.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For all His ordinances are before me; I have not disregarded His statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.24",
+      "edition_verse_id": "BSB:2SA.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And I have been blameless before Him and kept myself from iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.25",
+      "edition_verse_id": "BSB:2SA.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So the LORD has repaid me according to my righteousness, according to my cleanness in His sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.26",
+      "edition_verse_id": "BSB:2SA.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "To the faithful You show Yourself faithful, to the blameless You show Yourself blameless;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.27",
+      "edition_verse_id": "BSB:2SA.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "to the pure You show Yourself pure, but to the crooked You show Yourself shrewd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.28",
+      "edition_verse_id": "BSB:2SA.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "You save an afflicted people, but Your eyes are on the haughty to bring them down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.29",
+      "edition_verse_id": "BSB:2SA.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For You, O LORD, are my lamp; the LORD lights up my darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.30",
+      "edition_verse_id": "BSB:2SA.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For in You I can charge an army; with my God I can scale a wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.31",
+      "edition_verse_id": "BSB:2SA.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.32",
+      "edition_verse_id": "BSB:2SA.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For who is God besides the LORD? And who is the Rock except our God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.33",
+      "edition_verse_id": "BSB:2SA.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "God is my strong fortress, and He makes my way clear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.34",
+      "edition_verse_id": "BSB:2SA.22.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He makes my feet like those of a deer and stations me upon the heights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.35",
+      "edition_verse_id": "BSB:2SA.22.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "He trains my hands for battle; my arms can bend a bow of bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.36",
+      "edition_verse_id": "BSB:2SA.22.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "You have given me Your shield of salvation, and Your gentleness exalts me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.37",
+      "edition_verse_id": "BSB:2SA.22.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "You broaden the path beneath me so that my ankles do not give way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.38",
+      "edition_verse_id": "BSB:2SA.22.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "I pursued my enemies and destroyed them; I did not turn back until they were consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.39",
+      "edition_verse_id": "BSB:2SA.22.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "I devoured and crushed them so they could not rise; they have fallen under my feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.40",
+      "edition_verse_id": "BSB:2SA.22.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "You have armed me with strength for battle; You have subdued my foes beneath me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.41",
+      "edition_verse_id": "BSB:2SA.22.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "You have made my enemies retreat before me; I destroyed those who hated me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.42",
+      "edition_verse_id": "BSB:2SA.22.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "They looked, but there was no one to save them — to the LORD, but He did not answer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.43",
+      "edition_verse_id": "BSB:2SA.22.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "I ground them as the dust of the earth; I crushed and trampled them like mud in the streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.44",
+      "edition_verse_id": "BSB:2SA.22.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "You have delivered me from the strife of my people; You have preserved me as the head of nations; a people I had not known shall serve me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.45",
+      "edition_verse_id": "BSB:2SA.22.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Foreigners cower before me; when they hear me, they obey me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.46",
+      "edition_verse_id": "BSB:2SA.22.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Foreigners lose heart and come trembling from their strongholds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.47",
+      "edition_verse_id": "BSB:2SA.22.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The LORD lives, and blessed be my Rock! And may God, the Rock of my salvation, be exalted—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.48",
+      "edition_verse_id": "BSB:2SA.22.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "the God who avenges me and brings down nations beneath me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.49",
+      "edition_verse_id": "BSB:2SA.22.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "who frees me from my enemies. You exalt me above my foes; You rescue me from violent men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.50",
+      "edition_verse_id": "BSB:2SA.22.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.22.51",
+      "edition_verse_id": "BSB:2SA.22.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

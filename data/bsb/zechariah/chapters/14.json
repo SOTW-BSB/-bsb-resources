@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ZEC",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "ZEC.14.1",
+      "edition_verse_id": "BSB:ZEC.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Behold, a day of the LORD is coming when your plunder will be divided in your presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.2",
+      "edition_verse_id": "BSB:ZEC.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For I will gather all the nations for battle against Jerusalem, and the city will be captured, the houses looted, and the women ravished. Half of the city will go into exile, but the rest of the people will not be removed from the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.3",
+      "edition_verse_id": "BSB:ZEC.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then the LORD will go out to fight against those nations, as He fights in the day of battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.4",
+      "edition_verse_id": "BSB:ZEC.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "On that day His feet will stand on the Mount of Olives, east of Jerusalem, and the Mount of Olives will be split in two from east to west, forming a great valley, with half the mountain moving to the north and half to the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.5",
+      "edition_verse_id": "BSB:ZEC.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You will flee by My mountain valley, for it will extend to Azal. You will flee as you fled from the earthquake in the days of Uzziah king of Judah. Then the LORD my God will come, and all the holy ones with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.6",
+      "edition_verse_id": "BSB:ZEC.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "On that day there will be no light, no cold or frost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.7",
+      "edition_verse_id": "BSB:ZEC.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "It will be a unique day known only to the LORD, without day or night; but when evening comes, there will be light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.8",
+      "edition_verse_id": "BSB:ZEC.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And on that day living water will flow out from Jerusalem, half of it toward the Eastern Sea and the other half toward the Western Sea, in summer and winter alike.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.9",
+      "edition_verse_id": "BSB:ZEC.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "On that day the LORD will become King over all the earth— the LORD alone, and His name alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.10",
+      "edition_verse_id": "BSB:ZEC.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All the land from Geba to Rimmon south of Jerusalem will be turned into a plain, but Jerusalem will be raised up and will remain in her place, from the Benjamin Gate to the site of the First Gate to the Corner Gate, and from the Tower of Hananel to the royal winepresses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.11",
+      "edition_verse_id": "BSB:ZEC.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "People will live there, and never again will there be an utter destruction. So Jerusalem will dwell securely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.12",
+      "edition_verse_id": "BSB:ZEC.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And this will be the plague with which the LORD strikes all the peoples who have warred against Jerusalem: Their flesh will rot while they stand on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.13",
+      "edition_verse_id": "BSB:ZEC.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "On that day a great panic from the LORD will come upon them, so that each will seize the hand of another, and the hand of one will rise against the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.14",
+      "edition_verse_id": "BSB:ZEC.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Judah will also fight at Jerusalem, and the wealth of all the surrounding nations will be collected — gold, silver, and apparel in great abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.15",
+      "edition_verse_id": "BSB:ZEC.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And a similar plague will strike the horses and mules, camels and donkeys, and all the animals in those camps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.16",
+      "edition_verse_id": "BSB:ZEC.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then all the survivors from the nations that came against Jerusalem will go up year after year to worship the King, the LORD of Hosts, and to celebrate the Feast of Tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.17",
+      "edition_verse_id": "BSB:ZEC.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And should any of the families of the earth not go up to Jerusalem to worship the King, the LORD of Hosts, then the rain will not fall on them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.18",
+      "edition_verse_id": "BSB:ZEC.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And if the people of Egypt will not go up and enter in, then the rain will not fall on them; this will be the plague with which the LORD strikes the nations who do not go up to celebrate the Feast of Tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.19",
+      "edition_verse_id": "BSB:ZEC.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "This will be the punishment of Egypt and of all the nations that do not go up to celebrate the Feast of Tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.14.20",
+      "edition_verse_id": "BSB:ZEC.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "On that day, HOLY TO THE LORD will be inscribed on the bells of the horses, and the cooking pots in the house of the LORD will be like the sprinkling bowls before the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.14.21",
+      "edition_verse_id": "BSB:ZEC.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Indeed, every pot in Jerusalem and Judah will be holy to the LORD of Hosts, and all who sacrifice will come and take some pots and cook in them. And on that day there will no longer be a Canaanite in the house of the LORD of Hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

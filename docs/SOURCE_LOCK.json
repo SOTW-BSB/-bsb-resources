@@ -1,0 +1,628 @@
+{
+  "source_archive": "bsb_usfm.zip",
+  "archive_sha256": "f0c56438eb89c98e8f62c5c00461e25cc35b098ad5b179bc350cede759ee5f87",
+  "publisher_download_page": "https://berean.bible/downloads.htm",
+  "rights_url": "https://berean.bible/terms.htm",
+  "archive_date": "2026-11-11",
+  "source_file_count": 66,
+  "source_file_sha256": {
+    "GEN": {
+      "book_code": "GEN",
+      "file_in_archive": "bsb_usfm/GEN.usfm",
+      "sha256": "d511906f1e407036abc73f5214c06971f892c8e4712b56445b37d84ab3026ed4",
+      "bytes": 225106,
+      "verse_markers": 1533,
+      "note_blocks": 229,
+      "heading_lines": 148
+    },
+    "EXO": {
+      "book_code": "EXO",
+      "file_in_archive": "bsb_usfm/EXO.usfm",
+      "sha256": "1ef3561510aa2847939539499556e86b6dbab2f48b51d2658773b3fc5898905f",
+      "bytes": 190210,
+      "verse_markers": 1213,
+      "note_blocks": 213,
+      "heading_lines": 123
+    },
+    "LEV": {
+      "book_code": "LEV",
+      "file_in_archive": "bsb_usfm/LEV.usfm",
+      "sha256": "6c7ddba3bacd97c9773b19f9286f6bbc0c5755571f2f4b0feebf6babe5029acf",
+      "bytes": 134446,
+      "verse_markers": 859,
+      "note_blocks": 92,
+      "heading_lines": 70
+    },
+    "NUM": {
+      "book_code": "NUM",
+      "file_in_archive": "bsb_usfm/NUM.usfm",
+      "sha256": "02d3ab03783470446e2ac665b2e92a21aa1e7a36a1a9b82f78eca9292c4b660f",
+      "bytes": 182652,
+      "verse_markers": 1288,
+      "note_blocks": 111,
+      "heading_lines": 113
+    },
+    "DEU": {
+      "book_code": "DEU",
+      "file_in_archive": "bsb_usfm/DEU.usfm",
+      "sha256": "3e618ea4c3d3373e9182a984b7ab0aaa2a488e415745733374fa5507a3526a1c",
+      "bytes": 160402,
+      "verse_markers": 959,
+      "note_blocks": 135,
+      "heading_lines": 91
+    },
+    "JOS": {
+      "book_code": "JOS",
+      "file_in_archive": "bsb_usfm/JOS.usfm",
+      "sha256": "eb9190f777aaa3275fb6d637b6803dd83c97b85cfa0d4b5d75f0ba1e359bbdd3",
+      "bytes": 104972,
+      "verse_markers": 658,
+      "note_blocks": 88,
+      "heading_lines": 51
+    },
+    "JDG": {
+      "book_code": "JDG",
+      "file_in_archive": "bsb_usfm/JDG.usfm",
+      "sha256": "f2791d199d832f05ff8871d25f263365d33c3fdfb848907c67cea930fd27817f",
+      "bytes": 104450,
+      "verse_markers": 618,
+      "note_blocks": 74,
+      "heading_lines": 52
+    },
+    "RUT": {
+      "book_code": "RUT",
+      "file_in_archive": "bsb_usfm/RUT.usfm",
+      "sha256": "106e1270f83fe0fd1cf3fe4ca92dae67775c89a8d4d0b7cc463fbf7e61ca92c9",
+      "bytes": 16093,
+      "verse_markers": 85,
+      "note_blocks": 14,
+      "heading_lines": 8
+    },
+    "1SA": {
+      "book_code": "1SA",
+      "file_in_archive": "bsb_usfm/1SA.usfm",
+      "sha256": "bdf61582c0067454eae73fe73284f79a841962da4abfa401827c75bd0d1ad520",
+      "bytes": 140722,
+      "verse_markers": 810,
+      "note_blocks": 106,
+      "heading_lines": 70
+    },
+    "2SA": {
+      "book_code": "2SA",
+      "file_in_archive": "bsb_usfm/2SA.usfm",
+      "sha256": "1a0f5abf0b7f3596fe1c588685b382cda97518e5e71e1d70d90368201c614810",
+      "bytes": 124504,
+      "verse_markers": 695,
+      "note_blocks": 140,
+      "heading_lines": 64
+    },
+    "1KI": {
+      "book_code": "1KI",
+      "file_in_archive": "bsb_usfm/1KI.usfm",
+      "sha256": "731e08f54099bcad1ed649fbba575ad6983c0d8b0a76cadc6c912431eacf23ce",
+      "bytes": 146040,
+      "verse_markers": 816,
+      "note_blocks": 146,
+      "heading_lines": 94
+    },
+    "2KI": {
+      "book_code": "2KI",
+      "file_in_archive": "bsb_usfm/2KI.usfm",
+      "sha256": "c3f6c6900e136fc2694230dc20cdb2fa73f56c65a15f6344cba1a39157563f22",
+      "bytes": 139269,
+      "verse_markers": 719,
+      "note_blocks": 114,
+      "heading_lines": 93
+    },
+    "1CH": {
+      "book_code": "1CH",
+      "file_in_archive": "bsb_usfm/1CH.usfm",
+      "sha256": "03a5a2cacc2a3445795677a333d7644de75899e255b0582143e32a24b4de09db",
+      "bytes": 143177,
+      "verse_markers": 942,
+      "note_blocks": 229,
+      "heading_lines": 84
+    },
+    "2CH": {
+      "book_code": "2CH",
+      "file_in_archive": "bsb_usfm/2CH.usfm",
+      "sha256": "b9390b801f4cce40a209e81bfe7a4a835b6cf417cbad2456afddd008c1932866",
+      "bytes": 162506,
+      "verse_markers": 822,
+      "note_blocks": 180,
+      "heading_lines": 106
+    },
+    "EZR": {
+      "book_code": "EZR",
+      "file_in_archive": "bsb_usfm/EZR.usfm",
+      "sha256": "3b0660feaffab64cdc452d3462d63912ba2b03570f78b1fbfeb0d6d7db2bd063",
+      "bytes": 47886,
+      "verse_markers": 280,
+      "note_blocks": 70,
+      "heading_lines": 28
+    },
+    "NEH": {
+      "book_code": "NEH",
+      "file_in_archive": "bsb_usfm/NEH.usfm",
+      "sha256": "1bf7f0582958d937ff6c28f73f86e72506b13d6375eebbb9f41f7a057d1db9bf",
+      "bytes": 67287,
+      "verse_markers": 406,
+      "note_blocks": 91,
+      "heading_lines": 28
+    },
+    "EST": {
+      "book_code": "EST",
+      "file_in_archive": "bsb_usfm/EST.usfm",
+      "sha256": "8c79f587bfe44d2dde8f91abae68e56664f26fbe38488ebd119113182d31e1a6",
+      "bytes": 32703,
+      "verse_markers": 167,
+      "note_blocks": 24,
+      "heading_lines": 20
+    },
+    "JOB": {
+      "book_code": "JOB",
+      "file_in_archive": "bsb_usfm/JOB.usfm",
+      "sha256": "a4f3937849427a66f53e2caa14a75a9af9b0e1e73243eb92d957f8b672acf500",
+      "bytes": 109452,
+      "verse_markers": 1070,
+      "note_blocks": 83,
+      "heading_lines": 50
+    },
+    "PSA": {
+      "book_code": "PSA",
+      "file_in_archive": "bsb_usfm/PSA.usfm",
+      "sha256": "3ca9df9bba5e9a418ca5ce13ffa60b794971e1f0eab3478a9f5f84329360a98c",
+      "bytes": 288670,
+      "verse_markers": 2461,
+      "note_blocks": 298,
+      "heading_lines": 320
+    },
+    "PRO": {
+      "book_code": "PRO",
+      "file_in_archive": "bsb_usfm/PRO.usfm",
+      "sha256": "03618fca2b2701d9218a68a12d6a1c1162eaa9afa1e5b5badd4503c20247e403",
+      "bytes": 98395,
+      "verse_markers": 915,
+      "note_blocks": 87,
+      "heading_lines": 69
+    },
+    "ECC": {
+      "book_code": "ECC",
+      "file_in_archive": "bsb_usfm/ECC.usfm",
+      "sha256": "3f834b1d2b486d7de3c37e96ee70f6b07d123b21cf0edf38fc23f5926344cd6a",
+      "bytes": 31238,
+      "verse_markers": 222,
+      "note_blocks": 16,
+      "heading_lines": 26
+    },
+    "SNG": {
+      "book_code": "SNG",
+      "file_in_archive": "bsb_usfm/SNG.usfm",
+      "sha256": "845282dfb893db81f74da994241d55c19811a09ede59ffe853a083b6785760cc",
+      "bytes": 17871,
+      "verse_markers": 117,
+      "note_blocks": 16,
+      "heading_lines": 46
+    },
+    "ISA": {
+      "book_code": "ISA",
+      "file_in_archive": "bsb_usfm/ISA.usfm",
+      "sha256": "3de67ad8fe5fb44a53ef3c2be396bc49616941a35a2525e7d901e1c825a9fe93",
+      "bytes": 234093,
+      "verse_markers": 1292,
+      "note_blocks": 243,
+      "heading_lines": 120
+    },
+    "JER": {
+      "book_code": "JER",
+      "file_in_archive": "bsb_usfm/JER.usfm",
+      "sha256": "0940e13168ecc99ac98e3c2355c899facca30f0d678721e32547dbb786badcdd",
+      "bytes": 252000,
+      "verse_markers": 1364,
+      "note_blocks": 178,
+      "heading_lines": 122
+    },
+    "LAM": {
+      "book_code": "LAM",
+      "file_in_archive": "bsb_usfm/LAM.usfm",
+      "sha256": "6d041e94d6a1c459adac5d0a50845f417dfcc8635b33bfa16c244f3bb601aaa9",
+      "bytes": 22366,
+      "verse_markers": 154,
+      "note_blocks": 17,
+      "heading_lines": 7
+    },
+    "EZK": {
+      "book_code": "EZK",
+      "file_in_archive": "bsb_usfm/EZK.usfm",
+      "sha256": "09d4f8e0f4a4964569fff7eab1c97369ed9d459d0d6f9be4b872b687ff21b610",
+      "bytes": 226238,
+      "verse_markers": 1273,
+      "note_blocks": 212,
+      "heading_lines": 114
+    },
+    "DAN": {
+      "book_code": "DAN",
+      "file_in_archive": "bsb_usfm/DAN.usfm",
+      "sha256": "76f995870c5581c4d5e0de56a8e2c3d66c53d463158ddc0632cb973af869f529",
+      "bytes": 66840,
+      "verse_markers": 357,
+      "note_blocks": 60,
+      "heading_lines": 33
+    },
+    "HOS": {
+      "book_code": "HOS",
+      "file_in_archive": "bsb_usfm/HOS.usfm",
+      "sha256": "6d1b3802a0caf481cd91980a604d5fdb4aa626a283798015aba25fdb4e3070bd",
+      "bytes": 37215,
+      "verse_markers": 197,
+      "note_blocks": 70,
+      "heading_lines": 19
+    },
+    "JOL": {
+      "book_code": "JOL",
+      "file_in_archive": "bsb_usfm/JOL.usfm",
+      "sha256": "b8785ad0c1a6d796cfd44d90dcd14025fe41cbd0efae4aff8ec9d787fde8612c",
+      "bytes": 13716,
+      "verse_markers": 73,
+      "note_blocks": 18,
+      "heading_lines": 9
+    },
+    "AMO": {
+      "book_code": "AMO",
+      "file_in_archive": "bsb_usfm/AMO.usfm",
+      "sha256": "01a128ecf170865671e42326c724a590b9e58b4c171d8ab3f0fbe475c368d1b8",
+      "bytes": 27383,
+      "verse_markers": 146,
+      "note_blocks": 39,
+      "heading_lines": 14
+    },
+    "OBA": {
+      "book_code": "OBA",
+      "file_in_archive": "bsb_usfm/OBA.usfm",
+      "sha256": "65dc8bf74da0bf4e7a96b76364a9e416257abc40595f0056e2b5d1d5d7842df7",
+      "bytes": 4410,
+      "verse_markers": 21,
+      "note_blocks": 5,
+      "heading_lines": 2
+    },
+    "JON": {
+      "book_code": "JON",
+      "file_in_archive": "bsb_usfm/JON.usfm",
+      "sha256": "f722ca0c74fcc650a6475f0df957cff3605be76071ebc28a1594f599308cb396",
+      "bytes": 8034,
+      "verse_markers": 48,
+      "note_blocks": 6,
+      "heading_lines": 6
+    },
+    "MIC": {
+      "book_code": "MIC",
+      "file_in_archive": "bsb_usfm/MIC.usfm",
+      "sha256": "07f3489cdbea9c1a1e0e5d235dc4d592c24d456ef10acc037a3e79668b235998",
+      "bytes": 20693,
+      "verse_markers": 105,
+      "note_blocks": 27,
+      "heading_lines": 15
+    },
+    "NAM": {
+      "book_code": "NAM",
+      "file_in_archive": "bsb_usfm/NAM.usfm",
+      "sha256": "fc1e4c41d83edf20f18c562d0aa8b053a91f1d12e943d6fe07112ebe3568ce07",
+      "bytes": 8181,
+      "verse_markers": 47,
+      "note_blocks": 7,
+      "heading_lines": 3
+    },
+    "HAB": {
+      "book_code": "HAB",
+      "file_in_archive": "bsb_usfm/HAB.usfm",
+      "sha256": "184ad12e3d42a463e75593a6e4dfec27cd095352affeb234ecb1fbdeff816411",
+      "bytes": 9881,
+      "verse_markers": 56,
+      "note_blocks": 12,
+      "heading_lines": 8
+    },
+    "ZEP": {
+      "book_code": "ZEP",
+      "file_in_archive": "bsb_usfm/ZEP.usfm",
+      "sha256": "827ff391350ad6bba0142dec711af80c6c4c566b8478ff07f021e55bc03b6a93",
+      "bytes": 11519,
+      "verse_markers": 53,
+      "note_blocks": 19,
+      "heading_lines": 10
+    },
+    "HAG": {
+      "book_code": "HAG",
+      "file_in_archive": "bsb_usfm/HAG.usfm",
+      "sha256": "2cbdbea79600aea4176417e2686fcc23bcdb5bb259ef73118730282e0de9208f",
+      "bytes": 7037,
+      "verse_markers": 38,
+      "note_blocks": 6,
+      "heading_lines": 5
+    },
+    "ZEC": {
+      "book_code": "ZEC",
+      "file_in_archive": "bsb_usfm/ZEC.usfm",
+      "sha256": "605741dc032c6b86d4cf261570950cb60ab81ee52022d81440983a7da7e3ac66",
+      "bytes": 38483,
+      "verse_markers": 211,
+      "note_blocks": 54,
+      "heading_lines": 26
+    },
+    "MAL": {
+      "book_code": "MAL",
+      "file_in_archive": "bsb_usfm/MAL.usfm",
+      "sha256": "9293af1acf4499992d04a700da1c3f3e1f5b5e7a01bf4c807aed34bca3d5da3c",
+      "bytes": 11371,
+      "verse_markers": 55,
+      "note_blocks": 13,
+      "heading_lines": 8
+    },
+    "MAT": {
+      "book_code": "MAT",
+      "file_in_archive": "bsb_usfm/MAT.usfm",
+      "sha256": "03747699c183cc110ad3c8a676b5ea48d3120a6e47c2e4bca529039214490e19",
+      "bytes": 161664,
+      "verse_markers": 1068,
+      "note_blocks": 193,
+      "heading_lines": 153
+    },
+    "MRK": {
+      "book_code": "MRK",
+      "file_in_archive": "bsb_usfm/MRK.usfm",
+      "sha256": "40b5abf436a2e13312be561bfd16b3e6f1b0a6bbcc13f6f50b6e6f37f3470d1f",
+      "bytes": 104040,
+      "verse_markers": 673,
+      "note_blocks": 130,
+      "heading_lines": 96
+    },
+    "LUK": {
+      "book_code": "LUK",
+      "file_in_archive": "bsb_usfm/LUK.usfm",
+      "sha256": "0ffc13d4116f454b3a36f747755c6d6d8835b0ee2071760e32fcf5be7c8e61e4",
+      "bytes": 166502,
+      "verse_markers": 1149,
+      "note_blocks": 143,
+      "heading_lines": 154
+    },
+    "JHN": {
+      "book_code": "JHN",
+      "file_in_archive": "bsb_usfm/JHN.usfm",
+      "sha256": "d29eded2530eee42f7cf7b84439f7926991a0db381b2cfd4732227c338692837",
+      "bytes": 120883,
+      "verse_markers": 878,
+      "note_blocks": 119,
+      "heading_lines": 84
+    },
+    "ACT": {
+      "book_code": "ACT",
+      "file_in_archive": "bsb_usfm/ACT.usfm",
+      "sha256": "95c1e067665a1d9d0162efd1d660a6eda44f78ee3f162a4c594682e117706fb7",
+      "bytes": 149570,
+      "verse_markers": 1003,
+      "note_blocks": 156,
+      "heading_lines": 110
+    },
+    "ROM": {
+      "book_code": "ROM",
+      "file_in_archive": "bsb_usfm/ROM.usfm",
+      "sha256": "439636e42a60a53291161aa482cf951d170b9730aca548e985e7f11ad8764492",
+      "bytes": 64121,
+      "verse_markers": 432,
+      "note_blocks": 101,
+      "heading_lines": 47
+    },
+    "1CO": {
+      "book_code": "1CO",
+      "file_in_archive": "bsb_usfm/1CO.usfm",
+      "sha256": "e7bcc77536ed801afbe0e757364c05fccc3ec499b9777b6fdcca382468a12999",
+      "bytes": 58790,
+      "verse_markers": 437,
+      "note_blocks": 63,
+      "heading_lines": 45
+    },
+    "2CO": {
+      "book_code": "2CO",
+      "file_in_archive": "bsb_usfm/2CO.usfm",
+      "sha256": "4c402610cc7561b3b6c0adb4ce8771fde48d10a1f645961f3914c876922d32a7",
+      "bytes": 36706,
+      "verse_markers": 257,
+      "note_blocks": 31,
+      "heading_lines": 25
+    },
+    "GAL": {
+      "book_code": "GAL",
+      "file_in_archive": "bsb_usfm/GAL.usfm",
+      "sha256": "7ae275d42534597ce402fa1c9b868f33d1cec9ffc1fde125b1629a4f60717159",
+      "bytes": 19571,
+      "verse_markers": 149,
+      "note_blocks": 21,
+      "heading_lines": 16
+    },
+    "EPH": {
+      "book_code": "EPH",
+      "file_in_archive": "bsb_usfm/EPH.usfm",
+      "sha256": "a1e2162e4b918ec4efe106652ceaf1b24938fd6eda9906336cb08c08fe46eaba",
+      "bytes": 19711,
+      "verse_markers": 155,
+      "note_blocks": 17,
+      "heading_lines": 17
+    },
+    "PHP": {
+      "book_code": "PHP",
+      "file_in_archive": "bsb_usfm/PHP.usfm",
+      "sha256": "9e2e3c76fc7c1a99dab139c4ea8588c0c251a434c049077f56b14384bffe6163",
+      "bytes": 13996,
+      "verse_markers": 104,
+      "note_blocks": 11,
+      "heading_lines": 15
+    },
+    "COL": {
+      "book_code": "COL",
+      "file_in_archive": "bsb_usfm/COL.usfm",
+      "sha256": "4730e92c86394d91dec0113809125bbcabc2a448f2737e99561385fcbb603092",
+      "bytes": 13338,
+      "verse_markers": 95,
+      "note_blocks": 12,
+      "heading_lines": 12
+    },
+    "1TH": {
+      "book_code": "1TH",
+      "file_in_archive": "bsb_usfm/1TH.usfm",
+      "sha256": "f54c952011ac66ba3294e6ef80a7c75fde708b13f869b22ab43ccf61fc6b6d0b",
+      "bytes": 11863,
+      "verse_markers": 89,
+      "note_blocks": 11,
+      "heading_lines": 10
+    },
+    "2TH": {
+      "book_code": "2TH",
+      "file_in_archive": "bsb_usfm/2TH.usfm",
+      "sha256": "08aee8761c51d672757984f2db73afbb9c004dc9749313d4e46be4cb21e39a39",
+      "bytes": 6730,
+      "verse_markers": 47,
+      "note_blocks": 7,
+      "heading_lines": 7
+    },
+    "1TI": {
+      "book_code": "1TI",
+      "file_in_archive": "bsb_usfm/1TI.usfm",
+      "sha256": "ea46ad5f249683c982e52c54b88b58c772005c717732246c38e4a7db2bc813f8",
+      "bytes": 15984,
+      "verse_markers": 113,
+      "note_blocks": 16,
+      "heading_lines": 20
+    },
+    "2TI": {
+      "book_code": "2TI",
+      "file_in_archive": "bsb_usfm/2TI.usfm",
+      "sha256": "385ae04d3ab28e9200d7289718a3ead1cee4429538c04b407869a41ec0f52511",
+      "bytes": 11316,
+      "verse_markers": 83,
+      "note_blocks": 12,
+      "heading_lines": 11
+    },
+    "TIT": {
+      "book_code": "TIT",
+      "file_in_archive": "bsb_usfm/TIT.usfm",
+      "sha256": "3d6408db84bffd83ce6a0bc1c7e6848a7c44a0efc08ecfcc55c7d271714f24cc",
+      "bytes": 6506,
+      "verse_markers": 46,
+      "note_blocks": 5,
+      "heading_lines": 8
+    },
+    "PHM": {
+      "book_code": "PHM",
+      "file_in_archive": "bsb_usfm/PHM.usfm",
+      "sha256": "30049392262de3e0de1fe0dbebf0577d611c3087d7410c204bbaa0a78553e961",
+      "bytes": 3199,
+      "verse_markers": 25,
+      "note_blocks": 4,
+      "heading_lines": 4
+    },
+    "HEB": {
+      "book_code": "HEB",
+      "file_in_archive": "bsb_usfm/HEB.usfm",
+      "sha256": "95ceaff283b8f3656369ed0251dc96e7cd8f5e2178c087e8cc052fcd7786b7ea",
+      "bytes": 47138,
+      "verse_markers": 303,
+      "note_blocks": 83,
+      "heading_lines": 34
+    },
+    "JAS": {
+      "book_code": "JAS",
+      "file_in_archive": "bsb_usfm/JAS.usfm",
+      "sha256": "422f2518cc71a2d67e81c38beeb36fbd471e0f3e6eab61ab2ff9d65ab5308386",
+      "bytes": 15233,
+      "verse_markers": 108,
+      "note_blocks": 24,
+      "heading_lines": 15
+    },
+    "1PE": {
+      "book_code": "1PE",
+      "file_in_archive": "bsb_usfm/1PE.usfm",
+      "sha256": "1eccb557e5e1a895c1684946c303abbc7d26e29df2b5c5befc20232cf8040b28",
+      "bytes": 17555,
+      "verse_markers": 105,
+      "note_blocks": 36,
+      "heading_lines": 15
+    },
+    "2PE": {
+      "book_code": "2PE",
+      "file_in_archive": "bsb_usfm/2PE.usfm",
+      "sha256": "369e848e052dff199f3ade01c131350e6ad2e4547a8f732f7acfa5e35420033a",
+      "bytes": 11123,
+      "verse_markers": 61,
+      "note_blocks": 19,
+      "heading_lines": 7
+    },
+    "1JN": {
+      "book_code": "1JN",
+      "file_in_archive": "bsb_usfm/1JN.usfm",
+      "sha256": "f2962148568e43cd7ea043c8bc1466cfabe5d666f3457269c283fda790d2ad53",
+      "bytes": 15665,
+      "verse_markers": 105,
+      "note_blocks": 22,
+      "heading_lines": 15
+    },
+    "2JN": {
+      "book_code": "2JN",
+      "file_in_archive": "bsb_usfm/2JN.usfm",
+      "sha256": "460273ae6c2e985002558cc08aa0736c23e9ea41a9e86320d68bb0944442ee9b",
+      "bytes": 2154,
+      "verse_markers": 13,
+      "note_blocks": 3,
+      "heading_lines": 4
+    },
+    "3JN": {
+      "book_code": "3JN",
+      "file_in_archive": "bsb_usfm/3JN.usfm",
+      "sha256": "4168045dfc50a1a130bf5df7b8e48c8f11282b3a230389417f591823f39a6c09",
+      "bytes": 2265,
+      "verse_markers": 14,
+      "note_blocks": 2,
+      "heading_lines": 4
+    },
+    "JUD": {
+      "book_code": "JUD",
+      "file_in_archive": "bsb_usfm/JUD.usfm",
+      "sha256": "f78f4f396e145a01e99fc57060576a891647916d17cca511c803b45d085732c5",
+      "bytes": 4490,
+      "verse_markers": 25,
+      "note_blocks": 5,
+      "heading_lines": 4
+    },
+    "REV": {
+      "book_code": "REV",
+      "file_in_archive": "bsb_usfm/REV.usfm",
+      "sha256": "b7fae278f894a3c413f73025d34cd34c3c91cecc7b601f961b200dbe7c78e7b2",
+      "bytes": 70830,
+      "verse_markers": 404,
+      "note_blocks": 66,
+      "heading_lines": 61
+    }
+  },
+  "raw_zip_archive_preserved_externally": true,
+  "archive_integrity_check": "ZipFile.testzip(): PASS",
+  "signed_manifest_from_source": false,
+  "no_embedded_study_data": true,
+  "omitted_traditional_verse_ids": [
+    "MAT.17.21",
+    "MAT.18.11",
+    "MAT.23.14",
+    "MRK.7.16",
+    "MRK.9.44",
+    "MRK.9.46",
+    "MRK.11.26",
+    "MRK.15.28",
+    "LUK.17.36",
+    "LUK.23.17",
+    "JHN.5.4",
+    "ACT.8.37",
+    "ACT.15.34",
+    "ACT.24.7",
+    "ACT.28.29",
+    "ROM.16.24"
+  ],
+  "source_usfm_footnote_blocks": 4854,
+  "source_heading_lines_archived": 3268
+}

@@ -1,0 +1,85 @@
+{
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Bride Confesses Her Love",
+        "\\s2 The Bride",
+        "\\s2 The Friends",
+        "\\s2 The Bride",
+        "\\s2 The Friends",
+        "\\s2 The Bridegroom",
+        "\\s2 The Friends",
+        "\\s2 The Bride",
+        "\\s2 The Bridegroom",
+        "\\s2 The Bride",
+        "\\s2 The Bridegroom"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Bride’s Admiration",
+        "\\s2 The Bride",
+        "\\s2 The Bridegroom",
+        "\\s2 The Bride",
+        "\\s2 The Bridegroom",
+        "\\s2 The Friends",
+        "\\s2 The Bride"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Bride’s Dream",
+        "\\s1 Solomon Arrives on His Wedding Day"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Solomon Admires His Bride",
+        "\\s2 The Bridegroom",
+        "\\s2 The Bride"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Bride and Her Beloved",
+        "\\s2 The Bridegroom",
+        "\\s2 The Friends",
+        "\\s2 The Bride",
+        "\\s2 The Friends",
+        "\\s2 The Bride"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Together in the Garden",
+        "\\s2 The Friends",
+        "\\s2 The Bride",
+        "\\s2 The Bridegroom",
+        "\\s2 The Friends",
+        "\\s2 The Bridegroom",
+        "\\s2 The Friends",
+        "\\s2 The Bridegroom"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Admiration by the Bridegroom",
+        "\\s2 The Bride"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Longing for Her Beloved",
+        "\\s2 The Friends",
+        "\\s2 The Bride",
+        "\\s2 The Friends",
+        "\\s2 The Bride",
+        "\\s2 The Bridegroom",
+        "\\s2 The Bride"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

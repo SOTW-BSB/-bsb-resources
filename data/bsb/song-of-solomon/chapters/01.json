@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "SNG.1.1",
+      "edition_verse_id": "BSB:SNG.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is Solomon’s Song of Songs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.1.2",
+      "edition_verse_id": "BSB:SNG.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let him kiss me with the kisses of his mouth! For your love is more delightful than wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.3",
+      "edition_verse_id": "BSB:SNG.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The fragrance of your perfume is pleasing; your name is like perfume poured out. No wonder the maidens adore you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.4",
+      "edition_verse_id": "BSB:SNG.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Take me away with you— let us hurry! May the king bring me to his chambers. We will rejoice and delight in you; we will praise your love more than wine. It is only right that they adore you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.5",
+      "edition_verse_id": "BSB:SNG.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I am dark, yet lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.6",
+      "edition_verse_id": "BSB:SNG.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Do not stare because I am dark, for the sun has gazed upon me. My mother’s sons were angry with me; they made me a keeper of the vineyards, but my own vineyard I have neglected.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.7",
+      "edition_verse_id": "BSB:SNG.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Tell me, O one I love, where do you pasture your sheep? Where do you rest them at midday? Why should I be like a veiled woman beside the flocks of your companions?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.8",
+      "edition_verse_id": "BSB:SNG.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If you do not know, O fairest of women, follow the tracks of the flock, and graze your young goats near the tents of the shepherds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.9",
+      "edition_verse_id": "BSB:SNG.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I compare you, my darling, to a mare among Pharaoh’s chariots.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.10",
+      "edition_verse_id": "BSB:SNG.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Your cheeks are beautiful with ornaments, your neck with strings of jewels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.11",
+      "edition_verse_id": "BSB:SNG.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "We will make you ornaments of gold, studded with beads of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.12",
+      "edition_verse_id": "BSB:SNG.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "While the king was at his table, my perfume spread its fragrance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.13",
+      "edition_verse_id": "BSB:SNG.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "My beloved is to me a sachet of myrrh resting between my breasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.14",
+      "edition_verse_id": "BSB:SNG.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "My beloved is to me a cluster of henna blossoms in the vineyards of En-gedi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.15",
+      "edition_verse_id": "BSB:SNG.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "How beautiful you are, my darling! Oh, how very beautiful! Your eyes are like doves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.16",
+      "edition_verse_id": "BSB:SNG.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "How handsome you are, my beloved! Oh, how delightful! The soft grass is our bed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.1.17",
+      "edition_verse_id": "BSB:SNG.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The beams of our house are cedars; our rafters are fragrant firs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

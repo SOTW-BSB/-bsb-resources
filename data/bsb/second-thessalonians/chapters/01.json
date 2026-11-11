@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2TH",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "2TH.1.1",
+      "edition_verse_id": "BSB:2TH.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.1.2",
+      "edition_verse_id": "BSB:2TH.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Grace and peace to you from God our Father and the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.1.3",
+      "edition_verse_id": "BSB:2TH.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "We are obligated to thank God for you all the time, brothers, as is fitting, because your faith is growing more and more, and your love for one another is increasing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.1.4",
+      "edition_verse_id": "BSB:2TH.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "That is why we boast among God’s churches about your perseverance and faith in the face of all the persecution and affliction you are enduring.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.1.5",
+      "edition_verse_id": "BSB:2TH.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "All this is clear evidence of God’s righteous judgment. And so you will be counted worthy of the kingdom of God, for which you are suffering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.1.6",
+      "edition_verse_id": "BSB:2TH.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "After all, it is only right for God to repay with affliction those who afflict you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.1.7",
+      "edition_verse_id": "BSB:2TH.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and to grant relief to you who are oppressed and to us as well. This will take place when the Lord Jesus is revealed from heaven with His mighty angels",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.1.8",
+      "edition_verse_id": "BSB:2TH.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "in blazing fire, inflicting vengeance on those who do not know God and do not obey the gospel of our Lord Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.1.9",
+      "edition_verse_id": "BSB:2TH.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They will suffer the penalty of eternal destruction, separated from the presence of the Lord and the glory of His might,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.1.10",
+      "edition_verse_id": "BSB:2TH.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "on the day He comes to be glorified in His saints and regarded with wonder by all who have believed, including you who have believed our testimony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2TH.1.11",
+      "edition_verse_id": "BSB:2TH.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "To this end, we always pray for you, that our God will count you worthy of His calling, and that He will powerfully fulfill your every good desire and work of faith,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2TH.1.12",
+      "edition_verse_id": "BSB:2TH.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "so that the name of our Lord Jesus will be glorified in you, and you in Him, according to the grace of our God and of the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

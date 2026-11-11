@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "SNG.5.1",
+      "edition_verse_id": "BSB:SNG.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I have come to my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends, and drink; drink freely, O beloved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.5.2",
+      "edition_verse_id": "BSB:SNG.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I sleep, but my heart is awake. A sound! My beloved is knocking: “Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.3",
+      "edition_verse_id": "BSB:SNG.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I have taken off my robe — must I put it back on? I have washed my feet— must I soil them again?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.4",
+      "edition_verse_id": "BSB:SNG.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My beloved put his hand to the latch; my heart pounded for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.5",
+      "edition_verse_id": "BSB:SNG.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I rose up to open for my beloved. My hands dripped with myrrh, my fingers with flowing myrrh on the handles of the bolt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.6",
+      "edition_verse_id": "BSB:SNG.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I opened for my beloved, but he had turned and gone. My heart sank at his departure. I sought him but did not find him. I called, but he did not answer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.7",
+      "edition_verse_id": "BSB:SNG.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I encountered the watchmen on their rounds of the city. They beat me and bruised me; they took away my cloak, those guardians of the walls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.8",
+      "edition_verse_id": "BSB:SNG.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O daughters of Jerusalem, I adjure you, if you find my beloved, tell him I am sick with love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.9",
+      "edition_verse_id": "BSB:SNG.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "How is your beloved better than others, O most beautiful among women? How is your beloved better than another, that you charge us so?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.10",
+      "edition_verse_id": "BSB:SNG.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "My beloved is dazzling and ruddy, outstanding among ten thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.11",
+      "edition_verse_id": "BSB:SNG.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "His head is purest gold; his hair is wavy and black as a raven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.12",
+      "edition_verse_id": "BSB:SNG.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His eyes are like doves beside the streams of water, bathed in milk and mounted like jewels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.13",
+      "edition_verse_id": "BSB:SNG.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "His cheeks are like beds of spice, towers of perfume. His lips are like lilies, dripping with flowing myrrh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.14",
+      "edition_verse_id": "BSB:SNG.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "His arms are rods of gold set with beryl. His body is polished ivory bedecked with sapphires.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.15",
+      "edition_verse_id": "BSB:SNG.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "His legs are pillars of marble set on bases of pure gold. His appearance is like Lebanon, as majestic as the cedars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.5.16",
+      "edition_verse_id": "BSB:SNG.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "His mouth is most sweet; he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

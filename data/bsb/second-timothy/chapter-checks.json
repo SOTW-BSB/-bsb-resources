@@ -1,0 +1,32 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2TI",
+  "chapter_count": 4,
+  "verse_count": 83,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "6bd3c160325cee08863382b11e1344d7259e87d3be6125fe8f81bf5d216d35a6"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 26,
+      "omitted_from_main_text": [],
+      "sha256": "87a7df93891c8276b289ed68472ed05a249130bde1ce8587bfe72c20cb3ed872"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "dae3b31ddfb5fadc0b6e38acf59de642e095e849fccd938f118ccddae464cf08"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "af2a6968195ba4173dbc1449c06209c49a55b2acbf48fd94b5e019063f35b888"
+    }
+  ]
+}

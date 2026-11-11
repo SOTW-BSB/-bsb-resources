@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ZEC",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "ZEC.11.1",
+      "edition_verse_id": "BSB:ZEC.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Open your doors, O Lebanon, that the fire may consume your cedars!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.2",
+      "edition_verse_id": "BSB:ZEC.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, O oaks of Bashan, for the dense forest has been cut down!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.11.3",
+      "edition_verse_id": "BSB:ZEC.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Listen to the wailing of the shepherds, for their glory is in ruins. Listen to the roaring of the young lions, for the thickets of the Jordan are destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.11.4",
+      "edition_verse_id": "BSB:ZEC.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This is what the LORD my God says: “Pasture the flock marked for slaughter,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.5",
+      "edition_verse_id": "BSB:ZEC.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "whose buyers slaughter them without remorse. Those who sell them say, ‘Blessed be the LORD, for I am rich!’ Even their own shepherds have no compassion on them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.11.6",
+      "edition_verse_id": "BSB:ZEC.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For I will no longer have compassion on the people of the land, declares the LORD, but behold, I will cause each man to fall into the hands of his neighbor and his king, who will devastate the land, and I will not deliver it from their hands.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.7",
+      "edition_verse_id": "BSB:ZEC.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So I pastured the flock marked for slaughter, especially the afflicted of the flock. Then I took for myself two staffs, calling one Favor and the other Union, and I pastured the flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.8",
+      "edition_verse_id": "BSB:ZEC.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And in one month I dismissed three shepherds. My soul grew impatient with the flock, and their souls also detested me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.11.9",
+      "edition_verse_id": "BSB:ZEC.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then I said, “I will no longer shepherd you. Let the dying die, and the perishing perish; and let those who remain devour one another’s flesh.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.10",
+      "edition_verse_id": "BSB:ZEC.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Next I took my staff called Favor and cut it in two, revoking the covenant I had made with all the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.11",
+      "edition_verse_id": "BSB:ZEC.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "It was revoked on that day, and so the afflicted of the flock who were watching me knew that it was the word of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.11.12",
+      "edition_verse_id": "BSB:ZEC.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then I told them, “If it seems right to you, give me my wages; but if not, keep them.” So they weighed out my wages, thirty pieces of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.13",
+      "edition_verse_id": "BSB:ZEC.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the LORD said to me, “Throw it to the potter”— this magnificent price at which they valued me. So I took the thirty pieces of silver and threw them to the potter in the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.14",
+      "edition_verse_id": "BSB:ZEC.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then I cut in two my second staff called Union, breaking the brotherhood between Judah and Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.15",
+      "edition_verse_id": "BSB:ZEC.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the LORD said to me: “Take up once more the equipment of a foolish shepherd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.11.16",
+      "edition_verse_id": "BSB:ZEC.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For behold, I will raise up a shepherd in the land who will neither care for the lost, nor seek the young, nor heal the broken, nor sustain the healthy, but he will devour the flesh of the choice sheep and tear off their hooves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.11.17",
+      "edition_verse_id": "BSB:ZEC.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Woe to the worthless shepherd, who deserts the flock! May a sword strike his arm and his right eye! May his arm be completely withered and his right eye utterly blinded!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2TH",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft That is, Silas\\f*",
+          "raw_sha256": "d9747d53fc590a825ec877dc1d497058e1967dda00954f861073af9871f5d24d"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\ft SBL, NE, and WH \\fqa God the Father\\f*",
+          "raw_sha256": "302984a6cd2d0fec0b7cdec7119121aa511a9889b9f7acc39a1f9bd71b608ee2"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft Or \\fqa the grace of our God and Lord, Jesus Christ.\\f*",
+          "raw_sha256": "5f23a28f55db61867fac79c7253b62e35b69927af0b9a3d231ff2abc04075c48"
+        }
+      ]
+    },
+    "2": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 2:13 \\ft Or \\fqa God has chosen you as the firstfruits\\f*",
+          "raw_sha256": "af5b040f505122017c318299b0bfb64ca8ce3e775ff253851b1e7a097e3522db"
+        }
+      ]
+    },
+    "3": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft Or \\fqa from evil\\f*",
+          "raw_sha256": "e717bd5705ec7c729c1ae09137cab5893ca20c68e65c723e04100ed0bd551033"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft Or \\fqa they received\\f*",
+          "raw_sha256": "85ef8e31b76209474a3b7db5b89320aee22b7bd62cbc1f0d86bea0294845dd3c"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 3:18 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "918fd831a531c4150912f2550fc8dd001c8b93cfe738ace41ed6b1949dfc24c9"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

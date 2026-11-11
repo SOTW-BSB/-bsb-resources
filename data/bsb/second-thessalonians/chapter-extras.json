@@ -1,0 +1,26 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2TH",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Greetings to the Thessalonians",
+        "\\s1 Christ’s Coming"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Man of Lawlessness",
+        "\\s1 Stand Firm"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Request for Prayer",
+        "\\s1 A Warning against Idleness",
+        "\\s1 Signature and Final Greetings"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

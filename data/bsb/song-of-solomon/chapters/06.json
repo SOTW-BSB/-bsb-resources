@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "SNG.6.1",
+      "edition_verse_id": "BSB:SNG.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Where has your beloved gone, O most beautiful among women? Which way has he turned? We will seek him with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.6.2",
+      "edition_verse_id": "BSB:SNG.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My beloved has gone down to his garden, to the beds of spices, to pasture his flock in the gardens and to gather lilies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.3",
+      "edition_verse_id": "BSB:SNG.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I belong to my beloved and he belongs to me; he pastures his flock among the lilies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.4",
+      "edition_verse_id": "BSB:SNG.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You are as beautiful, my darling, as Tirzah, as lovely as Jerusalem, as majestic as troops with banners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.5",
+      "edition_verse_id": "BSB:SNG.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Turn your eyes away from me, for they have overcome me. Your hair is like a flock of goats streaming down from Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.6",
+      "edition_verse_id": "BSB:SNG.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Your teeth are like a flock of sheep coming up from the washing; each has its twin, and not one of them is lost.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.7",
+      "edition_verse_id": "BSB:SNG.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Your brow behind your veil is like a slice of pomegranate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.8",
+      "edition_verse_id": "BSB:SNG.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "There are sixty queens and eighty concubines, and maidens without number,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.9",
+      "edition_verse_id": "BSB:SNG.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "but my dove, my perfect one, is unique, the favorite of the mother who bore her. The maidens see her and call her blessed; the queens and concubines sing her praises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.10",
+      "edition_verse_id": "BSB:SNG.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who is this who shines like the dawn, as fair as the moon, as bright as the sun, as majestic as the stars in procession?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.11",
+      "edition_verse_id": "BSB:SNG.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I went down to the walnut grove to see the blossoms of the valley, to see if the vines were budding or the pomegranates were in bloom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.12",
+      "edition_verse_id": "BSB:SNG.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Before I realized it, my desire had set me among the royal chariots of my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.6.13",
+      "edition_verse_id": "BSB:SNG.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Come back, come back, O Shulammite! Come back, come back, that we may gaze upon you. Why do you look at the Shulammite, as on the dance of Mahanaim?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

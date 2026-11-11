@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "SNG.3.1",
+      "edition_verse_id": "BSB:SNG.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On my bed at night I sought the one I love; I sought him, but did not find him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.3.2",
+      "edition_verse_id": "BSB:SNG.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will arise now and go about the city, through the streets and squares. I will seek the one I love. So I sought him but did not find him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.3",
+      "edition_verse_id": "BSB:SNG.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I encountered the watchmen on their rounds of the city: “Have you seen the one I love?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.4",
+      "edition_verse_id": "BSB:SNG.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I had just passed them when I found the one I love. I held him and would not let go until I had brought him to my mother’s house, to the chamber of the one who conceived me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.5",
+      "edition_verse_id": "BSB:SNG.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "O daughters of Jerusalem, I adjure you by the gazelles and does of the field: Do not arouse or awaken love until the time is right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.6",
+      "edition_verse_id": "BSB:SNG.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Who is this coming up from the wilderness like a column of smoke, scented with myrrh and frankincense from all the spices of the merchant?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.7",
+      "edition_verse_id": "BSB:SNG.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, it is Solomon’s carriage, escorted by sixty of the mightiest men of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.8",
+      "edition_verse_id": "BSB:SNG.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All are skilled with the sword, experienced in warfare. Each has his sword at his side prepared for the terror of the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.9",
+      "edition_verse_id": "BSB:SNG.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "King Solomon has made his carriage out of the timber of Lebanon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.10",
+      "edition_verse_id": "BSB:SNG.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He has made its posts of silver, its base of gold, its seat of purple fabric. Its interior is inlaid with love by the daughters of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.3.11",
+      "edition_verse_id": "BSB:SNG.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Come out, O daughters of Zion, and gaze at King Solomon, wearing the crown with which his mother crowned him on the day of his wedding— the day of his heart’s rejoicing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

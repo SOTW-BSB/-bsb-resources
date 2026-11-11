@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "SNG",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "SNG.8.1",
+      "edition_verse_id": "BSB:SNG.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "SNG.8.2",
+      "edition_verse_id": "BSB:SNG.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I would lead you and bring you to the house of my mother who taught me. I would give you spiced wine to drink, the nectar of my pomegranates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.3",
+      "edition_verse_id": "BSB:SNG.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "His left hand is under my head, and his right arm embraces me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.4",
+      "edition_verse_id": "BSB:SNG.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "O daughters of Jerusalem, I adjure you: Do not arouse or awaken love until the time is right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.5",
+      "edition_verse_id": "BSB:SNG.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who is this coming up from the wilderness, leaning on her beloved? I roused you under the apple tree; there your mother conceived you; there she travailed and brought you forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.6",
+      "edition_verse_id": "BSB:SNG.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Set me as a seal over your heart, as a seal upon your arm. For love is as strong as death, its jealousy as unrelenting as Sheol. Its sparks are fiery flames, the fiercest blaze of all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.7",
+      "edition_verse_id": "BSB:SNG.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Mighty waters cannot quench love; rivers cannot sweep it away. If a man were to give all the wealth of his house for love, his offer would be utterly scorned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.8",
+      "edition_verse_id": "BSB:SNG.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "We have a little sister, and her breasts are not yet grown. What shall we do for our sister on the day she is spoken for?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.9",
+      "edition_verse_id": "BSB:SNG.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If she is a wall, we will build a tower of silver upon her. If she is a door, we will enclose her with panels of cedar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.10",
+      "edition_verse_id": "BSB:SNG.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I am a wall, and my breasts are like towers. So I have become in his eyes like one who brings peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.11",
+      "edition_verse_id": "BSB:SNG.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Solomon had a vineyard in Baal-hamon. He leased it to the tenants. For its fruit, each was to bring a thousand shekels of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.12",
+      "edition_verse_id": "BSB:SNG.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But my own vineyard is mine to give; the thousand shekels are for you, O Solomon, and two hundred are for those who tend its fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.13",
+      "edition_verse_id": "BSB:SNG.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You who dwell in the gardens, my companions are listening for your voice. Let me hear it!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "SNG.8.14",
+      "edition_verse_id": "BSB:SNG.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Come away, my beloved, and be like a gazelle or a young stag on the mountains of spices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

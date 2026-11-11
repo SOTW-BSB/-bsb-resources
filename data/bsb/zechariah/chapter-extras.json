@@ -1,0 +1,89 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ZEC",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 A Call to Repentance",
+        "\\s1 The Vision of the Horses",
+        "\\s1 The Vision of the Horns and the Craftsmen"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Vision of the Measuring Line",
+        "\\s1 The Redemption of Zion"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Vision of Joshua the High Priest"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Vision of the Lampstand and Olive Trees"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Vision of the Flying Scroll",
+        "\\s1 The Vision of the Woman in a Basket"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Vision of the Four Chariots",
+        "\\s1 The Crown and the Temple"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 A Call to Justice and Mercy"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Restoration of Jerusalem"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Burden against Israel’s Enemies",
+        "\\s1 Zion’s Coming King",
+        "\\s1 The LORD Will Save His People"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Judah and Israel Will Be Restored"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Doomed Flock",
+        "\\s1 Thirty Pieces of Silver"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Coming Deliverance of Jerusalem",
+        "\\d \\v 1 This is the burden of the word of the LORD concerning Israel.",
+        "\\s1 Mourning the One They Pierced"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 An End to Idolatry",
+        "\\s1 The Shepherd Struck, the Sheep Scattered"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 The Destroyers of Jerusalem Destroyed",
+        "\\s1 All Nations Will Worship the King"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

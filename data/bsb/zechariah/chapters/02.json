@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ZEC",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "ZEC.2.1",
+      "edition_verse_id": "BSB:ZEC.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then I lifted up my eyes and saw a man with a measuring line in his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.2.2",
+      "edition_verse_id": "BSB:ZEC.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Where are you going?” I asked. “To measure Jerusalem,” he replied, “and to determine its width and length.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.2.3",
+      "edition_verse_id": "BSB:ZEC.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then the angel who was speaking with me went forth, and another angel came forward to meet him",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.2.4",
+      "edition_verse_id": "BSB:ZEC.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and said to him, “Run and tell that young man: ‘Jerusalem will be a city without walls because of the multitude of men and livestock within it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.2.5",
+      "edition_verse_id": "BSB:ZEC.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For I will be a wall of fire around it, declares the LORD, and I will be the glory within it.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.2.6",
+      "edition_verse_id": "BSB:ZEC.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Get up! Get up! Flee from the land of the north,” declares the LORD, “for I have scattered you like the four winds of heaven,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.2.7",
+      "edition_verse_id": "BSB:ZEC.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Get up, O Zion! Escape, you who dwell with the Daughter of Babylon!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.2.8",
+      "edition_verse_id": "BSB:ZEC.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For this is what the LORD of Hosts says: “After His Glory has sent Me against the nations that have plundered you — for whoever touches you touches the apple of His eye —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.2.9",
+      "edition_verse_id": "BSB:ZEC.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will surely wave My hand over them, so that they will become plunder for their own servants. Then you will know that the LORD of Hosts has sent Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.2.10",
+      "edition_verse_id": "BSB:ZEC.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Shout for joy and be glad, O Daughter of Zion, for I am coming to dwell among you,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ZEC.2.11",
+      "edition_verse_id": "BSB:ZEC.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“On that day many nations will join themselves to the LORD, and they will become My people. I will dwell among you, and you will know that the LORD of Hosts has sent Me to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.2.12",
+      "edition_verse_id": "BSB:ZEC.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the LORD will take possession of Judah as His portion in the Holy Land, and He will once again choose Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ZEC.2.13",
+      "edition_verse_id": "BSB:ZEC.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Be silent before the LORD, all people, for He has roused Himself from His holy dwelling.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

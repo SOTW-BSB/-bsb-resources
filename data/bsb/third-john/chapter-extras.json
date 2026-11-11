@@ -1,0 +1,15 @@
+{
+  "edition_id": "BSB",
+  "book_code": "3JN",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 A Greeting from the Elder",
+        "\\s1 Gaius Commended for Hospitality",
+        "\\s1 Diotrephes and Demetrius",
+        "\\s1 Conclusion"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}
