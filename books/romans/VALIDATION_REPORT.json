@@ -1,0 +1,18 @@
+{
+  "status": "PASS_SOURCE_PROJECTION_CHECKS",
+  "source_archive_sha256": "f0c56438eb89c98e8f62c5c00461e25cc35b098ad5b179bc350cede759ee5f87",
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "book_name": "Romans",
+  "chapter_count": 16,
+  "verse_count": 432,
+  "source_verse_markers": 432,
+  "omitted_main_text_positions": [
+    "ROM.16.24"
+  ],
+  "source_footnotes_archived_not_rendered": 101,
+  "source_heading_lines_archived_not_rendered": 47,
+  "source_word_link_tags": 0,
+  "data_schema": "ASV/KJV/Webster-compatible v1.0.0 chapter records",
+  "limitations": "No independent character-by-character collation to a publisher print copy; no live GitHub Pages browser test."
+}
