@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "DEU.25.1",
+      "edition_verse_id": "BSB:DEU.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If there is a dispute between men, they are to go to court to be judged, so that the innocent may be acquitted and the guilty condemned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.2",
+      "edition_verse_id": "BSB:DEU.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If the guilty man deserves to be beaten, the judge shall have him lie down and be flogged in his presence with the number of lashes his crime warrants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.3",
+      "edition_verse_id": "BSB:DEU.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He may receive no more than forty lashes, lest your brother be beaten any more than that and be degraded in your sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.25.4",
+      "edition_verse_id": "BSB:DEU.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do not muzzle an ox while it is treading out the grain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.5",
+      "edition_verse_id": "BSB:DEU.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When brothers dwell together and one of them dies without a son, the widow must not marry outside the family. Her husband’s brother is to take her as his wife and fulfill the duty of a brother-in-law for her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.6",
+      "edition_verse_id": "BSB:DEU.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The first son she bears will carry on the name of the dead brother, so that his name will not be blotted out from Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.25.7",
+      "edition_verse_id": "BSB:DEU.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But if the man does not want to marry his brother’s widow, she is to go to the elders at the city gate and say, “My husband’s brother refuses to preserve his brother’s name in Israel. He is not willing to perform the duty of a brother-in-law for me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.8",
+      "edition_verse_id": "BSB:DEU.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the elders of his city shall summon him and speak with him. If he persists and says, “I do not want to marry her,”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.9",
+      "edition_verse_id": "BSB:DEU.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "his brother’s widow shall go up to him in the presence of the elders, remove his sandal, spit in his face, and declare, “This is what is done to the man who will not maintain his brother’s line.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.25.10",
+      "edition_verse_id": "BSB:DEU.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And his family name in Israel will be called “The House of the Unsandaled.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.25.11",
+      "edition_verse_id": "BSB:DEU.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If two men are fighting, and the wife of one comes to rescue her husband from the one striking him, and she reaches out her hand and grabs his genitals,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.12",
+      "edition_verse_id": "BSB:DEU.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "you are to cut off her hand. You must show her no pity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.25.13",
+      "edition_verse_id": "BSB:DEU.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You shall not have two differing weights in your bag, one heavy and one light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.14",
+      "edition_verse_id": "BSB:DEU.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You shall not have two differing measures in your house, one large and one small.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.25.15",
+      "edition_verse_id": "BSB:DEU.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You must maintain accurate and honest weights and measures, so that you may live long in the land that the LORD your God is giving you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.16",
+      "edition_verse_id": "BSB:DEU.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For everyone who behaves dishonestly in regard to these things is detestable to the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.25.17",
+      "edition_verse_id": "BSB:DEU.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Remember what the Amalekites did to you along your way from Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.25.18",
+      "edition_verse_id": "BSB:DEU.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "how they met you on your journey when you were tired and weary, and they attacked all your stragglers; they had no fear of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.25.19",
+      "edition_verse_id": "BSB:DEU.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "When the LORD your God gives you rest from the enemies around you in the land that He is giving you to possess as an inheritance, you are to blot out the memory of Amalek from under heaven. Do not forget!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

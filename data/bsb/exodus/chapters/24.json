@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "EXO.24.1",
+      "edition_verse_id": "BSB:EXO.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Come up to the LORD — you and Aaron, Nadab and Abihu, and seventy of Israel’s elders — and you are to worship at a distance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.2",
+      "edition_verse_id": "BSB:EXO.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Moses alone shall approach the LORD, but the others must not come near. And the people may not go up with him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.24.3",
+      "edition_verse_id": "BSB:EXO.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When Moses came and told the people all the words and ordinances of the LORD, they all responded with one voice: “All the words that the LORD has spoken, we will do.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.4",
+      "edition_verse_id": "BSB:EXO.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Moses wrote down all the words of the LORD. Early the next morning he got up and built an altar at the base of the mountain, along with twelve pillars for the twelve tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.5",
+      "edition_verse_id": "BSB:EXO.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then he sent out some young men of Israel, and they offered burnt offerings and sacrificed young bulls as peace offerings to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.6",
+      "edition_verse_id": "BSB:EXO.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Moses took half of the blood and put it in bowls, and the other half he splattered on the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.7",
+      "edition_verse_id": "BSB:EXO.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then he took the Book of the Covenant and read it to the people, who replied, “All that the LORD has spoken we will do, and we will be obedient.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.24.8",
+      "edition_verse_id": "BSB:EXO.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So Moses took the blood, splattered it on the people, and said, “This is the blood of the covenant that the LORD has made with you in accordance with all these words.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.9",
+      "edition_verse_id": "BSB:EXO.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Moses went up with Aaron, Nadab and Abihu, and seventy of the elders of Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.10",
+      "edition_verse_id": "BSB:EXO.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and they saw the God of Israel. Under His feet was a work like a pavement made of sapphire, as clear as the sky itself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.24.11",
+      "edition_verse_id": "BSB:EXO.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But God did not lay His hand on the nobles of Israel; they saw Him, and they ate and drank.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.24.12",
+      "edition_verse_id": "BSB:EXO.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Come up to Me on the mountain and stay here, so that I may give you the tablets of stone, with the law and commandments I have written for their instruction.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.13",
+      "edition_verse_id": "BSB:EXO.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So Moses set out with Joshua his attendant and went up on the mountain of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.14",
+      "edition_verse_id": "BSB:EXO.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And he said to the elders, “Wait here for us until we return to you. Aaron and Hur are here with you. Whoever has a dispute can go to them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.24.15",
+      "edition_verse_id": "BSB:EXO.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When Moses went up on the mountain, the cloud covered it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.24.16",
+      "edition_verse_id": "BSB:EXO.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and the glory of the LORD settled on Mount Sinai. For six days the cloud covered it, and on the seventh day the LORD called to Moses from within the cloud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.24.17",
+      "edition_verse_id": "BSB:EXO.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the sight of the glory of the LORD was like a consuming fire on the mountaintop in the eyes of the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.24.18",
+      "edition_verse_id": "BSB:EXO.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Moses entered the cloud as he went up on the mountain, and he remained on the mountain forty days and forty nights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

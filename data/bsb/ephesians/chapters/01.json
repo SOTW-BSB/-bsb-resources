@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EPH",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "EPH.1.1",
+      "edition_verse_id": "BSB:EPH.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.2",
+      "edition_verse_id": "BSB:EPH.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Grace and peace to you from God our Father and the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.3",
+      "edition_verse_id": "BSB:EPH.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly realms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.4",
+      "edition_verse_id": "BSB:EPH.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For He chose us in Him before the foundation of the world to be holy and blameless in His presence. In love",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.5",
+      "edition_verse_id": "BSB:EPH.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He predestined us for adoption as His sons through Jesus Christ, according to the good pleasure of His will,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.6",
+      "edition_verse_id": "BSB:EPH.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "to the praise of His glorious grace, which He has freely given us in the Beloved One.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.7",
+      "edition_verse_id": "BSB:EPH.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.8",
+      "edition_verse_id": "BSB:EPH.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "that He lavished on us with all wisdom and understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.9",
+      "edition_verse_id": "BSB:EPH.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And He has made known to us the mystery of His will according to His good pleasure, which He purposed in Christ",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.10",
+      "edition_verse_id": "BSB:EPH.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "as a plan for the fullness of time, to bring all things in heaven and on earth together in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.11",
+      "edition_verse_id": "BSB:EPH.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "In Him we were also chosen as God’s own, having been predestined according to the plan of Him who works out everything by the counsel of His will,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.12",
+      "edition_verse_id": "BSB:EPH.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "in order that we, who were the first to hope in Christ, would be for the praise of His glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.13",
+      "edition_verse_id": "BSB:EPH.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And in Him, having heard and believed the word of truth — the gospel of your salvation — you were sealed with the promised Holy Spirit,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.14",
+      "edition_verse_id": "BSB:EPH.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "who is the pledge of our inheritance until the redemption of those who are God’s possession, to the praise of His glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.15",
+      "edition_verse_id": "BSB:EPH.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For this reason, ever since I heard about your faith in the Lord Jesus and your love for all the saints,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.16",
+      "edition_verse_id": "BSB:EPH.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I have not stopped giving thanks for you, remembering you in my prayers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.17",
+      "edition_verse_id": "BSB:EPH.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "that the God of our Lord Jesus Christ, the glorious Father, may give you a spirit of wisdom and revelation in your knowledge of Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.18",
+      "edition_verse_id": "BSB:EPH.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I ask that the eyes of your heart may be enlightened, so that you may know the hope of His calling, the riches of His glorious inheritance in the saints,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.19",
+      "edition_verse_id": "BSB:EPH.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and the surpassing greatness of His power to us who believe. These are in accordance with the working of His mighty strength,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.20",
+      "edition_verse_id": "BSB:EPH.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "which He exerted in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly realms,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.21",
+      "edition_verse_id": "BSB:EPH.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "far above all rule and authority, power and dominion, and every name that is named, not only in the present age but also in the one to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.1.22",
+      "edition_verse_id": "BSB:EPH.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And God put everything under His feet and made Him head over everything for the church,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.1.23",
+      "edition_verse_id": "BSB:EPH.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "which is His body, the fullness of Him who fills all in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

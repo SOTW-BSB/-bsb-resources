@@ -1,0 +1,48 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EPH",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Paul’s Greeting to the Ephesians",
+        "\\s1 Spiritual Blessings",
+        "\\s1 Spiritual Wisdom"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Alive with Christ",
+        "\\s1 One in Christ",
+        "\\s1 Christ Our Cornerstone"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Mystery of the Gospel",
+        "\\s1 Paul’s Prayer for the Ephesians"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Unity in the Body",
+        "\\s1 New Life in Christ"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Imitators of God",
+        "\\s1 Children of Light",
+        "\\s1 Wives and Husbands"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Children and Parents",
+        "\\s1 Serving with Honor",
+        "\\s1 The Full Armor of God",
+        "\\s1 Final Greetings"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

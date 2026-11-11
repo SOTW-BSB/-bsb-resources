@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "EXO.19.1",
+      "edition_verse_id": "BSB:EXO.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the third month, on the same day of the month that the Israelites had left the land of Egypt, they came to the Wilderness of Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.2",
+      "edition_verse_id": "BSB:EXO.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "After they had set out from Rephidim, they entered the Wilderness of Sinai, and Israel camped there in front of the mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.3",
+      "edition_verse_id": "BSB:EXO.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Moses went up to God, and the LORD called to him from the mountain, “This is what you are to tell the house of Jacob and explain to the sons of Israel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.4",
+      "edition_verse_id": "BSB:EXO.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "‘You have seen for yourselves what I did to Egypt, and how I carried you on eagles’ wings and brought you to Myself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.5",
+      "edition_verse_id": "BSB:EXO.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations — for the whole earth is Mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.6",
+      "edition_verse_id": "BSB:EXO.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And unto Me you shall be a kingdom of priests and a holy nation.’ These are the words that you are to speak to the Israelites.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.7",
+      "edition_verse_id": "BSB:EXO.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So Moses went back and summoned the elders of the people and set before them all these words that the LORD had commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.8",
+      "edition_verse_id": "BSB:EXO.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And all the people answered together, “We will do everything that the LORD has spoken.” So Moses brought their words back to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.9",
+      "edition_verse_id": "BSB:EXO.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The LORD said to Moses, “Behold, I will come to you in a dense cloud, so that the people will hear when I speak with you, and they will always put their trust in you.” And Moses relayed to the LORD what the people had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.10",
+      "edition_verse_id": "BSB:EXO.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Go to the people and consecrate them today and tomorrow. They must wash their clothes",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.11",
+      "edition_verse_id": "BSB:EXO.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and be prepared by the third day, for on the third day the LORD will come down on Mount Sinai in the sight of all the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.12",
+      "edition_verse_id": "BSB:EXO.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And you are to set up a boundary for the people around the mountain and tell them, ‘Be careful not to go up on the mountain or touch its base. Whoever touches the mountain shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.13",
+      "edition_verse_id": "BSB:EXO.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "No hand shall touch him, but he shall surely be stoned or shot with arrows — whether man or beast, he must not live.’ Only when the ram’s horn sounds a long blast may they approach the mountain.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.14",
+      "edition_verse_id": "BSB:EXO.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When Moses came down from the mountain to the people, he consecrated them, and they washed their clothes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.15",
+      "edition_verse_id": "BSB:EXO.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Be prepared for the third day,” he said to the people. “Do not draw near to a woman.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.16",
+      "edition_verse_id": "BSB:EXO.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "On the third day, when morning came, there was thunder and lightning. A thick cloud was upon the mountain, and a very loud blast of the ram’s horn went out, so that all the people in the camp trembled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.17",
+      "edition_verse_id": "BSB:EXO.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Moses brought the people out of the camp to meet with God, and they stood at the foot of the mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.18",
+      "edition_verse_id": "BSB:EXO.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Mount Sinai was completely enveloped in smoke, because the LORD had descended on it in fire. And the smoke rose like the smoke of a furnace, and the whole mountain quaked violently.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.19",
+      "edition_verse_id": "BSB:EXO.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And as the sound of the ram’s horn grew louder and louder, Moses spoke and God answered him in the thunder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.20",
+      "edition_verse_id": "BSB:EXO.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD descended to the top of Mount Sinai and called Moses to the summit. So Moses went up,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.21",
+      "edition_verse_id": "BSB:EXO.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and the LORD said to him, “Go down and warn the people not to break through to see the LORD, lest many of them perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.22",
+      "edition_verse_id": "BSB:EXO.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Even the priests who approach the LORD must consecrate themselves, or the LORD will break out against them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.19.23",
+      "edition_verse_id": "BSB:EXO.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But Moses said to the LORD, “The people cannot come up Mount Sinai, for You solemnly warned us, ‘Put a boundary around the mountain and set it apart as holy.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.24",
+      "edition_verse_id": "BSB:EXO.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the LORD replied, “Go down and bring Aaron with you. But the priests and the people must not break through to come up to the LORD, or He will break out against them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.19.25",
+      "edition_verse_id": "BSB:EXO.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So Moses went down to the people and spoke to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

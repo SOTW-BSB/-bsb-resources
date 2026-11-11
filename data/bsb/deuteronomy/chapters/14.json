@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "DEU.14.1",
+      "edition_verse_id": "BSB:DEU.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "You are sons of the LORD your God; do not cut yourselves or shave your foreheads on behalf of the dead,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.2",
+      "edition_verse_id": "BSB:DEU.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "for you are a people holy to the LORD your God. The LORD has chosen you to be a people for His prized possession out of all the peoples on the face of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.3",
+      "edition_verse_id": "BSB:DEU.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You must not eat any detestable thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.4",
+      "edition_verse_id": "BSB:DEU.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "These are the animals that you may eat: The ox, the sheep, the goat,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.5",
+      "edition_verse_id": "BSB:DEU.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope, and the mountain sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.6",
+      "edition_verse_id": "BSB:DEU.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You may eat any animal that has a split hoof divided in two and that chews the cud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.7",
+      "edition_verse_id": "BSB:DEU.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But of those that chew the cud or have a completely divided hoof, you are not to eat the following: the camel, the rabbit, or the rock badger. Although they chew the cud, they do not have a divided hoof. They are unclean for you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.8",
+      "edition_verse_id": "BSB:DEU.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "as well as the pig; though it has a divided hoof, it does not chew the cud. It is unclean for you. You must not eat its meat or touch its carcass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.9",
+      "edition_verse_id": "BSB:DEU.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Of all the creatures that live in the water, you may eat anything with fins and scales,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.10",
+      "edition_verse_id": "BSB:DEU.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but you may not eat anything that does not have fins and scales; it is unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.11",
+      "edition_verse_id": "BSB:DEU.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You may eat any clean bird,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.12",
+      "edition_verse_id": "BSB:DEU.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "but these you may not eat: the eagle, the bearded vulture, the black vulture,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.13",
+      "edition_verse_id": "BSB:DEU.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "the red kite, the falcon, any kind of kite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.14",
+      "edition_verse_id": "BSB:DEU.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "any kind of raven,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.15",
+      "edition_verse_id": "BSB:DEU.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "the ostrich, the screech owl, the gull, any kind of hawk,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.16",
+      "edition_verse_id": "BSB:DEU.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the little owl, the great owl, the white owl,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.17",
+      "edition_verse_id": "BSB:DEU.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the desert owl, the osprey, the cormorant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.18",
+      "edition_verse_id": "BSB:DEU.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the stork, any kind of heron, the hoopoe, or the bat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.19",
+      "edition_verse_id": "BSB:DEU.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All flying insects are unclean for you; they may not be eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.20",
+      "edition_verse_id": "BSB:DEU.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But you may eat any clean bird.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.21",
+      "edition_verse_id": "BSB:DEU.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "You are not to eat any carcass; you may give it to the foreigner residing within your gates, and he may eat it, or you may sell it to a foreigner. For you are a holy people belonging to the LORD your God. You must not cook a young goat in its mother’s milk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.22",
+      "edition_verse_id": "BSB:DEU.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "You must be sure to set aside a tenth of all the produce brought forth each year from your fields.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.23",
+      "edition_verse_id": "BSB:DEU.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And you are to eat a tenth of your grain, new wine, and oil, and the firstborn of your herds and flocks, in the presence of the LORD your God at the place He will choose as a dwelling for His Name, so that you may learn to fear the LORD your God always.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.24",
+      "edition_verse_id": "BSB:DEU.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But if the distance is too great for you to carry that with which the LORD your God has blessed you, because the place where the LORD your God will choose to put His Name is too far away,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.25",
+      "edition_verse_id": "BSB:DEU.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "then exchange it for money, take the money in your hand, and go to the place the LORD your God will choose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.26",
+      "edition_verse_id": "BSB:DEU.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then you may spend the money on anything you desire: cattle, sheep, wine, strong drink, or anything you wish. You are to feast there in the presence of the LORD your God and rejoice with your household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.27",
+      "edition_verse_id": "BSB:DEU.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And do not neglect the Levite within your gates, since he has no portion or inheritance among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.14.28",
+      "edition_verse_id": "BSB:DEU.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "At the end of every three years, bring a tenth of all your produce for that year and lay it up within your gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.14.29",
+      "edition_verse_id": "BSB:DEU.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then the Levite (because he has no portion or inheritance among you), the foreigner, the fatherless, and the widow within your gates may come and eat and be satisfied. And the LORD your God will bless you in all the work of your hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

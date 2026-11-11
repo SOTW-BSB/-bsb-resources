@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "EXO.4.1",
+      "edition_verse_id": "BSB:EXO.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Moses answered, “What if they do not believe me or listen to my voice? For they may say, ‘The LORD has not appeared to you.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.2",
+      "edition_verse_id": "BSB:EXO.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the LORD asked him, “What is that in your hand?” “A staff,” he replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.3",
+      "edition_verse_id": "BSB:EXO.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Throw it on the ground,” said the LORD. So Moses threw it on the ground, and it became a snake, and he ran from it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.4",
+      "edition_verse_id": "BSB:EXO.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Stretch out your hand and grab it by the tail,” the LORD said to Moses, who reached out his hand and caught the snake, and it turned back into a staff in his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.5",
+      "edition_verse_id": "BSB:EXO.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“This is so that they may believe that the LORD, the God of their fathers — the God of Abraham, the God of Isaac, and the God of Jacob — has appeared to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.6",
+      "edition_verse_id": "BSB:EXO.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Furthermore, the LORD said to Moses, “Put your hand inside your cloak.” So he put his hand inside his cloak, and when he took it out, his hand was leprous, white as snow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.7",
+      "edition_verse_id": "BSB:EXO.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Put your hand back inside your cloak,” said the LORD. So Moses put his hand back inside his cloak, and when he took it out, it was restored, like the rest of his skin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.8",
+      "edition_verse_id": "BSB:EXO.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the LORD said, “If they refuse to believe you or heed the witness of the first sign, they may believe that of the second.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.9",
+      "edition_verse_id": "BSB:EXO.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But if they do not believe even these two signs or listen to your voice, take some water from the Nile and pour it on the dry ground. Then the water you take from the Nile will become blood on the ground.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.10",
+      "edition_verse_id": "BSB:EXO.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Please, Lord,” Moses replied, “I have never been eloquent, neither in the past nor since You have spoken to Your servant, for I am slow of speech and tongue.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.11",
+      "edition_verse_id": "BSB:EXO.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the LORD said to him, “Who gave man his mouth? Or who makes the mute or the deaf, the sighted or the blind? Is it not I, the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.12",
+      "edition_verse_id": "BSB:EXO.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now go! I will help you as you speak, and I will teach you what to say.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.13",
+      "edition_verse_id": "BSB:EXO.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But Moses replied, “Please, Lord, send someone else.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.14",
+      "edition_verse_id": "BSB:EXO.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then the anger of the LORD burned against Moses, and He said, “Is not Aaron the Levite your brother? I know that he can speak well, and he is now on his way to meet you. When he sees you, he will be glad in his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.15",
+      "edition_verse_id": "BSB:EXO.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You are to speak to him and put the words in his mouth. I will help both of you to speak, and I will teach you what to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.16",
+      "edition_verse_id": "BSB:EXO.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He will speak to the people for you. He will be your spokesman, and it will be as if you were God to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.17",
+      "edition_verse_id": "BSB:EXO.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But take this staff in your hand so you can perform signs with it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.18",
+      "edition_verse_id": "BSB:EXO.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then Moses went back to his father-in-law Jethro and said to him, “Please let me return to my brothers in Egypt to see if they are still alive.” “Go in peace,” Jethro replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.19",
+      "edition_verse_id": "BSB:EXO.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now the LORD had said to Moses in Midian, “Go back to Egypt, for all the men who sought to kill you are dead.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.20",
+      "edition_verse_id": "BSB:EXO.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Moses took his wife and sons, put them on a donkey, and headed back to Egypt. And he took the staff of God in his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.21",
+      "edition_verse_id": "BSB:EXO.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The LORD instructed Moses, “When you go back to Egypt, see that you perform before Pharaoh all the wonders that I have put within your power. But I will harden his heart so that he will not let the people go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.22",
+      "edition_verse_id": "BSB:EXO.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then tell Pharaoh that this is what the LORD says: ‘Israel is My firstborn son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.23",
+      "edition_verse_id": "BSB:EXO.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and I told you to let My son go so that he may worship Me. But since you have refused to let him go, behold, I will kill your firstborn son!’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.24",
+      "edition_verse_id": "BSB:EXO.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Now at a lodging place along the way, the LORD met Moses and was about to kill him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.25",
+      "edition_verse_id": "BSB:EXO.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But Zipporah took a flint knife, cut off her son’s foreskin, and touched it to Moses’ feet. “Surely you are a bridegroom of blood to me,” she said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.26",
+      "edition_verse_id": "BSB:EXO.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "So the LORD let him alone. (When she said, “bridegroom of blood,” she was referring to the circumcision.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.27",
+      "edition_verse_id": "BSB:EXO.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Meanwhile, the LORD had said to Aaron, “Go and meet Moses in the wilderness.” So he went and met Moses at the mountain of God and kissed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.28",
+      "edition_verse_id": "BSB:EXO.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Moses told Aaron everything the LORD had sent him to say, and all the signs He had commanded him to perform.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.29",
+      "edition_verse_id": "BSB:EXO.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then Moses and Aaron went and assembled all the elders of the Israelites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.4.30",
+      "edition_verse_id": "BSB:EXO.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and Aaron relayed everything the LORD had said to Moses. And Moses performed the signs before the people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.4.31",
+      "edition_verse_id": "BSB:EXO.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and they believed. And when they heard that the LORD had attended to the Israelites and had seen their affliction, they bowed down and worshiped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

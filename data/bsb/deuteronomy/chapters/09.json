@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "DEU.9.1",
+      "edition_verse_id": "BSB:DEU.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.2",
+      "edition_verse_id": "BSB:DEU.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The people are strong and tall, the descendants of the Anakim. You know about them, and you have heard it said, “Who can stand up to the sons of Anak?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.3",
+      "edition_verse_id": "BSB:DEU.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But understand that today the LORD your God goes across ahead of you as a consuming fire; He will destroy them and subdue them before you. And you will drive them out and annihilate them swiftly, as the LORD has promised you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.4",
+      "edition_verse_id": "BSB:DEU.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When the LORD your God has driven them out before you, do not say in your heart, “Because of my righteousness the LORD has brought me in to possess this land.” Rather, the LORD is driving out these nations before you because of their wickedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.5",
+      "edition_verse_id": "BSB:DEU.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "It is not because of your righteousness or uprightness of heart that you are going in to possess their land, but it is because of their wickedness that the LORD your God is driving out these nations before you, to keep the promise He swore to your fathers, to Abraham, Isaac, and Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.6",
+      "edition_verse_id": "BSB:DEU.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Understand, then, that it is not because of your righteousness that the LORD your God is giving you this good land to possess, for you are a stiff-necked people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.7",
+      "edition_verse_id": "BSB:DEU.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember this, and never forget how you provoked the LORD your God in the wilderness. From the day you left the land of Egypt until you reached this place, you have been rebelling against the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.8",
+      "edition_verse_id": "BSB:DEU.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "At Horeb you provoked the LORD, and He was angry enough to destroy you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.9",
+      "edition_verse_id": "BSB:DEU.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When I went up on the mountain to receive the tablets of stone, the tablets of the covenant that the LORD made with you, I stayed on the mountain forty days and forty nights. I ate no bread and drank no water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.10",
+      "edition_verse_id": "BSB:DEU.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then the LORD gave me the two stone tablets, inscribed by the finger of God with the exact words that the LORD spoke to you out of the fire on the mountain on the day of the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.11",
+      "edition_verse_id": "BSB:DEU.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And at the end of forty days and forty nights, the LORD gave me the two stone tablets, the tablets of the covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.12",
+      "edition_verse_id": "BSB:DEU.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the LORD said to me, “Get up and go down from here at once, for your people, whom you brought out of Egypt, have corrupted themselves. How quickly they have turned aside from the way that I commanded them! They have made for themselves a molten image.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.13",
+      "edition_verse_id": "BSB:DEU.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The LORD also said to me, “I have seen this people, and they are indeed a stiff-necked people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.14",
+      "edition_verse_id": "BSB:DEU.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Leave Me alone, so that I may destroy them and blot out their name from under heaven. Then I will make you into a nation mightier and greater than they are.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.15",
+      "edition_verse_id": "BSB:DEU.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So I went back down the mountain while it was blazing with fire, with the two tablets of the covenant in my hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.16",
+      "edition_verse_id": "BSB:DEU.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I saw how you had sinned against the LORD your God; you had made for yourselves a molten calf. You had turned aside quickly from the way that the LORD had commanded you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.17",
+      "edition_verse_id": "BSB:DEU.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So I took the two tablets and threw them out of my hands, shattering them before your eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.18",
+      "edition_verse_id": "BSB:DEU.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then I fell down before the LORD for forty days and forty nights, as I had done the first time. I did not eat bread or drink water because of all the sin you had committed in doing what was evil in the sight of the LORD and provoking Him to anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.19",
+      "edition_verse_id": "BSB:DEU.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For I was afraid of the anger and wrath that the LORD had directed against you, enough to destroy you. But the LORD listened to me this time as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.20",
+      "edition_verse_id": "BSB:DEU.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD was angry enough with Aaron to destroy him, but at that time I also prayed for Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.21",
+      "edition_verse_id": "BSB:DEU.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And I took that sinful thing, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust, and I cast it into the stream that came down from the mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.22",
+      "edition_verse_id": "BSB:DEU.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "You continued to provoke the LORD at Taberah, at Massah, and at Kibroth-hattaavah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.23",
+      "edition_verse_id": "BSB:DEU.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when the LORD sent you out from Kadesh-barnea, He said, “Go up and possess the land that I have given you.” But you rebelled against the command of the LORD your God. You neither believed Him nor obeyed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.24",
+      "edition_verse_id": "BSB:DEU.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "You have been rebelling against the LORD since the day I came to know you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.25",
+      "edition_verse_id": "BSB:DEU.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So I fell down before the LORD for forty days and forty nights, because the LORD had said He would destroy you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.26",
+      "edition_verse_id": "BSB:DEU.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And I prayed to the LORD and said, “O Lord GOD, do not destroy Your people, Your inheritance, whom You redeemed through Your greatness and brought out of Egypt with a mighty hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.9.27",
+      "edition_verse_id": "BSB:DEU.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Remember Your servants Abraham, Isaac, and Jacob. Overlook the stubbornness of this people and the wickedness of their sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.28",
+      "edition_verse_id": "BSB:DEU.9.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Otherwise, those in the land from which You brought us out will say, ‘Because the LORD was not able to bring them into the land He had promised them, and because He hated them, He has brought them out to kill them in the wilderness.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.9.29",
+      "edition_verse_id": "BSB:DEU.9.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But they are Your people, Your inheritance, whom You brought out by Your great power and outstretched arm.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

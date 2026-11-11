@@ -1,0 +1,68 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EST",
+  "chapter_count": 10,
+  "verse_count": 167,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "a0c04d2394a079fdb3766c1c5ef9de93925d19ef9f491b1c6079d6166cacfb15"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "omitted_from_main_text": [],
+      "sha256": "ccf444fc84afd8745c8fe2a139ee0e313ed2128e3b7d68a5217be0629c1b2a3d"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "6bb613b53a922ebaab480d103c88618afe9cc5b791bf29351832849bf6543b53"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "b2e124dd533c8bc6f585817e0f3175286edc97967c2be28882145a58afc9246d"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "a25398351995e9f48261ee98e83ec76f1989fbde929d583d3f2784a09a1fc63e"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "67bebe5cbd82f0c77ccd4a36d366a2d8f62222c372de6069d2b7a21d92e9e8b2"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 10,
+      "omitted_from_main_text": [],
+      "sha256": "b0b4a1c7caccb7f42da96268b1b2da5c3406894307a4b4a9025e7160d15c27cb"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "99e155fe9eb8c4b9a8e9d38c99707996d0eeb9ae4136990514ed3626cc8b94be"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 32,
+      "omitted_from_main_text": [],
+      "sha256": "89f28c17856197fb7215bc2af09aefb5b3a6d02ca1a163af2b88bfdfbdac6b25"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 3,
+      "omitted_from_main_text": [],
+      "sha256": "7355a000784805634c6b215c8435e7ce0de3c24ba3ed3e636182247829bdd430"
+    }
+  ]
+}

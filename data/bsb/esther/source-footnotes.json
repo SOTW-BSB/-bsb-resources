@@ -1,0 +1,163 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EST",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Hebrew \\fqa Ahasuerus\\ft ; here and throughout Esther \\f*",
+          "raw_sha256": "e255cd807d815fe04964efb9c7df91cf64a5ad1983b8a34de7e237be22f7b9e4"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "42b1fc55882266b4c691668db01f813605104148e8a3978a6935388be9f553bc"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\ft Or \\fqa to disdain their husbands in their eyes\\f*",
+          "raw_sha256": "c6d200833c34f8efe60c0532b9d3d1c7875b9121b2f189761717264df50c2a82"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 1:22 \\ft Literally \\fqa proclaiming in the language of his own people\\f*",
+          "raw_sha256": "a856a675b09bc46a0b9ae4910fd25b1e690c65a07cde63a6338ae9fa0c08d7df"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\fqa Jeconiah \\ft is a variant of \\fqa Jehoiachin\\ft ; see \\ref 2 Kings 24:12|2KI 24:12\\ref*.\\f*",
+          "raw_sha256": "c569cdd89c6a4da40bcaedfb9cbd6b8f5f17d0810902b9402c95943be8199a51"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 2:14 \\ft Or \\fqa to another part of the harem\\f*",
+          "raw_sha256": "8c625c30dc71dccdc446ba94775311e310ab9e40954bef010fc0e312f0d115e9"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\fqa Tebeth \\ft is the tenth month of the Hebrew lunar calendar, usually occurring within the months of December and January.\\f*",
+          "raw_sha256": "6d93ce2f76d9100ffeb9c14ae2ddca0ddb52e331766e7ce2c997555792e3259c"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 2:19 \\ft Or \\fqa Mordecai had become a palace official\\f*",
+          "raw_sha256": "1ba47fc3732563c3a313457a7fb3d50d7874452447600ebb187a2a46b4a52f9b"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 2:21 \\fqa Bigthan \\ft is a variant of \\fqa Bigthana\\ft ; see \\ref Esther 6:2|EST 6:2\\ref*.\\f*",
+          "raw_sha256": "175dc0aa7c4a13bab6481a16ae589edf97fe7d32a89dfade1f5f7ebd8bd14780"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 2:23 \\ft Or \\fqa the Book of the Annals \\ft or \\fqa the Book of the Historical Events\\f*",
+          "raw_sha256": "7e18c140e77089c406829bec4b4297bbf237a87694a1082cdfdfab5fa14208c5"
+        }
+      ]
+    },
+    "3": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft Hebrew \\fqa he disdained in his eyes\\f*",
+          "raw_sha256": "dad459cd07db1f1143e8781a286762689a1b28b470684a6ecb43a4903bb16d31"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 3:7 \\fqa Nisan \\ft is the first month of the Hebrew lunar calendar, usually occurring within the months of March and April.\\f*",
+          "raw_sha256": "dffc256f6d9499b7fe7eb46a14720dd74662b2987c24337a7da655bde8d1a0f9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:7 \\ft LXX \\fqa was cast before Haman—a day and month—and the lot fell on the fourteenth of the month of Adar\\ft ; Hebrew \\fqa was cast before Haman a day and month—the twelfth, Adar\\ft ; the month of \\fqa Adar \\ft (also in verse 13) is the twelfth month of the Hebrew lunar calendar, usually occurring within the months of February and March.\\f*",
+          "raw_sha256": "215db85350bcd8c35398bc31d8eba16d978644f4e05b03e4b7eb4770e9e343af"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\fqa 10,000 talents \\ft is approximately 377 tons or 342 metric tons of silver.\\f*",
+          "raw_sha256": "062012c613ea07853c786e5b47949d3dd2ae83b9f6494aa318d8234138e90352"
+        }
+      ]
+    },
+    "4": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 4:16 \\ft Or \\fqa if I am destroyed, then I will be destroyed!\\f*",
+          "raw_sha256": "81ac3dc973308a8d8a8b1ccf017bf976f90f60f0eadac09ec72d94dea0174dee"
+        }
+      ]
+    },
+    "5": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 5:14 \\fqa 50 cubits \\ft is approximately 75 feet or 22.9 meters high.\\f*",
+          "raw_sha256": "0def5101fc5136eb8a310f2dd15e97e38549073d1d05e60a1ddc99c64cdcc3e6"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\ft Or \\fqa the Book of Memorials, the Annals \\ft or \\fqa the Book of Records of Historical Events\\f*",
+          "raw_sha256": "cef0eee0092d6f7dd911164fdfb4b3d4ba63db86adde459a5a6c3339de553cdd"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 6:2 \\fqa Bigthana \\ft is a variant of \\fqa Bigthan\\ft ; see \\ref Esther 2:21|EST 2:21\\ref*.\\f*",
+          "raw_sha256": "5b8fdf8f3869f595acc47dd30ca9b219a88eaa71c1f1b941675184492417b50a"
+        }
+      ]
+    },
+    "7": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 7:5 \\ft Hebrew \\fqa whose heart has filled him to do\\f*",
+          "raw_sha256": "e6bce9a989a12f3a0ff26adbf97f4990382b706c45258e56579909f8bca35692"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 7:9 \\fqa 50 cubits \\ft is approximately 75 feet or 22.9 meters high.\\f*",
+          "raw_sha256": "dd86778fdd57d40e644057ec4d7b7f2b2654b17516b381840791b8d2dcf61f6e"
+        }
+      ]
+    },
+    "8": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 8:9 \\fqa Sivan \\ft is the third month of the Hebrew lunar calendar, usually occurring within the months of May and June.\\f*",
+          "raw_sha256": "9bbbf28d01d6ecb97eae3df9ec7af9363521b4ea8f8784d1704905b34600db0e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:9 \\ft That is, to the upper Nile region\\f*",
+          "raw_sha256": "a2d462fb63a9189309a79c13cf7bbadf66972112f3b396acaa7dce69fffbe805"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 8:12 \\fqa Adar \\ft is the twelfth month of the Hebrew lunar calendar, usually occurring within the months of February and March.\\f*",
+          "raw_sha256": "ad6cf03b2d248ed7862f94dccb5599e972cb90c0a643bdd56cc228e81cd4deac"
+        }
+      ]
+    },
+    "9": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 9:1 \\fqa Adar \\ft is the twelfth month of the Hebrew lunar calendar, usually occurring within the months of February and March; also in verses 15, 17, 19, and 21.\\f*",
+          "raw_sha256": "7ca0a2e4f45432be887bd32f12280e78dd02c90654b0bbeed96aafc7c4459eff"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EST",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "EST.6.1",
+      "edition_verse_id": "BSB:EST.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "That night sleep escaped the king; so he ordered the Book of Records, the Chronicles, to be brought in and read to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.2",
+      "edition_verse_id": "BSB:EST.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And there it was found recorded that Mordecai had exposed Bigthana and Teresh, two of the eunuchs who guarded the king’s entrance, when they had conspired to assassinate King Xerxes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.6.3",
+      "edition_verse_id": "BSB:EST.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The king inquired, “What honor or dignity has been bestowed on Mordecai for this act?” “Nothing has been done for him,” replied the king’s attendants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.4",
+      "edition_verse_id": "BSB:EST.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Who is in the court?” the king asked. Now Haman had just entered the outer court of the palace to ask the king to hang Mordecai on the gallows he had prepared for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.5",
+      "edition_verse_id": "BSB:EST.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the king’s attendants answered him, “Haman is there, standing in the court.” “Bring him in,” ordered the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.6",
+      "edition_verse_id": "BSB:EST.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Haman entered, and the king asked him, “What should be done for the man whom the king is delighted to honor?” Now Haman thought to himself, “Whom would the king be delighted to honor more than me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.7",
+      "edition_verse_id": "BSB:EST.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Haman told the king, “For the man whom the king is delighted to honor,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.8",
+      "edition_verse_id": "BSB:EST.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "have them bring a royal robe that the king himself has worn and a horse on which the king himself has ridden— one with a royal crest placed on its head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.6.9",
+      "edition_verse_id": "BSB:EST.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Let the robe and the horse be entrusted to one of the king’s most noble princes. Let them array the man the king wants to honor and parade him on the horse through the city square, proclaiming before him, ‘This is what is done for the man whom the king is delighted to honor!’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.6.10",
+      "edition_verse_id": "BSB:EST.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Hurry,” said the king to Haman, “and do just as you proposed. Take the robe and the horse to Mordecai the Jew, who is sitting at the king’s gate. Do not neglect anything that you have suggested.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.11",
+      "edition_verse_id": "BSB:EST.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Haman took the robe and the horse, arrayed Mordecai, and paraded him through the city square, crying out before him, “This is what is done for the man whom the king is delighted to honor!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.12",
+      "edition_verse_id": "BSB:EST.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then Mordecai returned to the king’s gate. But Haman rushed home, with his head covered in grief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.13",
+      "edition_verse_id": "BSB:EST.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Haman told his wife Zeresh and all his friends everything that had happened. His advisers and his wife Zeresh said to him, “Since Mordecai, before whom your downfall has begun, is Jewish, you will not prevail against him — for surely you will fall before him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.6.14",
+      "edition_verse_id": "BSB:EST.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "While they were still speaking with Haman, the king’s eunuchs arrived and rushed him to the banquet that Esther had prepared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "DEU.23.1",
+      "edition_verse_id": "BSB:DEU.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "No man with crushed or severed genitals may enter the assembly of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.2",
+      "edition_verse_id": "BSB:DEU.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "No one of illegitimate birth may enter the assembly of the LORD, nor may any of his descendants, even to the tenth generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.3",
+      "edition_verse_id": "BSB:DEU.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "No Ammonite or Moabite or any of their descendants may enter the assembly of the LORD, even to the tenth generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.4",
+      "edition_verse_id": "BSB:DEU.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For they did not meet you with food and water on your way out of Egypt, and they hired Balaam son of Beor from Pethor in Aram-naharaim to curse you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.5",
+      "edition_verse_id": "BSB:DEU.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Yet the LORD your God would not listen to Balaam, and the LORD your God turned the curse into a blessing for you, because the LORD your God loves you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.6",
+      "edition_verse_id": "BSB:DEU.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You are not to seek peace or prosperity from them as long as you live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.7",
+      "edition_verse_id": "BSB:DEU.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Do not despise an Edomite, for he is your brother. Do not despise an Egyptian, because you lived as a foreigner in his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.8",
+      "edition_verse_id": "BSB:DEU.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The third generation of children born to them may enter the assembly of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.9",
+      "edition_verse_id": "BSB:DEU.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When you are encamped against your enemies, then you shall keep yourself from every wicked thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.10",
+      "edition_verse_id": "BSB:DEU.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If any man among you becomes unclean because of a nocturnal emission, he must leave the camp and stay outside.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.11",
+      "edition_verse_id": "BSB:DEU.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When evening approaches, he must wash with water, and when the sun sets he may return to the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.12",
+      "edition_verse_id": "BSB:DEU.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You must have a place outside the camp to go and relieve yourself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.13",
+      "edition_verse_id": "BSB:DEU.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And you must have a digging tool in your equipment so that when you relieve yourself you can dig a hole and cover up your excrement.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.14",
+      "edition_verse_id": "BSB:DEU.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the LORD your God walks throughout your camp to protect you and deliver your enemies to you. Your camp must be holy, lest He see anything unclean among you and turn away from you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.15",
+      "edition_verse_id": "BSB:DEU.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Do not return a slave to his master if he has taken refuge with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.16",
+      "edition_verse_id": "BSB:DEU.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Let him live among you wherever he chooses, in the town of his pleasing. Do not oppress him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.17",
+      "edition_verse_id": "BSB:DEU.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "No daughter or son of Israel is to be a shrine prostitute.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.18",
+      "edition_verse_id": "BSB:DEU.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "You must not bring the wages of a prostitute, whether female or male, into the house of the LORD your God to fulfill any vow, because both are detestable to the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.19",
+      "edition_verse_id": "BSB:DEU.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Do not charge your brother interest on money, food, or any other type of loan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.20",
+      "edition_verse_id": "BSB:DEU.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You may charge a foreigner interest, but not your brother, so that the LORD your God may bless you in everything to which you put your hand in the land that you are entering to possess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.21",
+      "edition_verse_id": "BSB:DEU.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "If you make a vow to the LORD your God, do not be slow to keep it, because He will surely require it of you, and you will be guilty of sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.22",
+      "edition_verse_id": "BSB:DEU.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But if you refrain from making a vow, you will not be guilty of sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.23",
+      "edition_verse_id": "BSB:DEU.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Be careful to follow through on what comes from your lips, because you have freely vowed to the LORD your God with your own mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.23.24",
+      "edition_verse_id": "BSB:DEU.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When you enter your neighbor’s vineyard, you may eat your fill of grapes, but you must not put any in your basket.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.23.25",
+      "edition_verse_id": "BSB:DEU.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When you enter your neighbor’s grainfield, you may pluck the heads of grain with your hand, but you must not put a sickle to your neighbor’s grain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "DEU.32.1",
+      "edition_verse_id": "BSB:DEU.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give ear, O heavens, and I will speak; hear, O earth, the words of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.2",
+      "edition_verse_id": "BSB:DEU.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let my teaching fall like rain and my speech settle like dew, like gentle rain on new grass, like showers on tender plants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.3",
+      "edition_verse_id": "BSB:DEU.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I will proclaim the name of the LORD. Ascribe greatness to our God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.4",
+      "edition_verse_id": "BSB:DEU.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He is the Rock, His work is perfect; all His ways are just. A God of faithfulness without injustice, righteous and upright is He.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.5",
+      "edition_verse_id": "BSB:DEU.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "His people have acted corruptly toward Him; the blemish on them is not that of His children, but of a perverse and crooked generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.6",
+      "edition_verse_id": "BSB:DEU.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Is this how you repay the LORD, O foolish and senseless people? Is He not your Father and Creator? Has He not made you and established you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.7",
+      "edition_verse_id": "BSB:DEU.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember the days of old; consider the years long past. Ask your father, and he will tell you, your elders, and they will inform you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.8",
+      "edition_verse_id": "BSB:DEU.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When the Most High gave the nations their inheritance, when He divided the sons of man, He set the boundaries of the peoples according to the number of the sons of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.9",
+      "edition_verse_id": "BSB:DEU.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But the LORD’s portion is His people, Jacob His allotted inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.10",
+      "edition_verse_id": "BSB:DEU.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He found him in a desert land, in a barren, howling wilderness; He surrounded him, He instructed him, He guarded him as the apple of His eye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.11",
+      "edition_verse_id": "BSB:DEU.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "As an eagle stirs up its nest and hovers over its young, He spread His wings to catch them and carried them on His pinions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.12",
+      "edition_verse_id": "BSB:DEU.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The LORD alone led him, and no foreign god was with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.13",
+      "edition_verse_id": "BSB:DEU.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He made him ride on the heights of the land and fed him the produce of the field. He nourished him with honey from the rock and oil from the flinty crag,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.14",
+      "edition_verse_id": "BSB:DEU.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "with curds from the herd and milk from the flock, with the fat of lambs, with rams from Bashan, and goats, with the choicest grains of wheat. From the juice of the finest grapes you drank the wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.15",
+      "edition_verse_id": "BSB:DEU.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But Jeshurun grew fat and kicked— becoming fat, bloated, and gorged. He abandoned the God who made him and scorned the Rock of his salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.16",
+      "edition_verse_id": "BSB:DEU.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They provoked His jealousy with foreign gods; they enraged Him with abominations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.17",
+      "edition_verse_id": "BSB:DEU.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They sacrificed to demons, not to God, to gods they had not known, to newly arrived gods, which your fathers did not fear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.18",
+      "edition_verse_id": "BSB:DEU.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "You ignored the Rock who brought you forth; you forgot the God who gave you birth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.19",
+      "edition_verse_id": "BSB:DEU.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "When the LORD saw this, He rejected them, provoked to anger by His sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.20",
+      "edition_verse_id": "BSB:DEU.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He said: “I will hide My face from them; I will see what will be their end. For they are a perverse generation— children of unfaithfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.21",
+      "edition_verse_id": "BSB:DEU.32.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They have provoked My jealousy by that which is not God; they have enraged Me with their worthless idols. So I will make them jealous by those who are not a people; I will make them angry by a nation without understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.22",
+      "edition_verse_id": "BSB:DEU.32.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For a fire has been kindled by My anger, and it burns to the depths of Sheol; it consumes the earth and its produce, and scorches the foundations of the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.23",
+      "edition_verse_id": "BSB:DEU.32.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I will heap disasters upon them; I will spend My arrows against them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.24",
+      "edition_verse_id": "BSB:DEU.32.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "They will be wasted from hunger and ravaged by pestilence and bitter plague; I will send the fangs of wild beasts against them, with the venom of vipers that slither in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.25",
+      "edition_verse_id": "BSB:DEU.32.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Outside, the sword will take their children, and inside, terror will strike the young man and the young woman, the infant and the gray-haired man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.26",
+      "edition_verse_id": "BSB:DEU.32.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I would have said that I would cut them to pieces and blot out their memory from mankind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.27",
+      "edition_verse_id": "BSB:DEU.32.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "if I had not dreaded the taunt of the enemy, lest their adversaries misunderstand and say: ‘Our own hand has prevailed; it was not the LORD who did all this.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.28",
+      "edition_verse_id": "BSB:DEU.32.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Israel is a nation devoid of counsel, with no understanding among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.29",
+      "edition_verse_id": "BSB:DEU.32.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "If only they were wise, they would understand it; they would comprehend their fate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.30",
+      "edition_verse_id": "BSB:DEU.32.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "How could one man pursue a thousand, or two put ten thousand to flight, unless their Rock had sold them, unless the LORD had given them up?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.31",
+      "edition_verse_id": "BSB:DEU.32.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For their rock is not like our Rock, even our enemies concede.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.32",
+      "edition_verse_id": "BSB:DEU.32.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But their vine is from the vine of Sodom and from the fields of Gomorrah. Their grapes are poisonous; their clusters are bitter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.33",
+      "edition_verse_id": "BSB:DEU.32.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Their wine is the venom of serpents, the deadly poison of cobras.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.34",
+      "edition_verse_id": "BSB:DEU.32.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“Have I not stored up these things, sealed up within My vaults?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.35",
+      "edition_verse_id": "BSB:DEU.32.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Vengeance is Mine; I will repay. In due time their foot will slip; for their day of disaster is near, and their doom is coming quickly.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.36",
+      "edition_verse_id": "BSB:DEU.32.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "For the LORD will vindicate His people and have compassion on His servants when He sees that their strength is gone and no one remains, slave or free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.37",
+      "edition_verse_id": "BSB:DEU.32.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "He will say: “Where are their gods, the rock in which they took refuge,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.38",
+      "edition_verse_id": "BSB:DEU.32.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "which ate the fat of their sacrifices and drank the wine of their drink offerings? Let them rise up and help you; let them give you shelter!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.39",
+      "edition_verse_id": "BSB:DEU.32.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "See now that I am He; there is no God besides Me. I bring death and I give life; I wound and I heal, and there is no one who can deliver from My hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.40",
+      "edition_verse_id": "BSB:DEU.32.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "For I lift up My hand to heaven and declare: As surely as I live forever,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.41",
+      "edition_verse_id": "BSB:DEU.32.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "when I sharpen My flashing sword, and My hand grasps it in judgment, I will take vengeance on My adversaries and repay those who hate Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.42",
+      "edition_verse_id": "BSB:DEU.32.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "I will make My arrows drunk with blood, while My sword devours flesh— the blood of the slain and captives, the heads of the enemy leaders.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.43",
+      "edition_verse_id": "BSB:DEU.32.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Rejoice, O heavens, with Him, and let all God’s angels worship Him. Rejoice, O nations, with His people; for He will avenge the blood of His children. He will take vengeance on His adversaries and repay those who hate Him; He will cleanse His land and His people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.44",
+      "edition_verse_id": "BSB:DEU.32.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Then Moses came with Joshua son of Nun and recited all the words of this song in the hearing of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.45",
+      "edition_verse_id": "BSB:DEU.32.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "When Moses had finished reciting all these words to all Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.46",
+      "edition_verse_id": "BSB:DEU.32.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "he said to them, “Take to heart all the words I have solemnly declared to you this day, so that you may command your children to carefully follow all the words of this law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.47",
+      "edition_verse_id": "BSB:DEU.32.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "For they are not idle words to you, because they are your life, and by them you will live long in the land that you are crossing the Jordan to possess.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.48",
+      "edition_verse_id": "BSB:DEU.32.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "On that same day the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.49",
+      "edition_verse_id": "BSB:DEU.32.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "“Go up into the Abarim Range to Mount Nebo, in the land of Moab across from Jericho, and view the land of Canaan, which I am giving to the Israelites as their own possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.32.50",
+      "edition_verse_id": "BSB:DEU.32.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And there on the mountain that you climb, you will die and be gathered to your people, just as your brother Aaron died on Mount Hor and was gathered to his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.51",
+      "edition_verse_id": "BSB:DEU.32.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "For at the waters of Meribah-kadesh in the Wilderness of Zin, both of you broke faith with Me among the Israelites by failing to treat Me as holy in their presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.32.52",
+      "edition_verse_id": "BSB:DEU.32.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Although you shall see from a distance the land that I am giving the Israelites, you shall not enter it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "EXO.14.1",
+      "edition_verse_id": "BSB:EXO.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.2",
+      "edition_verse_id": "BSB:EXO.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Tell the Israelites to turn back and encamp before Pi-hahiroth, between Migdol and the sea. You are to encamp by the sea, directly opposite Baal-zephon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.3",
+      "edition_verse_id": "BSB:EXO.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Pharaoh will say of the Israelites, ‘They are wandering the land in confusion; the wilderness has boxed them in.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.4",
+      "edition_verse_id": "BSB:EXO.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I will harden Pharaoh’s heart so that he will pursue them. But I will gain honor by means of Pharaoh and all his army, and the Egyptians will know that I am the LORD.” So this is what the Israelites did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.5",
+      "edition_verse_id": "BSB:EXO.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, “What have we done? We have released Israel from serving us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.6",
+      "edition_verse_id": "BSB:EXO.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So Pharaoh prepared his chariot and took his army with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.7",
+      "edition_verse_id": "BSB:EXO.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He took 600 of the best chariots, and all the other chariots of Egypt, with officers over all of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.8",
+      "edition_verse_id": "BSB:EXO.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the LORD hardened the heart of Pharaoh king of Egypt so that he pursued the Israelites, who were marching out defiantly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.9",
+      "edition_verse_id": "BSB:EXO.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The Egyptians— all Pharaoh’s horses and chariots, horsemen and troops— pursued the Israelites and overtook them as they camped by the sea near Pi-hahiroth, opposite Baal-zephon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.10",
+      "edition_verse_id": "BSB:EXO.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As Pharaoh approached, the Israelites looked up and saw the Egyptians marching after them, and they were terrified and cried out to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.11",
+      "edition_verse_id": "BSB:EXO.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They said to Moses, “Was it because there were no graves in Egypt that you brought us into the wilderness to die? What have you done to us by bringing us out of Egypt?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.12",
+      "edition_verse_id": "BSB:EXO.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Did we not say to you in Egypt, ‘Leave us alone so that we may serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.13",
+      "edition_verse_id": "BSB:EXO.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But Moses told the people, “Do not be afraid. Stand firm and you will see the LORD’s salvation, which He will accomplish for you today; for the Egyptians you see today, you will never see again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.14",
+      "edition_verse_id": "BSB:EXO.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD will fight for you; you need only to be still.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.15",
+      "edition_verse_id": "BSB:EXO.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Why are you crying out to Me? Tell the Israelites to go forward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.16",
+      "edition_verse_id": "BSB:EXO.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And as for you, lift up your staff and stretch out your hand over the sea and divide it, so that the Israelites can go through the sea on dry ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.17",
+      "edition_verse_id": "BSB:EXO.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I will harden the hearts of the Egyptians so that they will go in after them. Then I will gain honor by means of Pharaoh and all his army and chariots and horsemen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.18",
+      "edition_verse_id": "BSB:EXO.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The Egyptians will know that I am the LORD when I am honored through Pharaoh, his chariots, and his horsemen.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.19",
+      "edition_verse_id": "BSB:EXO.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the angel of God, who had gone before the camp of Israel, withdrew and went behind them. The pillar of cloud also moved from before them and stood behind them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.20",
+      "edition_verse_id": "BSB:EXO.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "so that it came between the camps of Egypt and Israel. The cloud was there in the darkness, but it lit up the night. So all night long neither camp went near the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.21",
+      "edition_verse_id": "BSB:EXO.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Moses stretched out his hand over the sea, and all that night the LORD drove back the sea with a strong east wind that turned it into dry land. So the waters were divided,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.22",
+      "edition_verse_id": "BSB:EXO.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "and the Israelites went through the sea on dry ground, with walls of water on their right and on their left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.23",
+      "edition_verse_id": "BSB:EXO.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the Egyptians chased after them— all Pharaoh’s horses, chariots, and horsemen— and followed them into the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.24",
+      "edition_verse_id": "BSB:EXO.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "At morning watch, however, the LORD looked down on the army of the Egyptians from the pillar of fire and cloud, and He threw their camp into confusion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.25",
+      "edition_verse_id": "BSB:EXO.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He caused their chariot wheels to wobble, so that they had difficulty driving. “Let us flee from the Israelites,” said the Egyptians, “for the LORD is fighting for them against Egypt!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.26",
+      "edition_verse_id": "BSB:EXO.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Stretch out your hand over the sea, so that the waters may flow back over the Egyptians and their chariots and horsemen.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.27",
+      "edition_verse_id": "BSB:EXO.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So Moses stretched out his hand over the sea, and at daybreak the sea returned to its normal state. As the Egyptians were retreating, the LORD swept them into the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.28",
+      "edition_verse_id": "BSB:EXO.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The waters flowed back and covered the chariots and horsemen — the entire army of Pharaoh that had chased the Israelites into the sea. Not one of them survived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.29",
+      "edition_verse_id": "BSB:EXO.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But the Israelites had walked through the sea on dry ground, with walls of water on their right and on their left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.14.30",
+      "edition_verse_id": "BSB:EXO.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "That day the LORD saved Israel from the hand of the Egyptians, and Israel saw the Egyptians dead on the shore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.14.31",
+      "edition_verse_id": "BSB:EXO.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "When Israel saw the great power that the LORD had exercised over the Egyptians, the people feared the LORD and believed in Him and in His servant Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

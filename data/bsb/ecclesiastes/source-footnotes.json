@@ -1,0 +1,125 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ECC",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Or \\fqa the Convener \\ft or \\fqa the Preacher \\ft or \\fqa the leader of the assembly\\ft ; Hebrew \\fqa Qoheleth \\ft is rendered as \\fqa the Teacher \\ft throughout Ecclesiastes.\\f*",
+          "raw_sha256": "0ef4edd7cf213b7c507b6a1aba7b43cc6de75acb403c9a5edd15494f8f4b2703"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\ft Literally \\fqa vapor \\ft or \\fqa breath\\ft ; the Hebrew words translated in Ecclesiastes as forms of \\fqa futile \\ft or \\fqa fleeting \\ft can also be translated as \\fqa vanity \\ft or \\fqa meaningless\\ft .\\f*",
+          "raw_sha256": "7f1d5881382153d25e950025f9cba20fbefba8373dfb14b9954cf38e7f51f36d"
+        }
+      ]
+    },
+    "2": {
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 2:25 \\ft Some Hebrew manuscripts, LXX, Syriac; most Hebrew manuscripts \\fqa apart from me \\ft or \\fqa more than I\\f*",
+          "raw_sha256": "9cbb849414202b9a3a8ef33c5ad81ea28e0d0e4fcfca23ef9ea043f673dd8f0f"
+        }
+      ]
+    },
+    "3": {
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 3:19 \\ft Or \\fqa spirit\\f*",
+          "raw_sha256": "b79db23e2892c1960d32ffe59c0c42b18d5d90693b03f2dd032b7ace4e967f97"
+        }
+      ]
+    },
+    "5": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 5:6 \\ft Or \\fqa angel\\f*",
+          "raw_sha256": "cca3f4257e8bfedd4662da203369307832af8d92eed7761cb56876ac9d90ee28"
+        }
+      ]
+    },
+    "6": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 6:7 \\ft Hebrew \\fqa filled\\f*",
+          "raw_sha256": "f7c94486d1e55f8d8e731273a323f8469086d2b3995e1afdb7b96572ca13c131"
+        }
+      ]
+    },
+    "7": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 7:9 \\ft Hebrew \\fqa in the bosom of fools\\f*",
+          "raw_sha256": "b612ea6655b3009c841c996cbe3b88861aaec167132dbd943281c1a4f0f40c8a"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 7:18 \\ft Or \\fqa will avoid all extremes\\f*",
+          "raw_sha256": "f4834573554e2c1221815d618987a55e4e8626811990b5c6467db8ac5adf2af4"
+        }
+      ]
+    },
+    "8": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 8:10 \\ft Some Hebrew manuscripts, LXX, and Vulgate; most Hebrew manuscripts \\fqa were soon forgotten\\f*",
+          "raw_sha256": "d163485c9c01805c43de27d6ef46ba295b4560c811776f18809396b38c847a16"
+        }
+      ]
+    },
+    "9": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 9:2 \\ft LXX, Syriac, and Vulgate; Hebrew does not include \\fqa and the bad\\ft .\\f*",
+          "raw_sha256": "fe7821357e7202db49ef79685ba705b5a6104f91cb1d48ba15d99f7635e4d4ac"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 9:9 \\ft Or \\fqa futile\\ft ; twice in this verse\\f*",
+          "raw_sha256": "b592c35f44da742c64b01924c5f61589e22cdfc75e4a5bf0a6ae3ba072cdbc99"
+        }
+      ]
+    },
+    "10": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 10:16 \\ft Or \\fqa a servant\\f*",
+          "raw_sha256": "9c736ff93a8a468f15efd752a5057db73ed552bf61260da5e98887e37474082d"
+        }
+      ]
+    },
+    "11": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 11:5 \\ft Or \\fqa As you do not know the way the spirit comes to the bones\\f*",
+          "raw_sha256": "3ceceebfe3f84564a21ed150bed779252eb1ef81e223496c4f8b3b95050d95e8"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 11:10 \\ft Or \\fqa futile\\f*",
+          "raw_sha256": "43867743b06da880e5589e24fa6d8cc72ea07dd31723d2d5302999d80af781bf"
+        }
+      ]
+    },
+    "12": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 12:10 \\ft Or \\fqa and sought to write what was upright and true\\f*",
+          "raw_sha256": "0a73d3476d53bb0948289f6aa6e993e08d4b82ea974d0a664d5a08bfbd7a959a"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 12:11 \\ft Or \\fqa shepherd\\f*",
+          "raw_sha256": "784ba55bcb2c7b5a7e0aafc55f4f11bfa8d94c245094ac330c050433c5194a0b"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

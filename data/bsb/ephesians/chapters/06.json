@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EPH",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "EPH.6.1",
+      "edition_verse_id": "BSB:EPH.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Children, obey your parents in the Lord, for this is right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.2",
+      "edition_verse_id": "BSB:EPH.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Honor your father and mother” (which is the first commandment with a promise),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.3",
+      "edition_verse_id": "BSB:EPH.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“that it may go well with you and that you may have a long life on the earth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.4",
+      "edition_verse_id": "BSB:EPH.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Fathers, do not provoke your children to wrath; instead, bring them up in the discipline and instruction of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.5",
+      "edition_verse_id": "BSB:EPH.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Slaves, obey your earthly masters with respect and fear and sincerity of heart, just as you would obey Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.6",
+      "edition_verse_id": "BSB:EPH.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And do this not only to please them while they are watching, but as servants of Christ, doing the will of God from your heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.7",
+      "edition_verse_id": "BSB:EPH.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Serve with good will, as to the Lord and not to men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.8",
+      "edition_verse_id": "BSB:EPH.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "because you know that the Lord will reward each one for whatever good he does, whether he is slave or free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.9",
+      "edition_verse_id": "BSB:EPH.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And masters, do the same for your slaves. Give up your use of threats, because you know that He who is both their Master and yours is in heaven, and there is no favoritism with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.10",
+      "edition_verse_id": "BSB:EPH.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Finally, be strong in the Lord and in His mighty power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.11",
+      "edition_verse_id": "BSB:EPH.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Put on the full armor of God, so that you can make your stand against the devil’s schemes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.12",
+      "edition_verse_id": "BSB:EPH.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.13",
+      "edition_verse_id": "BSB:EPH.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore take up the full armor of God, so that when the day of evil comes, you will be able to stand your ground, and having done everything, to stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.14",
+      "edition_verse_id": "BSB:EPH.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness arrayed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.15",
+      "edition_verse_id": "BSB:EPH.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and with your feet fitted with the readiness of the gospel of peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.16",
+      "edition_verse_id": "BSB:EPH.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.17",
+      "edition_verse_id": "BSB:EPH.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And take the helmet of salvation and the sword of the Spirit, which is the word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.18",
+      "edition_verse_id": "BSB:EPH.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Pray in the Spirit at all times, with every kind of prayer and petition. To this end, stay alert with all perseverance in your prayers for all the saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.19",
+      "edition_verse_id": "BSB:EPH.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Pray also for me, that whenever I open my mouth, words may be given me so that I will boldly make known the mystery of the gospel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.20",
+      "edition_verse_id": "BSB:EPH.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "for which I am an ambassador in chains. Pray that I may proclaim it fearlessly, as I should.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.21",
+      "edition_verse_id": "BSB:EPH.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Tychicus, the beloved brother and faithful servant in the Lord, will tell you everything, so that you also may know about me and what I am doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.22",
+      "edition_verse_id": "BSB:EPH.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.6.23",
+      "edition_verse_id": "BSB:EPH.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Peace to the brothers and love with faith from God the Father and the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.6.24",
+      "edition_verse_id": "BSB:EPH.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Grace to all who love our Lord Jesus Christ with an undying love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

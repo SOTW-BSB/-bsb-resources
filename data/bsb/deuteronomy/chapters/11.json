@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "DEU.11.1",
+      "edition_verse_id": "BSB:DEU.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "You shall therefore love the LORD your God and always keep His charge, His statutes, His ordinances, and His commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.2",
+      "edition_verse_id": "BSB:DEU.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Know this day that it is not your children who have known and seen the discipline of the LORD your God: His greatness, His mighty hand, and His outstretched arm;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.3",
+      "edition_verse_id": "BSB:DEU.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "the signs and works He did in Egypt to Pharaoh king of Egypt and all his land;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.4",
+      "edition_verse_id": "BSB:DEU.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "what He did to the Egyptian army and horses and chariots when He made the waters of the Red Sea engulf them as they pursued you, and how He destroyed them completely, even to this day;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.5",
+      "edition_verse_id": "BSB:DEU.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "what He did for you in the wilderness until you reached this place;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.6",
+      "edition_verse_id": "BSB:DEU.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and what He did in the midst of all the Israelites to Dathan and Abiram, the sons of Eliab the Reubenite, when the earth opened its mouth and swallowed them, their households, their tents, and every living thing that belonged to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.7",
+      "edition_verse_id": "BSB:DEU.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For it is your own eyes that have seen every great work that the LORD has done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.8",
+      "edition_verse_id": "BSB:DEU.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You shall therefore keep every commandment I am giving you today, so that you may have the strength to go in and possess the land that you are crossing the Jordan to possess,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.9",
+      "edition_verse_id": "BSB:DEU.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and so that you may live long in the land that the LORD swore to your fathers to give them and their descendants, a land flowing with milk and honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.10",
+      "edition_verse_id": "BSB:DEU.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the land that you are entering to possess is not like the land of Egypt, from which you have come, where you sowed your seed and irrigated on foot, like a vegetable garden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.11",
+      "edition_verse_id": "BSB:DEU.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the land that you are crossing the Jordan to possess is a land of mountains and valleys that drinks in the rain from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.12",
+      "edition_verse_id": "BSB:DEU.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "It is a land for which the LORD your God cares; the eyes of the LORD your God are always on it, from the beginning to the end of the year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.13",
+      "edition_verse_id": "BSB:DEU.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So if you carefully obey the commandments I am giving you today, to love the LORD your God and to serve Him with all your heart and with all your soul,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.14",
+      "edition_verse_id": "BSB:DEU.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "then I will provide rain for your land in season, the autumn and spring rains, that you may gather your grain, new wine, and oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.15",
+      "edition_verse_id": "BSB:DEU.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I will provide grass in the fields for your livestock, and you will eat and be satisfied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.16",
+      "edition_verse_id": "BSB:DEU.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But be careful that you are not enticed to turn aside to worship and bow down to other gods,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.17",
+      "edition_verse_id": "BSB:DEU.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "or the anger of the LORD will be kindled against you. He will shut the heavens so that there will be no rain, nor will the land yield its produce, and you will soon perish from the good land that the LORD is giving you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.18",
+      "edition_verse_id": "BSB:DEU.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Fix these words of mine in your hearts and minds; tie them as reminders on your hands and bind them on your foreheads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.19",
+      "edition_verse_id": "BSB:DEU.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Teach them to your children, speaking about them when you sit at home and when you walk along the road, when you lie down and when you get up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.20",
+      "edition_verse_id": "BSB:DEU.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Write them on the doorposts of your houses and on your gates,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.21",
+      "edition_verse_id": "BSB:DEU.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "so that as long as the heavens are above the earth, your days and those of your children may be multiplied in the land that the LORD swore to give your fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.22",
+      "edition_verse_id": "BSB:DEU.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For if you carefully keep all these commandments I am giving you to follow— to love the LORD your God, to walk in all His ways, and to hold fast to Him—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.23",
+      "edition_verse_id": "BSB:DEU.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "then the LORD will drive out all these nations before you, and you will dispossess nations greater and stronger than you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.24",
+      "edition_verse_id": "BSB:DEU.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Every place where the sole of your foot treads will be yours. Your territory will extend from the wilderness to Lebanon, and from the Euphrates River to the Western Sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.25",
+      "edition_verse_id": "BSB:DEU.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "No man will be able to stand against you; the LORD your God will put the fear and dread of you upon all the land, wherever you set foot, as He has promised you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.26",
+      "edition_verse_id": "BSB:DEU.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "See, today I am setting before you a blessing and a curse —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.27",
+      "edition_verse_id": "BSB:DEU.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "a blessing if you obey the commandments of the LORD your God that I am giving you today,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.28",
+      "edition_verse_id": "BSB:DEU.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "but a curse if you disobey the commandments of the LORD your God and turn aside from the path I command you today by following other gods, which you have not known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.29",
+      "edition_verse_id": "BSB:DEU.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When the LORD your God brings you into the land you are entering to possess, you are to proclaim the blessing on Mount Gerizim and the curse on Mount Ebal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.30",
+      "edition_verse_id": "BSB:DEU.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Are not these mountains across the Jordan, west of the road toward the sunset, in the land of the Canaanites who live in the Arabah opposite Gilgal near the Oak of Moreh?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.11.31",
+      "edition_verse_id": "BSB:DEU.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For you are about to cross the Jordan to enter and possess the land that the LORD your God is giving you. When you take possession of it and settle in it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.11.32",
+      "edition_verse_id": "BSB:DEU.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "be careful to follow all the statutes and ordinances that I am setting before you today.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

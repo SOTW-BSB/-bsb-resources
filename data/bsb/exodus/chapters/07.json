@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "EXO.7.1",
+      "edition_verse_id": "BSB:EXO.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.2",
+      "edition_verse_id": "BSB:EXO.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "You are to speak all that I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.3",
+      "edition_verse_id": "BSB:EXO.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But I will harden Pharaoh’s heart, and though I will multiply My signs and wonders in the land of Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.4",
+      "edition_verse_id": "BSB:EXO.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Pharaoh will not listen to you. Then I will lay My hand on Egypt, and by mighty acts of judgment I will bring the divisions of My people the Israelites out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.5",
+      "edition_verse_id": "BSB:EXO.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the Egyptians will know that I am the LORD, when I stretch out My hand against Egypt and bring the Israelites out from among them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.6",
+      "edition_verse_id": "BSB:EXO.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So Moses and Aaron did just as the LORD had commanded them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.7",
+      "edition_verse_id": "BSB:EXO.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Moses was eighty years old and Aaron was eighty-three when they spoke to Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.8",
+      "edition_verse_id": "BSB:EXO.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD said to Moses and Aaron,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.9",
+      "edition_verse_id": "BSB:EXO.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“When Pharaoh tells you, ‘Perform a miracle,’ you are to say to Aaron, ‘Take your staff and throw it down before Pharaoh,’ and it will become a serpent.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.10",
+      "edition_verse_id": "BSB:EXO.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So Moses and Aaron went to Pharaoh and did just as the LORD had commanded. Aaron threw his staff down before Pharaoh and his officials, and it became a serpent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.11",
+      "edition_verse_id": "BSB:EXO.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But Pharaoh called the wise men and sorcerers and magicians of Egypt, and they also did the same things by their magic arts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.12",
+      "edition_verse_id": "BSB:EXO.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Each one threw down his staff, and it became a serpent. But Aaron’s staff swallowed up the other staffs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.13",
+      "edition_verse_id": "BSB:EXO.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Still, Pharaoh’s heart was hardened, and he would not listen to them, just as the LORD had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.14",
+      "edition_verse_id": "BSB:EXO.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Pharaoh’s heart is unyielding; he refuses to let the people go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.15",
+      "edition_verse_id": "BSB:EXO.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Go to Pharaoh in the morning as you see him walking out to the water. Wait on the bank of the Nile to meet him, and take in your hand the staff that was changed into a snake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.16",
+      "edition_verse_id": "BSB:EXO.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then say to him, ‘The LORD, the God of the Hebrews, has sent me to tell you: Let My people go, so that they may worship Me in the wilderness. But until now you have not listened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.17",
+      "edition_verse_id": "BSB:EXO.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "This is what the LORD says: By this you will know that I am the LORD. Behold, with the staff in my hand I will strike the water of the Nile, and it will turn to blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.18",
+      "edition_verse_id": "BSB:EXO.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The fish in the Nile will die, the river will stink, and the Egyptians will be unable to drink its water.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.19",
+      "edition_verse_id": "BSB:EXO.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over the waters of Egypt— over their rivers and canals and ponds and all the reservoirs— that they may become blood.’ There will be blood throughout the land of Egypt, even in the vessels of wood and stone.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.20",
+      "edition_verse_id": "BSB:EXO.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Moses and Aaron did just as the LORD had commanded; in the presence of Pharaoh and his officials, Aaron raised the staff and struck the water of the Nile, and all the water was turned to blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.21",
+      "edition_verse_id": "BSB:EXO.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The fish in the Nile died, and the river smelled so bad that the Egyptians could not drink its water. And there was blood throughout the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.22",
+      "edition_verse_id": "BSB:EXO.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the magicians of Egypt did the same things by their magic arts. So Pharaoh’s heart was hardened, and he would not listen to Moses and Aaron, just as the LORD had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.7.23",
+      "edition_verse_id": "BSB:EXO.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Instead, Pharaoh turned around, went into his palace, and did not take any of this to heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.24",
+      "edition_verse_id": "BSB:EXO.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So all the Egyptians dug around the Nile for water to drink, because they could not drink the water from the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.7.25",
+      "edition_verse_id": "BSB:EXO.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And seven full days passed after the LORD had struck the Nile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "EXO.15.1",
+      "edition_verse_id": "BSB:EXO.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Moses and the Israelites sang this song to the LORD: “I will sing to the LORD, for He is highly exalted. The horse and rider He has thrown into the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.2",
+      "edition_verse_id": "BSB:EXO.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD is my strength and my song, and He has become my salvation. He is my God, and I will praise Him, my father’s God, and I will exalt Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.3",
+      "edition_verse_id": "BSB:EXO.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The LORD is a warrior, the LORD is His name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.4",
+      "edition_verse_id": "BSB:EXO.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Pharaoh’s chariots and army He has cast into the sea; the finest of his officers are drowned in the Red Sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.5",
+      "edition_verse_id": "BSB:EXO.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The depths have covered them; they sank there like a stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.6",
+      "edition_verse_id": "BSB:EXO.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Your right hand, O LORD, is majestic in power; Your right hand, O LORD, has shattered the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.7",
+      "edition_verse_id": "BSB:EXO.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You overthrew Your adversaries by Your great majesty. You unleashed Your burning wrath; it consumed them like stubble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.8",
+      "edition_verse_id": "BSB:EXO.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "At the blast of Your nostrils the waters piled up; like a wall the currents stood firm; the depths congealed in the heart of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.9",
+      "edition_verse_id": "BSB:EXO.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The enemy declared, ‘I will pursue, I will overtake. I will divide the spoils; I will gorge myself on them. I will draw my sword; my hand will destroy them.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.10",
+      "edition_verse_id": "BSB:EXO.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But You blew with Your breath, and the sea covered them. They sank like lead in the mighty waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.11",
+      "edition_verse_id": "BSB:EXO.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Who among the gods is like You, O LORD? Who is like You — majestic in holiness, revered with praises, performing wonders?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.12",
+      "edition_verse_id": "BSB:EXO.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You stretched out Your right hand, and the earth swallowed them up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.13",
+      "edition_verse_id": "BSB:EXO.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "With loving devotion You will lead the people You have redeemed; with Your strength You will guide them to Your holy dwelling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.14",
+      "edition_verse_id": "BSB:EXO.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The nations will hear and tremble; anguish will grip the dwellers of Philistia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.15",
+      "edition_verse_id": "BSB:EXO.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the chiefs of Edom will be dismayed; trembling will seize the leaders of Moab; those who dwell in Canaan will melt away,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.16",
+      "edition_verse_id": "BSB:EXO.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and terror and dread will fall on them. By the power of Your arm they will be as still as a stone until Your people pass by, O LORD, until the people You have bought pass by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.17",
+      "edition_verse_id": "BSB:EXO.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "You will bring them in and plant them on the mountain of Your inheritance — the place, O LORD, You have prepared for Your dwelling, the sanctuary, O Lord, Your hands have established.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.18",
+      "edition_verse_id": "BSB:EXO.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The LORD will reign forever and ever!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.19",
+      "edition_verse_id": "BSB:EXO.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For when Pharaoh’s horses, chariots, and horsemen went into the sea, the LORD brought the waters of the sea back over them. But the Israelites walked through the sea on dry ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.20",
+      "edition_verse_id": "BSB:EXO.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Miriam the prophetess, Aaron’s sister, took a tambourine in her hand, and all the women followed her with tambourines and dancing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.21",
+      "edition_verse_id": "BSB:EXO.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Miriam sang back to them: “Sing to the LORD, for He is highly exalted; the horse and rider He has thrown into the sea.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.22",
+      "edition_verse_id": "BSB:EXO.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then Moses led Israel from the Red Sea, and they went out into the Desert of Shur. For three days they walked in the desert without finding water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.23",
+      "edition_verse_id": "BSB:EXO.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when they came to Marah, they could not drink the water there because it was bitter. (That is why it was named Marah.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.24",
+      "edition_verse_id": "BSB:EXO.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So the people grumbled against Moses, saying, “What are we to drink?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.25",
+      "edition_verse_id": "BSB:EXO.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Moses cried out to the LORD, and the LORD showed him a log. And when he cast it into the waters, they were sweetened. There the LORD made for them a statute and an ordinance, and there He tested them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.15.26",
+      "edition_verse_id": "BSB:EXO.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "saying, “If you will listen carefully to the voice of the LORD your God, and do what is right in His eyes, and pay attention to His commands, and keep all His statutes, then I will not bring on you any of the diseases I inflicted on the Egyptians. For I am the LORD who heals you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.15.27",
+      "edition_verse_id": "BSB:EXO.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there by the waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

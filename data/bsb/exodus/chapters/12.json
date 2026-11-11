@@ -1,0 +1,620 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "EXO.12.1",
+      "edition_verse_id": "BSB:EXO.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the LORD said to Moses and Aaron in the land of Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.2",
+      "edition_verse_id": "BSB:EXO.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“This month is the beginning of months for you; it shall be the first month of your year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.3",
+      "edition_verse_id": "BSB:EXO.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Tell the whole congregation of Israel that on the tenth day of this month each man must select a lamb for his family, one per household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.4",
+      "edition_verse_id": "BSB:EXO.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If the household is too small for a whole lamb, they are to share with the nearest neighbor based on the number of people, and apportion the lamb accordingly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.5",
+      "edition_verse_id": "BSB:EXO.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Your lamb must be an unblemished year-old male, and you may take it from the sheep or the goats.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.6",
+      "edition_verse_id": "BSB:EXO.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You must keep it until the fourteenth day of the month, when the whole assembly of the congregation of Israel will slaughter the animals at twilight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.7",
+      "edition_verse_id": "BSB:EXO.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.8",
+      "edition_verse_id": "BSB:EXO.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They are to eat the meat that night, roasted over the fire, along with unleavened bread and bitter herbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.9",
+      "edition_verse_id": "BSB:EXO.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do not eat any of the meat raw or cooked in boiling water, but only roasted over the fire— its head and legs and inner parts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.10",
+      "edition_verse_id": "BSB:EXO.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Do not leave any of it until morning; before the morning you must burn up any part that is left over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.11",
+      "edition_verse_id": "BSB:EXO.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "This is how you are to eat it: You must be fully dressed for travel, with your sandals on your feet and your staff in your hand. You are to eat in haste; it is the LORD’s Passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.12",
+      "edition_verse_id": "BSB:EXO.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "On that night I will pass through the land of Egypt and strike down every firstborn male, both man and beast, and I will execute judgment against all the gods of Egypt. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.13",
+      "edition_verse_id": "BSB:EXO.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The blood on the houses where you are staying will be a sign; when I see the blood, I will pass over you. No plague will fall on you to destroy you when I strike the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.14",
+      "edition_verse_id": "BSB:EXO.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And this day will be a memorial for you, and you are to celebrate it as a feast to the LORD, as a permanent statute for the generations to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.15",
+      "edition_verse_id": "BSB:EXO.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For seven days you must eat unleavened bread. On the first day you are to remove the leaven from your houses. Whoever eats anything leavened from the first day through the seventh must be cut off from Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.16",
+      "edition_verse_id": "BSB:EXO.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "On the first day you are to hold a sacred assembly, and another on the seventh day. You must not do any work on those days, except to prepare the meals — that is all you may do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.17",
+      "edition_verse_id": "BSB:EXO.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So you are to keep the Feast of Unleavened Bread, for on this very day I brought your divisions out of the land of Egypt. You must keep this day as a permanent statute for the generations to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.18",
+      "edition_verse_id": "BSB:EXO.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "In the first month you are to eat unleavened bread, from the evening of the fourteenth day until the evening of the twenty-first day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.19",
+      "edition_verse_id": "BSB:EXO.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For seven days there must be no leaven found in your houses. If anyone eats something leavened, that person, whether a foreigner or native of the land, must be cut off from the congregation of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.20",
+      "edition_verse_id": "BSB:EXO.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You are not to eat anything leavened; eat unleavened bread in all your homes.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.21",
+      "edition_verse_id": "BSB:EXO.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Moses summoned all the elders of Israel and told them, “Go at once and select for yourselves a lamb for each family, and slaughter the Passover lamb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.22",
+      "edition_verse_id": "BSB:EXO.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Take a cluster of hyssop, dip it into the blood in the basin, and brush the blood on the top and sides of the doorframe. None of you shall go out the door of his house until morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.23",
+      "edition_verse_id": "BSB:EXO.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When the LORD passes through to strike down the Egyptians, He will see the blood on the top and sides of the doorframe and will pass over that doorway; so He will not allow the destroyer to enter your houses and strike you down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.24",
+      "edition_verse_id": "BSB:EXO.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And you are to keep this command as a permanent statute for you and your descendants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.25",
+      "edition_verse_id": "BSB:EXO.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When you enter the land that the LORD will give you as He promised, you are to keep this service.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.26",
+      "edition_verse_id": "BSB:EXO.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When your children ask you, ‘What does this service mean to you?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.27",
+      "edition_verse_id": "BSB:EXO.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "you are to reply, ‘It is the Passover sacrifice to the LORD, who passed over the houses of the Israelites in Egypt when He struck down the Egyptians and spared our homes.’” Then the people bowed down and worshiped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.28",
+      "edition_verse_id": "BSB:EXO.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the Israelites went and did just what the LORD had commanded Moses and Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.29",
+      "edition_verse_id": "BSB:EXO.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Now at midnight the LORD struck down every firstborn male in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, as well as all the firstborn among the livestock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.30",
+      "edition_verse_id": "BSB:EXO.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "During the night Pharaoh got up — he and all his officials and all the Egyptians — and there was loud wailing in Egypt; for there was no house without someone dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.31",
+      "edition_verse_id": "BSB:EXO.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then Pharaoh summoned Moses and Aaron by night and said, “Get up, leave my people, both you and the Israelites! Go, worship the LORD as you have requested.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.32",
+      "edition_verse_id": "BSB:EXO.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Take your flocks and herds as well, just as you have said, and depart! And bless me also.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.33",
+      "edition_verse_id": "BSB:EXO.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And in order to send them out of the land quickly, the Egyptians urged the people on. “For otherwise,” they said, “we are all going to die!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.34",
+      "edition_verse_id": "BSB:EXO.12.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "So the people took their dough before it was leavened, carrying it on their shoulders in kneading bowls wrapped in clothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.35",
+      "edition_verse_id": "BSB:EXO.12.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Furthermore, the Israelites acted on Moses’ word and asked the Egyptians for articles of silver and gold, and for clothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.36",
+      "edition_verse_id": "BSB:EXO.12.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And the LORD gave the people such favor in the sight of the Egyptians that they granted their request. In this way they plundered the Egyptians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.37",
+      "edition_verse_id": "BSB:EXO.12.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot, besides women and children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.38",
+      "edition_verse_id": "BSB:EXO.12.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And a mixed multitude also went up with them, along with great droves of livestock, both flocks and herds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.39",
+      "edition_verse_id": "BSB:EXO.12.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Since their dough had no leaven, the people baked what they had brought out of Egypt into unleavened loaves. For when they had been driven out of Egypt, they could not delay and had not prepared any provisions for themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.40",
+      "edition_verse_id": "BSB:EXO.12.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Now the duration of the Israelites’ stay in Egypt was 430 years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.41",
+      "edition_verse_id": "BSB:EXO.12.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "At the end of the 430 years, to the very day, all the LORD’s divisions went out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.42",
+      "edition_verse_id": "BSB:EXO.12.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Because the LORD kept a vigil that night to bring them out of the land of Egypt, this same night is to be a vigil to the LORD, to be observed by all the Israelites for the generations to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.43",
+      "edition_verse_id": "BSB:EXO.12.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses and Aaron, “This is the statute of the Passover: No foreigner is to eat of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.44",
+      "edition_verse_id": "BSB:EXO.12.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "But any slave who has been purchased may eat of it, after you have circumcised him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.45",
+      "edition_verse_id": "BSB:EXO.12.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "A temporary resident or hired hand shall not eat the Passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.46",
+      "edition_verse_id": "BSB:EXO.12.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "It must be eaten inside one house. You are not to take any of the meat outside the house, and you may not break any of the bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.47",
+      "edition_verse_id": "BSB:EXO.12.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The whole congregation of Israel must celebrate it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.48",
+      "edition_verse_id": "BSB:EXO.12.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "If a foreigner resides with you and wants to celebrate the LORD’s Passover, all the males in the household must be circumcised; then he may come near to celebrate it, and he shall be like a native of the land. But no uncircumcised man may eat of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.49",
+      "edition_verse_id": "BSB:EXO.12.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The same law shall apply to both the native and the foreigner who resides among you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.12.50",
+      "edition_verse_id": "BSB:EXO.12.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Then all the Israelites did this — they did just as the LORD had commanded Moses and Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.12.51",
+      "edition_verse_id": "BSB:EXO.12.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And on that very day the LORD brought the Israelites out of the land of Egypt by their divisions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

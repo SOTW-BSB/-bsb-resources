@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "DEU.24.1",
+      "edition_verse_id": "BSB:DEU.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.2",
+      "edition_verse_id": "BSB:DEU.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If, after leaving his house, she goes and becomes another man’s wife,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.3",
+      "edition_verse_id": "BSB:DEU.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and the second man hates her, writes her a certificate of divorce, hands it to her, and sends her away from his house, or if he dies,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.24.4",
+      "edition_verse_id": "BSB:DEU.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "then the husband who divorced her first may not remarry her after she has been defiled, for that is an abomination to the LORD. You must not bring sin upon the land that the LORD your God is giving you as an inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.24.5",
+      "edition_verse_id": "BSB:DEU.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If a man is newly married, he must not be sent to war or be pressed into any duty. For one year he is free to stay at home and bring joy to the wife he has married.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.6",
+      "edition_verse_id": "BSB:DEU.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Do not take a pair of millstones or even an upper millstone as security for a debt, because that would be taking one’s livelihood as security.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.7",
+      "edition_verse_id": "BSB:DEU.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If a man is caught kidnapping one of his Israelite brothers, whether he treats him as a slave or sells him, the kidnapper must die. So you must purge the evil from among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.8",
+      "edition_verse_id": "BSB:DEU.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In cases of infectious skin diseases, be careful to diligently follow everything the Levitical priests instruct you. Be careful to do as I have commanded them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.9",
+      "edition_verse_id": "BSB:DEU.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Remember what the LORD your God did to Miriam on the journey after you came out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.24.10",
+      "edition_verse_id": "BSB:DEU.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When you lend anything to your neighbor, do not enter his house to collect security.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.11",
+      "edition_verse_id": "BSB:DEU.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You are to stand outside while the man to whom you are lending brings the security out to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.24.12",
+      "edition_verse_id": "BSB:DEU.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If he is a poor man, you must not go to sleep with the security in your possession;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.24.13",
+      "edition_verse_id": "BSB:DEU.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "be sure to return it to him by sunset, so that he may sleep in his own cloak and bless you, and this will be credited to you as righteousness before the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.24.14",
+      "edition_verse_id": "BSB:DEU.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Do not oppress a hired hand who is poor and needy, whether he is a brother or a foreigner residing in one of your towns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.15",
+      "edition_verse_id": "BSB:DEU.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You are to pay his wages each day before sunset, because he is poor and depends on them. Otherwise he may cry out to the LORD against you, and you will be guilty of sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.24.16",
+      "edition_verse_id": "BSB:DEU.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Fathers shall not be put to death for their children, nor children for their fathers; each is to die for his own sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.17",
+      "edition_verse_id": "BSB:DEU.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Do not deny justice to the foreigner or the fatherless, and do not take a widow’s cloak as security.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.18",
+      "edition_verse_id": "BSB:DEU.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Remember that you were slaves in Egypt, and the LORD your God redeemed you from that place. Therefore I am commanding you to do this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.24.19",
+      "edition_verse_id": "BSB:DEU.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If you are harvesting in your field and forget a sheaf there, do not go back to get it. It is to be left for the foreigner, the fatherless, and the widow, so that the LORD your God may bless you in all the work of your hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.20",
+      "edition_verse_id": "BSB:DEU.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When you beat the olives from your trees, you must not go over the branches again. What remains will be for the foreigner, the fatherless, and the widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.21",
+      "edition_verse_id": "BSB:DEU.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When you gather the grapes of your vineyard, you must not go over the vines again. What remains will be for the foreigner, the fatherless, and the widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.24.22",
+      "edition_verse_id": "BSB:DEU.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Remember that you were slaves in the land of Egypt. Therefore I am commanding you to do this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

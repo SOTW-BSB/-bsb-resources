@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "DEU.22.1",
+      "edition_verse_id": "BSB:DEU.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If you see your brother’s ox or sheep straying, you must not ignore it; be sure to return it to your brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.2",
+      "edition_verse_id": "BSB:DEU.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If your brother does not live near you, or if you do not know who he is, you are to take the animal home to remain with you until your brother comes seeking it; then you can return it to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.3",
+      "edition_verse_id": "BSB:DEU.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And you shall do the same for his donkey, his cloak, or anything your brother has lost and you have found. You must not ignore it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.4",
+      "edition_verse_id": "BSB:DEU.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If you see your brother’s donkey or ox fallen on the road, you must not ignore it; you must help him lift it up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.5",
+      "edition_verse_id": "BSB:DEU.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A woman must not wear men’s clothing, and a man must not wear women’s clothing, for whoever does these things is detestable to the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.6",
+      "edition_verse_id": "BSB:DEU.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If you come across a bird’s nest with chicks or eggs, either in a tree or on the ground along the road, and the mother is sitting on the chicks or eggs, you must not take the mother along with the young.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.7",
+      "edition_verse_id": "BSB:DEU.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You may take the young, but be sure to let the mother go, so that it may be well with you and that you may prolong your days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.8",
+      "edition_verse_id": "BSB:DEU.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If you build a new house, you are to construct a railing around your roof, so that you do not bring bloodguilt on your house if someone falls from it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.9",
+      "edition_verse_id": "BSB:DEU.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do not plant your vineyard with two types of seed; if you do, the entire harvest will be defiled — both the crop you plant and the fruit of your vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.10",
+      "edition_verse_id": "BSB:DEU.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Do not plow with an ox and a donkey yoked together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.11",
+      "edition_verse_id": "BSB:DEU.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Do not wear clothes of wool and linen woven together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.12",
+      "edition_verse_id": "BSB:DEU.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You are to make tassels on the four corners of the cloak you wear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.13",
+      "edition_verse_id": "BSB:DEU.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Suppose a man marries a woman, has relations with her, and comes to hate her,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.14",
+      "edition_verse_id": "BSB:DEU.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and he then accuses her of shameful conduct and gives her a bad name, saying, “I married this woman and had relations with her, but I discovered she was not a virgin.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.15",
+      "edition_verse_id": "BSB:DEU.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the young woman’s father and mother shall bring the proof of her virginity to the city elders at the gate",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.16",
+      "edition_verse_id": "BSB:DEU.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and say to the elders, “I gave my daughter in marriage to this man, but he has come to hate her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.17",
+      "edition_verse_id": "BSB:DEU.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And now he has accused her of shameful conduct, saying, ‘I discovered that your daughter was not a virgin.’ But here is the proof of her virginity.” And they shall spread out the cloth before the city elders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.18",
+      "edition_verse_id": "BSB:DEU.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the elders of that city shall take the man and punish him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.19",
+      "edition_verse_id": "BSB:DEU.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They are also to fine him a hundred shekels of silver and give them to the young woman’s father, because this man has given a virgin of Israel a bad name. And she shall remain his wife; he must not divorce her as long as he lives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.20",
+      "edition_verse_id": "BSB:DEU.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If, however, this accusation is true, and no proof of the young woman’s virginity can be found,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.21",
+      "edition_verse_id": "BSB:DEU.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "she shall be brought to the door of her father’s house, and there the men of her city will stone her to death. For she has committed an outrage in Israel by being promiscuous in her father’s house. So you must purge the evil from among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.22",
+      "edition_verse_id": "BSB:DEU.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "If a man is found lying with another man’s wife, both the man who slept with her and the woman must die. You must purge the evil from Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.23",
+      "edition_verse_id": "BSB:DEU.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If there is a virgin pledged in marriage to a man, and another man encounters her in the city and sleeps with her,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.24",
+      "edition_verse_id": "BSB:DEU.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "you must take both of them out to the gate of that city and stone them to death— the young woman because she did not cry out in the city, and the man because he has violated his neighbor’s wife. So you must purge the evil from among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.25",
+      "edition_verse_id": "BSB:DEU.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But if the man encounters a betrothed woman in the open country, and he overpowers her and lies with her, only the man who has done this must die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.26",
+      "edition_verse_id": "BSB:DEU.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Do nothing to the young woman, because she has committed no sin worthy of death. This case is just like one in which a man attacks his neighbor and murders him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.27",
+      "edition_verse_id": "BSB:DEU.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When he found her in the field, the betrothed woman cried out, but there was no one to save her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.28",
+      "edition_verse_id": "BSB:DEU.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "If a man encounters a virgin who is not pledged in marriage, and he seizes her and lies with her, and they are discovered,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.22.29",
+      "edition_verse_id": "BSB:DEU.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "then the man who lay with her must pay the young woman’s father fifty shekels of silver, and she must become his wife because he has violated her. He must not divorce her as long as he lives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.22.30",
+      "edition_verse_id": "BSB:DEU.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "A man is not to marry his father’s wife, so that he will not dishonor his father’s marriage bed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

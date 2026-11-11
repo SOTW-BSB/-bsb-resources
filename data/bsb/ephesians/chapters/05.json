@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EPH",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "EPH.5.1",
+      "edition_verse_id": "BSB:EPH.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Be imitators of God, therefore, as beloved children,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.2",
+      "edition_verse_id": "BSB:EPH.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and walk in love, just as Christ loved us and gave Himself up for us as a fragrant sacrificial offering to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.3",
+      "edition_verse_id": "BSB:EPH.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But among you, as is proper among the saints, there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.4",
+      "edition_verse_id": "BSB:EPH.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nor should there be obscenity, foolish talk, or crude joking, which are out of character, but rather thanksgiving.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.5",
+      "edition_verse_id": "BSB:EPH.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For of this you can be sure: No immoral, impure, or greedy person (that is, an idolater) has any inheritance in the kingdom of Christ and of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.6",
+      "edition_verse_id": "BSB:EPH.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let no one deceive you with empty words, for because of such things the wrath of God is coming on the sons of disobedience.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.7",
+      "edition_verse_id": "BSB:EPH.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore do not be partakers with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.8",
+      "edition_verse_id": "BSB:EPH.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For you were once darkness, but now you are light in the Lord. Walk as children of light,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.9",
+      "edition_verse_id": "BSB:EPH.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "for the fruit of the light consists in all goodness, righteousness, and truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.10",
+      "edition_verse_id": "BSB:EPH.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Test and prove what pleases the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.11",
+      "edition_verse_id": "BSB:EPH.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Have no fellowship with the fruitless deeds of darkness, but rather expose them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.12",
+      "edition_verse_id": "BSB:EPH.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For it is shameful even to mention what the disobedient do in secret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.13",
+      "edition_verse_id": "BSB:EPH.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But everything exposed by the light becomes visible, for everything that is illuminated becomes a light itself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.14",
+      "edition_verse_id": "BSB:EPH.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So it is said: “Wake up, O sleeper, rise up from the dead, and Christ will shine on you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.15",
+      "edition_verse_id": "BSB:EPH.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Pay careful attention, then, to how you walk, not as unwise but as wise,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.16",
+      "edition_verse_id": "BSB:EPH.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "redeeming the time, because the days are evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.17",
+      "edition_verse_id": "BSB:EPH.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore do not be foolish, but understand what the Lord’s will is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.18",
+      "edition_verse_id": "BSB:EPH.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Do not get drunk on wine, which leads to reckless indiscretion. Instead, be filled with the Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.19",
+      "edition_verse_id": "BSB:EPH.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Speak to one another with psalms, hymns, and spiritual songs. Sing and make music in your hearts to the Lord,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.20",
+      "edition_verse_id": "BSB:EPH.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "always giving thanks to God the Father for everything in the name of our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.21",
+      "edition_verse_id": "BSB:EPH.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Submit to one another out of reverence for Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.22",
+      "edition_verse_id": "BSB:EPH.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Wives, submit to your husbands as to the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.23",
+      "edition_verse_id": "BSB:EPH.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For the husband is the head of the wife as Christ is the head of the church, His body, of which He is the Savior.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.24",
+      "edition_verse_id": "BSB:EPH.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Now as the church submits to Christ, so also wives should submit to their husbands in everything.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.25",
+      "edition_verse_id": "BSB:EPH.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Husbands, love your wives, just as Christ loved the church and gave Himself up for her",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.26",
+      "edition_verse_id": "BSB:EPH.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "to sanctify her, cleansing her by the washing with water through the word,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.27",
+      "edition_verse_id": "BSB:EPH.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and to present her to Himself as a glorious church, without stain or wrinkle or any such blemish, but holy and blameless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.28",
+      "edition_verse_id": "BSB:EPH.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "In the same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.29",
+      "edition_verse_id": "BSB:EPH.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Indeed, no one ever hated his own body, but he nourishes and cherishes it, just as Christ does the church.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.30",
+      "edition_verse_id": "BSB:EPH.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For we are members of His body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.31",
+      "edition_verse_id": "BSB:EPH.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.5.32",
+      "edition_verse_id": "BSB:EPH.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "This mystery is profound, but I am speaking about Christ and the church.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.5.33",
+      "edition_verse_id": "BSB:EPH.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Nevertheless, each one of you also must love his wife as he loves himself, and the wife must respect her husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

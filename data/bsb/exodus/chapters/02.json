@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "EXO.2.1",
+      "edition_verse_id": "BSB:EXO.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now a man of the house of Levi married a Levite woman,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.2",
+      "edition_verse_id": "BSB:EXO.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and she conceived and gave birth to a son. When she saw that he was a beautiful child, she hid him for three months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.2.3",
+      "edition_verse_id": "BSB:EXO.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But when she could no longer hide him, she got him a papyrus basket and coated it with tar and pitch. Then she placed the child in the basket and set it among the reeds along the bank of the Nile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.4",
+      "edition_verse_id": "BSB:EXO.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And his sister stood at a distance to see what would happen to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.2.5",
+      "edition_verse_id": "BSB:EXO.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants were walking along the riverbank. And when she saw the basket among the reeds, she sent her maidservant to retrieve it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.6",
+      "edition_verse_id": "BSB:EXO.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When she opened it, she saw the child, and behold, the little boy was crying. So she had compassion on him and said, “This is one of the Hebrew children.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.2.7",
+      "edition_verse_id": "BSB:EXO.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the Hebrew women to nurse the child for you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.8",
+      "edition_verse_id": "BSB:EXO.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Go ahead,” Pharaoh’s daughter told her. And the girl went and called the boy’s mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.9",
+      "edition_verse_id": "BSB:EXO.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay your wages.” So the woman took the boy and nursed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.10",
+      "edition_verse_id": "BSB:EXO.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When the child had grown older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses and explained, “I drew him out of the water.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.11",
+      "edition_verse_id": "BSB:EXO.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "One day, after Moses had grown up, he went out to his own people and observed their hard labor. He saw an Egyptian beating a Hebrew, one of his own people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.12",
+      "edition_verse_id": "BSB:EXO.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "After looking this way and that and seeing no one, he struck down the Egyptian and hid his body in the sand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.2.13",
+      "edition_verse_id": "BSB:EXO.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The next day Moses went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you attacking your companion?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.14",
+      "edition_verse_id": "BSB:EXO.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But the man replied, “Who made you ruler and judge over us? Are you planning to kill me as you killed the Egyptian?” Then Moses was afraid and thought, “This thing I have done has surely become known.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.15",
+      "edition_verse_id": "BSB:EXO.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When Pharaoh heard about this matter, he sought to kill Moses. But Moses fled from Pharaoh and settled in the land of Midian, where he sat down beside a well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.16",
+      "edition_verse_id": "BSB:EXO.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now the priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father’s flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.17",
+      "edition_verse_id": "BSB:EXO.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And when some shepherds came along and drove them away, Moses rose up to help them and watered their flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.2.18",
+      "edition_verse_id": "BSB:EXO.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When the daughters returned to their father Reuel, he asked them, “Why have you returned so early today?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.19",
+      "edition_verse_id": "BSB:EXO.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“An Egyptian rescued us from the shepherds,” they replied. “He even drew water for us and watered the flock.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.20",
+      "edition_verse_id": "BSB:EXO.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“So where is he?” their father asked. “Why did you leave the man behind? Invite him to have something to eat.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.21",
+      "edition_verse_id": "BSB:EXO.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Moses agreed to stay with the man, and he gave his daughter Zipporah to Moses in marriage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.22",
+      "edition_verse_id": "BSB:EXO.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And she gave birth to a son, and Moses named him Gershom, saying, “I have become a foreigner in a foreign land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.2.23",
+      "edition_verse_id": "BSB:EXO.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "After a long time, the king of Egypt died. The Israelites groaned and cried out under their burden of slavery, and their cry for deliverance from bondage ascended to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.24",
+      "edition_verse_id": "BSB:EXO.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So God heard their groaning, and He remembered His covenant with Abraham, Isaac, and Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.2.25",
+      "edition_verse_id": "BSB:EXO.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "God saw the Israelites and took notice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ECC",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "ECC.11.1",
+      "edition_verse_id": "BSB:ECC.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Cast your bread upon the waters, for after many days you will find it again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.11.2",
+      "edition_verse_id": "BSB:ECC.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Divide your portion among seven, or even eight, for you do not know what disaster may befall the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.3",
+      "edition_verse_id": "BSB:ECC.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If the clouds are full, they will pour out rain upon the earth; whether a tree falls to the south or to the north, in the place where it falls, there it will lie.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.4",
+      "edition_verse_id": "BSB:ECC.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He who watches the wind will fail to sow, and he who observes the clouds will fail to reap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.5",
+      "edition_verse_id": "BSB:ECC.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As you do not know the path of the wind, or how the bones are formed in a mother’s womb, so you cannot understand the work of God, the Maker of all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.6",
+      "edition_verse_id": "BSB:ECC.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Sow your seed in the morning, and do not rest your hands in the evening, for you do not know which will succeed, whether this or that, or if both will equally prosper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.7",
+      "edition_verse_id": "BSB:ECC.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Light is sweet, and it pleases the eyes to see the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.8",
+      "edition_verse_id": "BSB:ECC.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So if a man lives many years, let him rejoice in them all. But let him remember the days of darkness, for they will be many. Everything to come is futile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.9",
+      "edition_verse_id": "BSB:ECC.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Rejoice, O young man, while you are young, and let your heart be glad in the days of your youth. Walk in the ways of your heart and in the sight of your eyes, but know that for all these things God will bring you to judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.11.10",
+      "edition_verse_id": "BSB:ECC.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So banish sorrow from your heart, and cast off pain from your body, for youth and vigor are fleeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

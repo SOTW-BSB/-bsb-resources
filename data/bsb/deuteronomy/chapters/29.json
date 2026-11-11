@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "DEU.29.1",
+      "edition_verse_id": "BSB:DEU.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These are the words of the covenant that the LORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant He had made with them at Horeb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.2",
+      "edition_verse_id": "BSB:DEU.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Moses summoned all Israel and proclaimed to them, “You have seen with your own eyes everything the LORD did in Egypt to Pharaoh, to all his officials, and to all his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.3",
+      "edition_verse_id": "BSB:DEU.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You saw with your own eyes the great trials, and those miraculous signs and wonders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.4",
+      "edition_verse_id": "BSB:DEU.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Yet to this day the LORD has not given you a mind to understand, eyes to see, or ears to hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.5",
+      "edition_verse_id": "BSB:DEU.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For forty years I led you in the wilderness, yet your clothes and sandals did not wear out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.6",
+      "edition_verse_id": "BSB:DEU.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You ate no bread and drank no wine or strong drink, so that you might know that I am the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.7",
+      "edition_verse_id": "BSB:DEU.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When you reached this place, Sihon king of Heshbon and Og king of Bashan came out against us in battle, but we defeated them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.8",
+      "edition_verse_id": "BSB:DEU.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "We took their land and gave it as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.9",
+      "edition_verse_id": "BSB:DEU.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So keep and follow the words of this covenant, that you may prosper in all you do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.10",
+      "edition_verse_id": "BSB:DEU.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All of you are standing today before the LORD your God— you leaders of tribes, elders, officials, and all the men of Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.11",
+      "edition_verse_id": "BSB:DEU.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "your children and wives, and the foreigners in your camps who cut your wood and draw your water—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.12",
+      "edition_verse_id": "BSB:DEU.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "so that you may enter into the covenant of the LORD your God, which He is making with you today, and into His oath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.13",
+      "edition_verse_id": "BSB:DEU.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and so that He may establish you today as His people, and He may be your God as He promised you and as He swore to your fathers, to Abraham, Isaac, and Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.14",
+      "edition_verse_id": "BSB:DEU.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I am making this covenant and this oath not only with you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.15",
+      "edition_verse_id": "BSB:DEU.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "but also with those who are standing here with us today in the presence of the LORD our God, as well as with those who are not here today.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.16",
+      "edition_verse_id": "BSB:DEU.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For you yourselves know how we lived in the land of Egypt and how we passed through the nations on the way here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.17",
+      "edition_verse_id": "BSB:DEU.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "You saw the abominations and idols among them made of wood and stone, of silver and gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.18",
+      "edition_verse_id": "BSB:DEU.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Make sure there is no man or woman, clan or tribe among you today whose heart turns away from the LORD our God to go and worship the gods of those nations. Make sure there is no root among you that bears such poisonous and bitter fruit,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.19",
+      "edition_verse_id": "BSB:DEU.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "because when such a person hears the words of this oath, he invokes a blessing on himself, saying, ‘I will have peace, even though I walk in the stubbornness of my own heart.’ This will bring disaster on the watered land as well as the dry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.20",
+      "edition_verse_id": "BSB:DEU.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD will never be willing to forgive him. Instead, His anger and jealousy will burn against that man, and every curse written in this book will fall upon him. The LORD will blot out his name from under heaven",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.21",
+      "edition_verse_id": "BSB:DEU.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and single him out from all the tribes of Israel for disaster, according to all the curses of the covenant written in this Book of the Law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.22",
+      "edition_verse_id": "BSB:DEU.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the generation to come — your sons who follow you and the foreigner who comes from a distant land — will see the plagues of the land and the sicknesses the LORD has inflicted on it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.23",
+      "edition_verse_id": "BSB:DEU.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "All its soil will be a burning waste of sulfur and salt, unsown and unproductive, with no plant growing on it, just like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in His fierce anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.24",
+      "edition_verse_id": "BSB:DEU.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So all the nations will ask, ‘Why has the LORD done such a thing to this land? Why this great outburst of anger?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.25",
+      "edition_verse_id": "BSB:DEU.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the people will answer, ‘It is because they abandoned the covenant of the LORD, the God of their fathers, which He made with them when He brought them out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.29.26",
+      "edition_verse_id": "BSB:DEU.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They went and served other gods, and they worshiped gods they had not known— gods that the LORD had not given to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.27",
+      "edition_verse_id": "BSB:DEU.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Therefore the anger of the LORD burned against this land, and He brought upon it every curse written in this book.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.28",
+      "edition_verse_id": "BSB:DEU.29.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The LORD uprooted them from their land in His anger, rage, and great wrath, and He cast them into another land, where they are today.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.29.29",
+      "edition_verse_id": "BSB:DEU.29.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The secret things belong to the LORD our God, but the things revealed belong to us and to our children forever, so that we may follow all the words of this law.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "EXO.27.1",
+      "edition_verse_id": "BSB:EXO.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“You are to build an altar of acacia wood. The altar must be square, five cubits long, five cubits wide, and three cubits high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.2",
+      "edition_verse_id": "BSB:EXO.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Make a horn on each of its four corners, so that the horns are of one piece, and overlay it with bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.3",
+      "edition_verse_id": "BSB:EXO.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Make all its utensils of bronze — its pots for removing ashes, its shovels, its sprinkling bowls, its meat forks, and its firepans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.4",
+      "edition_verse_id": "BSB:EXO.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Construct for it a grate of bronze mesh, and make a bronze ring at each of the four corners of the mesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.5",
+      "edition_verse_id": "BSB:EXO.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Set the grate beneath the ledge of the altar, so that the mesh comes halfway up the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.6",
+      "edition_verse_id": "BSB:EXO.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Additionally, make poles of acacia wood for the altar and overlay them with bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.7",
+      "edition_verse_id": "BSB:EXO.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The poles are to be inserted into the rings so that the poles are on two sides of the altar when it is carried.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.8",
+      "edition_verse_id": "BSB:EXO.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Construct the altar with boards so that it is hollow. It is to be made just as you were shown on the mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.9",
+      "edition_verse_id": "BSB:EXO.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You are also to make a courtyard for the tabernacle. On the south side of the courtyard make curtains of finely spun linen, a hundred cubits long on one side,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.10",
+      "edition_verse_id": "BSB:EXO.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "with twenty posts and twenty bronze bases, and silver hooks and bands on the posts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.11",
+      "edition_verse_id": "BSB:EXO.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Likewise there are to be curtains on the north side, a hundred cubits long, with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.12",
+      "edition_verse_id": "BSB:EXO.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The curtains on the west side of the courtyard shall be fifty cubits wide, with ten posts and ten bases.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.13",
+      "edition_verse_id": "BSB:EXO.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The east side of the courtyard, toward the sunrise, is to be fifty cubits wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.14",
+      "edition_verse_id": "BSB:EXO.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Make the curtains on one side fifteen cubits long, with three posts and three bases,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.15",
+      "edition_verse_id": "BSB:EXO.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and the curtains on the other side fifteen cubits long, with three posts and three bases.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.16",
+      "edition_verse_id": "BSB:EXO.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The gate of the courtyard shall be twenty cubits long, with a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen. It shall have four posts and four bases.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.17",
+      "edition_verse_id": "BSB:EXO.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All the posts around the courtyard shall have silver bands, silver hooks, and bronze bases.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.18",
+      "edition_verse_id": "BSB:EXO.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The entire courtyard shall be a hundred cubits long and fifty cubits wide, with curtains of finely spun linen five cubits high, and with bronze bases.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.19",
+      "edition_verse_id": "BSB:EXO.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All the utensils of the tabernacle for every use, including all its tent pegs and the tent pegs of the courtyard, shall be made of bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.27.20",
+      "edition_verse_id": "BSB:EXO.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And you are to command the Israelites to bring you pure oil of pressed olives for the light, to keep the lamps burning continually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.27.21",
+      "edition_verse_id": "BSB:EXO.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "In the Tent of Meeting, outside the veil that is in front of the Testimony, Aaron and his sons are to tend the lamps before the LORD from evening until morning. This is to be a permanent statute for the Israelites for the generations to come.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

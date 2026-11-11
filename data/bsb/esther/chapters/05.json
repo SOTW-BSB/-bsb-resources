@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EST",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "EST.5.1",
+      "edition_verse_id": "BSB:EST.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On the third day, Esther put on her royal robes and stood in the inner court of the palace across from the king’s quarters. The king was sitting on his royal throne in the royal courtroom, facing the entrance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.2",
+      "edition_verse_id": "BSB:EST.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As soon as the king saw Queen Esther standing in the court, she found favor in his sight. The king extended the gold scepter in his hand toward Esther, and she approached and touched the tip of the scepter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.3",
+      "edition_verse_id": "BSB:EST.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“What is it, Queen Esther?” the king inquired. “What is your request? Even up to half the kingdom, it will be given to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.4",
+      "edition_verse_id": "BSB:EST.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“If it pleases the king,” Esther replied, “may the king and Haman come today to the banquet I have prepared for the king.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.5",
+      "edition_verse_id": "BSB:EST.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Hurry,” commanded the king, “and bring Haman, so we can do as Esther has requested.” So the king and Haman went to the banquet that Esther had prepared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.6",
+      "edition_verse_id": "BSB:EST.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And as they drank their wine, the king said to Esther, “What is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.7",
+      "edition_verse_id": "BSB:EST.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Esther replied, “This is my petition and my request:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.8",
+      "edition_verse_id": "BSB:EST.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If I have found favor in the sight of the king, and if it pleases the king to grant my petition and fulfill my request, may the king and Haman come tomorrow to the banquet I will prepare for them. Then I will answer the king’s question.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.5.9",
+      "edition_verse_id": "BSB:EST.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "That day Haman went out full of joy and glad of heart. At the king’s gate, however, he saw Mordecai, who did not rise or tremble in fear at his presence. And Haman was filled with rage toward Mordecai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.10",
+      "edition_verse_id": "BSB:EST.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Nevertheless, Haman restrained himself and went home. And calling for his friends and his wife Zeresh,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.11",
+      "edition_verse_id": "BSB:EST.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Haman recounted to them his glorious wealth, his many sons, and all the ways the king had honored and promoted him over the other officials and servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.5.12",
+      "edition_verse_id": "BSB:EST.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“What is more,” Haman added, “Queen Esther invited no one but me to join the king at the banquet she prepared, and I am invited back tomorrow along with the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.5.13",
+      "edition_verse_id": "BSB:EST.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Yet none of this satisfies me as long as I see Mordecai the Jew sitting at the king’s gate.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.5.14",
+      "edition_verse_id": "BSB:EST.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "His wife Zeresh and all his friends told him, “Have them build a gallows fifty cubits high, and ask the king in the morning to have Mordecai hanged on it. Then go to the banquet with the king and enjoy yourself.” The advice pleased Haman, and he had the gallows constructed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

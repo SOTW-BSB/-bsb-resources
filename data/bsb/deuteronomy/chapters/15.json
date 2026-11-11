@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "DEU.15.1",
+      "edition_verse_id": "BSB:DEU.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At the end of every seven years you must cancel debts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.2",
+      "edition_verse_id": "BSB:DEU.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "This is the manner of remission: Every creditor shall cancel what he has loaned to his neighbor. He is not to collect anything from his neighbor or brother, because the LORD’s time of release has been proclaimed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.3",
+      "edition_verse_id": "BSB:DEU.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You may collect something from a foreigner, but you must forgive whatever your brother owes you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.4",
+      "edition_verse_id": "BSB:DEU.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "There will be no poor among you, however, because the LORD will surely bless you in the land that the LORD your God is giving you to possess as an inheritance,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.5",
+      "edition_verse_id": "BSB:DEU.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "if only you obey the LORD your God and are careful to follow all these commandments I am giving you today.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.6",
+      "edition_verse_id": "BSB:DEU.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When the LORD your God blesses you as He has promised, you will lend to many nations but borrow from none; you will rule over many nations but be ruled by none.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.7",
+      "edition_verse_id": "BSB:DEU.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If there is a poor man among your brothers within any of the gates in the land that the LORD your God is giving you, then you are not to harden your heart or shut your hand from your poor brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.8",
+      "edition_verse_id": "BSB:DEU.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Instead, you are to open your hand to him and freely loan him whatever he needs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.9",
+      "edition_verse_id": "BSB:DEU.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Be careful not to harbor this wicked thought in your heart: “The seventh year, the year of release, is near,” so that you look upon your poor brother begrudgingly and give him nothing. He will cry out to the LORD against you, and you will be guilty of sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.10",
+      "edition_verse_id": "BSB:DEU.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Give generously to him, and do not let your heart be grieved when you do so. And because of this the LORD your God will bless you in all your work and in everything to which you put your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.11",
+      "edition_verse_id": "BSB:DEU.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For there will never cease to be poor in the land; that is why I am commanding you to open wide your hand to your brother and to the poor and needy in your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.12",
+      "edition_verse_id": "BSB:DEU.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If a fellow Hebrew, a man or a woman, is sold to you and serves you six years, then in the seventh year you must set him free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.13",
+      "edition_verse_id": "BSB:DEU.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when you release him, do not send him away empty-handed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.14",
+      "edition_verse_id": "BSB:DEU.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You are to furnish him liberally from your flock, your threshing floor, and your winepress. You shall give to him as the LORD your God has blessed you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.15",
+      "edition_verse_id": "BSB:DEU.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Remember that you were slaves in the land of Egypt, and the LORD your God redeemed you; that is why I am giving you this command today.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.16",
+      "edition_verse_id": "BSB:DEU.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But if your servant says to you, ‘I do not want to leave you,’ because he loves you and your household and is well off with you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.17",
+      "edition_verse_id": "BSB:DEU.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "then take an awl and pierce it through his ear into the door, and he will become your servant for life. And treat your maidservant the same way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.18",
+      "edition_verse_id": "BSB:DEU.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Do not regard it as a hardship to set your servant free, because his six years of service were worth twice the wages of a hired hand. And the LORD your God will bless you in all you do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.19",
+      "edition_verse_id": "BSB:DEU.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You must set apart to the LORD your God every firstborn male produced by your herds and flocks. You are not to put the firstborn of your oxen to work, nor are you to shear the firstborn of your flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.20",
+      "edition_verse_id": "BSB:DEU.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Each year you and your household are to eat it before the LORD your God in the place the LORD will choose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.21",
+      "edition_verse_id": "BSB:DEU.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But if an animal has a defect, is lame or blind, or has any serious flaw, you must not sacrifice it to the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.15.22",
+      "edition_verse_id": "BSB:DEU.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Eat it within your gates; both the ceremonially unclean and clean may eat it as they would a gazelle or a deer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.15.23",
+      "edition_verse_id": "BSB:DEU.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But you must not eat the blood; pour it on the ground like water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

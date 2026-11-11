@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ECC",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "ECC.10.1",
+      "edition_verse_id": "BSB:ECC.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "As dead flies bring a stench to the perfumer’s oil, so a little folly outweighs wisdom and honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ECC.10.2",
+      "edition_verse_id": "BSB:ECC.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "A wise man’s heart inclines to the right, but the heart of a fool to the left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.3",
+      "edition_verse_id": "BSB:ECC.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Even as the fool walks along the road, his sense is lacking, and he shows everyone that he is a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.4",
+      "edition_verse_id": "BSB:ECC.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If the ruler’s temper flares against you, do not abandon your post, for calmness lays great offenses to rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.5",
+      "edition_verse_id": "BSB:ECC.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "There is an evil I have seen under the sun — an error that proceeds from the ruler:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.6",
+      "edition_verse_id": "BSB:ECC.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Folly is appointed to great heights, but the rich sit in lowly positions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.7",
+      "edition_verse_id": "BSB:ECC.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I have seen slaves on horseback, while princes go on foot like slaves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.8",
+      "edition_verse_id": "BSB:ECC.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He who digs a pit may fall into it, and he who breaches a wall may be bitten by a snake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.9",
+      "edition_verse_id": "BSB:ECC.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The one who quarries stones may be injured by them, and he who splits logs endangers himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.10",
+      "edition_verse_id": "BSB:ECC.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If the axe is dull and the blade unsharpened, more strength must be exerted, but skill produces success.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.11",
+      "edition_verse_id": "BSB:ECC.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If the snake bites before it is charmed, there is no profit for the charmer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.12",
+      "edition_verse_id": "BSB:ECC.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The words of a wise man’s mouth are gracious, but the lips of a fool consume him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.13",
+      "edition_verse_id": "BSB:ECC.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The beginning of his talk is folly, and the end of his speech is evil madness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.14",
+      "edition_verse_id": "BSB:ECC.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Yet the fool multiplies words. No one knows what is coming, and who can tell him what will come after him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.15",
+      "edition_verse_id": "BSB:ECC.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The toil of a fool wearies him, for he does not know the way to the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.16",
+      "edition_verse_id": "BSB:ECC.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Woe to you, O land whose king is a youth, and whose princes feast in the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.17",
+      "edition_verse_id": "BSB:ECC.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Blessed are you, O land whose king is a son of nobles, and whose princes feast at the proper time— for strength and not for drunkenness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.18",
+      "edition_verse_id": "BSB:ECC.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Through laziness the roof caves in, and in the hands of the idle, the house leaks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.19",
+      "edition_verse_id": "BSB:ECC.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A feast is prepared for laughter, and wine makes life merry, but money is the answer for everything.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ECC.10.20",
+      "edition_verse_id": "BSB:ECC.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Do not curse the king even in your thoughts, or curse the rich even in your bedroom, for a bird of the air may carry your words, and a winged creature may report your speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

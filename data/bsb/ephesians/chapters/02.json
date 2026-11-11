@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EPH",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "EPH.2.1",
+      "edition_verse_id": "BSB:EPH.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And you were dead in your trespasses and sins,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.2",
+      "edition_verse_id": "BSB:EPH.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.3",
+      "edition_verse_id": "BSB:EPH.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts. Like the rest, we were by nature children of wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.4",
+      "edition_verse_id": "BSB:EPH.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But because of His great love for us, God, who is rich in mercy,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.5",
+      "edition_verse_id": "BSB:EPH.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.6",
+      "edition_verse_id": "BSB:EPH.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.7",
+      "edition_verse_id": "BSB:EPH.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.8",
+      "edition_verse_id": "BSB:EPH.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.9",
+      "edition_verse_id": "BSB:EPH.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "not by works, so that no one can boast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.10",
+      "edition_verse_id": "BSB:EPH.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.11",
+      "edition_verse_id": "BSB:EPH.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore remember that formerly you who are Gentiles in the flesh and called uncircumcised by the so-called circumcision (that done in the body by human hands) —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.12",
+      "edition_verse_id": "BSB:EPH.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "remember that at that time you were separate from Christ, alienated from the commonwealth of Israel, and strangers to the covenants of the promise, without hope and without God in the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.13",
+      "edition_verse_id": "BSB:EPH.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But now in Christ Jesus you who once were far away have been brought near through the blood of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.14",
+      "edition_verse_id": "BSB:EPH.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.15",
+      "edition_verse_id": "BSB:EPH.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.16",
+      "edition_verse_id": "BSB:EPH.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and reconciling both of them to God in one body through the cross, by which He put to death their hostility.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.17",
+      "edition_verse_id": "BSB:EPH.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He came and preached peace to you who were far away and peace to those who were near.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.18",
+      "edition_verse_id": "BSB:EPH.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For through Him we both have access to the Father by one Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.19",
+      "edition_verse_id": "BSB:EPH.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EPH.2.20",
+      "edition_verse_id": "BSB:EPH.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.21",
+      "edition_verse_id": "BSB:EPH.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "In Him the whole building is fitted together and grows into a holy temple in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EPH.2.22",
+      "edition_verse_id": "BSB:EPH.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And in Him you too are being built together into a dwelling place for God in His Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

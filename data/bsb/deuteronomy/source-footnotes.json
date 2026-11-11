@@ -1,0 +1,855 @@
+{
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapters": {
+    "1": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai; also in verses 6 and 19\\f*",
+          "raw_sha256": "382fafa5ed941270fdc2837b72ab3b123b616539c3f20f23467c4cab4287c789"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft Note that \\ref Deuteronomy 1:6|DEU 1:6\\ref* through Deuteronomy 4:40 may be presented as a continuous section of unbroken speech by Moses. In place of multiple levels of nested quotes, this section has been set apart with a double space.\\f*",
+          "raw_sha256": "c5605e9fab4fee9404686a3a5774e8af19b32592d141231272672aa7e45df9a5"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 1:7 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "79cc796ab4cbfe4d721aac8be66e4ff51abfcf6ce6b8e2083c9796800f3e516b"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 1:40 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "827292807d2ee77e3628ba9c6fbbeed2a66665eb6dd266234b77c5059cebd11c"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "ea360912cd2b27ed822fe56c8d2c46b1895fbc24cd214d314ccbc4dddea42f1f"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 2:23 \\ft That is, Crete\\f*",
+          "raw_sha256": "8f6938dbd5d2735422ff3b63b95d02404165daf511727feafb88cc0a439b5eea"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 2:34 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "d4ef3027394c3e918775eab3b93351374033bd92d8285437178f9f83f68f3be8"
+        }
+      ]
+    },
+    "3": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "1746ab677a79bf017e1e59f0309a6c43394dd4ec0af37ad7e399ca601d79fa50"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft Og’s bed was approximately 14 feet long and 6 feet wide (4.3 meters long and 1.8 meters wide).\\f*",
+          "raw_sha256": "461c2a4b57d0c5ebadc72a6a617460cec52e0e42ec73177b289d60b118d8bc0b"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 3:14 \\ft Or \\fqa the villages of Jair\\f*",
+          "raw_sha256": "9b145ac9cd6085112697ee54a1ff0f9ba93618466f810ee46823d8a0044cf7e3"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 3:17 \\ft That is, the Dead Sea\\f*",
+          "raw_sha256": "382a720a1f9d74bc24af301b12abd5949897097f0c7a7a5198b42a0ee05d3992"
+        }
+      ]
+    },
+    "4": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 4:10 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai; also in verse 15\\f*",
+          "raw_sha256": "07e020c6405195f44a7cb4791929ca0fd47586bee0d1834aecaf397a717fa4f6"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 4:13 \\ft Hebrew \\fqa the Ten Words\\f*",
+          "raw_sha256": "ed2ed7749a49acbfb5f7826c2dd50d6881e73c465a5c126f844a46d3f153edd6"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 4:24 \\ft Cited in \\ref Hebrews 12:29|HEB 12:29\\ref*\\f*",
+          "raw_sha256": "df44fc0b647113c38b80e4019a0fcc745c0720936f0c463106eb30936e47cd08"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 4:33 \\ft Or \\fqa of a god\\f*",
+          "raw_sha256": "199715defaca6fcd89c57f67b83db937b60a931b124604b78513ab0c76fd5242"
+        }
+      ],
+      "48": [
+        {
+          "source_usfm": "\\f + \\fr 4:48 \\ft Or \\fqa Sion\\ft ; Syriac \\fqa Sirion\\f*",
+          "raw_sha256": "ac90ad9cd01a3fb8d6fbf6f8d547870d03dfa0c94ecdcad525fc9bd7610e4845"
+        }
+      ],
+      "49": [
+        {
+          "source_usfm": "\\f + \\fr 4:49 \\ft That is, the Dead Sea\\f*",
+          "raw_sha256": "c0219e73ae43a3b2d0af530108493e70e72d181764a9cbae1f3cced88613f841"
+        }
+      ]
+    },
+    "5": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 5:1 \\ft Note that \\ref Deuteronomy 5:1|DEU 5:1\\ref* through Deuteronomy 26:19 may be presented as a continuous section of unbroken speech by Moses. In place of multiple levels of nested quotes, this section has been set apart with a double space.\\f*",
+          "raw_sha256": "feabe176e776781fc6536245dea67a2ce2d49f7191432e4f8abb1907399920ad"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "c90ac6aeccc62b1a6dc226e0c22d924f3f49c79198ca74e9e429ef9bcdb52672"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 5:7 \\ft Or \\fqa besides Me\\f*",
+          "raw_sha256": "5aa84740428e4e7923ceb75965ee5e2c599b5d7a55410559554c1f2af7534399"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft Hebrew \\fqa loving devotion to thousands\\ft ; forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "1ffed54af518756870ec3a046344b582d96534fa85302106ef0d2fa78fe3d7cb"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 5:16 \\ft Cited in \\ref Matthew 15:4|MAT 15:4\\ref*, Matthew 19:19, Mark 7:10, Luke 18:20, and Ephesians 6:2–3\\f*",
+          "raw_sha256": "efd028416a35d5f55d6f08309aba3e2ec343c74a0699f6e676dc87b393eeaa03"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 5:17 \\ft Cited in \\ref Matthew 5:21|MAT 5:21\\ref*, Matthew 19:18, Mark 10:19, Luke 18:20, Romans 13:9, and James 2:11\\f*",
+          "raw_sha256": "c987e2ea7f8b09cac603d10e2f0c5bb13457915334d5e6d15d4b63543546e342"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 5:18 \\ft Cited in \\ref Matthew 5:27|MAT 5:27\\ref*, Matthew 19:18, Mark 10:19, Luke 18:20, Romans 13:9, and James 2:11\\f*",
+          "raw_sha256": "6d6423bc5d5473f09d42e9fb1c965dd336081d9e6c81a5fe1b13adfae966cb75"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 5:19 \\ft Cited in \\ref Matthew 19:18|MAT 19:18\\ref*, Mark 10:19, Luke 18:20, and Romans 13:9\\f*",
+          "raw_sha256": "ce8176a5e8f24106fb8807af968d6cca9fa4ce514a1b4e57960673634d98ca9c"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 5:20 \\ft Cited in \\ref Matthew 19:18|MAT 19:18\\ref*, Mark 10:19, and Luke 18:20\\f*",
+          "raw_sha256": "2f22d61defcf17be3bf887a0f807d94f3b50dbf8dfe34a658ac5627bebe82446"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 5:21 \\ft Cited in \\ref Romans 7:7|ROM 7:7\\ref* and Romans 13:9\\f*",
+          "raw_sha256": "c88838b15450dff4790252ecb6efdb2e7bab5199606c42d86f067584477b5220"
+        }
+      ]
+    },
+    "6": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 6:4 \\ft Or \\fqa The LORD our God is One LORD \\ft or \\fqa The LORD is our God, the LORD is One \\ft or \\fqa The LORD is our God, the LORD alone\\ft ; cited in \\ref Mark 12:29|MRK 12:29\\ref*\\f*",
+          "raw_sha256": "d60654059932fcc85e2e53ba07a66faf251c99c6cf84e05b34eeca95ac7d3226"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 6:5 \\ft Cited in \\ref Matthew 22:37|MAT 22:37\\ref*, Mark 12:30, and Luke 10:27\\f*",
+          "raw_sha256": "12ed0ef55234e56309233e1f82571f84d95b8aaa24355aef57fa83fb8356707b"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 6:13 \\ft Or \\fqa serve Him, and take your oaths only in His name\\ft ; cited in \\ref Matthew 4:10|MAT 4:10\\ref* and Luke 4:8\\f*",
+          "raw_sha256": "907e574400ab38d0e46d99d29b64b007a953a885b8b47d7e9f68171f6a6f997f"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 6:16 \\fqa Massah \\ft means \\fqa testing\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*; cited in Matthew 4:7 and Luke 4:12.\\f*",
+          "raw_sha256": "867b0d91ff1b54a90a58d8d08cdd061ff82ada041ebd93a69aa314e8975a74f6"
+        }
+      ]
+    },
+    "7": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 7:2 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also twice in verse 26.\\f*",
+          "raw_sha256": "e3bc43a359996b97323957383c642ceb0869fb6951fefb308906077ead4f0cf0"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:2 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft .\\f*",
+          "raw_sha256": "5b4c318c7d09e5de61b89dabdb16b5d0da4560b19c1fe88ad548858e8e148927"
+        }
+      ]
+    },
+    "8": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 8:3 \\ft Cited in \\ref Matthew 4:4|MAT 4:4\\ref* and Luke 4:4\\f*",
+          "raw_sha256": "8e46f878138054d76f94d1422680f03dd40673f3a585560b181fedcc36e1f7e9"
+        }
+      ]
+    },
+    "9": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 9:8 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "a18d260a736be39aa2afd88d2add1f14745f866a68cc014ed96ee197f577d302"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 9:19 \\ft LXX \\fqa And I am greatly terrified\\ft ; cited in \\ref Hebrews 12:21|HEB 12:21\\ref*\\f*",
+          "raw_sha256": "8a5b2d639c1bf2c69f6f8d50ee10cb16caaf5165f0d61a2ff880f6e1332da304"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 9:22 \\fqa Taberah \\ft means \\fqa burning\\ft ; see \\ref Numbers 11:3|NUM 11:3\\ref*.\\f*",
+          "raw_sha256": "1ac76755d879aa11a0d1f96ff4e4451a40393257654d01bd5722a874b34c3aeb"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:22 \\fqa Massah \\ft means \\fqa testing\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*.\\f*",
+          "raw_sha256": "615e5f290b65e95a84d724fdf66e633b0f047845452a3cb2ce36c2a37a4bd955"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:22 \\fqa Kibroth-hattaavah \\ft means \\fqa graves of craving\\ft ; see \\ref Numbers 11:34|NUM 11:34\\ref*.\\f*",
+          "raw_sha256": "9c8d442859d6c5e62b75c10776ad7cf8b035b442ccea82117c5a0b807ffb9462"
+        }
+      ]
+    },
+    "10": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 10:4 \\ft Hebrew \\fqa the Ten Words\\f*",
+          "raw_sha256": "a91a797a9482de47aa27e97acce68180fa058b9c2e28d010e81b594be9f13cb7"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft Or \\fqa from the wells of the Bene-jaakan\\f*",
+          "raw_sha256": "c9419c6e759dda258b3a731863eff4294f25e2cd70c82220ec3ea0fcb1673097"
+        }
+      ]
+    },
+    "11": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 11:4 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "53d14f85ad8a3a8f2939dc8f78a1fb3f9dbfde66727075ba8e067faf66f7cd64"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 11:14 \\ft Hebrew; SP, LXX, and Vulgate \\fqa He will provide\\ft ; also in verse 15\\f*",
+          "raw_sha256": "53907031b33923388a7cae6fb52ea2cd365f613796e59b143cd137265d84815d"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 11:24 \\ft That is, the Mediterranean Sea, also called the Great Sea\\f*",
+          "raw_sha256": "c99a25a46228c42ebfb04ded4e6ef430c176bef1cd85e9d7557dc71f4c1d7546"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 11:30 \\ft SP, LXX, and Syriac (see \\ref Genesis 12:6|GEN 12:6\\ref*); Hebrew \\fqa Oaks \\ft or \\fqa Terebinths \\ft or \\fqa Great Trees\\f*",
+          "raw_sha256": "f20341be55d206b6c2688a6c83a408f54d24376d18c5ef4150acefca9fe42d0f"
+        }
+      ]
+    },
+    "13": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 13:5 \\ft Cited in \\ref 1 Corinthians 5:13|1CO 5:13\\ref*\\f*",
+          "raw_sha256": "bf93bca6759fbcaa8569f974afa50524a884dd58e4e6556679c59f2e510b56ed"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 13:6 \\ft Hebrew \\fqa the wife of your bosom\\f*",
+          "raw_sha256": "49e98449e792fc851e13e3a17d74e1e2993a87033426ab7a4f337013d25c55b7"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 13:15 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; similarly in verse 17.\\f*",
+          "raw_sha256": "2bacb93cd56c435253efd8d700f50fd05fb2c5a9dccd576407f1aaf914ebd623"
+        }
+      ]
+    },
+    "14": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 14:4 \\ft The precise identification of some of the birds and animals in this chapter is uncertain.\\f*",
+          "raw_sha256": "3488d714511db6cb092d4d12415bcb5c78a19369f051d125895e0f37e6882f9c"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 14:7 \\ft Or \\fqa the coney \\ft or \\fqa the hyrax\\f*",
+          "raw_sha256": "e70cb5bde7d787742851d14cd6c22a393b603d10022a23d6c6eb6919837c49ec"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 14:15 \\ft Literally \\fqa the daughter of the ostrich \\ft or \\fqa the daughter of the owl\\f*",
+          "raw_sha256": "8a0b1ce6a915073285e8c536a8b1dca1e5e98f07bac665b490f90de903336de3"
+        }
+      ]
+    },
+    "15": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 15:7 \\ft Or \\fqa make strong \\ft or \\fqa make courageous\\f*",
+          "raw_sha256": "bebc47ba80ed03bdb9066f39d0c5a417f893e7cc7cb9539013178e7b4884a73f"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 15:12 \\ft Or \\fqa sells himself\\f*",
+          "raw_sha256": "931c875c39c1b734ebe8acbd86149c39c6cd82bd63d405ce5cd57c1667181845"
+        }
+      ]
+    },
+    "16": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 16:1 \\fqa Abib \\ft was the first month of the ancient Hebrew lunar calendar, usually occurring within the months of March and April; twice in this verse.\\f*",
+          "raw_sha256": "70741288ab0bd4947778385d188f8e94c51ce473ee11e6af27779421f7257eb1"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 16:10 \\ft That is, Shavuot; see footnotes for verse 16.\\f*",
+          "raw_sha256": "c01f9506f49a73e1333d0c169a31fdc3e86b8289ac67b888d3a847966e5b4392"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 16:13 \\ft Or \\fqa Booths \\ft or \\fqa Shelters\\ft ; see footnotes for verse 16.\\f*",
+          "raw_sha256": "682b4e145c829ec29b143792e3e65c1af7e49685f2668d2a83b3508258cc03cb"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 16:16 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "ca4da026daf9e8ebb5391ffb4aa9e1a3ca89d18888594d7238cf154ab957ae71"
+        },
+        {
+          "source_usfm": "\\f + \\fr 16:16 \\ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as \\fqa the Feast of Harvest\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref*) or \\fqa the Feast of Pentecost\\ft (see \\ref Acts 2:1|ACT 2:1\\ref*).\\f*",
+          "raw_sha256": "d52951c0f57e6832a9adc379d060ae4957b319ab101d85177daf839d1d19b1e2"
+        },
+        {
+          "source_usfm": "\\f + \\fr 16:16 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as \\fqa the Feast of Booths \\ft or \\fqa the Feast of Shelters \\ft and originally called \\fqa the Feast of Ingathering\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref* and Exodus 34:22).\\f*",
+          "raw_sha256": "54e5e2d11c1768a7aef516f3d9e23a1eeaff06130e924a996a7f1e31f2b1778d"
+        }
+      ]
+    },
+    "17": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 17:7 \\ft Cited in \\ref 1 Corinthians 5:13|1CO 5:13\\ref*\\f*",
+          "raw_sha256": "ac0c4d9b4d36ea92c91ecd3f2d64f95c4f6cfae8131d4807299394a386bdb549"
+        }
+      ]
+    },
+    "18": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 18:10 \\ft Literally \\fqa makes his son or his daughter pass through the fire\\f*",
+          "raw_sha256": "dbabcd958581b1471e7ed96bf17e79bbbaf40889a2bfa266a745f993a4bd7d01"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 18:15 \\ft Cited in \\ref Acts 3:22|ACT 3:22\\ref*\\f*",
+          "raw_sha256": "d641b682ae26676d847e449560cd45873310a4d5c3e536bd0bdc9646a0025bfb"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 18:16 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "97394f8afd67f7e31cb132b7f1943941b4ebe278fd2d3d408a2aeb43d409df7e"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 18:19 \\ft See \\ref Acts 3:23|ACT 3:23\\ref*.\\f*",
+          "raw_sha256": "2a10aa8451963b8e51965b8ed733ca0b24c2b13934eb49817628c13b1b63ecfd"
+        }
+      ]
+    },
+    "19": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 19:3 \\ft Or \\fqa You are to survey the way\\f*",
+          "raw_sha256": "600cf85fc0a12296cf2cd0f4bc296be416a30069bf5934f0a1f796a61dbfcbd7"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 19:15 \\ft Cited in \\ref Matthew 18:16|MAT 18:16\\ref* and 2 Corinthians 13:1\\f*",
+          "raw_sha256": "524e77d9576dee876a98ad2010c96801c5d03c41df1d49780ac42994da9fea9a"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 19:19 \\ft Cited in \\ref 1 Corinthians 5:13|1CO 5:13\\ref*\\f*",
+          "raw_sha256": "509e830ac355018bd32d12966a5716c97cc3eebeb66c6d44afaa7048e0e75d14"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 19:21 \\ft Cited in \\ref Matthew 5:38|MAT 5:38\\ref*\\f*",
+          "raw_sha256": "88f383795ed60790867224802ecfb996a44fa9750a807d8159fd89d15c10298f"
+        }
+      ]
+    },
+    "20": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 20:17 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "fed37cb2b02b46b3830aa75332e735d04ca607e2a5ee25f6a1e542122b54398c"
+        }
+      ]
+    },
+    "21": {
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 21:21 \\ft Cited in \\ref 1 Corinthians 5:13|1CO 5:13\\ref*\\f*",
+          "raw_sha256": "a85c9d509ebd7865109029de5b4d8b8e663954c9b7575056cdc26323bcde9c9f"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 21:22 \\ft Or \\fqa impale his body on a pole\\ft ; similarly in verse 23\\f*",
+          "raw_sha256": "158458d3fe8f6117d42e3861267754c82ac30d2452b42a53fd746e324ff697c7"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 21:23 \\ft LXX; Hebrew \\fqa anyone who is hanged is under God’s curse\\ft ; cited in \\ref Galatians 3:13|GAL 3:13\\ref*\\f*",
+          "raw_sha256": "84525ab93eb247202309ec66b9dfe891c317d446c1353fbc51c5d5ca19931c50"
+        }
+      ]
+    },
+    "22": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 22:1 \\ft Or \\fqa you must not hide yourself\\f*",
+          "raw_sha256": "b928978d025157512cc7749ddb21dedd0cc12e2f3fd86f827f8f8619f534802f"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 22:9 \\ft Or \\fqa will be forfeited to the sanctuary\\f*",
+          "raw_sha256": "c56938363ecc70eecee9100068b47d8e0990236de693de87f6fc5cdb4e2ad7f5"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 22:19 \\fqa 100 shekels \\ft is approximately 2.5 pounds or 1.1 kilograms of silver.\\f*",
+          "raw_sha256": "e6201ce53c805fa3263ba9cc68fcd41a995c36551b60e26508bbe9b4e194bb78"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 22:21 \\ft Here and in verse 24; cited in \\ref 1 Corinthians 5:13|1CO 5:13\\ref*\\f*",
+          "raw_sha256": "18f8271188e1b4dea70a09c6bba5aec3736d7f2057df882fe68f08d0f2c86ca0"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 22:29 \\fqa 50 shekels \\ft is approximately 1.26 pounds or 569.8 grams of silver.\\f*",
+          "raw_sha256": "b6fdea7734dd25734c21a50dfa32b883bf27448171b577add4b3c4b1246bf111"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 22:30 \\ft Or \\fqa uncover his father’s skirt\\f*",
+          "raw_sha256": "23060b0f3fc71f94af1a5d8dcc076d636c4f84185dda252d12984a059244eedb"
+        }
+      ]
+    },
+    "23": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 23:4 \\ft That is, Mesopotamia; \\fqa Aram-naharaim \\ft means \\fqa Aram of the two rivers\\ft , likely the region between the Euphrates and Balih Rivers in northwestern Mesopotamia.\\f*",
+          "raw_sha256": "166ea52abe27efeee0f6069e996af591359b5b500efaff28d1bb7146cb48f867"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 23:18 \\ft Hebrew \\fqa or a dog\\f*",
+          "raw_sha256": "8aac63e6c433001fcdf5e34ebd0220ca13c3191fa329911ade11873903184325"
+        }
+      ]
+    },
+    "24": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 24:1 \\ft Cited in \\ref Matthew 5:31|MAT 5:31\\ref*; see also Mark 10:4.\\f*",
+          "raw_sha256": "0ce3ca10a78d92dcb861d5b8b3ac8a405252edce59fa75feb834135ca114a1b3"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 24:7 \\ft Cited in \\ref 1 Corinthians 5:13|1CO 5:13\\ref*\\f*",
+          "raw_sha256": "412ebe39e38631c64a42406ccdd22984a45f801889b9fb92c4a12a4396c98f22"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 24:8 \\ft Forms of the Hebrew \\fqa tzaraath\\ft , traditionally translated as \\fqa leprosy\\ft , were used for various skin diseases; see Leviticus 13.\\f*",
+          "raw_sha256": "f355fa8125a4d14161f86af6220a4b27b12f7e2bd73c50424335237d3f15da79"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 24:16 \\ft Cited in \\ref 2 Kings 14:6|2KI 14:6\\ref* and 2 Chronicles 25:4\\f*",
+          "raw_sha256": "b6efc8d20508e8662f33a583a39a641fbe44cb0181a7204bdc5fc57f45604356"
+        }
+      ]
+    },
+    "25": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 25:4 \\ft Cited in \\ref 1 Corinthians 9:9|1CO 9:9\\ref* and 1 Timothy 5:18\\f*",
+          "raw_sha256": "91181f53b974e5697db0244aa7f59af3581176baa4abadc15c3000b2f35195fa"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 25:5 \\ft Cited in \\ref Matthew 22:24|MAT 22:24\\ref*, Mark 12:19, and Luke 20:28\\f*",
+          "raw_sha256": "99055d9aea4f723c5e47368c0d973df5089b11721a43f3590a4e5ee9c493c162"
+        }
+      ]
+    },
+    "27": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 27:20 \\ft Or \\fqa uncovered his father’s skirt\\f*",
+          "raw_sha256": "8874774b09de87711441681655e12d169afac5d3f95afd48307cc01f7afc47e6"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 27:26 \\ft LXX \\fqa Cursed is every man who does not continue in all the words of this law\\ft ; cited in \\ref Galatians 3:10|GAL 3:10\\ref*\\f*",
+          "raw_sha256": "87fcd6c815c09eeea30625f521993bb944142aa72b2bc0c9f2d36c1b0df373f3"
+        }
+      ]
+    },
+    "28": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 28:20 \\ft Hebrew \\fqa Me\\f*",
+          "raw_sha256": "ed8c7116a7be68e3a3e6fe8770948774ac03bfc884bce7002e9970afddc7f868"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 28:22 \\ft Or \\fqa sword\\f*",
+          "raw_sha256": "7c7859b7f5506394fcf36836b9af70af1b6a4afe1bdd8997c5b87cbe40c14edb"
+        }
+      ],
+      "54": [
+        {
+          "source_usfm": "\\f + \\fr 28:54 \\ft Hebrew \\fqa the wife of his bosom\\f*",
+          "raw_sha256": "41792fc77856ef63795c2992588a68a8857bc889798f8bc2554d51b05c26310d"
+        }
+      ],
+      "55": [
+        {
+          "source_usfm": "\\f + \\fr 28:55 \\ft Or \\fqa within all your cities\\ft ; similarly in verse 57\\f*",
+          "raw_sha256": "41647cb951eb1dbf3ef96d8e03266cab511e252e0cede9879986a8ed6c6a0cfd"
+        }
+      ],
+      "56": [
+        {
+          "source_usfm": "\\f + \\fr 28:56 \\ft Hebrew \\fqa the husband of her bosom\\f*",
+          "raw_sha256": "d7fb7330cd7e9c023baff60958b3388ca55c039da6f462834e2e3faaed96667e"
+        }
+      ]
+    },
+    "29": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 29:1 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "2c07206a6b0204a9db5bc9b7a44a2ae46bca86078ddc57cf0a4cec2045348bf9"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 29:10 \\ft LXX and Syriac; Hebrew \\fqa you leaders, tribes\\f*",
+          "raw_sha256": "3da405fe766b32c2520156f9d4b304bf1bc3279e0618836db4632526bf45b328"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 29:18 \\ft See \\ref Hebrews 12:15|HEB 12:15\\ref*\\f*",
+          "raw_sha256": "2225cc58bf99a17aafd94e26aca91a38fe6115a52bf8444125006ff0413fc400"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 29:19 \\ft Or \\fqa curse\\f*",
+          "raw_sha256": "e29915a9ba878851a1cd21a0905380d22b016670e9c35a4606f4eee03b018168"
+        }
+      ]
+    },
+    "30": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 30:3 \\ft Or \\fqa restore your fortunes\\f*",
+          "raw_sha256": "a4f87dbd03a85f5e894d88a8b0eec5b0c6d729e451bf40a991b4c54810287f98"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 30:4 \\ft Or \\fqa to the extremity of the heavens\\f*",
+          "raw_sha256": "193f19e8842e4c3dfe0cb606f2130715dce7f8c5a7653c4cdf5f45d23ad480ed"
+        },
+        {
+          "source_usfm": "\\f + \\fr 30:4 \\ft Cited in \\ref Nehemiah 1:8–9|NEH 1:8-9\\ref*\\f*",
+          "raw_sha256": "4a6b30767cfb5fcc5118597fdb92a1bf9239222c0eff06f1b15368b59ee93319"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 30:12 \\ft Cited in \\ref Romans 10:6|ROM 10:6\\ref*\\f*",
+          "raw_sha256": "6c98cb3dadc7efdab5b9fff7e53668f85b7c46538335e333d299e9598e3b3510"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 30:13 \\ft See \\ref Romans 10:7|ROM 10:7\\ref*.\\f*",
+          "raw_sha256": "7fc9263ab5388a846c2dc5be7ad94c472530eb22d49ec4e3f0d077cf8be210f1"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 30:14 \\ft Cited in \\ref Romans 10:8|ROM 10:8\\ref*\\f*",
+          "raw_sha256": "034160945fd3b70cc745dacb5292bbb1c4ee0e524cf4ec2f45f40b4e94874202"
+        }
+      ]
+    },
+    "31": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 31:1 \\ft DSS and LXX; MT \\fqa When Moses went out and spoke\\f*",
+          "raw_sha256": "bad9daf4631bb1e9aff104d7eb5b41e01e98a49e94d3a08fac413818bbc4148a"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 31:6 \\ft Cited in \\ref Hebrews 13:5|HEB 13:5\\ref*; here and in verse 8\\f*",
+          "raw_sha256": "d54017f3d5b84798bfcbdcda5c30e5552531d66cc09688290cba22695665ea8d"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 31:10 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as \\fqa the Feast of Booths \\ft or \\fqa the Feast of Shelters \\ft and originally called \\fqa the Feast of Ingathering\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref* and Exodus 34:22).\\f*",
+          "raw_sha256": "c4eead7b87bd41ea2e2468fc84bd782d73d786fec9ddbfc88bc5f1367968c6ed"
+        }
+      ]
+    },
+    "32": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 32:5 \\ft Cited in \\ref Philippians 2:15|PHP 2:15\\ref*\\f*",
+          "raw_sha256": "df4d74541200697dc61da39c95dfd627368263850843b2f3ed6a54da7b22aa6d"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 32:8 \\ft DSS; LXX \\fqa according to the number of the angels of God\\ft ; MT \\fqa according to the number of the sons of Israel\\f*",
+          "raw_sha256": "3f1e854ab23402a7c051f02cba9030fc5c184320ecefa88e6c9ec433f526fe55"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 32:10 \\ft Literally \\fqa the pupil\\f*",
+          "raw_sha256": "46849f8c44e29f2ac80d95604f0043dd8bdcff96848c51a6fa8772e9219ab6f2"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 32:11 \\fqa Pinions \\ft are the outer parts of a bird’s wings, including the flight feathers.\\f*",
+          "raw_sha256": "bd77af66fbaecf662a515ed117cb24003c59e70312a70aa3872d71c8e6dbf12c"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 32:15 \\fqa Jeshurun \\ft means \\fqa the upright one\\ft , a term of endearment for Israel.\\f*",
+          "raw_sha256": "056668c8fc22ca9f1e7359557a01e971901deb91e27b265f7c34e5d0f03ad8c4"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 32:21 \\ft Or \\fqa not a nation\\ft ; see also LXX.\\f*",
+          "raw_sha256": "bee05ea0bfd526b47aafbfb533bab16347153cbb5e64e035c76504d8ab7061de"
+        },
+        {
+          "source_usfm": "\\f + \\fr 32:21 \\ft Cited in \\ref Romans 10:19|ROM 10:19\\ref*\\f*",
+          "raw_sha256": "1d9cb7d338132a389337dae0efa879a0090a6e56d609fdbcbc003d7651ff2fed"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 32:31 \\ft Hebrew; LXX \\fqa but our enemies are void of understanding\\f*",
+          "raw_sha256": "4354c4a8c60e3652660c9f2dffed204aff25b6ca1b4d6441486eb4c9d10867e3"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 32:35 \\ft LXX; Hebrew \\fqa Vengeance is Mine, and recompense\\ft ; cited in \\ref Romans 12:19|ROM 12:19\\ref* and Hebrews 10:30\\f*",
+          "raw_sha256": "f1db0d748ab5e4f7a5e5f64cfd72df515894be102ca52b27e80d07de0484e1e3"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 32:36 \\ft Or \\fqa will judge His people\\ft ; see also LXX; cited in \\ref Hebrews 10:30|HEB 10:30\\ref*\\f*",
+          "raw_sha256": "842957bccfe50c4b041b1388188a6c1976b71b1b25ba9d5e3918c98142accf51"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 32:43 \\ft See DSS and LXX; MT lacks \\fqa Rejoice, O heavens, with Him, and let all God’s angels worship Him.\\ft Cited in \\ref Hebrews 1:6|HEB 1:6\\ref*\\f*",
+          "raw_sha256": "b4e7c1df56fc53c719d8eea09e34c0c5e1c861da1d375a1b8be7d50ca2be8a6c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 32:43 \\ft Cited in \\ref Romans 15:10|ROM 15:10\\ref*\\f*",
+          "raw_sha256": "479999577b1296654a50f6b1de55136fed32f159ffa9981563e39d62a6d6783e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 32:43 \\ft DSS and LXX; MT \\fqa servants\\f*",
+          "raw_sha256": "91df91791aa7316316c944fcf514c15451130e1ea2a57b8b92e933f07b2145dc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 32:43 \\ft LXX and Vulgate; MT lacks \\fqa and repay those who hate Him\\f*",
+          "raw_sha256": "7db162dcc46516049175f40bf5b80185ecdf69ce08795977371cc4bdf394e20a"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 32:44 \\ft LXX, Syriac, and Vulgate; Hebrew \\fqa Hoshea\\ft , a variant of \\fqa Joshua\\f*",
+          "raw_sha256": "d7abe63ae6e627dade3afa07e4059207b2ede0a8e554bd36c8cbf8db6f9e1ee4"
+        }
+      ]
+    },
+    "33": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 33:2 \\ft LXX, Syriac, and Vulgate; Hebrew \\fqa upon them\\f*",
+          "raw_sha256": "972d9bb55a3484c1db1b32d875f98e12e635c828ee7e6c81f436e743b0e3c4e4"
+        },
+        {
+          "source_usfm": "\\f + \\fr 33:2 \\ft Or \\fqa with myriads of holy ones from the south, from His mountain slopes\\f*",
+          "raw_sha256": "b70e7d38f4aaa8b386fafaa26082f4aadd6518ae1a8a8aa714f3a7464523ff5c"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 33:3 \\ft Or \\fqa they follow in Your steps\\f*",
+          "raw_sha256": "29efa7867e0e425f5eed7bb8108ba086ea1f6155f937b3d9cc72253e43a5c2c0"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 33:5 \\fqa Jeshurun \\ft means \\fqa the upright one\\ft , a term of endearment for Israel; also in verse 26.\\f*",
+          "raw_sha256": "883460398e28f200ede814701ce1c7eef68669c5702445fcf9b5f99dd7abea51"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 33:6 \\ft Or \\fqa but let\\f*",
+          "raw_sha256": "b364a35ab6d528ce91bb23be9c0b7c29491f1cf7ddf086949ca70dc44af950b5"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 33:8 \\ft DSS and LXX; MT does not include \\fqa to Levi\\ft ; literally \\fqa Let Your Perfections and Your Lights be to Your godly one\\ft .\\f*",
+          "raw_sha256": "542df9f99c3b8714f9e9e73b75d2fc179b2f1c14cf12ec905f6bb89d609cf3c7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 33:8 \\fqa Massah \\ft means \\fqa testing\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*.\\f*",
+          "raw_sha256": "88cb1bee26b2af34b9b6c4b3c6a3a25e1e7f871c5cc9352523934b0e9b55f240"
+        },
+        {
+          "source_usfm": "\\f + \\fr 33:8 \\fqa Meribah \\ft means \\fqa quarreling\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*.\\f*",
+          "raw_sha256": "3fd27a0c9e84b6f83816aee52dcd9c3148481f6279ad552d44272fbb39c5998f"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 33:9 \\ft Hebrew \\fqa they kept\\ft , most likely referring to Levi in the plural; similarly twice in verse 10\\f*",
+          "raw_sha256": "0ae3e14e210dc58c381648b47a49e502c5ea3a0299058ba64707cdaf74e0c0fa"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 33:12 \\ft LXX; Hebrew \\fqa He shields\\f*",
+          "raw_sha256": "73d5c55f796218eaf71afabdb357b6a8eecfea6bb55ac866886d9ea9b6b4084d"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 33:23 \\ft Or \\fqa the west\\f*",
+          "raw_sha256": "559262d233b36544edc9742100a14df42d4e10caa950e305a7981041561355d4"
+        }
+      ]
+    },
+    "34": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 34:2 \\ft That is, the Mediterranean Sea, also called the Great Sea\\f*",
+          "raw_sha256": "4f8955988d2d026bc26c25d62dca6796c45938f6fb1ad24eb06cec261404c5c6"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 34:6 \\ft SP and some LXX manuscripts \\fqa they buried him\\f*",
+          "raw_sha256": "2df53d7b0c59d320886f4ab7f5e3cead9d16203424b4982db084dfcf61c30e52"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 34:12 \\ft Or \\fqa terrifying deeds\\f*",
+          "raw_sha256": "8d0e7fba0fb977074a113b13f4f58c2798828cdb4ffb41a5cbbf2988de277730"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

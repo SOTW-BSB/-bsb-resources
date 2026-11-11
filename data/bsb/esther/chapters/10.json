@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EST",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "EST.10.1",
+      "edition_verse_id": "BSB:EST.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now King Xerxes imposed tribute throughout the land, even to its farthest shores.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.10.2",
+      "edition_verse_id": "BSB:EST.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And all of Mordecai’s powerful and magnificent accomplishments, together with the full account of the greatness to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.10.3",
+      "edition_verse_id": "BSB:EST.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Mordecai the Jew was second only to King Xerxes, preeminent among the Jews and highly favored by his many kinsmen, seeking the good of his people and speaking peace to all his countrymen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

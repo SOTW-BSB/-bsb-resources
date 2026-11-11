@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "EXO.8.1",
+      "edition_verse_id": "BSB:EXO.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.2",
+      "edition_verse_id": "BSB:EXO.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But if you refuse to let them go, I will plague your whole country with frogs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.3",
+      "edition_verse_id": "BSB:EXO.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The Nile will teem with frogs, and they will come into your palace and up to your bedroom and onto your bed, into the houses of your officials and your people, and into your ovens and kneading bowls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.4",
+      "edition_verse_id": "BSB:EXO.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The frogs will come up on you and your people and all your officials.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.5",
+      "edition_verse_id": "BSB:EXO.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses, “Tell Aaron, ‘Stretch out your hand with your staff over the rivers and canals and ponds, and cause the frogs to come up onto the land of Egypt.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.6",
+      "edition_verse_id": "BSB:EXO.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.7",
+      "edition_verse_id": "BSB:EXO.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the magicians did the same thing by their magic arts, and they also brought frogs up onto the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.8",
+      "edition_verse_id": "BSB:EXO.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Pharaoh summoned Moses and Aaron and said, “Pray to the LORD to take the frogs away from me and my people. Then I will let your people go, that they may sacrifice to the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.9",
+      "edition_verse_id": "BSB:EXO.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Moses said to Pharaoh, “You may have the honor over me. When shall I pray for you and your officials and your people that the frogs (except for those in the Nile) may be taken away from you and your houses?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.10",
+      "edition_verse_id": "BSB:EXO.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Tomorrow,” Pharaoh answered. “May it be as you say,” Moses replied, “so that you may know that there is no one like the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.11",
+      "edition_verse_id": "BSB:EXO.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The frogs will depart from you and your houses and your officials and your people; they will remain only in the Nile.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.12",
+      "edition_verse_id": "BSB:EXO.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "After Moses and Aaron had left Pharaoh, Moses cried out to the LORD for help with the frogs that He had brought against Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.13",
+      "edition_verse_id": "BSB:EXO.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the LORD did as Moses requested, and the frogs in the houses, the courtyards, and the fields died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.14",
+      "edition_verse_id": "BSB:EXO.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They were piled into countless heaps, and there was a terrible stench in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.15",
+      "edition_verse_id": "BSB:EXO.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When Pharaoh saw that there was relief, however, he hardened his heart and would not listen to Moses and Aaron, just as the LORD had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.16",
+      "edition_verse_id": "BSB:EXO.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the earth, that it may turn into swarms of gnats throughout the land of Egypt.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.17",
+      "edition_verse_id": "BSB:EXO.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "This they did, and when Aaron stretched out his hand with his staff and struck the dust of the earth, gnats came upon man and beast. All the dust of the earth turned into gnats throughout the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.18",
+      "edition_verse_id": "BSB:EXO.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The magicians tried to produce gnats using their magic arts, but they could not. And the gnats remained on man and beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.19",
+      "edition_verse_id": "BSB:EXO.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“This is the finger of God,” the magicians said to Pharaoh. But Pharaoh’s heart was hardened, and he would not listen to them, just as the LORD had said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.20",
+      "edition_verse_id": "BSB:EXO.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Get up early in the morning, and when Pharaoh goes out to the water, stand before him and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.21",
+      "edition_verse_id": "BSB:EXO.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But if you will not let My people go, I will send swarms of flies upon you and your officials and your people and your houses. The houses of the Egyptians and even the ground where they stand will be full of flies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.22",
+      "edition_verse_id": "BSB:EXO.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But on that day I will give special treatment to the land of Goshen, where My people live; no swarms of flies will be found there. In this way you will know that I, the LORD, am in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.23",
+      "edition_verse_id": "BSB:EXO.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I will make a distinction between My people and your people. This sign will take place tomorrow.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.24",
+      "edition_verse_id": "BSB:EXO.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the LORD did so. Thick swarms of flies poured into Pharaoh’s palace and into the houses of his officials. Throughout Egypt the land was ruined by swarms of flies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.25",
+      "edition_verse_id": "BSB:EXO.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God within this land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.26",
+      "edition_verse_id": "BSB:EXO.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But Moses replied, “It would not be right to do that, because the sacrifices we offer to the LORD our God would be detestable to the Egyptians. If we offer sacrifices that are detestable before the Egyptians, will they not stone us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.27",
+      "edition_verse_id": "BSB:EXO.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "We must make a three-day journey into the wilderness and sacrifice to the LORD our God as He commands us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.28",
+      "edition_verse_id": "BSB:EXO.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Pharaoh answered, “I will let you go and sacrifice to the LORD your God in the wilderness, but you must not go very far. Now pray for me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.29",
+      "edition_verse_id": "BSB:EXO.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“As soon as I leave you,” Moses said, “I will pray to the LORD, so that tomorrow the swarms of flies will depart from Pharaoh and his officials and his people. But Pharaoh must not act deceitfully again by refusing to let the people go and sacrifice to the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.30",
+      "edition_verse_id": "BSB:EXO.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then Moses left Pharaoh and prayed to the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.8.31",
+      "edition_verse_id": "BSB:EXO.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and the LORD did as Moses requested. He removed the swarms of flies from Pharaoh and his officials and his people; not one fly remained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.8.32",
+      "edition_verse_id": "BSB:EXO.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But Pharaoh hardened his heart this time as well, and he would not let the people go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

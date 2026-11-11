@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "EXO.20.1",
+      "edition_verse_id": "BSB:EXO.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And God spoke all these words:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.2",
+      "edition_verse_id": "BSB:EXO.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.3",
+      "edition_verse_id": "BSB:EXO.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You shall have no other gods before Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.4",
+      "edition_verse_id": "BSB:EXO.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.5",
+      "edition_verse_id": "BSB:EXO.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.6",
+      "edition_verse_id": "BSB:EXO.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "but showing loving devotion to a thousand generations of those who love Me and keep My commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.7",
+      "edition_verse_id": "BSB:EXO.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You shall not take the name of the LORD your God in vain, for the LORD will not leave anyone unpunished who takes His name in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.8",
+      "edition_verse_id": "BSB:EXO.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Remember the Sabbath day by keeping it holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.9",
+      "edition_verse_id": "BSB:EXO.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Six days you shall labor and do all your work,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.10",
+      "edition_verse_id": "BSB:EXO.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but the seventh day is a Sabbath to the LORD your God, on which you must not do any work— neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.11",
+      "edition_verse_id": "BSB:EXO.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For in six days the LORD made the heavens and the earth and the sea and all that is in them, but on the seventh day He rested. Therefore the LORD blessed the Sabbath day and set it apart as holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.12",
+      "edition_verse_id": "BSB:EXO.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Honor your father and mother, so that your days may be long in the land that the LORD your God is giving you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.13",
+      "edition_verse_id": "BSB:EXO.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You shall not murder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.14",
+      "edition_verse_id": "BSB:EXO.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You shall not commit adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.15",
+      "edition_verse_id": "BSB:EXO.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You shall not steal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.16",
+      "edition_verse_id": "BSB:EXO.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You shall not bear false witness against your neighbor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.17",
+      "edition_verse_id": "BSB:EXO.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his manservant or maidservant, or his ox or donkey, or anything that belongs to your neighbor.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.18",
+      "edition_verse_id": "BSB:EXO.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When all the people witnessed the thunder and lightning, the sounding of the ram’s horn, and the mountain enveloped in smoke, they trembled and stood at a distance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.19",
+      "edition_verse_id": "BSB:EXO.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“Speak to us yourself and we will listen,” they said to Moses. “But do not let God speak to us, or we will die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.20",
+      "edition_verse_id": "BSB:EXO.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“Do not be afraid,” Moses replied. “For God has come to test you, so that the fear of Him may be before you, to keep you from sinning.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.21",
+      "edition_verse_id": "BSB:EXO.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the people stood at a distance as Moses approached the thick darkness where God was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.22",
+      "edition_verse_id": "BSB:EXO.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “This is what you are to tell the Israelites: ‘You have seen for yourselves that I have spoken to you from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.23",
+      "edition_verse_id": "BSB:EXO.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "You are not to make any gods alongside Me; you are not to make for yourselves gods of silver or gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.20.24",
+      "edition_verse_id": "BSB:EXO.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "You are to make for Me an altar of earth, and sacrifice on it your burnt offerings and peace offerings, your sheep and goats and cattle. In every place where I cause My name to be remembered, I will come to you and bless you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.25",
+      "edition_verse_id": "BSB:EXO.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now if you make an altar of stones for Me, you must not build it with stones shaped by tools; for if you use a chisel on it, you will defile it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.20.26",
+      "edition_verse_id": "BSB:EXO.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And you must not go up to My altar on steps, lest your nakedness be exposed on it.’[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

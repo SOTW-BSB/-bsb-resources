@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "EXO.25.1",
+      "edition_verse_id": "BSB:EXO.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.2",
+      "edition_verse_id": "BSB:EXO.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Tell the Israelites to bring Me an offering. You are to receive My offering from every man whose heart compels him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.3",
+      "edition_verse_id": "BSB:EXO.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This is the offering you are to accept from them: gold, silver, and bronze;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.4",
+      "edition_verse_id": "BSB:EXO.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "blue, purple, and scarlet yarn; fine linen and goat hair;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.5",
+      "edition_verse_id": "BSB:EXO.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "ram skins dyed red and fine leather; acacia wood;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.6",
+      "edition_verse_id": "BSB:EXO.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "olive oil for the light; spices for the anointing oil and for the fragrant incense;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.7",
+      "edition_verse_id": "BSB:EXO.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and onyx stones and gemstones to be mounted on the ephod and breastpiece.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.8",
+      "edition_verse_id": "BSB:EXO.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And they are to make a sanctuary for Me, so that I may dwell among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.9",
+      "edition_verse_id": "BSB:EXO.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You must make the tabernacle and design all its furnishings according to the pattern I show you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.10",
+      "edition_verse_id": "BSB:EXO.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they are to construct an ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.11",
+      "edition_verse_id": "BSB:EXO.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Overlay it with pure gold both inside and out, and make a gold molding around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.12",
+      "edition_verse_id": "BSB:EXO.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Cast four gold rings for it and fasten them to its four feet, two rings on one side and two on the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.13",
+      "edition_verse_id": "BSB:EXO.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And make poles of acacia wood and overlay them with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.14",
+      "edition_verse_id": "BSB:EXO.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Insert the poles into the rings on the sides of the ark, in order to carry it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.15",
+      "edition_verse_id": "BSB:EXO.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The poles are to remain in the rings of the ark; they must not be removed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.16",
+      "edition_verse_id": "BSB:EXO.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And place inside the ark the Testimony, which I will give you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.17",
+      "edition_verse_id": "BSB:EXO.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And you are to construct a mercy seat of pure gold, two and a half cubits long and a cubit and a half wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.18",
+      "edition_verse_id": "BSB:EXO.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Make two cherubim of hammered gold at the ends of the mercy seat,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.19",
+      "edition_verse_id": "BSB:EXO.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "one cherub on one end and one on the other, all made from one piece of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.20",
+      "edition_verse_id": "BSB:EXO.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the cherubim are to have wings that spread upward, overshadowing the mercy seat. The cherubim are to face each other, looking toward the mercy seat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.21",
+      "edition_verse_id": "BSB:EXO.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Set the mercy seat atop the ark and put the Testimony that I will give you into the ark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.22",
+      "edition_verse_id": "BSB:EXO.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And I will meet with you there above the mercy seat, between the two cherubim that are over the ark of the Testimony; I will speak with you about all that I command you regarding the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.23",
+      "edition_verse_id": "BSB:EXO.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "You are also to make a table of acacia wood two cubits long, a cubit wide, and a cubit and a half high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.24",
+      "edition_verse_id": "BSB:EXO.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Overlay it with pure gold and make a gold molding around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.25",
+      "edition_verse_id": "BSB:EXO.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And make a rim around it a handbreadth wide and put a gold molding on the rim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.26",
+      "edition_verse_id": "BSB:EXO.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Make four gold rings for the table and fasten them to the four corners at its four legs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.27",
+      "edition_verse_id": "BSB:EXO.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The rings are to be close to the rim, to serve as holders for the poles used to carry the table.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.28",
+      "edition_verse_id": "BSB:EXO.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Make the poles of acacia wood and overlay them with gold, so that the table may be carried with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.29",
+      "edition_verse_id": "BSB:EXO.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "You are also to make the plates and dishes, as well as the pitchers and bowls for pouring drink offerings. Make them out of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.30",
+      "edition_verse_id": "BSB:EXO.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And place the Bread of the Presence on the table before Me at all times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.31",
+      "edition_verse_id": "BSB:EXO.25.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then you are to make a lampstand of pure, hammered gold. It shall be made of one piece, including its base and shaft, its cups, and its buds and petals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.32",
+      "edition_verse_id": "BSB:EXO.25.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Six branches are to extend from the sides of the lampstand — three on one side and three on the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.33",
+      "edition_verse_id": "BSB:EXO.25.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "There are to be three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extend from the lampstand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.34",
+      "edition_verse_id": "BSB:EXO.25.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And on the lampstand there shall be four cups shaped like almond blossoms with buds and petals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.35",
+      "edition_verse_id": "BSB:EXO.25.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For the six branches that extend from the lampstand, a bud must be under the first pair of branches, a bud under the second pair, and a bud under the third pair.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.36",
+      "edition_verse_id": "BSB:EXO.25.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The buds and branches are to be all of one piece with the lampstand, hammered out of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.37",
+      "edition_verse_id": "BSB:EXO.25.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Make seven lamps and set them up on the lampstand so that they illuminate the area in front of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.25.38",
+      "edition_verse_id": "BSB:EXO.25.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "The wick trimmers and their trays must be of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.39",
+      "edition_verse_id": "BSB:EXO.25.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "The lampstand and all these utensils shall be made from a talent of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.25.40",
+      "edition_verse_id": "BSB:EXO.25.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "See to it that you make everything according to the pattern shown you on the mountain.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

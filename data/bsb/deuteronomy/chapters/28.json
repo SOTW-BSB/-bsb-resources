@@ -1,0 +1,824 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "DEU.28.1",
+      "edition_verse_id": "BSB:DEU.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Now if you faithfully obey the voice of the LORD your God and are careful to follow all His commandments I am giving you today, the LORD your God will set you high above all the nations of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.2",
+      "edition_verse_id": "BSB:DEU.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And all these blessings will come upon you and overtake you, if you will obey the voice of the LORD your God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.3",
+      "edition_verse_id": "BSB:DEU.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You will be blessed in the city and blessed in the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.4",
+      "edition_verse_id": "BSB:DEU.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The fruit of your womb will be blessed, as well as the produce of your land and the offspring of your livestock — the calves of your herds and the lambs of your flocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.5",
+      "edition_verse_id": "BSB:DEU.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Your basket and kneading bowl will be blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.6",
+      "edition_verse_id": "BSB:DEU.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You will be blessed when you come in and blessed when you go out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.7",
+      "edition_verse_id": "BSB:DEU.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD will cause the enemies who rise up against you to be defeated before you. They will march out against you in one direction but flee from you in seven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.8",
+      "edition_verse_id": "BSB:DEU.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD will decree a blessing on your barns and on everything to which you put your hand; the LORD your God will bless you in the land He is giving you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.9",
+      "edition_verse_id": "BSB:DEU.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The LORD will establish you as His holy people, just as He has sworn to you, if you keep the commandments of the LORD your God and walk in His ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.10",
+      "edition_verse_id": "BSB:DEU.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then all the peoples of the earth will see that you are called by the name of the LORD, and they will stand in awe of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.11",
+      "edition_verse_id": "BSB:DEU.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD will make you prosper abundantly — in the fruit of your womb, the offspring of your livestock, and the produce of your land — in the land that the LORD swore to your fathers to give you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.12",
+      "edition_verse_id": "BSB:DEU.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The LORD will open the heavens, His abundant storehouse, to send rain on your land in season and to bless all the work of your hands. You will lend to many nations, but borrow from none.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.13",
+      "edition_verse_id": "BSB:DEU.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The LORD will make you the head and not the tail; you will only move upward and never downward, if you hear and carefully follow the commandments of the LORD your God, which I am giving you today.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.14",
+      "edition_verse_id": "BSB:DEU.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Do not turn aside to the right or to the left from any of the words I command you today, and do not go after other gods to serve them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.15",
+      "edition_verse_id": "BSB:DEU.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If, however, you do not obey the LORD your God by carefully following all His commandments and statutes I am giving you today, all these curses will come upon you and overtake you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.16",
+      "edition_verse_id": "BSB:DEU.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You will be cursed in the city and cursed in the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.17",
+      "edition_verse_id": "BSB:DEU.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Your basket and kneading bowl will be cursed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.18",
+      "edition_verse_id": "BSB:DEU.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The fruit of your womb will be cursed, as well as the produce of your land, the calves of your herds, and the lambs of your flocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.19",
+      "edition_verse_id": "BSB:DEU.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You will be cursed when you come in and cursed when you go out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.20",
+      "edition_verse_id": "BSB:DEU.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD will send curses upon you, confusion and reproof in all to which you put your hand, until you are destroyed and quickly perish because of the wickedness you have committed in forsaking Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.21",
+      "edition_verse_id": "BSB:DEU.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The LORD will make the plague cling to you until He has exterminated you from the land that you are entering to possess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.22",
+      "edition_verse_id": "BSB:DEU.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The LORD will strike you with wasting disease, with fever and inflammation, with scorching heat and drought, and with blight and mildew; these will pursue you until you perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.23",
+      "edition_verse_id": "BSB:DEU.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The sky over your head will be bronze, and the earth beneath you iron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.24",
+      "edition_verse_id": "BSB:DEU.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The LORD will turn the rain of your land into dust and powder; it will descend on you from the sky until you are destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.25",
+      "edition_verse_id": "BSB:DEU.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The LORD will cause you to be defeated before your enemies. You will march out against them in one direction but flee from them in seven. You will be an object of horror to all the kingdoms of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.26",
+      "edition_verse_id": "BSB:DEU.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Your corpses will be food for all the birds of the air and beasts of the earth, with no one to scare them away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.27",
+      "edition_verse_id": "BSB:DEU.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The LORD will afflict you with the boils of Egypt, with tumors and scabs and itch from which you cannot be cured.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.28",
+      "edition_verse_id": "BSB:DEU.28.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The LORD will afflict you with madness, blindness, and confusion of mind,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.29",
+      "edition_verse_id": "BSB:DEU.28.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and at noon you will grope about like a blind man in the darkness. You will not prosper in your ways. Day after day you will be oppressed and plundered, with no one to save you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.30",
+      "edition_verse_id": "BSB:DEU.28.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "You will be pledged in marriage to a woman, but another man will violate her. You will build a house but will not live in it. You will plant a vineyard but will not enjoy its fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.31",
+      "edition_verse_id": "BSB:DEU.28.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Your ox will be slaughtered before your eyes, but you will not eat any of it. Your donkey will be taken away and not returned to you. Your flock will be given to your enemies, and no one will save you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.32",
+      "edition_verse_id": "BSB:DEU.28.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Your sons and daughters will be given to another nation, while your eyes grow weary looking for them day after day, with no power in your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.33",
+      "edition_verse_id": "BSB:DEU.28.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "A people you do not know will eat the produce of your land and of all your toil. All your days you will be oppressed and crushed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.34",
+      "edition_verse_id": "BSB:DEU.28.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "You will be driven mad by the sights you see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.35",
+      "edition_verse_id": "BSB:DEU.28.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The LORD will afflict you with painful, incurable boils on your knees and thighs, from the soles of your feet to the top of your head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.36",
+      "edition_verse_id": "BSB:DEU.28.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The LORD will bring you and the king you appoint to a nation neither you nor your fathers have known, and there you will worship other gods— gods of wood and stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.37",
+      "edition_verse_id": "BSB:DEU.28.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "You will become an object of horror, scorn, and ridicule among all the nations to which the LORD will drive you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.38",
+      "edition_verse_id": "BSB:DEU.28.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "You will sow much seed in the field but harvest little, because the locusts will consume it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.39",
+      "edition_verse_id": "BSB:DEU.28.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "You will plant and cultivate vineyards, but will neither drink the wine nor gather the grapes, because worms will eat them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.40",
+      "edition_verse_id": "BSB:DEU.28.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "You will have olive trees throughout your territory but will never anoint yourself with oil, because the olives will drop off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.41",
+      "edition_verse_id": "BSB:DEU.28.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "You will father sons and daughters, but they will not remain yours, because they will go into captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.42",
+      "edition_verse_id": "BSB:DEU.28.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Swarms of locusts will consume all your trees and the produce of your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.43",
+      "edition_verse_id": "BSB:DEU.28.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The foreigner living among you will rise higher and higher above you, while you sink down lower and lower.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.44",
+      "edition_verse_id": "BSB:DEU.28.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "He will lend to you, but you will not lend to him. He will be the head, and you will be the tail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.45",
+      "edition_verse_id": "BSB:DEU.28.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "All these curses will come upon you. They will pursue you and overtake you until you are destroyed, since you did not obey the LORD your God and keep the commandments and statutes He gave you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.46",
+      "edition_verse_id": "BSB:DEU.28.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "These curses will be a sign and a wonder upon you and your descendants forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.47",
+      "edition_verse_id": "BSB:DEU.28.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Because you did not serve the LORD your God with joy and gladness of heart in all your abundance,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.48",
+      "edition_verse_id": "BSB:DEU.28.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "you will serve your enemies the LORD will send against you in famine, thirst, nakedness, and destitution. He will place an iron yoke on your neck until He has destroyed you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.49",
+      "edition_verse_id": "BSB:DEU.28.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The LORD will bring a nation from afar, from the ends of the earth, to swoop down upon you like an eagle — a nation whose language you will not understand,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.50",
+      "edition_verse_id": "BSB:DEU.28.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "a ruthless nation with no respect for the old and no pity for the young.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.51",
+      "edition_verse_id": "BSB:DEU.28.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "They will eat the offspring of your livestock and the produce of your land until you are destroyed. They will leave you no grain or new wine or oil, no calves of your herds or lambs of your flocks, until they have caused you to perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.52",
+      "edition_verse_id": "BSB:DEU.28.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "They will besiege all the cities throughout your land, until the high and fortified walls in which you trust have fallen. They will besiege all your cities throughout the land that the LORD your God has given you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.53",
+      "edition_verse_id": "BSB:DEU.28.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Then you will eat the fruit of your womb, the flesh of the sons and daughters whom the LORD your God has given you, in the siege and distress that your enemy will inflict on you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.54",
+      "edition_verse_id": "BSB:DEU.28.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "The most gentle and refined man among you will begrudge his brother, the wife he embraces, and the rest of his children who have survived,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.55",
+      "edition_verse_id": "BSB:DEU.28.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "refusing to share with any of them the flesh of his children he will eat because he has nothing left in the siege and distress that your enemy will inflict on you within all your gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.56",
+      "edition_verse_id": "BSB:DEU.28.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "The most gentle and refined woman among you, so gentle and refined she would not venture to set the sole of her foot on the ground, will begrudge the husband she embraces and her son and daughter",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.57",
+      "edition_verse_id": "BSB:DEU.28.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "the afterbirth that comes from between her legs and the children she bears, because she will secretly eat them for lack of anything else in the siege and distress that your enemy will inflict on you within your gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.58",
+      "edition_verse_id": "BSB:DEU.28.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "If you are not careful to observe all the words of this law which are written in this book, that you may fear this glorious and awesome name— the LORD your God—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.59",
+      "edition_verse_id": "BSB:DEU.28.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "He will bring upon you and your descendants extraordinary disasters, severe and lasting plagues, and terrible and chronic sicknesses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.60",
+      "edition_verse_id": "BSB:DEU.28.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "He will afflict you again with all the diseases you dreaded in Egypt, and they will cling to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.61",
+      "edition_verse_id": "BSB:DEU.28.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "The LORD will also bring upon you every sickness and plague not recorded in this Book of the Law, until you are destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.62",
+      "edition_verse_id": "BSB:DEU.28.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "You who were as numerous as the stars in the sky will be left few in number, because you would not obey the voice of the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.63",
+      "edition_verse_id": "BSB:DEU.28.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "Just as it pleased the LORD to make you prosper and multiply, so also it will please Him to annihilate you and destroy you. And you will be uprooted from the land you are entering to possess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.64",
+      "edition_verse_id": "BSB:DEU.28.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "Then the LORD will scatter you among all the nations, from one end of the earth to the other, and there you will worship other gods, gods of wood and stone, which neither you nor your fathers have known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.65",
+      "edition_verse_id": "BSB:DEU.28.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Among those nations you will find no repose, not even a resting place for the sole of your foot. There the LORD will give you a trembling heart, failing eyes, and a despairing soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.66",
+      "edition_verse_id": "BSB:DEU.28.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "So your life will hang in doubt before you, and you will be afraid night and day, never certain of survival.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.28.67",
+      "edition_verse_id": "BSB:DEU.28.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "In the morning you will say, ‘If only it were evening!’ and in the evening you will say, ‘If only it were morning!’— because of the dread in your hearts of the terrifying sights you will see.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.28.68",
+      "edition_verse_id": "BSB:DEU.28.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "The LORD will return you to Egypt in ships by a route that I said you should never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Israelites Multiply in Egypt",
+        "\\s1 Oppression by a New King"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Birth and Adoption of Moses",
+        "\\s1 The Rejection and Flight of Moses",
+        "\\s1 God Hears the Cry of the Israelites"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Moses at the Burning Bush"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Moses’ Staff",
+        "\\s1 Moses’ Hand",
+        "\\s1 The Appointment of Aaron",
+        "\\s1 Moses Leaves for Egypt",
+        "\\s1 The People Believe Moses and Aaron"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Pharaoh’s First Refusal",
+        "\\s1 Bricks and Straw",
+        "\\s1 The Cry of the Israelites"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 God Promises Deliverance",
+        "\\s1 Genealogies of Moses and Aaron"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 God Commands Moses and Aaron",
+        "\\s1 Aaron’s Staff",
+        "\\s1 The First Plague: Blood"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Second Plague: Frogs",
+        "\\s1 The Third Plague: Gnats",
+        "\\s1 The Fourth Plague: Flies"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Fifth Plague: Livestock",
+        "\\s1 The Sixth Plague: Boils",
+        "\\s1 The Seventh Plague: Hail"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 The Eighth Plague: Locusts",
+        "\\s1 The Ninth Plague: Darkness"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Plague on the Firstborn Foretold"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The First Passover",
+        "\\s1 The Feast of Unleavened Bread",
+        "\\s1 The Tenth Plague: Death of the Firstborn",
+        "\\s1 The Exodus Begins",
+        "\\s1 Instructions for the Passover"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 The Dedication of the Firstborn",
+        "\\s1 The Pillars of Cloud and Fire"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Pharaoh Pursues the Israelites",
+        "\\s1 Parting the Red Sea"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 The Song at the Sea",
+        "\\s1 The Waters of Marah"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Manna and Quail from Heaven",
+        "\\s1 The Sabbath Observed",
+        "\\s1 The Jar of Manna"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 Water from the Rock",
+        "\\s1 The Defeat of the Amalekites"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 The Visit of Jethro",
+        "\\s1 Jethro Advises Moses"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 Israel at Mount Sinai",
+        "\\s1 The LORD Visits Sinai"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 The Ten Commandments",
+        "\\s1 Moses Comforts the People",
+        "\\s1 Idolatry Forbidden"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 Hebrew Servants",
+        "\\s1 Personal Injury Laws"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 Property Laws",
+        "\\s1 Laws of Social Responsibility"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 Justice and Mercy",
+        "\\s1 Sabbath Laws",
+        "\\s1 The Three Feasts of Pilgrimage",
+        "\\s1 God’s Angel to Lead"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 The Covenant Sealed",
+        "\\s1 Moses on the Mountain"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 Offerings for the Tabernacle",
+        "\\s1 The Ark of the Covenant",
+        "\\s1 The Mercy Seat",
+        "\\s1 The Table of Showbread",
+        "\\s1 The Lampstand"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 The Ten Curtains for the Tabernacle",
+        "\\s1 The Eleven Curtains of Goat Hair",
+        "\\s1 The Frames and Bases",
+        "\\s1 The Veil",
+        "\\s1 The Curtain for the Entrance"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 The Bronze Altar",
+        "\\s1 The Courtyard",
+        "\\s1 The Oil for the Lamps"
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 Garments for the Priests",
+        "\\s1 The Ephod",
+        "\\s1 The Breastpiece",
+        "\\s1 Additional Priestly Garments"
+      ]
+    },
+    "29": {
+      "source_headings": [
+        "\\s1 Consecration of the Priests",
+        "\\s1 The Order of the Sacrifices",
+        "\\s1 Food for the Priests",
+        "\\s1 The Daily Offerings",
+        "\\s1 God Will Dwell among the People"
+      ]
+    },
+    "30": {
+      "source_headings": [
+        "\\s1 The Altar of Incense",
+        "\\s1 The Census Offering",
+        "\\s1 The Bronze Basin",
+        "\\s1 The Anointing Oil",
+        "\\s1 The Incense"
+      ]
+    },
+    "31": {
+      "source_headings": [
+        "\\s1 Bezalel and Oholiab",
+        "\\s1 The Sign of the Sabbath",
+        "\\s1 Moses Receives the Tablets"
+      ]
+    },
+    "32": {
+      "source_headings": [
+        "\\s1 The Golden Calf"
+      ]
+    },
+    "33": {
+      "source_headings": [
+        "\\s1 The Command to Leave Sinai",
+        "\\s1 The Tent of Meeting",
+        "\\s1 The Promise of God’s Presence"
+      ]
+    },
+    "34": {
+      "source_headings": [
+        "\\s1 New Stone Tablets",
+        "\\s1 The LORD Renews the Covenant"
+      ]
+    },
+    "35": {
+      "source_headings": [
+        "\\s1 The Sabbath",
+        "\\s1 Offerings for the Tabernacle",
+        "\\s1 The Skilled Craftsmen",
+        "\\s1 The People Offer Gifts",
+        "\\s1 Bezalel and Oholiab"
+      ]
+    },
+    "36": {
+      "source_headings": [
+        "\\s1 The People Bring More than Enough",
+        "\\s1 The Ten Curtains for the Tabernacle",
+        "\\s1 The Eleven Curtains of Goat Hair",
+        "\\s1 The Frames and Bases",
+        "\\s1 The Veil",
+        "\\s1 The Curtain for the Entrance"
+      ]
+    },
+    "37": {
+      "source_headings": [
+        "\\s1 Constructing the Ark",
+        "\\s1 The Mercy Seat",
+        "\\s1 The Table of Showbread",
+        "\\s1 The Lampstand",
+        "\\s1 The Altar of Incense"
+      ]
+    },
+    "38": {
+      "source_headings": [
+        "\\s1 The Bronze Altar",
+        "\\s1 The Bronze Basin",
+        "\\s1 The Courtyard",
+        "\\s1 An Inventory of Materials"
+      ]
+    },
+    "39": {
+      "source_headings": [
+        "\\s1 The Ephod",
+        "\\s1 The Breastpiece",
+        "\\s1 Additional Priestly Garments",
+        "\\s1 Moses Approves the Work"
+      ]
+    },
+    "40": {
+      "source_headings": [
+        "\\s1 Setting Up the Tabernacle",
+        "\\s1 The Cloud and the Glory"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

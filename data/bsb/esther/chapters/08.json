@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EST",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "EST.8.1",
+      "edition_verse_id": "BSB:EST.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "That same day King Xerxes awarded Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai entered the king’s presence because Esther had revealed his relation to her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.2",
+      "edition_verse_id": "BSB:EST.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The king removed the signet ring he had recovered from Haman and presented it to Mordecai. And Esther appointed Mordecai over the estate of Haman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.8.3",
+      "edition_verse_id": "BSB:EST.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And once again, Esther addressed the king. She fell at his feet weeping and begged him to revoke the evil scheme of Haman the Agagite, which he had devised against the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.4",
+      "edition_verse_id": "BSB:EST.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The king extended the gold scepter toward Esther, and she arose and stood before the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.5",
+      "edition_verse_id": "BSB:EST.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“If it pleases the king,” she said, “and if I have found favor in his sight, and the matter seems proper to the king, and I am pleasing in his sight, may an order be written to revoke the letters that the scheming Haman son of Hammedatha, the Agagite, wrote to destroy the Jews in all the king’s provinces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.6",
+      "edition_verse_id": "BSB:EST.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For how could I bear to see the disaster that would befall my people? How could I bear to see the destruction of my kindred?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.8.7",
+      "edition_verse_id": "BSB:EST.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So King Xerxes said to Esther the Queen and Mordecai the Jew, “Behold, I have given Haman’s estate to Esther, and he was hanged on the gallows because he attacked the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.8",
+      "edition_verse_id": "BSB:EST.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now you may write in the king’s name as you please regarding the Jews, and seal it with the royal signet ring. For a decree that is written in the name of the king and sealed with the royal signet ring cannot be revoked.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.8.9",
+      "edition_verse_id": "BSB:EST.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan), they recorded all of Mordecai’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush — writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.10",
+      "edition_verse_id": "BSB:EST.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Mordecai wrote in the name of King Xerxes and sealed it with the royal signet ring. He sent the documents by mounted couriers riding on swift horses bred from the royal mares.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.11",
+      "edition_verse_id": "BSB:EST.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "By these letters the king permitted the Jews in each and every city the right to assemble and defend themselves, to destroy, kill, and annihilate all the forces of any people or province hostile to them, including women and children, and to plunder their possessions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.12",
+      "edition_verse_id": "BSB:EST.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The single day appointed throughout all the provinces of King Xerxes was the thirteenth day of the twelfth month, the month of Adar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.8.13",
+      "edition_verse_id": "BSB:EST.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "A copy of the text of the edict was to be issued in every province and published to all the people, so that the Jews would be ready on that day to avenge themselves on their enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.14",
+      "edition_verse_id": "BSB:EST.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The couriers rode out in haste on their royal horses, pressed on by the command of the king. And the edict was also issued in the citadel of Susa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EST.8.15",
+      "edition_verse_id": "BSB:EST.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Mordecai went out from the presence of the king in royal garments of blue and white, with a large gold crown and a purple robe of fine linen. And the city of Susa shouted and rejoiced.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.16",
+      "edition_verse_id": "BSB:EST.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the Jews it was a time of light and gladness, of joy and honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EST.8.17",
+      "edition_verse_id": "BSB:EST.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "In every province and every city, wherever the king’s edict and decree reached, there was joy and gladness among the Jews, with feasting and celebrating. And many of the people of the land themselves became Jews, because the fear of the Jews had fallen upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

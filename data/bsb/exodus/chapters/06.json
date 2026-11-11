@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "EXO.6.1",
+      "edition_verse_id": "BSB:EXO.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But the LORD said to Moses, “Now you will see what I will do to Pharaoh, for because of My mighty hand he will let the people go; because of My strong hand he will drive them out of his land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.2",
+      "edition_verse_id": "BSB:EXO.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "God also told Moses, “I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.3",
+      "edition_verse_id": "BSB:EXO.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by My name the LORD I did not make Myself known to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.4",
+      "edition_verse_id": "BSB:EXO.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I also established My covenant with them to give them the land of Canaan, the land where they lived as foreigners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.5",
+      "edition_verse_id": "BSB:EXO.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Furthermore, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered My covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.6",
+      "edition_verse_id": "BSB:EXO.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore tell the Israelites: ‘I am the LORD, and I will bring you out from under the yoke of the Egyptians and deliver you from their bondage. I will redeem you with an outstretched arm and with mighty acts of judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.7",
+      "edition_verse_id": "BSB:EXO.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will take you as My own people, and I will be your God. Then you will know that I am the LORD your God, who brought you out from under the yoke of the Egyptians.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.8",
+      "edition_verse_id": "BSB:EXO.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And I will bring you into the land that I swore to give to Abraham, Isaac, and Jacob. I will give it to you as a possession. I am the LORD!’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.9",
+      "edition_verse_id": "BSB:EXO.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Moses relayed this message to the Israelites, but on account of their broken spirit and cruel bondage, they did not listen to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.10",
+      "edition_verse_id": "BSB:EXO.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.11",
+      "edition_verse_id": "BSB:EXO.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“Go and tell Pharaoh king of Egypt to let the Israelites go out of his land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.12",
+      "edition_verse_id": "BSB:EXO.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But in the LORD’s presence Moses replied, “If the Israelites will not listen to me, then why would Pharaoh listen to me, since I am unskilled in speech?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.13",
+      "edition_verse_id": "BSB:EXO.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the LORD spoke to Moses and Aaron and gave them a charge concerning both the Israelites and Pharaoh king of Egypt, to bring the Israelites out of the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.14",
+      "edition_verse_id": "BSB:EXO.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "These were the heads of their fathers’ houses: The sons of Reuben, the firstborn of Israel, were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.15",
+      "edition_verse_id": "BSB:EXO.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman. These were the clans of Simeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.16",
+      "edition_verse_id": "BSB:EXO.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "These were the names of the sons of Levi according to their records: Gershon, Kohath, and Merari. Levi lived 137 years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.17",
+      "edition_verse_id": "BSB:EXO.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The sons of Gershon were Libni and Shimei, by their clans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.18",
+      "edition_verse_id": "BSB:EXO.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.19",
+      "edition_verse_id": "BSB:EXO.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The sons of Merari were Mahli and Mushi. These were the clans of the Levites according to their records.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.20",
+      "edition_verse_id": "BSB:EXO.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Amram married his father’s sister Jochebed, and she bore him Aaron and Moses. Amram lived 137 years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.21",
+      "edition_verse_id": "BSB:EXO.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The sons of Izhar were Korah, Nepheg, and Zichri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.22",
+      "edition_verse_id": "BSB:EXO.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The sons of Uzziel were Mishael, Elzaphan, and Sithri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.23",
+      "edition_verse_id": "BSB:EXO.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Aaron married Elisheba, the daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.24",
+      "edition_verse_id": "BSB:EXO.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The sons of Korah were Assir, Elkanah, and Abiasaph. These were the clans of the Korahites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.25",
+      "edition_verse_id": "BSB:EXO.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Aaron’s son Eleazar married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families by their clans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.26",
+      "edition_verse_id": "BSB:EXO.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "It was this Aaron and Moses to whom the LORD said, “Bring the Israelites out of the land of Egypt by their divisions.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.27",
+      "edition_verse_id": "BSB:EXO.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Moses and Aaron were the ones who spoke to Pharaoh king of Egypt in order to bring the Israelites out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.28",
+      "edition_verse_id": "BSB:EXO.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now on the day that the LORD spoke to Moses in Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.6.29",
+      "edition_verse_id": "BSB:EXO.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He said to him, “I am the LORD; tell Pharaoh king of Egypt everything I say to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.6.30",
+      "edition_verse_id": "BSB:EXO.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But in the LORD’s presence Moses replied, “Since I am unskilled in speech, why would Pharaoh listen to me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

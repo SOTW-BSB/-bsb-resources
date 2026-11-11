@@ -1,0 +1,44 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EPH",
+  "chapter_count": 6,
+  "verse_count": 155,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 23,
+      "omitted_from_main_text": [],
+      "sha256": "d4bf9509c5b536ca56f418367c9cf5dc6419f49cf368f9c29403fb8ef4d48067"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "f78d3eb9892bc271744810ab75cc88ad85d788d7574991420fdaf58dfa3aef20"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "a2c01f57461e82677cd4680c9819e692a7256578a84ebab7a9be71b749cc9528"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 32,
+      "omitted_from_main_text": [],
+      "sha256": "98beb1dfacb77455de7f31bdc0e4a6e38b6022ee9e0b89e1fde43b7dc3013c71"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 33,
+      "omitted_from_main_text": [],
+      "sha256": "4510fc035a52db92c7028d86804098ecb6d2b1a310f958d88a735081da5a972f"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 24,
+      "omitted_from_main_text": [],
+      "sha256": "59ebf8fa2fc485f8624644f07d4a1d5be8051d13fc5c2c42aaea8bc0bf248c14"
+    }
+  ]
+}

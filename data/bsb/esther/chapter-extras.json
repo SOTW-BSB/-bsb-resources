@@ -1,0 +1,67 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EST",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Xerxes’ Royal Feast",
+        "\\s1 Queen Vashti’s Refusal",
+        "\\s1 Queen Vashti Deposed"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Seeking Vashti’s Successor",
+        "\\s1 Esther Finds Favor",
+        "\\s1 Esther Becomes Queen",
+        "\\s1 Mordecai Uncovers a Conspiracy"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Haman’s Plot against the Jews"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Mordecai Appeals to Esther"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Esther Approaches the King",
+        "\\s1 Haman’s Plot against Mordecai"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Mordecai Is Honored"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Esther Pleads for Her People",
+        "\\s1 The Hanging of Haman"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Esther Appeals for the Jews",
+        "\\s1 The Decree of Xerxes"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Jews Destroy Their Enemies",
+        "\\s1 Haman’s Sons Hanged",
+        "\\s1 The Feast of Purim Instituted"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Tribute to Xerxes and Mordecai"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

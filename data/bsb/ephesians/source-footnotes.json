@@ -1,0 +1,119 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EPH",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Some manuscripts do not include \\fqa in Ephesus\\ft .\\f*",
+          "raw_sha256": "a4dd467a5d74a8a84d53aea5e6c96b7a90707c84f1d6c8dd05e9cb9807f54dea"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 1:18 \\ft TR \\fqa the eyes of your understanding\\f*",
+          "raw_sha256": "06237736bf99bfd25e41373c6ec4820d57aab3f0712f8e809bd6e8a0eb1be641"
+        }
+      ]
+    },
+    "2": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\ft Literally \\fqa which God prepared beforehand, that we should walk in them.\\f*",
+          "raw_sha256": "48f75cb726559f3843c85420b24ba0f49c68d95da247afdc3a39b6b27b2c8dda"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft This train of thought is continued in verse 14.\\f*",
+          "raw_sha256": "23416923007fe9d01474d25167ed555fd146d5e1d6fe725b34e04cec21e22399"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\ft NE and WH \\fqa and to illuminate the stewardship\\ft ; TR \\fqa and to illuminate for everyone the fellowship\\f*",
+          "raw_sha256": "819ad6bb24b5b17c66ed16ec0704c710419a98ba7cc2c74ee0935cbfafdde6e6"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft Or \\fqa through His faithfulness\\f*",
+          "raw_sha256": "d4cdcd50f7f00fad45181910ad8833a044a5343ab02f75f1879923c4ea3c7317"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 3:14 \\ft BYZ and TR \\fqa before the Father of our Lord Jesus Christ,\\f*",
+          "raw_sha256": "3dad2f4240a2fb7e0477b64783c8d7ffbb7a8022a33c3e096a0285b68a7067c4"
+        }
+      ]
+    },
+    "4": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 4:8 \\ft Or \\fqa He says\\f*",
+          "raw_sha256": "c43f8f384cebba4a6bde71e665fa7fe829de1db115ce4c09d1e9547b877fd4fc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:8 \\ft \\ref Psalm 68:18|PSA 68:18\\ref*\\f*",
+          "raw_sha256": "a495781526a89ef51614a2d8054cacea6ff02ab4c3d11168cdf4c51ac2edaaf9"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 4:9 \\ft BYZ and TR \\fqa except that He also descended first\\f*",
+          "raw_sha256": "84e73d26aec4e6ce6ecbcb0e31161c33e2de876a24b25dad4eccf7b3b54be01d"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 4:26 \\ft Or \\fqa “In your anger do not sin.”\\ft \\ref Psalm 4:4|PSA 4:4\\ref*\\f*",
+          "raw_sha256": "21f65dfb83f9dbcaac210c531bbc79eab3458056003aa871877e7a2123ed039d"
+        }
+      ]
+    },
+    "5": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft NE and WH \\fqa Christ loved you\\f*",
+          "raw_sha256": "89902fc10845a36c3e172bd2c0e6788117184c4de27725ba08feffbd74f513ac"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 5:13 \\ft SBL begins verse 14 after \\fqa visible,\\f*",
+          "raw_sha256": "2b90b914dbce0869080b16fbb840babf07f13c300f33b5c28e4c828cd318ea5a"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 5:21 \\ft Or \\fqa in the fear of Christ.\\f*",
+          "raw_sha256": "16e2e55c5ef4ac7f2e99ee305c1485ab7e56bc16b1d17bfa09d99e5a9e0b2ce2"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 5:30 \\ft BYZ and TR include \\fqa —of His flesh and of His bones\\ft .\\f*",
+          "raw_sha256": "62ad86119fe96f42c6d19084eaa8e913d52722f7c02499bd3b2900c08b9dbb63"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 5:31 \\ft \\ref Genesis 2:24|GEN 2:24\\ref* (see also LXX)\\f*",
+          "raw_sha256": "e2ce37ec73de6f1191a90ecec6f461e08d5b5e7a7417b840266f99643153ece7"
+        }
+      ]
+    },
+    "6": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 6:3 \\ft \\ref Exodus 20:12|EXO 20:12\\ref*; Deuteronomy 5:16\\f*",
+          "raw_sha256": "8f4640722841bf94d16ffe8e3afd37b776235d6106237a460313c87560c801d9"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}
