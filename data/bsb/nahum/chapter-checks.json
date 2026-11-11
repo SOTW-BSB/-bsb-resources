@@ -1,0 +1,26 @@
+{
+  "edition_id": "BSB",
+  "book_code": "NAM",
+  "chapter_count": 3,
+  "verse_count": 47,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "23dcf6a8f48a14ebde472e5f457f5d9a9cc3c4afd2871759834c92e76bbd9fdb"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 13,
+      "omitted_from_main_text": [],
+      "sha256": "152b81b64dbaad756b31e8392103b220401cd5513c0c9bf027a18a7264cc096a"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 19,
+      "omitted_from_main_text": [],
+      "sha256": "41c9f779f52ce01df8c834aca20865b59982becf317f8e59d34d272ed145aa60"
+    }
+  ]
+}

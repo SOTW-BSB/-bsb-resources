@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MIC",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "MIC.2.1",
+      "edition_verse_id": "BSB:MIC.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.2.2",
+      "edition_verse_id": "BSB:MIC.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "They covet fields and seize them; they take away houses. They deprive a man of his home, a fellow man of his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.3",
+      "edition_verse_id": "BSB:MIC.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD says: “I am planning against this nation a disaster from which you cannot free your necks. Then you will not walk so proudly, for it will be a time of calamity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.2.4",
+      "edition_verse_id": "BSB:MIC.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In that day they will take up a proverb against you and taunt you with this bitter lamentation: ‘We are utterly ruined! He has changed the portion of my people. How He has removed it from me! He has allotted our fields to traitors.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.5",
+      "edition_verse_id": "BSB:MIC.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore, you will have no one in the assembly of the LORD to divide the land by lot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.6",
+      "edition_verse_id": "BSB:MIC.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Do not preach,” they preach. “Do not preach these things; disgrace will not overtake us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.7",
+      "edition_verse_id": "BSB:MIC.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Should it be said, O house of Jacob, “Is the Spirit of the LORD impatient? Are these the things He does?” Do not My words bring good to him who walks uprightly?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.8",
+      "edition_verse_id": "BSB:MIC.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But of late My people have risen up like an enemy: You strip off the splendid robe from unsuspecting passersby like men returning from battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.9",
+      "edition_verse_id": "BSB:MIC.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You drive the women of My people from their pleasant homes. You take away My blessing from their children forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.10",
+      "edition_verse_id": "BSB:MIC.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Arise and depart, for this is not your place of rest, because its defilement brings destruction— a grievous destruction!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.11",
+      "edition_verse_id": "BSB:MIC.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If a man of wind were to come and say falsely, “I will preach to you of wine and strong drink,” he would be just the preacher for this people!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.12",
+      "edition_verse_id": "BSB:MIC.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will surely gather all of you, O Jacob; I will collect the remnant of Israel. I will bring them together like sheep in a pen, like a flock in the midst of its pasture — a noisy throng.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.2.13",
+      "edition_verse_id": "BSB:MIC.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "One who breaks open the way will go up before them; they will break through the gate, and go out by it. Their King will pass through before them, the LORD as their leader.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "MRK.10.1",
+      "edition_verse_id": "BSB:MRK.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.2",
+      "edition_verse_id": "BSB:MRK.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Some Pharisees came to test Him. “Is it lawful for a man to divorce his wife?” they inquired.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.3",
+      "edition_verse_id": "BSB:MRK.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“What did Moses command you?” He replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.4",
+      "edition_verse_id": "BSB:MRK.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They answered, “Moses permitted a man to write his wife a certificate of divorce and send her away.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.5",
+      "edition_verse_id": "BSB:MRK.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But Jesus told them, “Moses wrote this commandment for you because of your hardness of heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.6",
+      "edition_verse_id": "BSB:MRK.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "However, from the beginning of creation, ‘God made them male and female.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.7",
+      "edition_verse_id": "BSB:MRK.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "‘For this reason a man will leave his father and mother and be united to his wife,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.8",
+      "edition_verse_id": "BSB:MRK.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and the two will become one flesh.’ So they are no longer two, but one flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.9",
+      "edition_verse_id": "BSB:MRK.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Therefore what God has joined together, let man not separate.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.10",
+      "edition_verse_id": "BSB:MRK.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When they were back inside the house, the disciples asked Jesus about this matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.11",
+      "edition_verse_id": "BSB:MRK.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So He told them, “Whoever divorces his wife and marries another woman commits adultery against her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.12",
+      "edition_verse_id": "BSB:MRK.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And if a woman divorces her husband and marries another man, she commits adultery.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.13",
+      "edition_verse_id": "BSB:MRK.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now people were bringing the little children to Jesus for Him to place His hands on them, and the disciples rebuked those who brought them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.14",
+      "edition_verse_id": "BSB:MRK.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But when Jesus saw this, He was indignant and told them, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.15",
+      "edition_verse_id": "BSB:MRK.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.16",
+      "edition_verse_id": "BSB:MRK.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And He took the children in His arms, placed His hands on them, and blessed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.17",
+      "edition_verse_id": "BSB:MRK.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "As Jesus started on His way, a man ran up and knelt before Him. “Good Teacher,” he asked, “what must I do to inherit eternal life?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.18",
+      "edition_verse_id": "BSB:MRK.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Why do you call Me good?” Jesus replied. “No one is good except God alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.19",
+      "edition_verse_id": "BSB:MRK.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You know the commandments: ‘Do not murder, do not commit adultery, do not steal, do not bear false witness, do not cheat others, honor your father and mother.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.20",
+      "edition_verse_id": "BSB:MRK.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“Teacher,” he replied, “all these I have kept from my youth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.21",
+      "edition_verse_id": "BSB:MRK.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Jesus looked at him, loved him, and said to him, “There is one thing you lack: Go, sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.22",
+      "edition_verse_id": "BSB:MRK.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the man was saddened by these words and went away in sorrow, because he had great wealth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.23",
+      "edition_verse_id": "BSB:MRK.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then Jesus looked around and said to His disciples, “How hard it is for the rich to enter the kingdom of God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.24",
+      "edition_verse_id": "BSB:MRK.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the disciples were amazed at His words. But Jesus said to them again, “Children, how hard it is to enter the kingdom of God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.25",
+      "edition_verse_id": "BSB:MRK.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.26",
+      "edition_verse_id": "BSB:MRK.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They were even more astonished and said to one another, “Who then can be saved?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.27",
+      "edition_verse_id": "BSB:MRK.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Jesus looked at them and said, “With man this is impossible, but not with God. For all things are possible with God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.28",
+      "edition_verse_id": "BSB:MRK.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Peter began to say to Him, “Look, we have left everything and followed You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.29",
+      "edition_verse_id": "BSB:MRK.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“Truly I tell you,” Jesus replied, “no one who has left home or brothers or sisters or mother or father or children or fields for My sake and for the gospel",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.30",
+      "edition_verse_id": "BSB:MRK.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "will fail to receive a hundredfold in the present age — houses and brothers and sisters and mothers and children and fields, along with persecutions — and in the age to come, eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.31",
+      "edition_verse_id": "BSB:MRK.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But many who are first will be last, and the last will be first.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.32",
+      "edition_verse_id": "BSB:MRK.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "As they were going up the road to Jerusalem, Jesus was walking ahead of them. The disciples were amazed, but those who followed were afraid. Again Jesus took the Twelve aside and began to tell them what was going to happen to Him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.33",
+      "edition_verse_id": "BSB:MRK.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "“Look, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and scribes. They will condemn Him to death and will deliver Him over to the Gentiles,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.34",
+      "edition_verse_id": "BSB:MRK.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "who will mock Him and spit on Him and flog Him and kill Him. And after three days He will rise again.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.35",
+      "edition_verse_id": "BSB:MRK.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then James and John, the sons of Zebedee, came to Jesus and declared, “Teacher, we want You to do for us whatever we ask.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.36",
+      "edition_verse_id": "BSB:MRK.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "“What do you want Me to do for you?” He inquired.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.37",
+      "edition_verse_id": "BSB:MRK.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "They answered, “Grant that one of us may sit at Your right hand and the other at Your left in Your glory.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.38",
+      "edition_verse_id": "BSB:MRK.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "“You do not know what you are asking,” Jesus replied. “Can you drink the cup I will drink, or be baptized with the baptism I will undergo?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.39",
+      "edition_verse_id": "BSB:MRK.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "“We can,” the brothers answered. “You will drink the cup that I drink,” Jesus said, “and you will be baptized with the baptism that I undergo.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.40",
+      "edition_verse_id": "BSB:MRK.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But to sit at My right or left is not Mine to grant. These seats belong to those for whom they have been prepared.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.41",
+      "edition_verse_id": "BSB:MRK.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "When the ten heard about this, they became indignant with James and John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.42",
+      "edition_verse_id": "BSB:MRK.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "So Jesus called them together and said, “You know that those regarded as rulers of the Gentiles lord it over them, and their superiors exercise authority over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.43",
+      "edition_verse_id": "BSB:MRK.10.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "But it shall not be this way among you. Instead, whoever wants to become great among you must be your servant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.44",
+      "edition_verse_id": "BSB:MRK.10.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "and whoever wants to be first must be the slave of all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.45",
+      "edition_verse_id": "BSB:MRK.10.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.46",
+      "edition_verse_id": "BSB:MRK.10.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Next, they came to Jericho. And as Jesus and His disciples were leaving Jericho with a large crowd, a blind beggar named Bartimaeus, the son of Timaeus, was sitting beside the road.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.47",
+      "edition_verse_id": "BSB:MRK.10.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "When he heard that it was Jesus of Nazareth, he began to cry out, “Jesus, Son of David, have mercy on me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.10.48",
+      "edition_verse_id": "BSB:MRK.10.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Many people admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.49",
+      "edition_verse_id": "BSB:MRK.10.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Jesus stopped and said, “Call him.” So they called the blind man. “Take courage!” they said. “Get up! He is calling for you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.50",
+      "edition_verse_id": "BSB:MRK.10.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Throwing off his cloak, Bartimaeus jumped up and came to Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.51",
+      "edition_verse_id": "BSB:MRK.10.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "“What do you want Me to do for you?” Jesus asked. “Rabboni,” said the blind man, “let me see again.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.10.52",
+      "edition_verse_id": "BSB:MRK.10.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "“Go,” said Jesus, “your faith has healed you.” And immediately he received his sight and followed Jesus along the road.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

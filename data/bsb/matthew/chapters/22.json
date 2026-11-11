@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "MAT.22.1",
+      "edition_verse_id": "BSB:MAT.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Once again, Jesus spoke to them in parables:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.2",
+      "edition_verse_id": "BSB:MAT.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“The kingdom of heaven is like a king who prepared a wedding banquet for his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.3",
+      "edition_verse_id": "BSB:MAT.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He sent his servants to call those he had invited to the banquet, but they refused to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.4",
+      "edition_verse_id": "BSB:MAT.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Again, he sent other servants and said, ‘Tell those who have been invited that I have prepared my dinner. My oxen and fattened cattle have been killed, and everything is ready. Come to the wedding banquet.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.5",
+      "edition_verse_id": "BSB:MAT.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But they paid no attention and went away, one to his field, another to his business.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.6",
+      "edition_verse_id": "BSB:MAT.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The rest seized his servants, mistreated them, and killed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.7",
+      "edition_verse_id": "BSB:MAT.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The king was enraged, and he sent his troops to destroy those murderers and burn their city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.8",
+      "edition_verse_id": "BSB:MAT.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then he said to his servants, ‘The wedding banquet is ready, but those I invited were not worthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.9",
+      "edition_verse_id": "BSB:MAT.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Go therefore to the crossroads and invite to the banquet as many as you can find.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.10",
+      "edition_verse_id": "BSB:MAT.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So the servants went out into the streets and gathered everyone they could find, both evil and good, and the wedding hall was filled with guests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.11",
+      "edition_verse_id": "BSB:MAT.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But when the king came in to see the guests, he spotted a man who was not dressed in wedding clothes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.12",
+      "edition_verse_id": "BSB:MAT.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.13",
+      "edition_verse_id": "BSB:MAT.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the king told the servants, ‘Tie him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.14",
+      "edition_verse_id": "BSB:MAT.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For many are called, but few are chosen.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.15",
+      "edition_verse_id": "BSB:MAT.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the Pharisees went out and conspired to trap Jesus in His words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.16",
+      "edition_verse_id": "BSB:MAT.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They sent their disciples to Him along with the Herodians. “Teacher,” they said, “we know that You are honest and that You teach the way of God in accordance with the truth. You seek favor from no one, because You pay no attention to external appearance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.17",
+      "edition_verse_id": "BSB:MAT.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So tell us what You think: Is it lawful to pay taxes to Caesar or not?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.18",
+      "edition_verse_id": "BSB:MAT.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But Jesus knew their evil intent and said, “You hypocrites, why are you testing Me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.19",
+      "edition_verse_id": "BSB:MAT.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Show Me the coin used for the tax.” And they brought Him a denarius.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.20",
+      "edition_verse_id": "BSB:MAT.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“Whose image is this,” He asked, “and whose inscription?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.21",
+      "edition_verse_id": "BSB:MAT.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Caesar’s,” they answered. So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.22",
+      "edition_verse_id": "BSB:MAT.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when they heard this, they were amazed. So they left Him and went away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.23",
+      "edition_verse_id": "BSB:MAT.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "That same day the Sadducees, who say there is no resurrection, came to Jesus and questioned Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.24",
+      "edition_verse_id": "BSB:MAT.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.25",
+      "edition_verse_id": "BSB:MAT.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now there were seven brothers among us. The first one married and died without having children. So he left his wife to his brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.26",
+      "edition_verse_id": "BSB:MAT.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The same thing happened to the second and third brothers, down to the seventh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.27",
+      "edition_verse_id": "BSB:MAT.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And last of all, the woman died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.28",
+      "edition_verse_id": "BSB:MAT.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "In the resurrection, then, whose wife will she be of the seven? For all of them were married to her.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.29",
+      "edition_verse_id": "BSB:MAT.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Jesus answered, “You are mistaken because you do not know the Scriptures or the power of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.30",
+      "edition_verse_id": "BSB:MAT.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "In the resurrection, people will neither marry nor be given in marriage. Instead, they will be like the angels in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.31",
+      "edition_verse_id": "BSB:MAT.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But concerning the resurrection of the dead, have you not read what God said to you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.32",
+      "edition_verse_id": "BSB:MAT.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.33",
+      "edition_verse_id": "BSB:MAT.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When the crowds heard this, they were astonished at His teaching.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.34",
+      "edition_verse_id": "BSB:MAT.22.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And when the Pharisees heard that Jesus had silenced the Sadducees, they themselves gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.35",
+      "edition_verse_id": "BSB:MAT.22.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "One of them, an expert in the law, tested Him with a question:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.36",
+      "edition_verse_id": "BSB:MAT.22.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "“Teacher, which commandment is the greatest in the Law?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.37",
+      "edition_verse_id": "BSB:MAT.22.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Jesus declared, “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.38",
+      "edition_verse_id": "BSB:MAT.22.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "This is the first and greatest commandment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.39",
+      "edition_verse_id": "BSB:MAT.22.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And the second is like it: ‘Love your neighbor as yourself.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.40",
+      "edition_verse_id": "BSB:MAT.22.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "All the Law and the Prophets hang on these two commandments.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.41",
+      "edition_verse_id": "BSB:MAT.22.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "While the Pharisees were assembled, Jesus questioned them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.42",
+      "edition_verse_id": "BSB:MAT.22.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "“What do you think about the Christ? Whose son is He?” “David’s,” they answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.43",
+      "edition_verse_id": "BSB:MAT.22.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Jesus said to them, “How then does David in the Spirit call Him ‘Lord’? For he says:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.44",
+      "edition_verse_id": "BSB:MAT.22.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.22.45",
+      "edition_verse_id": "BSB:MAT.22.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "So if David calls Him ‘Lord,’ how can He be David’s son?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.22.46",
+      "edition_verse_id": "BSB:MAT.22.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "No one was able to answer a word, and from that day on no one dared to question Him any further.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

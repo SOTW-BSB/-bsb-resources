@@ -1,0 +1,548 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "MRK.1.1",
+      "edition_verse_id": "BSB:MRK.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the beginning of the gospel of Jesus Christ, the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.2",
+      "edition_verse_id": "BSB:MRK.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As it is written in Isaiah the prophet: “Behold, I will send My messenger ahead of You, who will prepare Your way.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.3",
+      "edition_verse_id": "BSB:MRK.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.4",
+      "edition_verse_id": "BSB:MRK.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.5",
+      "edition_verse_id": "BSB:MRK.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "People went out to him from all of Jerusalem and the countryside of Judea. Confessing their sins, they were baptized by him in the Jordan River.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.6",
+      "edition_verse_id": "BSB:MRK.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "John was clothed in camel’s hair, with a leather belt around his waist. His food was locusts and wild honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.7",
+      "edition_verse_id": "BSB:MRK.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he proclaimed: “After me will come One more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.8",
+      "edition_verse_id": "BSB:MRK.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I baptize you with water, but He will baptize you with the Holy Spirit.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.9",
+      "edition_verse_id": "BSB:MRK.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.10",
+      "edition_verse_id": "BSB:MRK.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As soon as Jesus came up out of the water, He saw the heavens breaking open and the Spirit descending on Him like a dove.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.11",
+      "edition_verse_id": "BSB:MRK.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.12",
+      "edition_verse_id": "BSB:MRK.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "At once the Spirit drove Jesus into the wilderness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.13",
+      "edition_verse_id": "BSB:MRK.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and He was there for forty days, being tempted by Satan. He was with the wild animals, and the angels ministered to Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.14",
+      "edition_verse_id": "BSB:MRK.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.15",
+      "edition_verse_id": "BSB:MRK.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.16",
+      "edition_verse_id": "BSB:MRK.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "As Jesus was walking beside the Sea of Galilee, He saw Simon and his brother Andrew. They were casting a net into the sea, for they were fishermen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.17",
+      "edition_verse_id": "BSB:MRK.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“Come, follow Me,” Jesus said, “and I will make you fishers of men.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.18",
+      "edition_verse_id": "BSB:MRK.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And at once they left their nets and followed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.19",
+      "edition_verse_id": "BSB:MRK.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Going on a little farther, He saw James son of Zebedee and his brother John. They were in a boat, mending their nets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.20",
+      "edition_verse_id": "BSB:MRK.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Immediately Jesus called them, and they left their father Zebedee in the boat with the hired men and followed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.21",
+      "edition_verse_id": "BSB:MRK.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Jesus and His companions went to Capernaum, and right away Jesus entered the synagogue on the Sabbath and began to teach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.22",
+      "edition_verse_id": "BSB:MRK.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The people were astonished at His teaching, because He taught as one who had authority, and not as the scribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.23",
+      "edition_verse_id": "BSB:MRK.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Suddenly a man with an unclean spirit cried out in the synagogue:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.24",
+      "edition_verse_id": "BSB:MRK.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“What do You want with us, Jesus of Nazareth? Have You come to destroy us? I know who You are — the Holy One of God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.25",
+      "edition_verse_id": "BSB:MRK.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But Jesus rebuked the spirit. “Be silent!” He said. “Come out of him!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.26",
+      "edition_verse_id": "BSB:MRK.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "At this, the unclean spirit threw the man into convulsions and came out with a loud shriek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.27",
+      "edition_verse_id": "BSB:MRK.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "All the people were amazed and began to ask one another, “What is this? A new teaching with authority! He commands even the unclean spirits, and they obey Him!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.28",
+      "edition_verse_id": "BSB:MRK.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the news about Jesus spread quickly through the whole region of Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.29",
+      "edition_verse_id": "BSB:MRK.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "As soon as Jesus and His companions had left the synagogue, they went with James and John to the home of Simon and Andrew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.30",
+      "edition_verse_id": "BSB:MRK.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Simon’s mother-in-law was sick in bed with a fever, and they promptly told Jesus about her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.31",
+      "edition_verse_id": "BSB:MRK.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So He went to her, took her by the hand, and helped her up. The fever left her, and she began to serve them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.32",
+      "edition_verse_id": "BSB:MRK.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "That evening, after sunset, people brought to Jesus all the sick and demon-possessed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.33",
+      "edition_verse_id": "BSB:MRK.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "and the whole town gathered at the door.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.34",
+      "edition_verse_id": "BSB:MRK.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And He healed many who were ill with various diseases and drove out many demons. But He would not allow the demons to speak, because they knew who He was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.35",
+      "edition_verse_id": "BSB:MRK.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Early in the morning, while it was still dark, Jesus got up and went out to a solitary place to pray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.36",
+      "edition_verse_id": "BSB:MRK.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Simon and his companions went to look for Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.37",
+      "edition_verse_id": "BSB:MRK.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "and when they found Him, they said, “Everyone is looking for You!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.38",
+      "edition_verse_id": "BSB:MRK.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But Jesus answered, “Let us go on to the neighboring towns so I can preach there as well, for that is why I have come.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.39",
+      "edition_verse_id": "BSB:MRK.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "So He went throughout Galilee, preaching in their synagogues and driving out demons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.40",
+      "edition_verse_id": "BSB:MRK.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Then a leper came to Jesus, begging on his knees: “If You are willing, You can make me clean.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.41",
+      "edition_verse_id": "BSB:MRK.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Moved with compassion, Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.42",
+      "edition_verse_id": "BSB:MRK.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And immediately the leprosy left him, and the man was cleansed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.43",
+      "edition_verse_id": "BSB:MRK.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Jesus promptly sent him away with a stern warning:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.1.44",
+      "edition_verse_id": "BSB:MRK.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "“See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.1.45",
+      "edition_verse_id": "BSB:MRK.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "But the man went out and openly began to proclaim and spread the news. Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

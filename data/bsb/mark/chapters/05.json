@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "MRK.5.1",
+      "edition_verse_id": "BSB:MRK.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On the other side of the sea, they arrived in the region of the Gerasenes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.2",
+      "edition_verse_id": "BSB:MRK.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As soon as Jesus got out of the boat, He was met by a man with an unclean spirit, who was coming from the tombs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.3",
+      "edition_verse_id": "BSB:MRK.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This man had been living in the tombs and could no longer be restrained, even with chains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.4",
+      "edition_verse_id": "BSB:MRK.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Though he was often bound with chains and shackles, he had broken the chains and shattered the shackles. Now there was no one with the strength to subdue him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.5",
+      "edition_verse_id": "BSB:MRK.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Night and day in the tombs and in the mountains he kept crying out and cutting himself with stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.6",
+      "edition_verse_id": "BSB:MRK.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When the man saw Jesus from a distance, he ran and fell on his knees before Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.7",
+      "edition_verse_id": "BSB:MRK.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And he shouted in a loud voice, “What do You want with me, Jesus, Son of the Most High God? I beg You before God not to torture me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.8",
+      "edition_verse_id": "BSB:MRK.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For Jesus had already declared, “Come out of this man, you unclean spirit!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.9",
+      "edition_verse_id": "BSB:MRK.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“What is your name?” Jesus asked. “My name is Legion,” he replied, “for we are many.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.10",
+      "edition_verse_id": "BSB:MRK.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he begged Jesus repeatedly not to send them out of that region.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.11",
+      "edition_verse_id": "BSB:MRK.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "There on the nearby hillside a large herd of pigs was feeding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.12",
+      "edition_verse_id": "BSB:MRK.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So the demons begged Jesus, “Send us to the pigs, so that we may enter them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.13",
+      "edition_verse_id": "BSB:MRK.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He gave them permission, and the unclean spirits came out and went into the pigs, and the herd of about two thousand rushed down the steep bank into the sea and drowned in the water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.14",
+      "edition_verse_id": "BSB:MRK.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Those tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.15",
+      "edition_verse_id": "BSB:MRK.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When they came to Jesus, they saw the man who had been possessed by the legion of demons sitting there, clothed and in his right mind; and they were afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.16",
+      "edition_verse_id": "BSB:MRK.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Those who had seen it described what had happened to the demon-possessed man and also to the pigs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.17",
+      "edition_verse_id": "BSB:MRK.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the people began to beg Jesus to leave their region.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.18",
+      "edition_verse_id": "BSB:MRK.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As He was getting into the boat, the man who had been possessed by the demons begged to go with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.19",
+      "edition_verse_id": "BSB:MRK.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But Jesus would not allow him. “Go home to your own people,” He said, “and tell them how much the Lord has done for you, and what mercy He has shown you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.20",
+      "edition_verse_id": "BSB:MRK.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So the man went away and began to proclaim throughout the Decapolis how much Jesus had done for him. And everyone was amazed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.21",
+      "edition_verse_id": "BSB:MRK.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When Jesus had again crossed by boat to the other side, a large crowd gathered around Him beside the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.22",
+      "edition_verse_id": "BSB:MRK.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "A synagogue leader named Jairus arrived, and seeing Jesus, he fell at His feet",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.23",
+      "edition_verse_id": "BSB:MRK.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and pleaded with Him urgently, “My little daughter is near death. Please come and place Your hands on her, so that she will be healed and live.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.24",
+      "edition_verse_id": "BSB:MRK.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So Jesus went with him, and a large crowd followed and pressed around Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.25",
+      "edition_verse_id": "BSB:MRK.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And a woman was there who had suffered from bleeding for twelve years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.26",
+      "edition_verse_id": "BSB:MRK.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "She had borne much agony under the care of many physicians and had spent all she had, but to no avail. Instead, her condition had only grown worse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.27",
+      "edition_verse_id": "BSB:MRK.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When the woman heard about Jesus, she came up through the crowd behind Him and touched His cloak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.28",
+      "edition_verse_id": "BSB:MRK.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For she kept saying, “If only I touch His garments, I will be healed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.29",
+      "edition_verse_id": "BSB:MRK.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Immediately her bleeding stopped, and she sensed in her body that she was healed of her affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.30",
+      "edition_verse_id": "BSB:MRK.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "At once Jesus was aware that power had gone out from Him. Turning to the crowd, He asked, “Who touched My garments?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.31",
+      "edition_verse_id": "BSB:MRK.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "His disciples answered, “You can see the crowd pressing in on You, and yet You ask, ‘Who touched Me?’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.32",
+      "edition_verse_id": "BSB:MRK.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But He kept looking around to see who had done this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.33",
+      "edition_verse_id": "BSB:MRK.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then the woman, knowing what had happened to her, came and fell down before Him trembling in fear, and she told Him the whole truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.34",
+      "edition_verse_id": "BSB:MRK.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“Daughter,” said Jesus, “your faith has healed you. Go in peace and be free of your affliction.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.35",
+      "edition_verse_id": "BSB:MRK.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "While He was still speaking, messengers from the house of Jairus arrived and said, “Your daughter is dead; why bother the Teacher anymore?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.36",
+      "edition_verse_id": "BSB:MRK.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But Jesus overheard their conversation and said to Jairus, “Do not be afraid; just believe.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.37",
+      "edition_verse_id": "BSB:MRK.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And He did not allow anyone to accompany Him except Peter, James, and John the brother of James.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.38",
+      "edition_verse_id": "BSB:MRK.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "When they arrived at the house of the synagogue leader, Jesus saw the commotion and the people weeping and wailing loudly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.39",
+      "edition_verse_id": "BSB:MRK.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "He went inside and asked, “Why all this commotion and weeping? The child is not dead, but asleep.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.40",
+      "edition_verse_id": "BSB:MRK.5.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And they laughed at Him. After He had put them all outside, He took the child’s father and mother and His own companions, and went in to see the child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.41",
+      "edition_verse_id": "BSB:MRK.5.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Taking her by the hand, Jesus said, “Talitha koum!” which means, “Little girl, I say to you, get up!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.5.42",
+      "edition_verse_id": "BSB:MRK.5.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Immediately the girl got up and began to walk around (she was twelve years old). And at once they were utterly astounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.5.43",
+      "edition_verse_id": "BSB:MRK.5.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Then Jesus gave strict orders that no one should know about this, and He told them to give her something to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

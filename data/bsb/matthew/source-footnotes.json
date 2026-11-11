@@ -1,0 +1,1185 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapters": {
+    "1": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 1:3 \\ft Greek \\fqa Aram\\ft , a variant of \\fqa Ram\\ft ; also in verse 4; see \\ref 1 Chronicles 2:9–10|1CH 2:9-10\\ref*.\\f*",
+          "raw_sha256": "eb2c22f48556f72b286595ed7fe9acfc4eb90e596970134a88b9e29513343a92"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 1:7 \\ft Greek \\fqa Asaph\\ft , a variant of \\fqa Asa\\ft ; also in verse 8; see \\ref 1 Chronicles 3:10|1CH 3:10\\ref*.\\f*",
+          "raw_sha256": "fffe23504e05d3069f22e2b3239cd03596247caebd1a3bdd3bd98674e06f7190"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\ft Greek \\fqa Amōs\\ft , a variant spelling of Amon; twice in this verse; see \\ref 1 Chronicles 3:14|1CH 3:14\\ref*.\\f*",
+          "raw_sha256": "f2c16454a2f37ff187b13f57917a395b87ce016e53e974d71a052f84eb00cbf2"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 1:21 \\fqa Jesus \\ft means \\fqa The LORD saves\\ft .\\f*",
+          "raw_sha256": "0c5a218dde5e1ba2fd386a948e804f3e1454354f2d6b89afb7106aa9961446e5"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 1:23 \\ft Literally \\fqa they will call His name Immanuel\\ft ; \\ref Isaiah 7:14|ISA 7:14\\ref* (see also DSS)\\f*",
+          "raw_sha256": "01ccf69efcd888dc32e2336d072e0db7493f032eeb37bccb0d3301bf7afe0416"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:23 \\ft See \\ref Isaiah 7:14|ISA 7:14\\ref*, Isaiah 8:8, and Isaiah 8:10.\\f*",
+          "raw_sha256": "0528b7c1982a27018d01081fa2cc342a596a328c552babc36497b467e2b34932"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 1:25 \\ft Literally \\fqa he did not know her\\f*",
+          "raw_sha256": "08b29eb3ec4c96cc0037656678f58b7147badfdbc28272b2d45d21166eee1f9f"
+        }
+      ]
+    },
+    "2": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 2:2 \\ft Or \\fqa as it rose\\f*",
+          "raw_sha256": "9ff11f10f5591a4c94d49843a7228ba4406da6df859b27ff83eda5166a7d463f"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft \\ref Micah 5:2|MIC 5:2\\ref*; see also 2 Samuel 5:2.\\f*",
+          "raw_sha256": "d753aedbd6b8ce3d12ac3a3c7f1c78697e6d7917e5586ec19ae4085a666a1f45"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 2:15 \\ft \\ref Hosea 11:1|HOS 11:1\\ref*\\f*",
+          "raw_sha256": "47a761ace2d775d2abf9870c1a87eae27b713432507428a2f14e0c9dfe238e9f"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 2:18 \\ft \\ref Jeremiah 31:15|JER 31:15\\ref*\\f*",
+          "raw_sha256": "c9007a2fbcde4a5c0e21caca323abcd060047c8a0b414b4176979c43b91418a9"
+        }
+      ]
+    },
+    "3": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft \\ref Isaiah 40:3|ISA 40:3\\ref* (see also LXX)\\f*",
+          "raw_sha256": "2faf8999f3e832a3417827300d22bd8e3b4498e4057b9714f251c51c8a0a8ba6"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft Or \\fqa in water\\f*",
+          "raw_sha256": "e037b410413c33483b8e0c4251545d198b24938d284b31c87eefb174e53ad7af"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft Or \\fqa in the Holy Spirit and in fire\\f*",
+          "raw_sha256": "9f00f13540beab5745978e8fd459643c8c8184f28d618d0b83c37ccaac8cd709"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft NA, BYZ, and TR \\fqa the heavens were opened to Him\\f*",
+          "raw_sha256": "af559f89be69bf104ad43951fc0670bba03ce7b3d6e7675cc08aa160adedea5c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft Or \\fqa and he saw\\ft ; see \\ref John 1:32–33|JHN 1:32-33\\ref*.\\f*",
+          "raw_sha256": "a0bf388df742cd821b7557e5b63b34e2bc5682742c21a0805a49a2ef1bd608c0"
+        }
+      ]
+    },
+    "4": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 4:4 \\ft \\ref Deuteronomy 8:3|DEU 8:3\\ref*\\f*",
+          "raw_sha256": "d7f0661731fb3515f4610326cc7e53ce3bdd43e5625b49853721198e0dde3d7d"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft \\ref Psalm 91:11–12|PSA 91:11-12\\ref*\\f*",
+          "raw_sha256": "f70c9336663059629d93a8e9571a501f3a8a314d1a887c9998089a467e7765cd"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft \\ref Deuteronomy 6:16|DEU 6:16\\ref*\\f*",
+          "raw_sha256": "6d889d18b62f655ee06a82fa51a36e9010de428cba8ad39000abcd0d0ca1b5ab"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 4:10 \\ft \\ref Deuteronomy 6:13|DEU 6:13\\ref*\\f*",
+          "raw_sha256": "24e1b0e2391a9607182bc5c0340b0c6c0bfbed653fd546d660ac01f1f49c59ac"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 4:16 \\ft \\ref Isaiah 9:1–2|ISA 9:1-2\\ref*\\f*",
+          "raw_sha256": "18ee749d9b9b6515c934aead84ec9ba70a94f1f88d8552018627b87e5c022541"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 4:25 \\ft That is, the Ten Cities\\f*",
+          "raw_sha256": "cbcda48e75b98b16edff3e857d7674d1989805d711f5eb203e45a8c57a87be57"
+        }
+      ]
+    },
+    "5": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 5:5 \\ft Or \\fqa Blessed are those who exercise strength under control, for they will inherit the land\\ft ; see \\ref Psalm 37:11|PSA 37:11\\ref*.\\f*",
+          "raw_sha256": "410a318518844947a652cb30b28a1630e99262248d66522b587876d1d659246e"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 5:14 \\ft Literally \\fqa A city lying on a hill\\f*",
+          "raw_sha256": "1c53df39f7370f764debe5b8c2d02bb762e04489e46c34b1f3a81a85d04f0211"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 5:21 \\ft \\ref Exodus 20:13|EXO 20:13\\ref*; Deuteronomy 5:17\\f*",
+          "raw_sha256": "90e8eaabaff04336829022fd466195b39c9b3a9868bf105794969819fcf695ab"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 5:22 \\ft BYZ and TR include \\fqa without cause\\ft .\\f*",
+          "raw_sha256": "80299974deeb8f005f12fffd60fdf5936046c9c428dedad73832de328fa722ac"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:22 \\fqa Raca \\ft is an Aramaic expression of contempt.\\f*",
+          "raw_sha256": "684fdc3934647be4f8b5393ea945fdfa74ffe8238876552c38bbf06821760424"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:22 \\ft Or \\fqa the Council\\f*",
+          "raw_sha256": "cf895ec89f0c28c9e312df3d2c95655b4ff5bb5d7dc0af96bc73f0c30bce3499"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:22 \\ft Or \\fqa the hell of fire\\ft ; Greek \\fqa the Gehenna of fire\\f*",
+          "raw_sha256": "3aa896c79913c810f964de17a420c6591d6fbcb34597afc74e162d50553dec24"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 5:26 \\ft Greek \\fqa kodrantēn\\ft ; that is, a Roman copper coin worth about 1/64 of a denarius\\f*",
+          "raw_sha256": "85ab4f48debaddc12c4b5ab7a806dc967e371ce8c5f621d8cfd24c0bf93d6b57"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 5:27 \\ft \\ref Exodus 20:14|EXO 20:14\\ref*; Deuteronomy 5:18\\f*",
+          "raw_sha256": "4c06a33aba90bba61b90c49048f85d181cde655d6558d71245efbe7dd68f93ef"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 5:29 \\ft Greek \\fqa Gehenna\\ft ; also in verse 30\\f*",
+          "raw_sha256": "9f0a61b387553ce52af2ef5dc8ddd59dfeb699f3c0457baa962166f80a7843b1"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 5:31 \\ft \\ref Deuteronomy 24:1|DEU 24:1\\ref*\\f*",
+          "raw_sha256": "8021e93a4f21a86f3e1c5722f8e98f654822be64cc37da8404e161fdfb48e799"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 5:32 \\ft Or \\fqa causes her to commit adultery\\f*",
+          "raw_sha256": "1facfaf4237439d0600944247129488e1b89324a6d4e0418df382538e572f6be"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 5:33 \\ft \\ref Numbers 30:2|NUM 30:2\\ref*\\f*",
+          "raw_sha256": "0f870d0760c9a248f9024cf9fb16ecc223dd90c12e08927620c8956eb2bd336e"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 5:37 \\ft Or \\fqa from evil\\f*",
+          "raw_sha256": "b2457fa51c07ccfd809b29e130fde0c9c5249978e98e8f70a2d39dfbee3c03c1"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 5:38 \\ft \\ref Exodus 21:24|EXO 21:24\\ref*; Leviticus 24:20; Deuteronomy 19:21\\f*",
+          "raw_sha256": "bdbb4fd392762662f13caa217ba389d78fb852fdb0c1b09f65cbc9359b4406f3"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 5:41 \\ft Greek \\fqa one milion\\ft ; that is, a Roman mile, approximately 4,855 feet or 1,480 meters\\f*",
+          "raw_sha256": "f4b040a54141a9cf555ee92b9941188f479ce1ae7d33dae0278fc9138729864d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:41 \\ft Literally \\fqa go with him two.\\f*",
+          "raw_sha256": "97ef72843d90f829bb1a916f789da511a6d58d6ab1385347751c3372092962b5"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 5:43 \\ft \\ref Leviticus 19:18|LEV 19:18\\ref*\\f*",
+          "raw_sha256": "d0a3ddcf8bac4c68cca8869b000a36e186b02e69c45684ea12435de39992a4ac"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 5:44 \\ft BYZ and TR \\fqa love your enemies, bless those who curse you, do good to those who hate you, and pray for those who spitefully accuse you and persecute you\\ft ; see \\ref Luke 6:27–28|LUK 6:27-28\\ref*.\\f*",
+          "raw_sha256": "fb823a42a3ab1bb4c57d62d489af2555f902231be8f87f8847dfeadac219f630"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\ft BYZ and TR \\fqa charitable acts \\ft or \\fqa alms\\f*",
+          "raw_sha256": "5474d1ef19d9e507c3302c36aae225b3de559b8142acf3260b243c0529993d6a"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 6:13 \\ft Or \\fqa from evil\\ft ; BYZ and TR include \\fqa For Yours is the kingdom and the power and the glory, forever. Amen.\\f*",
+          "raw_sha256": "6a8f2a2c19445c6af330df3773b87525293c6c61e30969cfc681c1e921daee6e"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 6:19 \\ft Or \\fqa worm\\ft ; also in verse 20\\f*",
+          "raw_sha256": "d643df672fca5374b40de065ffd76550e4374c4e7fcf7203e7bfd3c80b4cd2c8"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 6:22 \\ft Literally \\fqa If your eye is sound\\ft ; see \\ref Proverbs 22:9|PRO 22:9\\ref*\\f*",
+          "raw_sha256": "c8f08f0eb8b92ce1d5e5fa8ff128ea6b4f48fb268a6b4d643f555df4c92a711f"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 6:23 \\ft Literally \\fqa if your eye is evil\\ft ; see \\ref Proverbs 23:6|PRO 23:6\\ref* and Proverbs 28:22\\f*",
+          "raw_sha256": "ae165551c546627b9004d77b508e97c36044841667647a1f398d0b7ab5474036"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 6:27 \\ft Or \\fqa a single cubit to his height\\ft ; a cubit was approximately 18 inches or 45 centimeters.\\f*",
+          "raw_sha256": "a23e1ddcab962388306e108833cc0e296ba960112b98574bc2c6647a528792da"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 6:33 \\ft SBL, WH, and NE \\fqa seek first His kingdom\\ft ; see also \\ref Luke 12:31|LUK 12:31\\ref*.\\f*",
+          "raw_sha256": "6ee2c5c92d187ba5aaaa5e94e179f617f843b667f70bc4ecc55cb07e19c50ad4"
+        }
+      ]
+    },
+    "8": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 8:2 \\ft A \\fqa leper \\ft was one afflicted with a skin disease. See Leviticus 13.\\f*",
+          "raw_sha256": "f87448a98773c4c565f62b4c662191e368cd8fc087e19f567d06f35d194cc734"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 8:4 \\ft See \\ref Leviticus 14:1–32|LEV 14:1-32\\ref*.\\f*",
+          "raw_sha256": "aba95f1818deea8cc0822469190f92d9cefcd0658b49b9a6d9767fab5081d1fd"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 8:6 \\ft Or \\fqa child\\ft ; also in verses 8 and 13\\f*",
+          "raw_sha256": "70ed03a3e0389e45d02babebbddc56421db59507bebffb3948313e7f4ad027f2"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 8:17 \\ft \\ref Isaiah 53:4|ISA 53:4\\ref*\\f*",
+          "raw_sha256": "366cc925b52b5fc1466f7cb11efa6dc70ab7acf0d12ad2567830c947c3a09c2a"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 8:18 \\ft That is, the Sea of Galilee; Greek \\fqa to the other side\\f*",
+          "raw_sha256": "68376dfffc1be919432edb7cefca46d2bf691e2579d9035347110cceaf453859"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 8:28 \\ft BYZ, TR, and PT \\fqa Gergesenes\\ft ; other manuscripts \\fqa Gerasenes\\f*",
+          "raw_sha256": "c0715c4a8ee61bb8a7b00dca7e1d64aa5932326f70a3154a3b0e772820e06699"
+        }
+      ]
+    },
+    "9": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 9:2 \\ft Literally \\fqa And behold, they brought\\f*",
+          "raw_sha256": "16e3ff1f232f74138fa32f2df8d2c0e383900cfa90ae96efa8f04441d415221f"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 9:4 \\ft NA, BYZ, and TR \\fqa saw\\f*",
+          "raw_sha256": "c31016dbd417248bd1494f5282cc0e8e1d627d0022f424f3d7bfbf3d705a0249"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 9:13 \\ft \\ref Hosea 6:6|HOS 6:6\\ref*\\f*",
+          "raw_sha256": "441283c56688ca9b54b9f7cb8fe1e10ac385a45ed5722cdfdf13cf4e9c13ac03"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:13 \\ft BYZ and TR \\fqa but sinners, to repentance\\ft ; see \\ref Luke 5:32|LUK 5:32\\ref*.\\f*",
+          "raw_sha256": "5a6238cb65d7b08f4dccc4210f04dd02fe5c899368f1261980249932cb152338"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 9:14 \\ft NE and WH do not include \\fqa so often\\ft .\\f*",
+          "raw_sha256": "7c0c0f4c455b4b761a8b23f62f10cbe0097d8dc976d674002e617d6ef7b3e73b"
+        }
+      ]
+    },
+    "10": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 10:4 \\ft Greek \\fqa Simon the Cananean\\f*",
+          "raw_sha256": "f307dca31e13043c7d34150328de7b2176077e07783cc9be3d701c923b6deef8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:4 \\ft Literally \\fqa the one also having betrayed Him\\f*",
+          "raw_sha256": "cf09d6145899e05cb5fe04baf42d4d73958044a0255bfd9ee036771227ebd372"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 10:8 \\ft A \\fqa leper \\ft was one afflicted with a skin disease. See Leviticus 13.\\f*",
+          "raw_sha256": "3449b54af00a10f7683391a0cbd967bcbf6b7340e346f22ef04aa2fce16b973c"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 10:11 \\ft Literally \\fqa stay there\\f*",
+          "raw_sha256": "6648486e72c966f60846cacb7c3706e936f4b9958d28737746a541ac33d8de80"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 10:12 \\ft Literally \\fqa greet it\\f*",
+          "raw_sha256": "ded42e453878f0829ffe45e0616c9d7e6f1cf946e39622f1e32d4f040083eab1"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 10:25 \\ft WH \\fqa Beezeboul\\ft ; Vulgate \\fqa Beelzebub\\f*",
+          "raw_sha256": "275800baba4826b36fb5c51e3a2f6a70268babe80884771cbf452f9e0e800a7d"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 10:28 \\ft Greek \\fqa Gehenna\\f*",
+          "raw_sha256": "300ecdb09edaab7b3bfa35b3d54a0c307fddf71b35396fde8041ddf6a1a9da60"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 10:29 \\ft Greek \\fqa an assarion\\ft ; that is, a Roman copper coin worth about 1/16 of a denarius\\f*",
+          "raw_sha256": "544469107a3909b5c751cb52d8c97556539d9a168d33037899b114ab0f0e703e"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 10:36 \\ft \\ref Micah 7:6|MIC 7:6\\ref*\\f*",
+          "raw_sha256": "c87c1903d4079f09dbb22d3f9a05609ce5b7c84589009af482c450bfd56fec77"
+        }
+      ]
+    },
+    "11": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 11:1 \\ft That is, in the towns of Galilee\\f*",
+          "raw_sha256": "1391d992904d953489d2eb811a6bd1800ff3bc1505b26d9c127d06d944346032"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 11:2 \\ft BYZ and TR \\fqa he sent two of his disciples\\f*",
+          "raw_sha256": "7cb2f99fe957067ab1b6ed1e969d384f663ff1e9ddbdd10da18b913b60d21984"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 11:5 \\ft A \\fqa leper \\ft was one afflicted with a skin disease. See Leviticus 13.\\f*",
+          "raw_sha256": "747f8939d5859d349876fe20ec289448789f8c168301baa8fb1ccea8f13eb976"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 11:6 \\ft Or \\fqa who is not offended by Me\\f*",
+          "raw_sha256": "ab88f95d2f60e82c5f21689daa704dcf92c9648ccd2dceb813c1f36824578967"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 11:10 \\ft \\ref Malachi 3:1|MAL 3:1\\ref*\\f*",
+          "raw_sha256": "a6b21b7e03cf0aebefbc71e624c20b883d90773e338b195606caab7dcdfd0055"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 11:12 \\ft Or \\fqa has been forcefully advancing\\f*",
+          "raw_sha256": "9f00c77c69731995c5780b8038d11ca2d828ea873fbf5d4594554a6a15c55bde"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 11:14 \\ft See \\ref Malachi 4:5|MAL 4:5\\ref*.\\f*",
+          "raw_sha256": "ba2f69773493385d7a08352f985e4c38971f5098a3d5666fa22f867a39359c99"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 11:15 \\ft BYZ and TR \\fqa ears to hear\\f*",
+          "raw_sha256": "d18d165980174549b705717b533299a38a00f62973c2293914505784f5afb3a9"
+        }
+      ]
+    },
+    "12": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 12:4 \\ft Or \\fqa the Bread of the Presence\\f*",
+          "raw_sha256": "9a194152092149893a5c7894e28ab0cc8614946d410969555ada16a7dc4dce31"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 12:7 \\ft \\ref Hosea 6:6|HOS 6:6\\ref*\\f*",
+          "raw_sha256": "e6dd4ca369c89e3e7894749da1163d3564692ecf9446e2f14fddd5922255eb89"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 12:21 \\ft \\ref Isaiah 42:1–4|ISA 42:1-4\\ref* (see also LXX)\\f*",
+          "raw_sha256": "faa34bfb6a47c3ee409ae6da07e5f171531549624de11fc9175e09c8ed2928e4"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 12:24 \\ft WH \\fqa Beezeboul\\ft ; Vulgate \\fqa Beelzebub\\ft ; also in verse 27\\f*",
+          "raw_sha256": "f39679f87b995da16cd47f1834656b5497e7dd311775dbe3f7bb036eabfddb09"
+        }
+      ],
+      "47": [
+        {
+          "source_usfm": "\\f + \\fr 12:47 \\ft WH does not include verse 47.\\f*",
+          "raw_sha256": "6aa4e4a20ee77512f12d358a54abdc60e02538c62115da86a74f444bfd231391"
+        }
+      ]
+    },
+    "13": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 13:9 \\ft BYZ and TR \\fqa ears to hear\\ft ; also in verse 43\\f*",
+          "raw_sha256": "81101c5a028c637f5323b0adc76456daa2561cdbda7d33545a189c1b02323906"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 13:13 \\ft See \\ref Deuteronomy 29:4|DEU 29:4\\ref*, Isaiah 42:20, Jeremiah 5:21, and Ezekiel 12:2.\\f*",
+          "raw_sha256": "e7213525bee5529c0889984e030453d552598da8ddcf6db8bb1a7e176d6d078a"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 13:15 \\ft \\ref Isaiah 6:9–10|ISA 6:9-10\\ref* (see also LXX)\\f*",
+          "raw_sha256": "197fe221dbd03aa0166a37d18e7af6c28ab82550b350f0ea6d137b739bc1c29e"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 13:19 \\ft Literally \\fqa the one sown\\ft ; also in verses 20, 22, and 23\\f*",
+          "raw_sha256": "b4f67a088b8dc79d6c162810f2ad600749377f3e7be60f9ed593174dc03cf32c"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 13:35 \\ft \\ref Psalm 78:2|PSA 78:2\\ref* (see also LXX); SBL, NE, and WH do not include \\fqa of the world\\ft .\\f*",
+          "raw_sha256": "96ab86126164b2829379cb39140a84bcc11c051063cedcc1ce91a3fa0755a6d6"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 13:43 \\ft See \\ref Daniel 12:3|DAN 12:3\\ref*.\\f*",
+          "raw_sha256": "a837538a490f7de4b5d17d1bae0caad658f2fe9764445e2f75ffd849693a7ec3"
+        }
+      ],
+      "55": [
+        {
+          "source_usfm": "\\f + \\fr 13:55 \\ft BYZ and TR \\fqa Joses\\ft ; see \\ref Mark 6:3|MRK 6:3\\ref*.\\f*",
+          "raw_sha256": "48dfd941e8e480141b434ee5cc5ad9780a071a3940cddef6250214cdb2d7771b"
+        }
+      ]
+    },
+    "14": {
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 14:24 \\ft Greek \\fqa many stadia\\ft ; a stadion was about 607 feet or 185 meters\\f*",
+          "raw_sha256": "cc84c65148407a88373ef685535c48f373470dd9cbee7e3812658cfa9b92883d"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 14:25 \\ft That is, between three and six in the morning\\f*",
+          "raw_sha256": "6f30ea28c62984f2f47f03d7a2ef2fbe4bf50d38e18ff819c0a45c7e344c3980"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 14:30 \\ft Literally \\fqa when he saw the strong wind\\ft ; NE and WH do not include \\fqa strong\\ft .\\f*",
+          "raw_sha256": "0fecd603e44efa70914a69cdaddf4ba896af3404ae67ec26af3dfef2f5a470a8"
+        }
+      ]
+    },
+    "15": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 15:4 \\ft \\ref Exodus 20:12|EXO 20:12\\ref*; Deuteronomy 5:16\\f*",
+          "raw_sha256": "800830d168f2bd35d044a75251ffd9c6a48197c05b4a55fb681ee77337403a3a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:4 \\ft \\ref Exodus 21:17|EXO 21:17\\ref*; Leviticus 20:9\\f*",
+          "raw_sha256": "75bc68a17d6be0a4bd32175966b45ff2a09a6f939fd2e2d926ae3d9cdad6844a"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 15:6 \\ft NE and TR (see also \\ref Mark 7:12|MRK 7:12\\ref*); literally \\fqa he need not honor his father or mother\\ft ; SBL, NA, WH, and BYZ do not include \\fqa or mother\\ft .\\f*",
+          "raw_sha256": "786065f625202755abd4eb6382c453a7f76111569bd69bbf807b3f95dc8a3cb7"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 15:9 \\ft \\ref Isaiah 29:13|ISA 29:13\\ref* (see also LXX)\\f*",
+          "raw_sha256": "c05ddaed60e5d980024f3c0058febade7bbe2948bbc808c50f615d7583391734"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 15:14 \\ft Or \\fqa blind guides of the blind\\f*",
+          "raw_sha256": "07da0d42beb1b6ad133e10c530078457a880a610814671c130fbf4b26897c156"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 15:27 \\ft Or \\fqa puppies\\f*",
+          "raw_sha256": "62ec908b7df2a0990f22bababca63d4f4eba2f7e671a3bd166c9be44eafba828"
+        }
+      ]
+    },
+    "16": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 16:3 \\ft Several manuscripts do not include \\fqa When evening comes... of the times. \\ft from verses 2 and 3.\\f*",
+          "raw_sha256": "cb779fb3a968139767eacf326ac3aa17ec69df1d4adbf74e3f419743d9c08a7a"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 16:17 \\ft Greek \\fqa Simon Bar-Jonah\\f*",
+          "raw_sha256": "4375044e098800a511b2960e70141e8a7ba6fb20caaf1ccddbaa492ff4050ff0"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 16:21 \\ft NE and WH \\fqa Jesus Christ\\f*",
+          "raw_sha256": "8049211b7bd6e91d452f71d40cde5d60d7536d2b5bfb0d2dedb30d5c114988f0"
+        }
+      ]
+    },
+    "17": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 17:4 \\ft Or \\fqa three tabernacles\\f*",
+          "raw_sha256": "1d29364664f82bbe8f16bd1ccb50a653e75459c9b92c33b86652d0cdba4d5433"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 17:5 \\ft Cited in \\ref 2 Peter 1:17|2PE 1:17\\ref*\\f*",
+          "raw_sha256": "46239d8690142f378fdfce50cf534762e85879bdcedc7eac977b8d34bd08b507"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 17:20 \\ft BYZ and TR include \\fqa \\fv 21\\fv*But this kind does not come out except by prayer and fasting\\ft ; see \\ref Mark 9:29|MRK 9:29\\ref*.\\f*",
+          "raw_sha256": "faa65ab454e27caef7630c196ae1c3ac2875b37acb36b0dbe8eabf337c8f48ac"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 17:24 \\ft Greek \\fqa the didrachma\\ft ; twice in this verse\\f*",
+          "raw_sha256": "7b4bfc7aa8f0dacc02bfe5af5f7fb7abd3a285e7d60dca5cb57ff7c2af7328ea"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 17:27 \\ft Greek \\fqa a stater\\ft ; that is, a silver coin worth approximately one shekel\\f*",
+          "raw_sha256": "80c7e483bb11a59f49646af31dc7d2396ff0076fef66b6ffa3902196a6f2be32"
+        }
+      ]
+    },
+    "18": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 18:9 \\ft Or \\fqa the hell of fire\\ft ; Greek \\fqa the Gehenna of fire\\f*",
+          "raw_sha256": "e888a3a16ad59dfde6cfd1fce19e30bc0eba3c0e3c36edd5fb2f85eddfe49d6c"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 18:10 \\ft BYZ and TR include \\fqa \\fv 11\\fv*For the Son of Man came to save the lost\\ft ; see \\ref Luke 19:10|LUK 19:10\\ref*.\\f*",
+          "raw_sha256": "7fcccfc391d3c2ecd239a58e48dbf85d37246e8097e801dbaee3050563046fdc"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 18:15 \\ft NE and WH do not include \\fqa against you\\ft .\\f*",
+          "raw_sha256": "9a37ecb3c007a999397406a7d5e476dc2a69712cb7120447eccec9c0b7b1a89d"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 18:16 \\ft \\ref Deuteronomy 19:15|DEU 19:15\\ref*\\f*",
+          "raw_sha256": "0588576cd87c7720aabb49af8727b9ce5bf8a1ef24c63f89827c2379bfc14cf3"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 18:22 \\ft Or \\fqa seventy times seven\\ft ; see \\ref Genesis 4:24|GEN 4:24\\ref* LXX\\f*",
+          "raw_sha256": "8535bf9f62e0bd24f4c6d6715da9a3c37a1b4d8739758648749b9c2e41439e18"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 18:24 \\ft A talent was worth about twenty years’ wages for a laborer.\\f*",
+          "raw_sha256": "1c84af6bffa2645b2878808db6dbedea6fb80ec193722a453db65262067b8634"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 18:28 \\ft A denarius was customarily a day’s wage for a laborer; see \\ref Matthew 20:2|MAT 20:2\\ref*.\\f*",
+          "raw_sha256": "81853e8a62dde1f22e0eb0aede1944229a25e4f06b6af8f172fecbad9c3eb3fe"
+        }
+      ]
+    },
+    "19": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 19:4 \\ft \\ref Genesis 1:27|GEN 1:27\\ref*; Genesis 5:2\\f*",
+          "raw_sha256": "fa375f9770adfa81ab4fe51d397f095c4991d312efd279b4dc0eb42be1f4fc3d"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 19:5 \\ft \\ref Genesis 2:24|GEN 2:24\\ref* (see also LXX)\\f*",
+          "raw_sha256": "85204e27865714d0ce1db91fe85278f5759c3dc79b5e86734e8e387dc3091b38"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 19:7 \\ft See \\ref Deuteronomy 24:1|DEU 24:1\\ref*.\\f*",
+          "raw_sha256": "73464b9049f034f6a13d35696bcb4b89e3123ead055caac6259cc33292fce39c"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 19:9 \\ft SBL and BYZ include \\fqa And he who marries a divorced woman commits adultery\\ft ; see \\ref Matthew 5:32|MAT 5:32\\ref*.\\f*",
+          "raw_sha256": "588f354193f3019b0efb936efd9c6cef23774ab078112ab8c8b0c50999050da6"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 19:17 \\ft BYZ and TR \\fqa \\fv 16\\fv*...“Good Teacher, what good thing must I do to obtain eternal life?” \\fv 17\\fv*“Why do you call Me good?”\\ft See \\ref Mark 10:17–18|MRK 10:17-18\\ref* and Luke 18:18–19.\\f*",
+          "raw_sha256": "b4b0b42ea74565d59be7967ba126c57eb7e22e917cdd6c9005365c54072bf2bf"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 19:19 \\ft \\ref Exodus 20:12–16|EXO 20:12-16\\ref*; Leviticus 19:18; Deuteronomy 5:16–20\\f*",
+          "raw_sha256": "e7b97caccbc9fcb39d288e0ef24c65b64cdfa58ab1c3c89166c708fe8bc7eddc"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 19:28 \\ft Or \\fqa in the regeneration\\f*",
+          "raw_sha256": "5fe73da69c37fa1c00db192aedea60c0368f89e8d88d95e0597e1db9a2a5847e"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 19:29 \\ft NE, WH, and NA do not include \\fqa or wife\\ft .\\f*",
+          "raw_sha256": "b2f646bcd214a97735cff7624b1092ecff1d9c1ef10ec253345ac773e7773a38"
+        }
+      ]
+    },
+    "20": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 20:2 \\ft A denarius was customarily a day’s wage for a laborer; similarly in verses 9, 10, and 13.\\f*",
+          "raw_sha256": "f7faef3c83a765920617adc3c6fcdd4b8eac11f723e429f16313ef11352580be"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 20:3 \\ft That is, about nine in the morning\\f*",
+          "raw_sha256": "eb125dd38e316d5df27643ae3854f0a9ee9103ed81d4666fb0bbc507c3e9adac"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 20:5 \\ft That is, about noon and again about three in the afternoon\\f*",
+          "raw_sha256": "927f2c4dcef8972b739099f52af75948121a74a80a188a35d5756915cd9434e4"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 20:6 \\ft That is, about five in the afternoon; also in verse 9\\f*",
+          "raw_sha256": "b1e65ad583af4330d89a2078e3b9e7fc870afdeb5b5b8c6ed4274c4703cf6e68"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 20:7 \\ft BYZ and TR include \\fqa and whatever is right, you shall receive.\\f*",
+          "raw_sha256": "cab2826dcbb9de040bb193066bb2c397e12dc2590840c598cd49ab44e2516c91"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 20:16 \\ft BYZ and TR include \\fqa For many are called, but few are chosen.\\f*",
+          "raw_sha256": "910214d5a55cf6e4b983e29127f9ab8e62d00f313a219c9a522d3115b1b9920c"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 20:22 \\ft BYZ includes \\fqa or be baptized with the baptism with which I am baptized. \\ft TR is similar.\\f*",
+          "raw_sha256": "bd98d296416fca43ef56f84f3bdeff8b12c1089a5eb9163be2c0ff306244f70e"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 20:23 \\ft BYZ and TR include \\fqa and be baptized with the baptism with which I am baptized\\ft .\\f*",
+          "raw_sha256": "5c185d48652266e06d56eeb530bb9bfbb55e195750902ca6e7814331947a25cb"
+        }
+      ]
+    },
+    "21": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 21:5 \\ft \\ref Zechariah 9:9|ZEC 9:9\\ref*\\f*",
+          "raw_sha256": "db9385cf0ac573eee6f9e0a21917bea244380025dfc053f2ba83a1bd84d0c5cc"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 21:9 \\fqa Hosanna \\ft is a transliteration of the Hebrew \\fqa Hosia-na\\ft , meaning \\fqa Save, we pray \\ft or \\fqa Save now\\ft , which became a shout of praise; see \\ref Psalm 118:25|PSA 118:25\\ref*; also in verse 15.\\f*",
+          "raw_sha256": "4030511ef7391c686e065fb3fb92652fb519801bfff3ccfb3e75f6aa216c7527"
+        },
+        {
+          "source_usfm": "\\f + \\fr 21:9 \\ft \\ref Psalm 118:26|PSA 118:26\\ref*\\f*",
+          "raw_sha256": "e73afb80ab783fb27e309e1a4ffb7ba4ee3dc812af4e1a8af3fc39610e0bc0b1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 21:9 \\ft Or \\fqa “Hosanna in the highest heaven!”\\ft See \\ref Psalm 118:25|PSA 118:25\\ref* and Psalm 148:1.\\f*",
+          "raw_sha256": "e0f7717829c8eda683be075ec721a1d77ad4b73d9e3644aa2561d7cc4f1b50c8"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 21:12 \\ft Literally \\fqa the temple\\ft ; also in verses 15 and 23; BYZ and TR \\fqa the temple of God\\f*",
+          "raw_sha256": "93ee611c35caaa181535a6b28f94a076d5d48c8b060f2a53ab2f2dd14bf268ae"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 21:13 \\ft \\ref Isaiah 56:7|ISA 56:7\\ref*\\f*",
+          "raw_sha256": "6d84725970c45a8b997549129af381e10fb7a04939f1c7f9360825498278287f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 21:13 \\ft \\ref Jeremiah 7:11|JER 7:11\\ref*\\f*",
+          "raw_sha256": "0e51d4216d0be7af77b8fc19b279c78d35a4c0ee8ec8e9479b5566928bfeead3"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 21:16 \\ft \\ref Psalm 8:2|PSA 8:2\\ref* (see also LXX)\\f*",
+          "raw_sha256": "0fd6671471c46a1ca964d99587c012fc8a11506db4e8be50e04cf4fbe0451626"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 21:29 \\ft NE and WH \\fqa But he went.\\f*",
+          "raw_sha256": "38c6d792beb99767e21c4588cd0817f97a29be1ad1a8fe19495ce63b3c2d3cfe"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 21:31 \\ft NE and WH \\fqa The latter\\f*",
+          "raw_sha256": "67be3b6ebbfaf49b05884a600f7ae1604440de8a4d7828e723bf50e7c9c75d11"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 21:42 \\ft \\ref Psalm 118:22–23|PSA 118:22-23\\ref*\\f*",
+          "raw_sha256": "be87fb8fd36c00f4d16e08736596a30e32bbd348b96734f3bc670445ff9ae5d4"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 21:44 \\ft Tischendorf and some early manuscripts do not include verse 44; see also \\ref Luke 20:18|LUK 20:18\\ref*.\\f*",
+          "raw_sha256": "d1fab038788d86f9e1b89baae9f0a77d5d8779a01f961c4180dbbaace7012066"
+        }
+      ]
+    },
+    "22": {
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 22:19 \\ft A denarius was customarily a day’s wage for a laborer; see \\ref Matthew 20:2|MAT 20:2\\ref*.\\f*",
+          "raw_sha256": "7a785328d32e44c7137edead91d9f16d86981810ef52345cb72e0dfa119f980b"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 22:24 \\ft \\ref Deuteronomy 25:5|DEU 25:5\\ref*\\f*",
+          "raw_sha256": "6ce3c22a793195c39669d8e5158b666bf1a511d7b1a58b9fe7c05892810f672a"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 22:30 \\ft SBL, BYZ, and TR \\fqa the angels of God\\f*",
+          "raw_sha256": "f05c67f0fba0ea6ee20699c14c13f08c194d068676f2e3b9885d8d87c47da604"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 22:32 \\ft \\ref Exodus 3:6|EXO 3:6\\ref*\\f*",
+          "raw_sha256": "e3021e92efbd6f222fcee2e8ee40f7154d653472ad072dcc0aa2b7154d325a14"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 22:37 \\ft \\ref Deuteronomy 6:5|DEU 6:5\\ref*\\f*",
+          "raw_sha256": "f86412e36b3ee8ba679654aee35953fb942d2e77533145ef10b2302f1731dbf9"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 22:39 \\ft \\ref Leviticus 19:18|LEV 19:18\\ref*\\f*",
+          "raw_sha256": "da87d78de261067824d6a58dc4477c6a2a48caaa2edc4611a7d9910f03894e0f"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 22:44 \\ft \\ref Psalm 110:1|PSA 110:1\\ref*\\f*",
+          "raw_sha256": "ecfc8a0dbadf409cdfe6a317ab3ed9601f0b885b551122088fd0e96163f15735"
+        }
+      ]
+    },
+    "23": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 23:4 \\ft SBL, NE, and WH \\fqa They tie up heavy loads\\f*",
+          "raw_sha256": "94ebd17b2751ea5f532d61a2cbb5770168599c8adf2d1e9cefe589fd1b6128ea"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 23:7 \\ft Literally \\fqa and to be called ‘Rabbi’ by men\\f*",
+          "raw_sha256": "af9357b1b27e1748a6fb7e1c9eb8f1b0761c5e61c77994bc3090b5a6e59fb9b4"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 23:13 \\ft BYZ and TR include \\fqa \\fv 14\\fv*Woe to you, scribes and Pharisees, you hypocrites! You defraud widows of their houses, and for a show make lengthy prayers. Therefore you will receive greater condemnation.\\ft See \\ref Mark 12:40|MRK 12:40\\ref* and Luke 20:47.\\f*",
+          "raw_sha256": "e4b12c61274f84e0a4ef66d42648f0230f0751fb5ebeab03e05c76461e6aa053"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 23:15 \\ft Greek \\fqa Gehenna\\ft ; also in verse 33\\f*",
+          "raw_sha256": "3a882c3a74f4c113992bf11b573fdfc74e3fd71531f1d5fc967a9db90c5b67d6"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 23:24 \\ft See \\ref Leviticus 11:4|LEV 11:4\\ref* and Leviticus 11:23, where camels and gnats are both forbidden as food.\\f*",
+          "raw_sha256": "0676e74c4eda336d9d6f61f737b927e182a3c01ed01673dbbeddf1b0090205e1"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 23:26 \\ft NA does not include \\fqa and dish\\ft .\\f*",
+          "raw_sha256": "e64b02eb0a6775a1bee5b50e1b6c3af6957dea181a0b4e7b914f413a79006c80"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 23:32 \\ft Or \\fqa Go ahead, then, and complete\\f*",
+          "raw_sha256": "b09a674a17a3eb98eb1234e7b36d1c7fe88b8c68848da03137bde19042495945"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 23:38 \\ft NE and WH do not include \\fqa desolate\\ft .\\f*",
+          "raw_sha256": "26bd07a9d0dbdc5ea71809347824031004d5aa23689cdf2e899fe17a0125b3e0"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 23:39 \\ft \\ref Psalm 118:26|PSA 118:26\\ref*\\f*",
+          "raw_sha256": "f191299ef2b7d15263e2862600894905705bc22ff2cf3483c52837d1ac3ea770"
+        }
+      ]
+    },
+    "24": {
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 24:15 \\ft See \\ref Daniel 9:27|DAN 9:27\\ref*, Daniel 11:31, and Daniel 12:11.\\f*",
+          "raw_sha256": "89bd8e3a2e8733d7a30343db62196e0739151900c5b71d612f0f723b3977f59a"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 24:29 \\ft Or \\fqa and the celestial bodies will be shaken\\ft ; see \\ref Isaiah 13:10|ISA 13:10\\ref*, Isaiah 34:4, and Joel 2:10.\\f*",
+          "raw_sha256": "55d13262ebce995b67dcd8a564125d9fb8f8d51b4099d2be51cd3ee27489a4d6"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 24:30 \\ft Or \\fqa the sky\\ft ; twice in this verse\\f*",
+          "raw_sha256": "9dd283ec0384bd7ab888f462e08ec9a907cde67e70ec24a5a656525a4c31cbe8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 24:30 \\ft See \\ref Daniel 7:13–14|DAN 7:13-14\\ref*.\\f*",
+          "raw_sha256": "5acdcdeec2e7c65827fe956fb1cf9523460e713d5ac10ba5ba5804aa0e740c1a"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 24:32 \\ft Or \\fqa this parable\\f*",
+          "raw_sha256": "5e739d6af427a69d8a2e9cee213a89c5c0f6b6381be2ea71641f2af78dbaf4d8"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 24:33 \\ft Or \\fqa it is near\\f*",
+          "raw_sha256": "a85e28c8557b8426562d2ca781f931a90b0d08d242c99133d97d5fa96debdbf3"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 24:36 \\ft BYZ and TR do not include \\fqa nor the Son\\ft .\\f*",
+          "raw_sha256": "b5425b7f06238d25e06c14e8376cb02d7fc5d5370bf6de4c0dac88ad015ad4ce"
+        }
+      ]
+    },
+    "25": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 25:13 \\ft BYZ and TR include \\fqa when the Son of Man comes\\ft .\\f*",
+          "raw_sha256": "9dceb9107880cbc552b591e5054acc667345a28f5c5257a5ace1035f5ac431f5"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 25:15 \\ft A talent was worth about twenty years’ wages for a laborer.\\f*",
+          "raw_sha256": "e7e5b939c46787dafd96a565331e356ee4bcef881e828861c1dab75c9db908bc"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 25:16 \\ft Or \\fqa \\fv 15\\fv*... And he went on his journey at once. \\fv 16\\fv*... went and put them to work\\ft . Translators vary as to the placement of the Greek adverb \\fqa eutheōs \\ft (at once) at the end of verse 15 or at the beginning of verse 16.\\f*",
+          "raw_sha256": "00c296ee179e13e2f3bd93743dac820d2bc67226759bcda218aefdda5798bc04"
+        }
+      ]
+    },
+    "26": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 26:6 \\ft Aramaic \\fqa Simon the Potter \\ft or \\fqa Simon the Jar Maker\\f*",
+          "raw_sha256": "672fa8f732f48568bc2d8c695396ea596554f26f5158c477ec526b8575da12e9"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 26:11 \\ft See \\ref Deuteronomy 15:11|DEU 15:11\\ref*.\\f*",
+          "raw_sha256": "d6d7b0280fd6b2f39c17403275dbbeb17bcc21aed07f685da45ea7116a705c50"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 26:17 \\ft Literally \\fqa On the first of the Unleavened\\ft ; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "40fc26c43edcedc85f2973292ae0f2726190d418dca60725027371bf38cd14e2"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 26:20 \\ft BYZ and TR \\fqa the Twelve\\f*",
+          "raw_sha256": "cb9dc46dba7439f52c956715622109fbb46dc6562bf27c905cf1d07a13a38264"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 26:28 \\ft BYZ and TR \\fqa the new covenant\\f*",
+          "raw_sha256": "9e5bf3261ef915e7928c13d4f5d147efba588cebafcc26c88964571247329189"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 26:31 \\ft \\ref Zechariah 13:7|ZEC 13:7\\ref*\\f*",
+          "raw_sha256": "22ff8798fde5745522c799f95cbc765fddf0ab3372ccf31ad0a665656d1200d3"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 26:50 \\ft Or \\fqa “Friend,” Jesus replied, “for what have you come?”\\f*",
+          "raw_sha256": "483f58451ec8439026f917a21f578f223501db8890d85ecfe67ebebeee5fe63d"
+        }
+      ],
+      "55": [
+        {
+          "source_usfm": "\\f + \\fr 26:55 \\ft Literally \\fqa the temple\\f*",
+          "raw_sha256": "1586e1df2a58c4795cbe42197db12337c563fbfb0b20b09924b3b947bf5f29e9"
+        }
+      ],
+      "59": [
+        {
+          "source_usfm": "\\f + \\fr 26:59 \\ft Or \\fqa the whole Council\\f*",
+          "raw_sha256": "4a831c10c2d2be0ff4dced4ecdc52dde0569952ed954340fba0b28eb84228b54"
+        }
+      ],
+      "64": [
+        {
+          "source_usfm": "\\f + \\fr 26:64 \\ft Or \\fqa the right hand of the Mighty One\\f*",
+          "raw_sha256": "4c8af7b15d136478df3f257b0bd962382d27122671d40e568d4424f885287b96"
+        },
+        {
+          "source_usfm": "\\f + \\fr 26:64 \\ft See \\ref Psalm 110:1|PSA 110:1\\ref* and Daniel 7:13.\\f*",
+          "raw_sha256": "def2e02f24eda65d02c70e72e2380aae6050504a23fe015da7cb929af5a8d29d"
+        }
+      ]
+    },
+    "27": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 27:10 \\ft See \\ref Jeremiah 19:1–15|JER 19:1-15\\ref*, Jeremiah 32:6–9, and Zechariah 11:12–13.\\f*",
+          "raw_sha256": "18e518752c3e0d217725194913efcb920c9fc28dccf55a984bcb22484c37c8b2"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 27:16 \\ft SBL and NA \\fqa Jesus Barabbas\\ft ; also in verse 17, but universally called \\fqa Barabbas \\ft in verses 20, 21, and 26\\f*",
+          "raw_sha256": "9f8b629ca32845853ba31f536493c77c9565e9243c8d5b4fa69b7399ebf090c4"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 27:24 \\ft Literally \\fqa this blood\\ft ; BYZ and TR \\fqa this righteous blood\\f*",
+          "raw_sha256": "05d0c785fc1b9bd27b5715e4fbb8cf0a1154235e64d9106aad71c6f1886a19cc"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 27:35 \\ft See \\ref Psalm 22:18|PSA 22:18\\ref*; TR includes \\fqa to fulfill what was said through the prophet: “They divided My garments among them, and cast lots for My clothing.”\\f*",
+          "raw_sha256": "32b0ff7176733c42865ffc12229f0c92a6ab30b9b667a1ddbd1c8c0088be4b3e"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 27:38 \\ft Or \\fqa insurrectionists\\ft ; also in verse 44\\f*",
+          "raw_sha256": "b654f44c8578229459cac8faf5c490cb0e5f27041bdb560fab29362015d91c91"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 27:43 \\ft \\ref Psalm 22:8|PSA 22:8\\ref*\\f*",
+          "raw_sha256": "a5703fd2df3ceb8baa0a9a7f3aa6b2b6caeef78043af244a1ebc887abc978bcc"
+        }
+      ],
+      "45": [
+        {
+          "source_usfm": "\\f + \\fr 27:45 \\ft That is, from noon until three in the afternoon\\f*",
+          "raw_sha256": "0de46993c7ef2f4a5bddeca44c2c232f05076c56c6f4a7598fc962b438104264"
+        }
+      ],
+      "46": [
+        {
+          "source_usfm": "\\f + \\fr 27:46 \\ft NE and WH \\fqa Eloi, Eloi\\f*",
+          "raw_sha256": "8594402c09d39b61f7e5a5cc8de0475a05e16cdd0760e624dc27471b8363391f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:46 \\ft \\ref Psalm 22:1|PSA 22:1\\ref*\\f*",
+          "raw_sha256": "b264db2dafaf7ef844370ba6a4e5901a478ac3d9d01c267ad0aee12769d83cce"
+        }
+      ],
+      "48": [
+        {
+          "source_usfm": "\\f + \\fr 27:48 \\ft Or \\fqa filled it with wine vinegar\\f*",
+          "raw_sha256": "3398e9e3bdbccaf6450232da8d0f0c0f13f530620d342964d3c0a53dc5ac6400"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:48 \\ft See \\ref Psalm 69:21|PSA 69:21\\ref*.\\f*",
+          "raw_sha256": "b5f19515c77e391efdb78516e1f56415c8f1947706d8f318882b7b75a9cb7c8d"
+        }
+      ],
+      "49": [
+        {
+          "source_usfm": "\\f + \\fr 27:49 \\ft WH includes \\fqa And another took a spear and pierced His side, and water and blood flowed out\\ft ; see \\ref John 19:34|JHN 19:34\\ref*.\\f*",
+          "raw_sha256": "d153228ac643be65555965374e6565d50abb5879921fee7095a4a920514bcfe5"
+        }
+      ]
+    },
+    "28": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 28:1 \\ft Literally \\fqa Now after the Sabbaths, it being dawn toward the first of the Sabbaths,\\f*",
+          "raw_sha256": "cabb5e8888fb55565300b4ae3917856446c823897a6f187593d61510e118a295"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 28:6 \\ft BYZ and TR \\fqa where the Lord lay\\f*",
+          "raw_sha256": "4c6c34544409ed407d4b8fb3fe9976418853da9af3a4a553173afde92f670bae"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 28:9 \\ft BYZ and TR \\fqa They were going to tell His disciples, and suddenly\\f*",
+          "raw_sha256": "58e0ec1eb701cd89dc7595aada52240f8ec2cd97bdf20cae19c06a43b0df3b7d"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 28:19 \\ft Literally \\fqa Having gone, therefore, make disciples\\f*",
+          "raw_sha256": "39666af1e7decb67d22c984871c7ee990449795669f3e8bc3be63062d027d343"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

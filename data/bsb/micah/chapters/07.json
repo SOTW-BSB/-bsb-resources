@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MIC",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "MIC.7.1",
+      "edition_verse_id": "BSB:MIC.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Woe is me! For I am like one gathering summer fruit at the gleaning of the vineyard; there is no cluster to eat, no early fig that I crave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MIC.7.2",
+      "edition_verse_id": "BSB:MIC.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The godly man has perished from the earth; there is no one upright among men. They all lie in wait for blood; they hunt one another with a net.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.3",
+      "edition_verse_id": "BSB:MIC.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Both hands are skilled at evil; the prince and the judge demand a bribe. When the powerful utters his evil desire, they all conspire together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.4",
+      "edition_verse_id": "BSB:MIC.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The best of them is like a brier; the most upright is sharper than a hedge of thorns. The day for your watchmen has come, the day of your visitation. Now is the time of their confusion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.5",
+      "edition_verse_id": "BSB:MIC.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Do not rely on a friend; do not trust in a companion. Seal the doors of your mouth from her who lies in your arms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.6",
+      "edition_verse_id": "BSB:MIC.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For a son dishonors his father, a daughter rises against her mother, and a daughter-in-law against her mother-in-law. A man’s enemies are the members of his own household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.7",
+      "edition_verse_id": "BSB:MIC.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But as for me, I will look to the LORD; I will wait for the God of my salvation. My God will hear me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.8",
+      "edition_verse_id": "BSB:MIC.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Do not gloat over me, my enemy! Though I have fallen, I will arise; though I sit in darkness, the LORD will be my light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.9",
+      "edition_verse_id": "BSB:MIC.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Because I have sinned against Him, I must endure the rage of the LORD, until He argues my case and executes justice for me. He will bring me into the light; I will see His righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.10",
+      "edition_verse_id": "BSB:MIC.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then my enemy will see and will be covered with shame — she who said to me, “Where is the LORD your God?” My eyes will see her; at that time she will be trampled like mud in the streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.11",
+      "edition_verse_id": "BSB:MIC.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The day for rebuilding your walls will come — the day for extending your boundary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.12",
+      "edition_verse_id": "BSB:MIC.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "On that day they will come to you from Assyria and the cities of Egypt, even from Egypt to the Euphrates, from sea to sea and mountain to mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.13",
+      "edition_verse_id": "BSB:MIC.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the earth will become desolate because of its inhabitants, as the fruit of their deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.14",
+      "edition_verse_id": "BSB:MIC.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Shepherd with Your staff Your people, the flock of Your inheritance. They live alone in a woodland, surrounded by pastures. Let them graze in Bashan and Gilead, as in the days of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.15",
+      "edition_verse_id": "BSB:MIC.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As in the days when you came out of Egypt, I will show My wonders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.16",
+      "edition_verse_id": "BSB:MIC.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Nations will see and be ashamed, deprived of all their might. They will put their hands over their mouths, and their ears will become deaf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.17",
+      "edition_verse_id": "BSB:MIC.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They will lick the dust like a snake, like reptiles slithering on the ground. They will come trembling from their strongholds in the presence of the LORD our God; they will tremble in fear of You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.18",
+      "edition_verse_id": "BSB:MIC.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Who is a God like You, who pardons iniquity and passes over the transgression of the remnant of His inheritance — who does not retain His anger forever, because He delights in loving devotion?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.19",
+      "edition_verse_id": "BSB:MIC.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He will again have compassion on us; He will vanquish our iniquities. You will cast out all our sins into the depths of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MIC.7.20",
+      "edition_verse_id": "BSB:MIC.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You will show faithfulness to Jacob and loving devotion to Abraham, as You swore to our fathers from the days of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

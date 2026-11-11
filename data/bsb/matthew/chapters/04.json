@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "MAT.4.1",
+      "edition_verse_id": "BSB:MAT.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jesus was led by the Spirit into the wilderness to be tempted by the devil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.2",
+      "edition_verse_id": "BSB:MAT.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "After fasting forty days and forty nights, He was hungry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.3",
+      "edition_verse_id": "BSB:MAT.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The tempter came to Him and said, “If You are the Son of God, tell these stones to become bread.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.4",
+      "edition_verse_id": "BSB:MAT.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.5",
+      "edition_verse_id": "BSB:MAT.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the devil took Him to the holy city and set Him on the pinnacle of the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.6",
+      "edition_verse_id": "BSB:MAT.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“If You are the Son of God,” he said, “throw Yourself down. For it is written: ‘He will command His angels concerning You, and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.7",
+      "edition_verse_id": "BSB:MAT.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jesus replied, “It is also written: ‘Do not put the Lord your God to the test.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.8",
+      "edition_verse_id": "BSB:MAT.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Again, the devil took Him to a very high mountain and showed Him all the kingdoms of the world and their glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.9",
+      "edition_verse_id": "BSB:MAT.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“All this I will give You,” he said, “if You will fall down and worship me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.10",
+      "edition_verse_id": "BSB:MAT.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Away from Me, Satan!” Jesus told him. “For it is written: ‘Worship the Lord your God and serve Him only.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.11",
+      "edition_verse_id": "BSB:MAT.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then the devil left Him, and angels came and ministered to Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.12",
+      "edition_verse_id": "BSB:MAT.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When Jesus heard that John had been imprisoned, He withdrew to Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.13",
+      "edition_verse_id": "BSB:MAT.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Leaving Nazareth, He went and lived in Capernaum, which is by the sea in the region of Zebulun and Naphtali,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.14",
+      "edition_verse_id": "BSB:MAT.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "to fulfill what was spoken through the prophet Isaiah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.15",
+      "edition_verse_id": "BSB:MAT.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Land of Zebulun and land of Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.16",
+      "edition_verse_id": "BSB:MAT.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the people living in darkness have seen a great light; on those living in the land of the shadow of death, a light has dawned.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.17",
+      "edition_verse_id": "BSB:MAT.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "From that time on Jesus began to preach, “Repent, for the kingdom of heaven is near.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.18",
+      "edition_verse_id": "BSB:MAT.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As Jesus was walking beside the Sea of Galilee, He saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the sea, for they were fishermen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.19",
+      "edition_verse_id": "BSB:MAT.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“Come, follow Me,” Jesus said, “and I will make you fishers of men.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.20",
+      "edition_verse_id": "BSB:MAT.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And at once they left their nets and followed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.21",
+      "edition_verse_id": "BSB:MAT.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Going on from there, He saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, mending their nets. Jesus called them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.22",
+      "edition_verse_id": "BSB:MAT.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "and immediately they left the boat and their father and followed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.23",
+      "edition_verse_id": "BSB:MAT.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Jesus went throughout Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness among the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.4.24",
+      "edition_verse_id": "BSB:MAT.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "News about Him spread all over Syria, and people brought to Him all who were ill with various diseases, those suffering acute pain, the demon-possessed, those having seizures, and the paralyzed, and He healed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.4.25",
+      "edition_verse_id": "BSB:MAT.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Large crowds followed Him, having come from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

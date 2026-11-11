@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "MAT.7.1",
+      "edition_verse_id": "BSB:MAT.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Do not judge, or you will be judged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.2",
+      "edition_verse_id": "BSB:MAT.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For with the same judgment you pronounce, you will be judged, and with the measure you use, it will be measured to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.3",
+      "edition_verse_id": "BSB:MAT.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Why do you look at the speck in your brother’s eye but fail to notice the beam in your own eye?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.4",
+      "edition_verse_id": "BSB:MAT.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "How can you say to your brother, ‘Let me take the speck out of your eye,’ while there is still a beam in your own eye?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.5",
+      "edition_verse_id": "BSB:MAT.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.6",
+      "edition_verse_id": "BSB:MAT.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Do not give dogs what is holy; do not throw your pearls before swine. If you do, they may trample them under their feet, and then turn and tear you to pieces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.7",
+      "edition_verse_id": "BSB:MAT.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.8",
+      "edition_verse_id": "BSB:MAT.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.9",
+      "edition_verse_id": "BSB:MAT.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Which of you, if his son asks for bread, will give him a stone?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.10",
+      "edition_verse_id": "BSB:MAT.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Or if he asks for a fish, will give him a snake?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.11",
+      "edition_verse_id": "BSB:MAT.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.12",
+      "edition_verse_id": "BSB:MAT.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "In everything, then, do to others as you would have them do to you. For this is the essence of the Law and the Prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.13",
+      "edition_verse_id": "BSB:MAT.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Enter through the narrow gate. For wide is the gate and broad is the way that leads to destruction, and many enter through it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.14",
+      "edition_verse_id": "BSB:MAT.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But small is the gate and narrow the way that leads to life, and only a few find it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.15",
+      "edition_verse_id": "BSB:MAT.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Beware of false prophets. They come to you in sheep’s clothing, but inwardly they are ravenous wolves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.16",
+      "edition_verse_id": "BSB:MAT.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "By their fruit you will recognize them. Are grapes gathered from thornbushes, or figs from thistles?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.17",
+      "edition_verse_id": "BSB:MAT.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Likewise, every good tree bears good fruit, but a bad tree bears bad fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.18",
+      "edition_verse_id": "BSB:MAT.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.19",
+      "edition_verse_id": "BSB:MAT.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Every tree that does not bear good fruit is cut down and thrown into the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.20",
+      "edition_verse_id": "BSB:MAT.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So then, by their fruit you will recognize them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.21",
+      "edition_verse_id": "BSB:MAT.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Not everyone who says to Me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only he who does the will of My Father in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.22",
+      "edition_verse_id": "BSB:MAT.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.23",
+      "edition_verse_id": "BSB:MAT.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then I will tell them plainly, ‘I never knew you; depart from Me, you workers of lawlessness!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.24",
+      "edition_verse_id": "BSB:MAT.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Therefore everyone who hears these words of Mine and acts on them is like a wise man who built his house on the rock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.25",
+      "edition_verse_id": "BSB:MAT.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The rain fell, the torrents raged, and the winds blew and beat against that house; yet it did not fall, because its foundation was on the rock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.26",
+      "edition_verse_id": "BSB:MAT.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But everyone who hears these words of Mine and does not act on them is like a foolish man who built his house on sand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.27",
+      "edition_verse_id": "BSB:MAT.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The rain fell, the torrents raged, and the winds blew and beat against that house, and it fell— and great was its collapse!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.7.28",
+      "edition_verse_id": "BSB:MAT.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When Jesus had finished saying these things, the crowds were astonished at His teaching,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.7.29",
+      "edition_verse_id": "BSB:MAT.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "because He taught as one who had authority, and not as their scribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

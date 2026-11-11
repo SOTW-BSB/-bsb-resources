@@ -1,0 +1,272 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Genealogy of Jesus",
+        "\\s1 The Birth of Jesus"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Pilgrimage of the Magi",
+        "\\s1 The Flight to Egypt",
+        "\\s1 Weeping and Great Mourning",
+        "\\s1 The Return to Nazareth"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Mission of John the Baptist",
+        "\\s1 The Baptism of Jesus"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Temptation of Jesus",
+        "\\s1 Jesus Begins His Ministry",
+        "\\s1 The First Disciples",
+        "\\s1 Jesus Heals the Multitudes"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Sermon on the Mount",
+        "\\s1 The Beatitudes",
+        "\\s1 Salt and Light",
+        "\\s1 The Fulfillment of the Law",
+        "\\s1 Anger and Reconciliation",
+        "\\s1 Adultery",
+        "\\s1 Divorce",
+        "\\s1 Oaths and Vows",
+        "\\s1 Love Your Enemies"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Giving to the Needy",
+        "\\s1 The Lord’s Prayer",
+        "\\s1 Proper Fasting",
+        "\\s1 Treasures in Heaven",
+        "\\s1 The Lamp of the Body",
+        "\\s1 Do Not Worry"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Judging Others",
+        "\\s1 Ask, Seek, Knock",
+        "\\s1 The Narrow Gate",
+        "\\s1 A Tree and Its Fruit",
+        "\\s1 The House on the Rock",
+        "\\s1 The Authority of Jesus"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Leper’s Prayer",
+        "\\s1 The Faith of the Centurion",
+        "\\s1 Jesus Heals at Peter’s House",
+        "\\s1 The Cost of Discipleship",
+        "\\s1 Jesus Calms the Storm",
+        "\\s1 The Demons and the Pigs"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Jesus Heals a Paralytic",
+        "\\s1 Jesus Calls Matthew",
+        "\\s1 Questions about Fasting",
+        "\\s1 The Patches and the Wineskins",
+        "\\s1 The Healing Touch of Jesus",
+        "\\s1 Jesus Heals the Blind and Mute",
+        "\\s1 The Lord of the Harvest"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 The Twelve Apostles",
+        "\\s1 The Ministry of the Twelve",
+        "\\s1 Sheep among Wolves",
+        "\\s1 Fear God Alone",
+        "\\s1 Confessing Christ",
+        "\\s1 Not Peace but a Sword",
+        "\\s1 The Reward of Service"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 John’s Inquiry",
+        "\\s1 Jesus Testifies about John",
+        "\\s1 Woe to the Unrepentant",
+        "\\s1 Rest for the Weary"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Lord of the Sabbath",
+        "\\s1 Jesus Heals on the Sabbath",
+        "\\s1 God’s Chosen Servant",
+        "\\s1 A House Divided",
+        "\\s1 The Unpardonable Sin",
+        "\\s1 Good and Bad Fruit",
+        "\\s1 The Sign of Jonah",
+        "\\s1 An Unclean Spirit Returns",
+        "\\s1 Jesus’ Mother and Brothers"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 The Parable of the Sower",
+        "\\s1 The Purpose of Jesus’ Parables",
+        "\\s1 The Parable of the Sower Explained",
+        "\\s1 The Parable of the Weeds",
+        "\\s1 The Parable of the Mustard Seed",
+        "\\s1 The Parable of the Leaven",
+        "\\s1 I Will Open My Mouth in Parables",
+        "\\s1 The Parable of the Weeds Explained",
+        "\\s1 The Parables of the Treasure and the Pearl",
+        "\\s1 The Parable of the Net",
+        "\\s1 The Rejection at Nazareth"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 The Beheading of John",
+        "\\s1 The Feeding of the Five Thousand",
+        "\\s1 Jesus Walks on Water",
+        "\\s1 Jesus Heals at Gennesaret"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 The Tradition of the Elders",
+        "\\s1 What Defiles a Man",
+        "\\s1 The Faith of the Canaanite Woman",
+        "\\s1 The Feeding of the Four Thousand"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 The Demand for a Sign",
+        "\\s1 The Leaven of the Pharisees and Sadducees",
+        "\\s1 Peter’s Confession of Christ",
+        "\\s1 Christ’s Passion Foretold",
+        "\\s1 Take Up Your Cross"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 The Transfiguration",
+        "\\s1 The Boy with a Demon",
+        "\\s1 The Power of Faith",
+        "\\s1 The Second Prediction of the Passion",
+        "\\s1 The Temple Tax"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 The Greatest in the Kingdom",
+        "\\s1 Temptations and Trespasses",
+        "\\s1 The Parable of the Lost Sheep",
+        "\\s1 A Brother Who Sins",
+        "\\s1 Ask in My Name",
+        "\\s1 The Unforgiving Servant"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 Teachings about Divorce",
+        "\\s1 Jesus Blesses the Children",
+        "\\s1 The Rich Young Man"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 The Parable of the Workers",
+        "\\s1 The Third Prediction of the Passion",
+        "\\s1 A Mother’s Request",
+        "\\s1 The Blind Men by the Road"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 The Triumphal Entry",
+        "\\s1 Jesus Cleanses the Temple",
+        "\\s1 The Barren Fig Tree",
+        "\\s1 Jesus’ Authority Challenged",
+        "\\s1 The Parable of the Two Sons",
+        "\\s1 The Parable of the Wicked Tenants"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 The Parable of the Banquet",
+        "\\s1 Paying Taxes to Caesar",
+        "\\s1 The Sadducees and the Resurrection",
+        "\\s1 The Greatest Commandment",
+        "\\s1 Whose Son Is the Christ?"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 Woes to Scribes and Pharisees",
+        "\\s1 Lament over Jerusalem"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 Temple Destruction and Other Signs",
+        "\\s1 Witnessing to All Nations",
+        "\\s1 The Abomination of Desolation",
+        "\\s1 The Return of the Son of Man",
+        "\\s1 The Lesson of the Fig Tree",
+        "\\s1 Readiness at Any Hour"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 The Parable of the Ten Virgins",
+        "\\s1 The Parable of the Talents",
+        "\\s1 The Sheep and the Goats"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 The Plot to Kill Jesus",
+        "\\s1 Jesus Anointed at Bethany",
+        "\\s1 Judas Agrees to Betray Jesus",
+        "\\s1 Preparing the Passover",
+        "\\s1 The Last Supper",
+        "\\s1 Jesus Predicts Peter’s Denial",
+        "\\s1 Jesus Prays at Gethsemane",
+        "\\s1 The Betrayal of Jesus",
+        "\\s1 Jesus before the Sanhedrin",
+        "\\s1 Peter Denies Jesus"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 Jesus Delivered to Pilate",
+        "\\s1 Judas Hangs Himself",
+        "\\s1 Jesus before Pilate",
+        "\\s1 The Crowd Chooses Barabbas",
+        "\\s1 Pilate Washes His Hands",
+        "\\s1 The Soldiers Mock Jesus",
+        "\\s1 The Crucifixion",
+        "\\s1 The Death of Jesus",
+        "\\s1 The Burial of Jesus",
+        "\\s1 The Guards at the Tomb"
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 The Resurrection",
+        "\\s1 The Report of the Guards",
+        "\\s1 The Great Commission"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

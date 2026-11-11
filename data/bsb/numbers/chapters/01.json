@@ -1,0 +1,656 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "NUM.1.1",
+      "edition_verse_id": "BSB:NUM.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On the first day of the second month of the second year after the Israelites had come out of the land of Egypt, the LORD spoke to Moses in the Tent of Meeting in the Wilderness of Sinai. He said:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.2",
+      "edition_verse_id": "BSB:NUM.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Take a census of the whole congregation of Israel by their clans and families, listing every man by name, one by one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.3",
+      "edition_verse_id": "BSB:NUM.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You and Aaron are to number those who are twenty years of age or older by their divisions— everyone who can serve in Israel’s army.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.4",
+      "edition_verse_id": "BSB:NUM.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And one man from each tribe, the head of each family, must be there with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.5",
+      "edition_verse_id": "BSB:NUM.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "These are the names of the men who are to assist you: From the tribe of Reuben, Elizur son of Shedeur;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.6",
+      "edition_verse_id": "BSB:NUM.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "from Simeon, Shelumiel son of Zurishaddai;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.7",
+      "edition_verse_id": "BSB:NUM.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "from Judah, Nahshon son of Amminadab;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.8",
+      "edition_verse_id": "BSB:NUM.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "from Issachar, Nethanel son of Zuar;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.9",
+      "edition_verse_id": "BSB:NUM.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "from Zebulun, Eliab son of Helon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.10",
+      "edition_verse_id": "BSB:NUM.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "from the sons of Joseph: from Ephraim, Elishama son of Ammihud, and from Manasseh, Gamaliel son of Pedahzur;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.11",
+      "edition_verse_id": "BSB:NUM.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "from Benjamin, Abidan son of Gideoni;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.12",
+      "edition_verse_id": "BSB:NUM.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "from Dan, Ahiezer son of Ammishaddai;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.13",
+      "edition_verse_id": "BSB:NUM.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "from Asher, Pagiel son of Ocran;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.14",
+      "edition_verse_id": "BSB:NUM.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "from Gad, Eliasaph son of Deuel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.15",
+      "edition_verse_id": "BSB:NUM.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and from Naphtali, Ahira son of Enan.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.16",
+      "edition_verse_id": "BSB:NUM.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "These men were appointed from the congregation; they were the leaders of the tribes of their fathers, the heads of the clans of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.17",
+      "edition_verse_id": "BSB:NUM.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So Moses and Aaron took these men who had been designated by name,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.18",
+      "edition_verse_id": "BSB:NUM.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and on the first day of the second month they assembled the whole congregation and recorded their ancestry by clans and families, counting one by one the names of those twenty years of age or older,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.19",
+      "edition_verse_id": "BSB:NUM.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "just as the LORD had commanded Moses. So Moses numbered them in the Wilderness of Sinai:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.20",
+      "edition_verse_id": "BSB:NUM.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "From the sons of Reuben, the firstborn of Israel, according to the records of their clans and families, counting one by one the names of every male twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.21",
+      "edition_verse_id": "BSB:NUM.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Reuben numbered 46,500.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.22",
+      "edition_verse_id": "BSB:NUM.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "From the sons of Simeon, according to the records of their clans and families, counting one by one the names of every male twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.23",
+      "edition_verse_id": "BSB:NUM.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Simeon numbered 59,300.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.24",
+      "edition_verse_id": "BSB:NUM.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "From the sons of Gad, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.25",
+      "edition_verse_id": "BSB:NUM.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Gad numbered 45,650.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.26",
+      "edition_verse_id": "BSB:NUM.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "From the sons of Judah, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.27",
+      "edition_verse_id": "BSB:NUM.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Judah numbered 74,600.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.28",
+      "edition_verse_id": "BSB:NUM.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "From the sons of Issachar, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.29",
+      "edition_verse_id": "BSB:NUM.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Issachar numbered 54,400.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.30",
+      "edition_verse_id": "BSB:NUM.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "From the sons of Zebulun, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.31",
+      "edition_verse_id": "BSB:NUM.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Zebulun numbered 57,400.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.32",
+      "edition_verse_id": "BSB:NUM.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "From the sons of Joseph: From the sons of Ephraim, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.33",
+      "edition_verse_id": "BSB:NUM.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Ephraim numbered 40,500.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.34",
+      "edition_verse_id": "BSB:NUM.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And from the sons of Manasseh, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.35",
+      "edition_verse_id": "BSB:NUM.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Manasseh numbered 32,200.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.36",
+      "edition_verse_id": "BSB:NUM.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "From the sons of Benjamin, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.37",
+      "edition_verse_id": "BSB:NUM.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Benjamin numbered 35,400.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.38",
+      "edition_verse_id": "BSB:NUM.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "From the sons of Dan, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.39",
+      "edition_verse_id": "BSB:NUM.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Dan numbered 62,700.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.40",
+      "edition_verse_id": "BSB:NUM.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "From the sons of Asher, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.41",
+      "edition_verse_id": "BSB:NUM.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Asher numbered 41,500.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.42",
+      "edition_verse_id": "BSB:NUM.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "From the sons of Naphtali, according to the records of their clans and families, counting the names of all those twenty years of age or older who could serve in the army,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.43",
+      "edition_verse_id": "BSB:NUM.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "those registered to the tribe of Naphtali numbered 53,400.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.44",
+      "edition_verse_id": "BSB:NUM.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "These were the men numbered by Moses and Aaron, with the assistance of the twelve leaders of Israel, each one representing his family.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.45",
+      "edition_verse_id": "BSB:NUM.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "So all the Israelites twenty years of age or older who could serve in Israel’s army were counted according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.46",
+      "edition_verse_id": "BSB:NUM.1.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And all those counted totaled 603,550.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.47",
+      "edition_verse_id": "BSB:NUM.1.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The Levites, however, were not numbered along with them by the tribe of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.48",
+      "edition_verse_id": "BSB:NUM.1.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "For the LORD had said to Moses:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.49",
+      "edition_verse_id": "BSB:NUM.1.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "“Do not number the tribe of Levi in the census with the other Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.50",
+      "edition_verse_id": "BSB:NUM.1.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Instead, you are to appoint the Levites over the tabernacle of the Testimony, all its furnishings, and everything in it. They shall carry the tabernacle and all its articles, care for it, and camp around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.51",
+      "edition_verse_id": "BSB:NUM.1.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Whenever the tabernacle is to move, the Levites are to take it down, and whenever it is to be pitched, the Levites are to set it up. Any outsider who goes near it must be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.52",
+      "edition_verse_id": "BSB:NUM.1.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "The Israelites are to camp by their divisions, each man in his own camp and under his own standard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.1.53",
+      "edition_verse_id": "BSB:NUM.1.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "But the Levites are to camp around the tabernacle of the Testimony and watch over it, so that no wrath will fall on the congregation of Israel. So the Levites are responsible for the tabernacle of the Testimony.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.1.54",
+      "edition_verse_id": "BSB:NUM.1.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Thus the Israelites did everything just as the LORD had commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

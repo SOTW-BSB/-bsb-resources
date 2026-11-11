@@ -1,0 +1,53 @@
+{
+  "edition_id": "BSB",
+  "book_code": "NAM",
+  "chapters": {
+    "1": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft Literally \\fqa of her place\\f*",
+          "raw_sha256": "d0b624bde330f41e0e7857c356a950905067e2799d51aac6c89f963fdaf5a8a3"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Hebrew \\fqa Strengthen your loins!\\f*",
+          "raw_sha256": "c4839de3393dc644871d14d6bf6a2027cb594aec7e3bb91d0ff7bf4aa734c940"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 2:3 \\ft Hebrew; alternately, the spears may be of \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\ft ; LXX and Syriac \\fqa they are prepared, and the horsemen rush to and fro.\\f*",
+          "raw_sha256": "9564708af1e106280a81dd2bf0733a40b7f17918273ab42cd6a9343f62583901"
+        }
+      ]
+    },
+    "3": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft Hebrew \\fqa No-amon\\f*",
+          "raw_sha256": "5e352d96ad1edf47489481bd163c340dfa2b5443743962e810b34c7764b2f4b6"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "ae6c89ae2c90772deaececce1531c33f10507455d655356d6a10b3fdc2484d25"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 3:17 \\ft Or \\fqa princes\\f*",
+          "raw_sha256": "4395f11bd7b9501ac18a51cc90f9e6549c9fee4fd7c1ee94e9de337acc0a8e20"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:17 \\ft Or \\fqa marshals\\f*",
+          "raw_sha256": "b386d07f93e0cd8499f1e1b9fcdae77ae52ad6be04d77c8e0f0777d1e5feb89f"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

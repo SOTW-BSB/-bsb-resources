@@ -1,0 +1,264 @@
+{
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The First Census of Israel",
+        "\\s1 The Leaders of the Tribes",
+        "\\s1 The Number of Every Tribe",
+        "\\s1 The Exemption of the Levites"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Order of the Camps"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Sons of Aaron",
+        "\\s1 The Duties of the Levites",
+        "\\s1 The Numbering of the Levites",
+        "\\s1 The Gershonites",
+        "\\s1 The Kohathites",
+        "\\s1 The Merarites",
+        "\\s1 Moses and Aaron",
+        "\\s1 The Redemption of the Firstborn"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Duties of the Kohathites",
+        "\\s1 The Duties of the Gershonites",
+        "\\s1 The Duties of the Merarites",
+        "\\s1 The Numbering of the Levite Clans"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Cleansing the Camps",
+        "\\s1 Confession and Restitution",
+        "\\s1 The Adultery Test"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Nazirite Vow",
+        "\\s1 Aaron’s Blessing"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Offerings of Dedication"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Lampstand",
+        "\\s1 Cleansing the Levites",
+        "\\s1 Retirement for Levites"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Second Passover",
+        "\\s1 The Cloud above the Tabernacle"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 The Two Silver Trumpets",
+        "\\s1 From Sinai to Paran"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Complaints of the People",
+        "\\s1 The Complaint of Moses",
+        "\\s1 Seventy Elders Anointed",
+        "\\s1 The Quail and the Plague"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Complaint of Miriam and Aaron"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 The Spies Explore Canaan",
+        "\\s1 The Reports of the Spies"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Israel’s Rebellion",
+        "\\s1 Moses Intercedes for Israel",
+        "\\s1 God’s Forgiveness and Judgment",
+        "\\s1 The Plague on the Ten Spies",
+        "\\s1 The Defeat at Hormah"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Laws about Offerings",
+        "\\s1 Offerings for Unintentional Sins",
+        "\\s1 A Sabbath-Breaker Stoned",
+        "\\s1 The Law of Tassels"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Korah’s Rebellion",
+        "\\s1 Moses Separates the People",
+        "\\s1 The Earth Swallows Korah",
+        "\\s1 The Censers Reserved for Holy Use",
+        "\\s1 Murmuring and Plague"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 Aaron’s Staff Buds"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 Duties of Priests and Levites",
+        "\\s1 Offerings for Priests and Levites"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 The Red Heifer",
+        "\\s1 Purification of the Unclean"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Water from the Rock",
+        "\\s1 Edom Refuses Passage",
+        "\\s1 The Death of Aaron"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 The Defeat of Arad",
+        "\\s1 The Bronze Serpent",
+        "\\s1 The Journey to Moab",
+        "\\s1 The Defeat of Sihon",
+        "\\s1 The Defeat of Og"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 Balak Summons Balaam",
+        "\\s1 The Angel and Balaam’s Donkey"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 Balaam’s First Oracle",
+        "\\s1 Balaam’s Second Oracle"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 Balaam’s Third Oracle",
+        "\\s1 Balak Dismisses Balaam",
+        "\\s1 Balaam’s Fourth Oracle",
+        "\\s1 Balaam’s Final Three Oracles"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 Moab Seduces Israel",
+        "\\s1 The Zeal of Phinehas"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 The Second Census of Israel",
+        "\\s1 The Tribe of Reuben",
+        "\\s1 The Tribe of Simeon",
+        "\\s1 The Tribe of Gad",
+        "\\s1 The Tribe of Judah",
+        "\\s1 The Tribe of Issachar",
+        "\\s1 The Tribe of Zebulun",
+        "\\s1 The Tribe of Manasseh",
+        "\\s1 The Tribe of Ephraim",
+        "\\s1 The Tribe of Benjamin",
+        "\\s1 The Tribe of Dan",
+        "\\s1 The Tribe of Asher",
+        "\\s1 The Tribe of Naphtali",
+        "\\s1 Inheritance by Lot",
+        "\\s1 The Levites Numbered",
+        "\\s1 Only Caleb and Joshua Remain"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 The Daughters of Zelophehad",
+        "\\s1 Moses Requests a Successor",
+        "\\s1 Joshua to Succeed Moses"
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 The Daily Offerings",
+        "\\s1 The Sabbath Offerings",
+        "\\s1 The Monthly Offerings",
+        "\\s1 Passover and the Feast of Unleavened Bread",
+        "\\s1 The Feast of Weeks"
+      ]
+    },
+    "29": {
+      "source_headings": [
+        "\\s1 The Feast of Trumpets",
+        "\\s1 The Day of Atonement",
+        "\\s1 The Feast of Tabernacles"
+      ]
+    },
+    "30": {
+      "source_headings": [
+        "\\s1 Laws about Vows"
+      ]
+    },
+    "31": {
+      "source_headings": [
+        "\\s1 Vengeance on Midian",
+        "\\s1 Division of the Spoils",
+        "\\s1 The Voluntary Offering"
+      ]
+    },
+    "32": {
+      "source_headings": [
+        "\\s1 The Tribes East of the Jordan"
+      ]
+    },
+    "33": {
+      "source_headings": [
+        "\\s1 Forty-Two Journeys of the Israelites",
+        "\\s1 Instructions for Occupying Canaan"
+      ]
+    },
+    "34": {
+      "source_headings": [
+        "\\s1 The Boundaries of Canaan",
+        "\\s1 Leaders to Divide the Land"
+      ]
+    },
+    "35": {
+      "source_headings": [
+        "\\s1 Forty-Eight Cities for the Levites",
+        "\\s1 Six Cities of Refuge"
+      ]
+    },
+    "36": {
+      "source_headings": [
+        "\\s1 Zelophehad’s Daughters Marry"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

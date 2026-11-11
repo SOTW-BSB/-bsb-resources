@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "MRK.3.1",
+      "edition_verse_id": "BSB:MRK.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Once again Jesus entered the synagogue, and a man with a withered hand was there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.2",
+      "edition_verse_id": "BSB:MRK.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In order to accuse Jesus, they were watching to see if He would heal on the Sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.3",
+      "edition_verse_id": "BSB:MRK.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Jesus said to the man with the withered hand, “Stand up among us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.4",
+      "edition_verse_id": "BSB:MRK.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And He asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?” But they were silent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.5",
+      "edition_verse_id": "BSB:MRK.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, “Stretch out your hand.” So he stretched it out, and it was restored.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.6",
+      "edition_verse_id": "BSB:MRK.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "At this, the Pharisees went out and began plotting with the Herodians how they might kill Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.7",
+      "edition_verse_id": "BSB:MRK.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So Jesus withdrew with His disciples to the sea, accompanied by a large crowd from Galilee, Judea,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.8",
+      "edition_verse_id": "BSB:MRK.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jerusalem, Idumea, the region beyond the Jordan, and the vicinity of Tyre and Sidon. The large crowd came to Him when they heard what great things He was doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.9",
+      "edition_verse_id": "BSB:MRK.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Jesus asked His disciples to have a boat ready for Him so that the crowd would not crush Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.10",
+      "edition_verse_id": "BSB:MRK.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For He had healed so many that all who had diseases were pressing forward to touch Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.11",
+      "edition_verse_id": "BSB:MRK.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when the unclean spirits saw Him, they fell down before Him and cried out, “You are the Son of God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.12",
+      "edition_verse_id": "BSB:MRK.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But He warned them sternly not to make Him known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.13",
+      "edition_verse_id": "BSB:MRK.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Jesus went up on the mountain and called for those He wanted, and they came to Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.14",
+      "edition_verse_id": "BSB:MRK.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He appointed twelve of them, whom He designated as apostles, to accompany Him, to be sent out to preach,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.15",
+      "edition_verse_id": "BSB:MRK.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and to have authority to drive out demons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.16",
+      "edition_verse_id": "BSB:MRK.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "These are the twelve He appointed: Simon (whom He named Peter),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.17",
+      "edition_verse_id": "BSB:MRK.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "James son of Zebedee and his brother John ( whom He named Boanerges, meaning “Sons of Thunder”),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.18",
+      "edition_verse_id": "BSB:MRK.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.19",
+      "edition_verse_id": "BSB:MRK.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and Judas Iscariot, who betrayed Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.20",
+      "edition_verse_id": "BSB:MRK.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Jesus went home, and once again a crowd gathered, so that He and His disciples could not even eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.21",
+      "edition_verse_id": "BSB:MRK.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When His family heard about this, they went out to take custody of Him, saying, “He is out of His mind.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.22",
+      "edition_verse_id": "BSB:MRK.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And the scribes who had come down from Jerusalem were saying, “He is possessed by Beelzebul,” and, “By the prince of the demons He drives out demons.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.23",
+      "edition_verse_id": "BSB:MRK.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So Jesus called them together and began to speak to them in parables: “How can Satan drive out Satan?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.24",
+      "edition_verse_id": "BSB:MRK.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "If a kingdom is divided against itself, it cannot stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.25",
+      "edition_verse_id": "BSB:MRK.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "If a house is divided against itself, it cannot stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.26",
+      "edition_verse_id": "BSB:MRK.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And if Satan is divided and rises against himself, he cannot stand; his end has come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.27",
+      "edition_verse_id": "BSB:MRK.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Indeed, no one can enter a strong man’s house to steal his possessions unless he first ties up the strong man. Then he can plunder his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.28",
+      "edition_verse_id": "BSB:MRK.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Truly I tell you, the sons of men will be forgiven all sins and blasphemies, as many as they utter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.29",
+      "edition_verse_id": "BSB:MRK.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But whoever blasphemes against the Holy Spirit will never be forgiven; he is guilty of eternal sin.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.30",
+      "edition_verse_id": "BSB:MRK.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Jesus made this statement because they were saying, “He has an unclean spirit.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.31",
+      "edition_verse_id": "BSB:MRK.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then Jesus’ mother and brothers came and stood outside. They sent someone in to summon Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.32",
+      "edition_verse_id": "BSB:MRK.3.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "and a crowd was sitting around Him. “Look,” He was told, “Your mother and brothers are outside, asking for You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.33",
+      "edition_verse_id": "BSB:MRK.3.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But Jesus replied, “Who are My mother and My brothers?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.3.34",
+      "edition_verse_id": "BSB:MRK.3.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Looking at those seated in a circle around Him, He said, “Here are My mother and My brothers!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.3.35",
+      "edition_verse_id": "BSB:MRK.3.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For whoever does the will of God is My brother and sister and mother.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

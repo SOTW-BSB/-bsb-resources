@@ -1,0 +1,22 @@
+{
+  "edition_id": "BSB",
+  "book_code": "NAM",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Burden against Nineveh"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Overthrow of Nineveh"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Judgment on Nineveh"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "MAT.6.1",
+      "edition_verse_id": "BSB:MAT.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Be careful not to perform your righteous acts before men to be seen by them. If you do, you will have no reward from your Father in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.2",
+      "edition_verse_id": "BSB:MAT.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So when you give to the needy, do not sound a trumpet before you, as the hypocrites do in the synagogues and on the streets, to be honored by men. Truly I tell you, they already have their full reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.3",
+      "edition_verse_id": "BSB:MAT.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But when you give to the needy, do not let your left hand know what your right hand is doing,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.4",
+      "edition_verse_id": "BSB:MAT.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "so that your giving may be in secret. And your Father, who sees what is done in secret, will reward you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.5",
+      "edition_verse_id": "BSB:MAT.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when you pray, do not be like the hypocrites. For they love to pray standing in the synagogues and on the street corners to be seen by men. Truly I tell you, they already have their full reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.6",
+      "edition_verse_id": "BSB:MAT.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But when you pray, go into your inner room, shut your door, and pray to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.7",
+      "edition_verse_id": "BSB:MAT.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when you pray, do not babble on like pagans, for they think that by their many words they will be heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.8",
+      "edition_verse_id": "BSB:MAT.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Do not be like them, for your Father knows what you need before you ask Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.9",
+      "edition_verse_id": "BSB:MAT.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So then, this is how you should pray: ‘Our Father in heaven, hallowed be Your name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.10",
+      "edition_verse_id": "BSB:MAT.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Your kingdom come, Your will be done, on earth as it is in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.11",
+      "edition_verse_id": "BSB:MAT.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Give us this day our daily bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.12",
+      "edition_verse_id": "BSB:MAT.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And forgive us our debts, as we also have forgiven our debtors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.13",
+      "edition_verse_id": "BSB:MAT.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And lead us not into temptation, but deliver us from the evil one.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.14",
+      "edition_verse_id": "BSB:MAT.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For if you forgive men their trespasses, your heavenly Father will also forgive you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.15",
+      "edition_verse_id": "BSB:MAT.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But if you do not forgive men their trespasses, neither will your Father forgive yours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.16",
+      "edition_verse_id": "BSB:MAT.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When you fast, do not be somber like the hypocrites, for they disfigure their faces to show men they are fasting. Truly I tell you, they already have their full reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.17",
+      "edition_verse_id": "BSB:MAT.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But when you fast, anoint your head and wash your face,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.18",
+      "edition_verse_id": "BSB:MAT.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "so that your fasting will not be obvious to men, but only to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.19",
+      "edition_verse_id": "BSB:MAT.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Do not store up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.20",
+      "edition_verse_id": "BSB:MAT.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But store up for yourselves treasures in heaven, where moth and rust do not destroy, and where thieves do not break in and steal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.21",
+      "edition_verse_id": "BSB:MAT.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For where your treasure is, there your heart will be also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.22",
+      "edition_verse_id": "BSB:MAT.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The eye is the lamp of the body. If your eyes are good, your whole body will be full of light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.23",
+      "edition_verse_id": "BSB:MAT.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.24",
+      "edition_verse_id": "BSB:MAT.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "No one can serve two masters: Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.25",
+      "edition_verse_id": "BSB:MAT.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.26",
+      "edition_verse_id": "BSB:MAT.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Look at the birds of the air: They do not sow or reap or gather into barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.27",
+      "edition_verse_id": "BSB:MAT.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Who of you by worrying can add a single hour to his life?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.28",
+      "edition_verse_id": "BSB:MAT.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.29",
+      "edition_verse_id": "BSB:MAT.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Yet I tell you that not even Solomon in all his glory was adorned like one of these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.30",
+      "edition_verse_id": "BSB:MAT.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, will He not much more clothe you, O you of little faith?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.31",
+      "edition_verse_id": "BSB:MAT.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Therefore do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.6.32",
+      "edition_verse_id": "BSB:MAT.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For the Gentiles strive after all these things, and your heavenly Father knows that you need them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.33",
+      "edition_verse_id": "BSB:MAT.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But seek first the kingdom of God and His righteousness, and all these things will be added unto you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.6.34",
+      "edition_verse_id": "BSB:MAT.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Today has enough trouble of its own.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

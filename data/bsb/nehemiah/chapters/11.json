@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NEH",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "NEH.11.1",
+      "edition_verse_id": "BSB:NEH.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine were to dwell in their own towns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.2",
+      "edition_verse_id": "BSB:NEH.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the people blessed all the men who volunteered to live in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.3",
+      "edition_verse_id": "BSB:NEH.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "These are the heads of the provinces who settled in Jerusalem. (In the villages of Judah, however, each lived on his own property in their towns— the Israelites, priests, Levites, temple servants, and descendants of Solomon’s servants—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.4",
+      "edition_verse_id": "BSB:NEH.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "while some of the descendants of Judah and Benjamin settled in Jerusalem.) From the descendants of Judah: Athaiah son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.5",
+      "edition_verse_id": "BSB:NEH.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and Maaseiah son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, a descendant of Shelah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.6",
+      "edition_verse_id": "BSB:NEH.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The descendants of Perez who settled in Jerusalem totaled 468 men of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.7",
+      "edition_verse_id": "BSB:NEH.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "From the descendants of Benjamin: Sallu son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jeshaiah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.8",
+      "edition_verse_id": "BSB:NEH.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and his followers Gabbai and Sallai — 928 men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.9",
+      "edition_verse_id": "BSB:NEH.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Joel son of Zichri was the officer over them, and Judah son of Hassenuah was over the Second District of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.10",
+      "edition_verse_id": "BSB:NEH.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "From the priests: Jedaiah son of Joiarib; Jachin;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.11",
+      "edition_verse_id": "BSB:NEH.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Seraiah son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the chief official of the house of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.12",
+      "edition_verse_id": "BSB:NEH.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and their associates who did the work at the temple — 822 men; Adaiah son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malchijah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.13",
+      "edition_verse_id": "BSB:NEH.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and his associates, the leaders of families — 242 men; Amashai son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.14",
+      "edition_verse_id": "BSB:NEH.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and his associates — 128 mighty men of valor. Zabdiel son of Haggedolim was their overseer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.15",
+      "edition_verse_id": "BSB:NEH.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "From the Levites: Shemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.16",
+      "edition_verse_id": "BSB:NEH.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Shabbethai and Jozabad, two leaders of the Levites, who supervised the work outside the house of God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.17",
+      "edition_verse_id": "BSB:NEH.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Mattaniah son of Mica, the son of Zabdi, the son of Asaph, who led in thanksgiving and prayer; Bakbukiah, second among his associates; and Abda son of Shammua, the son of Galal, the son of Jeduthun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.18",
+      "edition_verse_id": "BSB:NEH.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The Levites in the holy city totaled 284.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.19",
+      "edition_verse_id": "BSB:NEH.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the gatekeepers: Akkub, Talmon, and their associates, who kept watch at the gates — 172 men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.20",
+      "edition_verse_id": "BSB:NEH.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The rest of the Israelites, with the priests and Levites, were in all the villages of Judah, each on his own inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.21",
+      "edition_verse_id": "BSB:NEH.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The temple servants lived on the hill of Ophel, with Ziha and Gishpa over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.22",
+      "edition_verse_id": "BSB:NEH.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Now the overseer of the Levites in Jerusalem was Uzzi son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Mica. He was one of Asaph’s descendants, who were the singers in charge of the service of the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.23",
+      "edition_verse_id": "BSB:NEH.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For there was a command from the king concerning the singers, an ordinance regulating their daily activities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.24",
+      "edition_verse_id": "BSB:NEH.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Pethahiah son of Meshezabel, a descendant of Zerah son of Judah, was the king’s agent in every matter concerning the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.25",
+      "edition_verse_id": "BSB:NEH.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "As for the villages with their fields, some of the people of Judah lived in Kiriath-arba, Dibon, Jekabzeel, and their villages;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.26",
+      "edition_verse_id": "BSB:NEH.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "in Jeshua, Moladah, and Beth-pelet;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.27",
+      "edition_verse_id": "BSB:NEH.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "in Hazar-shual; in Beersheba and its villages;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.28",
+      "edition_verse_id": "BSB:NEH.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "in Ziklag; in Meconah and its villages;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.29",
+      "edition_verse_id": "BSB:NEH.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "in En-rimmon, Zorah, Jarmuth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.30",
+      "edition_verse_id": "BSB:NEH.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Zanoah, Adullam, and their villages; in Lachish and its fields; and in Azekah and its villages. So they settled from Beersheba all the way to the Valley of Hinnom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.31",
+      "edition_verse_id": "BSB:NEH.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The descendants of Benjamin from Geba lived in Michmash, Aija, and Bethel with its villages;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.11.32",
+      "edition_verse_id": "BSB:NEH.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "in Anathoth, Nob, Ananiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.33",
+      "edition_verse_id": "BSB:NEH.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Hazor, Ramah, Gittaim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.34",
+      "edition_verse_id": "BSB:NEH.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Hadid, Zeboim, Neballat,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.35",
+      "edition_verse_id": "BSB:NEH.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Lod, and Ono; and in the Valley of the Craftsmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.11.36",
+      "edition_verse_id": "BSB:NEH.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And some divisions of the Levites of Judah settled in Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

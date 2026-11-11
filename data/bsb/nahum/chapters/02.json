@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NAM",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "NAM.2.1",
+      "edition_verse_id": "BSB:NAM.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "One who scatters advances against you, O Nineveh. Guard the fortress! Watch the road! Brace yourselves! Summon all your strength!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NAM.2.2",
+      "edition_verse_id": "BSB:NAM.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For the LORD will restore the splendor of Jacob like the splendor of Israel, though destroyers have laid them waste and ruined the branches of their vine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.3",
+      "edition_verse_id": "BSB:NAM.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The shields of his mighty men are red; the valiant warriors are dressed in scarlet. The fittings of the chariots flash like fire on the day they are prepared, and the spears of cypress have been brandished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.4",
+      "edition_verse_id": "BSB:NAM.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The chariots dash through the streets; they rush around the plazas, appearing like torches, darting about like lightning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.5",
+      "edition_verse_id": "BSB:NAM.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He summons his nobles; they stumble as they advance. They race to its wall; the protective shield is set in place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.6",
+      "edition_verse_id": "BSB:NAM.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The river gates are thrown open and the palace collapses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.7",
+      "edition_verse_id": "BSB:NAM.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "It is decreed that the city be exiled and carried away; her maidservants moan like doves, and beat upon their breasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.8",
+      "edition_verse_id": "BSB:NAM.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Nineveh has been like a pool of water throughout her days, but now it is draining away. “Stop! Stop!” they cry, but no one turns back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.9",
+      "edition_verse_id": "BSB:NAM.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“Plunder the silver! Plunder the gold!” There is no end to the treasure, an abundance of every precious thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.10",
+      "edition_verse_id": "BSB:NAM.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "She is emptied! Yes , she is desolate and laid waste! Hearts melt, knees knock, bodies tremble, and every face grows pale!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.11",
+      "edition_verse_id": "BSB:NAM.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Where is the lions’ lair or the feeding ground of the young lions, where the lion and lioness prowled with their cubs, with nothing to frighten them away?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.12",
+      "edition_verse_id": "BSB:NAM.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The lion mauled enough for its cubs and strangled prey for the lioness. It filled its dens with the kill, and its lairs with mauled prey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NAM.2.13",
+      "edition_verse_id": "BSB:NAM.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "“Behold, I am against you,” declares the LORD of Hosts. “I will reduce your chariots to cinders, and the sword will devour your young lions. I will cut off your prey from the earth, and the voices of your messengers will no longer be heard.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

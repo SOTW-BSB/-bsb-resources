@@ -1,0 +1,113 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter_count": 16,
+  "verse_count": 673,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 45,
+      "omitted_from_main_text": [],
+      "sha256": "6a717a27ace82dc2ea254bfd567972fc1de542582a657733472216ec01fe348d"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 28,
+      "omitted_from_main_text": [],
+      "sha256": "2b1af6d04857712ac1bfe78150fe67d456206f4305be9e4522ad29061a7c6f1e"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 35,
+      "omitted_from_main_text": [],
+      "sha256": "4e92e42d71c58209f3f38654d6d9ab089a6e906cffe7a4424df4abeac2dfab19"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 41,
+      "omitted_from_main_text": [],
+      "sha256": "ffe4270bbe9608a9cf461a791a9ebe2ad57a7af9ebe837b710ee55df87c47a12"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 43,
+      "omitted_from_main_text": [],
+      "sha256": "a68569029e06413a3285e194c4cce5b8545c92d59753525c80a35055f1239995"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 56,
+      "omitted_from_main_text": [],
+      "sha256": "de571faa7cb0d080a019f47c0ea6d9a6c4531887a57059669b893cf0e5672084"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 36,
+      "omitted_from_main_text": [
+        "MRK.7.16"
+      ],
+      "sha256": "c59030a8c4f05fbf3fdd882f4d6b076b53cee6f4a0f95acfa67e104c42dae33b"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 38,
+      "omitted_from_main_text": [],
+      "sha256": "8ff4f0dbbb04f71b6aded474ffa4b5e40d4155c0fc31bb2de6fce6514dd59220"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 48,
+      "omitted_from_main_text": [
+        "MRK.9.44",
+        "MRK.9.46"
+      ],
+      "sha256": "c99d503025813f3e8d8c8ef75951a51c96ffcb6a17f08b155b5fcf2031269fed"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 52,
+      "omitted_from_main_text": [],
+      "sha256": "e8bbd65c881207f482acf54a5d3026cf78570a52e4b60661ca1a81ec602165c4"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 32,
+      "omitted_from_main_text": [
+        "MRK.11.26"
+      ],
+      "sha256": "4e9bfc411f732441265f34e8fcb285aa33f4e7f51553c6406d401bc0d4dbae67"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 44,
+      "omitted_from_main_text": [],
+      "sha256": "532dd23b132262cc97f316dd797c01e11aec6c593d598b18c63f5f1ee568498c"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 37,
+      "omitted_from_main_text": [],
+      "sha256": "591b40df32fe7e877c6c85b6577610d6912ee7b50f74b34c9955ba313ae9fbc9"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 72,
+      "omitted_from_main_text": [],
+      "sha256": "ed240fbe35d167b00d6bb295d6fcbf78ad1ae957fab6066c2ccaa91db7612113"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 46,
+      "omitted_from_main_text": [
+        "MRK.15.28"
+      ],
+      "sha256": "79ab69c0a6acda828839567c625260e6b6fb559086d62ae3bafc682bc839fa38"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "21d17ba08fa6a7484cd8b959faf4f5b6b6efb6f39cd9d6ee02d588f33badf268"
+    }
+  ]
+}

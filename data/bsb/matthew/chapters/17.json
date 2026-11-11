@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "MAT.17.1",
+      "edition_verse_id": "BSB:MAT.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.2",
+      "edition_verse_id": "BSB:MAT.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "There He was transfigured before them. His face shone like the sun, and His clothes became as white as the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.3",
+      "edition_verse_id": "BSB:MAT.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Suddenly Moses and Elijah appeared before them, talking with Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.4",
+      "edition_verse_id": "BSB:MAT.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Peter said to Jesus, “Lord, it is good for us to be here. If You wish, I will put up three shelters— one for You, one for Moses, and one for Elijah.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.5",
+      "edition_verse_id": "BSB:MAT.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "While Peter was still speaking, a bright cloud enveloped them, and a voice from the cloud said, “This is My beloved Son, in whom I am well pleased. Listen to Him!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.6",
+      "edition_verse_id": "BSB:MAT.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When the disciples heard this, they fell facedown in terror.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.7",
+      "edition_verse_id": "BSB:MAT.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Jesus came over and touched them. “Get up,” He said. “Do not be afraid.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.8",
+      "edition_verse_id": "BSB:MAT.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when they looked up, they saw no one except Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.9",
+      "edition_verse_id": "BSB:MAT.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As they were coming down the mountain, Jesus commanded them, “Do not tell anyone about this vision until the Son of Man has been raised from the dead.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.10",
+      "edition_verse_id": "BSB:MAT.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The disciples asked Him, “Why then do the scribes say that Elijah must come first?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.11",
+      "edition_verse_id": "BSB:MAT.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jesus replied, “Elijah does indeed come, and he will restore all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.12",
+      "edition_verse_id": "BSB:MAT.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But I tell you that Elijah has already come, and they did not recognize him, but have done to him whatever they wished. In the same way, the Son of Man will suffer at their hands.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.13",
+      "edition_verse_id": "BSB:MAT.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the disciples understood that He was speaking to them about John the Baptist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.14",
+      "edition_verse_id": "BSB:MAT.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When they came to the crowd, a man came up to Jesus and knelt before Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.15",
+      "edition_verse_id": "BSB:MAT.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Lord, have mercy on my son,” he said. “He has seizures and is suffering terribly. He often falls into the fire or into the water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.16",
+      "edition_verse_id": "BSB:MAT.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I brought him to Your disciples, but they could not heal him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.17",
+      "edition_verse_id": "BSB:MAT.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy here to Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.18",
+      "edition_verse_id": "BSB:MAT.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.19",
+      "edition_verse_id": "BSB:MAT.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Afterward the disciples came to Jesus privately and asked, “Why couldn’t we drive it out?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.20",
+      "edition_verse_id": "BSB:MAT.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.22",
+      "edition_verse_id": "BSB:MAT.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When they gathered together in Galilee, Jesus told them, “The Son of Man is about to be delivered into the hands of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.23",
+      "edition_verse_id": "BSB:MAT.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "They will kill Him, and on the third day He will be raised to life.” And the disciples were deeply grieved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.17.24",
+      "edition_verse_id": "BSB:MAT.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "After they had arrived in Capernaum, the collectors of the two-drachma tax came to Peter and asked, “Does your Teacher pay the two drachmas?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.25",
+      "edition_verse_id": "BSB:MAT.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "“Yes,” he answered. When Peter entered the house, Jesus preempted him. “What do you think, Simon?” He asked. “From whom do the kings of the earth collect customs and taxes: from their own sons, or from others?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.26",
+      "edition_verse_id": "BSB:MAT.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "“From others,” Peter answered. “Then the sons are exempt,” Jesus said to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.17.27",
+      "edition_verse_id": "BSB:MAT.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "“But so that we may not offend them, go to the sea, cast a hook, and take the first fish you catch. When you open its mouth, you will find a four-drachma coin. Take it and give it to them for My tax and yours.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

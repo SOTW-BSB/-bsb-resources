@@ -1,0 +1,500 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "MRK.4.1",
+      "edition_verse_id": "BSB:MRK.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Once again Jesus began to teach beside the sea, and such a large crowd gathered around Him that He got into a boat and sat in it, while all the people crowded along the shore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.2",
+      "edition_verse_id": "BSB:MRK.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And He taught them many things in parables, and in His teaching He said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.3",
+      "edition_verse_id": "BSB:MRK.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Listen! A farmer went out to sow his seed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.4",
+      "edition_verse_id": "BSB:MRK.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And as he was sowing, some seed fell along the path, and the birds came and devoured it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.5",
+      "edition_verse_id": "BSB:MRK.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Some fell on rocky ground, where it did not have much soil. It sprang up quickly because the soil was shallow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.6",
+      "edition_verse_id": "BSB:MRK.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But when the sun rose, the seedlings were scorched, and they withered because they had no root.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.7",
+      "edition_verse_id": "BSB:MRK.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Other seed fell among thorns, which grew up and choked the seedlings, and they yielded no crop.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.8",
+      "edition_verse_id": "BSB:MRK.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Still other seed fell on good soil, where it sprouted, grew up, and produced a crop — one bearing thirtyfold, another sixtyfold, and another a hundredfold.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.9",
+      "edition_verse_id": "BSB:MRK.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Jesus said, “He who has ears to hear, let him hear.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.10",
+      "edition_verse_id": "BSB:MRK.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As soon as Jesus was alone with the Twelve and those around Him, they asked Him about the parable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.11",
+      "edition_verse_id": "BSB:MRK.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He replied, “The mystery of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.12",
+      "edition_verse_id": "BSB:MRK.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "so that, ‘they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.13",
+      "edition_verse_id": "BSB:MRK.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Jesus said to them, “Do you not understand this parable? Then how will you understand any of the parables?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.14",
+      "edition_verse_id": "BSB:MRK.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The farmer sows the word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.15",
+      "edition_verse_id": "BSB:MRK.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Some are like the seeds along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.16",
+      "edition_verse_id": "BSB:MRK.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Some are like the seeds sown on rocky ground. They hear the word and at once receive it with joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.17",
+      "edition_verse_id": "BSB:MRK.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But they themselves have no root, and they remain for only a season. When trouble or persecution comes because of the word, they quickly fall away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.18",
+      "edition_verse_id": "BSB:MRK.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Others are like the seeds sown among the thorns. They hear the word,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.19",
+      "edition_verse_id": "BSB:MRK.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "but the worries of this life, the deceitfulness of wealth, and the desire for other things come in and choke the word, and it becomes unfruitful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.20",
+      "edition_verse_id": "BSB:MRK.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Still others are like the seeds sown on good soil. They hear the word, receive it, and produce a crop — thirtyfold, sixtyfold, or a hundredfold.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.21",
+      "edition_verse_id": "BSB:MRK.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Jesus also said to them, “Does anyone bring in a lamp to put it under a basket or under a bed? Doesn’t he set it on a stand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.22",
+      "edition_verse_id": "BSB:MRK.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be brought to light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.23",
+      "edition_verse_id": "BSB:MRK.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If anyone has ears to hear, let him hear.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.24",
+      "edition_verse_id": "BSB:MRK.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He went on to say, “Pay attention to what you hear. With the measure you use, it will be measured to you, and even more will be added to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.25",
+      "edition_verse_id": "BSB:MRK.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For whoever has will be given more. But whoever does not have, even what he has will be taken away from him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.26",
+      "edition_verse_id": "BSB:MRK.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Jesus also said, “The kingdom of God is like a man who scatters seed on the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.27",
+      "edition_verse_id": "BSB:MRK.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Night and day he sleeps and wakes, and the seed sprouts and grows, though he knows not how.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.28",
+      "edition_verse_id": "BSB:MRK.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "All by itself the earth produces a crop— first the stalk, then the head, then grain that ripens within.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.29",
+      "edition_verse_id": "BSB:MRK.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And as soon as the grain is ripe, he swings the sickle, because the harvest has come.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.30",
+      "edition_verse_id": "BSB:MRK.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then He asked, “To what can we compare the kingdom of God? With what parable shall we present it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.31",
+      "edition_verse_id": "BSB:MRK.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "It is like a mustard seed, which is the smallest of all seeds sown upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.32",
+      "edition_verse_id": "BSB:MRK.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But after it is planted, it grows to be the largest of all garden plants and puts forth great branches, so that the birds of the air nest in its shade.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.33",
+      "edition_verse_id": "BSB:MRK.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "With many such parables Jesus spoke the word to them, to the extent that they could understand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.34",
+      "edition_verse_id": "BSB:MRK.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He did not tell them anything without using a parable. But privately He explained everything to His own disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.35",
+      "edition_verse_id": "BSB:MRK.4.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "When that evening came, He said to His disciples, “Let us cross to the other side.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.36",
+      "edition_verse_id": "BSB:MRK.4.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "After they had dismissed the crowd, they took Jesus with them, since He was already in the boat. And there were other boats with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.37",
+      "edition_verse_id": "BSB:MRK.4.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Soon a violent windstorm came up, and the waves were breaking over the boat, so that it was being swamped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.38",
+      "edition_verse_id": "BSB:MRK.4.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But Jesus was in the stern, sleeping on the cushion. So they woke Him and said, “Teacher, don’t You care that we are perishing?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.4.39",
+      "edition_verse_id": "BSB:MRK.4.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Then Jesus got up and rebuked the wind and the sea. “Silence!” He commanded. “Be still!” And the wind died down, and it was perfectly calm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.40",
+      "edition_verse_id": "BSB:MRK.4.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "“Why are you so afraid?” He asked. “Do you still have no faith?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.4.41",
+      "edition_verse_id": "BSB:MRK.4.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Overwhelmed with fear, they asked one another, “Who is this, that even the wind and the sea obey Him?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

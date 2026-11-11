@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "MRK.15.1",
+      "edition_verse_id": "BSB:MRK.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.2",
+      "edition_verse_id": "BSB:MRK.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So Pilate questioned Him, “Are You the King of the Jews?” “You have said so,” Jesus replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.3",
+      "edition_verse_id": "BSB:MRK.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the chief priests began to accuse Him of many things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.4",
+      "edition_verse_id": "BSB:MRK.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then Pilate questioned Him again, “Have You no answer? Look how many charges they are bringing against You!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.5",
+      "edition_verse_id": "BSB:MRK.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But to Pilate’s amazement, Jesus made no further reply.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.6",
+      "edition_verse_id": "BSB:MRK.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now it was Pilate’s custom at the feast to release to the people a prisoner of their choosing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.7",
+      "edition_verse_id": "BSB:MRK.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And a man named Barabbas was imprisoned with the rebels who had committed murder during the insurrection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.8",
+      "edition_verse_id": "BSB:MRK.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So the crowd went up and began asking Pilate to keep his custom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.9",
+      "edition_verse_id": "BSB:MRK.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“Do you want me to release to you the King of the Jews?” Pilate asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.10",
+      "edition_verse_id": "BSB:MRK.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For he knew it was out of envy that the chief priests had handed Jesus over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.11",
+      "edition_verse_id": "BSB:MRK.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the chief priests stirred up the crowd to have him release Barabbas to them instead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.12",
+      "edition_verse_id": "BSB:MRK.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So Pilate asked them again, “What then do you want me to do with the One you call the King of the Jews?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.13",
+      "edition_verse_id": "BSB:MRK.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And they shouted back, “Crucify Him!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.14",
+      "edition_verse_id": "BSB:MRK.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“Why?” asked Pilate. “What evil has He done?” But they shouted all the louder, “Crucify Him!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.15",
+      "edition_verse_id": "BSB:MRK.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And wishing to satisfy the crowd, Pilate released Barabbas to them. But he had Jesus flogged, and handed Him over to be crucified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.16",
+      "edition_verse_id": "BSB:MRK.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the soldiers led Jesus away into the palace (that is, the Praetorium) and called the whole company together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.17",
+      "edition_verse_id": "BSB:MRK.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They dressed Him in a purple robe, twisted together a crown of thorns, and set it on His head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.18",
+      "edition_verse_id": "BSB:MRK.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And they began to salute Him: “Hail, King of the Jews!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.19",
+      "edition_verse_id": "BSB:MRK.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They kept striking His head with a staff and spitting on Him. And they knelt down and bowed before Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.20",
+      "edition_verse_id": "BSB:MRK.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "After they had mocked Him, they removed the purple robe and put His own clothes back on Him. Then they led Him out to crucify Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.21",
+      "edition_verse_id": "BSB:MRK.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Now Simon of Cyrene, the father of Alexander and Rufus, was passing by on his way in from the country, and the soldiers forced him to carry the cross of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.22",
+      "edition_verse_id": "BSB:MRK.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "They brought Jesus to a place called Golgotha, which means The Place of the Skull.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.23",
+      "edition_verse_id": "BSB:MRK.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "There they offered Him wine mixed with myrrh, but He did not take it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.24",
+      "edition_verse_id": "BSB:MRK.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And they crucified Him. They also divided His garments by casting lots to decide what each of them would take.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.25",
+      "edition_verse_id": "BSB:MRK.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It was the third hour when they crucified Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.26",
+      "edition_verse_id": "BSB:MRK.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the charge inscribed against Him read: THE KING OF THE JEWS.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.27",
+      "edition_verse_id": "BSB:MRK.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Along with Jesus, they crucified two robbers, one on His right and one on His left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.29",
+      "edition_verse_id": "BSB:MRK.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And those who passed by heaped abuse on Him, shaking their heads and saying, “Aha! You who are going to destroy the temple and rebuild it in three days,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.30",
+      "edition_verse_id": "BSB:MRK.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "come down from the cross and save Yourself!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.31",
+      "edition_verse_id": "BSB:MRK.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "In the same way, the chief priests and scribes mocked Him among themselves, saying, “He saved others, but He cannot save Himself!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.32",
+      "edition_verse_id": "BSB:MRK.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Let the Christ, the King of Israel, come down now from the cross, so that we may see and believe!” And even those who were crucified with Him berated Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.33",
+      "edition_verse_id": "BSB:MRK.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "From the sixth hour until the ninth hour darkness came over all the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.34",
+      "edition_verse_id": "BSB:MRK.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "At the ninth hour, Jesus cried out in a loud voice, “Eloi, Eloi, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.35",
+      "edition_verse_id": "BSB:MRK.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "When some of those standing nearby heard this, they said, “Behold, He is calling Elijah.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.36",
+      "edition_verse_id": "BSB:MRK.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And someone ran and filled a sponge with sour wine. He put it on a reed and held it up for Jesus to drink, saying, “Leave Him alone. Let us see if Elijah comes to take Him down.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.37",
+      "edition_verse_id": "BSB:MRK.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But Jesus let out a loud cry and breathed His last.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.38",
+      "edition_verse_id": "BSB:MRK.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the veil of the temple was torn in two from top to bottom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.39",
+      "edition_verse_id": "BSB:MRK.15.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "When the centurion standing there in front of Jesus saw how He had breathed His last, he said, “Truly this man was the Son of God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.40",
+      "edition_verse_id": "BSB:MRK.15.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And there were also women watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.41",
+      "edition_verse_id": "BSB:MRK.15.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "These women had followed Jesus and ministered to Him while He was in Galilee, and there were many other women who had come up to Jerusalem with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.42",
+      "edition_verse_id": "BSB:MRK.15.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Now it was already evening. Since it was Preparation Day (that is, the day before the Sabbath ),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.43",
+      "edition_verse_id": "BSB:MRK.15.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Joseph of Arimathea, a prominent Council member who himself was waiting for the kingdom of God, boldly went to Pilate to ask for the body of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.44",
+      "edition_verse_id": "BSB:MRK.15.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Pilate was surprised to hear that Jesus was already dead, so he summoned the centurion to ask if this was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.45",
+      "edition_verse_id": "BSB:MRK.15.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "When Pilate had confirmed it with the centurion, he granted the body to Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.15.46",
+      "edition_verse_id": "BSB:MRK.15.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "So Joseph bought a linen cloth, took down the body of Jesus, wrapped it in the cloth, and placed it in a tomb that had been cut out of the rock. Then he rolled a stone against the entrance to the tomb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.15.47",
+      "edition_verse_id": "BSB:MRK.15.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Mary Magdalene and Mary the mother of Joseph saw where His body was placed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

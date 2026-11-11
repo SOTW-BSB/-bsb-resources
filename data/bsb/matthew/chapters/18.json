@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "MAT.18.1",
+      "edition_verse_id": "BSB:MAT.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At that time the disciples came to Jesus and asked, “Who then is the greatest in the kingdom of heaven?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.2",
+      "edition_verse_id": "BSB:MAT.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jesus invited a little child to stand among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.3",
+      "edition_verse_id": "BSB:MAT.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Truly I tell you,” He said, “unless you change and become like little children, you will never enter the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.4",
+      "edition_verse_id": "BSB:MAT.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore, whoever humbles himself like this little child is the greatest in the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.5",
+      "edition_verse_id": "BSB:MAT.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And whoever welcomes a little child like this in My name welcomes Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.6",
+      "edition_verse_id": "BSB:MAT.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be drowned in the depths of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.7",
+      "edition_verse_id": "BSB:MAT.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Woe to the world for the causes of sin. These stumbling blocks must come, but woe to the man through whom they come!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.8",
+      "edition_verse_id": "BSB:MAT.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than to have two hands and two feet and be thrown into the eternal fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.9",
+      "edition_verse_id": "BSB:MAT.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And if your eye causes you to sin, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.10",
+      "edition_verse_id": "BSB:MAT.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.12",
+      "edition_verse_id": "BSB:MAT.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "What do you think? If a man has a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the hills and go out to search for the one that is lost?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.13",
+      "edition_verse_id": "BSB:MAT.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And if he finds it, truly I tell you, he rejoices more over that one sheep than over the ninety-nine that did not go astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.14",
+      "edition_verse_id": "BSB:MAT.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In the same way, your Father in heaven is not willing that any of these little ones should perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.15",
+      "edition_verse_id": "BSB:MAT.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.16",
+      "edition_verse_id": "BSB:MAT.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.17",
+      "edition_verse_id": "BSB:MAT.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.18",
+      "edition_verse_id": "BSB:MAT.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.19",
+      "edition_verse_id": "BSB:MAT.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Again, I tell you truly that if two of you on the earth agree about anything you ask for, it will be done for you by My Father in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.20",
+      "edition_verse_id": "BSB:MAT.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For where two or three gather together in My name, there am I with them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.21",
+      "edition_verse_id": "BSB:MAT.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Peter came to Jesus and asked, “Lord, how many times shall I forgive my brother who sins against me? Up to seven times?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.22",
+      "edition_verse_id": "BSB:MAT.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Jesus answered, “I tell you, not just seven times, but seventy-seven times!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.23",
+      "edition_verse_id": "BSB:MAT.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Because of this, the kingdom of heaven is like a king who wanted to settle accounts with his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.24",
+      "edition_verse_id": "BSB:MAT.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "As he began the settlements, a debtor owing ten thousand talents was brought to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.25",
+      "edition_verse_id": "BSB:MAT.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Since the man was unable to pay, the master ordered that he be sold to pay his debt, along with his wife and children and everything he owned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.26",
+      "edition_verse_id": "BSB:MAT.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then the servant fell on his knees before him. ‘Have patience with me,’ he begged, ‘and I will pay back everything.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.27",
+      "edition_verse_id": "BSB:MAT.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "His master had compassion on him, forgave his debt, and released him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.28",
+      "edition_verse_id": "BSB:MAT.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But when that servant went out, he found one of his fellow servants who owed him a hundred denarii. He grabbed him and began to choke him, saying, ‘Pay back what you owe me!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.29",
+      "edition_verse_id": "BSB:MAT.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So his fellow servant fell down and begged him, ‘Have patience with me, and I will pay you back.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.30",
+      "edition_verse_id": "BSB:MAT.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But he refused. Instead, he went and had the man thrown into prison until he could pay his debt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.31",
+      "edition_verse_id": "BSB:MAT.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "When his fellow servants saw what had happened, they were greatly distressed, and they went and recounted all of this to their master.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.32",
+      "edition_verse_id": "BSB:MAT.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then the master summoned him and said, ‘You wicked servant! I forgave all your debt because you begged me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.18.33",
+      "edition_verse_id": "BSB:MAT.18.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Shouldn’t you have had mercy on your fellow servant, just as I had on you?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.34",
+      "edition_verse_id": "BSB:MAT.18.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "In anger his master turned him over to the jailers to be tortured, until he should repay all that he owed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.18.35",
+      "edition_verse_id": "BSB:MAT.18.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "That is how My heavenly Father will treat each of you unless you forgive your brother from your heart.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

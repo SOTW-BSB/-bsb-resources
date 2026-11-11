@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "MAT.25.1",
+      "edition_verse_id": "BSB:MAT.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.2",
+      "edition_verse_id": "BSB:MAT.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Five of them were foolish, and five were wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.3",
+      "edition_verse_id": "BSB:MAT.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The foolish ones took their lamps but did not take along any extra oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.4",
+      "edition_verse_id": "BSB:MAT.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But the wise ones took oil in flasks along with their lamps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.5",
+      "edition_verse_id": "BSB:MAT.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When the bridegroom was delayed, they all became drowsy and fell asleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.6",
+      "edition_verse_id": "BSB:MAT.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "At midnight the cry rang out: ‘Here is the bridegroom! Come out to meet him!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.7",
+      "edition_verse_id": "BSB:MAT.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then all the virgins woke up and trimmed their lamps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.8",
+      "edition_verse_id": "BSB:MAT.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The foolish ones said to the wise, ‘Give us some of your oil; our lamps are going out.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.9",
+      "edition_verse_id": "BSB:MAT.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "‘No,’ said the wise ones, ‘or there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.10",
+      "edition_verse_id": "BSB:MAT.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But while they were on their way to buy it, the bridegroom arrived. Those who were ready went in with him to the wedding banquet, and the door was shut.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.11",
+      "edition_verse_id": "BSB:MAT.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Later the other virgins arrived and said, ‘Lord, lord, open the door for us!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.12",
+      "edition_verse_id": "BSB:MAT.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But he replied, ‘Truly I tell you, I do not know you.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.13",
+      "edition_verse_id": "BSB:MAT.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore keep watch, because you do not know the day or the hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.14",
+      "edition_verse_id": "BSB:MAT.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For it is just like a man going on a journey, who called his servants and entrusted them with his possessions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.15",
+      "edition_verse_id": "BSB:MAT.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "To one he gave five talents, to another two talents, and to another one talent — each according to his own ability. And he went on his journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.16",
+      "edition_verse_id": "BSB:MAT.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The servant who had received the five talents went at once and put them to work and gained five more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.17",
+      "edition_verse_id": "BSB:MAT.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Likewise, the one with the two talents gained two more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.18",
+      "edition_verse_id": "BSB:MAT.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But the servant who had received the one talent went off, dug a hole in the ground, and hid his master’s money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.19",
+      "edition_verse_id": "BSB:MAT.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "After a long time the master of those servants returned and settled accounts with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.20",
+      "edition_verse_id": "BSB:MAT.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The servant who had received the five talents came and presented five more. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.21",
+      "edition_verse_id": "BSB:MAT.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.22",
+      "edition_verse_id": "BSB:MAT.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The servant who had received the two talents also came and said, ‘Master, you entrusted me with two talents. See, I have gained two more.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.23",
+      "edition_verse_id": "BSB:MAT.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.24",
+      "edition_verse_id": "BSB:MAT.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Finally, the servant who had received the one talent came and said, ‘Master, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered seed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.25",
+      "edition_verse_id": "BSB:MAT.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So I was afraid and went out and hid your talent in the ground. See, you have what belongs to you.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.26",
+      "edition_verse_id": "BSB:MAT.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "‘You wicked, lazy servant!’ replied his master. ‘You knew that I reap where I have not sown and gather where I have not scattered seed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.27",
+      "edition_verse_id": "BSB:MAT.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then you should have deposited my money with the bankers, and on my return I would have received it back with interest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.28",
+      "edition_verse_id": "BSB:MAT.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Therefore take the talent from him and give it to the one who has ten talents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.29",
+      "edition_verse_id": "BSB:MAT.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For everyone who has will be given more, and he will have an abundance. But the one who does not have, even what he has will be taken away from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.30",
+      "edition_verse_id": "BSB:MAT.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And throw that worthless servant into the outer darkness, where there will be weeping and gnashing of teeth.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.31",
+      "edition_verse_id": "BSB:MAT.25.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "When the Son of Man comes in His glory, and all the angels with Him, He will sit on His glorious throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.32",
+      "edition_verse_id": "BSB:MAT.25.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "All the nations will be gathered before Him, and He will separate the people one from another, as a shepherd separates the sheep from the goats.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.33",
+      "edition_verse_id": "BSB:MAT.25.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He will place the sheep on His right and the goats on His left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.34",
+      "edition_verse_id": "BSB:MAT.25.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then the King will say to those on His right, ‘Come, you who are blessed by My Father, inherit the kingdom prepared for you from the foundation of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.35",
+      "edition_verse_id": "BSB:MAT.25.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For I was hungry and you gave Me something to eat, I was thirsty and you gave Me something to drink, I was a stranger and you took Me in,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.36",
+      "edition_verse_id": "BSB:MAT.25.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "I was naked and you clothed Me, I was sick and you looked after Me, I was in prison and you visited Me.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.37",
+      "edition_verse_id": "BSB:MAT.25.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Then the righteous will answer Him, ‘Lord, when did we see You hungry and feed You, or thirsty and give You something to drink?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.38",
+      "edition_verse_id": "BSB:MAT.25.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "When did we see You a stranger and take You in, or naked and clothe You?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.39",
+      "edition_verse_id": "BSB:MAT.25.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "When did we see You sick or in prison and visit You?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.40",
+      "edition_verse_id": "BSB:MAT.25.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And the King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers of Mine, you did for Me.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.41",
+      "edition_verse_id": "BSB:MAT.25.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Then He will say to those on His left, ‘Depart from Me, you who are cursed, into the eternal fire prepared for the devil and his angels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.42",
+      "edition_verse_id": "BSB:MAT.25.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "For I was hungry and you gave Me nothing to eat, I was thirsty and you gave Me nothing to drink,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.43",
+      "edition_verse_id": "BSB:MAT.25.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "I was a stranger and you did not take Me in, I was naked and you did not clothe Me, I was sick and in prison and you did not look after Me.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.25.44",
+      "edition_verse_id": "BSB:MAT.25.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.45",
+      "edition_verse_id": "BSB:MAT.25.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then the King will answer, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for Me.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.25.46",
+      "edition_verse_id": "BSB:MAT.25.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And they will go away into eternal punishment, but the righteous into eternal life.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

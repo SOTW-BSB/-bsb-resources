@@ -1,0 +1,908 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "MAT.26.1",
+      "edition_verse_id": "BSB:MAT.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Jesus had finished saying all these things, He told His disciples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.2",
+      "edition_verse_id": "BSB:MAT.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“You know that the Passover is two days away, and the Son of Man will be handed over to be crucified.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.3",
+      "edition_verse_id": "BSB:MAT.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "At that time the chief priests and elders of the people assembled in the courtyard of the high priest, whose name was Caiaphas,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.4",
+      "edition_verse_id": "BSB:MAT.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and they conspired to arrest Jesus covertly and kill Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.5",
+      "edition_verse_id": "BSB:MAT.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“But not during the feast,” they said, “or there may be a riot among the people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.6",
+      "edition_verse_id": "BSB:MAT.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "While Jesus was in Bethany in the home of Simon the Leper,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.7",
+      "edition_verse_id": "BSB:MAT.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "a woman came to Him with an alabaster jar of expensive perfume, which she poured on His head as He reclined at the table.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.8",
+      "edition_verse_id": "BSB:MAT.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When the disciples saw this, they were indignant and asked, “Why this waste?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.9",
+      "edition_verse_id": "BSB:MAT.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "This perfume could have been sold at a high price, and the money given to the poor.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.10",
+      "edition_verse_id": "BSB:MAT.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Aware of this, Jesus asked, “Why are you bothering this woman? She has done a beautiful deed to Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.11",
+      "edition_verse_id": "BSB:MAT.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The poor you will always have with you, but you will not always have Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.12",
+      "edition_verse_id": "BSB:MAT.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "By pouring this perfume on Me, she has prepared My body for burial.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.13",
+      "edition_verse_id": "BSB:MAT.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Truly I tell you, wherever this gospel is preached in all the world, what she has done will also be told in memory of her.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.14",
+      "edition_verse_id": "BSB:MAT.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then one of the Twelve, the one called Judas Iscariot, went to the chief priests",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.15",
+      "edition_verse_id": "BSB:MAT.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and asked, “What are you willing to give me if I hand Him over to you?” And they set out for him thirty pieces of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.16",
+      "edition_verse_id": "BSB:MAT.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So from then on Judas looked for an opportunity to betray Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.17",
+      "edition_verse_id": "BSB:MAT.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "On the first day of the Feast of Unleavened Bread, the disciples came to Jesus and asked, “Where do You want us to prepare for You to eat the Passover?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.18",
+      "edition_verse_id": "BSB:MAT.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He answered, “Go into the city to a certain man and tell him that the Teacher says, ‘My time is near. I will keep the Passover with My disciples at your house.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.19",
+      "edition_verse_id": "BSB:MAT.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So the disciples did as Jesus had directed them and prepared the Passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.20",
+      "edition_verse_id": "BSB:MAT.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When evening came, Jesus was reclining with the twelve disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.21",
+      "edition_verse_id": "BSB:MAT.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And while they were eating, He said to them, “Truly I tell you, one of you will betray Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.22",
+      "edition_verse_id": "BSB:MAT.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "They were deeply grieved and began to ask Him one after another, “Surely not I, Lord?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.23",
+      "edition_verse_id": "BSB:MAT.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Jesus answered, “The one who has dipped his hand into the bowl with Me will betray Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.24",
+      "edition_verse_id": "BSB:MAT.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed. It would be better for him if he had not been born.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.25",
+      "edition_verse_id": "BSB:MAT.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Judas, who would betray Him, said, “Surely not I, Rabbi?” Jesus answered, “You have said it yourself.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.26",
+      "edition_verse_id": "BSB:MAT.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take and eat; this is My body.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.27",
+      "edition_verse_id": "BSB:MAT.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then He took the cup, gave thanks, and gave it to them, saying, “Drink from it, all of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.28",
+      "edition_verse_id": "BSB:MAT.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "This is My blood of the covenant, which is poured out for many for the forgiveness of sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.29",
+      "edition_verse_id": "BSB:MAT.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "I tell you, I will not drink of this fruit of the vine from now on until that day when I drink it anew with you in My Father’s kingdom.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.30",
+      "edition_verse_id": "BSB:MAT.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And when they had sung a hymn, they went out to the Mount of Olives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.31",
+      "edition_verse_id": "BSB:MAT.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then Jesus said to them, “This very night you will all fall away on account of Me. For it is written: ‘I will strike the Shepherd, and the sheep of the flock will be scattered.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.32",
+      "edition_verse_id": "BSB:MAT.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But after I have risen, I will go ahead of you into Galilee.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.33",
+      "edition_verse_id": "BSB:MAT.26.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Peter said to Him, “Even if all fall away on account of You, I never will.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.34",
+      "edition_verse_id": "BSB:MAT.26.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“Truly I tell you,” Jesus declared, “this very night, before the rooster crows, you will deny Me three times.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.35",
+      "edition_verse_id": "BSB:MAT.26.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Peter replied, “Even if I have to die with You, I will never deny You.” And all the other disciples said the same thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.36",
+      "edition_verse_id": "BSB:MAT.26.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then Jesus went with His disciples to a place called Gethsemane, and He told them, “Sit here while I go over there and pray.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.37",
+      "edition_verse_id": "BSB:MAT.26.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "He took with Him Peter and the two sons of Zebedee and began to be sorrowful and deeply distressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.38",
+      "edition_verse_id": "BSB:MAT.26.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch with Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.39",
+      "edition_verse_id": "BSB:MAT.26.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Going a little farther, He fell facedown and prayed, “My Father, if it is possible, let this cup pass from Me. Yet not as I will, but as You will.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.40",
+      "edition_verse_id": "BSB:MAT.26.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Then Jesus returned to the disciples and found them sleeping. “Were you not able to keep watch with Me for one hour?” He asked Peter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.41",
+      "edition_verse_id": "BSB:MAT.26.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "“Watch and pray so that you will not enter into temptation. For the spirit is willing, but the body is weak.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.42",
+      "edition_verse_id": "BSB:MAT.26.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "A second time He went away and prayed, “My Father, if this cup cannot pass unless I drink it, may Your will be done.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.43",
+      "edition_verse_id": "BSB:MAT.26.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And again Jesus returned and found them sleeping, for their eyes were heavy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.44",
+      "edition_verse_id": "BSB:MAT.26.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "So He left them and went away once more and prayed a third time, saying the same thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.45",
+      "edition_verse_id": "BSB:MAT.26.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then He returned to the disciples and said, “Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.46",
+      "edition_verse_id": "BSB:MAT.26.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Rise, let us go! See, My betrayer is approaching!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.47",
+      "edition_verse_id": "BSB:MAT.26.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "While Jesus was still speaking, Judas, one of the Twelve, arrived, accompanied by a large crowd armed with swords and clubs, sent from the chief priests and elders of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.48",
+      "edition_verse_id": "BSB:MAT.26.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.49",
+      "edition_verse_id": "BSB:MAT.26.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Going directly to Jesus, he said, “Greetings, Rabbi!” and kissed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.50",
+      "edition_verse_id": "BSB:MAT.26.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "“Friend,” Jesus replied, “do what you came for.” Then the men stepped forward, seized Jesus, and arrested Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.51",
+      "edition_verse_id": "BSB:MAT.26.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "At this, one of Jesus’ companions drew his sword and struck the servant of the high priest, cutting off his ear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.52",
+      "edition_verse_id": "BSB:MAT.26.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "“Put your sword back in its place,” Jesus said to him. “For all who draw the sword will die by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.53",
+      "edition_verse_id": "BSB:MAT.26.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Are you not aware that I can call on My Father, and He will at once put at My disposal more than twelve legions of angels?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.54",
+      "edition_verse_id": "BSB:MAT.26.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "But how then would the Scriptures be fulfilled that say it must happen this way?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.55",
+      "edition_verse_id": "BSB:MAT.26.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "At that time Jesus said to the crowd, “Have you come out with swords and clubs to arrest Me as you would an outlaw? Every day I sat teaching in the temple courts, and you did not arrest Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.56",
+      "edition_verse_id": "BSB:MAT.26.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "But this has all happened so that the writings of the prophets would be fulfilled.” Then all the disciples deserted Him and fled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.57",
+      "edition_verse_id": "BSB:MAT.26.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Those who had arrested Jesus led Him away to the house of Caiaphas the high priest, where the scribes and elders had gathered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.58",
+      "edition_verse_id": "BSB:MAT.26.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "But Peter followed Him at a distance, right up to the courtyard of the high priest. And he went in and sat down with the guards to see the outcome.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.59",
+      "edition_verse_id": "BSB:MAT.26.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "Now the chief priests and the whole Sanhedrin were seeking false testimony against Jesus in order to put Him to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.60",
+      "edition_verse_id": "BSB:MAT.26.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "But they did not find any, though many false witnesses came forward. Finally two came forward",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.61",
+      "edition_verse_id": "BSB:MAT.26.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "and declared, “This man said, ‘I am able to destroy the temple of God and rebuild it in three days.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.62",
+      "edition_verse_id": "BSB:MAT.26.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "So the high priest stood up and asked Him, “Have You no answer? What are these men testifying against You?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.63",
+      "edition_verse_id": "BSB:MAT.26.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "But Jesus remained silent. Then the high priest said to Him, “I charge You under oath by the living God: Tell us if You are the Christ, the Son of God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.64",
+      "edition_verse_id": "BSB:MAT.26.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "“You have said it yourself,” Jesus answered. “But I say to all of you, from now on you will see the Son of Man sitting at the right hand of Power and coming on the clouds of heaven.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.65",
+      "edition_verse_id": "BSB:MAT.26.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "At this, the high priest tore his clothes and declared, “He has blasphemed! Why do we need any more witnesses? Look, now you have heard the blasphemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.66",
+      "edition_verse_id": "BSB:MAT.26.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "What do you think?” “He deserves to die,” they answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.67",
+      "edition_verse_id": "BSB:MAT.26.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Then they spit in His face and struck Him. Others slapped Him",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.68",
+      "edition_verse_id": "BSB:MAT.26.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "and said, “Prophesy to us, Christ! Who hit You?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.26.69",
+      "edition_verse_id": "BSB:MAT.26.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "Meanwhile, Peter was sitting out in the courtyard, and a servant girl came up to him. “You also were with Jesus the Galilean,” she said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.70",
+      "edition_verse_id": "BSB:MAT.26.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "But he denied it before them all: “I do not know what you are talking about.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.71",
+      "edition_verse_id": "BSB:MAT.26.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "When Peter had gone out to the gateway, another servant girl saw him and said to the people there, “This man was with Jesus of Nazareth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.72",
+      "edition_verse_id": "BSB:MAT.26.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "And again he denied it with an oath: “I do not know the man!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.73",
+      "edition_verse_id": "BSB:MAT.26.73",
+      "verse": 73,
+      "spans": [
+        {
+          "text": "After a little while, those standing nearby came up to Peter. “Surely you are one of them,” they said, “for your accent gives you away.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.74",
+      "edition_verse_id": "BSB:MAT.26.74",
+      "verse": 74,
+      "spans": [
+        {
+          "text": "At that he began to curse and swear to them, “I do not know the man!” And immediately a rooster crowed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.26.75",
+      "edition_verse_id": "BSB:MAT.26.75",
+      "verse": 75,
+      "spans": [
+        {
+          "text": "Then Peter remembered the word that Jesus had spoken: “Before the rooster crows, you will deny Me three times.” And he went outside and wept bitterly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

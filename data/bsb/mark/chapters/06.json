@@ -1,0 +1,680 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "MRK.6.1",
+      "edition_verse_id": "BSB:MRK.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jesus went on from there and came to His hometown, accompanied by His disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.2",
+      "edition_verse_id": "BSB:MRK.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When the Sabbath came, He began to teach in the synagogue, and many who heard Him were astonished. “Where did this man get these ideas?” they asked. “What is this wisdom He has been given? And how can He perform such miracles?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.3",
+      "edition_verse_id": "BSB:MRK.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Isn’t this the carpenter, the son of Mary and the brother of James, Joses, Judas, and Simon? Aren’t His sisters here with us as well?” And they took offense at Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.4",
+      "edition_verse_id": "BSB:MRK.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then Jesus said to them, “Only in his hometown, among his relatives, and in his own household is a prophet without honor.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.5",
+      "edition_verse_id": "BSB:MRK.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So He could not perform any miracles there, except to lay His hands on a few of the sick and heal them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.6",
+      "edition_verse_id": "BSB:MRK.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And He was amazed at their unbelief. And He went around from village to village, teaching the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.7",
+      "edition_verse_id": "BSB:MRK.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Jesus called the Twelve to Him and began to send them out two by two, giving them authority over unclean spirits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.8",
+      "edition_verse_id": "BSB:MRK.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He instructed them to take nothing but a staff for the journey — no bread, no bag, no money in their belts —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.9",
+      "edition_verse_id": "BSB:MRK.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and to wear sandals, but not a second tunic.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.10",
+      "edition_verse_id": "BSB:MRK.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And He told them, “When you enter a house, stay there until you leave that area.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.11",
+      "edition_verse_id": "BSB:MRK.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If anyone will not welcome you or listen to you, shake the dust off your feet when you leave that place, as a testimony against them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.12",
+      "edition_verse_id": "BSB:MRK.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So they set out and preached that the people should repent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.13",
+      "edition_verse_id": "BSB:MRK.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They also drove out many demons and healed many of the sick, anointing them with oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.14",
+      "edition_verse_id": "BSB:MRK.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now King Herod heard about this, for Jesus’ name had become well known, and people were saying, “John the Baptist has risen from the dead! That is why miraculous powers are at work in him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.15",
+      "edition_verse_id": "BSB:MRK.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Others were saying, “He is Elijah,” and still others, “He is a prophet, like one of the prophets of old.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.16",
+      "edition_verse_id": "BSB:MRK.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But when Herod heard this, he said, “John, whom I beheaded, has risen from the dead!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.17",
+      "edition_verse_id": "BSB:MRK.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For Herod himself had ordered that John be arrested and bound and imprisoned, on account of his brother Philip’s wife Herodias, whom Herod had married.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.18",
+      "edition_verse_id": "BSB:MRK.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For John had been telling Herod, “It is not lawful for you to have your brother’s wife!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.19",
+      "edition_verse_id": "BSB:MRK.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So Herodias held a grudge against John and wanted to kill him. But she had been unable,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.20",
+      "edition_verse_id": "BSB:MRK.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "because Herod feared John and protected him, knowing that he was a righteous and holy man. When he heard John’s words, he was greatly perplexed; yet he listened to him gladly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.21",
+      "edition_verse_id": "BSB:MRK.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "On Herod’s birthday, her opportunity arose. Herod held a banquet for his nobles and military commanders and the leading men of Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.22",
+      "edition_verse_id": "BSB:MRK.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When the daughter of Herodias came and danced, she pleased Herod and his guests, and the king said to the girl, “Ask me for whatever you wish, and I will give it to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.23",
+      "edition_verse_id": "BSB:MRK.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he swore to her, “Whatever you ask of me, I will give you, up to half my kingdom!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.24",
+      "edition_verse_id": "BSB:MRK.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then she went out and asked her mother, “What should I request?” And her mother answered, “The head of John the Baptist.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.25",
+      "edition_verse_id": "BSB:MRK.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "At once the girl hurried back to the king with her request: “I want you to give me the head of John the Baptist on a platter immediately.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.26",
+      "edition_verse_id": "BSB:MRK.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The king was consumed with sorrow, but because of his oaths and his guests, he did not want to refuse her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.27",
+      "edition_verse_id": "BSB:MRK.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So without delay, the king commanded that John’s head be brought in. He sent an executioner, who went and beheaded him in the prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.28",
+      "edition_verse_id": "BSB:MRK.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The man brought John’s head on a platter and presented it to the girl, who gave it to her mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.29",
+      "edition_verse_id": "BSB:MRK.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When John’s disciples heard about this, they came and took his body and placed it in a tomb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.30",
+      "edition_verse_id": "BSB:MRK.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Meanwhile, the apostles gathered around Jesus and brought Him news of all they had done and taught.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.31",
+      "edition_verse_id": "BSB:MRK.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And He said to them, “Come with Me privately to a solitary place, and let us rest for a while.” For many people were coming and going, and they did not even have time to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.32",
+      "edition_verse_id": "BSB:MRK.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "So they went away in a boat by themselves to a solitary place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.33",
+      "edition_verse_id": "BSB:MRK.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But many people saw them leaving and recognized them. They ran together on foot from all the towns and arrived before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.34",
+      "edition_verse_id": "BSB:MRK.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When Jesus stepped ashore and saw a large crowd, He had compassion on them, because they were like sheep without a shepherd. And He began to teach them many things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.35",
+      "edition_verse_id": "BSB:MRK.6.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "By now the hour was already late. So the disciples came to Jesus and said, “This is a desolate place, and the hour is already late.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.36",
+      "edition_verse_id": "BSB:MRK.6.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Dismiss the crowd so they can go to the surrounding countryside and villages and buy themselves something to eat.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.37",
+      "edition_verse_id": "BSB:MRK.6.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But Jesus told them, “You give them something to eat.” They asked Him, “Should we go out and spend two hundred denarii to give all of them bread to eat?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.38",
+      "edition_verse_id": "BSB:MRK.6.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "“Go and see how many loaves you have,” He told them. And after checking, they said, “Five — and two fish.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.39",
+      "edition_verse_id": "BSB:MRK.6.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Then Jesus directed them to have the people sit in groups on the green grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.40",
+      "edition_verse_id": "BSB:MRK.6.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "So they sat down in groups of hundreds and fifties.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.41",
+      "edition_verse_id": "BSB:MRK.6.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke the loaves. Then He gave them to His disciples to set before the people. And He divided the two fish among them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.42",
+      "edition_verse_id": "BSB:MRK.6.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "They all ate and were satisfied,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.43",
+      "edition_verse_id": "BSB:MRK.6.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "and the disciples picked up twelve basketfuls of broken pieces of bread and fish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.44",
+      "edition_verse_id": "BSB:MRK.6.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And there were five thousand men who had eaten the loaves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.45",
+      "edition_verse_id": "BSB:MRK.6.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Immediately Jesus made His disciples get into the boat and go on ahead of Him to Bethsaida, while He dismissed the crowd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.46",
+      "edition_verse_id": "BSB:MRK.6.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "After bidding them farewell, He went up on the mountain to pray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.47",
+      "edition_verse_id": "BSB:MRK.6.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "When evening came, the boat was in the middle of the sea, and Jesus was alone on land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.48",
+      "edition_verse_id": "BSB:MRK.6.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "He could see that the disciples were straining to row, because the wind was against them. About the fourth watch of the night, Jesus went out to them, walking on the sea. He intended to pass by them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.49",
+      "edition_verse_id": "BSB:MRK.6.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "but when they saw Him walking on the sea, they cried out, thinking He was a ghost —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.50",
+      "edition_verse_id": "BSB:MRK.6.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "for they all saw Him and were terrified. But Jesus spoke up at once: “Take courage! It is I. Do not be afraid.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.51",
+      "edition_verse_id": "BSB:MRK.6.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Then He climbed into the boat with them, and the wind died down. And the disciples were utterly astounded,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.52",
+      "edition_verse_id": "BSB:MRK.6.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "for they had not understood about the loaves, but their hearts had been hardened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.53",
+      "edition_verse_id": "BSB:MRK.6.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "When they had crossed over, they landed at Gennesaret and moored the boat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.6.54",
+      "edition_verse_id": "BSB:MRK.6.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "As soon as they got out of the boat, the people recognized Jesus",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.55",
+      "edition_verse_id": "BSB:MRK.6.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "and ran through that whole region, carrying the sick on mats to wherever they heard He was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.6.56",
+      "edition_verse_id": "BSB:MRK.6.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "And wherever He went — villages and towns and countrysides — they laid the sick in the marketplaces and begged Him just to let them touch the fringe of His cloak. And all who touched Him were healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

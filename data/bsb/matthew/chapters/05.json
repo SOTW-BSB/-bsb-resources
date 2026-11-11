@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "MAT.5.1",
+      "edition_verse_id": "BSB:MAT.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.2",
+      "edition_verse_id": "BSB:MAT.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and He began to teach them, saying:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.3",
+      "edition_verse_id": "BSB:MAT.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.4",
+      "edition_verse_id": "BSB:MAT.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Blessed are those who mourn, for they will be comforted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.5",
+      "edition_verse_id": "BSB:MAT.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Blessed are the meek, for they will inherit the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.6",
+      "edition_verse_id": "BSB:MAT.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Blessed are those who hunger and thirst for righteousness, for they will be filled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.7",
+      "edition_verse_id": "BSB:MAT.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Blessed are the merciful, for they will be shown mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.8",
+      "edition_verse_id": "BSB:MAT.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Blessed are the pure in heart, for they will see God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.9",
+      "edition_verse_id": "BSB:MAT.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Blessed are the peacemakers, for they will be called sons of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.10",
+      "edition_verse_id": "BSB:MAT.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.11",
+      "edition_verse_id": "BSB:MAT.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Blessed are you when people insult you, persecute you, and falsely say all kinds of evil against you because of Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.12",
+      "edition_verse_id": "BSB:MAT.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.13",
+      "edition_verse_id": "BSB:MAT.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You are the salt of the earth. But if the salt loses its savor, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.14",
+      "edition_verse_id": "BSB:MAT.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You are the light of the world. A city on a hill cannot be hidden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.15",
+      "edition_verse_id": "BSB:MAT.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Neither do people light a lamp and put it under a basket. Instead, they set it on a stand, and it gives light to everyone in the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.16",
+      "edition_verse_id": "BSB:MAT.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.17",
+      "edition_verse_id": "BSB:MAT.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.18",
+      "edition_verse_id": "BSB:MAT.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.19",
+      "edition_verse_id": "BSB:MAT.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.20",
+      "edition_verse_id": "BSB:MAT.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.21",
+      "edition_verse_id": "BSB:MAT.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "You have heard that it was said to the ancients, ‘Do not murder’ and ‘Anyone who murders will be subject to judgment.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.22",
+      "edition_verse_id": "BSB:MAT.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, ‘Raca,’ will be subject to the Sanhedrin. But anyone who says, ‘You fool!’ will be subject to the fire of hell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.23",
+      "edition_verse_id": "BSB:MAT.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So if you are offering your gift at the altar and there remember that your brother has something against you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.24",
+      "edition_verse_id": "BSB:MAT.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "leave your gift there before the altar. First go and be reconciled to your brother; then come and offer your gift.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.25",
+      "edition_verse_id": "BSB:MAT.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.26",
+      "edition_verse_id": "BSB:MAT.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Truly I tell you, you will not get out until you have paid the last penny.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.27",
+      "edition_verse_id": "BSB:MAT.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "You have heard that it was said, ‘Do not commit adultery.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.28",
+      "edition_verse_id": "BSB:MAT.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But I tell you that anyone who looks at a woman to lust after her has already committed adultery with her in his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.29",
+      "edition_verse_id": "BSB:MAT.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.30",
+      "edition_verse_id": "BSB:MAT.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to depart into hell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.31",
+      "edition_verse_id": "BSB:MAT.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "It has also been said, ‘Whoever divorces his wife must give her a certificate of divorce.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.32",
+      "edition_verse_id": "BSB:MAT.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But I tell you that anyone who divorces his wife, except for sexual immorality, brings adultery upon her. And he who marries a divorced woman commits adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.33",
+      "edition_verse_id": "BSB:MAT.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Again, you have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.34",
+      "edition_verse_id": "BSB:MAT.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But I tell you not to swear at all: either by heaven, for it is God’s throne;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.35",
+      "edition_verse_id": "BSB:MAT.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "or by the earth, for it is His footstool; or by Jerusalem, for it is the city of the great King.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.36",
+      "edition_verse_id": "BSB:MAT.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Nor should you swear by your head, for you cannot make a single hair white or black.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.37",
+      "edition_verse_id": "BSB:MAT.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.38",
+      "edition_verse_id": "BSB:MAT.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "You have heard that it was said, ‘Eye for eye and tooth for tooth.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.39",
+      "edition_verse_id": "BSB:MAT.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But I tell you not to resist an evil person. If someone slaps you on your right cheek, turn to him the other also;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.40",
+      "edition_verse_id": "BSB:MAT.5.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "if someone wants to sue you and take your tunic, let him have your cloak as well;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.41",
+      "edition_verse_id": "BSB:MAT.5.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "and if someone forces you to go one mile, go with him two miles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.42",
+      "edition_verse_id": "BSB:MAT.5.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Give to the one who asks you, and do not turn away from the one who wants to borrow from you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.43",
+      "edition_verse_id": "BSB:MAT.5.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "You have heard that it was said, ‘Love your neighbor’ and ‘Hate your enemy.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.5.44",
+      "edition_verse_id": "BSB:MAT.5.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "But I tell you, love your enemies and pray for those who persecute you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.45",
+      "edition_verse_id": "BSB:MAT.5.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "that you may be sons of your Father in heaven. He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.46",
+      "edition_verse_id": "BSB:MAT.5.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "If you love those who love you, what reward will you get? Do not even tax collectors do the same?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.47",
+      "edition_verse_id": "BSB:MAT.5.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And if you greet only your brothers, what are you doing more than others? Do not even Gentiles do the same?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.5.48",
+      "edition_verse_id": "BSB:MAT.5.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Be perfect, therefore, as your heavenly Father is perfect.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

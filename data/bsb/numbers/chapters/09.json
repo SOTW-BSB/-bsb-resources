@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "NUM.9.1",
+      "edition_verse_id": "BSB:NUM.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the first month of the second year after Israel had come out of the land of Egypt, the LORD spoke to Moses in the Wilderness of Sinai:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.2",
+      "edition_verse_id": "BSB:NUM.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“The Israelites are to observe the Passover at its appointed time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.3",
+      "edition_verse_id": "BSB:NUM.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You are to observe it at the appointed time, at twilight on the fourteenth day of this month, in accordance with its statutes and ordinances.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.4",
+      "edition_verse_id": "BSB:NUM.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So Moses told the Israelites to observe the Passover,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.5",
+      "edition_verse_id": "BSB:NUM.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and they did so in the Wilderness of Sinai, at twilight on the fourteenth day of the first month. The Israelites did everything just as the LORD had commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.6",
+      "edition_verse_id": "BSB:NUM.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But there were some men who were unclean due to a dead body, so they could not observe the Passover on that day. And they came before Moses and Aaron that same day",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.7",
+      "edition_verse_id": "BSB:NUM.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and said to Moses, “We are unclean because of a dead body, but why should we be excluded from presenting the LORD’s offering with the other Israelites at the appointed time?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.8",
+      "edition_verse_id": "BSB:NUM.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Wait here until I find out what the LORD commands concerning you,” Moses replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.9",
+      "edition_verse_id": "BSB:NUM.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.10",
+      "edition_verse_id": "BSB:NUM.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Tell the Israelites: ‘When any one of you or your descendants is unclean because of a dead body, or is away on a journey, he may still observe the Passover to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.11",
+      "edition_verse_id": "BSB:NUM.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Such people are to observe it at twilight on the fourteenth day of the second month. They are to eat the lamb, together with unleavened bread and bitter herbs;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.12",
+      "edition_verse_id": "BSB:NUM.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "they may not leave any of it until morning or break any of its bones. They must observe the Passover according to all its statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.13",
+      "edition_verse_id": "BSB:NUM.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But if a man who is ceremonially clean and is not on a journey still fails to observe the Passover, he must be cut off from his people, because he did not present the LORD’s offering at its appointed time. That man will bear the consequences of his sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.14",
+      "edition_verse_id": "BSB:NUM.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If a foreigner dwelling among you wants to observe the Passover to the LORD, he is to do so according to the Passover statute and its ordinances. You are to apply the same statute to both the foreigner and the native of the land.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.15",
+      "edition_verse_id": "BSB:NUM.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "On the day that the tabernacle, the Tent of the Testimony, was set up, the cloud covered it and appeared like fire above the tabernacle from evening until morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.16",
+      "edition_verse_id": "BSB:NUM.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "It remained that way continually; the cloud would cover the tabernacle by day, and at night it would appear like fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.17",
+      "edition_verse_id": "BSB:NUM.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Whenever the cloud was lifted from above the Tent, the Israelites would set out, and wherever the cloud settled, there the Israelites would camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.18",
+      "edition_verse_id": "BSB:NUM.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "At the LORD’s command the Israelites set out, and at the LORD’s command they camped. As long as the cloud remained over the tabernacle, they remained encamped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.19",
+      "edition_verse_id": "BSB:NUM.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Even when the cloud lingered over the tabernacle for many days, the Israelites kept the LORD’s charge and did not set out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.20",
+      "edition_verse_id": "BSB:NUM.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Sometimes the cloud remained over the tabernacle for only a few days, and they would camp at the LORD’s command and set out at the LORD’s command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.21",
+      "edition_verse_id": "BSB:NUM.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Sometimes the cloud remained only from evening until morning, and when it lifted in the morning, they would set out. Whether it was by day or by night, when the cloud was taken up, they would set out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.9.22",
+      "edition_verse_id": "BSB:NUM.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Whether the cloud lingered for two days, a month, or longer, the Israelites camped and did not set out as long as the cloud remained over the tabernacle; but when it was lifted, they would set out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.9.23",
+      "edition_verse_id": "BSB:NUM.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "They camped at the LORD’s command, and they set out at the LORD’s command; they carried out the LORD’s charge according to His command through Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

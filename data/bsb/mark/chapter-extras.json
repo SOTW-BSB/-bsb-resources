@@ -1,0 +1,167 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Mission of John the Baptist",
+        "\\s1 The Temptation and Preaching of Jesus",
+        "\\s1 The First Disciples",
+        "\\s1 Jesus Expels an Unclean Spirit",
+        "\\s1 Jesus Heals at Peter’s House",
+        "\\s1 Jesus Prays and Preaches",
+        "\\s1 The Leper’s Prayer"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Jesus Heals a Paralytic",
+        "\\s1 Jesus Calls Levi",
+        "\\s1 Questions about Fasting",
+        "\\s1 The Patches and the Wineskins",
+        "\\s1 The Lord of the Sabbath"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Jesus Heals on the Sabbath",
+        "\\s1 Jesus Heals the Multitudes",
+        "\\s1 The Twelve Apostles",
+        "\\s1 A House Divided",
+        "\\s1 The Unpardonable Sin",
+        "\\s1 Jesus’ Mother and Brothers"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Parable of the Sower",
+        "\\s1 The Purpose of Jesus’ Parables",
+        "\\s1 The Parable of the Sower Explained",
+        "\\s1 The Lesson of the Lamp",
+        "\\s1 The Seed Growing Secretly",
+        "\\s1 The Parable of the Mustard Seed",
+        "\\s1 Jesus Calms the Storm"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Demons and the Pigs",
+        "\\s1 The Healing Touch of Jesus"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Rejection at Nazareth",
+        "\\s1 The Ministry of the Twelve",
+        "\\s1 The Beheading of John",
+        "\\s1 The Feeding of the Five Thousand",
+        "\\s1 Jesus Walks on Water",
+        "\\s1 Jesus Heals at Gennesaret"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 The Tradition of the Elders",
+        "\\s1 What Defiles a Man",
+        "\\s1 The Faith of the Gentile Woman",
+        "\\s1 The Deaf and Mute Man"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Feeding of the Four Thousand",
+        "\\s1 The Demand for a Sign",
+        "\\s1 The Leaven of the Pharisees and of Herod",
+        "\\s1 The Blind Man at Bethsaida",
+        "\\s1 Peter’s Confession of Christ",
+        "\\s1 Christ’s Passion Foretold",
+        "\\s1 Take Up Your Cross"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Transfiguration",
+        "\\s1 The Boy with an Evil Spirit",
+        "\\s1 The Second Prediction of the Passion",
+        "\\s1 The Greatest in the Kingdom",
+        "\\s1 Temptations and Trespasses",
+        "\\s1 Good Salt"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Teachings about Divorce",
+        "\\s1 Jesus Blesses the Children",
+        "\\s1 The Rich Young Man",
+        "\\s1 The Third Prediction of the Passion",
+        "\\s1 The Request of James and John",
+        "\\s1 Jesus Heals Bartimaeus"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Triumphal Entry",
+        "\\s1 Jesus Curses the Fig Tree",
+        "\\s1 Jesus Cleanses the Temple",
+        "\\s1 The Withered Fig Tree",
+        "\\s1 Jesus’ Authority Challenged"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Parable of the Wicked Tenants",
+        "\\s1 Paying Taxes to Caesar",
+        "\\s1 The Sadducees and the Resurrection",
+        "\\s1 The Greatest Commandment",
+        "\\s1 Whose Son Is the Christ?",
+        "\\s1 Beware of the Scribes",
+        "\\s1 The Widow’s Offering"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Temple Destruction and Other Signs",
+        "\\s1 Witnessing to All Nations",
+        "\\s1 The Abomination of Desolation",
+        "\\s1 The Return of the Son of Man",
+        "\\s1 The Lesson of the Fig Tree",
+        "\\s1 Readiness at Any Hour"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 The Plot to Kill Jesus",
+        "\\s1 Jesus Anointed at Bethany",
+        "\\s1 Judas Agrees to Betray Jesus",
+        "\\s1 Preparing the Passover",
+        "\\s1 The Last Supper",
+        "\\s1 Jesus Predicts Peter’s Denial",
+        "\\s1 Jesus Prays at Gethsemane",
+        "\\s1 The Betrayal of Jesus",
+        "\\s1 Jesus before the Sanhedrin",
+        "\\s1 Peter Denies Jesus"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Jesus Delivered to Pilate",
+        "\\s1 The Crowd Chooses Barabbas",
+        "\\s1 Pilate Delivers Up Jesus",
+        "\\s1 The Soldiers Mock Jesus",
+        "\\s1 The Crucifixion",
+        "\\s1 The Death of Jesus",
+        "\\s1 The Burial of Jesus"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 The Resurrection",
+        "\\s1 Jesus Appears to Mary Magdalene",
+        "\\s1 Jesus Appears to Two Disciples",
+        "\\s1 The Great Commission",
+        "\\s1 The Ascension"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

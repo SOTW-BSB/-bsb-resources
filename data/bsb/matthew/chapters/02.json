@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "MAT.2.1",
+      "edition_verse_id": "BSB:MAT.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east arrived in Jerusalem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.2",
+      "edition_verse_id": "BSB:MAT.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "asking, “Where is the One who has been born King of the Jews? We saw His star in the east and have come to worship Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.3",
+      "edition_verse_id": "BSB:MAT.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When King Herod heard this, he was disturbed, and all Jerusalem with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.4",
+      "edition_verse_id": "BSB:MAT.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And when he had assembled all the chief priests and scribes of the people, he asked them where the Christ was to be born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.5",
+      "edition_verse_id": "BSB:MAT.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“In Bethlehem in Judea,” they replied, “for this is what the prophet has written:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.6",
+      "edition_verse_id": "BSB:MAT.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah, for out of you will come a ruler who will be the shepherd of My people Israel.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.7",
+      "edition_verse_id": "BSB:MAT.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Herod called the Magi secretly and learned from them the exact time the star had appeared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.8",
+      "edition_verse_id": "BSB:MAT.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And sending them to Bethlehem, he said: “Go and search carefully for the Child, and when you find Him, report to me, so that I too may go and worship Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.9",
+      "edition_verse_id": "BSB:MAT.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "After they had heard the king, they went on their way, and the star they had seen in the east went ahead of them until it stood over the place where the Child was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.10",
+      "edition_verse_id": "BSB:MAT.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When they saw the star, they rejoiced with great delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.11",
+      "edition_verse_id": "BSB:MAT.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "On coming to the house, they saw the Child with His mother Mary, and they fell down and worshiped Him. Then they opened their treasures and presented Him with gifts of gold and frankincense and myrrh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.12",
+      "edition_verse_id": "BSB:MAT.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And having been warned in a dream not to return to Herod, they withdrew to their country by another route.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.13",
+      "edition_verse_id": "BSB:MAT.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When the Magi had gone, an angel of the Lord appeared to Joseph in a dream. “Get up!” he said. “Take the Child and His mother and flee to Egypt. Stay there until I tell you, for Herod is going to search for the Child to kill Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.14",
+      "edition_verse_id": "BSB:MAT.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So he got up, took the Child and His mother by night, and withdrew to Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.15",
+      "edition_verse_id": "BSB:MAT.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "where he stayed until the death of Herod. This fulfilled what the Lord had spoken through the prophet: “Out of Egypt I called My Son.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.16",
+      "edition_verse_id": "BSB:MAT.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When Herod saw that he had been outwitted by the Magi, he was filled with rage. Sending orders, he put to death all the boys in Bethlehem and its vicinity who were two years old and under, according to the time he had learned from the Magi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.17",
+      "edition_verse_id": "BSB:MAT.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then what was spoken through the prophet Jeremiah was fulfilled:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.18",
+      "edition_verse_id": "BSB:MAT.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“A voice is heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.19",
+      "edition_verse_id": "BSB:MAT.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.20",
+      "edition_verse_id": "BSB:MAT.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“Get up!” he said. “Take the Child and His mother and go to the land of Israel, for those seeking the Child’s life are now dead.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.21",
+      "edition_verse_id": "BSB:MAT.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So Joseph got up, took the Child and His mother, and went to the land of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.2.22",
+      "edition_verse_id": "BSB:MAT.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But when he learned that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. And having been warned in a dream, he withdrew to the district of Galilee,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.2.23",
+      "edition_verse_id": "BSB:MAT.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and he went and lived in a town called Nazareth. So was fulfilled what was spoken through the prophets: “He will be called a Nazarene.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

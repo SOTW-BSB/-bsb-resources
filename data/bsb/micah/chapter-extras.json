@@ -1,0 +1,50 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MIC",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Judgment to Come",
+        "\\s1 Weeping and Mourning"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Woe to Oppressors",
+        "\\s1 Reproof of False Prophets",
+        "\\s1 The Remnant of Israel"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Rulers and Prophets Condemned"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Mountain of the House of the LORD",
+        "\\s1 The Restoration of Zion"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 A Ruler from Bethlehem",
+        "\\s1 The Remnant of Jacob"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Case against Israel",
+        "\\s1 The Punishment of Israel"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Israel’s Great Misery",
+        "\\s1 Israel’s Confession and Comfort",
+        "\\s1 God’s Compassion on Israel"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

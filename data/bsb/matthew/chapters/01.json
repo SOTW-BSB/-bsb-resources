@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "MAT.1.1",
+      "edition_verse_id": "BSB:MAT.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.2",
+      "edition_verse_id": "BSB:MAT.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.3",
+      "edition_verse_id": "BSB:MAT.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.4",
+      "edition_verse_id": "BSB:MAT.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.5",
+      "edition_verse_id": "BSB:MAT.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.6",
+      "edition_verse_id": "BSB:MAT.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and Jesse the father of David the king. Next: David was the father of Solomon by Uriah’s wife,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.7",
+      "edition_verse_id": "BSB:MAT.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Solomon the father of Rehoboam, Rehoboam the father of Abijah, and Abijah the father of Asa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.8",
+      "edition_verse_id": "BSB:MAT.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.9",
+      "edition_verse_id": "BSB:MAT.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Uzziah was the father of Jotham, Jotham the father of Ahaz, and Ahaz the father of Hezekiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.10",
+      "edition_verse_id": "BSB:MAT.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.11",
+      "edition_verse_id": "BSB:MAT.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.12",
+      "edition_verse_id": "BSB:MAT.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "After the exile to Babylon: Jeconiah was the father of Shealtiel, Shealtiel the father of Zerubbabel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.13",
+      "edition_verse_id": "BSB:MAT.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.14",
+      "edition_verse_id": "BSB:MAT.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Azor was the father of Zadok, Zadok the father of Achim, and Achim the father of Eliud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.15",
+      "edition_verse_id": "BSB:MAT.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Eliud was the father of Eleazar, Eleazar the father of Matthan, Matthan the father of Jacob,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.16",
+      "edition_verse_id": "BSB:MAT.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.17",
+      "edition_verse_id": "BSB:MAT.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "In all, then, there were fourteen generations from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.18",
+      "edition_verse_id": "BSB:MAT.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.19",
+      "edition_verse_id": "BSB:MAT.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.20",
+      "edition_verse_id": "BSB:MAT.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.21",
+      "edition_verse_id": "BSB:MAT.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.22",
+      "edition_verse_id": "BSB:MAT.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "All this took place to fulfill what the Lord had said through the prophet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.23",
+      "edition_verse_id": "BSB:MAT.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” ( which means, “God with us”).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.1.24",
+      "edition_verse_id": "BSB:MAT.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When Joseph woke up, he did as the angel of the Lord had commanded him and embraced Mary as his wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.1.25",
+      "edition_verse_id": "BSB:MAT.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

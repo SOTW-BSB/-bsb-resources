@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "MAT.3.1",
+      "edition_verse_id": "BSB:MAT.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In those days John the Baptist came, preaching in the wilderness of Judea",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.3.2",
+      "edition_verse_id": "BSB:MAT.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and saying, “Repent, for the kingdom of heaven is near.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.3",
+      "edition_verse_id": "BSB:MAT.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This is he who was spoken of through the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.4",
+      "edition_verse_id": "BSB:MAT.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "John wore a garment of camel’s hair, with a leather belt around his waist. His food was locusts and wild honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.3.5",
+      "edition_verse_id": "BSB:MAT.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "People went out to him from Jerusalem and all Judea and the whole region around the Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.6",
+      "edition_verse_id": "BSB:MAT.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Confessing their sins, they were baptized by him in the Jordan River.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.7",
+      "edition_verse_id": "BSB:MAT.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But when John saw many of the Pharisees and Sadducees coming to his place of baptism, he said to them, “You brood of vipers, who warned you to flee from the coming wrath?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.3.8",
+      "edition_verse_id": "BSB:MAT.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Produce fruit, then, in keeping with repentance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.9",
+      "edition_verse_id": "BSB:MAT.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And do not presume to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.10",
+      "edition_verse_id": "BSB:MAT.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The axe lies ready at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.11",
+      "edition_verse_id": "BSB:MAT.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I baptize you with water for repentance, but after me will come One more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.3.12",
+      "edition_verse_id": "BSB:MAT.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His winnowing fork is in His hand to clear His threshing floor and to gather His wheat into the barn; but He will burn up the chaff with unquenchable fire.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.13",
+      "edition_verse_id": "BSB:MAT.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "At that time Jesus came from Galilee to the Jordan to be baptized by John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.3.14",
+      "edition_verse_id": "BSB:MAT.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But John tried to prevent Him, saying, “I need to be baptized by You, and do You come to me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.3.15",
+      "edition_verse_id": "BSB:MAT.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Let it be so now,” Jesus replied. “It is fitting for us to fulfill all righteousness in this way.” Then John permitted Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.3.16",
+      "edition_verse_id": "BSB:MAT.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "As soon as Jesus was baptized, He went up out of the water. Suddenly the heavens were opened, and He saw the Spirit of God descending like a dove and resting on Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.3.17",
+      "edition_verse_id": "BSB:MAT.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

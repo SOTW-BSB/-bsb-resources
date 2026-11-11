@@ -1,0 +1,620 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "NUM.3.1",
+      "edition_verse_id": "BSB:NUM.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the account of Aaron and Moses at the time the LORD spoke with Moses on Mount Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.2",
+      "edition_verse_id": "BSB:NUM.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "These are the names of the sons of Aaron: Nadab the firstborn, then Abihu, Eleazar, and Ithamar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.3",
+      "edition_verse_id": "BSB:NUM.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "These were Aaron’s sons, the anointed priests, who were ordained to serve as priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.4",
+      "edition_verse_id": "BSB:NUM.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nadab and Abihu, however, died in the presence of the LORD when they offered unauthorized fire before the LORD in the Wilderness of Sinai. And since they had no sons, only Eleazar and Ithamar served as priests during the lifetime of their father Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.5",
+      "edition_verse_id": "BSB:NUM.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.6",
+      "edition_verse_id": "BSB:NUM.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Bring the tribe of Levi and present them to Aaron the priest to assist him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.7",
+      "edition_verse_id": "BSB:NUM.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They are to perform duties for him and for the whole congregation before the Tent of Meeting, attending to the service of the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.8",
+      "edition_verse_id": "BSB:NUM.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They shall take care of all the furnishings of the Tent of Meeting and fulfill obligations for the Israelites by attending to the service of the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.9",
+      "edition_verse_id": "BSB:NUM.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Assign the Levites to Aaron and his sons; they have been given exclusively to him from among the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.10",
+      "edition_verse_id": "BSB:NUM.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So you shall appoint Aaron and his sons to carry out the duties of the priesthood; but any outsider who approaches the tabernacle must be put to death.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.11",
+      "edition_verse_id": "BSB:NUM.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Again the LORD spoke to Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.12",
+      "edition_verse_id": "BSB:NUM.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Behold, I have taken the Levites from among the children of Israel in place of every firstborn Israelite from the womb. The Levites belong to Me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.13",
+      "edition_verse_id": "BSB:NUM.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "for all the firstborn are Mine. On the day I struck down every firstborn in the land of Egypt, I consecrated to Myself all the firstborn in Israel, both man and beast. They are Mine; I am the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.14",
+      "edition_verse_id": "BSB:NUM.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then the LORD spoke to Moses in the Wilderness of Sinai, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.15",
+      "edition_verse_id": "BSB:NUM.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Number the Levites by their families and clans. You are to count every male a month old or more.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.16",
+      "edition_verse_id": "BSB:NUM.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So Moses numbered them according to the word of the LORD, as he had been commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.17",
+      "edition_verse_id": "BSB:NUM.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "These were the sons of Levi by name: Gershon, Kohath, and Merari.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.18",
+      "edition_verse_id": "BSB:NUM.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "These were the names of the sons of Gershon by their clans: Libni and Shimei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.19",
+      "edition_verse_id": "BSB:NUM.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The sons of Kohath by their clans were Amram, Izhar, Hebron, and Uzziel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.20",
+      "edition_verse_id": "BSB:NUM.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the sons of Merari by their clans were Mahli and Mushi. These were the clans of the Levites, according to their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.21",
+      "edition_verse_id": "BSB:NUM.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "From Gershon came the Libnite clan and the Shimeite clan; these were the Gershonite clans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.22",
+      "edition_verse_id": "BSB:NUM.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The number of all the males a month old or more was 7,500.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.23",
+      "edition_verse_id": "BSB:NUM.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The Gershonite clans were to camp on the west, behind the tabernacle,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.24",
+      "edition_verse_id": "BSB:NUM.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and the leader of the families of the Gershonites was Eliasaph son of Lael.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.25",
+      "edition_verse_id": "BSB:NUM.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The duties of the Gershonites at the Tent of Meeting were the tabernacle and tent, its covering, the curtain for the entrance to the Tent of Meeting,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.26",
+      "edition_verse_id": "BSB:NUM.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "the curtains of the courtyard, the curtain for the entrance to the courtyard that surrounds the tabernacle and altar, and the cords— all the service for these items.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.27",
+      "edition_verse_id": "BSB:NUM.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "From Kohath came the clans of the Amramites, the Izharites, the Hebronites, and the Uzzielites; these were the clans of the Kohathites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.28",
+      "edition_verse_id": "BSB:NUM.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The number of all the males a month old or more was 8,600. They were responsible for the duties of the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.29",
+      "edition_verse_id": "BSB:NUM.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The clans of the Kohathites were to camp on the south side of the tabernacle,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.30",
+      "edition_verse_id": "BSB:NUM.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "and the leader of the families of the Kohathites was Elizaphan son of Uzziel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.31",
+      "edition_verse_id": "BSB:NUM.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Their duties were the ark, the table, the lampstand, the altars, the articles of the sanctuary used with them, and the curtain— all the service for these items.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.32",
+      "edition_verse_id": "BSB:NUM.3.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The chief of the leaders of the Levites was Eleazar son of Aaron the priest; he oversaw those responsible for the duties of the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.33",
+      "edition_verse_id": "BSB:NUM.3.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "From Merari came the clans of the Mahlites and Mushites; these were the Merarite clans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.34",
+      "edition_verse_id": "BSB:NUM.3.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The number of all the males a month old or more was 6,200.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.35",
+      "edition_verse_id": "BSB:NUM.3.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The leader of the families of the Merarites was Zuriel son of Abihail; they were to camp on the north side of the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.36",
+      "edition_verse_id": "BSB:NUM.3.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The duties assigned to the sons of Merari were the tabernacle’s frames, crossbars, posts, bases, and all its equipment— all the service for these items,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.37",
+      "edition_verse_id": "BSB:NUM.3.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "as well as the posts of the surrounding courtyard with their bases, tent pegs, and ropes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.38",
+      "edition_verse_id": "BSB:NUM.3.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Moses, Aaron, and Aaron’s sons were to camp to the east of the tabernacle, toward the sunrise, before the Tent of Meeting. They were to perform the duties of the sanctuary as a service on behalf of the Israelites; but any outsider who approached the sanctuary was to be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.39",
+      "edition_verse_id": "BSB:NUM.3.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "The total number of Levites that Moses and Aaron counted by their clans at the LORD’s command, including all the males a month old or more, was 22,000.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.40",
+      "edition_verse_id": "BSB:NUM.3.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Number every firstborn male of the Israelites a month old or more, and list their names.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.41",
+      "edition_verse_id": "BSB:NUM.3.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "You are to take the Levites for Me— I am the LORD— in place of all the firstborn of Israel, and the livestock of the Levites in place of all the firstborn of the livestock of the Israelites.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.42",
+      "edition_verse_id": "BSB:NUM.3.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "So Moses numbered all the firstborn of the Israelites, as the LORD had commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.43",
+      "edition_verse_id": "BSB:NUM.3.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The total number of the firstborn males a month old or more, listed by name, was 22,273.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.44",
+      "edition_verse_id": "BSB:NUM.3.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Again the LORD spoke to Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.45",
+      "edition_verse_id": "BSB:NUM.3.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "“Take the Levites in place of all the firstborn of Israel, and the livestock of the Levites in place of their livestock. The Levites belong to Me; I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.46",
+      "edition_verse_id": "BSB:NUM.3.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "To redeem the 273 firstborn Israelites who outnumber the Levites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.47",
+      "edition_verse_id": "BSB:NUM.3.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "you are to collect five shekels for each one, according to the sanctuary shekel of twenty gerahs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.48",
+      "edition_verse_id": "BSB:NUM.3.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Give the money to Aaron and his sons as the redemption price for the excess among the Israelites.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.49",
+      "edition_verse_id": "BSB:NUM.3.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "So Moses collected the redemption money from those in excess of the number redeemed by the Levites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.3.50",
+      "edition_verse_id": "BSB:NUM.3.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "He collected the money from the firstborn of the Israelites: 1,365 shekels, according to the sanctuary shekel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.3.51",
+      "edition_verse_id": "BSB:NUM.3.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "And Moses gave the redemption money to Aaron and his sons in obedience to the word of the LORD, just as the LORD had commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

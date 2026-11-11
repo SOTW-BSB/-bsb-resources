@@ -1,0 +1,872 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "MRK.14.1",
+      "edition_verse_id": "BSB:MRK.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the Passover and the Feast of Unleavened Bread were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.2",
+      "edition_verse_id": "BSB:MRK.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“But not during the feast,” they said, “or there may be a riot among the people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.3",
+      "edition_verse_id": "BSB:MRK.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "While Jesus was in Bethany reclining at the table in the home of Simon the Leper, a woman came with an alabaster jar of expensive perfume, made of pure nard. She broke open the jar and poured it on Jesus’ head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.4",
+      "edition_verse_id": "BSB:MRK.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Some of those present, however, expressed their indignation to one another: “Why this waste of perfume?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.5",
+      "edition_verse_id": "BSB:MRK.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "It could have been sold for over three hundred denarii and the money given to the poor.” And they scolded her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.6",
+      "edition_verse_id": "BSB:MRK.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But Jesus said, “Leave her alone; why are you bothering her? She has done a beautiful deed to Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.7",
+      "edition_verse_id": "BSB:MRK.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The poor you will always have with you, and you can help them whenever you want. But you will not always have Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.8",
+      "edition_verse_id": "BSB:MRK.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "She has done what she could to anoint My body in advance of My burial.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.9",
+      "edition_verse_id": "BSB:MRK.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And truly I tell you, wherever the gospel is preached in all the world, what she has done will also be told in memory of her.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.10",
+      "edition_verse_id": "BSB:MRK.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Judas Iscariot, one of the Twelve, went to the chief priests to betray Jesus to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.11",
+      "edition_verse_id": "BSB:MRK.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They were delighted to hear this, and they promised to give him money. So Judas began to look for an opportunity to betray Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.12",
+      "edition_verse_id": "BSB:MRK.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "On the first day of the Feast of Unleavened Bread, when the Passover lamb was to be sacrificed, Jesus’ disciples asked Him, “Where do You want us to prepare for You to eat the Passover?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.13",
+      "edition_verse_id": "BSB:MRK.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So He sent two of His disciples and told them, “Go into the city, and a man carrying a jug of water will meet you. Follow him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.14",
+      "edition_verse_id": "BSB:MRK.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and whichever house he enters, say to the owner, ‘The Teacher asks: Where is My guest room, where I may eat the Passover with My disciples?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.15",
+      "edition_verse_id": "BSB:MRK.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And he will show you a large upper room, furnished and ready. Make preparations for us there.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.16",
+      "edition_verse_id": "BSB:MRK.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So the disciples left and went into the city, where they found everything as Jesus had described. And they prepared the Passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.17",
+      "edition_verse_id": "BSB:MRK.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "When evening came, Jesus arrived with the Twelve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.18",
+      "edition_verse_id": "BSB:MRK.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And while they were reclining and eating, Jesus said, “Truly I tell you, one of you who is eating with Me will betray Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.19",
+      "edition_verse_id": "BSB:MRK.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They began to be grieved and to ask Him one after another, “Surely not I?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.20",
+      "edition_verse_id": "BSB:MRK.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He answered, “It is one of the Twelve — the one who is dipping his hand into the bowl with Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.21",
+      "edition_verse_id": "BSB:MRK.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed! It would be better for him if he had not been born.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.22",
+      "edition_verse_id": "BSB:MRK.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take it; this is My body.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.23",
+      "edition_verse_id": "BSB:MRK.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then He took the cup, gave thanks, and gave it to them, and they all drank from it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.24",
+      "edition_verse_id": "BSB:MRK.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He said to them, “This is My blood of the covenant, which is poured out for many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.25",
+      "edition_verse_id": "BSB:MRK.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Truly I tell you, I will no longer drink of the fruit of the vine until that day when I drink it anew in the kingdom of God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.26",
+      "edition_verse_id": "BSB:MRK.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And when they had sung a hymn, they went out to the Mount of Olives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.27",
+      "edition_verse_id": "BSB:MRK.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then Jesus said to them, “You will all fall away, for it is written: ‘I will strike the Shepherd, and the sheep will be scattered.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.28",
+      "edition_verse_id": "BSB:MRK.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But after I have risen, I will go ahead of you into Galilee.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.29",
+      "edition_verse_id": "BSB:MRK.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Peter declared, “Even if all fall away, I never will.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.30",
+      "edition_verse_id": "BSB:MRK.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "“Truly I tell you,” Jesus replied, “this very night, before the rooster crows twice, you will deny Me three times.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.31",
+      "edition_verse_id": "BSB:MRK.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But Peter kept insisting, “Even if I have to die with You, I will never deny You.” And all the others said the same thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.32",
+      "edition_verse_id": "BSB:MRK.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then they came to a place called Gethsemane, and Jesus told His disciples, “Sit here while I pray.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.33",
+      "edition_verse_id": "BSB:MRK.14.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He took with Him Peter, James, and John, and began to be deeply troubled and distressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.34",
+      "edition_verse_id": "BSB:MRK.14.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.35",
+      "edition_verse_id": "BSB:MRK.14.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Going a little farther, He fell to the ground and prayed that, if it were possible, the hour would pass from Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.36",
+      "edition_verse_id": "BSB:MRK.14.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "“Abba, Father,” He said, “all things are possible for You. Take this cup from Me. Yet not what I will, but what You will.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.37",
+      "edition_verse_id": "BSB:MRK.14.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Then Jesus returned and found them sleeping. “Simon, are you asleep?” He asked. “Were you not able to keep watch for one hour?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.38",
+      "edition_verse_id": "BSB:MRK.14.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Watch and pray so that you will not enter into temptation. For the spirit is willing, but the body is weak.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.39",
+      "edition_verse_id": "BSB:MRK.14.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Again He went away and prayed, saying the same thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.40",
+      "edition_verse_id": "BSB:MRK.14.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And again Jesus returned and found them sleeping, for their eyes were heavy. And they did not know what to answer Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.41",
+      "edition_verse_id": "BSB:MRK.14.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "When Jesus returned the third time, He said, “Are you still sleeping and resting? That is enough! The hour has come. Look, the Son of Man is betrayed into the hands of sinners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.42",
+      "edition_verse_id": "BSB:MRK.14.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Rise, let us go. See, My betrayer is approaching!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.43",
+      "edition_verse_id": "BSB:MRK.14.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "While Jesus was still speaking, Judas, one of the Twelve, arrived, accompanied by a crowd armed with swords and clubs, sent from the chief priests, scribes, and elders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.44",
+      "edition_verse_id": "BSB:MRK.14.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Now the betrayer had arranged a signal with them: “The One I kiss is the man; arrest Him and lead Him away securely.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.45",
+      "edition_verse_id": "BSB:MRK.14.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Going directly to Jesus, he said, “Rabbi!” and kissed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.46",
+      "edition_verse_id": "BSB:MRK.14.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Then the men seized Jesus and arrested Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.47",
+      "edition_verse_id": "BSB:MRK.14.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And one of the bystanders drew his sword and struck the servant of the high priest, cutting off his ear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.48",
+      "edition_verse_id": "BSB:MRK.14.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Jesus asked the crowd, “Have you come out with swords and clubs to arrest Me as you would an outlaw?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.49",
+      "edition_verse_id": "BSB:MRK.14.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Every day I was with you, teaching in the temple courts, and you did not arrest Me. But this has happened that the Scriptures would be fulfilled.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.50",
+      "edition_verse_id": "BSB:MRK.14.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Then everyone deserted Him and fled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.51",
+      "edition_verse_id": "BSB:MRK.14.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "One young man who had been following Jesus was wearing a linen cloth around his body. They caught hold of him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.52",
+      "edition_verse_id": "BSB:MRK.14.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "but he pulled free of the linen cloth and ran away naked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.53",
+      "edition_verse_id": "BSB:MRK.14.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "They led Jesus away to the high priest, and all the chief priests, elders, and scribes assembled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.54",
+      "edition_verse_id": "BSB:MRK.14.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Peter followed Him at a distance, right into the courtyard of the high priest. And he sat with the officers and warmed himself by the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.55",
+      "edition_verse_id": "BSB:MRK.14.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "Now the chief priests and the whole Sanhedrin were seeking testimony against Jesus to put Him to death, but they did not find any.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.56",
+      "edition_verse_id": "BSB:MRK.14.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "For many bore false witness against Jesus, but their testimony was inconsistent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.57",
+      "edition_verse_id": "BSB:MRK.14.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "Then some men stood up and testified falsely against Him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.58",
+      "edition_verse_id": "BSB:MRK.14.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "“We heard Him say, ‘I will destroy this man-made temple, and in three days I will build another that is made without hands.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.59",
+      "edition_verse_id": "BSB:MRK.14.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "But even their testimony was inconsistent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.60",
+      "edition_verse_id": "BSB:MRK.14.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "So the high priest stood up before them and questioned Jesus, “Have You no answer? What are these men testifying against You?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.61",
+      "edition_verse_id": "BSB:MRK.14.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "But Jesus remained silent and made no reply. Again the high priest questioned Him, “Are You the Christ, the Son of the Blessed One?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.62",
+      "edition_verse_id": "BSB:MRK.14.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "“I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of Power and coming with the clouds of heaven.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.63",
+      "edition_verse_id": "BSB:MRK.14.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "At this, the high priest tore his clothes and declared, “Why do we need any more witnesses?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.64",
+      "edition_verse_id": "BSB:MRK.14.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "You have heard the blasphemy. What is your verdict?” And they all condemned Him as deserving of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.65",
+      "edition_verse_id": "BSB:MRK.14.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Then some of them began to spit on Him. They blindfolded Him, struck Him with their fists, and said to Him, “Prophesy!” And the officers received Him with slaps in His face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.66",
+      "edition_verse_id": "BSB:MRK.14.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "While Peter was in the courtyard below, one of the servant girls of the high priest came down",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.67",
+      "edition_verse_id": "BSB:MRK.14.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "and saw him warming himself there. She looked at Peter and said, “You also were with Jesus the Nazarene.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.14.68",
+      "edition_verse_id": "BSB:MRK.14.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "But he denied it. “I do not know or even understand what you are talking about,” he said. Then he went out to the gateway, and the rooster crowed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.69",
+      "edition_verse_id": "BSB:MRK.14.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "There the servant girl saw him and again said to those standing nearby, “This man is one of them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.70",
+      "edition_verse_id": "BSB:MRK.14.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "But he denied it again. After a little while, those standing nearby said once more to Peter, “Surely you are one of them, for you too are a Galilean.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.71",
+      "edition_verse_id": "BSB:MRK.14.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "But he began to curse and swear, “I do not know this man of whom you speak!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.14.72",
+      "edition_verse_id": "BSB:MRK.14.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "And immediately the rooster crowed a second time. Then Peter remembered the word that Jesus had spoken to him: “Before the rooster crows twice, you will deny Me three times.” And he broke down and wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

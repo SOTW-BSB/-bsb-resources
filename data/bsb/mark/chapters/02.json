@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "MRK.2.1",
+      "edition_verse_id": "BSB:MRK.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A few days later Jesus went back to Capernaum. And when the people heard that He was home,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.2",
+      "edition_verse_id": "BSB:MRK.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "they gathered in such large numbers that there was no more room, not even outside the door, as Jesus spoke the word to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.3",
+      "edition_verse_id": "BSB:MRK.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then a paralytic was brought to Him, carried by four men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.4",
+      "edition_verse_id": "BSB:MRK.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Since they were unable to get to Jesus through the crowd, they uncovered the roof above Him, made an opening, and lowered the paralytic on his mat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.5",
+      "edition_verse_id": "BSB:MRK.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When Jesus saw their faith, He said to the paralytic, “Son, your sins are forgiven.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.6",
+      "edition_verse_id": "BSB:MRK.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But some of the scribes were sitting there and thinking in their hearts,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.7",
+      "edition_verse_id": "BSB:MRK.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Why does this man speak like this? He is blaspheming! Who can forgive sins but God alone?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.8",
+      "edition_verse_id": "BSB:MRK.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "At once Jesus knew in His spirit that they were thinking this way within themselves. “Why are you thinking these things in your hearts?” He asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.9",
+      "edition_verse_id": "BSB:MRK.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“Which is easier: to say to a paralytic, ‘Your sins are forgiven,’ or to say, ‘Get up, pick up your mat, and walk’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.10",
+      "edition_verse_id": "BSB:MRK.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But so that you may know that the Son of Man has authority on earth to forgive sins...” He said to the paralytic,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.11",
+      "edition_verse_id": "BSB:MRK.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“I tell you, get up, pick up your mat, and go home.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.12",
+      "edition_verse_id": "BSB:MRK.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And immediately the man got up, picked up his mat, and walked out in front of them all. As a result, they were all astounded and glorified God, saying, “We have never seen anything like this!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.13",
+      "edition_verse_id": "BSB:MRK.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Once again Jesus went out beside the sea. All the people came to Him, and He taught them there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.14",
+      "edition_verse_id": "BSB:MRK.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As He was walking along, He saw Levi son of Alphaeus sitting at the tax booth. “Follow Me,” He told him, and Levi got up and followed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.15",
+      "edition_verse_id": "BSB:MRK.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "While Jesus was dining at Levi’s house, many tax collectors and sinners were eating with Him and His disciples — for there were many who followed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.16",
+      "edition_verse_id": "BSB:MRK.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, “Why does He eat with tax collectors and sinners?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.17",
+      "edition_verse_id": "BSB:MRK.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "On hearing this, Jesus told them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.18",
+      "edition_verse_id": "BSB:MRK.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now John’s disciples and the Pharisees were often fasting. So people came to Jesus and asked, “Why don’t Your disciples fast like John’s disciples and those of the Pharisees?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.19",
+      "edition_verse_id": "BSB:MRK.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Jesus replied, “How can the guests of the bridegroom fast while He is with them? As long as He is with them, they cannot fast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.20",
+      "edition_verse_id": "BSB:MRK.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the time will come when the bridegroom will be taken from them; then they will fast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.21",
+      "edition_verse_id": "BSB:MRK.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "No one sews a patch of unshrunk cloth on an old garment. If he does, the new piece will pull away from the old, and a worse tear will result.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.22",
+      "edition_verse_id": "BSB:MRK.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And no one pours new wine into old wineskins. If he does, the wine will burst the skins, and both the wine and the wineskins will be ruined. Instead, new wine is poured into new wineskins.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.23",
+      "edition_verse_id": "BSB:MRK.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain as they walked along.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.24",
+      "edition_verse_id": "BSB:MRK.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So the Pharisees said to Him, “Look, why are they doing what is unlawful on the Sabbath?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.25",
+      "edition_verse_id": "BSB:MRK.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Jesus replied, “Have you never read what David did when he and his companions were hungry and in need?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.26",
+      "edition_verse_id": "BSB:MRK.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.2.27",
+      "edition_verse_id": "BSB:MRK.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then Jesus declared, “The Sabbath was made for man, not man for the Sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.2.28",
+      "edition_verse_id": "BSB:MRK.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Therefore, the Son of Man is Lord even of the Sabbath.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

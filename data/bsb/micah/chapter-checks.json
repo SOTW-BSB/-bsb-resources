@@ -1,0 +1,50 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MIC",
+  "chapter_count": 7,
+  "verse_count": 105,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 16,
+      "omitted_from_main_text": [],
+      "sha256": "5f65cc042139e9ec28690e80a75e4087f2de167610be242a2add85600306cc1b"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 13,
+      "omitted_from_main_text": [],
+      "sha256": "a40e8f3c39273cb2c8fc8826805e7ae8268816db88e05a9afb55bdb33a1a8464"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 12,
+      "omitted_from_main_text": [],
+      "sha256": "95fcd4d157a1b3a2d09884a5a5cab6564686ce2de7d370a418528102fac2a691"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 13,
+      "omitted_from_main_text": [],
+      "sha256": "16677e4abb7fda68073a5cbdb9988cf25c42888dc9dd6c85016bc32208d277c0"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "a41d569663f5505d7fc6a2a92a1592dd3adce23e5fe56f6134281a41f29d09f9"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 16,
+      "omitted_from_main_text": [],
+      "sha256": "04f0acdd3578f9354bc6651fc522a5468b094bc2379e8c065b7597412337ebc5"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "838595d5ea4344660ca41f9eb0ea0d0a817cad43b12544da7f6b31aae9a619f6"
+    }
+  ]
+}

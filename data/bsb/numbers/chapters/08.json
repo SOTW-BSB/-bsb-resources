@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "NUM.8.1",
+      "edition_verse_id": "BSB:NUM.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.2",
+      "edition_verse_id": "BSB:NUM.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Speak to Aaron and tell him: ‘When you set up the seven lamps, they are to light the area in front of the lampstand.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.3",
+      "edition_verse_id": "BSB:NUM.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Aaron did so; he set up the lamps facing toward the front of the lampstand, just as the LORD had commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.4",
+      "edition_verse_id": "BSB:NUM.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This is how the lampstand was constructed: it was made of hammered gold from its base to its blossoms, fashioned according to the pattern the LORD had shown Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.5",
+      "edition_verse_id": "BSB:NUM.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Again the LORD spoke to Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.6",
+      "edition_verse_id": "BSB:NUM.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Take the Levites from among the Israelites and make them ceremonially clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.7",
+      "edition_verse_id": "BSB:NUM.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "This is what you must do to cleanse them: Sprinkle them with the water of purification. Have them shave their whole bodies and wash their clothes, and so purify themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.8",
+      "edition_verse_id": "BSB:NUM.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then have them take a young bull with its grain offering of fine flour mixed with oil, and you are to take a second young bull for a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.9",
+      "edition_verse_id": "BSB:NUM.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Bring the Levites before the Tent of Meeting and assemble the whole congregation of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.10",
+      "edition_verse_id": "BSB:NUM.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You are to present the Levites before the LORD and have the Israelites lay their hands upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.11",
+      "edition_verse_id": "BSB:NUM.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Aaron is to present the Levites before the LORD as a wave offering from the sons of Israel, so that they may perform the service of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.12",
+      "edition_verse_id": "BSB:NUM.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the Levites are to lay their hands on the heads of the bulls, and offer to the LORD one as a sin offering and the other as a burnt offering, to make atonement for the Levites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.13",
+      "edition_verse_id": "BSB:NUM.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You are to have the Levites stand before Aaron and his sons and then present them before the LORD as a wave offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.14",
+      "edition_verse_id": "BSB:NUM.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In this way you shall separate the Levites from the rest of the Israelites, and the Levites will belong to Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.15",
+      "edition_verse_id": "BSB:NUM.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "After you have cleansed them and presented them as a wave offering, they may come to serve at the Tent of Meeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.16",
+      "edition_verse_id": "BSB:NUM.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the Levites have been wholly given to Me from among the sons of Israel. I have taken them for Myself in place of all who come first from the womb, the firstborn of all the sons of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.17",
+      "edition_verse_id": "BSB:NUM.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For every firstborn male in Israel is Mine, both man and beast. I set them apart for Myself on the day I struck down all the firstborn in the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.18",
+      "edition_verse_id": "BSB:NUM.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But I have taken the Levites in place of all the firstborn among the sons of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.19",
+      "edition_verse_id": "BSB:NUM.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I have given the Levites as a gift to Aaron and his sons from among the Israelites, to perform the service for the Israelites at the Tent of Meeting and to make atonement on their behalf, so that no plague will come against the Israelites when they approach the sanctuary.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.20",
+      "edition_verse_id": "BSB:NUM.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Moses, Aaron, and the whole congregation of Israel did with the Levites everything that the LORD had commanded Moses they should do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.21",
+      "edition_verse_id": "BSB:NUM.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The Levites purified themselves and washed their clothes, and Aaron presented them as a wave offering before the LORD. Aaron also made atonement for them to cleanse them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.22",
+      "edition_verse_id": "BSB:NUM.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "After that, the Levites came to perform their service at the Tent of Meeting in the presence of Aaron and his sons. Thus they did with the Levites just as the LORD had commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.23",
+      "edition_verse_id": "BSB:NUM.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.8.24",
+      "edition_verse_id": "BSB:NUM.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“This applies to the Levites: Men twenty-five years of age or older shall enter to perform the service in the work at the Tent of Meeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.25",
+      "edition_verse_id": "BSB:NUM.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But at the age of fifty, they must retire from performing the work and no longer serve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.8.26",
+      "edition_verse_id": "BSB:NUM.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "After that, they may assist their brothers in fulfilling their duties at the Tent of Meeting, but they themselves are not to do the work. This is how you are to assign responsibilities to the Levites.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

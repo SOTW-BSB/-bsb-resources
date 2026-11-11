@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "MAT.21.1",
+      "edition_verse_id": "BSB:MAT.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent out two disciples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.2",
+      "edition_verse_id": "BSB:MAT.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "saying to them, “Go into the village ahead of you, and at once you will find a donkey tied there, with her colt beside her. Untie them and bring them to Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.3",
+      "edition_verse_id": "BSB:MAT.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If anyone questions you, tell him that the Lord needs them, and he will send them right away.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.4",
+      "edition_verse_id": "BSB:MAT.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This took place to fulfill what was spoken through the prophet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.5",
+      "edition_verse_id": "BSB:MAT.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Say to the Daughter of Zion, ‘See, your King comes to you, gentle and riding on a donkey, on a colt, the foal of a donkey.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.6",
+      "edition_verse_id": "BSB:MAT.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So the disciples went and did as Jesus had directed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.7",
+      "edition_verse_id": "BSB:MAT.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They brought the donkey and the colt and laid their cloaks on them, and Jesus sat on them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.8",
+      "edition_verse_id": "BSB:MAT.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "A massive crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.9",
+      "edition_verse_id": "BSB:MAT.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The crowds that went ahead of Him and those that followed were shouting: “Hosanna to the Son of David!” “Blessed is He who comes in the name of the Lord!” “Hosanna in the highest!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.10",
+      "edition_verse_id": "BSB:MAT.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When Jesus had entered Jerusalem, the whole city was stirred and asked, “Who is this?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.11",
+      "edition_verse_id": "BSB:MAT.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The crowds replied, “This is Jesus, the prophet from Nazareth in Galilee.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.12",
+      "edition_verse_id": "BSB:MAT.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then Jesus entered the temple courts and drove out all who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.13",
+      "edition_verse_id": "BSB:MAT.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And He declared to them, “It is written: ‘My house will be called a house of prayer.’ But you are making it ‘a den of robbers.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.14",
+      "edition_verse_id": "BSB:MAT.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The blind and the lame came to Him at the temple, and He healed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.15",
+      "edition_verse_id": "BSB:MAT.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But the chief priests and scribes were indignant when they saw the wonders He performed and the children shouting in the temple courts, “Hosanna to the Son of David!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.16",
+      "edition_verse_id": "BSB:MAT.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“Do You hear what these children are saying?” they asked. “Yes,” Jesus answered. “Have you never read: ‘From the mouths of children and infants You have ordained praise’?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.17",
+      "edition_verse_id": "BSB:MAT.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then He left them and went out of the city to Bethany, where He spent the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.18",
+      "edition_verse_id": "BSB:MAT.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "In the morning, as Jesus was returning to the city, He was hungry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.19",
+      "edition_verse_id": "BSB:MAT.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Seeing a fig tree by the road, He went up to it but found nothing on it except leaves. “May you never bear fruit again!” He said. And immediately the tree withered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.20",
+      "edition_verse_id": "BSB:MAT.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When the disciples saw this, they marveled and asked, “How did the fig tree wither so quickly?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.21",
+      "edition_verse_id": "BSB:MAT.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Truly I tell you,” Jesus replied, “if you have faith and do not doubt, not only will you do what was done to the fig tree, but even if you say to this mountain, ‘Be lifted up and thrown into the sea,’ it will happen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.22",
+      "edition_verse_id": "BSB:MAT.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "If you believe, you will receive whatever you ask for in prayer.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.23",
+      "edition_verse_id": "BSB:MAT.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When Jesus returned to the temple courts and began to teach, the chief priests and elders of the people came up to Him. “By what authority are You doing these things?” they asked. “And who gave You this authority?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.24",
+      "edition_verse_id": "BSB:MAT.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“I will also ask you one question,” Jesus replied, “and if you answer Me, I will tell you by what authority I am doing these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.25",
+      "edition_verse_id": "BSB:MAT.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "What was the source of John’s baptism? Was it from heaven or from men?” They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.26",
+      "edition_verse_id": "BSB:MAT.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But if we say, ‘From men,’ we are afraid of the people, for they all regard John as a prophet.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.27",
+      "edition_verse_id": "BSB:MAT.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So they answered, “We do not know.” And Jesus replied, “Neither will I tell you by what authority I am doing these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.28",
+      "edition_verse_id": "BSB:MAT.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But what do you think? There was a man who had two sons. He went to the first one and said, ‘Son, go and work today in the vineyard.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.29",
+      "edition_verse_id": "BSB:MAT.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "‘I will not,’ he replied. But later he changed his mind and went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.30",
+      "edition_verse_id": "BSB:MAT.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then the man went to the second son and told him the same thing. ‘I will, sir,’ he said. But he did not go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.31",
+      "edition_verse_id": "BSB:MAT.21.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Which of the two did the will of his father?” “The first,” they answered. Jesus said to them, “Truly I tell you, the tax collectors and prostitutes are entering the kingdom of God before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.32",
+      "edition_verse_id": "BSB:MAT.21.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and prostitutes did. And even after you saw this, you did not repent and believe him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.33",
+      "edition_verse_id": "BSB:MAT.21.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Listen to another parable: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it, and built a tower. Then he rented it out to some tenants and went away on a journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.34",
+      "edition_verse_id": "BSB:MAT.21.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When the harvest time drew near, he sent his servants to the tenants to collect his share of the fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.35",
+      "edition_verse_id": "BSB:MAT.21.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But the tenants seized his servants. They beat one, killed another, and stoned a third.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.36",
+      "edition_verse_id": "BSB:MAT.21.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Again, he sent other servants, more than the first group. But the tenants did the same to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.37",
+      "edition_verse_id": "BSB:MAT.21.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Finally, he sent his son to them. ‘They will respect my son,’ he said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.38",
+      "edition_verse_id": "BSB:MAT.21.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But when the tenants saw the son, they said to one another, ‘This is the heir. Come, let us kill him and take his inheritance.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.39",
+      "edition_verse_id": "BSB:MAT.21.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "So they seized him and threw him out of the vineyard and killed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.40",
+      "edition_verse_id": "BSB:MAT.21.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Therefore, when the owner of the vineyard returns, what will he do to those tenants?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.41",
+      "edition_verse_id": "BSB:MAT.21.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "“He will bring those wretches to a wretched end,” they replied, “and will rent out the vineyard to other tenants who will give him his share of the fruit at harvest time.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.42",
+      "edition_verse_id": "BSB:MAT.21.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Jesus said to them, “Have you never read in the Scriptures: ‘The stone the builders rejected has become the cornerstone. This is from the Lord, and it is marvelous in our eyes’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.43",
+      "edition_verse_id": "BSB:MAT.21.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will produce its fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.44",
+      "edition_verse_id": "BSB:MAT.21.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "He who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MAT.21.45",
+      "edition_verse_id": "BSB:MAT.21.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "When the chief priests and Pharisees heard His parables, they knew that Jesus was speaking about them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MAT.21.46",
+      "edition_verse_id": "BSB:MAT.21.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Although they wanted to arrest Him, they were afraid of the crowds, because the people regarded Him as a prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

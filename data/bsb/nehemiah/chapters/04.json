@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NEH",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "NEH.4.1",
+      "edition_verse_id": "BSB:NEH.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when Sanballat heard that we were rebuilding the wall, he was furious and filled with indignation. He ridiculed the Jews",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.2",
+      "edition_verse_id": "BSB:NEH.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "before his associates and the army of Samaria, saying, “What are these feeble Jews doing? Can they restore the wall by themselves? Will they offer sacrifices? Will they complete it in a day? Can they bring these burnt stones back to life from the mounds of rubble?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.3",
+      "edition_verse_id": "BSB:NEH.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Tobiah the Ammonite, who was beside him, said, “If even a fox were to climb up on what they are building, it would break down their wall of stones!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.4",
+      "edition_verse_id": "BSB:NEH.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Hear us, O God, for we are despised. Turn their scorn back upon their own heads, and let them be taken as plunder to a land of captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.5",
+      "edition_verse_id": "BSB:NEH.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Do not cover up their iniquity or let their sin be blotted out from Your sight, for they have provoked the builders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.6",
+      "edition_verse_id": "BSB:NEH.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So we rebuilt the wall until all of it was joined together up to half its height, for the people had a mind to work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.7",
+      "edition_verse_id": "BSB:NEH.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When Sanballat and Tobiah, together with the Arabs, Ammonites, and Ashdodites, heard that the repair to the walls of Jerusalem was progressing and that the gaps were being closed, they were furious,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.8",
+      "edition_verse_id": "BSB:NEH.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and all of them conspired to come and fight against Jerusalem and create a hindrance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.9",
+      "edition_verse_id": "BSB:NEH.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So we prayed to our God and posted a guard against them day and night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.10",
+      "edition_verse_id": "BSB:NEH.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Meanwhile, the people of Judah said: “The strength of the laborer fails, and there is so much rubble that we will never be able to rebuild the wall.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.11",
+      "edition_verse_id": "BSB:NEH.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And our enemies said, “Before they know or see a thing, we will come into their midst, kill them, and put an end to the work.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.12",
+      "edition_verse_id": "BSB:NEH.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "At that time the Jews who lived nearby came and told us ten times over, “Wherever you turn, they will attack us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.13",
+      "edition_verse_id": "BSB:NEH.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So I stationed men behind the lowest sections of the wall, at the vulnerable areas. I stationed them by families with their swords, spears, and bows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.14",
+      "edition_verse_id": "BSB:NEH.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "After I had made an inspection, I stood up and said to the nobles, the officials, and the rest of the people, “Do not be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons and your daughters, your wives and your homes.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.15",
+      "edition_verse_id": "BSB:NEH.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When our enemies heard that we were aware of their scheme and that God had frustrated it, each of us returned to his own work on the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.16",
+      "edition_verse_id": "BSB:NEH.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And from that day on, half of my servants did the work while the other half held spears, shields, bows, and armor. The officers stationed themselves behind all the people of Judah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.17",
+      "edition_verse_id": "BSB:NEH.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "who were rebuilding the wall. The laborers who carried materials worked with one hand and held a weapon with the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.18",
+      "edition_verse_id": "BSB:NEH.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And each of the builders worked with his sword strapped at his side. But the trumpeter stayed beside me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.19",
+      "edition_verse_id": "BSB:NEH.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then I said to the nobles, the officials, and the rest of the people: “The work is great and extensive, and we are spread out far from one another along the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.20",
+      "edition_verse_id": "BSB:NEH.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Wherever you hear the sound of the horn, rally to us there. Our God will fight for us!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.21",
+      "edition_verse_id": "BSB:NEH.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So we continued the work, while half of the men held spears from the break of dawn until the stars came out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NEH.4.22",
+      "edition_verse_id": "BSB:NEH.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "At that time I also said to the people, “Let every man and his servant spend the night inside Jerusalem, so that they can stand guard by night and work by day.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NEH.4.23",
+      "edition_verse_id": "BSB:NEH.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So neither I nor my brothers nor my servants nor the guards with me changed out of our clothes; each carried his weapon, even to go for water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

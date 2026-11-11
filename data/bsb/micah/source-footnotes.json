@@ -1,0 +1,167 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MIC",
+  "chapters": {
+    "1": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft Or \\fqa a serpent \\ft or \\fqa a dragon\\f*",
+          "raw_sha256": "b1fe72376ebe737257653d70597df17a8c8dacf0a63cd0aea9936384925c483a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft Literally \\fqa like daughters of an ostrich \\ft or \\fqa like daughters of an owl\\f*",
+          "raw_sha256": "d8ff6f4cd525f9de67abc4567e921784890faf3b9adba44239fc3bb6738e6bff"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\fqa Gath \\ft sounds like the Hebrew for \\fqa tell\\ft .\\f*",
+          "raw_sha256": "4b7d56c99cb6058c154343c9100ee00a476affc8a7079492fa60e81d86905b00"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\fqa Beth-leaphrah \\ft means \\fqa house of dust\\ft .\\f*",
+          "raw_sha256": "d3b4ab2c1ce61f3349d8a44faf8110770a1d9817b2d971e96024dbf7fce15151"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 1:11 \\fqa Shaphir \\ft means \\fqa pleasant\\ft .\\f*",
+          "raw_sha256": "649a5d814aebe2fb9e20eb06c36dc75bd188ff09e00c94caf25c906834cd652d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:11 \\fqa Zaanan \\ft sounds like the Hebrew for \\fqa come out\\ft .\\f*",
+          "raw_sha256": "713cee42fb2ccb50be0d05fcf8e4ba4723a3d6b2e01908bb3a2c0b69b284c2cc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:11 \\fqa Beth-ezel \\ft means \\fqa adjoining house\\ft .\\f*",
+          "raw_sha256": "42e0cab165ac7b2a3df7440cb9cfbcf2edf4afed98f1155d310036e4dc831165"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\fqa Maroth \\ft sounds like the Hebrew for \\fqa bitter\\ft .\\f*",
+          "raw_sha256": "dc1082c2e111e60d761dc50198f81ed78b6f70f8025ab1a46d9b07f5b99093e9"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\fqa Lachish \\ft sounds like the Hebrew term for \\fqa team of horses\\ft .\\f*",
+          "raw_sha256": "5ee87221f3a537abd654137de5bde35cf294a5144e542158c92f1a41a290064f"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Or \\fqa give dowry\\f*",
+          "raw_sha256": "76369e1296be02dbe7e976266f38a8ab220448375b0662cf2a33519c7ebc1ec9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\fqa Moresheth \\ft sounds like the Hebrew for \\fqa gift \\ft or \\fqa dowry\\ft .\\f*",
+          "raw_sha256": "edb888a16cf0e2363aa20e49fb3a4941a017b6173e74dc2cc3196ab8b1b1f2ef"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\fqa Achzib \\ft means \\fqa deception\\ft .\\f*",
+          "raw_sha256": "e860b11f42cd9b2fcc2b7e42122784a497a29b4355128b9d9fb3b35d887e7a26"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 1:15 \\fqa Mareshah \\ft sounds like the Hebrew for \\fqa conqueror\\ft .\\f*",
+          "raw_sha256": "a985068f519154149b53b5f318cb240d41bc42daed4e0b427fa3dfc7a2079b1e"
+        }
+      ]
+    },
+    "2": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 2:11 \\ft Or \\fqa “I will prophesy to you for wine and strong drink”\\f*",
+          "raw_sha256": "a70f8506ed83fdc01f7fa7aa32a3af0ba9fe9cc55f6b5ee949c03ac7730d680c"
+        }
+      ]
+    },
+    "4": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 4:8 \\ft Or \\fqa hill\\ft ; Hebrew \\fqa And you, Migdal-eder, the Ophel\\f*",
+          "raw_sha256": "f4cc70a6f65e39d8cafec2618be60f1885f299448b490b000df41ce647a2f076"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 4:13 \\ft Or \\fqa devote to destruction\\f*",
+          "raw_sha256": "17971b212b6dc1f5d34d5487a53bdeb3a62c7a6aeaaeafd1b4eeea941444da33"
+        }
+      ]
+    },
+    "5": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft Or \\fqa thousands\\f*",
+          "raw_sha256": "f9fbb128586c7a4c288fbe54faa4135ef419e5648b7dd797a0e730b6edf890f9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft Cited in \\ref Matthew 2:6|MAT 2:6\\ref*\\f*",
+          "raw_sha256": "4967dc2a59ebfb1f26e7e87453694a63d1b48df171adfb4921a1ce64c38cf768"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 5:5 \\ft Or \\fqa their peace\\f*",
+          "raw_sha256": "c4dbfd7c32d51594704f6aba073c5dac3b2d787100183b1c3f3bec46dbdfa411"
+        }
+      ]
+    },
+    "6": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 6:5 \\ft Or \\fqa Acacia Grove\\f*",
+          "raw_sha256": "927a49b31356e21b8fba41b164725d613a2b67b45424abf6c2459945f2e168b9"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 6:16 \\ft LXX; Hebrew \\fqa scorn of My people\\f*",
+          "raw_sha256": "f03d1b8de35d5b3f1fa0f5553d4d6b31536ffc10946f5ee41c345e0f5338da1b"
+        }
+      ]
+    },
+    "7": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 7:4 \\ft Or \\fqa your punishment\\f*",
+          "raw_sha256": "32840a527583561a42aa79b4483adfe5402ba020df799ab84a13761517f7f06d"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 7:5 \\ft Hebrew \\fqa in your bosom\\f*",
+          "raw_sha256": "0f3b73422d02a86ebb3f2924d587ff4c6b64d685b2d2af0b62bdea1b1e61e527"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 7:6 \\ft Cited in \\ref Matthew 10:35–36|MAT 10:35-36\\ref*; see also Luke 12:53.\\f*",
+          "raw_sha256": "dad8c8d898b8d36f2941371b56b749607ff9bee2610cdf9c45717a938515aeba"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 7:12 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "818cfd6d30a5baeb7dacc32c011c6b440646331f7fb3dd1e00aed2ac13c937c6"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 7:14 \\ft Or \\fqa in a woodland, in the midst of Carmel\\f*",
+          "raw_sha256": "8dd6ca719216549ec1042db635a3c2b9ff610e516a02e551b397a29e14298929"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 7:18 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "afb5d6ea482e79355b23cc9b136f85c40546e998bf23450855af8250e389fa58"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

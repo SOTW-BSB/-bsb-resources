@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "MRK.12.1",
+      "edition_verse_id": "BSB:MRK.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.2",
+      "edition_verse_id": "BSB:MRK.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.3",
+      "edition_verse_id": "BSB:MRK.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But they seized the servant, beat him, and sent him away empty-handed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.4",
+      "edition_verse_id": "BSB:MRK.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then he sent them another servant, and they struck him over the head and treated him shamefully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.5",
+      "edition_verse_id": "BSB:MRK.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He sent still another, and this one they killed. He sent many others; some they beat and others they killed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.6",
+      "edition_verse_id": "BSB:MRK.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Finally, having one beloved son, he sent him to them. ‘They will respect my son,’ he said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.7",
+      "edition_verse_id": "BSB:MRK.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the tenants said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.8",
+      "edition_verse_id": "BSB:MRK.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So they seized the son, killed him, and threw him out of the vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.9",
+      "edition_verse_id": "BSB:MRK.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.10",
+      "edition_verse_id": "BSB:MRK.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Have you never read this Scripture: ‘The stone the builders rejected has become the cornerstone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.11",
+      "edition_verse_id": "BSB:MRK.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "This is from the Lord, and it is marvelous in our eyes’?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.12",
+      "edition_verse_id": "BSB:MRK.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "At this, the leaders sought to arrest Jesus, for they knew that He had spoken this parable against them. But fearing the crowd, they left Him and went away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.13",
+      "edition_verse_id": "BSB:MRK.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Later, they sent some of the Pharisees and Herodians to catch Jesus in His words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.14",
+      "edition_verse_id": "BSB:MRK.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“Teacher,” they said, “we know that You are honest and seek favor from no one. Indeed, You are impartial and teach the way of God in accordance with the truth. Is it lawful to pay taxes to Caesar or not? Should we pay them or not?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.15",
+      "edition_verse_id": "BSB:MRK.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But Jesus saw through their hypocrisy and said, “Why are you testing Me? Bring Me a denarius to inspect.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.16",
+      "edition_verse_id": "BSB:MRK.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So they brought it, and He asked them, “Whose image is this? And whose inscription?” “Caesar’s,” they answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.17",
+      "edition_verse_id": "BSB:MRK.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” And they marveled at Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.18",
+      "edition_verse_id": "BSB:MRK.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the Sadducees, who say there is no resurrection, came to Jesus and questioned Him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.19",
+      "edition_verse_id": "BSB:MRK.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.20",
+      "edition_verse_id": "BSB:MRK.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now there were seven brothers. The first one married and died, leaving no children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.21",
+      "edition_verse_id": "BSB:MRK.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then the second one married the widow, but he also died and left no children. And the third did likewise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.22",
+      "edition_verse_id": "BSB:MRK.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In this way, none of the seven left any children. And last of all, the woman died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.23",
+      "edition_verse_id": "BSB:MRK.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "In the resurrection, then, whose wife will she be? For all seven were married to her.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.24",
+      "edition_verse_id": "BSB:MRK.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Jesus said to them, “Aren’t you mistaken, because you do not know the Scriptures or the power of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.25",
+      "edition_verse_id": "BSB:MRK.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When the dead rise, they will neither marry nor be given in marriage. Instead, they will be like the angels in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.26",
+      "edition_verse_id": "BSB:MRK.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But concerning the dead rising, have you not read about the burning bush in the Book of Moses, how God told him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.27",
+      "edition_verse_id": "BSB:MRK.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He is not the God of the dead, but of the living. You are badly mistaken!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.28",
+      "edition_verse_id": "BSB:MRK.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now one of the scribes had come up and heard their debate. Noticing how well Jesus had answered them, he asked Him, “Which commandment is the most important of all?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.29",
+      "edition_verse_id": "BSB:MRK.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Jesus replied, “This is the most important: ‘Hear, O Israel, the Lord our God, the Lord is One.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.30",
+      "edition_verse_id": "BSB:MRK.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.31",
+      "edition_verse_id": "BSB:MRK.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The second is this: ‘Love your neighbor as yourself.’ No other commandment is greater than these.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.32",
+      "edition_verse_id": "BSB:MRK.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "“Right, Teacher,” the scribe replied. “You have stated correctly that God is One and there is no other but Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.33",
+      "edition_verse_id": "BSB:MRK.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "and to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself. This is more important than all burnt offerings and sacrifices.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.34",
+      "edition_verse_id": "BSB:MRK.12.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When Jesus saw that the man had answered wisely, He said, “You are not far from the kingdom of God.” And no one dared to question Him any further.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.35",
+      "edition_verse_id": "BSB:MRK.12.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "While Jesus was teaching in the temple courts, He asked, “How can the scribes say that the Christ is the Son of David?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.36",
+      "edition_verse_id": "BSB:MRK.12.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Speaking by the Holy Spirit, David himself declared: ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.37",
+      "edition_verse_id": "BSB:MRK.12.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "David himself calls Him ‘Lord.’ So how can He be David’s son?” And the large crowd listened to Him with delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.38",
+      "edition_verse_id": "BSB:MRK.12.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "In His teaching Jesus also said, “Watch out for the scribes. They like to walk around in long robes, to receive greetings in the marketplaces,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.39",
+      "edition_verse_id": "BSB:MRK.12.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "and to have the chief seats in the synagogues and the places of honor at banquets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.40",
+      "edition_verse_id": "BSB:MRK.12.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.41",
+      "edition_verse_id": "BSB:MRK.12.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "As Jesus was sitting opposite the treasury, He watched the crowd putting money into it. And many rich people put in large amounts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.42",
+      "edition_verse_id": "BSB:MRK.12.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Then one poor widow came and put in two small copper coins, which amounted to a small fraction of a denarius.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.12.43",
+      "edition_verse_id": "BSB:MRK.12.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Jesus called His disciples to Him and said, “Truly I tell you, this poor widow has put more than all the others into the treasury.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.12.44",
+      "edition_verse_id": "BSB:MRK.12.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

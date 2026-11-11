@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MRK",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "MRK.13.1",
+      "edition_verse_id": "BSB:MRK.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "As Jesus was leaving the temple, one of His disciples said to Him, “Teacher, look at the magnificent stones and buildings!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.2",
+      "edition_verse_id": "BSB:MRK.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Do you see all these great buildings?” Jesus replied. “Not one stone here will be left on another; every one will be thrown down.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.3",
+      "edition_verse_id": "BSB:MRK.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "While Jesus was sitting on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked Him privately,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.4",
+      "edition_verse_id": "BSB:MRK.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Tell us, when will these things happen? And what will be the sign that they are about to be fulfilled?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.5",
+      "edition_verse_id": "BSB:MRK.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jesus began by telling them, “See to it that no one deceives you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.6",
+      "edition_verse_id": "BSB:MRK.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Many will come in My name, claiming, ‘I am He,’ and will deceive many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.7",
+      "edition_verse_id": "BSB:MRK.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When you hear of wars and rumors of wars, do not be alarmed. These things must happen, but the end is still to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.8",
+      "edition_verse_id": "BSB:MRK.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, as well as famines. These are the beginning of birth pains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.9",
+      "edition_verse_id": "BSB:MRK.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So be on your guard. You will be delivered over to the councils and beaten in the synagogues. On My account you will stand before governors and kings as witnesses to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.10",
+      "edition_verse_id": "BSB:MRK.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the gospel must first be proclaimed to all the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.11",
+      "edition_verse_id": "BSB:MRK.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But when they arrest you and hand you over, do not worry beforehand what to say. Instead, speak whatever you are given at that time, for it will not be you speaking, but the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.12",
+      "edition_verse_id": "BSB:MRK.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Brother will betray brother to death, and a father his child. Children will rise against their parents and have them put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.13",
+      "edition_verse_id": "BSB:MRK.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You will be hated by everyone because of My name, but the one who perseveres to the end will be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.14",
+      "edition_verse_id": "BSB:MRK.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So when you see the abomination of desolation standing where it should not be (let the reader understand), then let those who are in Judea flee to the mountains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.15",
+      "edition_verse_id": "BSB:MRK.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let no one on the housetop go back inside to retrieve anything from his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.16",
+      "edition_verse_id": "BSB:MRK.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And let no one in the field return for his cloak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.17",
+      "edition_verse_id": "BSB:MRK.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "How miserable those days will be for pregnant and nursing mothers!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.18",
+      "edition_verse_id": "BSB:MRK.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Pray that this will not occur in the winter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.19",
+      "edition_verse_id": "BSB:MRK.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For those will be days of tribulation unseen from the beginning of God’s creation until now, and never to be seen again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.20",
+      "edition_verse_id": "BSB:MRK.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If the Lord had not cut short those days, nobody would be saved. But for the sake of the elect, whom He has chosen, He has cut them short.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.21",
+      "edition_verse_id": "BSB:MRK.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "At that time if anyone says to you, ‘Look, here is the Christ!’ or ‘There He is!’ do not believe it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.22",
+      "edition_verse_id": "BSB:MRK.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For false Christs and false prophets will appear and perform signs and wonders to deceive even the elect, if that were possible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.23",
+      "edition_verse_id": "BSB:MRK.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So be on your guard; I have told you everything in advance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.24",
+      "edition_verse_id": "BSB:MRK.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But in those days, after that tribulation: ‘The sun will be darkened, and the moon will not give its light;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.25",
+      "edition_verse_id": "BSB:MRK.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "the stars will fall from the sky, and the powers of the heavens will be shaken.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.26",
+      "edition_verse_id": "BSB:MRK.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "At that time they will see the Son of Man coming in the clouds with great power and glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.27",
+      "edition_verse_id": "BSB:MRK.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And He will send out the angels to gather His elect from the four winds, from the ends of the earth to the ends of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.28",
+      "edition_verse_id": "BSB:MRK.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now learn this lesson from the fig tree: As soon as its branches become tender and sprout leaves, you know that summer is near.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.29",
+      "edition_verse_id": "BSB:MRK.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So also, when you see these things happening, know that He is near, right at the door.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.30",
+      "edition_verse_id": "BSB:MRK.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Truly I tell you, this generation will not pass away until all these things have happened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.31",
+      "edition_verse_id": "BSB:MRK.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Heaven and earth will pass away, but My words will never pass away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.32",
+      "edition_verse_id": "BSB:MRK.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.33",
+      "edition_verse_id": "BSB:MRK.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Be on your guard and stay alert! For you do not know when the appointed time will come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.34",
+      "edition_verse_id": "BSB:MRK.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "It is like a man going on a journey who left his house, put each servant in charge of his own task, and instructed the doorkeeper to keep watch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "MRK.13.35",
+      "edition_verse_id": "BSB:MRK.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Therefore keep watch, because you do not know when the master of the house will return — whether in the evening, at midnight, when the rooster crows, or in the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.36",
+      "edition_verse_id": "BSB:MRK.13.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Otherwise, he may arrive without notice and find you sleeping.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "MRK.13.37",
+      "edition_verse_id": "BSB:MRK.13.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And what I say to you, I say to everyone: Keep watch!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

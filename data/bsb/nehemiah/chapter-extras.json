@@ -1,0 +1,87 @@
+{
+  "edition_id": "BSB",
+  "book_code": "NEH",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Nehemiah’s Prayer"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Nehemiah Sent to Jerusalem",
+        "\\s1 Nehemiah Inspects the Walls"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Builders of the Walls"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Work Ridiculed",
+        "\\s1 Discouragement Overcome"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Nehemiah Defends the Oppressed",
+        "\\s1 Nehemiah’s Generosity"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Sanballat’s Conspiracy",
+        "\\s1 Completion of the Wall"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Securing the City",
+        "\\s1 The List of Returning Exiles",
+        "\\s1 Offerings by the Exiles"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Ezra Reads the Law",
+        "\\s1 The Feast of Tabernacles"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The People Confess Their Sins"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Signers of the Covenant",
+        "\\s1 The Vows of the Covenant"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Jerusalem’s New Settlers",
+        "\\s1 Residents Outside Jerusalem"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Priests and Levites Who Returned",
+        "\\s1 The Dedication of the Wall",
+        "\\s1 Provisions for Temple Worship"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Foreigners Excluded",
+        "\\s1 The Temple Cleansed",
+        "\\s1 Tithes Restored",
+        "\\s1 The Sabbath Restored",
+        "\\s1 Intermarriage Forbidden"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}
