@@ -1,0 +1,17 @@
+{
+  "edition_id": "BSB",
+  "book_code": "COL",
+  "original_archive": "bsb_usfm.zip",
+  "archive_sha256": "f0c56438eb89c98e8f62c5c00461e25cc35b098ad5b179bc350cede759ee5f87",
+  "usfm_filename": "bsb_usfm/COL.usfm",
+  "usfm_sha256": "4730e92c86394d91dec0113809125bbcabc2a448f2737e99561385fcbb603092",
+  "publisher_reference": "https://berean.bible/downloads.htm",
+  "source_edition": "Berean Standard Bible (owner-provided publisher USFM snapshot, 2026)",
+  "acquisition": "owner-provided USFM archive; installed data derived from archived bytes",
+  "source_archive_preserved_outside_public_repository": true,
+  "source_footnotes_excluded_from_public_reader": true,
+  "source_usfm_contains_strongs_annotations": false,
+  "published_chapter_json_contains_strongs": false,
+  "historical_scans_included": false,
+  "rights_summary": "Public Domain per publisher Berean Bible terms (2023-04-30)"
+}
