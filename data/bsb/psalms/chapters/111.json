@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 111,
+  "verses": [
+    {
+      "id": "PSA.111.1",
+      "edition_verse_id": "BSB:PSA.111.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hallelujah! I will give thanks to the LORD with all my heart in the council of the upright and in the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.111.2",
+      "edition_verse_id": "BSB:PSA.111.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Great are the works of the LORD; they are pondered by all who delight in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.111.3",
+      "edition_verse_id": "BSB:PSA.111.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Splendid and majestic is His work; His righteousness endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.111.4",
+      "edition_verse_id": "BSB:PSA.111.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He has caused His wonders to be remembered; the LORD is gracious and compassionate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.111.5",
+      "edition_verse_id": "BSB:PSA.111.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He provides food for those who fear Him; He remembers His covenant forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.111.6",
+      "edition_verse_id": "BSB:PSA.111.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He has shown His people the power of His works by giving them the inheritance of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.111.7",
+      "edition_verse_id": "BSB:PSA.111.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The works of His hands are truth and justice; all His precepts are trustworthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.111.8",
+      "edition_verse_id": "BSB:PSA.111.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They are upheld forever and ever, enacted in truth and uprightness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.111.9",
+      "edition_verse_id": "BSB:PSA.111.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He has sent redemption to His people; He has ordained His covenant forever; holy and awesome is His name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.111.10",
+      "edition_verse_id": "BSB:PSA.111.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The fear of the LORD is the beginning of wisdom; all who follow His precepts gain rich understanding. His praise endures forever!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

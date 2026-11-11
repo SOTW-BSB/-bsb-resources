@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "PSA.21.1",
+      "edition_verse_id": "BSB:PSA.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. O LORD, the king rejoices in Your strength. How greatly he exults in Your salvation!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.21.2",
+      "edition_verse_id": "BSB:PSA.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "You have granted his heart’s desire and have not withheld the request of his lips. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.3",
+      "edition_verse_id": "BSB:PSA.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For You welcomed him with rich blessings; You placed on his head a crown of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.4",
+      "edition_verse_id": "BSB:PSA.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He asked You for life, and You granted it— length of days, forever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.5",
+      "edition_verse_id": "BSB:PSA.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Great is his glory in Your salvation; You bestow on him splendor and majesty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.6",
+      "edition_verse_id": "BSB:PSA.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For You grant him blessings forever; You cheer him with joy in Your presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.7",
+      "edition_verse_id": "BSB:PSA.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the king trusts in the LORD; through the loving devotion of the Most High, he will not be shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.8",
+      "edition_verse_id": "BSB:PSA.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Your hand will apprehend all Your enemies; Your right hand will seize those who hate You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.9",
+      "edition_verse_id": "BSB:PSA.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You will place them in a fiery furnace at the time of Your appearing. In His wrath the LORD will engulf them, and the fire will consume them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.10",
+      "edition_verse_id": "BSB:PSA.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You will wipe their descendants from the earth, and their offspring from the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.11",
+      "edition_verse_id": "BSB:PSA.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Though they intend You harm, the schemes they devise will not prevail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.12",
+      "edition_verse_id": "BSB:PSA.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For You will put them to flight when Your bow is trained upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.21.13",
+      "edition_verse_id": "BSB:PSA.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Be exalted, O LORD, in Your strength; we will sing and praise Your power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

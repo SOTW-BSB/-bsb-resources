@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "PSA.27.1",
+      "edition_verse_id": "BSB:PSA.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Of David. The LORD is my light and my salvation— whom shall I fear? The LORD is the stronghold of my life— whom shall I dread?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.27.2",
+      "edition_verse_id": "BSB:PSA.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When the wicked came upon me to devour my flesh, my enemies and foes stumbled and fell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.3",
+      "edition_verse_id": "BSB:PSA.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Though an army encamps around me, my heart will not fear; though a war breaks out against me, I will keep my trust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.4",
+      "edition_verse_id": "BSB:PSA.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "One thing I have asked of the LORD; this is what I desire: to dwell in the house of the LORD all the days of my life, to gaze on the beauty of the LORD and seek Him in His temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.5",
+      "edition_verse_id": "BSB:PSA.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For in the day of trouble He will hide me in His shelter; He will conceal me under the cover of His tent; He will set me high upon a rock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.6",
+      "edition_verse_id": "BSB:PSA.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then my head will be held high above my enemies around me. At His tabernacle I will offer sacrifices with shouts of joy; I will sing and make music to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.7",
+      "edition_verse_id": "BSB:PSA.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Hear, O LORD, my voice when I call; be merciful and answer me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.8",
+      "edition_verse_id": "BSB:PSA.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "My heart said, “Seek His face.” Your face, O LORD, I will seek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.9",
+      "edition_verse_id": "BSB:PSA.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Hide not Your face from me, nor turn away Your servant in anger. You have been my helper; do not leave me or forsake me, O God of my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.10",
+      "edition_verse_id": "BSB:PSA.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Though my father and mother forsake me, the LORD will receive me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.11",
+      "edition_verse_id": "BSB:PSA.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Teach me Your way, O LORD, and lead me on a level path, because of my oppressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.12",
+      "edition_verse_id": "BSB:PSA.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Do not hand me over to the will of my foes, for false witnesses rise up against me, breathing out violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.13",
+      "edition_verse_id": "BSB:PSA.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Still I am certain to see the goodness of the LORD in the land of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.27.14",
+      "edition_verse_id": "BSB:PSA.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Wait patiently for the LORD; be strong and courageous. Wait patiently for the LORD!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

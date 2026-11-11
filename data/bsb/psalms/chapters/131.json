@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 131,
+  "verses": [
+    {
+      "id": "PSA.131.1",
+      "edition_verse_id": "BSB:PSA.131.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Of David. My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.131.2",
+      "edition_verse_id": "BSB:PSA.131.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Surely I have stilled and quieted my soul; like a weaned child with his mother, like a weaned child is my soul within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.131.3",
+      "edition_verse_id": "BSB:PSA.131.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O Israel, put your hope in the LORD, both now and forevermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "PSA.32.1",
+      "edition_verse_id": "BSB:PSA.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Of David. A Maskil. Blessed is he whose transgressions are forgiven, whose sins are covered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.32.2",
+      "edition_verse_id": "BSB:PSA.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Blessed is the man whose iniquity the LORD does not count against him, in whose spirit there is no deceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.3",
+      "edition_verse_id": "BSB:PSA.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When I kept silent, my bones became brittle from my groaning all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.4",
+      "edition_verse_id": "BSB:PSA.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For day and night Your hand was heavy upon me; my strength was drained as in the summer heat. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.5",
+      "edition_verse_id": "BSB:PSA.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then I acknowledged my sin to You and did not hide my iniquity. I said, “I will confess my transgressions to the LORD,” and You forgave the guilt of my sin. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.6",
+      "edition_verse_id": "BSB:PSA.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore let all the godly pray to You while You may be found. Surely when great waters rise, they will not come near.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.7",
+      "edition_verse_id": "BSB:PSA.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You are my hiding place. You protect me from trouble; You surround me with songs of deliverance. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.8",
+      "edition_verse_id": "BSB:PSA.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will instruct you and teach you the way you should go; I will give you counsel and watch over you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.9",
+      "edition_verse_id": "BSB:PSA.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do not be like the horse or mule, which have no understanding; they must be controlled with bit and bridle to make them come to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.10",
+      "edition_verse_id": "BSB:PSA.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Many are the sorrows of the wicked, but loving devotion surrounds him who trusts in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.32.11",
+      "edition_verse_id": "BSB:PSA.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Be glad in the LORD and rejoice, O righteous ones; shout for joy, all you upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

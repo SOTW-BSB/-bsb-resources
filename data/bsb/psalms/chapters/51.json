@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 51,
+  "verses": [
+    {
+      "id": "PSA.51.1",
+      "edition_verse_id": "BSB:PSA.51.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. When Nathan the prophet came to him after his adultery with Bathsheba. Have mercy on me, O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.51.2",
+      "edition_verse_id": "BSB:PSA.51.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Wash me clean of my iniquity and cleanse me from my sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.3",
+      "edition_verse_id": "BSB:PSA.51.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I know my transgressions, and my sin is always before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.4",
+      "edition_verse_id": "BSB:PSA.51.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Against You, You only, have I sinned and done what is evil in Your sight, so that You may be proved right when You speak and blameless when You judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.5",
+      "edition_verse_id": "BSB:PSA.51.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Surely I was brought forth in iniquity; I was sinful when my mother conceived me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.6",
+      "edition_verse_id": "BSB:PSA.51.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Surely You desire truth in the inmost being; You teach me wisdom in the inmost place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.7",
+      "edition_verse_id": "BSB:PSA.51.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Purify me with hyssop, and I will be clean; wash me, and I will be whiter than snow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.8",
+      "edition_verse_id": "BSB:PSA.51.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let me hear joy and gladness; let the bones You have crushed rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.9",
+      "edition_verse_id": "BSB:PSA.51.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Hide Your face from my sins and blot out all my iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.10",
+      "edition_verse_id": "BSB:PSA.51.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Create in me a clean heart, O God, and renew a right spirit within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.11",
+      "edition_verse_id": "BSB:PSA.51.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Cast me not away from Your presence; take not Your Holy Spirit from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.12",
+      "edition_verse_id": "BSB:PSA.51.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Restore to me the joy of Your salvation, and sustain me with a willing spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.13",
+      "edition_verse_id": "BSB:PSA.51.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then I will teach transgressors Your ways, and sinners will return to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.14",
+      "edition_verse_id": "BSB:PSA.51.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Deliver me from bloodguilt, O God, the God of my salvation, and my tongue will sing of Your righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.15",
+      "edition_verse_id": "BSB:PSA.51.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "O Lord, open my lips, and my mouth will declare Your praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.16",
+      "edition_verse_id": "BSB:PSA.51.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For You do not delight in sacrifice, or I would bring it; You take no pleasure in burnt offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.17",
+      "edition_verse_id": "BSB:PSA.51.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The sacrifices of God are a broken spirit; a broken and a contrite heart, O God, You will not despise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.18",
+      "edition_verse_id": "BSB:PSA.51.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "In Your good pleasure, cause Zion to prosper; build up the walls of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.51.19",
+      "edition_verse_id": "BSB:PSA.51.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then You will delight in righteous sacrifices, in whole burnt offerings; then bulls will be offered on Your altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

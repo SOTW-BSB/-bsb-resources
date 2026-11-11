@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 136,
+  "verses": [
+    {
+      "id": "PSA.136.1",
+      "edition_verse_id": "BSB:PSA.136.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give thanks to the LORD, for He is good. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.136.2",
+      "edition_verse_id": "BSB:PSA.136.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Give thanks to the God of gods. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.3",
+      "edition_verse_id": "BSB:PSA.136.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Give thanks to the Lord of lords. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.4",
+      "edition_verse_id": "BSB:PSA.136.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He alone does great wonders. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.5",
+      "edition_verse_id": "BSB:PSA.136.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "By His insight He made the heavens. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.6",
+      "edition_verse_id": "BSB:PSA.136.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He spread out the earth upon the waters. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.7",
+      "edition_verse_id": "BSB:PSA.136.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He made the great lights — His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.8",
+      "edition_verse_id": "BSB:PSA.136.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "the sun to rule the day, His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.9",
+      "edition_verse_id": "BSB:PSA.136.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "the moon and stars to govern the night. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.10",
+      "edition_verse_id": "BSB:PSA.136.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He struck down the firstborn of Egypt His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.11",
+      "edition_verse_id": "BSB:PSA.136.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and brought Israel out from among them His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.12",
+      "edition_verse_id": "BSB:PSA.136.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "with a mighty hand and an outstretched arm. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.13",
+      "edition_verse_id": "BSB:PSA.136.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He divided the Red Sea in two His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.14",
+      "edition_verse_id": "BSB:PSA.136.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and led Israel through the midst, His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.15",
+      "edition_verse_id": "BSB:PSA.136.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "but swept Pharaoh and his army into the Red Sea. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.16",
+      "edition_verse_id": "BSB:PSA.136.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He led His people through the wilderness. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.17",
+      "edition_verse_id": "BSB:PSA.136.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He struck down great kings His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.18",
+      "edition_verse_id": "BSB:PSA.136.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and slaughtered mighty kings— His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.19",
+      "edition_verse_id": "BSB:PSA.136.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Sihon king of the Amorites His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.20",
+      "edition_verse_id": "BSB:PSA.136.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and Og king of Bashan— His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.21",
+      "edition_verse_id": "BSB:PSA.136.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and He gave their land as an inheritance, His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.22",
+      "edition_verse_id": "BSB:PSA.136.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "a heritage to His servant Israel. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.23",
+      "edition_verse_id": "BSB:PSA.136.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He remembered us in our low estate His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.24",
+      "edition_verse_id": "BSB:PSA.136.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and freed us from our enemies. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.25",
+      "edition_verse_id": "BSB:PSA.136.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He gives food to every creature. His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.136.26",
+      "edition_verse_id": "BSB:PSA.136.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Give thanks to the God of heaven! His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

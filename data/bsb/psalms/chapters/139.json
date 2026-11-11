@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 139,
+  "verses": [
+    {
+      "id": "PSA.139.1",
+      "edition_verse_id": "BSB:PSA.139.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. O LORD, You have searched me and known me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.139.2",
+      "edition_verse_id": "BSB:PSA.139.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "You know when I sit and when I rise; You understand my thoughts from afar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.3",
+      "edition_verse_id": "BSB:PSA.139.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You search out my path and my lying down; You are aware of all my ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.4",
+      "edition_verse_id": "BSB:PSA.139.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Even before a word is on my tongue, You know all about it, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.5",
+      "edition_verse_id": "BSB:PSA.139.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You hem me in behind and before; You have laid Your hand upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.6",
+      "edition_verse_id": "BSB:PSA.139.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Such knowledge is too wonderful for me, too lofty for me to attain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.7",
+      "edition_verse_id": "BSB:PSA.139.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Where can I go to escape Your Spirit? Where can I flee from Your presence?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.8",
+      "edition_verse_id": "BSB:PSA.139.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.9",
+      "edition_verse_id": "BSB:PSA.139.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If I rise on the wings of the dawn, if I settle by the farthest sea,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.10",
+      "edition_verse_id": "BSB:PSA.139.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "even there Your hand will guide me; Your right hand will hold me fast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.11",
+      "edition_verse_id": "BSB:PSA.139.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If I say, “Surely the darkness will hide me, and the light become night around me”—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.12",
+      "edition_verse_id": "BSB:PSA.139.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "even the darkness is not dark to You, but the night shines like the day, for darkness is as light to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.13",
+      "edition_verse_id": "BSB:PSA.139.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For You formed my inmost being; You knit me together in my mother’s womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.14",
+      "edition_verse_id": "BSB:PSA.139.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.15",
+      "edition_verse_id": "BSB:PSA.139.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My frame was not hidden from You when I was made in secret, when I was woven together in the depths of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.16",
+      "edition_verse_id": "BSB:PSA.139.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Your eyes saw my unformed body; all my days were written in Your book and ordained for me before one of them came to be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.17",
+      "edition_verse_id": "BSB:PSA.139.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "How precious to me are Your thoughts, O God, how vast is their sum!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.18",
+      "edition_verse_id": "BSB:PSA.139.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If I were to count them, they would outnumber the grains of sand; and when I awake, I am still with You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.19",
+      "edition_verse_id": "BSB:PSA.139.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "O God, that You would slay the wicked— away from me, you bloodthirsty men—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.20",
+      "edition_verse_id": "BSB:PSA.139.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "who speak of You deceitfully; Your enemies take Your name in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.21",
+      "edition_verse_id": "BSB:PSA.139.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Do I not hate those who hate You, O LORD, and detest those who rise against You?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.22",
+      "edition_verse_id": "BSB:PSA.139.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I hate them with perfect hatred; I count them as my enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.23",
+      "edition_verse_id": "BSB:PSA.139.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Search me, O God, and know my heart; test me and know my concerns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.139.24",
+      "edition_verse_id": "BSB:PSA.139.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "See if there is any offensive way in me; lead me in the way everlasting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 130,
+  "verses": [
+    {
+      "id": "PSA.130.1",
+      "edition_verse_id": "BSB:PSA.130.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Out of the depths I cry to You, O LORD!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.2",
+      "edition_verse_id": "BSB:PSA.130.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O Lord, hear my voice; let Your ears be attentive to my plea for mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.3",
+      "edition_verse_id": "BSB:PSA.130.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If You, O LORD, kept track of iniquities, then who, O Lord, could stand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.4",
+      "edition_verse_id": "BSB:PSA.130.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But with You there is forgiveness, so that You may be feared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.5",
+      "edition_verse_id": "BSB:PSA.130.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I wait for the LORD; my soul does wait, and in His word I put my hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.6",
+      "edition_verse_id": "BSB:PSA.130.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My soul waits for the Lord more than watchmen wait for the morning— more than watchmen wait for the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.7",
+      "edition_verse_id": "BSB:PSA.130.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.8",
+      "edition_verse_id": "BSB:PSA.130.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And He will redeem Israel from all iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

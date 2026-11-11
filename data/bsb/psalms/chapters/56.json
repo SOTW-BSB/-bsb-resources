@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 56,
+  "verses": [
+    {
+      "id": "PSA.56.1",
+      "edition_verse_id": "BSB:PSA.56.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. To the tune of “A Dove on Distant Oaks.” A Miktam of David, when the Philistines seized him in Gath. Be merciful to me, O God, for men are hounding me; all day they press their attack.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.56.2",
+      "edition_verse_id": "BSB:PSA.56.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My enemies pursue me all day long, for many proudly assail me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.3",
+      "edition_verse_id": "BSB:PSA.56.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When I am afraid, I put my trust in You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.4",
+      "edition_verse_id": "BSB:PSA.56.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In God, whose word I praise — in God I trust. I will not be afraid. What can man do to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.5",
+      "edition_verse_id": "BSB:PSA.56.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "All day long they twist my words; all their thoughts are on my demise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.6",
+      "edition_verse_id": "BSB:PSA.56.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They conspire, they lurk, they watch my steps while they wait to take my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.7",
+      "edition_verse_id": "BSB:PSA.56.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In spite of such sin, will they escape? In Your anger, O God, cast down the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.8",
+      "edition_verse_id": "BSB:PSA.56.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You have taken account of my wanderings. Put my tears in Your bottle — are they not in Your book?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.9",
+      "edition_verse_id": "BSB:PSA.56.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then my enemies will retreat on the day I cry for help. By this I will know that God is on my side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.10",
+      "edition_verse_id": "BSB:PSA.56.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In God, whose word I praise, in the LORD, whose word I praise,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.11",
+      "edition_verse_id": "BSB:PSA.56.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "in God I trust; I will not be afraid. What can man do to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.12",
+      "edition_verse_id": "BSB:PSA.56.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Your vows are upon me, O God; I will render thank offerings to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.56.13",
+      "edition_verse_id": "BSB:PSA.56.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For You have delivered my soul from death, and my feet from stumbling, that I may walk before God in the light of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

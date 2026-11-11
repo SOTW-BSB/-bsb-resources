@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 135,
+  "verses": [
+    {
+      "id": "PSA.135.1",
+      "edition_verse_id": "BSB:PSA.135.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hallelujah! Praise the name of the LORD. Give praise, O servants of the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.135.2",
+      "edition_verse_id": "BSB:PSA.135.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "who stand in the house of the LORD, in the courts of the house of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.3",
+      "edition_verse_id": "BSB:PSA.135.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Hallelujah, for the LORD is good; sing praises to His name, for it is lovely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.4",
+      "edition_verse_id": "BSB:PSA.135.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the LORD has chosen Jacob as His own, Israel as His treasured possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.5",
+      "edition_verse_id": "BSB:PSA.135.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For I know that the LORD is great; our Lord is above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.6",
+      "edition_verse_id": "BSB:PSA.135.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD does all that pleases Him in the heavens and on the earth, in the seas and in all their depths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.7",
+      "edition_verse_id": "BSB:PSA.135.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He causes the clouds to rise from the ends of the earth. He generates the lightning with the rain and brings forth the wind from His storehouses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.8",
+      "edition_verse_id": "BSB:PSA.135.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He struck down the firstborn of Egypt, of both man and beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.9",
+      "edition_verse_id": "BSB:PSA.135.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He sent signs and wonders into your midst, O Egypt, against Pharaoh and all his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.10",
+      "edition_verse_id": "BSB:PSA.135.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He struck down many nations and slaughtered mighty kings:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.11",
+      "edition_verse_id": "BSB:PSA.135.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Sihon king of the Amorites, Og king of Bashan, and all the kings of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.12",
+      "edition_verse_id": "BSB:PSA.135.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He gave their land as an inheritance, as a heritage to His people Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.13",
+      "edition_verse_id": "BSB:PSA.135.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Your name, O LORD, endures forever, Your renown, O LORD, through all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.14",
+      "edition_verse_id": "BSB:PSA.135.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the LORD will vindicate His people and will have compassion on His servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.15",
+      "edition_verse_id": "BSB:PSA.135.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The idols of the nations are silver and gold, made by the hands of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.16",
+      "edition_verse_id": "BSB:PSA.135.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They have mouths, but cannot speak; they have eyes, but cannot see;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.17",
+      "edition_verse_id": "BSB:PSA.135.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "they have ears, but cannot hear; nor is there breath in their mouths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.18",
+      "edition_verse_id": "BSB:PSA.135.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Those who make them become like them, as do all who trust in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.19",
+      "edition_verse_id": "BSB:PSA.135.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "O house of Israel, bless the LORD; O house of Aaron, bless the LORD;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.20",
+      "edition_verse_id": "BSB:PSA.135.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "O house of Levi, bless the LORD; you who fear the LORD, bless the LORD!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.135.21",
+      "edition_verse_id": "BSB:PSA.135.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Blessed be the LORD from Zion — He who dwells in Jerusalem. Hallelujah!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

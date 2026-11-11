@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 39,
+  "verses": [
+    {
+      "id": "PSA.39.1",
+      "edition_verse_id": "BSB:PSA.39.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. For Jeduthun. A Psalm of David. I said, “I will watch my ways so that I will not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are present.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.39.2",
+      "edition_verse_id": "BSB:PSA.39.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I was speechless and still; I remained silent, even from speaking good, and my sorrow was stirred.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.3",
+      "edition_verse_id": "BSB:PSA.39.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My heart grew hot within me; as I mused, the fire burned. Then I spoke with my tongue:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.4",
+      "edition_verse_id": "BSB:PSA.39.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Show me, O LORD, my end and the measure of my days. Let me know how fleeting my life is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.5",
+      "edition_verse_id": "BSB:PSA.39.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You, indeed, have made my days as handbreadths, and my lifetime as nothing before You. Truly each man at his best exists as but a breath. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.6",
+      "edition_verse_id": "BSB:PSA.39.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Surely every man goes about like a phantom; surely he bustles in vain; he heaps up riches not knowing who will haul them away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.7",
+      "edition_verse_id": "BSB:PSA.39.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And now, O Lord, for what do I wait? My hope is in You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.8",
+      "edition_verse_id": "BSB:PSA.39.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Deliver me from all my transgressions; do not make me the reproach of fools.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.9",
+      "edition_verse_id": "BSB:PSA.39.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I have become mute; I do not open my mouth because of what You have done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.10",
+      "edition_verse_id": "BSB:PSA.39.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Remove Your scourge from me; I am perishing by the force of Your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.11",
+      "edition_verse_id": "BSB:PSA.39.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You discipline and correct a man for his iniquity, consuming like a moth what he holds dear; surely each man is but a vapor. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.12",
+      "edition_verse_id": "BSB:PSA.39.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Hear my prayer, O LORD, and give ear to my cry for help; do not be deaf to my weeping. For I am a foreigner dwelling with You, a stranger like all my fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.39.13",
+      "edition_verse_id": "BSB:PSA.39.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Turn Your gaze away from me, that I may again be cheered before I depart and am no more.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

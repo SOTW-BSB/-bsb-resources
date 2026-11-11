@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "PSA.40.1",
+      "edition_verse_id": "BSB:PSA.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. I waited patiently for the LORD; He inclined to me and heard my cry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.40.2",
+      "edition_verse_id": "BSB:PSA.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He lifted me up from the pit of despair, out of the miry clay; He set my feet upon a rock, and made my footsteps firm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.3",
+      "edition_verse_id": "BSB:PSA.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He put a new song in my mouth, a hymn of praise to our God. Many will see and fear and put their trust in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.4",
+      "edition_verse_id": "BSB:PSA.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Blessed is the man who has made the LORD his trust, who has not turned to the proud, nor to those who lapse into falsehood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.5",
+      "edition_verse_id": "BSB:PSA.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Many, O LORD my God, are the wonders You have done, and the plans You have for us — none can compare to You — if I proclaim and declare them, they are more than I can count.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.6",
+      "edition_verse_id": "BSB:PSA.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Sacrifice and offering You did not desire, but my ears You have opened. Burnt offerings and sin offerings You did not require.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.7",
+      "edition_verse_id": "BSB:PSA.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then I said, “Here I am, I have come — it is written about me in the scroll:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.8",
+      "edition_verse_id": "BSB:PSA.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I delight to do Your will, O my God; Your law is within my heart.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.9",
+      "edition_verse_id": "BSB:PSA.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I proclaim righteousness in the great assembly; behold, I do not seal my lips, as You, O LORD, do know.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.10",
+      "edition_verse_id": "BSB:PSA.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I have not covered up Your righteousness in my heart; I have declared Your faithfulness and salvation; I have not concealed Your loving devotion and faithfulness from the great assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.11",
+      "edition_verse_id": "BSB:PSA.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "O LORD, do not withhold Your mercy from me; Your loving devotion and faithfulness will always guard me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.12",
+      "edition_verse_id": "BSB:PSA.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For evils without number surround me; my sins have overtaken me, so that I cannot see. They are more than the hairs of my head, and my heart has failed within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.13",
+      "edition_verse_id": "BSB:PSA.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Be pleased, O LORD, to deliver me; hurry, O LORD, to help me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.14",
+      "edition_verse_id": "BSB:PSA.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "May those who seek my life be ashamed and confounded; may those who wish me harm be repelled and humiliated.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.15",
+      "edition_verse_id": "BSB:PSA.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "May those who say to me, “Aha, aha!” be appalled at their own shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.16",
+      "edition_verse_id": "BSB:PSA.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “The LORD be magnified!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.40.17",
+      "edition_verse_id": "BSB:PSA.40.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But I am poor and needy; may the Lord think of me. You are my helper and deliverer; O my God, do not delay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

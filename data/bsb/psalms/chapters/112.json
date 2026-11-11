@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 112,
+  "verses": [
+    {
+      "id": "PSA.112.1",
+      "edition_verse_id": "BSB:PSA.112.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hallelujah! Blessed is the man who fears the LORD, who greatly delights in His commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.112.2",
+      "edition_verse_id": "BSB:PSA.112.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "His descendants will be mighty in the land; the generation of the upright will be blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.112.3",
+      "edition_verse_id": "BSB:PSA.112.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Wealth and riches are in his house, and his righteousness endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.112.4",
+      "edition_verse_id": "BSB:PSA.112.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Light dawns in the darkness for the upright — for the gracious, compassionate, and righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.112.5",
+      "edition_verse_id": "BSB:PSA.112.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "It is well with the man who is generous and lends freely, whose affairs are guided by justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.112.6",
+      "edition_verse_id": "BSB:PSA.112.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Surely he will never be shaken; the righteous man will be remembered forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.112.7",
+      "edition_verse_id": "BSB:PSA.112.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He does not fear bad news; his heart is steadfast, trusting in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.112.8",
+      "edition_verse_id": "BSB:PSA.112.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "His heart is assured; he does not fear, until he looks in triumph on his foes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.112.9",
+      "edition_verse_id": "BSB:PSA.112.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He has scattered abroad his gifts to the poor; his righteousness endures forever; his horn will be lifted high in honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.112.10",
+      "edition_verse_id": "BSB:PSA.112.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The wicked man will see and be grieved; he will gnash his teeth and waste away; the desires of the wicked will perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

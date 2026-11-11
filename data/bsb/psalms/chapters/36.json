@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "PSA.36.1",
+      "edition_verse_id": "BSB:PSA.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David, the servant of the LORD. An oracle is in my heart regarding the transgression of the wicked man: There is no fear of God before his eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.36.2",
+      "edition_verse_id": "BSB:PSA.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For his eyes are too full of conceit to detect or hate his own sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.3",
+      "edition_verse_id": "BSB:PSA.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The words of his mouth are wicked and deceitful; he has ceased to be wise and well-doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.4",
+      "edition_verse_id": "BSB:PSA.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Even on his bed he plots wickedness; he sets himself on a path that is not good; he fails to reject evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.5",
+      "edition_verse_id": "BSB:PSA.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Your loving devotion, O LORD, reaches to the heavens, Your faithfulness to the clouds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.6",
+      "edition_verse_id": "BSB:PSA.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Your righteousness is like the highest mountains; Your judgments are like the deepest sea. O LORD, You preserve man and beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.7",
+      "edition_verse_id": "BSB:PSA.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "How precious is Your loving devotion, O God, that the children of men take refuge in the shadow of Your wings!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.8",
+      "edition_verse_id": "BSB:PSA.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They feast on the abundance of Your house, and You give them drink from Your river of delights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.9",
+      "edition_verse_id": "BSB:PSA.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For with You is the fountain of life; in Your light we see light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.10",
+      "edition_verse_id": "BSB:PSA.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Extend Your loving devotion to those who know You, and Your righteousness to the upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.11",
+      "edition_verse_id": "BSB:PSA.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let not the foot of the proud come against me, nor the hand of the wicked drive me away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.36.12",
+      "edition_verse_id": "BSB:PSA.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "There the evildoers lie fallen, thrown down and unable to rise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

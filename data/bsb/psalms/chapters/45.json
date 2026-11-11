@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 45,
+  "verses": [
+    {
+      "id": "PSA.45.1",
+      "edition_verse_id": "BSB:PSA.45.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. To the tune of “The Lilies.” A Maskil of the sons of Korah. A love song. My heart is stirred by a noble theme as I recite my verses to the king; my tongue is the pen of a skillful writer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.45.2",
+      "edition_verse_id": "BSB:PSA.45.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "You are the most handsome of men; grace has anointed your lips; therefore God has blessed you forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.3",
+      "edition_verse_id": "BSB:PSA.45.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Strap your sword at your side, O mighty warrior; appear in your majesty and splendor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.4",
+      "edition_verse_id": "BSB:PSA.45.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In your splendor ride forth in victory on behalf of truth and humility and justice; may your right hand show your awesome deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.5",
+      "edition_verse_id": "BSB:PSA.45.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Your arrows pierce the hearts of the king’s foes; the nations fall beneath your feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.6",
+      "edition_verse_id": "BSB:PSA.45.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.7",
+      "edition_verse_id": "BSB:PSA.45.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You have loved righteousness and hated wickedness; therefore God, your God, has anointed you above your companions with the oil of joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.8",
+      "edition_verse_id": "BSB:PSA.45.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All your garments are fragrant with myrrh and aloes and cassia; from palaces of ivory the harps make you glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.9",
+      "edition_verse_id": "BSB:PSA.45.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The daughters of kings are among your honored women; the queen stands at your right hand, adorned with the gold of Ophir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.10",
+      "edition_verse_id": "BSB:PSA.45.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Listen, O daughter! Consider and incline your ear: Forget your people and your father’s house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.11",
+      "edition_verse_id": "BSB:PSA.45.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and the king will desire your beauty; bow to him, for he is your lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.12",
+      "edition_verse_id": "BSB:PSA.45.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The Daughter of Tyre will come with a gift; men of wealth will seek your favor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.13",
+      "edition_verse_id": "BSB:PSA.45.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "All glorious is the princess in her chamber; her gown is embroidered with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.14",
+      "edition_verse_id": "BSB:PSA.45.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In colorful garments she is led to the king; her virgin companions are brought before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.15",
+      "edition_verse_id": "BSB:PSA.45.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They are led in with joy and gladness; they enter the palace of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.16",
+      "edition_verse_id": "BSB:PSA.45.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Your sons will succeed your fathers; you will make them princes throughout the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.45.17",
+      "edition_verse_id": "BSB:PSA.45.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will commemorate your name through all generations; therefore the nations will praise you forever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

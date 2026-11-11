@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 137,
+  "verses": [
+    {
+      "id": "PSA.137.1",
+      "edition_verse_id": "BSB:PSA.137.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "By the rivers of Babylon we sat and wept when we remembered Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.137.2",
+      "edition_verse_id": "BSB:PSA.137.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "There on the willows we hung our harps,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.3",
+      "edition_verse_id": "BSB:PSA.137.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "for there our captors requested a song; our tormentors demanded songs of joy: “Sing us a song of Zion.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.4",
+      "edition_verse_id": "BSB:PSA.137.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "How can we sing a song of the LORD in a foreign land?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.5",
+      "edition_verse_id": "BSB:PSA.137.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If I forget you, O Jerusalem, may my right hand cease to function.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.6",
+      "edition_verse_id": "BSB:PSA.137.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "May my tongue cling to the roof of my mouth if I do not remember you, if I do not exalt Jerusalem as my greatest joy!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.7",
+      "edition_verse_id": "BSB:PSA.137.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember, O LORD, the sons of Edom on the day Jerusalem fell: “Destroy it,” they said, “tear it down to its foundations!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.8",
+      "edition_verse_id": "BSB:PSA.137.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O Daughter of Babylon, doomed to destruction, blessed is he who repays you as you have done to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.137.9",
+      "edition_verse_id": "BSB:PSA.137.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Blessed is he who seizes your infants and dashes them against the rocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

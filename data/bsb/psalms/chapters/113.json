@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 113,
+  "verses": [
+    {
+      "id": "PSA.113.1",
+      "edition_verse_id": "BSB:PSA.113.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hallelujah! Give praise, O servants of the LORD; praise the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.113.2",
+      "edition_verse_id": "BSB:PSA.113.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Blessed be the name of the LORD both now and forevermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.113.3",
+      "edition_verse_id": "BSB:PSA.113.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "From where the sun rises to where it sets, the name of the LORD is praised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.113.4",
+      "edition_verse_id": "BSB:PSA.113.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The LORD is exalted over all the nations, His glory above the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.113.5",
+      "edition_verse_id": "BSB:PSA.113.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who is like the LORD our God, the One enthroned on high?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.113.6",
+      "edition_verse_id": "BSB:PSA.113.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He humbles Himself to behold the heavens and the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.113.7",
+      "edition_verse_id": "BSB:PSA.113.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He raises the poor from the dust and lifts the needy from the dump",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.113.8",
+      "edition_verse_id": "BSB:PSA.113.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "to seat them with nobles, with the princes of His people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.113.9",
+      "edition_verse_id": "BSB:PSA.113.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He settles the barren woman in her home as a joyful mother to her children. Hallelujah!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

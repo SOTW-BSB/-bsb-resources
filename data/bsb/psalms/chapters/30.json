@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "PSA.30.1",
+      "edition_verse_id": "BSB:PSA.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm. A song for the dedication of the temple. Of David. I will exalt You, O LORD, for You have lifted me up and have not allowed my foes to rejoice over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.30.2",
+      "edition_verse_id": "BSB:PSA.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O LORD my God, I cried to You for help, and You healed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.3",
+      "edition_verse_id": "BSB:PSA.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O LORD, You pulled me up from Sheol; You spared me from descending into the Pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.4",
+      "edition_verse_id": "BSB:PSA.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Sing to the LORD, O you His saints, and praise His holy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.5",
+      "edition_verse_id": "BSB:PSA.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For His anger is fleeting, but His favor lasts a lifetime. Weeping may stay the night, but joy comes in the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.6",
+      "edition_verse_id": "BSB:PSA.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In prosperity I said, “I will never be shaken.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.7",
+      "edition_verse_id": "BSB:PSA.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "O LORD, You favored me; You made my mountain stand strong. When You hid Your face, I was dismayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.8",
+      "edition_verse_id": "BSB:PSA.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "To You, O LORD, I called, and I begged my Lord for mercy:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.9",
+      "edition_verse_id": "BSB:PSA.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“What gain is there in my bloodshed, in my descent to the Pit? Will the dust praise You? Will it proclaim Your faithfulness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.10",
+      "edition_verse_id": "BSB:PSA.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hear me, O LORD, and have mercy; O LORD, be my helper.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.11",
+      "edition_verse_id": "BSB:PSA.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.30.12",
+      "edition_verse_id": "BSB:PSA.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "that my heart may sing Your praises and not be silent. O LORD my God, I will give thanks forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

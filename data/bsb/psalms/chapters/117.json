@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 117,
+  "verses": [
+    {
+      "id": "PSA.117.1",
+      "edition_verse_id": "BSB:PSA.117.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Praise the LORD, all you nations! Extol Him, all you peoples!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.117.2",
+      "edition_verse_id": "BSB:PSA.117.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For great is His loving devotion toward us, and the faithfulness of the LORD endures forever. Hallelujah!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

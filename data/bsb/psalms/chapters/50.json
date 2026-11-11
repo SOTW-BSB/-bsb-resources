@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 50,
+  "verses": [
+    {
+      "id": "PSA.50.1",
+      "edition_verse_id": "BSB:PSA.50.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of Asaph. The Mighty One, God the LORD, speaks and summons the earth from where the sun rises to where it sets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.50.2",
+      "edition_verse_id": "BSB:PSA.50.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "From Zion, perfect in beauty, God shines forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.3",
+      "edition_verse_id": "BSB:PSA.50.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Our God approaches and will not be silent! Consuming fire precedes Him, and a tempest rages around Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.4",
+      "edition_verse_id": "BSB:PSA.50.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He summons the heavens above, and the earth, that He may judge His people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.5",
+      "edition_verse_id": "BSB:PSA.50.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Gather to Me My saints, who made a covenant with Me by sacrifice.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.6",
+      "edition_verse_id": "BSB:PSA.50.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the heavens proclaim His righteousness, for God Himself is Judge. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.7",
+      "edition_verse_id": "BSB:PSA.50.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Hear, O My people, and I will speak, O Israel, and I will testify against you: I am God, your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.8",
+      "edition_verse_id": "BSB:PSA.50.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I do not rebuke you for your sacrifices, and your burnt offerings are ever before Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.9",
+      "edition_verse_id": "BSB:PSA.50.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I have no need for a bull from your stall or goats from your pens,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.10",
+      "edition_verse_id": "BSB:PSA.50.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "for every beast of the forest is Mine — the cattle on a thousand hills.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.11",
+      "edition_verse_id": "BSB:PSA.50.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I know every bird in the mountains, and the creatures of the field are Mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.12",
+      "edition_verse_id": "BSB:PSA.50.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If I were hungry, I would not tell you, for the world is Mine, and the fullness thereof.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.13",
+      "edition_verse_id": "BSB:PSA.50.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Do I eat the flesh of bulls, or drink the blood of goats?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.14",
+      "edition_verse_id": "BSB:PSA.50.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Sacrifice a thank offering to God, and fulfill your vows to the Most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.15",
+      "edition_verse_id": "BSB:PSA.50.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Call upon Me in the day of trouble; I will deliver you, and you will honor Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.16",
+      "edition_verse_id": "BSB:PSA.50.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "To the wicked, however, God says, “What right have you to recite My statutes and to bear My covenant on your lips?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.17",
+      "edition_verse_id": "BSB:PSA.50.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For you hate My instruction and cast My words behind you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.18",
+      "edition_verse_id": "BSB:PSA.50.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When you see a thief, you befriend him, and throw in your lot with adulterers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.19",
+      "edition_verse_id": "BSB:PSA.50.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You unleash your mouth for evil and harness your tongue to deceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.20",
+      "edition_verse_id": "BSB:PSA.50.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You sit and malign your brother; you slander your own mother’s son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.21",
+      "edition_verse_id": "BSB:PSA.50.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "You have done these things, and I kept silent; you thought I was just like you. But now I rebuke you and accuse you to your face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.22",
+      "edition_verse_id": "BSB:PSA.50.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Now consider this, you who forget God, lest I tear you to pieces, with no one to rescue you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.50.23",
+      "edition_verse_id": "BSB:PSA.50.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He who sacrifices a thank offering honors Me, and to him who rightly orders his way, I will show the salvation of God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

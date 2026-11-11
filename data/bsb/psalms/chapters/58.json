@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 58,
+  "verses": [
+    {
+      "id": "PSA.58.1",
+      "edition_verse_id": "BSB:PSA.58.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David. Do you indeed speak justly, O rulers? Do you judge uprightly, O sons of men?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.58.2",
+      "edition_verse_id": "BSB:PSA.58.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "No, in your hearts you devise injustice; with your hands you mete out violence on the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.3",
+      "edition_verse_id": "BSB:PSA.58.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The wicked are estranged from the womb; the liars go astray from birth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.4",
+      "edition_verse_id": "BSB:PSA.58.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their venom is like the venom of a snake, like a cobra that shuts its ears,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.5",
+      "edition_verse_id": "BSB:PSA.58.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "refusing to hear the tune of the charmer who skillfully weaves his spell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.6",
+      "edition_verse_id": "BSB:PSA.58.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O God, shatter their teeth in their mouths; O LORD, tear out the fangs of the lions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.7",
+      "edition_verse_id": "BSB:PSA.58.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "May they vanish like water that runs off; when they draw the bow, may their arrows be blunted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.8",
+      "edition_verse_id": "BSB:PSA.58.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Like a slug that dissolves in its slime, like a woman’s stillborn child, may they never see the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.9",
+      "edition_verse_id": "BSB:PSA.58.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Before your pots can feel the burning thorns— whether green or dry— He will sweep them away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.10",
+      "edition_verse_id": "BSB:PSA.58.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The righteous will rejoice when they see they are avenged; they will wash their feet in the blood of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.58.11",
+      "edition_verse_id": "BSB:PSA.58.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then men will say, “There is surely a reward for the righteous! There is surely a God who judges the earth!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 143,
+  "verses": [
+    {
+      "id": "PSA.143.1",
+      "edition_verse_id": "BSB:PSA.143.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of David. O LORD, hear my prayer. In Your faithfulness, give ear to my plea; in Your righteousness, answer me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.143.2",
+      "edition_verse_id": "BSB:PSA.143.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Do not bring Your servant into judgment, for no one alive is righteous before You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.3",
+      "edition_verse_id": "BSB:PSA.143.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the enemy has pursued my soul, crushing my life to the ground, making me dwell in darkness like those long since dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.4",
+      "edition_verse_id": "BSB:PSA.143.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My spirit grows faint within me; my heart is dismayed inside me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.5",
+      "edition_verse_id": "BSB:PSA.143.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I remember the days of old; I meditate on all Your works; I consider the work of Your hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.6",
+      "edition_verse_id": "BSB:PSA.143.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I stretch out my hands to You; my soul thirsts for You like a parched land. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.7",
+      "edition_verse_id": "BSB:PSA.143.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I will be like those who descend to the Pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.8",
+      "edition_verse_id": "BSB:PSA.143.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let me hear Your loving devotion in the morning, for I have put my trust in You. Teach me the way I should walk, for to You I lift up my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.9",
+      "edition_verse_id": "BSB:PSA.143.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Deliver me from my enemies, O LORD; I flee to You for refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.10",
+      "edition_verse_id": "BSB:PSA.143.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Teach me to do Your will, for You are my God. May Your good Spirit lead me on level ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.11",
+      "edition_verse_id": "BSB:PSA.143.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the sake of Your name, O LORD, revive me. In Your righteousness, bring my soul out of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.143.12",
+      "edition_verse_id": "BSB:PSA.143.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And in Your loving devotion, cut off my enemies. Destroy all who afflict me, for I am Your servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

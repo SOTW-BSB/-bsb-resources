@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "PSA.42.1",
+      "edition_verse_id": "BSB:PSA.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Maskil of the sons of Korah. As the deer pants for streams of water, so my soul longs after You, O God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.42.2",
+      "edition_verse_id": "BSB:PSA.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "My soul thirsts for God, the living God. When shall I come and appear in God’s presence?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.3",
+      "edition_verse_id": "BSB:PSA.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My tears have been my food both day and night, while men ask me all day long, “Where is your God?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.4",
+      "edition_verse_id": "BSB:PSA.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "These things come to mind as I pour out my soul: how I walked with the multitude, leading the festive procession to the house of God with shouts of joy and praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.5",
+      "edition_verse_id": "BSB:PSA.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him for the salvation of His presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.6",
+      "edition_verse_id": "BSB:PSA.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O my God, my soul despairs within me. Therefore I remember You from the land of Jordan and the peaks of Hermon — even from Mount Mizar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.7",
+      "edition_verse_id": "BSB:PSA.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Deep calls to deep in the roar of Your waterfalls; all Your breakers and waves have rolled over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.8",
+      "edition_verse_id": "BSB:PSA.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD decrees His loving devotion by day, and at night His song is with me as a prayer to the God of my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.9",
+      "edition_verse_id": "BSB:PSA.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I say to God my Rock, “Why have You forgotten me? Why must I walk in sorrow because of the enemy’s oppression?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.10",
+      "edition_verse_id": "BSB:PSA.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Like the crushing of my bones, my enemies taunt me, while they say to me all day long, “Where is your God?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.42.11",
+      "edition_verse_id": "BSB:PSA.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

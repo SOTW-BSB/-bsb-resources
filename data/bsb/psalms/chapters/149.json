@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 149,
+  "verses": [
+    {
+      "id": "PSA.149.1",
+      "edition_verse_id": "BSB:PSA.149.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hallelujah! Sing to the LORD a new song — His praise in the assembly of the godly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.149.2",
+      "edition_verse_id": "BSB:PSA.149.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let Israel rejoice in their Maker; let the children of Zion rejoice in their King.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.3",
+      "edition_verse_id": "BSB:PSA.149.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let them praise His name with dancing, and make music to Him with tambourine and harp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.4",
+      "edition_verse_id": "BSB:PSA.149.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the LORD takes pleasure in His people; He adorns the afflicted with salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.5",
+      "edition_verse_id": "BSB:PSA.149.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let the saints exult in glory; let them shout for joy upon their beds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.6",
+      "edition_verse_id": "BSB:PSA.149.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "May the high praises of God be in their mouths, and a double-edged sword in their hands,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.7",
+      "edition_verse_id": "BSB:PSA.149.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "to inflict vengeance on the nations and punishment on the peoples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.8",
+      "edition_verse_id": "BSB:PSA.149.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "to bind their kings with chains and their nobles with shackles of iron,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.149.9",
+      "edition_verse_id": "BSB:PSA.149.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "to execute the judgment written against them. This honor is for all His saints. Hallelujah!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

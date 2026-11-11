@@ -1,0 +1,2120 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 119,
+  "verses": [
+    {
+      "id": "PSA.119.1",
+      "edition_verse_id": "BSB:PSA.119.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed are those whose way is blameless, who walk in the Law of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.119.2",
+      "edition_verse_id": "BSB:PSA.119.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Blessed are those who keep His testimonies and seek Him with all their heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.3",
+      "edition_verse_id": "BSB:PSA.119.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They do no iniquity; they walk in His ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.4",
+      "edition_verse_id": "BSB:PSA.119.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You have ordained Your precepts, that we should keep them diligently.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.5",
+      "edition_verse_id": "BSB:PSA.119.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Oh, that my ways were committed to keeping Your statutes!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.6",
+      "edition_verse_id": "BSB:PSA.119.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then I would not be ashamed when I consider all Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.7",
+      "edition_verse_id": "BSB:PSA.119.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will praise You with an upright heart when I learn Your righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.8",
+      "edition_verse_id": "BSB:PSA.119.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will keep Your statutes; do not utterly forsake me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.9",
+      "edition_verse_id": "BSB:PSA.119.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "How can a young man keep his way pure? By guarding it according to Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.10",
+      "edition_verse_id": "BSB:PSA.119.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "With all my heart I have sought You; do not let me stray from Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.11",
+      "edition_verse_id": "BSB:PSA.119.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I have hidden Your word in my heart that I might not sin against You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.12",
+      "edition_verse_id": "BSB:PSA.119.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Blessed are You, O LORD; teach me Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.13",
+      "edition_verse_id": "BSB:PSA.119.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "With my lips I proclaim all the judgments of Your mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.14",
+      "edition_verse_id": "BSB:PSA.119.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I rejoice in the way of Your testimonies as much as in all riches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.15",
+      "edition_verse_id": "BSB:PSA.119.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will meditate on Your precepts and regard Your ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.16",
+      "edition_verse_id": "BSB:PSA.119.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I will delight in Your statutes; I will not forget Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.17",
+      "edition_verse_id": "BSB:PSA.119.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Deal bountifully with Your servant, that I may live and keep Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.18",
+      "edition_verse_id": "BSB:PSA.119.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Open my eyes that I may see wondrous things from Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.19",
+      "edition_verse_id": "BSB:PSA.119.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I am a stranger on the earth; do not hide Your commandments from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.20",
+      "edition_verse_id": "BSB:PSA.119.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My soul is consumed with longing for Your judgments at all times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.21",
+      "edition_verse_id": "BSB:PSA.119.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "You rebuke the arrogant — the cursed who stray from Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.22",
+      "edition_verse_id": "BSB:PSA.119.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Remove my scorn and contempt, for I have kept Your testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.23",
+      "edition_verse_id": "BSB:PSA.119.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Though rulers sit and slander me, Your servant meditates on Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.24",
+      "edition_verse_id": "BSB:PSA.119.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Your testimonies are indeed my delight; they are my counselors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.25",
+      "edition_verse_id": "BSB:PSA.119.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "My soul cleaves to the dust; revive me according to Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.26",
+      "edition_verse_id": "BSB:PSA.119.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I recounted my ways, and You answered me; teach me Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.27",
+      "edition_verse_id": "BSB:PSA.119.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Make clear to me the way of Your precepts; then I will meditate on Your wonders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.28",
+      "edition_verse_id": "BSB:PSA.119.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "My soul melts with sorrow; strengthen me according to Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.29",
+      "edition_verse_id": "BSB:PSA.119.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Remove me from the path of deceit and graciously grant me Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.30",
+      "edition_verse_id": "BSB:PSA.119.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I have chosen the way of truth; I have set Your ordinances before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.31",
+      "edition_verse_id": "BSB:PSA.119.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "I cling to Your testimonies, O LORD; let me not be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.32",
+      "edition_verse_id": "BSB:PSA.119.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I run in the path of Your commandments, for You will enlarge my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.33",
+      "edition_verse_id": "BSB:PSA.119.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Teach me, O LORD, the way of Your statutes, and I will keep them to the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.34",
+      "edition_verse_id": "BSB:PSA.119.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Give me understanding that I may obey Your law, and follow it with all my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.35",
+      "edition_verse_id": "BSB:PSA.119.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Direct me in the path of Your commandments, for there I find delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.36",
+      "edition_verse_id": "BSB:PSA.119.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Turn my heart to Your testimonies and not to covetous gain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.37",
+      "edition_verse_id": "BSB:PSA.119.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Turn my eyes away from worthless things; revive me with Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.38",
+      "edition_verse_id": "BSB:PSA.119.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Establish Your word to Your servant, to produce reverence for You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.39",
+      "edition_verse_id": "BSB:PSA.119.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Turn away the disgrace I dread, for Your judgments are good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.40",
+      "edition_verse_id": "BSB:PSA.119.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "How I long for Your precepts! Revive me in Your righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.41",
+      "edition_verse_id": "BSB:PSA.119.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "May Your loving devotion come to me, O LORD, Your salvation, according to Your promise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.42",
+      "edition_verse_id": "BSB:PSA.119.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Then I can answer him who taunts, for I trust in Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.43",
+      "edition_verse_id": "BSB:PSA.119.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Never take Your word of truth from my mouth, for I hope in Your judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.44",
+      "edition_verse_id": "BSB:PSA.119.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "I will always obey Your law, forever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.45",
+      "edition_verse_id": "BSB:PSA.119.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And I will walk in freedom, for I have sought Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.46",
+      "edition_verse_id": "BSB:PSA.119.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "I will speak of Your testimonies before kings, and I will not be ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.47",
+      "edition_verse_id": "BSB:PSA.119.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "I delight in Your commandments because I love them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.48",
+      "edition_verse_id": "BSB:PSA.119.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "I lift up my hands to Your commandments, which I love, and I meditate on Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.49",
+      "edition_verse_id": "BSB:PSA.119.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Remember Your word to Your servant, upon which You have given me hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.50",
+      "edition_verse_id": "BSB:PSA.119.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "This is my comfort in affliction, that Your promise has given me life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.51",
+      "edition_verse_id": "BSB:PSA.119.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "The arrogant utterly deride me, but I do not turn from Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.52",
+      "edition_verse_id": "BSB:PSA.119.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "I remember Your judgments of old, O LORD, and in them I find comfort.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.53",
+      "edition_verse_id": "BSB:PSA.119.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Rage has taken hold of me because of the wicked who reject Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.54",
+      "edition_verse_id": "BSB:PSA.119.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Your statutes are songs to me in the house of my pilgrimage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.55",
+      "edition_verse_id": "BSB:PSA.119.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "In the night, O LORD, I remember Your name, that I may keep Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.56",
+      "edition_verse_id": "BSB:PSA.119.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "This is my practice, for I obey Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.57",
+      "edition_verse_id": "BSB:PSA.119.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "The LORD is my portion; I have promised to keep Your words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.58",
+      "edition_verse_id": "BSB:PSA.119.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "I have sought Your face with all my heart; be gracious to me according to Your promise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.59",
+      "edition_verse_id": "BSB:PSA.119.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "I considered my ways and turned my steps to Your testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.60",
+      "edition_verse_id": "BSB:PSA.119.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "I hurried without hesitating to keep Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.61",
+      "edition_verse_id": "BSB:PSA.119.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "Though the ropes of the wicked bind me, I do not forget Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.62",
+      "edition_verse_id": "BSB:PSA.119.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "At midnight I rise to give You thanks for Your righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.63",
+      "edition_verse_id": "BSB:PSA.119.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "I am a friend to all who fear You, and to those who keep Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.64",
+      "edition_verse_id": "BSB:PSA.119.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "The earth is filled with Your loving devotion, O LORD; teach me Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.65",
+      "edition_verse_id": "BSB:PSA.119.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "You are good to Your servant, O LORD, according to Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.66",
+      "edition_verse_id": "BSB:PSA.119.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "Teach me good judgment and knowledge, for I believe in Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.67",
+      "edition_verse_id": "BSB:PSA.119.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Before I was afflicted, I went astray; but now I keep Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.68",
+      "edition_verse_id": "BSB:PSA.119.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "You are good, and You do what is good; teach me Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.69",
+      "edition_verse_id": "BSB:PSA.119.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "Though the arrogant have smeared me with lies, I keep Your precepts with all my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.70",
+      "edition_verse_id": "BSB:PSA.119.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "Their hearts are callous and insensitive, but I delight in Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.71",
+      "edition_verse_id": "BSB:PSA.119.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "It was good for me to be afflicted, that I might learn Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.72",
+      "edition_verse_id": "BSB:PSA.119.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "The law from Your mouth is more precious to me than thousands of pieces of gold and silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.73",
+      "edition_verse_id": "BSB:PSA.119.73",
+      "verse": 73,
+      "spans": [
+        {
+          "text": "Your hands have made me and fashioned me; give me understanding to learn Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.74",
+      "edition_verse_id": "BSB:PSA.119.74",
+      "verse": 74,
+      "spans": [
+        {
+          "text": "May those who fear You see me and rejoice, for I have hoped in Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.75",
+      "edition_verse_id": "BSB:PSA.119.75",
+      "verse": 75,
+      "spans": [
+        {
+          "text": "I know, O LORD, that Your judgments are righteous, and that in faithfulness You have afflicted me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.76",
+      "edition_verse_id": "BSB:PSA.119.76",
+      "verse": 76,
+      "spans": [
+        {
+          "text": "May Your loving devotion comfort me, I pray, according to Your promise to Your servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.77",
+      "edition_verse_id": "BSB:PSA.119.77",
+      "verse": 77,
+      "spans": [
+        {
+          "text": "May Your compassion come to me, that I may live, for Your law is my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.78",
+      "edition_verse_id": "BSB:PSA.119.78",
+      "verse": 78,
+      "spans": [
+        {
+          "text": "May the arrogant be put to shame for subverting me with a lie; I will meditate on Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.79",
+      "edition_verse_id": "BSB:PSA.119.79",
+      "verse": 79,
+      "spans": [
+        {
+          "text": "May those who fear You turn to me, those who know Your testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.80",
+      "edition_verse_id": "BSB:PSA.119.80",
+      "verse": 80,
+      "spans": [
+        {
+          "text": "May my heart be blameless in Your statutes, that I may not be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.81",
+      "edition_verse_id": "BSB:PSA.119.81",
+      "verse": 81,
+      "spans": [
+        {
+          "text": "My soul faints for Your salvation; I wait for Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.82",
+      "edition_verse_id": "BSB:PSA.119.82",
+      "verse": 82,
+      "spans": [
+        {
+          "text": "My eyes fail, looking for Your promise; I ask, “When will You comfort me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.83",
+      "edition_verse_id": "BSB:PSA.119.83",
+      "verse": 83,
+      "spans": [
+        {
+          "text": "Though I am like a wineskin dried up by smoke, I do not forget Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.84",
+      "edition_verse_id": "BSB:PSA.119.84",
+      "verse": 84,
+      "spans": [
+        {
+          "text": "How many days must Your servant wait? When will You execute judgment on my persecutors?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.85",
+      "edition_verse_id": "BSB:PSA.119.85",
+      "verse": 85,
+      "spans": [
+        {
+          "text": "The arrogant have dug pits for me in violation of Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.86",
+      "edition_verse_id": "BSB:PSA.119.86",
+      "verse": 86,
+      "spans": [
+        {
+          "text": "All Your commandments are faithful; I am persecuted without cause— help me!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.87",
+      "edition_verse_id": "BSB:PSA.119.87",
+      "verse": 87,
+      "spans": [
+        {
+          "text": "They almost wiped me from the earth, but I have not forsaken Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.88",
+      "edition_verse_id": "BSB:PSA.119.88",
+      "verse": 88,
+      "spans": [
+        {
+          "text": "Revive me according to Your loving devotion, that I may obey the testimony of Your mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.89",
+      "edition_verse_id": "BSB:PSA.119.89",
+      "verse": 89,
+      "spans": [
+        {
+          "text": "Your word, O LORD, is everlasting; it is firmly fixed in the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.90",
+      "edition_verse_id": "BSB:PSA.119.90",
+      "verse": 90,
+      "spans": [
+        {
+          "text": "Your faithfulness continues through all generations; You established the earth, and it endures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.91",
+      "edition_verse_id": "BSB:PSA.119.91",
+      "verse": 91,
+      "spans": [
+        {
+          "text": "Your ordinances stand to this day, for all things are servants to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.92",
+      "edition_verse_id": "BSB:PSA.119.92",
+      "verse": 92,
+      "spans": [
+        {
+          "text": "If Your law had not been my delight, then I would have perished in my affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.93",
+      "edition_verse_id": "BSB:PSA.119.93",
+      "verse": 93,
+      "spans": [
+        {
+          "text": "I will never forget Your precepts, for by them You have revived me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.94",
+      "edition_verse_id": "BSB:PSA.119.94",
+      "verse": 94,
+      "spans": [
+        {
+          "text": "I am Yours; save me, for I have sought Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.95",
+      "edition_verse_id": "BSB:PSA.119.95",
+      "verse": 95,
+      "spans": [
+        {
+          "text": "The wicked wait to destroy me, but I will ponder Your testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.96",
+      "edition_verse_id": "BSB:PSA.119.96",
+      "verse": 96,
+      "spans": [
+        {
+          "text": "I have seen a limit to all perfection, but Your commandment is without limit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.97",
+      "edition_verse_id": "BSB:PSA.119.97",
+      "verse": 97,
+      "spans": [
+        {
+          "text": "Oh, how I love Your law! All day long it is my meditation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.98",
+      "edition_verse_id": "BSB:PSA.119.98",
+      "verse": 98,
+      "spans": [
+        {
+          "text": "Your commandments make me wiser than my enemies, for they are always with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.99",
+      "edition_verse_id": "BSB:PSA.119.99",
+      "verse": 99,
+      "spans": [
+        {
+          "text": "I have more insight than all my teachers, for Your testimonies are my meditation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.100",
+      "edition_verse_id": "BSB:PSA.119.100",
+      "verse": 100,
+      "spans": [
+        {
+          "text": "I discern more than the elders, for I obey Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.101",
+      "edition_verse_id": "BSB:PSA.119.101",
+      "verse": 101,
+      "spans": [
+        {
+          "text": "I have kept my feet from every evil path, that I may keep Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.102",
+      "edition_verse_id": "BSB:PSA.119.102",
+      "verse": 102,
+      "spans": [
+        {
+          "text": "I have not departed from Your ordinances, for You Yourself have taught me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.103",
+      "edition_verse_id": "BSB:PSA.119.103",
+      "verse": 103,
+      "spans": [
+        {
+          "text": "How sweet are Your words to my taste— sweeter than honey in my mouth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.104",
+      "edition_verse_id": "BSB:PSA.119.104",
+      "verse": 104,
+      "spans": [
+        {
+          "text": "I gain understanding from Your precepts; therefore I hate every false way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.105",
+      "edition_verse_id": "BSB:PSA.119.105",
+      "verse": 105,
+      "spans": [
+        {
+          "text": "Your word is a lamp to my feet and a light to my path.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.106",
+      "edition_verse_id": "BSB:PSA.119.106",
+      "verse": 106,
+      "spans": [
+        {
+          "text": "I have sworn and confirmed that I will keep Your righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.107",
+      "edition_verse_id": "BSB:PSA.119.107",
+      "verse": 107,
+      "spans": [
+        {
+          "text": "I am severely afflicted, O LORD; revive me through Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.108",
+      "edition_verse_id": "BSB:PSA.119.108",
+      "verse": 108,
+      "spans": [
+        {
+          "text": "Accept the freewill offerings of my mouth, O LORD, and teach me Your judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.109",
+      "edition_verse_id": "BSB:PSA.119.109",
+      "verse": 109,
+      "spans": [
+        {
+          "text": "I constantly take my life in my hands, yet I do not forget Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.110",
+      "edition_verse_id": "BSB:PSA.119.110",
+      "verse": 110,
+      "spans": [
+        {
+          "text": "The wicked have set a snare for me, but I have not strayed from Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.111",
+      "edition_verse_id": "BSB:PSA.119.111",
+      "verse": 111,
+      "spans": [
+        {
+          "text": "Your testimonies are my heritage forever, for they are the joy of my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.112",
+      "edition_verse_id": "BSB:PSA.119.112",
+      "verse": 112,
+      "spans": [
+        {
+          "text": "I have inclined my heart to perform Your statutes, even to the very end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.113",
+      "edition_verse_id": "BSB:PSA.119.113",
+      "verse": 113,
+      "spans": [
+        {
+          "text": "The double-minded I despise, but Your law I love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.114",
+      "edition_verse_id": "BSB:PSA.119.114",
+      "verse": 114,
+      "spans": [
+        {
+          "text": "You are my hiding place and my shield; I put my hope in Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.115",
+      "edition_verse_id": "BSB:PSA.119.115",
+      "verse": 115,
+      "spans": [
+        {
+          "text": "Depart from me, you evildoers, that I may obey the commandments of my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.116",
+      "edition_verse_id": "BSB:PSA.119.116",
+      "verse": 116,
+      "spans": [
+        {
+          "text": "Sustain me as You promised, that I may live; let me not be ashamed of my hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.117",
+      "edition_verse_id": "BSB:PSA.119.117",
+      "verse": 117,
+      "spans": [
+        {
+          "text": "Uphold me, and I will be saved, that I may always regard Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.118",
+      "edition_verse_id": "BSB:PSA.119.118",
+      "verse": 118,
+      "spans": [
+        {
+          "text": "You reject all who stray from Your statutes, for their deceitfulness is in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.119",
+      "edition_verse_id": "BSB:PSA.119.119",
+      "verse": 119,
+      "spans": [
+        {
+          "text": "All the wicked on earth You discard like dross; therefore I love Your testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.120",
+      "edition_verse_id": "BSB:PSA.119.120",
+      "verse": 120,
+      "spans": [
+        {
+          "text": "My flesh trembles in awe of You; I stand in fear of Your judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.121",
+      "edition_verse_id": "BSB:PSA.119.121",
+      "verse": 121,
+      "spans": [
+        {
+          "text": "I have done what is just and right; do not leave me to my oppressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.122",
+      "edition_verse_id": "BSB:PSA.119.122",
+      "verse": 122,
+      "spans": [
+        {
+          "text": "Ensure Your servant’s well-being; do not let the arrogant oppress me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.123",
+      "edition_verse_id": "BSB:PSA.119.123",
+      "verse": 123,
+      "spans": [
+        {
+          "text": "My eyes fail, looking for Your salvation, and for Your righteous promise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.124",
+      "edition_verse_id": "BSB:PSA.119.124",
+      "verse": 124,
+      "spans": [
+        {
+          "text": "Deal with Your servant according to Your loving devotion, and teach me Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.125",
+      "edition_verse_id": "BSB:PSA.119.125",
+      "verse": 125,
+      "spans": [
+        {
+          "text": "I am Your servant; give me understanding, that I may know Your testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.126",
+      "edition_verse_id": "BSB:PSA.119.126",
+      "verse": 126,
+      "spans": [
+        {
+          "text": "It is time for the LORD to act, for they have broken Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.127",
+      "edition_verse_id": "BSB:PSA.119.127",
+      "verse": 127,
+      "spans": [
+        {
+          "text": "Therefore I love Your commandments more than gold, even the purest gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.128",
+      "edition_verse_id": "BSB:PSA.119.128",
+      "verse": 128,
+      "spans": [
+        {
+          "text": "Therefore I admire all Your precepts and hate every false way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.129",
+      "edition_verse_id": "BSB:PSA.119.129",
+      "verse": 129,
+      "spans": [
+        {
+          "text": "Wonderful are Your testimonies; therefore I obey them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.130",
+      "edition_verse_id": "BSB:PSA.119.130",
+      "verse": 130,
+      "spans": [
+        {
+          "text": "The unfolding of Your words gives light; it informs the simple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.131",
+      "edition_verse_id": "BSB:PSA.119.131",
+      "verse": 131,
+      "spans": [
+        {
+          "text": "I open my mouth and pant, longing for Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.132",
+      "edition_verse_id": "BSB:PSA.119.132",
+      "verse": 132,
+      "spans": [
+        {
+          "text": "Turn to me and show me mercy, as You do to those who love Your name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.133",
+      "edition_verse_id": "BSB:PSA.119.133",
+      "verse": 133,
+      "spans": [
+        {
+          "text": "Order my steps in Your word; let no sin rule over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.134",
+      "edition_verse_id": "BSB:PSA.119.134",
+      "verse": 134,
+      "spans": [
+        {
+          "text": "Redeem me from the oppression of man, that I may keep Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.135",
+      "edition_verse_id": "BSB:PSA.119.135",
+      "verse": 135,
+      "spans": [
+        {
+          "text": "Make Your face shine upon Your servant, and teach me Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.136",
+      "edition_verse_id": "BSB:PSA.119.136",
+      "verse": 136,
+      "spans": [
+        {
+          "text": "My eyes shed streams of tears because Your law is not obeyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.137",
+      "edition_verse_id": "BSB:PSA.119.137",
+      "verse": 137,
+      "spans": [
+        {
+          "text": "Righteous are You, O LORD, and upright are Your judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.138",
+      "edition_verse_id": "BSB:PSA.119.138",
+      "verse": 138,
+      "spans": [
+        {
+          "text": "The testimonies You have laid down are righteous and altogether faithful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.139",
+      "edition_verse_id": "BSB:PSA.119.139",
+      "verse": 139,
+      "spans": [
+        {
+          "text": "My zeal has consumed me because my foes forget Your words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.140",
+      "edition_verse_id": "BSB:PSA.119.140",
+      "verse": 140,
+      "spans": [
+        {
+          "text": "Your promise is completely pure; therefore Your servant loves it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.141",
+      "edition_verse_id": "BSB:PSA.119.141",
+      "verse": 141,
+      "spans": [
+        {
+          "text": "I am lowly and despised, but I do not forget Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.142",
+      "edition_verse_id": "BSB:PSA.119.142",
+      "verse": 142,
+      "spans": [
+        {
+          "text": "Your righteousness is everlasting and Your law is true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.143",
+      "edition_verse_id": "BSB:PSA.119.143",
+      "verse": 143,
+      "spans": [
+        {
+          "text": "Trouble and distress have found me, but Your commandments are my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.144",
+      "edition_verse_id": "BSB:PSA.119.144",
+      "verse": 144,
+      "spans": [
+        {
+          "text": "Your testimonies are righteous forever. Give me understanding, that I may live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.145",
+      "edition_verse_id": "BSB:PSA.119.145",
+      "verse": 145,
+      "spans": [
+        {
+          "text": "I call with all my heart; answer me, O LORD! I will obey Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.146",
+      "edition_verse_id": "BSB:PSA.119.146",
+      "verse": 146,
+      "spans": [
+        {
+          "text": "I call to You; save me, that I may keep Your testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.147",
+      "edition_verse_id": "BSB:PSA.119.147",
+      "verse": 147,
+      "spans": [
+        {
+          "text": "I rise before dawn and cry for help; in Your word I have put my hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.148",
+      "edition_verse_id": "BSB:PSA.119.148",
+      "verse": 148,
+      "spans": [
+        {
+          "text": "My eyes anticipate the watches of night, that I may meditate on Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.149",
+      "edition_verse_id": "BSB:PSA.119.149",
+      "verse": 149,
+      "spans": [
+        {
+          "text": "Hear my voice, O LORD, according to Your loving devotion; give me life according to Your justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.150",
+      "edition_verse_id": "BSB:PSA.119.150",
+      "verse": 150,
+      "spans": [
+        {
+          "text": "Those who follow after wickedness draw near; they are far from Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.151",
+      "edition_verse_id": "BSB:PSA.119.151",
+      "verse": 151,
+      "spans": [
+        {
+          "text": "You are near, O LORD, and all Your commandments are true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.152",
+      "edition_verse_id": "BSB:PSA.119.152",
+      "verse": 152,
+      "spans": [
+        {
+          "text": "Long ago I learned from Your testimonies that You have established them forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.153",
+      "edition_verse_id": "BSB:PSA.119.153",
+      "verse": 153,
+      "spans": [
+        {
+          "text": "Look upon my affliction and rescue me, for I have not forgotten Your law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.154",
+      "edition_verse_id": "BSB:PSA.119.154",
+      "verse": 154,
+      "spans": [
+        {
+          "text": "Defend my cause and redeem me; revive me according to Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.155",
+      "edition_verse_id": "BSB:PSA.119.155",
+      "verse": 155,
+      "spans": [
+        {
+          "text": "Salvation is far from the wicked because they do not seek Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.156",
+      "edition_verse_id": "BSB:PSA.119.156",
+      "verse": 156,
+      "spans": [
+        {
+          "text": "Great are Your mercies, O LORD; revive me according to Your ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.157",
+      "edition_verse_id": "BSB:PSA.119.157",
+      "verse": 157,
+      "spans": [
+        {
+          "text": "Though my persecutors and foes are many, I have not turned from Your testimonies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.158",
+      "edition_verse_id": "BSB:PSA.119.158",
+      "verse": 158,
+      "spans": [
+        {
+          "text": "I look on the faithless with loathing because they do not keep Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.159",
+      "edition_verse_id": "BSB:PSA.119.159",
+      "verse": 159,
+      "spans": [
+        {
+          "text": "Consider how I love Your precepts, O LORD; give me life according to Your loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.160",
+      "edition_verse_id": "BSB:PSA.119.160",
+      "verse": 160,
+      "spans": [
+        {
+          "text": "The entirety of Your word is truth, and all Your righteous judgments endure forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.161",
+      "edition_verse_id": "BSB:PSA.119.161",
+      "verse": 161,
+      "spans": [
+        {
+          "text": "Rulers persecute me without cause, but my heart fears only Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.162",
+      "edition_verse_id": "BSB:PSA.119.162",
+      "verse": 162,
+      "spans": [
+        {
+          "text": "I rejoice in Your promise like one who finds great spoil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.163",
+      "edition_verse_id": "BSB:PSA.119.163",
+      "verse": 163,
+      "spans": [
+        {
+          "text": "I hate and abhor falsehood, but Your law I love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.164",
+      "edition_verse_id": "BSB:PSA.119.164",
+      "verse": 164,
+      "spans": [
+        {
+          "text": "Seven times a day I praise You for Your righteous judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.165",
+      "edition_verse_id": "BSB:PSA.119.165",
+      "verse": 165,
+      "spans": [
+        {
+          "text": "Abundant peace belongs to those who love Your law; nothing can make them stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.166",
+      "edition_verse_id": "BSB:PSA.119.166",
+      "verse": 166,
+      "spans": [
+        {
+          "text": "I wait for Your salvation, O LORD, and I carry out Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.167",
+      "edition_verse_id": "BSB:PSA.119.167",
+      "verse": 167,
+      "spans": [
+        {
+          "text": "I obey Your testimonies and love them greatly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.168",
+      "edition_verse_id": "BSB:PSA.119.168",
+      "verse": 168,
+      "spans": [
+        {
+          "text": "I obey Your precepts and Your testimonies, for all my ways are before You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.169",
+      "edition_verse_id": "BSB:PSA.119.169",
+      "verse": 169,
+      "spans": [
+        {
+          "text": "May my cry come before You, O LORD; give me understanding according to Your word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.170",
+      "edition_verse_id": "BSB:PSA.119.170",
+      "verse": 170,
+      "spans": [
+        {
+          "text": "May my plea come before You; rescue me according to Your promise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.171",
+      "edition_verse_id": "BSB:PSA.119.171",
+      "verse": 171,
+      "spans": [
+        {
+          "text": "My lips pour forth praise, for You teach me Your statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.172",
+      "edition_verse_id": "BSB:PSA.119.172",
+      "verse": 172,
+      "spans": [
+        {
+          "text": "My tongue sings of Your word, for all Your commandments are righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.173",
+      "edition_verse_id": "BSB:PSA.119.173",
+      "verse": 173,
+      "spans": [
+        {
+          "text": "May Your hand be ready to help me, for I have chosen Your precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.174",
+      "edition_verse_id": "BSB:PSA.119.174",
+      "verse": 174,
+      "spans": [
+        {
+          "text": "I long for Your salvation, O LORD, and Your law is my delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.175",
+      "edition_verse_id": "BSB:PSA.119.175",
+      "verse": 175,
+      "spans": [
+        {
+          "text": "Let me live to praise You; may Your judgments sustain me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.119.176",
+      "edition_verse_id": "BSB:PSA.119.176",
+      "verse": 176,
+      "spans": [
+        {
+          "text": "I have strayed like a lost sheep; seek Your servant, for I have not forgotten Your commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

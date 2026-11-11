@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 44,
+  "verses": [
+    {
+      "id": "PSA.44.1",
+      "edition_verse_id": "BSB:PSA.44.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Maskil of the sons of Korah. We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.44.2",
+      "edition_verse_id": "BSB:PSA.44.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "With Your hand You drove out the nations and planted our fathers there; You crushed the peoples and cast them out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.3",
+      "edition_verse_id": "BSB:PSA.44.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For it was not by their sword that they took the land; their arm did not bring them victory. It was by Your right hand, Your arm, and the light of Your face, because You favored them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.4",
+      "edition_verse_id": "BSB:PSA.44.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You are my King, O God, who ordains victories for Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.5",
+      "edition_verse_id": "BSB:PSA.44.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Through You we repel our foes; through Your name we trample our enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.6",
+      "edition_verse_id": "BSB:PSA.44.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For I do not trust in my bow, nor does my sword save me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.7",
+      "edition_verse_id": "BSB:PSA.44.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For You save us from our enemies; You put those who hate us to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.8",
+      "edition_verse_id": "BSB:PSA.44.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In God we have boasted all day long, and Your name we will praise forever. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.9",
+      "edition_verse_id": "BSB:PSA.44.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But You have rejected and humbled us; You no longer go forth with our armies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.10",
+      "edition_verse_id": "BSB:PSA.44.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You have made us retreat from the foe, and those who hate us have plundered us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.11",
+      "edition_verse_id": "BSB:PSA.44.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You have given us up as sheep to be devoured; You have scattered us among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.12",
+      "edition_verse_id": "BSB:PSA.44.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You sell Your people for nothing; no profit do You gain from their sale.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.13",
+      "edition_verse_id": "BSB:PSA.44.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You have made us a reproach to our neighbors, a mockery and derision to those around us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.14",
+      "edition_verse_id": "BSB:PSA.44.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You have made us a byword among the nations, a laughingstock among the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.15",
+      "edition_verse_id": "BSB:PSA.44.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "All day long my disgrace is before me, and shame has covered my face,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.16",
+      "edition_verse_id": "BSB:PSA.44.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "at the voice of the scorner and reviler, because of the enemy, bent on revenge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.17",
+      "edition_verse_id": "BSB:PSA.44.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All this has come upon us, though we have not forgotten You or betrayed Your covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.18",
+      "edition_verse_id": "BSB:PSA.44.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Our hearts have not turned back; our steps have not strayed from Your path.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.19",
+      "edition_verse_id": "BSB:PSA.44.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But You have crushed us in the lair of jackals; You have covered us with deepest darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.20",
+      "edition_verse_id": "BSB:PSA.44.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If we had forgotten the name of our God or spread out our hands to a foreign god,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.21",
+      "edition_verse_id": "BSB:PSA.44.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "would not God have discovered, since He knows the secrets of the heart?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.22",
+      "edition_verse_id": "BSB:PSA.44.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yet for Your sake we face death all day long; we are considered as sheep to be slaughtered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.23",
+      "edition_verse_id": "BSB:PSA.44.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Wake up, O Lord! Why are You sleeping? Arise! Do not reject us forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.24",
+      "edition_verse_id": "BSB:PSA.44.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Why do You hide Your face and forget our affliction and oppression?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.25",
+      "edition_verse_id": "BSB:PSA.44.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For our soul has sunk to the dust; our bodies cling to the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.44.26",
+      "edition_verse_id": "BSB:PSA.44.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Rise up; be our help! Redeem us on account of Your loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

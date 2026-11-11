@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 31,
+  "verses": [
+    {
+      "id": "PSA.31.1",
+      "edition_verse_id": "BSB:PSA.31.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. In You, O LORD, I have taken refuge; let me never be put to shame; save me by Your righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.31.2",
+      "edition_verse_id": "BSB:PSA.31.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Incline Your ear to me; come quickly to my rescue. Be my rock of refuge, the stronghold of my deliverance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.3",
+      "edition_verse_id": "BSB:PSA.31.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For You are my rock and my fortress; lead me and guide me for the sake of Your name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.4",
+      "edition_verse_id": "BSB:PSA.31.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You free me from the net laid out for me, for You are my refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.5",
+      "edition_verse_id": "BSB:PSA.31.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Into Your hands I commit my spirit; You have redeemed me, O LORD, God of truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.6",
+      "edition_verse_id": "BSB:PSA.31.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I hate those who cling to worthless idols, but in the LORD I trust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.7",
+      "edition_verse_id": "BSB:PSA.31.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will be glad and rejoice in Your loving devotion, for You have seen my affliction; You have known the anguish of my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.8",
+      "edition_verse_id": "BSB:PSA.31.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You have not delivered me to the enemy; You have set my feet in the open.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.9",
+      "edition_verse_id": "BSB:PSA.31.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Be merciful to me, O LORD, for I am in distress; my eyes fail from sorrow, my soul and body as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.10",
+      "edition_verse_id": "BSB:PSA.31.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.11",
+      "edition_verse_id": "BSB:PSA.31.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Among all my enemies I am a disgrace, and among my neighbors even more. I am dreaded by my friends — they flee when they see me on the street.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.12",
+      "edition_verse_id": "BSB:PSA.31.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I am forgotten like a dead man, out of mind. I am like a broken vessel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.13",
+      "edition_verse_id": "BSB:PSA.31.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For I hear the slander of many; there is terror on every side. They conspire against me and plot to take my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.14",
+      "edition_verse_id": "BSB:PSA.31.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But I trust in You, O LORD; I say, “You are my God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.15",
+      "edition_verse_id": "BSB:PSA.31.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My times are in Your hands; deliver me from my enemies and from those who pursue me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.16",
+      "edition_verse_id": "BSB:PSA.31.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Make Your face shine on Your servant; save me by Your loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.17",
+      "edition_verse_id": "BSB:PSA.31.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "O LORD, let me not be ashamed, for I have called on You. Let the wicked be put to shame; let them lie silent in Sheol.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.18",
+      "edition_verse_id": "BSB:PSA.31.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "May lying lips be silenced — lips that speak with arrogance against the righteous, full of pride and contempt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.19",
+      "edition_verse_id": "BSB:PSA.31.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "How great is Your goodness which You have laid up for those who fear You, which You have bestowed before the sons of men on those who take refuge in You!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.20",
+      "edition_verse_id": "BSB:PSA.31.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You hide them in the secret place of Your presence from the schemes of men. You conceal them in Your shelter from accusing tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.21",
+      "edition_verse_id": "BSB:PSA.31.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Blessed be the LORD, for He has shown me His loving devotion in a city under siege.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.22",
+      "edition_verse_id": "BSB:PSA.31.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In my alarm I said, “I am cut off from Your sight!” But You heard my plea for mercy when I called to You for help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.23",
+      "edition_verse_id": "BSB:PSA.31.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Love the LORD, all His saints. The LORD preserves the faithful, but fully repays the arrogant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.31.24",
+      "edition_verse_id": "BSB:PSA.31.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Be strong and courageous, all you who hope in the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

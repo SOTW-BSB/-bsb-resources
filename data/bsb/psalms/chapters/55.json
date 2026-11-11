@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 55,
+  "verses": [
+    {
+      "id": "PSA.55.1",
+      "edition_verse_id": "BSB:PSA.55.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. With stringed instruments. A Maskil of David. Listen to my prayer, O God, and do not ignore my plea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.55.2",
+      "edition_verse_id": "BSB:PSA.55.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Attend to me and answer me. I am restless in my complaint, and distraught",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.3",
+      "edition_verse_id": "BSB:PSA.55.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "at the voice of the enemy, at the pressure of the wicked. For they bring down disaster upon me and resent me in their anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.4",
+      "edition_verse_id": "BSB:PSA.55.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My heart pounds within me, and the terrors of death assail me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.5",
+      "edition_verse_id": "BSB:PSA.55.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Fear and trembling grip me, and horror has overwhelmed me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.6",
+      "edition_verse_id": "BSB:PSA.55.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I said, “Oh, that I had wings like a dove! I would fly away and find rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.7",
+      "edition_verse_id": "BSB:PSA.55.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "How far away I would flee! In the wilderness I would remain. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.8",
+      "edition_verse_id": "BSB:PSA.55.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I would hurry to my shelter, far from this raging tempest.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.9",
+      "edition_verse_id": "BSB:PSA.55.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O Lord, confuse and confound their speech, for I see violence and strife in the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.10",
+      "edition_verse_id": "BSB:PSA.55.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Day and night they encircle the walls, while malice and trouble lie within.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.11",
+      "edition_verse_id": "BSB:PSA.55.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Destruction is within; oppression and deceit never leave the streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.12",
+      "edition_verse_id": "BSB:PSA.55.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For it is not an enemy who insults me; that I could endure. It is not a foe who rises against me; from him I could hide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.13",
+      "edition_verse_id": "BSB:PSA.55.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But it is you, a man like myself, my companion and close friend.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.14",
+      "edition_verse_id": "BSB:PSA.55.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "We shared sweet fellowship together; we walked with the crowd into the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.15",
+      "edition_verse_id": "BSB:PSA.55.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let death seize them by surprise; let them go down to Sheol alive, for evil is with them in their homes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.16",
+      "edition_verse_id": "BSB:PSA.55.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But I call to God, and the LORD saves me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.17",
+      "edition_verse_id": "BSB:PSA.55.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Morning, noon, and night, I cry out in distress, and He hears my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.18",
+      "edition_verse_id": "BSB:PSA.55.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He redeems my soul in peace from the battle waged against me, even though many oppose me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.19",
+      "edition_verse_id": "BSB:PSA.55.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "God will hear and humiliate them — the One enthroned for the ages — Selah because they do not change and they have no fear of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.20",
+      "edition_verse_id": "BSB:PSA.55.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My companion attacks his friends; he violates his covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.21",
+      "edition_verse_id": "BSB:PSA.55.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His speech is smooth as butter, but war is in his heart. His words are softer than oil, yet they are swords unsheathed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.22",
+      "edition_verse_id": "BSB:PSA.55.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Cast your burden upon the LORD and He will sustain you; He will never let the righteous be shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.55.23",
+      "edition_verse_id": "BSB:PSA.55.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But You, O God, will bring them down to the Pit of destruction; men of bloodshed and deceit will not live out half their days. But I will trust in You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

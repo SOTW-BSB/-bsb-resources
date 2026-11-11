@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "PSA.16.1",
+      "edition_verse_id": "BSB:PSA.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Miktam of David. Preserve me, O God, for in You I take refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.16.2",
+      "edition_verse_id": "BSB:PSA.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I said to the LORD, “You are my Lord; apart from You I have no good thing.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.3",
+      "edition_verse_id": "BSB:PSA.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As for the saints in the land, they are the excellence in whom all my delight resides.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.4",
+      "edition_verse_id": "BSB:PSA.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Sorrows will multiply to those who chase other gods. I will not pour out their libations of blood, or speak their names with my lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.5",
+      "edition_verse_id": "BSB:PSA.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The LORD is my chosen portion and my cup; You have made my lot secure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.6",
+      "edition_verse_id": "BSB:PSA.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The lines of my boundary have fallen in pleasant places; surely my inheritance is delightful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.7",
+      "edition_verse_id": "BSB:PSA.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will bless the LORD who counsels me; even at night my conscience instructs me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.8",
+      "edition_verse_id": "BSB:PSA.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I have set the LORD always before me. Because He is at my right hand, I will not be shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.9",
+      "edition_verse_id": "BSB:PSA.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Therefore my heart is glad and my tongue rejoices; my body also will dwell securely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.10",
+      "edition_verse_id": "BSB:PSA.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For You will not abandon my soul to Sheol, nor will You let Your Holy One see decay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.16.11",
+      "edition_verse_id": "BSB:PSA.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You have made known to me the path of life; You will fill me with joy in Your presence, with eternal pleasures at Your right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

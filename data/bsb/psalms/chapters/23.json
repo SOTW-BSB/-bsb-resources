@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "PSA.23.1",
+      "edition_verse_id": "BSB:PSA.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of David. The LORD is my shepherd; I shall not want.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.23.2",
+      "edition_verse_id": "BSB:PSA.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He makes me lie down in green pastures; He leads me beside quiet waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.23.3",
+      "edition_verse_id": "BSB:PSA.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He restores my soul; He guides me in the paths of righteousness for the sake of His name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.23.4",
+      "edition_verse_id": "BSB:PSA.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.23.5",
+      "edition_verse_id": "BSB:PSA.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.23.6",
+      "edition_verse_id": "BSB:PSA.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Surely goodness and mercy will follow me all the days of my life, and I will dwell in the house of the LORD forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

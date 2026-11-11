@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "PSA.26.1",
+      "edition_verse_id": "BSB:PSA.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Of David. Vindicate me, O LORD! For I have walked with integrity; I have trusted in the LORD without wavering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.26.2",
+      "edition_verse_id": "BSB:PSA.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Test me, O LORD, and try me; examine my heart and mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.3",
+      "edition_verse_id": "BSB:PSA.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Your loving devotion is before my eyes, and I have walked in Your truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.4",
+      "edition_verse_id": "BSB:PSA.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I do not sit with deceitful men, nor keep company with hypocrites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.5",
+      "edition_verse_id": "BSB:PSA.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I hate the mob of evildoers, and refuse to sit with the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.6",
+      "edition_verse_id": "BSB:PSA.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I wash my hands in innocence that I may go about Your altar, O LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.7",
+      "edition_verse_id": "BSB:PSA.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "to raise my voice in thanksgiving and declare all Your wonderful works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.8",
+      "edition_verse_id": "BSB:PSA.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O LORD, I love the house where You dwell, the place where Your glory resides.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.9",
+      "edition_verse_id": "BSB:PSA.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do not take my soul away with sinners, or my life with men of bloodshed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.10",
+      "edition_verse_id": "BSB:PSA.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "in whose hands are wicked schemes, whose right hands are full of bribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.11",
+      "edition_verse_id": "BSB:PSA.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But I will walk with integrity; redeem me and be merciful to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.26.12",
+      "edition_verse_id": "BSB:PSA.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "My feet stand on level ground; in the congregations I will bless the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

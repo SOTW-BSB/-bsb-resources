@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "PSA.24.1",
+      "edition_verse_id": "BSB:PSA.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of David. The earth is the LORD’s, and the fullness thereof, the world and all who dwell therein.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.24.2",
+      "edition_verse_id": "BSB:PSA.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For He has founded it upon the seas and established it upon the waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.3",
+      "edition_verse_id": "BSB:PSA.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Who may ascend the hill of the LORD? Who may stand in His holy place?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.4",
+      "edition_verse_id": "BSB:PSA.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He who has clean hands and a pure heart, who does not lift up his soul to an idol or swear deceitfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.5",
+      "edition_verse_id": "BSB:PSA.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He will receive blessing from the LORD and vindication from the God of his salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.6",
+      "edition_verse_id": "BSB:PSA.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Such is the generation of those who seek Him, who seek Your face, O God of Jacob. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.7",
+      "edition_verse_id": "BSB:PSA.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glory may enter!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.8",
+      "edition_verse_id": "BSB:PSA.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who is this King of Glory? The LORD strong and mighty, the LORD mighty in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.9",
+      "edition_verse_id": "BSB:PSA.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glory may enter!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.24.10",
+      "edition_verse_id": "BSB:PSA.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who is He, this King of Glory? The LORD of Hosts — He is the King of Glory. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

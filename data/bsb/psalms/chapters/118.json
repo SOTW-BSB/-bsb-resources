@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 118,
+  "verses": [
+    {
+      "id": "PSA.118.1",
+      "edition_verse_id": "BSB:PSA.118.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give thanks to the LORD, for He is good; His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.118.2",
+      "edition_verse_id": "BSB:PSA.118.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let Israel say, “His loving devotion endures forever.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.3",
+      "edition_verse_id": "BSB:PSA.118.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let the house of Aaron say, “His loving devotion endures forever.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.4",
+      "edition_verse_id": "BSB:PSA.118.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Let those who fear the LORD say, “His loving devotion endures forever.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.5",
+      "edition_verse_id": "BSB:PSA.118.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "In my distress I called to the LORD, and He answered and set me free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.6",
+      "edition_verse_id": "BSB:PSA.118.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD is on my side; I will not be afraid. What can man do to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.7",
+      "edition_verse_id": "BSB:PSA.118.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD is on my side; He is my helper. Therefore I will look in triumph on those who hate me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.8",
+      "edition_verse_id": "BSB:PSA.118.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "It is better to take refuge in the LORD than to trust in man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.9",
+      "edition_verse_id": "BSB:PSA.118.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "It is better to take refuge in the LORD than to trust in princes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.10",
+      "edition_verse_id": "BSB:PSA.118.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All the nations surrounded me, but in the name of the LORD I cut them off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.11",
+      "edition_verse_id": "BSB:PSA.118.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They surrounded me on every side, but in the name of the LORD I cut them off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.12",
+      "edition_verse_id": "BSB:PSA.118.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They swarmed around me like bees, but they were extinguished like burning thorns; in the name of the LORD I cut them off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.13",
+      "edition_verse_id": "BSB:PSA.118.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I was pushed so hard I was falling, but the LORD helped me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.14",
+      "edition_verse_id": "BSB:PSA.118.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD is my strength and my song, and He has become my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.15",
+      "edition_verse_id": "BSB:PSA.118.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Shouts of joy and salvation resound in the tents of the righteous: “The right hand of the LORD performs with valor!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.16",
+      "edition_verse_id": "BSB:PSA.118.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The right hand of the LORD is exalted! The right hand of the LORD performs with valor!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.17",
+      "edition_verse_id": "BSB:PSA.118.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will not die, but I will live and proclaim what the LORD has done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.18",
+      "edition_verse_id": "BSB:PSA.118.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The LORD disciplined me severely, but He has not given me over to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.19",
+      "edition_verse_id": "BSB:PSA.118.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Open to me the gates of righteousness, that I may enter and give thanks to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.20",
+      "edition_verse_id": "BSB:PSA.118.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "This is the gate of the LORD; the righteous shall enter through it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.21",
+      "edition_verse_id": "BSB:PSA.118.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I will give You thanks, for You have answered me, and You have become my salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.22",
+      "edition_verse_id": "BSB:PSA.118.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The stone the builders rejected has become the cornerstone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.23",
+      "edition_verse_id": "BSB:PSA.118.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "This is from the LORD, and it is marvelous in our eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.24",
+      "edition_verse_id": "BSB:PSA.118.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "This is the day that the LORD has made; we will rejoice and be glad in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.25",
+      "edition_verse_id": "BSB:PSA.118.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "O LORD, save us, we pray. We beseech You, O LORD, cause us to prosper!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.26",
+      "edition_verse_id": "BSB:PSA.118.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.27",
+      "edition_verse_id": "BSB:PSA.118.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The LORD is God; He has made His light to shine upon us. Bind the festal sacrifice with cords to the horns of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.28",
+      "edition_verse_id": "BSB:PSA.118.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "You are my God, and I will give You thanks. You are my God, and I will exalt You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.118.29",
+      "edition_verse_id": "BSB:PSA.118.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Give thanks to the LORD, for He is good; His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

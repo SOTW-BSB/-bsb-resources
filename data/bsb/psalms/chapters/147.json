@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 147,
+  "verses": [
+    {
+      "id": "PSA.147.1",
+      "edition_verse_id": "BSB:PSA.147.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hallelujah! How good it is to sing praises to our God, how pleasant and lovely to praise Him!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.147.2",
+      "edition_verse_id": "BSB:PSA.147.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD builds up Jerusalem; He gathers the exiles of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.3",
+      "edition_verse_id": "BSB:PSA.147.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He heals the brokenhearted and binds up their wounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.4",
+      "edition_verse_id": "BSB:PSA.147.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He determines the number of the stars; He calls them each by name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.5",
+      "edition_verse_id": "BSB:PSA.147.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Great is our Lord, and mighty in power; His understanding has no limit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.6",
+      "edition_verse_id": "BSB:PSA.147.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD sustains the humble, but casts the wicked to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.7",
+      "edition_verse_id": "BSB:PSA.147.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Sing to the LORD with thanksgiving; make music on the harp to our God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.8",
+      "edition_verse_id": "BSB:PSA.147.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "who covers the sky with clouds, who prepares rain for the earth, who makes grass to grow on the hills.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.9",
+      "edition_verse_id": "BSB:PSA.147.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He provides food for the animals, and for the young ravens when they call.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.10",
+      "edition_verse_id": "BSB:PSA.147.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He does not delight in the strength of the horse; He takes no pleasure in the legs of a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.11",
+      "edition_verse_id": "BSB:PSA.147.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD is pleased with those who fear Him, who hope in His loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.12",
+      "edition_verse_id": "BSB:PSA.147.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Exalt the LORD, O Jerusalem; praise your God, O Zion!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.13",
+      "edition_verse_id": "BSB:PSA.147.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For He strengthens the bars of your gates and blesses the children within you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.14",
+      "edition_verse_id": "BSB:PSA.147.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He makes peace at your borders; He fills you with the finest wheat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.15",
+      "edition_verse_id": "BSB:PSA.147.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He sends forth His command to the earth; His word runs swiftly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.16",
+      "edition_verse_id": "BSB:PSA.147.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He spreads the snow like wool; He scatters the frost like ashes;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.17",
+      "edition_verse_id": "BSB:PSA.147.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He casts forth His hail like pebbles. Who can withstand His icy blast?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.18",
+      "edition_verse_id": "BSB:PSA.147.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He sends forth His word and melts them; He unleashes His winds, and the waters flow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.19",
+      "edition_verse_id": "BSB:PSA.147.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He declares His word to Jacob, His statutes and judgments to Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.147.20",
+      "edition_verse_id": "BSB:PSA.147.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He has done this for no other nation; they do not know His judgments. Hallelujah!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

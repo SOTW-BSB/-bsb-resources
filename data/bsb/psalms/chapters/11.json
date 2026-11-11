@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "PSA.11.1",
+      "edition_verse_id": "BSB:PSA.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. Of David. In the LORD I take refuge. How then can you say to me: “Flee like a bird to your mountain!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.11.2",
+      "edition_verse_id": "BSB:PSA.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For behold, the wicked bend their bows. They set their arrow on the string to shoot from the shadows at the upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.11.3",
+      "edition_verse_id": "BSB:PSA.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If the foundations are destroyed, what can the righteous do?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.11.4",
+      "edition_verse_id": "BSB:PSA.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The LORD is in His holy temple; the LORD is on His heavenly throne. His eyes are watching closely; they examine the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.11.5",
+      "edition_verse_id": "BSB:PSA.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The LORD tests the righteous and the wicked; His soul hates the lover of violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.11.6",
+      "edition_verse_id": "BSB:PSA.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "On the wicked He will rain down fiery coals and sulfur; a scorching wind will be their portion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.11.7",
+      "edition_verse_id": "BSB:PSA.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For the LORD is righteous; He loves justice. The upright will see His face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

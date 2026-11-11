@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 52,
+  "verses": [
+    {
+      "id": "PSA.52.1",
+      "edition_verse_id": "BSB:PSA.52.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Maskil of David. After Doeg the Edomite went to Saul and told him, “David has gone to the house of Ahimelech.” Why do you boast of evil, O mighty man? The loving devotion of God endures all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.52.2",
+      "edition_verse_id": "BSB:PSA.52.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Your tongue devises destruction like a sharpened razor, O worker of deceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.52.3",
+      "edition_verse_id": "BSB:PSA.52.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You love evil more than good, falsehood more than speaking truth. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.52.4",
+      "edition_verse_id": "BSB:PSA.52.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You love every word that devours, O deceitful tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.52.5",
+      "edition_verse_id": "BSB:PSA.52.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Surely God will bring you down to everlasting ruin; He will snatch you up and tear you away from your tent; He will uproot you from the land of the living. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.52.6",
+      "edition_verse_id": "BSB:PSA.52.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The righteous will see and fear; they will mock the evildoer, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.52.7",
+      "edition_verse_id": "BSB:PSA.52.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Look at the man who did not make God his refuge, but trusted in the abundance of his wealth and strengthened himself by destruction.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.52.8",
+      "edition_verse_id": "BSB:PSA.52.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But I am like an olive tree flourishing in the house of God; I trust in the loving devotion of God forever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.52.9",
+      "edition_verse_id": "BSB:PSA.52.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will praise You forever, because You have done it. I will wait on Your name — for it is good — in the presence of Your saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

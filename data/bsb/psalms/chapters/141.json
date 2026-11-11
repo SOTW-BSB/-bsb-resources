@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 141,
+  "verses": [
+    {
+      "id": "PSA.141.1",
+      "edition_verse_id": "BSB:PSA.141.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice when I call to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.141.2",
+      "edition_verse_id": "BSB:PSA.141.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "May my prayer be set before You like incense; my uplifted hands, like the evening offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.141.3",
+      "edition_verse_id": "BSB:PSA.141.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Set a guard, O LORD, over my mouth; keep watch at the door of my lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.141.4",
+      "edition_verse_id": "BSB:PSA.141.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do not let my heart be drawn to any evil thing or take part in works of wickedness with men who do iniquity; let me not feast on their delicacies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.141.5",
+      "edition_verse_id": "BSB:PSA.141.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let the righteous man strike me; let his rebuke be an act of loving devotion. It is oil for my head; let me not refuse it. For my prayer is ever against the deeds of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.141.6",
+      "edition_verse_id": "BSB:PSA.141.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When their rulers are thrown down from the cliffs, the people will listen to my words, for they are pleasant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.141.7",
+      "edition_verse_id": "BSB:PSA.141.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "As when one plows and breaks up the soil, so our bones have been scattered at the mouth of Sheol.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.141.8",
+      "edition_verse_id": "BSB:PSA.141.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But my eyes are fixed on You, O GOD the Lord. In You I seek refuge; do not leave my soul defenseless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.141.9",
+      "edition_verse_id": "BSB:PSA.141.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Keep me from the snares they have laid for me, and from the lures of evildoers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.141.10",
+      "edition_verse_id": "BSB:PSA.141.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Let the wicked fall into their own nets, while I pass by in safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 109,
+  "verses": [
+    {
+      "id": "PSA.109.1",
+      "edition_verse_id": "BSB:PSA.109.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. O God of my praise, be not silent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.109.2",
+      "edition_verse_id": "BSB:PSA.109.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For wicked and deceitful mouths open against me; they speak against me with lying tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.3",
+      "edition_verse_id": "BSB:PSA.109.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They surround me with hateful words and attack me without cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.4",
+      "edition_verse_id": "BSB:PSA.109.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In return for my love they accuse me, but I am a man of prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.5",
+      "edition_verse_id": "BSB:PSA.109.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They repay me evil for good, and hatred for my love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.6",
+      "edition_verse_id": "BSB:PSA.109.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Set over him a wicked man; let an accuser stand at his right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.7",
+      "edition_verse_id": "BSB:PSA.109.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When he is tried, let him be found guilty, and may his prayer be regarded as sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.8",
+      "edition_verse_id": "BSB:PSA.109.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "May his days be few; may another take his position.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.9",
+      "edition_verse_id": "BSB:PSA.109.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "May his children be fatherless and his wife a widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.10",
+      "edition_verse_id": "BSB:PSA.109.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "May his children wander as beggars, seeking sustenance far from their ruined homes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.11",
+      "edition_verse_id": "BSB:PSA.109.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "May the creditor seize all he owns, and strangers plunder the fruits of his labor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.12",
+      "edition_verse_id": "BSB:PSA.109.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "May there be no one to extend kindness to him, and no one to favor his fatherless children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.13",
+      "edition_verse_id": "BSB:PSA.109.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "May his descendants be cut off; may their name be blotted out from the next generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.14",
+      "edition_verse_id": "BSB:PSA.109.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "May the iniquity of his fathers be remembered before the LORD, and the sin of his mother never be blotted out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.15",
+      "edition_verse_id": "BSB:PSA.109.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "May their sins always remain before the LORD, that He may cut off their memory from the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.16",
+      "edition_verse_id": "BSB:PSA.109.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For he never thought to show kindness, but pursued the poor and needy and brokenhearted, even to their death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.17",
+      "edition_verse_id": "BSB:PSA.109.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The cursing that he loved, may it fall on him; the blessing in which he refused to delight, may it be far from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.18",
+      "edition_verse_id": "BSB:PSA.109.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The cursing that he wore like a coat, may it soak into his body like water, and into his bones like oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.19",
+      "edition_verse_id": "BSB:PSA.109.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "May it be like a robe wrapped about him, like a belt tied forever around him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.20",
+      "edition_verse_id": "BSB:PSA.109.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "May this be the LORD’s reward to my accusers, to those who speak evil against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.21",
+      "edition_verse_id": "BSB:PSA.109.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But You, O GOD, the Lord, deal kindly with me for the sake of Your name; deliver me by the goodness of Your loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.22",
+      "edition_verse_id": "BSB:PSA.109.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I am poor and needy; my heart is wounded within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.23",
+      "edition_verse_id": "BSB:PSA.109.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I am fading away like a lengthening shadow; I am shaken off like a locust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.24",
+      "edition_verse_id": "BSB:PSA.109.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "My knees are weak from fasting, and my body grows lean and gaunt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.25",
+      "edition_verse_id": "BSB:PSA.109.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I am an object of scorn to my accusers; when they see me, they shake their heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.26",
+      "edition_verse_id": "BSB:PSA.109.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Help me, O LORD my God; save me according to Your loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.27",
+      "edition_verse_id": "BSB:PSA.109.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Let them know that this is Your hand, that You, O LORD, have done it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.28",
+      "edition_verse_id": "BSB:PSA.109.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Though they curse, You will bless. When they rise up, they will be put to shame, but Your servant will rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.29",
+      "edition_verse_id": "BSB:PSA.109.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "May my accusers be clothed with disgrace; may they wear their shame like a robe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.30",
+      "edition_verse_id": "BSB:PSA.109.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "With my mouth I will thank the LORD profusely; I will praise Him in the presence of many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.109.31",
+      "edition_verse_id": "BSB:PSA.109.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For He stands at the right hand of the needy one, to save him from the condemners of his soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

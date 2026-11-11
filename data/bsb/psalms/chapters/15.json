@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "PSA.15.1",
+      "edition_verse_id": "BSB:PSA.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of David. O LORD, who may abide in Your tent? Who may dwell on Your holy mountain?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.15.2",
+      "edition_verse_id": "BSB:PSA.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He who walks with integrity and practices righteousness, who speaks the truth from his heart,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.15.3",
+      "edition_verse_id": "BSB:PSA.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "who has no slander on his tongue, who does no harm to his neighbor, who casts no scorn on his friend,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.15.4",
+      "edition_verse_id": "BSB:PSA.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "who despises the vile but honors those who fear the LORD, who does not revise a costly oath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.15.5",
+      "edition_verse_id": "BSB:PSA.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "who lends his money without interest and refuses a bribe against the innocent. He who does these things will never be shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

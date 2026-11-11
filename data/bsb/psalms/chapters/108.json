@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 108,
+  "verses": [
+    {
+      "id": "PSA.108.1",
+      "edition_verse_id": "BSB:PSA.108.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song. A Psalm of David. My heart is steadfast, O God; I will sing and make music with all my being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.108.2",
+      "edition_verse_id": "BSB:PSA.108.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Awake, O harp and lyre! I will awaken the dawn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.3",
+      "edition_verse_id": "BSB:PSA.108.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will praise You, O LORD, among the nations; I will sing Your praises among the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.4",
+      "edition_verse_id": "BSB:PSA.108.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For Your loving devotion extends beyond the heavens, and Your faithfulness reaches to the clouds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.5",
+      "edition_verse_id": "BSB:PSA.108.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Be exalted, O God, above the heavens; may Your glory cover all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.6",
+      "edition_verse_id": "BSB:PSA.108.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Respond and save us with Your right hand, that Your beloved may be delivered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.7",
+      "edition_verse_id": "BSB:PSA.108.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "God has spoken from His sanctuary: “I will triumph! I will parcel out Shechem and apportion the Valley of Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.8",
+      "edition_verse_id": "BSB:PSA.108.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Gilead is Mine, and Manasseh is Mine; Ephraim is My helmet, Judah is My scepter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.9",
+      "edition_verse_id": "BSB:PSA.108.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Moab is My washbasin; upon Edom I toss My sandal; over Philistia I shout in triumph.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.10",
+      "edition_verse_id": "BSB:PSA.108.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who will bring me to the fortified city? Who will lead me to Edom?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.11",
+      "edition_verse_id": "BSB:PSA.108.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Have You not rejected us, O God? Will You no longer march out, O God, with our armies?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.12",
+      "edition_verse_id": "BSB:PSA.108.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Give us aid against the enemy, for the help of man is worthless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.108.13",
+      "edition_verse_id": "BSB:PSA.108.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "With God we will perform with valor, and He will trample our enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

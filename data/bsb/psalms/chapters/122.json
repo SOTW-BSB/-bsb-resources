@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 122,
+  "verses": [
+    {
+      "id": "PSA.122.1",
+      "edition_verse_id": "BSB:PSA.122.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Of David. I was glad when they said to me, “Let us go to the house of the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.122.2",
+      "edition_verse_id": "BSB:PSA.122.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Our feet are standing in your gates, O Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.3",
+      "edition_verse_id": "BSB:PSA.122.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jerusalem is built up as a city united together,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.4",
+      "edition_verse_id": "BSB:PSA.122.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "where the tribes go up, the tribes of the LORD, as a testimony for Israel, to give thanks to the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.5",
+      "edition_verse_id": "BSB:PSA.122.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For there the thrones of judgment stand, the thrones of the house of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.6",
+      "edition_verse_id": "BSB:PSA.122.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Pray for the peace of Jerusalem: “May those who love you prosper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.7",
+      "edition_verse_id": "BSB:PSA.122.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "May there be peace within your walls, and prosperity inside your fortresses.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.8",
+      "edition_verse_id": "BSB:PSA.122.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the sake of my brothers and friends, I will say, “Peace be within you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.122.9",
+      "edition_verse_id": "BSB:PSA.122.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For the sake of the house of the LORD our God, I will seek your prosperity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

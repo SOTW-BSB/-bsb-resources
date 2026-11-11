@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 140,
+  "verses": [
+    {
+      "id": "PSA.140.1",
+      "edition_verse_id": "BSB:PSA.140.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. Rescue me, O LORD, from evil men. Protect me from men of violence,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.140.2",
+      "edition_verse_id": "BSB:PSA.140.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "who devise evil in their hearts and stir up war all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.3",
+      "edition_verse_id": "BSB:PSA.140.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They sharpen their tongues like snakes; the venom of vipers is on their lips. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.4",
+      "edition_verse_id": "BSB:PSA.140.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Guard me, O LORD, from the hands of the wicked. Keep me safe from men of violence who scheme to make me stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.5",
+      "edition_verse_id": "BSB:PSA.140.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The proud hide a snare for me; the cords of their net are spread along the path, and lures are set out for me. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.6",
+      "edition_verse_id": "BSB:PSA.140.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I say to the LORD, “You are my God.” Hear, O LORD, my cry for help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.7",
+      "edition_verse_id": "BSB:PSA.140.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "O GOD the Lord, the strength of my salvation, You shield my head in the day of battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.8",
+      "edition_verse_id": "BSB:PSA.140.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Grant not, O LORD, the desires of the wicked; do not promote their evil plans, lest they be exalted. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.9",
+      "edition_verse_id": "BSB:PSA.140.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "May the heads of those who surround me be covered in the trouble their lips have caused.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.10",
+      "edition_verse_id": "BSB:PSA.140.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "May burning coals fall on them; may they be thrown into the fire, into the miry pits, never to rise again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.11",
+      "edition_verse_id": "BSB:PSA.140.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "May no slanderer be established in the land; may calamity hunt down the man of violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.12",
+      "edition_verse_id": "BSB:PSA.140.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I know that the LORD upholds justice for the poor and defends the cause of the needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.140.13",
+      "edition_verse_id": "BSB:PSA.140.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Surely the righteous will praise Your name; the upright will dwell in Your presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

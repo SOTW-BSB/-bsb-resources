@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 54,
+  "verses": [
+    {
+      "id": "PSA.54.1",
+      "edition_verse_id": "BSB:PSA.54.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. With stringed instruments. A Maskil of David. When the Ziphites went to Saul and said, “Is David not hiding among us?” Save me, O God, by Your name, and vindicate me by Your might!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.54.2",
+      "edition_verse_id": "BSB:PSA.54.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear my prayer, O God; listen to the words of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.3",
+      "edition_verse_id": "BSB:PSA.54.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For strangers rise up against me, and ruthless men seek my life — men with no regard for God. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.4",
+      "edition_verse_id": "BSB:PSA.54.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Surely God is my helper; the Lord is the sustainer of my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.5",
+      "edition_verse_id": "BSB:PSA.54.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He will reward my enemies with evil. In Your faithfulness, destroy them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.6",
+      "edition_verse_id": "BSB:PSA.54.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Freely I will sacrifice to You; I will praise Your name, O LORD, for it is good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.7",
+      "edition_verse_id": "BSB:PSA.54.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For He has delivered me from every trouble, and my eyes have looked in triumph on my foes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

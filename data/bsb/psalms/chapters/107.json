@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 107,
+  "verses": [
+    {
+      "id": "PSA.107.1",
+      "edition_verse_id": "BSB:PSA.107.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give thanks to the LORD, for He is good; His loving devotion endures forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.107.2",
+      "edition_verse_id": "BSB:PSA.107.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let the redeemed of the LORD say so, whom He has redeemed from the hand of the enemy",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.3",
+      "edition_verse_id": "BSB:PSA.107.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and gathered from the lands, from east and west, from north and south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.4",
+      "edition_verse_id": "BSB:PSA.107.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Some wandered in desert wastelands, finding no path to a city in which to dwell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.5",
+      "edition_verse_id": "BSB:PSA.107.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They were hungry and thirsty; their soul fainted within them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.6",
+      "edition_verse_id": "BSB:PSA.107.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then they cried out to the LORD in their trouble, and He delivered them from their distress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.7",
+      "edition_verse_id": "BSB:PSA.107.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He led them on a straight path to reach a city where they could live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.8",
+      "edition_verse_id": "BSB:PSA.107.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let them give thanks to the LORD for His loving devotion and His wonders to the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.9",
+      "edition_verse_id": "BSB:PSA.107.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For He satisfies the thirsty and fills the hungry with good things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.10",
+      "edition_verse_id": "BSB:PSA.107.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Some sat in darkness and in the shadow of death, prisoners in affliction and chains,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.11",
+      "edition_verse_id": "BSB:PSA.107.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "because they rebelled against the words of God and despised the counsel of the Most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.12",
+      "edition_verse_id": "BSB:PSA.107.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He humbled their hearts with hard labor; they stumbled, and there was no one to help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.13",
+      "edition_verse_id": "BSB:PSA.107.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then they cried out to the LORD in their trouble, and He saved them from their distress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.14",
+      "edition_verse_id": "BSB:PSA.107.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He brought them out of darkness and the shadow of death and broke away their chains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.15",
+      "edition_verse_id": "BSB:PSA.107.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Let them give thanks to the LORD for His loving devotion and His wonders to the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.16",
+      "edition_verse_id": "BSB:PSA.107.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For He has broken down the gates of bronze and cut through the bars of iron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.17",
+      "edition_verse_id": "BSB:PSA.107.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Fools, in their rebellious ways, and through their iniquities, suffered affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.18",
+      "edition_verse_id": "BSB:PSA.107.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They loathed all food and drew near to the gates of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.19",
+      "edition_verse_id": "BSB:PSA.107.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then they cried out to the LORD in their trouble, and He saved them from their distress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.20",
+      "edition_verse_id": "BSB:PSA.107.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He sent forth His word and healed them; He rescued them from the Pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.21",
+      "edition_verse_id": "BSB:PSA.107.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Let them give thanks to the LORD for His loving devotion and His wonders to the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.22",
+      "edition_verse_id": "BSB:PSA.107.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Let them offer sacrifices of thanksgiving and declare His works with rejoicing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.23",
+      "edition_verse_id": "BSB:PSA.107.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Others went out to sea in ships, conducting trade on the mighty waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.24",
+      "edition_verse_id": "BSB:PSA.107.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "They saw the works of the LORD, and His wonders in the deep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.25",
+      "edition_verse_id": "BSB:PSA.107.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For He spoke and raised a tempest that lifted the waves of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.26",
+      "edition_verse_id": "BSB:PSA.107.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They mounted up to the heavens, then sunk to the depths; their courage melted in their anguish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.27",
+      "edition_verse_id": "BSB:PSA.107.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They reeled and staggered like drunkards, and all their skill was useless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.28",
+      "edition_verse_id": "BSB:PSA.107.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then they cried out to the LORD in their trouble, and He brought them out of their distress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.29",
+      "edition_verse_id": "BSB:PSA.107.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He calmed the storm to a whisper, and the waves of the sea were hushed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.30",
+      "edition_verse_id": "BSB:PSA.107.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "They rejoiced in the silence, and He guided them to the harbor they desired.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.31",
+      "edition_verse_id": "BSB:PSA.107.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Let them give thanks to the LORD for His loving devotion and His wonders to the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.32",
+      "edition_verse_id": "BSB:PSA.107.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Let them exalt Him in the assembly of the people and praise Him in the council of the elders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.33",
+      "edition_verse_id": "BSB:PSA.107.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He turns rivers into deserts, springs of water into thirsty ground,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.34",
+      "edition_verse_id": "BSB:PSA.107.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "and fruitful land into fields of salt, because of the wickedness of its dwellers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.35",
+      "edition_verse_id": "BSB:PSA.107.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "He turns a desert into pools of water and a dry land into flowing springs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.36",
+      "edition_verse_id": "BSB:PSA.107.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "He causes the hungry to settle there, that they may establish a city in which to dwell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.37",
+      "edition_verse_id": "BSB:PSA.107.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "They sow fields and plant vineyards that yield a fruitful harvest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.38",
+      "edition_verse_id": "BSB:PSA.107.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "He blesses them, and they multiply greatly; He does not let their herds diminish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.39",
+      "edition_verse_id": "BSB:PSA.107.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "When they are decreased and humbled by oppression, evil, and sorrow,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.40",
+      "edition_verse_id": "BSB:PSA.107.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "He pours out contempt on the nobles and makes them wander in a trackless wasteland.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.41",
+      "edition_verse_id": "BSB:PSA.107.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "But He lifts the needy from affliction and increases their families like flocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.42",
+      "edition_verse_id": "BSB:PSA.107.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "The upright see and rejoice, and all iniquity shuts its mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.107.43",
+      "edition_verse_id": "BSB:PSA.107.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Let him who is wise pay heed to these things and consider the loving devotion of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

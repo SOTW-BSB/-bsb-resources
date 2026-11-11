@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "PSA.19.1",
+      "edition_verse_id": "BSB:PSA.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.19.2",
+      "edition_verse_id": "BSB:PSA.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Day after day they pour forth speech; night after night they reveal knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.3",
+      "edition_verse_id": "BSB:PSA.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Without speech or language, without a sound to be heard,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.4",
+      "edition_verse_id": "BSB:PSA.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "their voice has gone out into all the earth, their words to the ends of the world. In the heavens He has pitched a tent for the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.5",
+      "edition_verse_id": "BSB:PSA.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Like a bridegroom emerging from his chamber, like a champion rejoicing to run his course,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.6",
+      "edition_verse_id": "BSB:PSA.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "it rises at one end of the heavens and runs its circuit to the other; nothing is deprived of its warmth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.7",
+      "edition_verse_id": "BSB:PSA.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The Law of the LORD is perfect, reviving the soul; the testimony of the LORD is trustworthy, making wise the simple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.8",
+      "edition_verse_id": "BSB:PSA.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The precepts of the LORD are right, bringing joy to the heart; the commandments of the LORD are radiant, giving light to the eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.9",
+      "edition_verse_id": "BSB:PSA.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The fear of the LORD is pure, enduring forever; the judgments of the LORD are true, being altogether righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.10",
+      "edition_verse_id": "BSB:PSA.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the comb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.11",
+      "edition_verse_id": "BSB:PSA.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "By them indeed Your servant is warned; in keeping them is great reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.12",
+      "edition_verse_id": "BSB:PSA.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Who can discern his own errors? Cleanse me from my hidden faults.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.13",
+      "edition_verse_id": "BSB:PSA.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Keep Your servant also from willful sins; may they not rule over me. Then I will be blameless and cleansed of great transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.19.14",
+      "edition_verse_id": "BSB:PSA.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "May the words of my mouth and the meditation of my heart be pleasing in Your sight, O LORD, my Rock and my Redeemer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

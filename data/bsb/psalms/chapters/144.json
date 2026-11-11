@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 144,
+  "verses": [
+    {
+      "id": "PSA.144.1",
+      "edition_verse_id": "BSB:PSA.144.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Of David. Blessed be the LORD, my Rock, who trains my hands for war, my fingers for battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.144.2",
+      "edition_verse_id": "BSB:PSA.144.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He is my steadfast love and my fortress, my stronghold and my deliverer. He is my shield, in whom I take refuge, who subdues peoples under me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.3",
+      "edition_verse_id": "BSB:PSA.144.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "O LORD, what is man, that You regard him, the son of man that You think of him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.4",
+      "edition_verse_id": "BSB:PSA.144.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Man is like a breath; his days are like a passing shadow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.5",
+      "edition_verse_id": "BSB:PSA.144.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Part Your heavens, O LORD, and come down; touch the mountains, that they may smoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.6",
+      "edition_verse_id": "BSB:PSA.144.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Flash forth Your lightning and scatter them; shoot Your arrows and rout them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.7",
+      "edition_verse_id": "BSB:PSA.144.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Reach down from on high; set me free and rescue me from the deep waters, from the grasp of foreigners,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.8",
+      "edition_verse_id": "BSB:PSA.144.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "whose mouths speak falsehood, whose right hands are deceitful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.9",
+      "edition_verse_id": "BSB:PSA.144.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will sing to You a new song, O God; on a harp of ten strings I will make music to You —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.10",
+      "edition_verse_id": "BSB:PSA.144.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "to Him who gives victory to kings, who frees His servant David from the deadly sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.11",
+      "edition_verse_id": "BSB:PSA.144.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Set me free and rescue me from the grasp of foreigners, whose mouths speak falsehood, whose right hands are deceitful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.12",
+      "edition_verse_id": "BSB:PSA.144.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then our sons will be like plants nurtured in their youth, our daughters like corner pillars carved to adorn a palace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.13",
+      "edition_verse_id": "BSB:PSA.144.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Our storehouses will be full, supplying all manner of produce; our flocks will bring forth thousands, tens of thousands in our fields.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.14",
+      "edition_verse_id": "BSB:PSA.144.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Our oxen will bear great loads. There will be no breach in the walls, no going into captivity, and no cry of lament in our streets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.144.15",
+      "edition_verse_id": "BSB:PSA.144.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Blessed are the people of whom this is so; blessed are the people whose God is the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

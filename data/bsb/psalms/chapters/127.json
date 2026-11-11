@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 127,
+  "verses": [
+    {
+      "id": "PSA.127.1",
+      "edition_verse_id": "BSB:PSA.127.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Of Solomon. Unless the LORD builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.127.2",
+      "edition_verse_id": "BSB:PSA.127.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In vain you rise early and stay up late, toiling for bread to eat — for He gives sleep to His beloved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.127.3",
+      "edition_verse_id": "BSB:PSA.127.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Children are indeed a heritage from the LORD, and the fruit of the womb is His reward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.127.4",
+      "edition_verse_id": "BSB:PSA.127.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Like arrows in the hand of a warrior, so are children born in one’s youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.127.5",
+      "edition_verse_id": "BSB:PSA.127.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Blessed is the man whose quiver is full of them. He will not be put to shame when he confronts the enemies at the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

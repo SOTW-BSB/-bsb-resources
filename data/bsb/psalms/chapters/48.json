@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 48,
+  "verses": [
+    {
+      "id": "PSA.48.1",
+      "edition_verse_id": "BSB:PSA.48.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song. A Psalm of the sons of Korah. Great is the LORD, and greatly to be praised in the city of our God, His holy mountain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.48.2",
+      "edition_verse_id": "BSB:PSA.48.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Beautiful in loftiness, the joy of all the earth, like the peaks of Zaphon is Mount Zion, the city of the great King.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.3",
+      "edition_verse_id": "BSB:PSA.48.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "God is in her citadels; He has shown Himself to be a fortress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.4",
+      "edition_verse_id": "BSB:PSA.48.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For behold, the kings assembled; they all advanced together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.5",
+      "edition_verse_id": "BSB:PSA.48.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They saw and were astounded; they fled in terror.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.6",
+      "edition_verse_id": "BSB:PSA.48.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Trembling seized them there, anguish like a woman in labor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.7",
+      "edition_verse_id": "BSB:PSA.48.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "With a wind from the east You wrecked the ships of Tarshish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.8",
+      "edition_verse_id": "BSB:PSA.48.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "As we have heard, so we have seen in the city of the LORD of Hosts, in the city of our God: God will establish her forever. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.9",
+      "edition_verse_id": "BSB:PSA.48.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Within Your temple, O God, we contemplate Your loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.10",
+      "edition_verse_id": "BSB:PSA.48.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Your name, O God, like Your praise, reaches to the ends of the earth; Your right hand is full of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.11",
+      "edition_verse_id": "BSB:PSA.48.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Mount Zion is glad, the daughters of Judah rejoice, on account of Your judgments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.12",
+      "edition_verse_id": "BSB:PSA.48.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "March around Zion, encircle her, count her towers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.13",
+      "edition_verse_id": "BSB:PSA.48.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "consider her ramparts, tour her citadels, that you may tell the next generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.48.14",
+      "edition_verse_id": "BSB:PSA.48.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For this God is our God forever and ever; He will be our guide even till death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 125,
+  "verses": [
+    {
+      "id": "PSA.125.1",
+      "edition_verse_id": "BSB:PSA.125.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Those who trust in the LORD are like Mount Zion. It cannot be moved; it abides forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.125.2",
+      "edition_verse_id": "BSB:PSA.125.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As the mountains surround Jerusalem, so the LORD surrounds His people, both now and forevermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.3",
+      "edition_verse_id": "BSB:PSA.125.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the scepter of the wicked will not rest upon the land allotted to the righteous, so that the righteous will not put forth their hands to injustice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.4",
+      "edition_verse_id": "BSB:PSA.125.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do good, O LORD, to those who are good, and to the upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.5",
+      "edition_verse_id": "BSB:PSA.125.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But those who turn to crooked ways the LORD will banish with the evildoers. Peace be upon Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

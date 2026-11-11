@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 138,
+  "verses": [
+    {
+      "id": "PSA.138.1",
+      "edition_verse_id": "BSB:PSA.138.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Of David. I give You thanks with all my heart; before the gods I sing Your praises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.138.2",
+      "edition_verse_id": "BSB:PSA.138.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I bow down toward Your holy temple and give thanks to Your name for Your loving devotion and Your faithfulness; You have exalted Your name and Your word above all else.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.3",
+      "edition_verse_id": "BSB:PSA.138.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "On the day I called, You answered me; You emboldened me and strengthened my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.4",
+      "edition_verse_id": "BSB:PSA.138.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "All the kings of the earth will give You thanks, O LORD, when they hear the words of Your mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.5",
+      "edition_verse_id": "BSB:PSA.138.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They will sing of the ways of the LORD, for the glory of the LORD is great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.6",
+      "edition_verse_id": "BSB:PSA.138.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Though the LORD is on high, He attends to the lowly; but the proud He knows from afar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.7",
+      "edition_verse_id": "BSB:PSA.138.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If I walk in the midst of trouble, You preserve me from the anger of my foes; You extend Your hand, and Your right hand saves me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.8",
+      "edition_verse_id": "BSB:PSA.138.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD will fulfill His purpose for me. O LORD, Your loving devotion endures forever — do not abandon the works of Your hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

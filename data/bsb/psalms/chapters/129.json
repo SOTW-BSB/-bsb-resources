@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 129,
+  "verses": [
+    {
+      "id": "PSA.129.1",
+      "edition_verse_id": "BSB:PSA.129.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Many a time they have persecuted me from my youth— let Israel now declare—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.129.2",
+      "edition_verse_id": "BSB:PSA.129.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "many a time they have persecuted me from my youth, but they have not prevailed against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.3",
+      "edition_verse_id": "BSB:PSA.129.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The plowmen plowed over my back; they made their furrows long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.4",
+      "edition_verse_id": "BSB:PSA.129.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The LORD is righteous; He has cut me from the cords of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.5",
+      "edition_verse_id": "BSB:PSA.129.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "May all who hate Zion be turned back in shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.6",
+      "edition_verse_id": "BSB:PSA.129.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "May they be like grass on the rooftops, which withers before it can grow,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.7",
+      "edition_verse_id": "BSB:PSA.129.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "unable to fill the hands of the reaper, or the arms of the binder of sheaves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.129.8",
+      "edition_verse_id": "BSB:PSA.129.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "May none who pass by say to them, “The blessing of the LORD be on you; we bless you in the name of the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

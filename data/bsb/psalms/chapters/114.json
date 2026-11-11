@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 114,
+  "verses": [
+    {
+      "id": "PSA.114.1",
+      "edition_verse_id": "BSB:PSA.114.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Israel departed from Egypt, the house of Jacob from a people of foreign tongue,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.114.2",
+      "edition_verse_id": "BSB:PSA.114.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Judah became God’s sanctuary, Israel His dominion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.3",
+      "edition_verse_id": "BSB:PSA.114.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The sea observed and fled; the Jordan turned back;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.4",
+      "edition_verse_id": "BSB:PSA.114.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "the mountains skipped like rams, the hills like lambs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.5",
+      "edition_verse_id": "BSB:PSA.114.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Why was it, O sea, that you fled, O Jordan, that you turned back,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.6",
+      "edition_verse_id": "BSB:PSA.114.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O mountains, that you skipped like rams, O hills, like lambs?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.7",
+      "edition_verse_id": "BSB:PSA.114.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.114.8",
+      "edition_verse_id": "BSB:PSA.114.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "who turned the rock into a pool, the flint into a fountain of water!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

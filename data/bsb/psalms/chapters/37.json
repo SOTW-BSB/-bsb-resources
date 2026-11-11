@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 37,
+  "verses": [
+    {
+      "id": "PSA.37.1",
+      "edition_verse_id": "BSB:PSA.37.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Of David. Do not fret over those who do evil; do not envy those who do wrong.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.37.2",
+      "edition_verse_id": "BSB:PSA.37.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For they wither quickly like grass and wilt like tender plants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.3",
+      "edition_verse_id": "BSB:PSA.37.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Trust in the LORD and do good; dwell in the land and cultivate faithfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.4",
+      "edition_verse_id": "BSB:PSA.37.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Delight yourself in the LORD, and He will give you the desires of your heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.5",
+      "edition_verse_id": "BSB:PSA.37.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Commit your way to the LORD; trust in Him, and He will do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.6",
+      "edition_verse_id": "BSB:PSA.37.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He will bring forth your righteousness like the dawn, your justice like the noonday sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.7",
+      "edition_verse_id": "BSB:PSA.37.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be still before the LORD and wait patiently for Him; do not fret when men prosper in their ways, when they carry out wicked schemes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.8",
+      "edition_verse_id": "BSB:PSA.37.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Refrain from anger and abandon wrath; do not fret— it can only bring harm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.9",
+      "edition_verse_id": "BSB:PSA.37.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For the evildoers will be cut off, but those who hope in the LORD will inherit the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.10",
+      "edition_verse_id": "BSB:PSA.37.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Yet a little while, and the wicked will be no more; though you look for them, they will not be found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.11",
+      "edition_verse_id": "BSB:PSA.37.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the meek will inherit the land and delight in abundant prosperity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.12",
+      "edition_verse_id": "BSB:PSA.37.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The wicked scheme against the righteous and gnash their teeth at them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.13",
+      "edition_verse_id": "BSB:PSA.37.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "but the Lord laughs, seeing that their day is coming.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.14",
+      "edition_verse_id": "BSB:PSA.37.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The wicked have drawn the sword and bent the bow to bring down the poor and needy, to slay those whose ways are upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.15",
+      "edition_verse_id": "BSB:PSA.37.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But their swords will pierce their own hearts, and their bows will be broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.16",
+      "edition_verse_id": "BSB:PSA.37.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Better is the little of the righteous than the abundance of many who are wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.17",
+      "edition_verse_id": "BSB:PSA.37.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the arms of the wicked will be broken, but the LORD upholds the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.18",
+      "edition_verse_id": "BSB:PSA.37.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The LORD knows the days of the blameless, and their inheritance will last forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.19",
+      "edition_verse_id": "BSB:PSA.37.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "In the time of evil they will not be ashamed, and in the days of famine they will be satisfied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.20",
+      "edition_verse_id": "BSB:PSA.37.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the wicked and enemies of the LORD will perish like the glory of the fields. They will vanish; like smoke they will fade away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.21",
+      "edition_verse_id": "BSB:PSA.37.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The wicked borrow and do not repay, but the righteous are gracious and giving.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.22",
+      "edition_verse_id": "BSB:PSA.37.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Surely those He blesses will inherit the land, but the cursed will be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.23",
+      "edition_verse_id": "BSB:PSA.37.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The steps of a man are ordered by the LORD who takes delight in his journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.24",
+      "edition_verse_id": "BSB:PSA.37.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Though he falls, he will not be overwhelmed, for the LORD is holding his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.25",
+      "edition_verse_id": "BSB:PSA.37.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I once was young and now am old, yet never have I seen the righteous abandoned or their children begging for bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.26",
+      "edition_verse_id": "BSB:PSA.37.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They are ever generous and quick to lend, and their children are a blessing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.27",
+      "edition_verse_id": "BSB:PSA.37.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Turn away from evil and do good, so that you will abide forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.28",
+      "edition_verse_id": "BSB:PSA.37.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For the LORD loves justice and will not forsake His saints. They are preserved forever, but the offspring of the wicked will be cut off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.29",
+      "edition_verse_id": "BSB:PSA.37.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The righteous will inherit the land and dwell in it forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.30",
+      "edition_verse_id": "BSB:PSA.37.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The mouth of the righteous man utters wisdom, and his tongue speaks justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.31",
+      "edition_verse_id": "BSB:PSA.37.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The law of his God is in his heart; his steps do not falter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.32",
+      "edition_verse_id": "BSB:PSA.37.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Though the wicked lie in wait for the righteous, and seek to slay them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.33",
+      "edition_verse_id": "BSB:PSA.37.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "the LORD will not leave them in their power or let them be condemned under judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.34",
+      "edition_verse_id": "BSB:PSA.37.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Wait for the LORD and keep His way, and He will raise you up to inherit the land. When the wicked are cut off, you will see it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.35",
+      "edition_verse_id": "BSB:PSA.37.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "I have seen a wicked, ruthless man flourishing like a well-rooted native tree,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.36",
+      "edition_verse_id": "BSB:PSA.37.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "yet he passed away and was no more; though I searched, he could not be found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.37",
+      "edition_verse_id": "BSB:PSA.37.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Consider the blameless and observe the upright, for posterity awaits the man of peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.38",
+      "edition_verse_id": "BSB:PSA.37.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But the transgressors will all be destroyed; the future of the wicked will be cut off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.39",
+      "edition_verse_id": "BSB:PSA.37.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "The salvation of the righteous is from the LORD; He is their stronghold in time of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.37.40",
+      "edition_verse_id": "BSB:PSA.37.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "The LORD helps and delivers them; He rescues and saves them from the wicked, because they take refuge in Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 126,
+  "verses": [
+    {
+      "id": "PSA.126.1",
+      "edition_verse_id": "BSB:PSA.126.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. When the LORD restored the captives of Zion, we were like dreamers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.126.2",
+      "edition_verse_id": "BSB:PSA.126.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then our mouths were filled with laughter, our tongues with shouts of joy. Then it was said among the nations, “The LORD has done great things for them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.126.3",
+      "edition_verse_id": "BSB:PSA.126.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The LORD has done great things for us; we are filled with joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.126.4",
+      "edition_verse_id": "BSB:PSA.126.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Restore our captives, O LORD, like streams in the Negev.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.126.5",
+      "edition_verse_id": "BSB:PSA.126.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Those who sow in tears will reap with shouts of joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.126.6",
+      "edition_verse_id": "BSB:PSA.126.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He who goes out weeping, bearing a trail of seed, will surely return with shouts of joy, carrying sheaves of grain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

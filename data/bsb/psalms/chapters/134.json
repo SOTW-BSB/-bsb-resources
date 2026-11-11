@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 134,
+  "verses": [
+    {
+      "id": "PSA.134.1",
+      "edition_verse_id": "BSB:PSA.134.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Come, bless the LORD, all you servants of the LORD who serve by night in the house of the LORD!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.134.2",
+      "edition_verse_id": "BSB:PSA.134.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Lift up your hands to the sanctuary and bless the LORD!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.134.3",
+      "edition_verse_id": "BSB:PSA.134.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "May the LORD, the Maker of heaven and earth, bless you from Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

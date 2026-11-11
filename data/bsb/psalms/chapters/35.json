@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "PSA.35.1",
+      "edition_verse_id": "BSB:PSA.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Of David. Contend with my opponents, O LORD; fight against those who fight against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.35.2",
+      "edition_verse_id": "BSB:PSA.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Take up Your shield and buckler; arise and come to my aid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.3",
+      "edition_verse_id": "BSB:PSA.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Draw the spear and javelin against my pursuers; say to my soul: “I am your salvation.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.4",
+      "edition_verse_id": "BSB:PSA.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "May those who seek my life be disgraced and put to shame; may those who plan to harm me be driven back and confounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.5",
+      "edition_verse_id": "BSB:PSA.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "May they be like chaff in the wind, as the angel of the LORD drives them away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.6",
+      "edition_verse_id": "BSB:PSA.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "May their path be dark and slick, as the angel of the LORD pursues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.7",
+      "edition_verse_id": "BSB:PSA.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For without cause they laid their net for me; without reason they dug a pit for my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.8",
+      "edition_verse_id": "BSB:PSA.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "May ruin befall them by surprise; may the net they hid ensnare them; may they fall into the hazard they created.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.9",
+      "edition_verse_id": "BSB:PSA.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then my soul will rejoice in the LORD and exult in His salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.10",
+      "edition_verse_id": "BSB:PSA.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "All my bones will exclaim, “Who is like You, O LORD, who delivers the afflicted from the aggressor, the poor and needy from the robber?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.11",
+      "edition_verse_id": "BSB:PSA.35.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Hostile witnesses come forward; they make charges I know nothing about.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.12",
+      "edition_verse_id": "BSB:PSA.35.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They repay me evil for good, to the bereavement of my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.13",
+      "edition_verse_id": "BSB:PSA.35.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Yet when they were ill, I put on sackcloth; I humbled myself with fasting, but my prayers returned unanswered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.14",
+      "edition_verse_id": "BSB:PSA.35.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I paced about as for my friend or brother; I was bowed down with grief, like one mourning for his mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.15",
+      "edition_verse_id": "BSB:PSA.35.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But when I stumbled, they assembled in glee; they gathered together against me. Assailants I did not know slandered me without ceasing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.16",
+      "edition_verse_id": "BSB:PSA.35.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Like godless jesters at a feast, they gnashed their teeth at me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.17",
+      "edition_verse_id": "BSB:PSA.35.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "How long, O Lord, will You look on? Rescue my soul from their ravages, my precious life from these lions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.18",
+      "edition_verse_id": "BSB:PSA.35.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then I will give You thanks in the great assembly; I will praise You among many people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.19",
+      "edition_verse_id": "BSB:PSA.35.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Let not my enemies gloat over me without cause, nor those who hate me without reason wink in malice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.20",
+      "edition_verse_id": "BSB:PSA.35.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For they do not speak peace, but they devise deceitful schemes against those who live quietly in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.21",
+      "edition_verse_id": "BSB:PSA.35.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They gape at me and say, “Aha, aha! Our eyes have seen!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.22",
+      "edition_verse_id": "BSB:PSA.35.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "O LORD, You have seen it; be not silent. O Lord, be not far from me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.23",
+      "edition_verse_id": "BSB:PSA.35.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Awake and rise to my defense, to my cause, my God and my Lord!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.24",
+      "edition_verse_id": "BSB:PSA.35.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Vindicate me by Your righteousness, O LORD my God, and do not let them gloat over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.25",
+      "edition_verse_id": "BSB:PSA.35.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Let them not say in their hearts, “Aha, just what we wanted!” Let them not say, “We have swallowed him up!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.26",
+      "edition_verse_id": "BSB:PSA.35.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "May those who gloat in my distress be ashamed and confounded; may those who exalt themselves over me be clothed in shame and reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.27",
+      "edition_verse_id": "BSB:PSA.35.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "May those who favor my vindication shout for joy and gladness; may they always say, “Exalted be the LORD who delights in His servant’s well-being.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.35.28",
+      "edition_verse_id": "BSB:PSA.35.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then my tongue will proclaim Your righteousness and Your praises all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

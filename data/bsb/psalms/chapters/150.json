@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 150,
+  "verses": [
+    {
+      "id": "PSA.150.1",
+      "edition_verse_id": "BSB:PSA.150.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hallelujah! Praise God in His sanctuary. Praise Him in His mighty heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.150.2",
+      "edition_verse_id": "BSB:PSA.150.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Praise Him for His mighty acts; praise Him for His excellent greatness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.150.3",
+      "edition_verse_id": "BSB:PSA.150.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Praise Him with the sound of the horn; praise Him with the harp and lyre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.150.4",
+      "edition_verse_id": "BSB:PSA.150.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Praise Him with tambourine and dancing; praise Him with strings and flute.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.150.5",
+      "edition_verse_id": "BSB:PSA.150.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Praise Him with clashing cymbals; praise Him with resounding cymbals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.150.6",
+      "edition_verse_id": "BSB:PSA.150.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let everything that has breath praise the LORD! Hallelujah!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

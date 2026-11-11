@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "PSA.20.1",
+      "edition_verse_id": "BSB:PSA.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. May the LORD answer you in the day of trouble; may the name of the God of Jacob protect you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.20.2",
+      "edition_verse_id": "BSB:PSA.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "May He send you help from the sanctuary and sustain you from Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.3",
+      "edition_verse_id": "BSB:PSA.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "May He remember all your gifts and look favorably on your burnt offerings. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.4",
+      "edition_verse_id": "BSB:PSA.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "May He give you the desires of your heart and make all your plans succeed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.5",
+      "edition_verse_id": "BSB:PSA.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "May we shout for joy at your victory and raise a banner in the name of our God. May the LORD grant all your petitions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.6",
+      "edition_verse_id": "BSB:PSA.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now I know that the LORD saves His anointed; He answers him from His holy heaven with the saving power of His right hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.7",
+      "edition_verse_id": "BSB:PSA.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Some trust in chariots and others in horses, but we trust in the name of the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.8",
+      "edition_verse_id": "BSB:PSA.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They collapse and fall, but we rise up and stand firm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.20.9",
+      "edition_verse_id": "BSB:PSA.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O LORD, save the king. Answer us on the day we call.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

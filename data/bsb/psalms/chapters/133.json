@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 133,
+  "verses": [
+    {
+      "id": "PSA.133.1",
+      "edition_verse_id": "BSB:PSA.133.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Of David. Behold, how good and pleasant it is when brothers live together in harmony!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.133.2",
+      "edition_verse_id": "BSB:PSA.133.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It is like fine oil on the head, running down on the beard, running down Aaron’s beard over the collar of his robes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.133.3",
+      "edition_verse_id": "BSB:PSA.133.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "It is like the dew of Hermon falling on the mountains of Zion. For there the LORD has bestowed the blessing of life forevermore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

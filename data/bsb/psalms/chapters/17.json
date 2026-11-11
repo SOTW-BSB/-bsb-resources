@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "PSA.17.1",
+      "edition_verse_id": "BSB:PSA.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A prayer of David. Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer— it comes from lips free of deceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.17.2",
+      "edition_verse_id": "BSB:PSA.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "May my vindication come from Your presence; may Your eyes see what is right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.3",
+      "edition_verse_id": "BSB:PSA.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You have tried my heart; You have visited me in the night. You have tested me and found no evil; I have resolved not to sin with my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.4",
+      "edition_verse_id": "BSB:PSA.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "As for the deeds of men — by the word of Your lips I have avoided the ways of the violent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.5",
+      "edition_verse_id": "BSB:PSA.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "My steps have held to Your paths; my feet have not slipped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.6",
+      "edition_verse_id": "BSB:PSA.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I call on You, O God, for You will answer me. Incline Your ear to me; hear my words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.7",
+      "edition_verse_id": "BSB:PSA.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Show the wonders of Your loving devotion, You who save by Your right hand those who seek refuge from their foes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.8",
+      "edition_verse_id": "BSB:PSA.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Keep me as the apple of Your eye; hide me in the shadow of Your wings",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.9",
+      "edition_verse_id": "BSB:PSA.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "from the wicked who assail me, from my mortal enemies who surround me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.10",
+      "edition_verse_id": "BSB:PSA.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They have closed their callous hearts; their mouths speak with arrogance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.11",
+      "edition_verse_id": "BSB:PSA.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They have tracked us down, and now surround us; their eyes are set to cast us to the ground,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.12",
+      "edition_verse_id": "BSB:PSA.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "like a lion greedy for prey, like a young lion lurking in ambush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.13",
+      "edition_verse_id": "BSB:PSA.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Arise, O LORD, confront them! Bring them to their knees; deliver me from the wicked by Your sword,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.14",
+      "edition_verse_id": "BSB:PSA.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "from such men, O LORD, by Your hand— from men of the world whose portion is in this life. May You fill the bellies of Your treasured ones and satisfy their sons, so they leave their abundance to their children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.17.15",
+      "edition_verse_id": "BSB:PSA.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As for me, I will behold Your face in righteousness; when I awake, I will be satisfied in Your presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

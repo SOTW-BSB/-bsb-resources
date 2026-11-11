@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "PSA.14.1",
+      "edition_verse_id": "BSB:PSA.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.14.2",
+      "edition_verse_id": "BSB:PSA.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD looks down from heaven upon the sons of men to see if any understand, if any seek God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.3",
+      "edition_verse_id": "BSB:PSA.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "All have turned away, they have together become corrupt; there is no one who does good, not even one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.4",
+      "edition_verse_id": "BSB:PSA.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Will the workers of iniquity never learn? They devour my people like bread; they refuse to call upon the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.5",
+      "edition_verse_id": "BSB:PSA.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "There they are, overwhelmed with dread, for God is in the company of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.6",
+      "edition_verse_id": "BSB:PSA.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You sinners frustrate the plans of the oppressed, yet the LORD is their shelter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.14.7",
+      "edition_verse_id": "BSB:PSA.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Oh, that the salvation of Israel would come from Zion! When the LORD restores His captive people, let Jacob rejoice, let Israel be glad!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

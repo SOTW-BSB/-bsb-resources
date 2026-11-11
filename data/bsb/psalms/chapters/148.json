@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 148,
+  "verses": [
+    {
+      "id": "PSA.148.1",
+      "edition_verse_id": "BSB:PSA.148.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hallelujah! Praise the LORD from the heavens; praise Him in the highest places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.148.2",
+      "edition_verse_id": "BSB:PSA.148.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Praise Him, all His angels; praise Him, all His heavenly hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.3",
+      "edition_verse_id": "BSB:PSA.148.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Praise Him, O sun and moon; praise Him, all you shining stars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.4",
+      "edition_verse_id": "BSB:PSA.148.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Praise Him, O highest heavens, and you waters above the skies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.5",
+      "edition_verse_id": "BSB:PSA.148.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let them praise the name of the LORD, for He gave the command and they were created.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.6",
+      "edition_verse_id": "BSB:PSA.148.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He established them forever and ever; He issued a decree that will never pass away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.7",
+      "edition_verse_id": "BSB:PSA.148.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Praise the LORD from the earth, all great sea creatures and ocean depths,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.8",
+      "edition_verse_id": "BSB:PSA.148.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "lightning and hail, snow and clouds, powerful wind fulfilling His word,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.9",
+      "edition_verse_id": "BSB:PSA.148.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "mountains and all hills, fruit trees and all cedars,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.10",
+      "edition_verse_id": "BSB:PSA.148.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "wild animals and all cattle, crawling creatures and flying birds,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.11",
+      "edition_verse_id": "BSB:PSA.148.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "kings of the earth and all peoples, princes and all rulers of the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.12",
+      "edition_verse_id": "BSB:PSA.148.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "young men and maidens, old and young together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.13",
+      "edition_verse_id": "BSB:PSA.148.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Let them praise the name of the LORD, for His name alone is exalted; His splendor is above the earth and the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.148.14",
+      "edition_verse_id": "BSB:PSA.148.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He has raised up a horn for His people, the praise of all His saints, of Israel, a people near to Him. Hallelujah!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

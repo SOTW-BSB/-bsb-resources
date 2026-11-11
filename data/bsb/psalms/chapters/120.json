@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 120,
+  "verses": [
+    {
+      "id": "PSA.120.1",
+      "edition_verse_id": "BSB:PSA.120.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. In my distress I cried to the LORD, and He answered me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.120.2",
+      "edition_verse_id": "BSB:PSA.120.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Deliver my soul, O LORD, from lying lips and a deceitful tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.3",
+      "edition_verse_id": "BSB:PSA.120.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "What will He do to you, and what will be added to you, O deceitful tongue?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.4",
+      "edition_verse_id": "BSB:PSA.120.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Sharp arrows will come from the warrior, with burning coals of the broom tree!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.5",
+      "edition_verse_id": "BSB:PSA.120.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Woe to me that I dwell in Meshech, that I live among the tents of Kedar!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.6",
+      "edition_verse_id": "BSB:PSA.120.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Too long have I dwelt among those who hate peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.120.7",
+      "edition_verse_id": "BSB:PSA.120.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I am in favor of peace; but when I speak, they want war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

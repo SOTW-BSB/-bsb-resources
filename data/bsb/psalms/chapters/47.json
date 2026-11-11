@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 47,
+  "verses": [
+    {
+      "id": "PSA.47.1",
+      "edition_verse_id": "BSB:PSA.47.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of the sons of Korah. Clap your hands, all you peoples; shout unto God with a voice of triumph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.47.2",
+      "edition_verse_id": "BSB:PSA.47.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How awesome is the LORD Most High, the great King over all the earth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.3",
+      "edition_verse_id": "BSB:PSA.47.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He subdues nations beneath us, and peoples under our feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.4",
+      "edition_verse_id": "BSB:PSA.47.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He chooses our inheritance for us, the pride of Jacob, whom He loves. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.5",
+      "edition_verse_id": "BSB:PSA.47.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "God has ascended amid shouts of joy, the LORD with the sound of the horn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.6",
+      "edition_verse_id": "BSB:PSA.47.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Sing praises to God, sing praises; sing praises to our King, sing praises!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.7",
+      "edition_verse_id": "BSB:PSA.47.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For God is King of all the earth; sing to Him a psalm of praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.8",
+      "edition_verse_id": "BSB:PSA.47.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "God reigns over the nations; God is seated on His holy throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.47.9",
+      "edition_verse_id": "BSB:PSA.47.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The nobles of the nations have assembled as the people of the God of Abraham; for the shields of the earth belong to God; He is highly exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 41,
+  "verses": [
+    {
+      "id": "PSA.41.1",
+      "edition_verse_id": "BSB:PSA.41.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. Blessed is the one who cares for the poor; the LORD will deliver him in the day of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.41.2",
+      "edition_verse_id": "BSB:PSA.41.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD will protect and preserve him; He will bless him in the land and refuse to give him over to the will of his foes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.3",
+      "edition_verse_id": "BSB:PSA.41.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The LORD will sustain him on his bed of illness and restore him from his bed of sickness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.4",
+      "edition_verse_id": "BSB:PSA.41.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I said, “O LORD, be gracious to me; heal me, for I have sinned against You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.5",
+      "edition_verse_id": "BSB:PSA.41.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "My enemies say with malice: “When will he die and be forgotten?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.6",
+      "edition_verse_id": "BSB:PSA.41.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My visitor speaks falsehood; he gathers slander in his heart; he goes out and spreads it abroad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.7",
+      "edition_verse_id": "BSB:PSA.41.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All who hate me whisper against me; they imagine the worst for me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.8",
+      "edition_verse_id": "BSB:PSA.41.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“A vile disease has been poured into him; he will never get up from where he lies!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.9",
+      "edition_verse_id": "BSB:PSA.41.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Even my close friend whom I trusted, the one who shared my bread, has lifted up his heel against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.10",
+      "edition_verse_id": "BSB:PSA.41.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But You, O LORD, be gracious to me and raise me up, that I may repay them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.11",
+      "edition_verse_id": "BSB:PSA.41.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "By this I know that You delight in me, for my enemy does not triumph over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.12",
+      "edition_verse_id": "BSB:PSA.41.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "In my integrity You uphold me and set me in Your presence forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.41.13",
+      "edition_verse_id": "BSB:PSA.41.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Blessed be the LORD, the God of Israel, from everlasting to everlasting. Amen and Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

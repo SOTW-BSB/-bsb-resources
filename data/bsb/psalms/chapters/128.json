@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 128,
+  "verses": [
+    {
+      "id": "PSA.128.1",
+      "edition_verse_id": "BSB:PSA.128.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A song of ascents. Blessed are all who fear the LORD, who walk in His ways!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.128.2",
+      "edition_verse_id": "BSB:PSA.128.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For when you eat the fruit of your labor, blessings and prosperity will be yours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.128.3",
+      "edition_verse_id": "BSB:PSA.128.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Your wife will be like a fruitful vine flourishing within your house, your sons like olive shoots sitting around your table.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.128.4",
+      "edition_verse_id": "BSB:PSA.128.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In this way indeed shall blessing come to the man who fears the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.128.5",
+      "edition_verse_id": "BSB:PSA.128.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "May the LORD bless you from Zion, that you may see the prosperity of Jerusalem all the days of your life,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.128.6",
+      "edition_verse_id": "BSB:PSA.128.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "that you may see your children’s children. Peace be upon Israel!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
