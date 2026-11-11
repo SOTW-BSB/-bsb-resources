@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "JER.11.1",
+      "edition_verse_id": "BSB:JER.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the word that came to Jeremiah from the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.2",
+      "edition_verse_id": "BSB:JER.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Listen to the words of this covenant and tell them to the men of Judah and the residents of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.3",
+      "edition_verse_id": "BSB:JER.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You must tell them that this is what the LORD, the God of Israel, says: Cursed is the man who does not obey the words of this covenant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.4",
+      "edition_verse_id": "BSB:JER.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "which I commanded your forefathers when I brought them out of the land of Egypt, out of the iron furnace, saying, ‘Obey Me, and do everything I command you, and you will be My people, and I will be your God.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.5",
+      "edition_verse_id": "BSB:JER.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "This was in order to establish the oath I swore to your forefathers, to give them a land flowing with milk and honey, as it is to this day.” “Amen, LORD,” I answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.6",
+      "edition_verse_id": "BSB:JER.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the LORD said to me, “Proclaim all these words in the cities of Judah and in the streets of Jerusalem, saying: Hear the words of this covenant and carry them out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.7",
+      "edition_verse_id": "BSB:JER.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For from the time I brought your fathers out of the land of Egypt until today, I strongly warned them again and again, saying, ‘Obey My voice.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.8",
+      "edition_verse_id": "BSB:JER.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Yet they would not obey or incline their ears, but each one followed the stubbornness of his evil heart. So I brought on them all the curses of this covenant I had commanded them to follow but they did not keep.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.9",
+      "edition_verse_id": "BSB:JER.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD told me, “There is a conspiracy among the men of Judah and the residents of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.10",
+      "edition_verse_id": "BSB:JER.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They have returned to the sins of their forefathers who refused to obey My words. They have followed other gods to serve them. The house of Israel and the house of Judah have broken the covenant I made with their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.11",
+      "edition_verse_id": "BSB:JER.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD says: ‘I am about to bring upon them a disaster that they cannot escape. They will cry out to Me, but I will not listen to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.12",
+      "edition_verse_id": "BSB:JER.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the cities of Judah and the residents of Jerusalem will go and cry out to the gods to which they have been burning incense, but these gods certainly will not save them in their time of disaster.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.13",
+      "edition_verse_id": "BSB:JER.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Your gods are indeed as numerous as your cities, O Judah; the altars of shame you have set up— the altars to burn incense to Baal— are as many as the streets of Jerusalem.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.14",
+      "edition_verse_id": "BSB:JER.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As for you, do not pray for these people. Do not raise up a cry or a prayer on their behalf, for I will not be listening when they call out to Me in their time of disaster.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.15",
+      "edition_verse_id": "BSB:JER.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What right has My beloved in My house, having carried out so many evil schemes? Can consecrated meat avert your doom? When you are wicked, then you rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.16",
+      "edition_verse_id": "BSB:JER.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The LORD once called you a flourishing olive tree, beautiful with well-formed fruit. But with a mighty roar He will set it on fire, and its branches will be consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.17",
+      "edition_verse_id": "BSB:JER.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The LORD of Hosts, who planted you, has decreed disaster against you on account of the evil that the house of Israel and the house of Judah have brought upon themselves, provoking Me to anger by burning incense to Baal.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.18",
+      "edition_verse_id": "BSB:JER.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the LORD informed me, so I knew. Then You showed me their deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.19",
+      "edition_verse_id": "BSB:JER.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For I was like a gentle lamb led to slaughter; I did not know that they had plotted against me: “Let us destroy the tree with its fruit; let us cut him off from the land of the living, that his name may be remembered no more.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.20",
+      "edition_verse_id": "BSB:JER.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "O LORD of Hosts, who judges righteously, who examines the heart and mind, let me see Your vengeance upon them, for to You I have committed my cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.21",
+      "edition_verse_id": "BSB:JER.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD says concerning the people of Anathoth who are seeking your life and saying, “You must not prophesy in the name of the LORD, or you will die by our hand.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.11.22",
+      "edition_verse_id": "BSB:JER.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So this is what the LORD of Hosts says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.11.23",
+      "edition_verse_id": "BSB:JER.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "There will be no remnant, for I will bring disaster on the people of Anathoth in the year of their punishment.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

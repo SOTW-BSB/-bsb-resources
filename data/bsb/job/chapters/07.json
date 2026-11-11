@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "JOB.7.1",
+      "edition_verse_id": "BSB:JOB.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Is not man consigned to labor on earth? Are not his days like those of a hired hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.7.2",
+      "edition_verse_id": "BSB:JOB.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Like a slave he longs for shade; like a hireling he waits for his wages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.3",
+      "edition_verse_id": "BSB:JOB.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So I am allotted months of futility, and nights of misery are appointed to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.4",
+      "edition_verse_id": "BSB:JOB.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When I lie down I think: ‘When will I get up?’ But the night drags on, and I toss and turn until dawn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.5",
+      "edition_verse_id": "BSB:JOB.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "My flesh is clothed with worms and encrusted with dirt; my skin is cracked and festering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.6",
+      "edition_verse_id": "BSB:JOB.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My days are swifter than a weaver’s shuttle; they come to an end without hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.7",
+      "edition_verse_id": "BSB:JOB.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Remember that my life is but a breath. My eyes will never again see happiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.8",
+      "edition_verse_id": "BSB:JOB.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The eye that beholds me will no longer see me. You will look for me, but I will be no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.9",
+      "edition_verse_id": "BSB:JOB.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As a cloud vanishes and is gone, so he who goes down to Sheol does not come back up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.10",
+      "edition_verse_id": "BSB:JOB.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He never returns to his house; his place remembers him no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.11",
+      "edition_verse_id": "BSB:JOB.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.12",
+      "edition_verse_id": "BSB:JOB.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Am I the sea, or the monster of the deep, that You must keep me under guard?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.13",
+      "edition_verse_id": "BSB:JOB.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When I think my bed will comfort me and my couch will ease my complaint,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.14",
+      "edition_verse_id": "BSB:JOB.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "then You frighten me with dreams and terrify me with visions,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.15",
+      "edition_verse_id": "BSB:JOB.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "so that I would prefer strangling and death over my life in this body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.16",
+      "edition_verse_id": "BSB:JOB.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I loathe my life! I would not live forever. Leave me alone, for my days are but a breath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.17",
+      "edition_verse_id": "BSB:JOB.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "What is man that You should exalt him, that You should set Your heart upon him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.18",
+      "edition_verse_id": "BSB:JOB.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "that You attend to him every morning, and test him every moment?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.19",
+      "edition_verse_id": "BSB:JOB.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Will You never look away from me, or leave me alone to swallow my spittle?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.20",
+      "edition_verse_id": "BSB:JOB.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If I have sinned, what have I done to You, O watcher of mankind? Why have You made me Your target, so that I am a burden to You?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.7.21",
+      "edition_verse_id": "BSB:JOB.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Why do You not pardon my transgression and take away my iniquity? For soon I will lie down in the dust; You will seek me, but I will be no more.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

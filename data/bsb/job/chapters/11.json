@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "JOB.11.1",
+      "edition_verse_id": "BSB:JOB.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Zophar the Naamathite replied:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.11.2",
+      "edition_verse_id": "BSB:JOB.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Should this stream of words go unanswered and such a speaker be vindicated?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.3",
+      "edition_verse_id": "BSB:JOB.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Should your babbling put others to silence? Will you scoff without rebuke?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.4",
+      "edition_verse_id": "BSB:JOB.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You have said, ‘My doctrine is sound, and I am pure in Your sight.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.5",
+      "edition_verse_id": "BSB:JOB.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But if only God would speak and open His lips against you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.6",
+      "edition_verse_id": "BSB:JOB.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and disclose to you the secrets of wisdom, for true wisdom has two sides. Know then that God exacts from you less than your iniquity deserves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.7",
+      "edition_verse_id": "BSB:JOB.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Can you fathom the deep things of God or discover the limits of the Almighty?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.8",
+      "edition_verse_id": "BSB:JOB.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They are higher than the heavens— what can you do? They are deeper than Sheol— what can you know?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.9",
+      "edition_verse_id": "BSB:JOB.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Their measure is longer than the earth and wider than the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.10",
+      "edition_verse_id": "BSB:JOB.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If He comes along to imprison you, or convenes a court, who can stop Him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.11",
+      "edition_verse_id": "BSB:JOB.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Surely He knows the deceit of men. If He sees iniquity, does He not take note?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.12",
+      "edition_verse_id": "BSB:JOB.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But a witless man can no more become wise than the colt of a wild donkey can be born a man!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.13",
+      "edition_verse_id": "BSB:JOB.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "As for you, if you direct your heart and lift up your hands to Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.14",
+      "edition_verse_id": "BSB:JOB.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "if you put away the iniquity in your hand, and allow no injustice to dwell in your tents,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.15",
+      "edition_verse_id": "BSB:JOB.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "then indeed you will lift up your face without blemish; you will stand firm and unafraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.16",
+      "edition_verse_id": "BSB:JOB.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For you will forget your misery, recalling it only as waters gone by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.17",
+      "edition_verse_id": "BSB:JOB.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Your life will be brighter than noonday; its darkness will be like the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.18",
+      "edition_verse_id": "BSB:JOB.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "You will be secure, because there is hope, and you will look around and lie down in safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.19",
+      "edition_verse_id": "BSB:JOB.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You will lie down without fear, and many will court your favor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.11.20",
+      "edition_verse_id": "BSB:JOB.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the eyes of the wicked will fail, and escape will elude them; they will hope for their last breath.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

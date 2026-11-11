@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "JOB.9.1",
+      "edition_verse_id": "BSB:JOB.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.9.2",
+      "edition_verse_id": "BSB:JOB.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Yes, I know that it is so, but how can a mortal be righteous before God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.3",
+      "edition_verse_id": "BSB:JOB.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If one wished to contend with God, he could not answer Him one time out of a thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.4",
+      "edition_verse_id": "BSB:JOB.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "God is wise in heart and mighty in strength. Who has resisted Him and prospered?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.5",
+      "edition_verse_id": "BSB:JOB.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He moves mountains without their knowledge and overturns them in His anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.6",
+      "edition_verse_id": "BSB:JOB.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He shakes the earth from its place, so that its foundations tremble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.7",
+      "edition_verse_id": "BSB:JOB.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He commands the sun not to shine; He seals off the stars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.8",
+      "edition_verse_id": "BSB:JOB.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He alone stretches out the heavens and treads on the waves of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.9",
+      "edition_verse_id": "BSB:JOB.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He is the Maker of the Bear and Orion, of the Pleiades and the constellations of the south.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.10",
+      "edition_verse_id": "BSB:JOB.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He does great things beyond searching out, and wonders without number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.11",
+      "edition_verse_id": "BSB:JOB.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Were He to pass by me, I would not see Him; were He to move, I would not recognize Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.12",
+      "edition_verse_id": "BSB:JOB.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If He takes away, who can stop Him? Who dares to ask Him, ‘What are You doing?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.13",
+      "edition_verse_id": "BSB:JOB.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "God does not restrain His anger; the helpers of Rahab cower beneath Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.14",
+      "edition_verse_id": "BSB:JOB.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "How then can I answer Him or choose my arguments against Him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.15",
+      "edition_verse_id": "BSB:JOB.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For even if I were right, I could not answer. I could only beg my Judge for mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.16",
+      "edition_verse_id": "BSB:JOB.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If I summoned Him and He answered me, I do not believe He would listen to my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.17",
+      "edition_verse_id": "BSB:JOB.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For He would crush me with a tempest and multiply my wounds without cause.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.18",
+      "edition_verse_id": "BSB:JOB.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He does not let me catch my breath, but overwhelms me with bitterness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.19",
+      "edition_verse_id": "BSB:JOB.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If it is a matter of strength, He is indeed mighty! If it is a matter of justice, who can summon Him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.20",
+      "edition_verse_id": "BSB:JOB.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Even if I were righteous, my mouth would condemn me; if I were blameless, it would declare me guilty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.21",
+      "edition_verse_id": "BSB:JOB.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Though I am blameless, I have no concern for myself; I despise my own life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.22",
+      "edition_verse_id": "BSB:JOB.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "It is all the same, and so I say, ‘He destroys both the blameless and the wicked.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.23",
+      "edition_verse_id": "BSB:JOB.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When the scourge brings sudden death, He mocks the despair of the innocent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.24",
+      "edition_verse_id": "BSB:JOB.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The earth is given into the hand of the wicked; He blindfolds its judges. If it is not He, then who is it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.25",
+      "edition_verse_id": "BSB:JOB.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "My days are swifter than a runner; they flee without seeing good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.26",
+      "edition_verse_id": "BSB:JOB.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They sweep by like boats of papyrus, like an eagle swooping down on its prey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.27",
+      "edition_verse_id": "BSB:JOB.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "If I were to say, ‘I will forget my complaint and change my expression and smile,’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.28",
+      "edition_verse_id": "BSB:JOB.9.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I would still dread all my sufferings; I know that You will not acquit me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.29",
+      "edition_verse_id": "BSB:JOB.9.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Since I am already found guilty, why should I labor in vain?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.30",
+      "edition_verse_id": "BSB:JOB.9.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If I should wash myself with snow and cleanse my hands with lye,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.31",
+      "edition_verse_id": "BSB:JOB.9.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "then You would plunge me into the pit, and even my own clothes would despise me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.32",
+      "edition_verse_id": "BSB:JOB.9.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For He is not a man like me, that I can answer Him, that we can take each other to court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.33",
+      "edition_verse_id": "BSB:JOB.9.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Nor is there a mediator between us, to lay his hand upon us both.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.34",
+      "edition_verse_id": "BSB:JOB.9.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let Him remove His rod from me, so that His terror will no longer frighten me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.9.35",
+      "edition_verse_id": "BSB:JOB.9.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then I would speak without fear of Him. But as it is, I am on my own.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "JOB.10.1",
+      "edition_verse_id": "BSB:JOB.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“I loathe my own life; I will express my complaint and speak in the bitterness of my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.10.2",
+      "edition_verse_id": "BSB:JOB.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will say to God: Do not condemn me! Let me know why You prosecute me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.3",
+      "edition_verse_id": "BSB:JOB.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Does it please You to oppress me, to reject the work of Your hands and favor the schemes of the wicked?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.4",
+      "edition_verse_id": "BSB:JOB.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do You have eyes of flesh? Do You see as man sees?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.5",
+      "edition_verse_id": "BSB:JOB.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Are Your days like those of a mortal, or Your years like those of a man,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.6",
+      "edition_verse_id": "BSB:JOB.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "that You should seek my iniquity and search out my sin —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.7",
+      "edition_verse_id": "BSB:JOB.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "though You know that I am not guilty, and there is no deliverance from Your hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.8",
+      "edition_verse_id": "BSB:JOB.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Your hands shaped me and altogether formed me. Would You now turn and destroy me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.9",
+      "edition_verse_id": "BSB:JOB.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Please remember that You molded me like clay. Would You now return me to dust?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.10",
+      "edition_verse_id": "BSB:JOB.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Did You not pour me out like milk, and curdle me like cheese?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.11",
+      "edition_verse_id": "BSB:JOB.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You clothed me with skin and flesh, and knit me together with bones and sinews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.12",
+      "edition_verse_id": "BSB:JOB.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You have granted me life and loving devotion, and Your care has preserved my spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.13",
+      "edition_verse_id": "BSB:JOB.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Yet You concealed these things in Your heart, and I know that this was in Your mind:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.14",
+      "edition_verse_id": "BSB:JOB.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If I sinned, You would take note, and would not acquit me of my iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.15",
+      "edition_verse_id": "BSB:JOB.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If I am guilty, woe to me! And even if I am righteous, I cannot lift my head. I am full of shame and aware of my affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.16",
+      "edition_verse_id": "BSB:JOB.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Should I hold my head high, You would hunt me like a lion, and again display Your power against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.17",
+      "edition_verse_id": "BSB:JOB.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "You produce new witnesses against me and multiply Your anger toward me. Hardships assault me in wave after wave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.18",
+      "edition_verse_id": "BSB:JOB.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Why then did You bring me from the womb? Oh, that I had died, and no eye had seen me!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.19",
+      "edition_verse_id": "BSB:JOB.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If only I had never come to be, but had been carried from the womb to the grave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.20",
+      "edition_verse_id": "BSB:JOB.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Are my days not few? Withdraw from me, that I may have a little comfort,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.21",
+      "edition_verse_id": "BSB:JOB.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "before I go — never to return — to a land of darkness and gloom,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.10.22",
+      "edition_verse_id": "BSB:JOB.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "to a land of utter darkness, of deep shadow and disorder, where even the light is like darkness.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

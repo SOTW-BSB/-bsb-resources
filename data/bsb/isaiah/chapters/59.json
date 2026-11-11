@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 59,
+  "verses": [
+    {
+      "id": "ISA.59.1",
+      "edition_verse_id": "BSB:ISA.59.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Surely the arm of the LORD is not too short to save, nor His ear too dull to hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.59.2",
+      "edition_verse_id": "BSB:ISA.59.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But your iniquities have built barriers between you and your God, and your sins have hidden His face from you, so that He does not hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.3",
+      "edition_verse_id": "BSB:ISA.59.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For your hands are stained with blood, and your fingers with iniquity; your lips have spoken lies, and your tongue mutters injustice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.4",
+      "edition_verse_id": "BSB:ISA.59.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "No one calls for justice; no one pleads his case honestly. They rely on empty pleas; they tell lies; they conceive mischief and give birth to iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.5",
+      "edition_verse_id": "BSB:ISA.59.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They hatch the eggs of vipers and weave a spider’s web. Whoever eats their eggs will die; crack one open, and a viper is hatched.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.6",
+      "edition_verse_id": "BSB:ISA.59.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Their cobwebs cannot be made into clothing, and they cannot cover themselves with their works. Their deeds are sinful deeds, and acts of violence are in their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.7",
+      "edition_verse_id": "BSB:ISA.59.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Their feet run to evil; they are swift to shed innocent blood. Their thoughts are sinful thoughts; ruin and destruction lie in their wake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.8",
+      "edition_verse_id": "BSB:ISA.59.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The way of peace they have not known, and there is no justice in their tracks. They have turned them into crooked paths; no one who treads on them will know peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.9",
+      "edition_verse_id": "BSB:ISA.59.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we walk in gloom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.10",
+      "edition_verse_id": "BSB:ISA.59.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Like the blind, we feel our way along the wall, groping like those without eyes. We stumble at midday as in the twilight; among the vigorous we are like the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.11",
+      "edition_verse_id": "BSB:ISA.59.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "We all growl like bears and moan like doves. We hope for justice, but find none, for salvation, but it is far from us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.12",
+      "edition_verse_id": "BSB:ISA.59.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For our transgressions are multiplied before You, and our sins testify against us. Our transgressions are indeed with us, and we know our iniquities:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.13",
+      "edition_verse_id": "BSB:ISA.59.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "rebelling and denying the LORD, turning away from our God, speaking oppression and revolt, conceiving and uttering lies from the heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.14",
+      "edition_verse_id": "BSB:ISA.59.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So justice is turned away, and righteousness stands at a distance. For truth has stumbled in the public square, and honesty cannot enter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.15",
+      "edition_verse_id": "BSB:ISA.59.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Truth is missing, and whoever turns from evil becomes prey. The LORD looked and was displeased that there was no justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.16",
+      "edition_verse_id": "BSB:ISA.59.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He saw that there was no man; He was amazed that there was no one to intercede. So His own arm brought salvation, and His own righteousness sustained Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.17",
+      "edition_verse_id": "BSB:ISA.59.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He put on righteousness like a breastplate, and the helmet of salvation on His head; He put on garments of vengeance and wrapped Himself in a cloak of zeal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.18",
+      "edition_verse_id": "BSB:ISA.59.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So He will repay according to their deeds: fury to His enemies, retribution to His foes, and recompense to the islands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.19",
+      "edition_verse_id": "BSB:ISA.59.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So shall they fear the name of the LORD where the sun sets, and His glory where it rises. For He will come like a raging flood, driven by the breath of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.20",
+      "edition_verse_id": "BSB:ISA.59.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“The Redeemer will come to Zion, to those in Jacob who turn from transgression,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.59.21",
+      "edition_verse_id": "BSB:ISA.59.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“As for Me, this is My covenant with them,” says the LORD. “My Spirit will not depart from you, and My words that I have put in your mouth will not depart from your mouth or from the mouths of your children and grandchildren, from now on and forevermore,” says the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

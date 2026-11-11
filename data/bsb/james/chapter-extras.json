@@ -1,0 +1,42 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JAS",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 A Greeting from James",
+        "\\s1 Rejoicing in Trials",
+        "\\s1 Good and Perfect Gifts",
+        "\\s1 Hearing and Doing"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 A Warning against Favoritism",
+        "\\s1 Faith and Works"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Taming the Tongue",
+        "\\s1 The Wisdom from Above"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 A Warning against Pride",
+        "\\s1 Drawing Near to God",
+        "\\s1 Do Not Boast about Tomorrow"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 A Warning to the Rich",
+        "\\s1 Patience in Suffering",
+        "\\s1 The Prayer of Faith",
+        "\\s1 Restoring a Sinner"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

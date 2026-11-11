@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 63,
+  "verses": [
+    {
+      "id": "ISA.63.1",
+      "edition_verse_id": "BSB:ISA.63.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is this robed in splendor, marching in the greatness of His strength? “It is I, proclaiming vindication, mighty to save.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.63.2",
+      "edition_verse_id": "BSB:ISA.63.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Why are Your clothes red, and Your garments like one who treads the winepress?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.3",
+      "edition_verse_id": "BSB:ISA.63.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“I have trodden the winepress alone, and no one from the nations was with Me. I trampled them in My anger and trod them down in My fury; their blood spattered My garments, and all My clothes were stained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.4",
+      "edition_verse_id": "BSB:ISA.63.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For the day of vengeance was in My heart, and the year of My redemption had come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.5",
+      "edition_verse_id": "BSB:ISA.63.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I looked, but there was no one to help; I was appalled that no one assisted. So My arm brought Me salvation, and My own wrath upheld Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.6",
+      "edition_verse_id": "BSB:ISA.63.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I trampled the nations in My anger; in My wrath I made them drunk and poured out their blood on the ground.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.7",
+      "edition_verse_id": "BSB:ISA.63.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will make known the LORD’s loving devotion and His praiseworthy acts, because of all that the LORD has done for us— the many good things for the house of Israel according to His great compassion and loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.8",
+      "edition_verse_id": "BSB:ISA.63.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For He said, “They are surely My people, sons who will not be disloyal.” So He became their Savior.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.9",
+      "edition_verse_id": "BSB:ISA.63.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "In all their distress, He too was afflicted, and the Angel of His Presence saved them. In His love and compassion He redeemed them; He lifted them up and carried them all the days of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.10",
+      "edition_verse_id": "BSB:ISA.63.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But they rebelled and grieved His Holy Spirit. So He turned and became their enemy, and He Himself fought against them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.11",
+      "edition_verse_id": "BSB:ISA.63.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then His people remembered the days of old, the days of Moses. Where is He who brought them through the sea with the shepherds of His flock? Where is the One who set His Holy Spirit among them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.12",
+      "edition_verse_id": "BSB:ISA.63.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "who sent His glorious arm to lead them by the right hand of Moses, who divided the waters before them to gain for Himself everlasting renown,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.13",
+      "edition_verse_id": "BSB:ISA.63.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "who led them through the depths like a horse in the wilderness, so that they did not stumble?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.14",
+      "edition_verse_id": "BSB:ISA.63.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Like cattle going down to the valley, the Spirit of the LORD gave them rest. You led Your people this way to make for Yourself a glorious name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.15",
+      "edition_verse_id": "BSB:ISA.63.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Look down from heaven and see, from Your holy and glorious habitation. Where are Your zeal and might? Your yearning and compassion for me are restrained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.16",
+      "edition_verse_id": "BSB:ISA.63.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Yet You are our Father, though Abraham does not know us and Israel does not acknowledge us. You, O LORD, are our Father; our Redeemer from Everlasting is Your name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.17",
+      "edition_verse_id": "BSB:ISA.63.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Why, O LORD, do You make us stray from Your ways and harden our hearts from fearing You? Return, for the sake of Your servants, the tribes of Your heritage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.18",
+      "edition_verse_id": "BSB:ISA.63.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For a short while Your people possessed Your holy place, but our enemies have trampled Your sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.63.19",
+      "edition_verse_id": "BSB:ISA.63.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "We have become like those You never ruled, like those not called by Your name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

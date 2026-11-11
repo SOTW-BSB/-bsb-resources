@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JOB.2.1",
+      "edition_verse_id": "BSB:JOB.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On another day the sons of God came to present themselves before the LORD, and Satan also came with them to present himself before Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.2",
+      "edition_verse_id": "BSB:JOB.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Where have you come from?” said the LORD to Satan. “From roaming through the earth,” he replied, “and walking back and forth in it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.3",
+      "edition_verse_id": "BSB:JOB.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then the LORD said to Satan, “Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil. He still retains his integrity, even though you incited Me against him to ruin him without cause.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.4",
+      "edition_verse_id": "BSB:JOB.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Skin for skin!” Satan replied. “A man will give up all he owns in exchange for his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.5",
+      "edition_verse_id": "BSB:JOB.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But stretch out Your hand and strike his flesh and bones, and he will surely curse You to Your face.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.6",
+      "edition_verse_id": "BSB:JOB.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Very well,” said the LORD to Satan. “He is in your hands, but you must spare his life.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.7",
+      "edition_verse_id": "BSB:JOB.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So Satan went out from the presence of the LORD and infected Job with terrible boils from the soles of his feet to the crown of his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.8",
+      "edition_verse_id": "BSB:JOB.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Job took a piece of broken pottery to scrape himself as he sat among the ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.2.9",
+      "edition_verse_id": "BSB:JOB.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Job’s wife said to him, “Do you still retain your integrity? Curse God and die!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.10",
+      "edition_verse_id": "BSB:JOB.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“You speak as a foolish woman speaks,” he told her. “Should we accept from God only good and not adversity?” In all this, Job did not sin in what he said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.11",
+      "edition_verse_id": "BSB:JOB.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now when Job’s three friends— Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite— heard about all this adversity that had come upon him, each of them came from his home, and they met together to go and sympathize with Job and comfort him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.12",
+      "edition_verse_id": "BSB:JOB.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When they lifted up their eyes from afar, they could barely recognize Job. They began to weep aloud, and each man tore his robe and threw dust in the air over his head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.2.13",
+      "edition_verse_id": "BSB:JOB.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then they sat on the ground with him for seven days and seven nights, but no one spoke a word to him because they saw how intense his suffering was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

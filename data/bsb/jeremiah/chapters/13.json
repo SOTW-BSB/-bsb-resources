@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "JER.13.1",
+      "edition_verse_id": "BSB:JER.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is what the LORD said to me: “Go and buy yourself a linen loincloth and put it around your waist, but do not let it touch water.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.2",
+      "edition_verse_id": "BSB:JER.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So I bought a loincloth in accordance with the word of the LORD, and I put it around my waist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.3",
+      "edition_verse_id": "BSB:JER.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me a second time:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.4",
+      "edition_verse_id": "BSB:JER.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Take the loincloth that you bought and are wearing, and go at once to Perath and hide it there in a crevice of the rocks.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.5",
+      "edition_verse_id": "BSB:JER.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So I went and hid it at Perath, as the LORD had commanded me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.6",
+      "edition_verse_id": "BSB:JER.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Many days later the LORD said to me, “Arise, go to Perath, and get the loincloth that I commanded you to hide there.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.7",
+      "edition_verse_id": "BSB:JER.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So I went to Perath and dug up the loincloth, and I took it from the place where I had hidden it. But now it was ruined— of no use at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.8",
+      "edition_verse_id": "BSB:JER.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.9",
+      "edition_verse_id": "BSB:JER.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“This is what the LORD says: In the same way I will ruin the pride of Judah and the great pride of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.10",
+      "edition_verse_id": "BSB:JER.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "These evil people, who refuse to listen to My words, who follow the stubbornness of their own hearts, and who go after other gods to serve and worship them, they will be like this loincloth — of no use at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.11",
+      "edition_verse_id": "BSB:JER.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For just as a loincloth clings to a man’s waist, so I have made the whole house of Israel and the whole house of Judah cling to Me, declares the LORD, so that they might be My people for My renown and praise and glory. But they did not listen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.12",
+      "edition_verse_id": "BSB:JER.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore you are to tell them that this is what the LORD, the God of Israel, says: ‘Every wineskin shall be filled with wine.’ And when they reply, ‘Don’t we surely know that every wineskin should be filled with wine?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.13",
+      "edition_verse_id": "BSB:JER.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "then you are to tell them that this is what the LORD says: ‘I am going to fill with drunkenness all who live in this land— the kings who sit on David’s throne, the priests, the prophets, and all the people of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.13.14",
+      "edition_verse_id": "BSB:JER.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I will smash them against one another, fathers and sons alike, declares the LORD. I will allow no mercy or pity or compassion to keep Me from destroying them.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.15",
+      "edition_verse_id": "BSB:JER.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Listen and give heed. Do not be arrogant, for the LORD has spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.16",
+      "edition_verse_id": "BSB:JER.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Give glory to the LORD your God before He brings darkness, before your feet stumble on the dusky mountains. You wait for light, but He turns it into deep gloom and thick darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.17",
+      "edition_verse_id": "BSB:JER.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But if you do not listen, I will weep in secret because of your pride. My eyes will overflow with tears, because the LORD’s flock has been taken captive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.18",
+      "edition_verse_id": "BSB:JER.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Say to the king and to the queen mother: “Take a lowly seat, for your glorious crowns have fallen from your heads.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.19",
+      "edition_verse_id": "BSB:JER.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The cities of the Negev have been shut tight, and no one can open them. All Judah has been carried into exile, wholly taken captive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.20",
+      "edition_verse_id": "BSB:JER.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Lift up your eyes and see those coming from the north. Where is the flock entrusted to you, the sheep that were your pride?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.21",
+      "edition_verse_id": "BSB:JER.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "What will you say when He sets over you close allies whom you yourself trained? Will not pangs of anguish grip you, as they do a woman in labor?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.22",
+      "edition_verse_id": "BSB:JER.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And if you ask yourself, “Why has this happened to me?” It is because of the magnitude of your iniquity that your skirts have been stripped off and your body has been exposed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.23",
+      "edition_verse_id": "BSB:JER.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Can the Ethiopian change his skin, or the leopard his spots? Neither are you able to do good — you who are accustomed to doing evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.24",
+      "edition_verse_id": "BSB:JER.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“I will scatter you like chaff driven by the desert wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.25",
+      "edition_verse_id": "BSB:JER.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "This is your lot, the portion I have measured to you,” declares the LORD, “because you have forgotten Me and trusted in falsehood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.26",
+      "edition_verse_id": "BSB:JER.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "So I will pull your skirts up over your face, that your shame may be seen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.13.27",
+      "edition_verse_id": "BSB:JER.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Your adulteries and lustful neighings, your shameless prostitution on the hills and in the fields — I have seen your detestable acts. Woe to you, O Jerusalem! How long will you remain unclean?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

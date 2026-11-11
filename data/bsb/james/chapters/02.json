@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JAS",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JAS.2.1",
+      "edition_verse_id": "BSB:JAS.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.2",
+      "edition_verse_id": "BSB:JAS.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.3",
+      "edition_verse_id": "BSB:JAS.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If you lavish attention on the man in fine clothes and say, “Here is a seat of honor,” but say to the poor man, “You must stand” or “Sit at my feet,”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.4",
+      "edition_verse_id": "BSB:JAS.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "have you not discriminated among yourselves and become judges with evil thoughts?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.5",
+      "edition_verse_id": "BSB:JAS.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Listen, my beloved brothers: Has not God chosen the poor of this world to be rich in faith and to inherit the kingdom He promised those who love Him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.6",
+      "edition_verse_id": "BSB:JAS.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But you have dishonored the poor. Is it not the rich who oppress you and drag you into court?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.7",
+      "edition_verse_id": "BSB:JAS.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Are they not the ones who blaspheme the noble name by which you have been called?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.8",
+      "edition_verse_id": "BSB:JAS.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If you really fulfill the royal law stated in Scripture, “Love your neighbor as yourself,” you are doing well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.9",
+      "edition_verse_id": "BSB:JAS.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But if you show favoritism, you sin and are convicted by the law as transgressors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.10",
+      "edition_verse_id": "BSB:JAS.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Whoever keeps the whole law but stumbles at just one point is guilty of breaking all of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.11",
+      "edition_verse_id": "BSB:JAS.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For He who said, “Do not commit adultery,” also said, “Do not murder.” If you do not commit adultery, but do commit murder, you have become a lawbreaker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.12",
+      "edition_verse_id": "BSB:JAS.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Speak and act as those who are going to be judged by the law that gives freedom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.13",
+      "edition_verse_id": "BSB:JAS.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.14",
+      "edition_verse_id": "BSB:JAS.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "What good is it, my brothers, if someone claims to have faith, but has no deeds? Can such faith save him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.15",
+      "edition_verse_id": "BSB:JAS.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Suppose a brother or sister is without clothes and daily food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.16",
+      "edition_verse_id": "BSB:JAS.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If one of you tells him, “Go in peace; stay warm and well fed,” but does not provide for his physical needs, what good is that?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.17",
+      "edition_verse_id": "BSB:JAS.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So too, faith by itself, if it does not result in action, is dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.18",
+      "edition_verse_id": "BSB:JAS.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But someone will say, “You have faith and I have deeds.” Show me your faith without deeds, and I will show you my faith by my deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.19",
+      "edition_verse_id": "BSB:JAS.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You believe that God is one. Good for you! Even the demons believe that — and shudder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.20",
+      "edition_verse_id": "BSB:JAS.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "O foolish man, do you want evidence that faith without deeds is worthless?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.21",
+      "edition_verse_id": "BSB:JAS.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Was not our father Abraham justified by what he did when he offered his son Isaac on the altar?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.22",
+      "edition_verse_id": "BSB:JAS.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "You see that his faith was working with his actions, and his faith was perfected by what he did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.23",
+      "edition_verse_id": "BSB:JAS.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.24",
+      "edition_verse_id": "BSB:JAS.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "As you can see, a man is justified by his deeds and not by faith alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.2.25",
+      "edition_verse_id": "BSB:JAS.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In the same way, was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.2.26",
+      "edition_verse_id": "BSB:JAS.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "As the body without the spirit is dead, so faith without deeds is dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 62,
+  "verses": [
+    {
+      "id": "ISA.62.1",
+      "edition_verse_id": "BSB:ISA.62.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not keep still, until her righteousness shines like a bright light, her salvation like a blazing torch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.62.2",
+      "edition_verse_id": "BSB:ISA.62.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Nations will see your righteousness, and all kings your glory. You will be called by a new name that the mouth of the LORD will bestow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.3",
+      "edition_verse_id": "BSB:ISA.62.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You will be a crown of glory in the hand of the LORD, a royal diadem in the palm of your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.4",
+      "edition_verse_id": "BSB:ISA.62.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "No longer will you be called Forsaken, nor your land named Desolate; but you will be called Hephzibah, and your land Beulah; for the LORD will take delight in you, and your land will be His bride.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.5",
+      "edition_verse_id": "BSB:ISA.62.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For as a young man marries a young woman, so your sons will marry you; and as a bridegroom rejoices over his bride, so your God will rejoice over you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.6",
+      "edition_verse_id": "BSB:ISA.62.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "On your walls, O Jerusalem, I have posted watchmen; they will never be silent day or night. You who call on the LORD shall take no rest for yourselves,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.7",
+      "edition_verse_id": "BSB:ISA.62.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "nor give Him any rest until He establishes Jerusalem and makes her the praise of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.8",
+      "edition_verse_id": "BSB:ISA.62.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD has sworn by His right hand and by His mighty arm: “Never again will I give your grain to your enemies for food, nor will foreigners drink the new wine for which you have toiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.9",
+      "edition_verse_id": "BSB:ISA.62.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For those who harvest grain will eat it and praise the LORD, and those who gather grapes will drink the wine in My holy courts.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.10",
+      "edition_verse_id": "BSB:ISA.62.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Go out, go out through the gates; prepare the way for the people! Build it up, build up the highway; clear away the stones; raise a banner for the nations!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.11",
+      "edition_verse_id": "BSB:ISA.62.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Behold, the LORD has proclaimed to the ends of the earth, “Say to Daughter Zion: See, your Savior comes! Look, His reward is with Him, and His recompense goes before Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.62.12",
+      "edition_verse_id": "BSB:ISA.62.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they will be called the Holy People, the Redeemed of The LORD; and you will be called Sought Out, A City Not Forsaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

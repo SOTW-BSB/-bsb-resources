@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "JER.19.1",
+      "edition_verse_id": "BSB:JER.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is what the LORD says: “Go and buy a clay jar from a potter. Take some of the elders of the people and leaders of the priests,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.19.2",
+      "edition_verse_id": "BSB:JER.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and go out to the Valley of Ben-hinnom near the entrance of the Potsherd Gate. Proclaim there the words I speak to you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.19.3",
+      "edition_verse_id": "BSB:JER.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "saying, ‘Hear the word of the LORD, O kings of Judah and residents of Jerusalem. This is what the LORD of Hosts, the God of Israel, says: I am going to bring such disaster on this place that the ears of all who hear of it will ring,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.19.4",
+      "edition_verse_id": "BSB:JER.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "because they have abandoned Me and made this a foreign place. They have burned incense in this place to other gods that neither they nor their fathers nor the kings of Judah have ever known. They have filled this place with the blood of the innocent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.19.5",
+      "edition_verse_id": "BSB:JER.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They have built high places to Baal on which to burn their children in the fire as offerings to Baal — something I never commanded or mentioned, nor did it even enter My mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.19.6",
+      "edition_verse_id": "BSB:JER.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So behold, the days are coming, declares the LORD, when this place will no longer be called Topheth or the Valley of Ben-hinnom, but the Valley of Slaughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.19.7",
+      "edition_verse_id": "BSB:JER.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And in this place I will ruin the plans of Judah and Jerusalem. I will make them fall by the sword before their enemies, by the hands of those who seek their lives, and I will give their carcasses as food to the birds of the air and the beasts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.19.8",
+      "edition_verse_id": "BSB:JER.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will make this city a desolation and an object of scorn. All who pass by will be appalled and will scoff at all her wounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.19.9",
+      "edition_verse_id": "BSB:JER.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will make them eat the flesh of their sons and daughters, and they will eat one another’s flesh in the siege and distress inflicted on them by their enemies who seek their lives.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.19.10",
+      "edition_verse_id": "BSB:JER.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then you are to shatter the jar in the presence of the men who accompany you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.19.11",
+      "edition_verse_id": "BSB:JER.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and you are to proclaim to them that this is what the LORD of Hosts says: I will shatter this nation and this city, like one shatters a potter’s jar that can never again be repaired. They will bury the dead in Topheth until there is no more room to bury them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.19.12",
+      "edition_verse_id": "BSB:JER.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "This is what I will do to this place and to its residents, declares the LORD. I will make this city like Topheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.19.13",
+      "edition_verse_id": "BSB:JER.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The houses of Jerusalem and the houses of the kings of Judah will be defiled like that place, Topheth— all the houses on whose rooftops they burned incense to all the host of heaven and poured out drink offerings to other gods.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.19.14",
+      "edition_verse_id": "BSB:JER.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Jeremiah returned from Topheth, where the LORD had sent him to prophesy, and he stood in the courtyard of the house of the LORD and proclaimed to all the people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.19.15",
+      "edition_verse_id": "BSB:JER.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“This is what the LORD of Hosts, the God of Israel, says: ‘Behold, I am about to bring on this city and on all the villages around it every disaster I have pronounced against them, because they have stiffened their necks so as not to heed My words.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

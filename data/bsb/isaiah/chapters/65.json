@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 65,
+  "verses": [
+    {
+      "id": "ISA.65.1",
+      "edition_verse_id": "BSB:ISA.65.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“I revealed Myself to those who did not ask for Me; I was found by those who did not seek Me. To a nation that did not call My name, I said, ‘Here I am! Here I am!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.65.2",
+      "edition_verse_id": "BSB:ISA.65.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "All day long I have held out My hands to an obstinate people who walk in the wrong path, who follow their own imaginations,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.3",
+      "edition_verse_id": "BSB:ISA.65.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "to a people who continually provoke Me to My face, sacrificing in the gardens and burning incense on altars of brick,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.4",
+      "edition_verse_id": "BSB:ISA.65.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "sitting among the graves, spending nights in secret places, eating the meat of pigs and polluted broth from their bowls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.5",
+      "edition_verse_id": "BSB:ISA.65.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They say, ‘Keep to yourself; do not come near me, for I am holier than you!’ Such people are smoke in My nostrils, a fire that burns all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.6",
+      "edition_verse_id": "BSB:ISA.65.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Behold, it is written before Me: I will not keep silent, but I will repay; I will pay it back into their laps,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.7",
+      "edition_verse_id": "BSB:ISA.65.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "both for your iniquities and for those of your fathers,” says the LORD. “Because they burned incense on the mountains and scorned Me on the hills, I will measure into their laps full payment for their former deeds.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.8",
+      "edition_verse_id": "BSB:ISA.65.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "This is what the LORD says: “As the new wine is found in a cluster of grapes, and men say, ‘Do not destroy it, for it contains a blessing,’ so I will act on behalf of My servants; I will not destroy them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.65.9",
+      "edition_verse_id": "BSB:ISA.65.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And I will bring forth descendants from Jacob, and heirs from Judah; My elect will possess My mountains, and My servants will dwell there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.10",
+      "edition_verse_id": "BSB:ISA.65.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Sharon will become a pasture for flocks, and the Valley of Achor a resting place for herds, for My people who seek Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.11",
+      "edition_verse_id": "BSB:ISA.65.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But you who forsake the LORD, who forget My holy mountain, who set a table for Fortune and fill bowls of mixed wine for Destiny,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.12",
+      "edition_verse_id": "BSB:ISA.65.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will destine you for the sword, and you will all kneel down to be slaughtered, because I called and you did not answer, I spoke and you did not listen; you did evil in My sight and chose that in which I did not delight.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.13",
+      "edition_verse_id": "BSB:ISA.65.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: “My servants will eat, but you will go hungry; My servants will drink, but you will go thirsty; My servants will rejoice, but you will be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.65.14",
+      "edition_verse_id": "BSB:ISA.65.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "My servants will shout for joy with a glad heart, but you will cry out with a heavy heart and wail with a broken spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.15",
+      "edition_verse_id": "BSB:ISA.65.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You will leave behind your name as a curse for My chosen ones, and the Lord GOD will slay you; but to His servants He will give another name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.16",
+      "edition_verse_id": "BSB:ISA.65.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Whoever invokes a blessing in the land will do so by the God of truth, and whoever takes an oath in the land will swear by the God of truth. For the former troubles will be forgotten and hidden from My sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.17",
+      "edition_verse_id": "BSB:ISA.65.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.18",
+      "edition_verse_id": "BSB:ISA.65.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But be glad and rejoice forever in what I create; for I will create Jerusalem to be a joy and its people to be a delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.19",
+      "edition_verse_id": "BSB:ISA.65.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I will rejoice in Jerusalem and take delight in My people. The sounds of weeping and crying will no longer be heard in her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.20",
+      "edition_verse_id": "BSB:ISA.65.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "No longer will a nursing infant live but a few days, or an old man fail to live out his years. For the youth will die at a hundred years, and he who fails to reach a hundred will be considered accursed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.21",
+      "edition_verse_id": "BSB:ISA.65.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They will build houses and dwell in them; they will plant vineyards and eat their fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.22",
+      "edition_verse_id": "BSB:ISA.65.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "No longer will they build houses for others to inhabit, nor plant for others to eat. For as is the lifetime of a tree, so will be the days of My people, and My chosen ones will fully enjoy the work of their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.23",
+      "edition_verse_id": "BSB:ISA.65.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "They will not labor in vain or bear children doomed to disaster; for they will be a people blessed by the LORD — they and their descendants with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.24",
+      "edition_verse_id": "BSB:ISA.65.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Even before they call, I will answer, and while they are still speaking, I will hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.65.25",
+      "edition_verse_id": "BSB:ISA.65.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The wolf and the lamb will feed together, and the lion will eat straw like the ox, but the food of the serpent will be dust. They will neither harm nor destroy on all My holy mountain,” says the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

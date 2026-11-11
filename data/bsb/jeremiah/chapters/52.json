@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 52,
+  "verses": [
+    {
+      "id": "JER.52.1",
+      "edition_verse_id": "BSB:JER.52.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.2",
+      "edition_verse_id": "BSB:JER.52.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Zedekiah did evil in the sight of the LORD, just as Jehoiakim had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.3",
+      "edition_verse_id": "BSB:JER.52.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For because of the anger of the LORD, all this happened in Jerusalem and Judah, until He finally banished them from His presence. And Zedekiah also rebelled against the king of Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.4",
+      "edition_verse_id": "BSB:JER.52.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.5",
+      "edition_verse_id": "BSB:JER.52.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the city was kept under siege until King Zedekiah’s eleventh year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.6",
+      "edition_verse_id": "BSB:JER.52.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "By the ninth day of the fourth month, the famine in the city was so severe that the people of the land had no food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.7",
+      "edition_verse_id": "BSB:JER.52.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then the city was breached; and though the Chaldeans had surrounded the city, all the men of war fled the city by night by way of the gate between the two walls near the king’s garden. They headed toward the Arabah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.8",
+      "edition_verse_id": "BSB:JER.52.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "but the army of the Chaldeans pursued the king and overtook Zedekiah in the plains of Jericho, and his whole army deserted him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.9",
+      "edition_verse_id": "BSB:JER.52.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The Chaldeans seized the king and brought him up to the king of Babylon at Riblah in the land of Hamath, where he pronounced judgment on Zedekiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.10",
+      "edition_verse_id": "BSB:JER.52.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes, and he also killed all the officials of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.11",
+      "edition_verse_id": "BSB:JER.52.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then he put out Zedekiah’s eyes, bound him with bronze shackles, and took him to Babylon, where he kept him in custody until his dying day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.12",
+      "edition_verse_id": "BSB:JER.52.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.13",
+      "edition_verse_id": "BSB:JER.52.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He burned down the house of the LORD, the royal palace, and all the houses of Jerusalem — every significant building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.14",
+      "edition_verse_id": "BSB:JER.52.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the whole army of the Chaldeans under the captain of the guard broke down all the walls around Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.15",
+      "edition_verse_id": "BSB:JER.52.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then Nebuzaradan captain of the guard carried into exile some of the poorest people and those who remained in the city, along with the deserters who had defected to the king of Babylon and the rest of the craftsmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.16",
+      "edition_verse_id": "BSB:JER.52.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But Nebuzaradan captain of the guard left behind some of the poorest of the land to tend the vineyards and fields.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.17",
+      "edition_verse_id": "BSB:JER.52.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Moreover, the Chaldeans broke up the bronze pillars and stands and the bronze Sea in the house of the LORD, and they carried all the bronze to Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.18",
+      "edition_verse_id": "BSB:JER.52.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They also took away the pots, shovels, wick trimmers, sprinkling bowls, dishes, and all the articles of bronze used in the temple service.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.19",
+      "edition_verse_id": "BSB:JER.52.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The captain of the guard also took away the basins, censers, sprinkling bowls, pots, lampstands, pans, and drink offering bowls— anything made of pure gold or fine silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.20",
+      "edition_verse_id": "BSB:JER.52.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "As for the two pillars, the Sea, the twelve bronze bulls under it, and the movable stands that King Solomon had made for the house of the LORD, the weight of the bronze from all these articles was beyond measure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.21",
+      "edition_verse_id": "BSB:JER.52.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Each pillar was eighteen cubits tall and twelve cubits in circumference; each was hollow, four fingers thick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.22",
+      "edition_verse_id": "BSB:JER.52.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The bronze capital atop one pillar was five cubits high, with a network of bronze pomegranates all around. The second pillar, with its pomegranates, was similar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.23",
+      "edition_verse_id": "BSB:JER.52.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Each capital had ninety-six pomegranates on the sides, and a total of a hundred pomegranates were above the surrounding network.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.24",
+      "edition_verse_id": "BSB:JER.52.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The captain of the guard also took away Seraiah the chief priest, Zephaniah the priest of second rank, and the three doorkeepers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.25",
+      "edition_verse_id": "BSB:JER.52.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Of those still in the city, he took a court official who had been appointed over the men of war, as well as seven trusted royal advisers. He also took the scribe of the captain of the army, who had enlisted the people of the land, and sixty men who were found in the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.26",
+      "edition_verse_id": "BSB:JER.52.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Nebuzaradan captain of the guard took them and brought them to the king of Babylon at Riblah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.27",
+      "edition_verse_id": "BSB:JER.52.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "There at Riblah in the land of Hamath, the king of Babylon struck them down and put them to death. So Judah was taken into exile, away from its own land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.28",
+      "edition_verse_id": "BSB:JER.52.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "These are the people Nebuchadnezzar carried away: in the seventh year, 3,023 Jews;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.29",
+      "edition_verse_id": "BSB:JER.52.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "in Nebuchadnezzar’s eighteenth year, 832 people from Jerusalem;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.30",
+      "edition_verse_id": "BSB:JER.52.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "in Nebuchadnezzar’s twenty-third year, Nebuzaradan captain of the guard carried away 745 Jews. So in all, 4,600 people were taken away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.31",
+      "edition_verse_id": "BSB:JER.52.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "On the twenty-fifth day of the twelfth month of the thirty-seventh year of the exile of Jehoiachin king of Judah, in the first year of the reign of Evil-merodach king of Babylon, he pardoned Jehoiachin king of Judah and released him from prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.32",
+      "edition_verse_id": "BSB:JER.52.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And he spoke kindly to Jehoiachin and set his throne above the thrones of the other kings who were with him in Babylon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.52.33",
+      "edition_verse_id": "BSB:JER.52.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So Jehoiachin changed out of his prison clothes, and he dined regularly at the king’s table for the rest of his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.52.34",
+      "edition_verse_id": "BSB:JER.52.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the king of Babylon provided Jehoiachin a daily portion for the rest of his life, until the day of his death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

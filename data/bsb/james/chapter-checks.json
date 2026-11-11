@@ -1,0 +1,38 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JAS",
+  "chapter_count": 5,
+  "verse_count": 108,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 27,
+      "omitted_from_main_text": [],
+      "sha256": "708427a86f8de46cda97893dcf305a53028edb631e7c98d77aea1cbd52f313fe"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 26,
+      "omitted_from_main_text": [],
+      "sha256": "9084436041b654b812e1f64a0d0aece4ec1a57fe74b1bc1ef0284c0586ff3104"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "99acfd8cd5c4ec21a91fac72ed9230491092e4e67c157bd34933b578f099363b"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "27680ee520d766f0e26ee97c75e47b62b1228ec053a2b453a3db42c561a79c62"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "d38f5542eaf5c82ee2152b4dc0961ad103ca58973327dcd0575b30fe1d8af5fd"
+    }
+  ]
+}

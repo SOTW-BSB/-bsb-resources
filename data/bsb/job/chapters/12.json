@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "JOB.12.1",
+      "edition_verse_id": "BSB:JOB.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.12.2",
+      "edition_verse_id": "BSB:JOB.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Truly then you are the people with whom wisdom itself will die!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.3",
+      "edition_verse_id": "BSB:JOB.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But I also have a mind; I am not inferior to you. Who does not know such things as these?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.4",
+      "edition_verse_id": "BSB:JOB.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I am a laughingstock to my friends, though I called on God, and He answered. The righteous and upright man is a laughingstock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.5",
+      "edition_verse_id": "BSB:JOB.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The one at ease scorns misfortune as the fate of those whose feet are slipping.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.6",
+      "edition_verse_id": "BSB:JOB.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The tents of robbers are safe, and those who provoke God are secure — those who carry their god in their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.7",
+      "edition_verse_id": "BSB:JOB.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But ask the animals, and they will instruct you; ask the birds of the air, and they will tell you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.8",
+      "edition_verse_id": "BSB:JOB.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Or speak to the earth, and it will teach you; let the fish of the sea inform you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.9",
+      "edition_verse_id": "BSB:JOB.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Which of all these does not know that the hand of the LORD has done this?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.10",
+      "edition_verse_id": "BSB:JOB.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The life of every living thing is in His hand, as well as the breath of all mankind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.11",
+      "edition_verse_id": "BSB:JOB.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Does not the ear test words as the tongue tastes its food?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.12",
+      "edition_verse_id": "BSB:JOB.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Wisdom is found with the elderly, and understanding comes with long life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.13",
+      "edition_verse_id": "BSB:JOB.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Wisdom and strength belong to God; counsel and understanding are His.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.14",
+      "edition_verse_id": "BSB:JOB.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "What He tears down cannot be rebuilt; the man He imprisons cannot be released.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.15",
+      "edition_verse_id": "BSB:JOB.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If He holds back the waters, they dry up, and if He releases them, they overwhelm the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.16",
+      "edition_verse_id": "BSB:JOB.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "True wisdom and power belong to Him. The deceived and the deceiver are His.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.17",
+      "edition_verse_id": "BSB:JOB.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He leads counselors away barefoot and makes fools of judges.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.18",
+      "edition_verse_id": "BSB:JOB.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He loosens the bonds placed by kings and fastens a belt around their waists.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.19",
+      "edition_verse_id": "BSB:JOB.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He leads priests away barefoot and overthrows the established.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.20",
+      "edition_verse_id": "BSB:JOB.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He deprives the trusted of speech and takes away the discernment of elders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.21",
+      "edition_verse_id": "BSB:JOB.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He pours out contempt on nobles and disarms the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.22",
+      "edition_verse_id": "BSB:JOB.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He reveals the deep things of darkness and brings deep shadows into light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.23",
+      "edition_verse_id": "BSB:JOB.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He makes nations great and destroys them; He enlarges nations, then disperses them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.24",
+      "edition_verse_id": "BSB:JOB.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He deprives the earth’s leaders of reason and makes them wander in a trackless wasteland.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.12.25",
+      "edition_verse_id": "BSB:JOB.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "They grope in the darkness without light; He makes them stagger like drunkards.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "JER.1.1",
+      "edition_verse_id": "BSB:JER.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These are the words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the territory of Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.2",
+      "edition_verse_id": "BSB:JER.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The word of the LORD came to Jeremiah in the thirteenth year of the reign of Josiah son of Amon king of Judah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.3",
+      "edition_verse_id": "BSB:JER.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and through the days of Jehoiakim son of Josiah king of Judah, until the fifth month of the eleventh year of Zedekiah son of Josiah king of Judah, when the people of Jerusalem went into exile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.1.4",
+      "edition_verse_id": "BSB:JER.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The word of the LORD came to me, saying:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.5",
+      "edition_verse_id": "BSB:JER.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Before I formed you in the womb I knew you, and before you were born I set you apart and appointed you as a prophet to the nations.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.1.6",
+      "edition_verse_id": "BSB:JER.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Ah, Lord GOD,” I said, “I surely do not know how to speak, for I am only a child!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.7",
+      "edition_verse_id": "BSB:JER.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the LORD told me: “Do not say, ‘I am only a child.’ For to everyone I send you, you must go, and all that I command you, you must speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.8",
+      "edition_verse_id": "BSB:JER.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Do not be afraid of them, for I am with you to deliver you,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.1.9",
+      "edition_verse_id": "BSB:JER.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the LORD reached out His hand, touched my mouth, and said to me: “Behold, I have put My words in your mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.10",
+      "edition_verse_id": "BSB:JER.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "See, I have appointed you today over nations and kingdoms to uproot and tear down, to destroy and overthrow, to build and plant.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.1.11",
+      "edition_verse_id": "BSB:JER.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the word of the LORD came to me, asking, “Jeremiah, what do you see?” “I see a branch of an almond tree,” I replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.12",
+      "edition_verse_id": "BSB:JER.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“You have observed correctly,” said the LORD, “for I am watching over My word to accomplish it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.13",
+      "edition_verse_id": "BSB:JER.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Again the word of the LORD came to me, asking, “What do you see?” “I see a boiling pot,” I replied, “and it is tilting toward us from the north.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.14",
+      "edition_verse_id": "BSB:JER.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then the LORD said to me, “Disaster from the north will be poured out on all who live in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.15",
+      "edition_verse_id": "BSB:JER.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For I am about to summon all the clans and kingdoms of the north,” declares the LORD. “Their kings will come and set up their thrones at the entrance of the gates of Jerusalem. They will attack all her surrounding walls and all the other cities of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.1.16",
+      "edition_verse_id": "BSB:JER.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I will pronounce My judgments against them for all their wickedness, because they have forsaken Me, and they have burned incense to other gods and worshiped the works of their own hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.1.17",
+      "edition_verse_id": "BSB:JER.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Get yourself ready. Stand up and tell them everything that I command you. Do not be intimidated by them, or I will terrify you before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.1.18",
+      "edition_verse_id": "BSB:JER.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now behold, this day I have made you like a fortified city, an iron pillar, and bronze walls against the whole land— against the kings of Judah, its officials, its priests, and the people of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.1.19",
+      "edition_verse_id": "BSB:JER.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They will fight against you but will never overcome you, since I am with you to deliver you,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

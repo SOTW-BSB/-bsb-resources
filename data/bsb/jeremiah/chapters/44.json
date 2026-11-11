@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 44,
+  "verses": [
+    {
+      "id": "JER.44.1",
+      "edition_verse_id": "BSB:JER.44.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the word that came to Jeremiah concerning all the Jews living in the land of Egypt— in Migdol, Tahpanhes, and Memphis— and in the land of Pathros:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.2",
+      "edition_verse_id": "BSB:JER.44.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“This is what the LORD of Hosts, the God of Israel, says: You have seen all the disaster that I brought against Jerusalem and all the cities of Judah; and behold, they lie today in ruins and desolation",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.3",
+      "edition_verse_id": "BSB:JER.44.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "because of the evil they have done. They provoked Me to anger by continuing to burn incense and to serve other gods that neither they nor you nor your fathers ever knew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.4",
+      "edition_verse_id": "BSB:JER.44.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Yet I sent you all My servants the prophets again and again, saying: ‘Do not do this detestable thing that I hate.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.5",
+      "edition_verse_id": "BSB:JER.44.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But they did not listen or incline their ears; they did not turn from their wickedness or stop burning incense to other gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.6",
+      "edition_verse_id": "BSB:JER.44.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore My wrath and anger poured out and burned in the cities of Judah and in the streets of Jerusalem, so that they have become the desolate ruin they are today.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.7",
+      "edition_verse_id": "BSB:JER.44.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So now, this is what the LORD God of Hosts, the God of Israel, says: Why are you doing such great harm to yourselves by cutting off from Judah man and woman, child and infant, leaving yourselves without a remnant?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.8",
+      "edition_verse_id": "BSB:JER.44.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Why are you provoking Me to anger by the work of your hands by burning incense to other gods in the land of Egypt, where you have gone to reside? As a result, you will be cut off and will become an object of cursing and reproach among all the nations of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.9",
+      "edition_verse_id": "BSB:JER.44.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Have you forgotten the wickedness of your fathers and of the kings of Judah and their wives, as well as the wickedness that you and your wives committed in the land of Judah and in the streets of Jerusalem?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.10",
+      "edition_verse_id": "BSB:JER.44.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "To this day they have not humbled themselves or shown reverence, nor have they followed My instruction or the statutes that I set before you and your fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.11",
+      "edition_verse_id": "BSB:JER.44.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD of Hosts, the God of Israel, says: I will set My face to bring disaster and to cut off all Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.12",
+      "edition_verse_id": "BSB:JER.44.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I will take away the remnant of Judah who have resolved to go to the land of Egypt to reside there; they will meet their end. They will all fall by the sword or be consumed by famine. From the least to the greatest, they will die by sword or famine; and they will become an object of cursing and horror, of vilification and reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.13",
+      "edition_verse_id": "BSB:JER.44.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I will punish those who live in the land of Egypt, just as I punished Jerusalem, by sword and famine and plague,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.14",
+      "edition_verse_id": "BSB:JER.44.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "so that none of the remnant of Judah who have gone to reside in Egypt will escape or survive to return to the land of Judah, where they long to return and live; for none will return except a few fugitives.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.15",
+      "edition_verse_id": "BSB:JER.44.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then all the men who knew that their wives were burning incense to other gods, and all the women standing by— a great assembly— along with all the people living in the land of Egypt and in Pathros, said to Jeremiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.16",
+      "edition_verse_id": "BSB:JER.44.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“As for the word you have spoken to us in the name of the LORD, we will not listen to you!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.17",
+      "edition_verse_id": "BSB:JER.44.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Instead, we will do everything we vowed to do: We will burn incense to the Queen of Heaven and offer drink offerings to her, just as we, our fathers, our kings, and our officials did in the cities of Judah and in the streets of Jerusalem. At that time we had plenty of food and good things, and we saw no disaster.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.18",
+      "edition_verse_id": "BSB:JER.44.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But from the time we stopped burning incense to the Queen of Heaven and pouring out drink offerings to her, we have lacked everything and have been perishing by sword and famine.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.19",
+      "edition_verse_id": "BSB:JER.44.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“Moreover,” said the women, “when we burned incense to the Queen of Heaven and poured out drink offerings to her, was it without our husbands’ knowledge that we made sacrificial cakes in her image and poured out drink offerings to her?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.20",
+      "edition_verse_id": "BSB:JER.44.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Jeremiah said to all the people, both men and women, who were answering him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.21",
+      "edition_verse_id": "BSB:JER.44.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“As for the incense you burned in the cities of Judah and in the streets of Jerusalem— you, your fathers, your kings, your officials, and the people of the land— did the LORD not remember and bring this to mind?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.22",
+      "edition_verse_id": "BSB:JER.44.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So the LORD could no longer endure the evil deeds and detestable acts you committed, and your land became a desolation, a horror, and an object of cursing, without inhabitant, as it is this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.23",
+      "edition_verse_id": "BSB:JER.44.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Because you burned incense and sinned against the LORD and did not obey the voice of the LORD or walk in His instruction, His statutes, and His testimonies, this disaster has befallen you, as you see today.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.24",
+      "edition_verse_id": "BSB:JER.44.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then Jeremiah said to all the people, including all the women, “Hear the word of the LORD, all those of Judah who are in the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.25",
+      "edition_verse_id": "BSB:JER.44.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "This is what the LORD of Hosts, the God of Israel, says: As for you and your wives, you have spoken with your mouths and fulfilled with your hands your words: ‘We will surely perform our vows that we have made to burn incense to the Queen of Heaven and to pour out drink offerings to her.’ Go ahead, then, do what you have promised! Keep your vows!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.44.26",
+      "edition_verse_id": "BSB:JER.44.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Nevertheless, hear the word of the LORD, all you people of Judah living in Egypt: Behold, I have sworn by My great name, says the LORD, that never again will any man of Judah living in the land of Egypt invoke My name or say, ‘As surely as the Lord GOD lives.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.27",
+      "edition_verse_id": "BSB:JER.44.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "I am watching over them for harm and not for good, and every man of Judah who is in the land of Egypt will meet his end by sword or famine, until they are finished off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.28",
+      "edition_verse_id": "BSB:JER.44.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Those who escape the sword will return from Egypt to Judah, few in number, and the whole remnant of Judah who went to dwell in the land of Egypt will know whose word will stand, Mine or theirs!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.29",
+      "edition_verse_id": "BSB:JER.44.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This will be a sign to you that I will punish you in this place, declares the LORD, so that you may know that My threats of harm against you will surely stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.44.30",
+      "edition_verse_id": "BSB:JER.44.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "This is what the LORD says: Behold, I will deliver Pharaoh Hophra king of Egypt into the hands of his enemies who seek his life, just as I delivered Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, the enemy who was seeking his life.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

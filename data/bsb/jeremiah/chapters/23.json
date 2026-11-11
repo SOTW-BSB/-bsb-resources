@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "JER.23.1",
+      "edition_verse_id": "BSB:JER.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Woe to the shepherds who destroy and scatter the sheep of My pasture!” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.2",
+      "edition_verse_id": "BSB:JER.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD, the God of Israel, says about the shepherds who tend My people: “You have scattered My flock and driven them away, and have not attended to them. Behold, I will attend to you for the evil of your deeds, declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.3",
+      "edition_verse_id": "BSB:JER.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then I Myself will gather the remnant of My flock from all the lands to which I have banished them, and I will return them to their pasture, where they will be fruitful and multiply.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.4",
+      "edition_verse_id": "BSB:JER.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will raise up shepherds over them who will tend them, and they will no longer be afraid or dismayed, nor will any go missing, declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.5",
+      "edition_verse_id": "BSB:JER.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold, the days are coming, declares the LORD, when I will raise up for David a righteous Branch, and He will reign wisely as King and will administer justice and righteousness in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.6",
+      "edition_verse_id": "BSB:JER.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In His days Judah will be saved, and Israel will dwell securely. And this is His name by which He will be called: The LORD Our Righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.7",
+      "edition_verse_id": "BSB:JER.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So behold, the days are coming, declares the LORD, when they will no longer say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of Egypt.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.8",
+      "edition_verse_id": "BSB:JER.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Instead they will say, ‘As surely as the LORD lives, who brought and led the descendants of the house of Israel up out of the land of the north and all the other lands to which He had banished them.’ Then they will dwell once more in their own land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.9",
+      "edition_verse_id": "BSB:JER.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As for the prophets: My heart is broken within me, and all my bones tremble. I have become like a drunkard, like a man overcome by wine, because of the LORD, because of His holy words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.10",
+      "edition_verse_id": "BSB:JER.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the land is full of adulterers — because of the curse, the land mourns and the pastures of the wilderness have dried up — their course is evil and their power is misused.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.11",
+      "edition_verse_id": "BSB:JER.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“For both prophet and priest are ungodly; even in My house I have found their wickedness,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.12",
+      "edition_verse_id": "BSB:JER.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Therefore their path will become slick; they will be driven away into the darkness and fall into it. For I will bring disaster upon them in the year of their punishment,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.13",
+      "edition_verse_id": "BSB:JER.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "“Among the prophets of Samaria I saw an offensive thing: They prophesied by Baal and led My people Israel astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.14",
+      "edition_verse_id": "BSB:JER.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And among the prophets of Jerusalem I have seen a horrible thing: They commit adultery and walk in lies. They strengthen the hands of evildoers, so that no one turns his back on wickedness. They are all like Sodom to Me; the people of Jerusalem are like Gomorrah.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.15",
+      "edition_verse_id": "BSB:JER.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD of Hosts says concerning the prophets: “I will feed them wormwood and give them poisoned water to drink, for from the prophets of Jerusalem ungodliness has spread throughout the land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.16",
+      "edition_verse_id": "BSB:JER.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "This is what the LORD of Hosts says: “Do not listen to the words of the prophets who prophesy to you. They are filling you with false hopes. They speak visions from their own minds, not from the mouth of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.17",
+      "edition_verse_id": "BSB:JER.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They keep saying to those who despise Me, ‘The LORD says that you will have peace,’ and to everyone who walks in the stubbornness of his own heart, ‘No harm will come to you.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.18",
+      "edition_verse_id": "BSB:JER.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But which of them has stood in the council of the LORD to see and hear His word? Who has given heed to His word and obeyed it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.19",
+      "edition_verse_id": "BSB:JER.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Behold, the storm of the LORD has gone out with fury, a whirlwind swirling down upon the heads of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.20",
+      "edition_verse_id": "BSB:JER.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The anger of the LORD will not turn back until He has fully accomplished the purposes of His heart. In the days to come you will understand this clearly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.21",
+      "edition_verse_id": "BSB:JER.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I did not send these prophets, yet they have run with their message; I did not speak to them, yet they have prophesied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.22",
+      "edition_verse_id": "BSB:JER.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But if they had stood in My council, they would have proclaimed My words to My people and turned them back from their evil ways and deeds.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.23",
+      "edition_verse_id": "BSB:JER.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“Am I only a God nearby,” declares the LORD, “and not a God far away?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.24",
+      "edition_verse_id": "BSB:JER.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“Can a man hide in secret places where I cannot see him?” declares the LORD. “Do I not fill the heavens and the earth?” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.25",
+      "edition_verse_id": "BSB:JER.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "“I have heard the sayings of the prophets who prophesy lies in My name: ‘I had a dream! I had a dream!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.26",
+      "edition_verse_id": "BSB:JER.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "How long will this continue in the hearts of these prophets who prophesy falsehood, these prophets of the delusion of their own minds?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.27",
+      "edition_verse_id": "BSB:JER.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They suppose the dreams that they tell one another will make My people forget My name, just as their fathers forgot My name through the worship of Baal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.28",
+      "edition_verse_id": "BSB:JER.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Let the prophet who has a dream retell it, but let him who has My word speak it truthfully. For what is straw compared to grain?” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.29",
+      "edition_verse_id": "BSB:JER.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“Is not My word like fire,” declares the LORD, “and like a hammer that smashes a rock?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.30",
+      "edition_verse_id": "BSB:JER.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "“Therefore behold,” declares the LORD, “I am against the prophets who steal from one another words they attribute to Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.31",
+      "edition_verse_id": "BSB:JER.23.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "“Yes,” declares the LORD, “I am against the prophets who wag their own tongues and proclaim, ‘The LORD declares it.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.32",
+      "edition_verse_id": "BSB:JER.23.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "“Indeed,” declares the LORD, “I am against those who prophesy false dreams and retell them to lead My people astray with their reckless lies. It was not I who sent them or commanded them, and they are of no benefit at all to these people,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.33",
+      "edition_verse_id": "BSB:JER.23.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "“Now when this people or a prophet or priest asks you, ‘What is the burden of the LORD?’ you are to say to them, ‘What burden? I will forsake you, declares the LORD.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.34",
+      "edition_verse_id": "BSB:JER.23.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "As for the prophet or priest or anyone who claims, ‘This is the burden of the LORD,’ I will punish that man and his household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.35",
+      "edition_verse_id": "BSB:JER.23.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "This is what each man is to say to his friend and to his brother: ‘What has the LORD answered?’ or ‘What has the LORD spoken?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.36",
+      "edition_verse_id": "BSB:JER.23.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But refer no more to the burden of the LORD, for each man’s word becomes the burden, so that you pervert the words of the living God, the LORD of Hosts, our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.37",
+      "edition_verse_id": "BSB:JER.23.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Thus you are to say to the prophet: ‘What has the LORD answered you?’ and ‘What has the LORD spoken?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.38",
+      "edition_verse_id": "BSB:JER.23.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But if you claim, ‘This is the burden of the LORD,’ then this is what the LORD says: Because you have said, ‘This is the burden of the LORD,’ and I specifically told you not to make this claim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.23.39",
+      "edition_verse_id": "BSB:JER.23.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "therefore I will surely forget you and will cast you out of My presence, both you and the city that I gave to you and your fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.23.40",
+      "edition_verse_id": "BSB:JER.23.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And I will bring upon you everlasting shame and perpetual humiliation that will never be forgotten.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

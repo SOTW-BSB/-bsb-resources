@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "JER.16.1",
+      "edition_verse_id": "BSB:JER.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.2",
+      "edition_verse_id": "BSB:JER.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“You must not marry or have sons or daughters in this place.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.3",
+      "edition_verse_id": "BSB:JER.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For this is what the LORD says concerning the sons and daughters born in this place, and the mothers who bore them, and the fathers who fathered them in this land:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.4",
+      "edition_verse_id": "BSB:JER.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“They will die from deadly diseases. They will not be mourned or buried, but will lie like dung on the ground. They will be finished off by sword and famine, and their corpses will become food for the birds of the air and beasts of the earth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.5",
+      "edition_verse_id": "BSB:JER.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Indeed, this is what the LORD says: “Do not enter a house where there is a funeral meal. Do not go to mourn or show sympathy, for I have removed from this people My peace, My loving devotion, and My compassion,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.6",
+      "edition_verse_id": "BSB:JER.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Both great and small will die in this land. They will not be buried or mourned, nor will anyone cut himself or shave his head for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.7",
+      "edition_verse_id": "BSB:JER.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "No food will be offered to comfort those who mourn the dead; not even a cup of consolation will be given for the loss of a father or mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.8",
+      "edition_verse_id": "BSB:JER.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You must not enter a house where there is feasting and sit down with them to eat and drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.9",
+      "edition_verse_id": "BSB:JER.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For this is what the LORD of Hosts, the God of Israel, says: I am going to remove from this place, before your very eyes and in your days, the sounds of joy and gladness, the voices of the bride and bridegroom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.10",
+      "edition_verse_id": "BSB:JER.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When you tell these people all these things, they will ask you, ‘Why has the LORD pronounced all this great disaster against us? What is our iniquity? What is the sin that we have committed against the LORD our God?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.11",
+      "edition_verse_id": "BSB:JER.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then you are to answer them: ‘It is because your fathers have forsaken Me, declares the LORD, and followed other gods, and served and worshiped them. They abandoned Me and did not keep My instruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.12",
+      "edition_verse_id": "BSB:JER.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And you have done more evil than your fathers. See how each of you follows the stubbornness of his evil heart instead of obeying Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.13",
+      "edition_verse_id": "BSB:JER.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So I will cast you out of this land into a land that neither you nor your fathers have known. There you will serve other gods day and night, for I will show you no favor.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.14",
+      "edition_verse_id": "BSB:JER.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Yet behold, the days are coming, declares the LORD, when they will no longer say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of Egypt.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.15",
+      "edition_verse_id": "BSB:JER.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Instead they will say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of the north and all the other lands to which He had banished them.’ For I will return them to their land that I gave to their forefathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.16",
+      "edition_verse_id": "BSB:JER.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But for now I will send for many fishermen, declares the LORD, and they will catch them. After that I will send for many hunters, and they will hunt them down on every mountain and hill, even from the clefts of the rocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.17",
+      "edition_verse_id": "BSB:JER.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For My eyes are on all their ways. They are not hidden from My face, and their guilt is not concealed from My eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.16.18",
+      "edition_verse_id": "BSB:JER.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And I will first repay them double their iniquity and their sin, because they have defiled My land with the carcasses of their detestable idols, and they have filled My inheritance with their abominations.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.19",
+      "edition_verse_id": "BSB:JER.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "O LORD, my strength and my fortress, my refuge in the day of distress, the nations will come to You from the ends of the earth, and they will say, “Our fathers inherited nothing but lies, worthless idols of no benefit at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.20",
+      "edition_verse_id": "BSB:JER.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Can man make gods for himself? Such are not gods!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.16.21",
+      "edition_verse_id": "BSB:JER.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Therefore behold, I will inform them, and this time I will make them know My power and My might; then they will know that My name is the LORD.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

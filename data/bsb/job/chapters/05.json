@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JOB.5.1",
+      "edition_verse_id": "BSB:JOB.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Call out if you please, but who will answer? To which of the holy ones will you turn?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.5.2",
+      "edition_verse_id": "BSB:JOB.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For resentment kills a fool, and envy slays the simple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.3",
+      "edition_verse_id": "BSB:JOB.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I have seen a fool taking root, but suddenly his house was cursed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.4",
+      "edition_verse_id": "BSB:JOB.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "His sons are far from safety, crushed in court without a defender.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.5",
+      "edition_verse_id": "BSB:JOB.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The hungry consume his harvest, taking it even from the thorns, and the thirsty pant after his wealth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.6",
+      "edition_verse_id": "BSB:JOB.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For distress does not spring from the dust, and trouble does not sprout from the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.7",
+      "edition_verse_id": "BSB:JOB.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Yet man is born to trouble as surely as sparks fly upward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.8",
+      "edition_verse_id": "BSB:JOB.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "However, if I were you, I would appeal to God and lay my cause before Him—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.9",
+      "edition_verse_id": "BSB:JOB.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "the One who does great and unsearchable things, wonders without number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.10",
+      "edition_verse_id": "BSB:JOB.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He gives rain to the earth and sends water upon the fields.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.11",
+      "edition_verse_id": "BSB:JOB.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He sets the lowly on high, so that mourners are lifted to safety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.12",
+      "edition_verse_id": "BSB:JOB.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He thwarts the schemes of the crafty, so that their hands find no success.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.13",
+      "edition_verse_id": "BSB:JOB.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He catches the wise in their craftiness, and sweeps away the plans of the cunning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.14",
+      "edition_verse_id": "BSB:JOB.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They encounter darkness by day and grope at noon as in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.15",
+      "edition_verse_id": "BSB:JOB.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He saves the needy from the sword in their mouth and from the clutches of the powerful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.16",
+      "edition_verse_id": "BSB:JOB.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So the poor have hope, and injustice shuts its mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.17",
+      "edition_verse_id": "BSB:JOB.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Blessed indeed is the man whom God corrects; so do not despise the discipline of the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.18",
+      "edition_verse_id": "BSB:JOB.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For He wounds, but He also binds; He strikes, but His hands also heal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.19",
+      "edition_verse_id": "BSB:JOB.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He will rescue you from six calamities; no harm will touch you in seven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.20",
+      "edition_verse_id": "BSB:JOB.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "In famine He will redeem you from death, and in battle from the stroke of the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.21",
+      "edition_verse_id": "BSB:JOB.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "You will be hidden from the scourge of the tongue, and will not fear havoc when it comes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.22",
+      "edition_verse_id": "BSB:JOB.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "You will laugh at destruction and famine, and need not fear the beasts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.23",
+      "edition_verse_id": "BSB:JOB.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For you will have a covenant with the stones of the field, and the wild animals will be at peace with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.24",
+      "edition_verse_id": "BSB:JOB.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "You will know that your tent is secure, and find nothing amiss when inspecting your home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.25",
+      "edition_verse_id": "BSB:JOB.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "You will know that your offspring will be many, your descendants like the grass of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.26",
+      "edition_verse_id": "BSB:JOB.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "You will come to the grave in full vigor, like a sheaf of grain gathered in season.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.5.27",
+      "edition_verse_id": "BSB:JOB.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Indeed, we have investigated, and it is true! So hear it and know for yourself.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

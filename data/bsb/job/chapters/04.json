@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "JOB.4.1",
+      "edition_verse_id": "BSB:JOB.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Eliphaz the Temanite replied:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.4.2",
+      "edition_verse_id": "BSB:JOB.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“If one ventures a word with you, will you be wearied? Yet who can keep from speaking?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.3",
+      "edition_verse_id": "BSB:JOB.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Surely you have instructed many, and have strengthened their feeble hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.4",
+      "edition_verse_id": "BSB:JOB.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Your words have steadied those who stumbled; you have braced the knees that were buckling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.5",
+      "edition_verse_id": "BSB:JOB.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But now trouble has come upon you, and you are weary. It strikes you, and you are dismayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.6",
+      "edition_verse_id": "BSB:JOB.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Is your reverence not your confidence, and the uprightness of your ways your hope?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.7",
+      "edition_verse_id": "BSB:JOB.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Consider now, I plead: Who, being innocent, has ever perished? Or where have the upright been destroyed?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.8",
+      "edition_verse_id": "BSB:JOB.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "As I have observed, those who plow iniquity and those who sow trouble reap the same.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.9",
+      "edition_verse_id": "BSB:JOB.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "By the breath of God they perish, and by the blast of His anger they are consumed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.10",
+      "edition_verse_id": "BSB:JOB.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The lion may roar, and the fierce lion may growl, yet the teeth of the young lions are broken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.11",
+      "edition_verse_id": "BSB:JOB.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The old lion perishes for lack of prey, and the cubs of the lioness are scattered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.12",
+      "edition_verse_id": "BSB:JOB.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now a word came to me secretly; my ears caught a whisper of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.13",
+      "edition_verse_id": "BSB:JOB.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "In disquieting visions in the night, when deep sleep falls on men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.14",
+      "edition_verse_id": "BSB:JOB.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "fear and trembling came over me and made all my bones shudder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.15",
+      "edition_verse_id": "BSB:JOB.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then a spirit glided past my face, and the hair on my body bristled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.16",
+      "edition_verse_id": "BSB:JOB.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "It stood still, but I could not discern its appearance; a form loomed before my eyes, and I heard a whispering voice:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.17",
+      "edition_verse_id": "BSB:JOB.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "‘Can a mortal be more righteous than God, or a man more pure than his Maker?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.18",
+      "edition_verse_id": "BSB:JOB.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If God puts no trust in His servants, and He charges His angels with error,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.19",
+      "edition_verse_id": "BSB:JOB.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "how much more those who dwell in houses of clay, whose foundations are in the dust, who can be crushed like a moth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.20",
+      "edition_verse_id": "BSB:JOB.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "They are smashed to pieces from dawn to dusk; unnoticed, they perish forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.4.21",
+      "edition_verse_id": "BSB:JOB.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Are not their tent cords pulled up, so that they die without wisdom?’[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

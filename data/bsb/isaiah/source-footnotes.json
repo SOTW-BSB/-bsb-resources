@@ -1,0 +1,1515 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapters": {
+    "1": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft LXX \\fqa had left us descendants\\f*",
+          "raw_sha256": "68cd8bca069dfa141f75f3d24064f37d222133183bfdc2f704459a73588464d3"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft Cited in \\ref Romans 9:29|ROM 9:29\\ref*\\f*",
+          "raw_sha256": "032723d1cad149d6dee7eb04e6f432f64930f8e436958cc7d3619c61b6bd74d2"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\ft Or \\fqa and encourage the oppressed\\f*",
+          "raw_sha256": "272077c03cfb2f99647bdc2956512377ef8583c41764e8de45bc7c2d40ab0c2e"
+        }
+      ]
+    },
+    "2": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Or \\fqa every ship of trade\\f*",
+          "raw_sha256": "4f26a591bf4df38a776f92d56e19a91f40c52e0b9cb88f62742fe705800fc5c8"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft Hebrew \\fqa staff\\f*",
+          "raw_sha256": "c145f729e10fb3ec8bf6a7c9c98ec32d8e2dd1ed5674cf2f9e985e020b008b76"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 3:7 \\ft Or \\fqa binder of wounds\\f*",
+          "raw_sha256": "5693ec15f83c70ecb931670e2b0ea0b0e986191067312771f8c504c21049dc26"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft Hebrew \\fqa defying the eyes of His glory\\f*",
+          "raw_sha256": "7c023d669ce971ecedcb915b8b2a9036ce29666bd17c1e569421da595366225d"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 3:17 \\ft Or \\fqa will uncover their secret parts\\f*",
+          "raw_sha256": "0b8a7964d27d719a55486e76bd0e664d0ba8ba394122fb59de3203d16036ddde"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 3:24 \\ft DSS; MT \\fqa branding\\f*",
+          "raw_sha256": "35625aadcc0e8143753a9350e810cde3017cdc6ca49b475a883ba024635cd5b3"
+        }
+      ]
+    },
+    "5": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft Literally \\fqa ten yoke of vineyard will yield a bath\\ft ; that is, the area ten yoke of oxen can plow in a day will yield approximately 5.8 gallons or 22 liters of wine.\\f*",
+          "raw_sha256": "40ba9117aa1a8a01fd264c3a8590fd5fd8932518693fd00f1f729be348faa88e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft Literally \\fqa and a homer of seed will yield an ephah\\ft ; that is, a homer of seed (approximately 6.24 bushels or 220 liters) will yield a tenth of its weight in grain.\\f*",
+          "raw_sha256": "a6f757dc622096a804ac352d223d5608f2035447a295e8e8ce00a7a2969d9cb6"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 5:17 \\ft LXX \\fqa lambs\\f*",
+          "raw_sha256": "2617373c28892895866da3c1e53573b10098c8d1195b7e04f102630f19276a6a"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\ft Or \\fqa the hem of His robe\\f*",
+          "raw_sha256": "bf603c16bc03caa7c01bb2ccb0b3aede87e950a450e4514f6d0fa97de2d406c2"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 6:9 \\ft Hebrew; LXX \\fqa ‘You shall be ever hearing, but never understanding; you shall be ever seeing, but never perceiving.’\\ft Cited in \\ref Matthew 13:14|MAT 13:14\\ref*, Mark 4:12, Luke 8:10, and Acts 28:26\\f*",
+          "raw_sha256": "a720ae891c0230ed1cab267bb4bb59dc57be781af84b82dd5b4bcc068af943f8"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 6:10 \\ft Hebrew; LXX \\fqa For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.\\ft Cited in \\ref Matthew 13:15|MAT 13:15\\ref*, Mark 4:12, John 12:40, and Acts 28:27\\f*",
+          "raw_sha256": "171eed8b6eaa40eb6f80eb91aedf1eee82f69bed60fb3c916a2acdfda7d7a38f"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\ft That is, Syria\\f*",
+          "raw_sha256": "2e70e844cdf6a6baf36b59c157a21e477972b6a2fb777d630c5272f5d9e6566d"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 7:2 \\ft Or \\fqa had set up camp in Ephraim\\ft , that is, the northern kingdom of Israel\\f*",
+          "raw_sha256": "20d2b81d40b1806668c0d4ffe7b04d77a6f3b845c4fee260ab5d734654a6d116"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 7:3 \\fqa Shear-jashub \\ft means \\fqa a remnant shall return\\ft .\\f*",
+          "raw_sha256": "7fe062480e6561428b49f572d5063f61b0ebe59f996f94319a360b50d71ca02f"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 7:6 \\ft Hebrew \\fqa split it open\\f*",
+          "raw_sha256": "5a3731791f78f2b0cbacbb0d45b06c51abe664016e963e0d46ebf5c1e948755e"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 7:14 \\ft Or \\fqa young woman\\f*",
+          "raw_sha256": "9d5153e69f05fbf7b81f5257a0a0519b2aee5e17e76ed7d2386ff3ed633f1cd5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:14 \\fqa Immanuel \\ft means \\fqa God with us\\ft ; literally \\fqa and she will call His name Immanuel\\ft ; DSS \\fqa and His name will be called Immanuel \\ft or \\fqa and He will call His name Immanuel\\ft ; LXX \\fqa and you will call His name Immanuel\\ft ; cited in \\ref Matthew 1:23|MAT 1:23\\ref*.\\f*",
+          "raw_sha256": "3cc0e65563a1467eaf17b3e75dcccc623c2553a0bfe77fc40b8b0b6e00adf7b9"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 7:20 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "0d507d1f5532637ac3abeb870dc96f5effa2d4a862437f8f5ae76ab41254e360"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 7:23 \\ft Hebrew \\fqa a thousand of silver\\ft ; that is, approximately 25.1 pounds or 11.4 kilograms of silver\\f*",
+          "raw_sha256": "b572395a22878f7db4594e9596f37cb98a7d865ea27deba438b50f150650844e"
+        }
+      ]
+    },
+    "8": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 8:1 \\ft Hebrew \\fqa with a man’s\\f*",
+          "raw_sha256": "9f7a13d7875f66b46c22cb08b291d761280bd62c3e74d0b47aea7492233d0359"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:1 \\fqa Maher-shalal-hash-baz \\ft means \\fqa The spoil speeds, the prey hastens \\ft or \\fqa Swift to plunder, quick to carry away\\ft ; also in verse 3.\\f*",
+          "raw_sha256": "5c0daef31a8f56b1d2d520efa32cc27019398cbd4b6fd38686df33bb1cebd58a"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 8:7 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "2ad84e2e7d5510aff59052e7d92795a20ecf81ff75c60f42faa6006badc3b34b"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 8:8 \\fqa Immanuel \\ft means \\fqa God with us\\ft .\\f*",
+          "raw_sha256": "2ae8c52b0859231f4b895885a1e3baf7e8c3639b755c3d847fd73fec2a51cc90"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 8:9 \\ft Or \\fqa Raise the war cry \\ft or \\fqa Be evil \\ft or \\fqa Be broken\\f*",
+          "raw_sha256": "b4b5d339220f5def53e1041aa5c96d7684c2792565a8ac1f4e7719a1dadbb654"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 8:10 \\ft Hebrew \\fqa Immanuel\\ft ; see \\ref Matthew 1:23|MAT 1:23\\ref*.\\f*",
+          "raw_sha256": "bef32fd0ec38769f0119f42330177ac9cc38d15b816a2319e4b929d0287b56a7"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 8:12 \\ft Or \\fqa Do not fear their threats\\f*",
+          "raw_sha256": "a496a881b930ea678c14b97a0579fe73b7ab77fa1ff9e7e692784cfc5b11e280"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:12 \\ft LXX \\fqa do not be shaken\\ft ; cited in \\ref 1 Peter 3:14|1PE 3:14\\ref*\\f*",
+          "raw_sha256": "fbd9179b69363929f1da66003adb5410d5835bd65417415b850db1ba813ab86d"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 8:14 \\ft Cited in \\ref Romans 9:33|ROM 9:33\\ref* and 1 Peter 2:8\\f*",
+          "raw_sha256": "1a69fac66378c9e5bcd949a670ea3b4363dc838e4c187d2e1d99a103b87a0f47"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 8:17 \\ft Or \\fqa I will eagerly look for Him\\ft ; cited in \\ref Hebrews 2:13|HEB 2:13\\ref*\\f*",
+          "raw_sha256": "589d32e6fd0645244bb2e6341551e8cc0b5bc93485e3af650d22ad6990bb07c6"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 8:18 \\ft Cited in \\ref Hebrews 2:13|HEB 2:13\\ref*\\f*",
+          "raw_sha256": "ffaae50071a1846c4395db632ecb926f2701837e43795febd2a0e6078f4342d7"
+        }
+      ]
+    },
+    "9": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 9:2 \\ft Cited in \\ref Matthew 4:15–16|MAT 4:15-16\\ref*\\f*",
+          "raw_sha256": "42e24513547d53d18b7daa7ebc32e067c686f2fe80c3d0b0358b6567d724eadc"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 9:9 \\ft That is, the northern kingdom of Israel\\f*",
+          "raw_sha256": "ec0a09e0f173e6f686607664c31f72ab6446f4d0d8d7ac94458c53772f6c38b2"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 9:12 \\ft That is, Syria\\f*",
+          "raw_sha256": "14a28193e4dbaea95a81dd6f46eb773dedd3471eb50674e690c1da78394317b3"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 9:20 \\ft Literally \\fqa of his own arm\\f*",
+          "raw_sha256": "704aefba9882538034ff4ffebf6745fa70e364300a6122617ce8a2d757f4f407"
+        }
+      ]
+    },
+    "10": {
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 10:21 \\ft Hebrew \\fqa Shear-jashub\\ft ; also in verse 22; see \\ref Isaiah 7:3|ISA 7:3\\ref*.\\f*",
+          "raw_sha256": "95e32d778aabb22ab62dd04b8c453f844f88015606614158161485fdee5e6ca0"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 10:22 \\ft LXX \\fqa Though the people of Israel be like the sand of the sea, only a remnant will be saved.\\ft Cited in \\ref Romans 9:27|ROM 9:27\\ref*\\f*",
+          "raw_sha256": "6ce1a57bca3609f47f056f0021794c0e96bf2c24adcf7afbf6d395fe7a127742"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 10:23 \\ft LXX \\fqa He will finish the work and cut it short in righteousness, because the Lord will make a short work in all the world.\\ft Cited in \\ref Romans 9:28|ROM 9:28\\ref*\\f*",
+          "raw_sha256": "2724b367dd91db052e4ab99517e45472b1a89b28b8c09cc2baa6dd9537920a0b"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 10:27 \\ft Literally \\fqa broken because of fatness\\ft ; LXX \\fqa broken from your shoulders\\f*",
+          "raw_sha256": "dfb2edd4f38b3907ad9e88ec2951cf40c6fa53593bde14e65d9b7d91b83ae398"
+        }
+      ]
+    },
+    "11": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 11:6 \\ft Hebrew; LXX \\fqa the young calf and bull and lion will feed together\\f*",
+          "raw_sha256": "a70a3a87e5cb6cc33da060f4e556fc41af4936ba77ff6042ea9797303315983e"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 11:10 \\ft LXX \\fqa On that day the Root of Jesse will appear, One who will arise to rule over the Gentiles; in Him the Gentiles will put their hope\\ft ; cited in \\ref Romans 15:12|ROM 15:12\\ref*.\\f*",
+          "raw_sha256": "89a03c0e56c32e1814b9743715c3dfcfa77f4dab465250b4d96b8f24d7927dc8"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 11:11 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "426bfd6e1ce53564ab77a8090ba0a84c5501848dc4956143e8d063e3ea498632"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:11 \\ft That is, Babylonia\\f*",
+          "raw_sha256": "bd8868b36da183f86c56aa01b0e94bc12dff150f2f3b5895945bf493466b62ab"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:11 \\ft Or \\fqa coastlands\\f*",
+          "raw_sha256": "df0a9434224f8ea19f02f0ba100d2bd9d24fe83fffc64080615e9f9c769a098c"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 11:13 \\ft That is, the northern kingdom of Israel\\f*",
+          "raw_sha256": "c0d9af254c50471e173b40d9e62185442723dde4e4bfedaa68b2f1dc91072514"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:13 \\ft Or \\fqa hostility\\f*",
+          "raw_sha256": "7bcee0792d317aa8b6c016cef0e752f68ba54a9fdef163c57e1e60436d1c5d47"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 11:15 \\ft Or \\fqa will completely dry up\\f*",
+          "raw_sha256": "19d225996b87f74629bfdf85d8c8445d5c69e7edc587db49e7bb31c8c46eaade"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:15 \\ft Hebrew \\fqa the tongue\\f*",
+          "raw_sha256": "a63ceb3c9e1e7e30534839f276fb23eadd0363a6c91dca563d748465c4637c70"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:15 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "ebab99449bfc69f261fd5f4e3d8d746a1e345b04ad9cd977c058cedacc54603a"
+        }
+      ]
+    },
+    "13": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 13:6 \\ft Hebrew \\fqa Shaddai\\f*",
+          "raw_sha256": "da34af0cf3361515396016ccede79b88742496b491325e9d6507b3aeb35dcfc0"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 13:21 \\ft Literally \\fqa Daughters of an ostrich \\ft or \\fqa Daughters of an owl\\f*",
+          "raw_sha256": "d66fad06311ee6244d4fc8f2945ab242f795fdacfa9f0995af0501acc7bebbed"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 13:22 \\ft Or \\fqa serpents \\ft or \\fqa dragons\\f*",
+          "raw_sha256": "fd9bba40742b6239d34a9d7e06c6fefb3b98d41f248967ed30aff4625aed0412"
+        }
+      ]
+    },
+    "14": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 14:4 \\ft DSS, LXX, and Syriac; MT \\fqa the golden city\\f*",
+          "raw_sha256": "cf6ddf88690288708ee2af0592d3acfdcde856148da7d4e5c7ba9fadce98119f"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 14:8 \\ft Or \\fqa pines \\ft or \\fqa junipers \\ft or \\fqa firs\\f*",
+          "raw_sha256": "dbb7e9eff2f223aefd3229a0989a58ebfda4aac3f7725e6c020b0b346c595fe5"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 14:12 \\ft Or \\fqa morning star \\ft or \\fqa shining one \\ft or \\fqa Lucifer\\f*",
+          "raw_sha256": "8cecfd9c7cf1379bfa99f1abce4dc7d8a06a1751d1e4860c3efbd3dfedd1f3ba"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 14:13 \\ft Or \\fqa in the remote parts of Zaphon \\ft or \\fqa on the heights of Zaphon\\f*",
+          "raw_sha256": "fa2291bae209ac43f51f210a8d1a3942965db06acb5588316ecd5a47e27a0cab"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 14:18 \\ft Hebrew \\fqa house\\f*",
+          "raw_sha256": "df879fb27b4bc0c232f14dbc8c10c1f9ec96ace955115bec858ba4d9025ba9af"
+        }
+      ]
+    },
+    "15": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 15:5 \\ft Or \\fqa Zoar, like a heifer three years of age.\\f*",
+          "raw_sha256": "c37fc246fc9f97d23acf22b1255c38911b2d2132c9328aeeeb604413ec7a0e55"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 15:7 \\ft Or \\fqa Poplars\\f*",
+          "raw_sha256": "ff9f5aa10b85c91a4477301176606c23db12db3a3219bf51f8b3580891eddc76"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 15:9 \\ft MT, twice in this verse; DSS and Vulgate \\fqa Dibon\\ft ; \\fqa Dimon\\ft , a wordplay on \\fqa Dibon \\ft (see verse 2), sounds like the Hebrew for \\fqa blood\\ft .\\f*",
+          "raw_sha256": "e1b9e84a9e77f86fa7b8d1f87be5ab863406535d185fea95dd6b27a15be1eb43"
+        }
+      ]
+    },
+    "16": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 16:5 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "fba3e09e041ef4f72d5257456486430c326b2fa49a4a56510d472e69cbbcd31b"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 16:8 \\ft Or \\fqa and had gone as far as the sea\\ft ; that is, probably the Dead Sea\\f*",
+          "raw_sha256": "9dfa02cb591c43961eeda10d87202fd5bb5749ab80cc2c25aa318602a429d988"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 16:11 \\fqa Kir-heres \\ft is a variant of \\fqa Kir-hareseth\\ft ; see verse 7.\\f*",
+          "raw_sha256": "0e09d781873b4df887e5955e6957b3cf48fbf0709c56d2e88650965144e92c84"
+        }
+      ]
+    },
+    "17": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 17:3 \\ft Or \\fqa The fortified city will disappear from Ephraim\\ft , that is, from the northern kingdom of Israel\\f*",
+          "raw_sha256": "bebc027a4217c81be38eb892c046b817f868b27b63476b77b7c63e06138a9a5e"
+        }
+      ]
+    },
+    "18": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 18:1 \\ft Or \\fqa of many locusts\\f*",
+          "raw_sha256": "dfee35c75c4b55932255415280f8a6d5c6261700e8cdf6ad1b9e904a51884792"
+        },
+        {
+          "source_usfm": "\\f + \\fr 18:1 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "70fcca3f4be5c4573b5e18588f20d40f68aefbf1492d7f8f8bc60c53fc0435fc"
+        }
+      ]
+    },
+    "19": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 19:10 \\ft Or \\fqa Its pillars\\f*",
+          "raw_sha256": "50aa6aa0f3357d3ccdab11a409a66ccca302871aba6c5706a64d85b526e25d0a"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 19:13 \\ft LXX; Hebrew \\fqa Noph\\f*",
+          "raw_sha256": "681beece5c7c471d9af39c2fc8142c72776fd5a2d2bfdd9b1a420d2a9a49f7d5"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 19:18 \\ft Some MT manuscripts, DSS, and Vulgate; most MT manuscripts \\fqa City of Destruction\\f*",
+          "raw_sha256": "d2e8b08cdbf68bd3d0a751025360a22212733a3030fd35ca720a2c0ff3a5b39f"
+        }
+      ]
+    },
+    "20": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 20:3 \\ft That is, the upper Nile region; similarly in verses 4 and 5\\f*",
+          "raw_sha256": "00b1edf7b2d4a85fff45d09980e4ffb138f1733bc8ceae4f5de60ee1e01e7f72"
+        }
+      ]
+    },
+    "21": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 21:8 \\ft DSS and Syriac; MT \\fqa lion\\f*",
+          "raw_sha256": "5d0148802bc3494774ba0621c161c414163e44f12fe89562b3a36b65b53cf1ad"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 21:9 \\ft See \\ref Revelation 14:8|REV 14:8\\ref* and Revelation 18:2.\\f*",
+          "raw_sha256": "116bd8936413795fd53b9687ef2e1032b9db0f25db8bd02fb6da70fdb13944c4"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 21:11 \\fqa Dumah \\ft is a wordplay on \\fqa Edom\\ft , meaning \\fqa silence\\ft .\\f*",
+          "raw_sha256": "c236390eb24bf676df5fc0859d8e6c549df56d12be35dc7863ec764c63e11a68"
+        },
+        {
+          "source_usfm": "\\f + \\fr 21:11 \\fqa Seir \\ft is another name for Edom.\\f*",
+          "raw_sha256": "a56997591b95cd83b90fee0a7926c1d0c88c42648b5793599747094944712fc1"
+        }
+      ]
+    },
+    "22": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 22:13 \\ft Cited in \\ref 1 Corinthians 15:32|1CO 15:32\\ref*\\f*",
+          "raw_sha256": "544df8d1d2795a689891b14cdd4d199b027d5b8e36d3a900f9ec35b8218bc244"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 22:22 \\ft See \\ref Revelation 3:7|REV 3:7\\ref*.\\f*",
+          "raw_sha256": "dfa7b73b62ba40aa6525a8057dcd681b19239621c9a490fd446eb60bf0e2de1f"
+        }
+      ]
+    },
+    "23": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 23:1 \\ft Or \\fqa Wail, O fleet of trading ships\\ft ; also in verse 14\\f*",
+          "raw_sha256": "0b56b428b4b5cebb2a5e3d74bbf964d777cb832756cf73314b153cefb45e53c4"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:1 \\ft Hebrew \\fqa Kittim\\ft ; also in verse 12\\f*",
+          "raw_sha256": "c05ee63518c4a0f7b2b2ece20589fd2e0db4b4761f7434b6a8db1b27b42cb452"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 23:2 \\ft DSS and LXX; MT \\fqa whom the seafarers have enriched\\f*",
+          "raw_sha256": "f47b5762079648a1d381baff51c21f24aa60edd1b5f474e2d0ac4af8593870e6"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 23:10 \\ft DSS and some LXX manuscripts; MT \\fqa Overflow\\f*",
+          "raw_sha256": "529c61a18969ebfc0f5ae4b046a4596a5bb3b81182f4aa9eb43c07d5a0c43479"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 23:13 \\ft That is, the Babylonians\\f*",
+          "raw_sha256": "c773e18b5511f40805b5aa81363890ecb2852095ee7eb4a72d2a397f238099f9"
+        }
+      ]
+    },
+    "24": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 24:14 \\ft Or \\fqa from the sea\\f*",
+          "raw_sha256": "02b495a53ba674e8d0714c9d01c201d15bb02af9c5d135e5b197d40e9b240c5d"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 24:15 \\ft Or \\fqa coastlands\\f*",
+          "raw_sha256": "d8bc1df3dc378895eca189b062208da2da2b009c6641658d5e4adc45f3ce7d9a"
+        }
+      ]
+    },
+    "25": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 25:8 \\ft Or \\fqa He will swallow up death in victory\\ft ; cited in \\ref 1 Corinthians 15:54|1CO 15:54\\ref*\\f*",
+          "raw_sha256": "308c833a479bd0157b37195b5eaf6df9dfc607727324b1ed46338cecdef0f6f5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 25:8 \\ft Cited in \\ref Revelation 7:17|REV 7:17\\ref* and Revelation 21:4\\f*",
+          "raw_sha256": "192bca1db450de7aea66630aef477807fd8494aa082ffeec4bca3a5d437ef37a"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 25:11 \\ft Or \\fqa along with\\f*",
+          "raw_sha256": "04831b906e01063a818bd8d2d490996de307d1c21117e05cc8ae25afc60ae412"
+        }
+      ]
+    },
+    "26": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 26:9 \\ft Or \\fqa my spirit within me seeks You.\\f*",
+          "raw_sha256": "f6fbe6b5abe62b9affedbbd92d4a64987e5e701c79085a12ee2534bf3badd165"
+        }
+      ]
+    },
+    "27": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 27:1 \\ft Hebrew \\fqa nachash\\ft ; translated in most cases as \\fqa snake\\ft ; twice in this verse\\f*",
+          "raw_sha256": "813738ff48b015b4b91e88b2658e44b31aeda95fa4e8b494cc9be6df96f3ba29"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 27:8 \\ft Or \\fqa By driving her away into exile \\ft or \\fqa Measure by measure, by exile\\f*",
+          "raw_sha256": "5fa82b8368edbeedeae44d4c132bdc1b80efc4ea9b0dbfe296bce8cf274c8618"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 27:9 \\ft LXX \\fqa Therefore the guilt of Jacob will be taken away, and this is his blessing when I take away his sin\\ft ; cited in \\ref Romans 11:27|ROM 11:27\\ref*\\f*",
+          "raw_sha256": "4253afcf95dd873d0710a90349277962e98bc9097f6bcfabbffb7f68eb97572c"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 27:12 \\ft Hebrew \\fqa River\\f*",
+          "raw_sha256": "6cc9d574f18efe4e94ce3d9f2d340ded1fdc693a1c808e0863dbfad7f0843cc8"
+        }
+      ]
+    },
+    "28": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 28:1 \\ft That is, the northern kingdom of Israel; also in verse 3\\f*",
+          "raw_sha256": "ba492a30c5585268bce0d33b2969511f3d482cd8647148a5cec582a55fd1b1e1"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 28:10 \\ft Or \\fqa For He says \\ft or \\fqa For it is\\ft ; literally \\fqa For\\f*",
+          "raw_sha256": "82ffae31400197d107bb896ae19eab905318df51c83a2c78ba7a523279d3ba33"
+        },
+        {
+          "source_usfm": "\\f + \\fr 28:10 \\ft Or \\fqa Do this, do that, a rule for this, a rule for that\\ft ; Hebrew \\fqa sav lasav sav lasav kav lakav kav lakav \\ft (possibly meaningless sounds to demonstrate an inability to understand); also in verse 13\\f*",
+          "raw_sha256": "4d548980fbd7874211dab3d68c6068f15863445899a82c0a140a85a9235cfb0a"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 28:11 \\ft Cited in \\ref 1 Corinthians 14:21|1CO 14:21\\ref*\\f*",
+          "raw_sha256": "f4c52b6785cf1bb6794cef600d75a28b5f38cdc59083a252f65aa82ac9e89b4e"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 28:15 \\ft Or \\fqa false gods\\f*",
+          "raw_sha256": "d79366792fda71d419f74d5037a80e8b7807d0efc0106eba28cb9d52c422106c"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 28:16 \\ft LXX \\fqa will never be put to shame\\ft ; cited in \\ref Romans 9:33|ROM 9:33\\ref*, Romans 10:11, and 1 Peter 2:6\\f*",
+          "raw_sha256": "c58a642745663f142aacfeaf9d7b899baadb88f69bea661fa719c115d7e92c78"
+        }
+      ]
+    },
+    "29": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 29:1 \\ft Or \\fqa Altar Hearth \\ft or \\fqa Lion of God\\ft ; probably a nickname for Jerusalem; twice in this verse, twice in verse 2, and once in verse 7\\f*",
+          "raw_sha256": "45333cf656b0e8285fc0bbf21ecb3110735c708839a29b20fe09d7a15dc87ffb"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 29:2 \\ft Or \\fqa like Ariel\\ft ; see the footnote for verse 1.\\f*",
+          "raw_sha256": "40301c8dffe4586e959166f39c11375da8aebfbde9e62b9b87c1ad8341e9fbf2"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 29:13 \\ft Hebrew; LXX \\fqa They worship Me in vain; they teach as doctrine the precepts of men.\\ft Cited in \\ref Matthew 15:8–9|MAT 15:8-9\\ref* and Mark 7:6–7\\f*",
+          "raw_sha256": "4954eb9c744e24488984cb19343676f3169b2d1c6c0a7707735bf9e43b9903cc"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 29:14 \\ft Hebrew; LXX \\fqa I will destroy the wisdom of the wise, and will hide the intelligence of the intelligent.\\ft Cited in \\ref 1 Corinthians 1:19|1CO 1:19\\ref*\\f*",
+          "raw_sha256": "808f377406ecff01bcf659260813dc6a9276052731d84129293fcba9e916821d"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 29:16 \\ft Cited in \\ref Romans 9:20|ROM 9:20\\ref*\\f*",
+          "raw_sha256": "8ef5debd8276195e114e103068dcb74476d0f2888960974233cf67702bd1960e"
+        }
+      ]
+    },
+    "30": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 30:7 \\ft Hebrew \\fqa Rahab-hem-shebeth\\f*",
+          "raw_sha256": "e83d836cf3addbfe5be2f5e06c79945eed8583a421019bd996328b878d4b3ce2"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 30:32 \\ft Some Hebrew manuscripts, Syriac; MT \\fqa the rod of foundation\\ft ; DSS \\fqa the rod of His foundation\\f*",
+          "raw_sha256": "275fdb0f05e6ae151fef9140030f8f3d669cfb26f555d52b4e96c9ad3a62b46a"
+        }
+      ]
+    },
+    "32": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 32:14 \\ft Hebrew \\fqa The Ophel\\f*",
+          "raw_sha256": "f29d4f5f79fce68c4ca498322432e5d4cf7a34ca108570bfc31eb0f9a6d7af88"
+        }
+      ]
+    },
+    "33": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 33:4 \\fqa O nations \\ft is added for clarity.\\f*",
+          "raw_sha256": "04d54e65493fa7dfb27e986c1ac6a24befa55883608c3c42061363152b0a223d"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 33:8 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft .\\f*",
+          "raw_sha256": "4cd7aa20d5125d5be025045ef12baa7ab84919429ae7c9eac2aa5165b6e02513"
+        },
+        {
+          "source_usfm": "\\f + \\fr 33:8 \\ft DSS; MT \\fqa the cities\\f*",
+          "raw_sha256": "d2e7606c72f88321e5a5c3f3753717ce2a461b42fdb4baa92d296e38764ad744"
+        }
+      ]
+    },
+    "34": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 34:2 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons, either by destroying them or by giving them as an offering; also in verse 5.\\f*",
+          "raw_sha256": "4797eb09713e9ad53a2b8d81cef560c62fa26b127871df02362a9fd76c8c7c43"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 34:8 \\ft Or \\fqa of recompense for (Edom’s) hostility against Zion.\\f*",
+          "raw_sha256": "67e374296a66244217806ac43cf493234b0178b94044bb9d506b79c4643c536b"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 34:11 \\ft The precise identification of these birds is uncertain.\\f*",
+          "raw_sha256": "4e668486ee4dad5c03ba83b78c288a1bb2e6952c691a4d0a33ae748b6b84aea3"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 34:13 \\ft Or \\fqa serpents \\ft or \\fqa dragons\\f*",
+          "raw_sha256": "e1971aa76f0a80ae88310615f12b4f261d5561f0a100ec9e5b2307e6f6d77321"
+        },
+        {
+          "source_usfm": "\\f + \\fr 34:13 \\ft Literally \\fqa for daughters of an ostrich \\ft or \\fqa for daughters of an owl\\f*",
+          "raw_sha256": "969ca4d729c4df1a1b3f23eb0b3dd02db5e51cbeb39215e585fb4434cf91b343"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 34:14 \\ft Hebrew \\fqa Lilith\\f*",
+          "raw_sha256": "b958c9c330ce0cbd4afd112ad103cd81b06e25a98b88cac4da078e9e28bbe30a"
+        }
+      ]
+    },
+    "35": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 35:3 \\ft Cited in \\ref Hebrews 12:12|HEB 12:12\\ref*\\f*",
+          "raw_sha256": "2a664b801a068056550975a84cfd4ad837fe27cdd229c22d6b640cbc7da3fcad"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 35:7 \\ft Or \\fqa serpents \\ft or \\fqa dragons\\f*",
+          "raw_sha256": "93c89e09b7048f0f680efa9305943bddb84992ddc49036a28660a39d0a881de9"
+        }
+      ]
+    },
+    "36": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 36:2 \\ft Hebrew \\fqa Rabshakeh \\ft is the title of a high-ranking Assyrian military officer; here and throughout chapters 36 and 37, as well as 2 Kings 18 and 19\\f*",
+          "raw_sha256": "d0b759992af6397ec8da1d09b4ac7cd2f6c784c3518d18bb41e440f2f48e4f2a"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 36:5 \\ft Literally \\fqa You speak\\ft ; see DSS and \\ref 2 Kings 18:20|2KI 18:20\\ref*; MT \\fqa I speak\\ft .\\f*",
+          "raw_sha256": "7394b68e66675fc163a9b6ff392652b01cd7075f12a082fa3514c1392824dfdf"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 36:11 \\ft Or \\fqa in the dialect of Judah\\ft ; also in verse 13\\f*",
+          "raw_sha256": "2e141aac62edfc106aecff50190836bed198a76b3bb377ecb4274433fc03c1e3"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 36:16 \\ft Or \\fqa Make a blessing with me\\f*",
+          "raw_sha256": "463ef2a14fb32a1e81882a2a3b7111680f5bbdc22d15c18ab6970dfa585b78c2"
+        }
+      ]
+    },
+    "37": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 37:9 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "737e67f28fd4c80fa49e5e16701e5fc1a25e04c1cf5d5b0e42995421d7a83a5f"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 37:11 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "003327e33880b2ce46e5a86f892ed90632ceae357ccad959e1d52f388fba7251"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 37:20 \\ft DSS (see also \\ref 2 Kings 19:19|2KI 19:19\\ref*); MT \\fqa You alone are the LORD\\f*",
+          "raw_sha256": "6eaf9fab465dad1fa51a3c493ef27d4d48268606962fd2c979d42bcee5569d51"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 37:24 \\ft Or \\fqa pines \\ft or \\fqa junipers \\ft or \\fqa firs\\f*",
+          "raw_sha256": "b7e152ee5bdcd621ce997807f4a280c876e782a7ea383a8b0b69840b74e9a3af"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 37:25 \\ft DSS (see also \\ref 2 Kings 19:24|2KI 19:24\\ref*); MT does not include \\fqa foreign\\ft .\\f*",
+          "raw_sha256": "e0fe5e9f7c9af93efb9ce22f5ab60a661229bb6c3790d7a8b9711856f4160635"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 37:27 \\ft DSS, some MT manuscripts, and some LXX manuscripts (see also \\ref 2 Kings 19:26|2KI 19:26\\ref*); most MT manuscripts \\fqa on the rooftops and terraced fields\\f*",
+          "raw_sha256": "fea758e3f2337b25d95cff9c6765ae47a93f579b41dcb0c5c9df8151181eecc6"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 37:36 \\ft Hebrew \\fqa When they got up\\f*",
+          "raw_sha256": "9cb629cf6a59a5812e06857819250d450b892bfd4533ffbaebb5d587610caf8b"
+        }
+      ]
+    },
+    "38": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 38:6 \\ft MT and LXX; DSS includes \\fqa for My sake and for the sake of My servant David\\ft ; see \\ref 2 Kings 20:6|2KI 20:6\\ref*.\\f*",
+          "raw_sha256": "0ae392afdda64949c4b77aa0763fdc0238244d7fb0ce82f15d729865f712a82e"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 38:10 \\ft Or \\fqa In the quiet \\ft or \\fqa In the middle\\f*",
+          "raw_sha256": "804c675adb3a2fcbf678f8fb6356eb65a7e03a74e6780422c0afcace22938530"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 38:13 \\ft Or \\fqa I cried out\\ft ; see Targum Yonaton.\\f*",
+          "raw_sha256": "0105c4c31803186d6a406b29549596ec6c984ceb58331d4e1ff5e78dd90914e7"
+        }
+      ]
+    },
+    "40": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 40:3 \\ft Or \\fqa A voice of one calling in the wilderness: “Prepare the way for the LORD\\f*",
+          "raw_sha256": "3b1107f19508d592f8050b6d68afac2e11789ec05aa0125ccf5549ba8e9a1811"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:3 \\ft LXX \\fqa make straight the paths of our God\\ft ; cited in \\ref Matthew 3:3|MAT 3:3\\ref*, Mark 1:3, Luke 3:4, and John 1:23\\f*",
+          "raw_sha256": "a9cd993682406083cc2da04c6bc0fdb0f67c087d2a5cc844fe98958af222b9fe"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 40:4 \\ft LXX \\fqa Every valley shall be filled in, and every mountain and hill shall be brought low. All the crooked ways shall become straight, and the rough places plains.\\ft Cited in \\ref Luke 3:5|LUK 3:5\\ref*\\f*",
+          "raw_sha256": "8842fcf56ca74193911893f3b665889b0bf36128fa25d61a7875d89c093ac980"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 40:5 \\ft Literally \\fqa and all flesh together will see it.\\ft Cited in \\ref Luke 3:6|LUK 3:6\\ref*\\f*",
+          "raw_sha256": "305d14697fac6da713ff7084432c997a43c3304ffda08b18c7dd791a6211768c"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 40:8 \\ft Cited in \\ref 1 Peter 1:24–25|1PE 1:24-25\\ref*\\f*",
+          "raw_sha256": "9451f25bc561e968bf999e480d1d2d59bcfb5e48cc1fa4e8f32eba1eb5907481"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 40:9 \\ft Or \\fqa O herald of good news to Zion, go up on a high mountain. O herald of good news to Jerusalem, lift it up,\\f*",
+          "raw_sha256": "ea7eab331767ed66f034c3662b5d94efd35527f2e24e89817b00f16a6c40b07c"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 40:13 \\ft Or \\fqa mind of the LORD\\ft ; see also LXX.\\f*",
+          "raw_sha256": "26c0439cdbd312f1b088352bad6eb38a6e71e38721c2b25b9c011cb3b5ca5a3f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:13 \\ft Cited in \\ref Romans 11:34|ROM 11:34\\ref* and 1 Corinthians 2:16\\f*",
+          "raw_sha256": "a199f04cdc5207c83eacf2e74d18c271eeab18c53be4a098b1cd1474a424f8ae"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 40:15 \\ft Or \\fqa coastlands\\f*",
+          "raw_sha256": "22330f5e4ee298f8af78c5bef1bcfc1124d2548111783e62ba56c8c2907193ce"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 40:23 \\ft Or \\fqa judges\\f*",
+          "raw_sha256": "034d9e893827c4288b285ce4eaf485a2555e3e31d5d8c90122c42cf6213fff65"
+        }
+      ]
+    },
+    "41": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 41:1 \\ft Or \\fqa coastlands\\ft ; also in verse 5\\f*",
+          "raw_sha256": "ac3547183b25b4d74ffd81b1aea1b9f4fe46417184ea72c98b40afa95568cbc8"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 41:2 \\ft Or \\fqa from the east, whom victory meets at every step\\f*",
+          "raw_sha256": "f0a2fbb7ecd8e3a2a9d7941e05b6b77f5b30ff5472ab7b04689a569bcf0316f5"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 41:19 \\ft Or \\fqa pines \\ft or \\fqa junipers \\ft or \\fqa firs\\f*",
+          "raw_sha256": "9fc881c232fcafb1266efbad82f3e6d4270a6367511582209486c1acde8106d9"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 41:27 \\ft Or \\fqa Formerly I said to Zion:\\f*",
+          "raw_sha256": "5d9b955c89f64fe09f17b2b290bfa2d563a8c16d233d876b06a25854e45f6b33"
+        }
+      ]
+    },
+    "42": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 42:4 \\ft Or \\fqa bruised\\f*",
+          "raw_sha256": "8ad86ba1532a3dba2ef2f13f0c0c1178e2feb1751641d53027acdf61a9d8bead"
+        },
+        {
+          "source_usfm": "\\f + \\fr 42:4 \\ft Or \\fqa In His teaching the coastlands will put their hope\\ft ; LXX \\fqa In His name the nations will put their hope\\ft ; cited in \\ref Matthew 12:18–21|MAT 12:18-21\\ref*\\f*",
+          "raw_sha256": "7db25d496502e7704cabcb825ef99e8a7e3a0f9fd45825078baca6ad8f5df76e"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 42:10 \\ft Or \\fqa coastlands\\ft ; also in verse 12\\f*",
+          "raw_sha256": "a6139e974dec17f467944988eab2aacf2eee37ec945dbb35601056277bf443bf"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 42:15 \\ft Or \\fqa coastlands \\ft or \\fqa islands\\f*",
+          "raw_sha256": "902249924b7990facd4f650346b6eb9923a0cce097ebed44246c7c23f0fa239d"
+        }
+      ]
+    },
+    "43": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 43:3 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "289c20aafc1684c21141a118937cb64137d30d18769ed900fa3b3f5f4f25b742"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 43:14 \\ft That is, the Babylonians\\f*",
+          "raw_sha256": "b05b12f58ab0a0d1de84ddd4d8c66b6de04f15cf52cd9fb2620039c0263afc6b"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 43:20 \\ft Or \\fqa serpents \\ft or \\fqa dragons\\f*",
+          "raw_sha256": "2789e3daeab37c74b9595177b830eeb811b87567d262f4a1c72d0ae720ff1ffa"
+        },
+        {
+          "source_usfm": "\\f + \\fr 43:20 \\ft Literally \\fqa and daughters of an ostrich \\ft or \\fqa and daughters of an owl\\f*",
+          "raw_sha256": "15e6050f03baab3a20c2b7a1cb5bcd2de1e20bc6c71f056b191781f3aed6ff79"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 43:28 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "2b7860fae7c9e41c718aff17d0c5e6aabe04da5b0c7f9bf67dfa7ed0bc06ed28"
+        }
+      ]
+    },
+    "44": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 44:2 \\fqa Jeshurun \\ft means \\fqa the upright one\\ft , a term of endearment for Israel.\\f*",
+          "raw_sha256": "27c33de0da6f16d1a1bfecf599fb03afb2255daeea5ce9fc8f6f23713daf1930"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 44:4 \\ft Or \\fqa poplars\\f*",
+          "raw_sha256": "7b1a499438206529e8f68c8ecf434c44b91f6d97a4d13f47a9cfbc93c05ae80f"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 44:14 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\f*",
+          "raw_sha256": "6c896605e298478c710f838ae2d73c1a7308823bab204efdd6c42256b06ea4b5"
+        }
+      ]
+    },
+    "45": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 45:2 \\ft DSS and LXX; MT \\fqa level the terrain\\f*",
+          "raw_sha256": "d95d54128d4d430099a0f2f660a40960f1d020f3841751bd07e923d62dced184"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 45:9 \\ft Cited in \\ref Romans 9:20|ROM 9:20\\ref*\\f*",
+          "raw_sha256": "90640ba6b7655f2dddd9b7b89952b2f3e756819eff99f97095041fabef00c247"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 45:14 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "f6fd22ea8b06b6db301e2d17330dda88975271a926f2462604924cfa00c143df"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 45:23 \\ft Literally \\fqa every tongue will swear\\ft ; LXX \\fqa every tongue will swear by God\\ft ; cited in \\ref Romans 14:11|ROM 14:11\\ref*\\f*",
+          "raw_sha256": "443683192e046a512e75262c258e2edea7314cca78ed09c7c26de1b5b7141198"
+        }
+      ]
+    },
+    "47": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 47:1 \\ft That is, the Babylonians; also in verse 5\\f*",
+          "raw_sha256": "02512ebcc4a6529e8f5a21e664f60ce9b0e5bfdf6541034a0db7bd33a496b00c"
+        }
+      ]
+    },
+    "48": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 48:14 \\ft That is, the Babylonians; also in verse 20\\f*",
+          "raw_sha256": "a3108a52860e9a462a36b116e58d086239ebbd71213dd21b60f73478468ed0ce"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 48:19 \\ft Literally \\fqa like the sand, and your offspring like its grains\\f*",
+          "raw_sha256": "0c107b226f414fac1abd2b6b13697130c3e0765def27e2b02e2b28ad00f353a2"
+        }
+      ]
+    },
+    "49": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 49:1 \\ft Or \\fqa coastlands\\f*",
+          "raw_sha256": "10876d0e75bb41b8888f4c086c8e235d391f2a1fbbc39797e2ee82c7e59342a0"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 49:6 \\ft Cited in \\ref Acts 13:47|ACT 13:47\\ref*\\f*",
+          "raw_sha256": "e619a08937377a31a6595f54ee680060e3fd0ea4b3986f6222c45aebb7be797d"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 49:8 \\ft LXX \\fqa In the time of favor I heard You, and in the day of salvation I helped You;\\ft cited in \\ref 2 Corinthians 6:2|2CO 6:2\\ref*\\f*",
+          "raw_sha256": "d693e05635c82fab61bb4e66dd882e737221e0d9b2f419cafd316407e02f005c"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 49:10 \\ft Cited in \\ref Revelation 7:16|REV 7:16\\ref*\\f*",
+          "raw_sha256": "43a62189e2af71f05450c703c214d665b3a8f5cde338a22383396ae9eb99b87c"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 49:12 \\ft Or \\fqa from the sea\\f*",
+          "raw_sha256": "95010b9b224251e9809898ca01aab76ab782914e1d0a1c7083104f374630308a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 49:12 \\ft That is, a region in southern Egypt (from DSS); MT \\fqa the land of Sinim\\f*",
+          "raw_sha256": "4f9821d2f779ade382d21048a9bdbda425c7648ab93cbbcaeaf280e50d9269f3"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 49:17 \\ft DSS; MT \\fqa Your sons\\f*",
+          "raw_sha256": "6c804718c0d2bc21d2cea585f5991dff74a30d7625cd9b8e39d968cc1b3feee3"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 49:22 \\ft Hebrew \\fqa in their bosom\\f*",
+          "raw_sha256": "bccd8f784fb1b4af32258b012b51cd68e81ac49120cb5b589bdf311e261b26ed"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 49:24 \\ft DSS, Syriac, and Vulgate (see also verse 25); MT \\fqa of the righteous\\f*",
+          "raw_sha256": "2f9f0e3df22e5e183d311a3f3b8553daca17d4c4fa1797751651722ae11295d8"
+        }
+      ]
+    },
+    "51": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 51:5 \\ft Or \\fqa coastlands\\f*",
+          "raw_sha256": "7ca06fa24338e4b43a5c0042512942a4d9792afc474d097df26db2d32606affc"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 51:16 \\ft Or \\fqa to plant\\f*",
+          "raw_sha256": "6f558a98020ff07e5190a6fe702f0aebf31051c2b0043421f1dfbe303b37bd25"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 51:19 \\ft DSS, LXX, Syriac, and Vulgate; MT \\fqa How can I comfort you?\\f*",
+          "raw_sha256": "4f044948c66e21fb3a0d123f1eacda13d7bf4edc032594a982ad1b680b0151a4"
+        }
+      ]
+    },
+    "52": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 52:5 \\ft DSS and Vulgate; MT \\fqa wail\\f*",
+          "raw_sha256": "d7c40567689f0439e5cd3920039e5d11773ce2c0a164ed243d45b7cc1b380598"
+        },
+        {
+          "source_usfm": "\\f + \\fr 52:5 \\ft LXX \\fqa —on account of you My name is blasphemed continually among the Gentiles\\ft ; cited in \\ref Romans 2:24|ROM 2:24\\ref*\\f*",
+          "raw_sha256": "00143fc7ba6a050d93a9b0b58f3be86afdfae9609a56bb2b2001aa0a3b42605a"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 52:7 \\ft Cited in \\ref Romans 10:15|ROM 10:15\\ref*\\f*",
+          "raw_sha256": "61b045459c16cd06692f1f843a9084f7dcf97f177f9e69d1dac1ad70848498bc"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 52:11 \\ft Cited in \\ref 2 Corinthians 6:17|2CO 6:17\\ref*\\f*",
+          "raw_sha256": "761ed30131ce79b7b04d2207b68d296e9ef959028cc97ab6bb4793a375f017a7"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 52:13 \\ft Or \\fqa will act wisely\\f*",
+          "raw_sha256": "003e9678c9b8afcbb6404089be2b8f1b4e43a86f9190ad941ffcf4030355b85d"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 52:14 \\ft Syriac; Hebrew \\fqa at You\\f*",
+          "raw_sha256": "9c4e2705e21345099d3c040dc2ce1edc68b5885ad1c333df26ccf4d778d66ff3"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 52:15 \\ft Or \\fqa startle\\f*",
+          "raw_sha256": "47fd28831cd6118be940ba43febdb2e353c8fb8464e64bb4b7a004ec5aa6e17c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 52:15 \\ft LXX \\fqa For those who were not told will see, and those who have not heard will understand.\\ft Cited in \\ref Romans 15:21|ROM 15:21\\ref*\\f*",
+          "raw_sha256": "886da9ed86a54124739c607220a00afa9187450307293e286fedcb43c7787896"
+        }
+      ]
+    },
+    "53": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 53:1 \\ft Cited in \\ref John 12:38|JHN 12:38\\ref* and Romans 10:16\\f*",
+          "raw_sha256": "6edb7fbe14fd940f88db1eabda60a4ec413cb7582c51f6c9c75986240f47c90d"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 53:4 \\ft LXX \\fqa This One bears our sins and is pained for us\\ft ; cited in \\ref Matthew 8:17|MAT 8:17\\ref* and 1 Peter 2:24\\f*",
+          "raw_sha256": "61aeb369f61b8088bf8a03215702a36b653234329c05b3466958be561743cac0"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 53:5 \\ft Cited in \\ref 1 Peter 2:24|1PE 2:24\\ref*\\f*",
+          "raw_sha256": "1acbc3d2193f2465d8caaf1d3c31f4a7cfbd3e7040875673547ae377f2e36bdf"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 53:6 \\ft Cited in \\ref 1 Peter 2:25|1PE 2:25\\ref*\\f*",
+          "raw_sha256": "53213bbf9994544c7652acf9a42d64715ba5eeea2cebfa8e744a6bbaf0a1116b"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 53:8 \\ft LXX \\fqa In humiliation He was deprived of justice. Who can recount His descendants? For His life was removed from the earth;\\ft cited in \\ref Acts 8:32–33|ACT 8:32-33\\ref*.\\f*",
+          "raw_sha256": "b5db50c2adb96b6d090542fc3d89da74b2d56465a95a225f04348b1b9ba72a5c"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 53:9 \\ft Cited in \\ref 1 Peter 2:22|1PE 2:22\\ref*\\f*",
+          "raw_sha256": "f2e0a4de3d7f74405cfd17adad1f99d1ad5b225b2b9d56cf9dfecf24e0d78b17"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 53:10 \\ft Or \\fqa and though He makes His life a guilt offering\\f*",
+          "raw_sha256": "a272ad37a97a11b1d399c9ab82d1ad724785256dc3e633d48674f55f9b7c841d"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 53:11 \\ft DSS (see also LXX); MT does not include \\fqa the light of life\\ft .\\f*",
+          "raw_sha256": "bf913c013d007304a3708a7fb60ca33d15ee4890f4c8a9c229622582e0479826"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 53:12 \\ft Or \\fqa many\\f*",
+          "raw_sha256": "d5e6702a0ada31cb26f4d7acd0b48a65daf95da6368595aa5c396f82bc9f5ffc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 53:12 \\ft Or \\fqa numerous\\f*",
+          "raw_sha256": "9f48a87589cc67285ee43ca93406fcd2dee6036f0686c2699f22389961ab53e7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 53:12 \\ft Cited in \\ref Luke 22:37|LUK 22:37\\ref*\\f*",
+          "raw_sha256": "65895209ba52d3ddc487bd9421b3d95b8ae003f61a506f02687a3070e632f55d"
+        }
+      ]
+    },
+    "54": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 54:1 \\ft Cited in \\ref Galatians 4:27|GAL 4:27\\ref*\\f*",
+          "raw_sha256": "6d27432ee053089b002bc122820536443aacf58a97cb4bc5276ae66ae7b6fdd4"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 54:2 \\ft Or \\fqa and strengthen your stakes\\f*",
+          "raw_sha256": "fc1008c56d68785525b195ec3356da5cc78b61c9f19aa5f099fc327673415b68"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 54:9 \\ft Some manuscripts \\fqa For this is like the waters of Noah\\f*",
+          "raw_sha256": "f5ba3b08e698502e452c581a99e52bc9a2c4dc68a9eb16f3ad048ca88ef8f27b"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 54:11 \\ft Or \\fqa lapis lazuli\\f*",
+          "raw_sha256": "fbf1f8aca56a96dc33c4d9819997f466bc530ad3f1a08868b89d1d9b9c059d84"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 54:13 \\ft Cited in \\ref John 6:45|JHN 6:45\\ref*\\f*",
+          "raw_sha256": "2cbc71b7ab9e4bb3667ca6ac453aac8dc9319f90d6302420b1fc23fda8344919"
+        }
+      ]
+    },
+    "55": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 55:3 \\ft Cited in \\ref Acts 13:34|ACT 13:34\\ref*\\f*",
+          "raw_sha256": "4c111f79ac44c6e7f78521290cba6c1d404e1d8d93ba6c5ad17a3fbb01cb051b"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 55:13 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\f*",
+          "raw_sha256": "4ce3ef427e0ce178a59616632f88d1c3a73af840647b7289384c6c0393f3b3ae"
+        }
+      ]
+    },
+    "56": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 56:7 \\ft Cited in \\ref Matthew 21:13|MAT 21:13\\ref*, Mark 11:17, and Luke 19:46\\f*",
+          "raw_sha256": "648b3d32624a5c96b17d56b6fab0eda26839e8d333e0403c7b3815dec493c0a3"
+        }
+      ]
+    },
+    "57": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 57:9 \\ft Or \\fqa to the king\\f*",
+          "raw_sha256": "b0763d84ae99029febf42b13657b890a03b4b3ec2f0b823d4f080ce94f750fa7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 57:9 \\ft Or \\fqa idols\\f*",
+          "raw_sha256": "586ddd5dab9635793e4a36a7d7d3e7cb1198301b8bd3b03df2916d2840712fa2"
+        }
+      ]
+    },
+    "59": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 59:7 \\ft LXX \\fqa misery\\f*",
+          "raw_sha256": "5706b7bc928bf286d8407031f9677e354897505d7d93aafc2578c5707f92ab67"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 59:8 \\ft Cited in \\ref Romans 3:15–17|ROM 3:15-17\\ref*\\f*",
+          "raw_sha256": "a4f6c964610c2de8ce5b7f7c2b6d4cb014681673a4bd3421740117aabd39a97c"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 59:15 \\ft Hebrew \\fqa and it was evil in His eyes\\f*",
+          "raw_sha256": "90f97abd3340d0bb866a9bdc99def982a3e4a6e4e385643b863e941d81dda94f"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 59:18 \\ft Or \\fqa coastlands\\f*",
+          "raw_sha256": "ae2f8bc2585fe959f1b5d111badf7fe5aff36a089835bd4e535bb7c478c626e7"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 59:19 \\ft Or \\fqa When the enemy comes like a raging flood, the Spirit of the LORD will drive him back\\f*",
+          "raw_sha256": "dfa8ecc34b63c73576cb7a2c61e83fadc44ad6a5df244f0b208eea3a178129c4"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 59:20 \\ft LXX \\fqa to remove godlessness from Jacob\\ft ; cited in \\ref Romans 11:26|ROM 11:26\\ref*\\f*",
+          "raw_sha256": "44a3fd51a7ee7bb2e0058c65cb844baba69a00825a0399a11eebca9c71032a67"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 59:21 \\ft Cited in \\ref Romans 11:27|ROM 11:27\\ref*\\f*",
+          "raw_sha256": "131db01e04a15880a9e0befc34f722631d133c5495a0a6cbdae94963370ea0a3"
+        },
+        {
+          "source_usfm": "\\f + \\fr 59:21 \\ft Literally \\fqa My Spirit, who is upon you,\\f*",
+          "raw_sha256": "085e67b33334f165ad7eb06269a491c96c933505c318f6e1012e88365b0d5170"
+        }
+      ]
+    },
+    "60": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 60:9 \\ft Or \\fqa coastlands\\f*",
+          "raw_sha256": "c2746f475765372c9d484d20497d629f8c2f84ece370b4ae22890657d948ec7d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 60:9 \\ft Or \\fqa a fleet of trading ships\\f*",
+          "raw_sha256": "ef5dc9a75d41fbbe6bbc57ed643f9837b80a2f5aeb857c5096923f0cfeb228e7"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 60:13 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\f*",
+          "raw_sha256": "d8f3990ea98aab210fcc1a3514f1feeb3e486388de6d52a86d2c7b2ea7a6bbe5"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 60:19 \\ft DSS, LXX, and Targum Yonaton; MT \\fqa shine on you\\f*",
+          "raw_sha256": "686e5c2affdb2d9877867bf9d91b216196abba9d2c57c4916fa281521366c78a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 60:19 \\ft Or \\fqa your beauty\\f*",
+          "raw_sha256": "b4b19b733a78978c803a246be0cc00f93a642ac0ae02ab05ad203c4aa5e87827"
+        }
+      ]
+    },
+    "61": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 61:1 \\ft Hebrew; LXX \\fqa to proclaim liberty to the captives and recovery of sight to the blind\\ft ; cited in \\ref Luke 4:18|LUK 4:18\\ref*\\f*",
+          "raw_sha256": "8c753c1fc3a709846d5542963284b5729b7d7feb931ed3aa08965d70b59493c1"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 61:2 \\ft Or \\fqa to proclaim the acceptable year of the LORD\\ft ; cited in \\ref Luke 4:19|LUK 4:19\\ref*\\f*",
+          "raw_sha256": "5099e8eea5c8358c1e237fd451b8683afaa92578d72882695075a0a09ae8ca2f"
+        }
+      ]
+    },
+    "62": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 62:4 \\ft Hebrew \\fqa Azubah\\f*",
+          "raw_sha256": "cd87b60aa78ece95c252f083b8feb8d9cad1595b85c1130fad0c39b19849a40d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 62:4 \\ft Hebrew \\fqa Shemamah\\f*",
+          "raw_sha256": "5038efa0764171d5e3543bfe474bf18ac0f88541ea6a7421fd5641d27792bd40"
+        },
+        {
+          "source_usfm": "\\f + \\fr 62:4 \\fqa Hephzibah \\ft means \\fqa My delight is in her\\ft .\\f*",
+          "raw_sha256": "277e3c34eaa19fac008f4dd09bba1f9a8dcbc82eaf5894b55cee2a2944d855c1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 62:4 \\fqa Beulah \\ft means \\fqa married\\ft .\\f*",
+          "raw_sha256": "d01849a8c53b6109d566f8f389e1667827def66db9fb86ea4f426a1a9a3200dd"
+        }
+      ]
+    },
+    "63": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 63:1 \\ft Or \\fqa It is I, speaking in righteousness,\\f*",
+          "raw_sha256": "4bc77077913c9992e851403b3f8c06385ac0dbf57736c67f6c3f34da343f1ee4"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 63:9 \\ft Or \\fqa angel of His presence\\f*",
+          "raw_sha256": "7522d0aa34a5aafbed50655b26fbc91d2a04a86c306d370216939360c9e2a3bd"
+        }
+      ]
+    },
+    "64": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 64:4 \\ft Cited in \\ref 1 Corinthians 2:9|1CO 2:9\\ref*\\f*",
+          "raw_sha256": "9249d8bcd310fa2a5574a9a533a664206ef5f1c5558977ac94282f635eb3fa34"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 64:6 \\ft Or \\fqa like a stained menstrual garment \\ft \\f*",
+          "raw_sha256": "fc894e12b06f03683511f1f02295cbe7a8d594103f8597fc4e3b23fbd21d1340"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 64:7 \\ft LXX, Syriac, and Targum Yonaton; MT \\fqa have made us melt in the hand\\f*",
+          "raw_sha256": "d44a7a8d59f20fca24cd5e3196a5cd383148a90d61ca4e0cd92ebb63eecbcdd5"
+        }
+      ]
+    },
+    "65": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 65:1 \\ft Cited in \\ref Romans 10:20|ROM 10:20\\ref*\\f*",
+          "raw_sha256": "b563292f556aa425870a873e0e489bc6b08f12d466432057d4d7a2e404ce42fa"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 65:2 \\ft LXX \\fqa to a disobedient and obstinate people\\ft ; cited in \\ref Romans 10:21|ROM 10:21\\ref*\\f*",
+          "raw_sha256": "acca72efc8ee8800a1582c9f978bf9d39d940fdebff9e40952a701b4b840764d"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 65:9 \\ft Or \\fqa and heirs to My mountains out of Judah; My elect will possess them\\f*",
+          "raw_sha256": "b3703ecda4ba550994731cc5b0659eda7f34b16bcdcbffe70b380ab0cf9d0c61"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 65:11 \\ft Hebrew \\fqa Gad\\ft , the Babylonian god of fortune\\f*",
+          "raw_sha256": "8a891d5d3a85b6777201e58c77953eb60a07fd127eff1b86d006511a19ddcbfa"
+        },
+        {
+          "source_usfm": "\\f + \\fr 65:11 \\ft Hebrew \\fqa Meni\\ft , the Babylonian god of fate\\f*",
+          "raw_sha256": "98ac54b08a7f7ff85633d2295da4c2991588f6955096197249e44db50b924da8"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 65:17 \\ft LXX \\fqa a new heaven and a new earth\\ft ; see also \\ref Isaiah 66:22|ISA 66:22\\ref* and Revelation 21:1.\\f*",
+          "raw_sha256": "64c9cb1861b7683314b56fa44c7ae1a523843e7c006049ec4aba48e9a1533615"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 65:25 \\ft Hebrew \\fqa nachash\\ft ; translated in most cases as \\fqa snake\\f*",
+          "raw_sha256": "10d023bddb68755ec07bb541160c1cc4d44e8eb475299a4f978a94340af50dfc"
+        }
+      ]
+    },
+    "66": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 66:2 \\ft Cited in \\ref Acts 7:49–50|ACT 7:49-50\\ref*\\f*",
+          "raw_sha256": "d640b888cf21ef75cf84e2477e35195ef554a18961a0b3d3198c80b1e7f00cca"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 66:18 \\ft Literally \\fqa And I, their deeds and their thoughts, am coming\\f*",
+          "raw_sha256": "1cbcfac6db6fb0a07f2f276494eaa92ff0a4d19ea2157707ad29e875e766374e"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 66:19 \\ft Or \\fqa coastlands\\f*",
+          "raw_sha256": "bbaa9a33748460cb9e96c1a246b97b665f09e1cbfd66abe63fffab61611c181c"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 66:22 \\ft LXX \\fqa the new heaven and the new earth\\ft ; see also \\ref Isaiah 65:17|ISA 65:17\\ref* and Revelation 21:1.\\f*",
+          "raw_sha256": "e01f05450cebb60fc8c7f74a4b1dbe7529964571f0fd14a3652111bdb63f1d46"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 66:24 \\ft Cited in \\ref Mark 9:48|MRK 9:48\\ref*\\f*",
+          "raw_sha256": "20ae1968306f8d9353af06a137a425232b05beef51e538568faef900d7ed32c0"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 60,
+  "verses": [
+    {
+      "id": "ISA.60.1",
+      "edition_verse_id": "BSB:ISA.60.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Arise, shine, for your light has come, and the glory of the LORD rises upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.60.2",
+      "edition_verse_id": "BSB:ISA.60.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For behold, darkness covers the earth, and thick darkness is over the peoples; but the LORD will rise upon you, and His glory will appear over you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.3",
+      "edition_verse_id": "BSB:ISA.60.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Nations will come to your light, and kings to the brightness of your dawn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.4",
+      "edition_verse_id": "BSB:ISA.60.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Lift up your eyes and look around: They all gather and come to you; your sons will come from afar, and your daughters will be carried on the arm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.5",
+      "edition_verse_id": "BSB:ISA.60.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then you will look and be radiant, and your heart will tremble and swell with joy, because the riches of the sea will be brought to you, and the wealth of the nations will come to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.6",
+      "edition_verse_id": "BSB:ISA.60.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Caravans of camels will cover your land, young camels of Midian and Ephah, and all from Sheba will come, bearing gold and frankincense and proclaiming the praises of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.7",
+      "edition_verse_id": "BSB:ISA.60.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the flocks of Kedar will be gathered to you; the rams of Nebaioth will serve you and go up on My altar with acceptance; I will adorn My glorious house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.8",
+      "edition_verse_id": "BSB:ISA.60.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Who are these who fly like clouds, like doves to their shelters?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.9",
+      "edition_verse_id": "BSB:ISA.60.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Surely the islands will wait for Me, with the ships of Tarshish in the lead, to bring your children from afar, with their silver and gold, to the honor of the LORD your God, the Holy One of Israel, for He has glorified you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.10",
+      "edition_verse_id": "BSB:ISA.60.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Foreigners will rebuild your walls, and their kings will serve you. Although I struck you in anger, yet in favor I will show you mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.11",
+      "edition_verse_id": "BSB:ISA.60.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Your gates will always stand open; they will never be shut, day or night, so that the wealth of the nations may be brought into you, with their kings being led in procession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.12",
+      "edition_verse_id": "BSB:ISA.60.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For the nation or kingdom that will not serve you will perish; it will be utterly destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.13",
+      "edition_verse_id": "BSB:ISA.60.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The glory of Lebanon will come to you— its cypress, elm, and boxwood together— to adorn the place of My sanctuary, and I will glorify the place of My feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.14",
+      "edition_verse_id": "BSB:ISA.60.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The sons of your oppressors will come and bow down to you; all who reviled you will fall facedown at your feet and call you the City of the LORD, Zion of the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.15",
+      "edition_verse_id": "BSB:ISA.60.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Whereas you have been forsaken and despised, with no one passing through, I will make you an everlasting pride, a joy from age to age.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.16",
+      "edition_verse_id": "BSB:ISA.60.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You will drink the milk of nations and nurse at the breasts of royalty; you will know that I, the LORD, am your Savior and your Redeemer, the Mighty One of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.17",
+      "edition_verse_id": "BSB:ISA.60.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Instead of bronze I will bring you gold; I will bring silver in place of iron, bronze instead of wood, and iron instead of stones. I will appoint peace as your governor and righteousness as your ruler.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.18",
+      "edition_verse_id": "BSB:ISA.60.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "No longer will violence be heard in your land, nor ruin or destruction within your borders. But you will name your walls Salvation and your gates Praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.19",
+      "edition_verse_id": "BSB:ISA.60.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "No longer will the sun be your light by day, nor the brightness of the moon shine on your night; for the LORD will be your everlasting light, and your God will be your splendor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.20",
+      "edition_verse_id": "BSB:ISA.60.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Your sun will no longer set, and your moon will not wane; for the LORD will be your everlasting light, and the days of your sorrow will cease.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.21",
+      "edition_verse_id": "BSB:ISA.60.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then all your people will be righteous; they will possess the land forever; they are the branch of My planting, the work of My hands, so that I may be glorified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.60.22",
+      "edition_verse_id": "BSB:ISA.60.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The least of you will become a thousand, and the smallest a mighty nation. I am the LORD; in its time I will accomplish it quickly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

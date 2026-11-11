@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JAS",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JAS.5.1",
+      "edition_verse_id": "BSB:JAS.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Come now, you who are rich, weep and wail over the misery to come upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.2",
+      "edition_verse_id": "BSB:JAS.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Your riches have rotted and moths have eaten your clothes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.3",
+      "edition_verse_id": "BSB:JAS.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Your gold and silver are corroded. Their corrosion will testify against you and consume your flesh like fire. You have hoarded treasure in the last days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.4",
+      "edition_verse_id": "BSB:JAS.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Look, the wages you withheld from the workmen who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord of Hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.5",
+      "edition_verse_id": "BSB:JAS.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You have lived on earth in luxury and self-indulgence. You have fattened your hearts in the day of slaughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.6",
+      "edition_verse_id": "BSB:JAS.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You have condemned and murdered the righteous, who did not resist you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.7",
+      "edition_verse_id": "BSB:JAS.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be patient, then, brothers, until the Lord’s coming. See how the farmer awaits the precious fruit of the soil — how patient he is for the fall and spring rains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.8",
+      "edition_verse_id": "BSB:JAS.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You, too, be patient and strengthen your hearts, because the Lord’s coming is near.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.9",
+      "edition_verse_id": "BSB:JAS.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do not complain about one another, brothers, so that you will not be judged. Look, the Judge is standing at the door!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.10",
+      "edition_verse_id": "BSB:JAS.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Brothers, as an example of patience in affliction, take the prophets who spoke in the name of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.11",
+      "edition_verse_id": "BSB:JAS.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "See how blessed we consider those who have persevered. You have heard of Job’s perseverance and have seen the outcome from the Lord. The Lord is full of compassion and mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.12",
+      "edition_verse_id": "BSB:JAS.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Above all, my brothers, do not swear, not by heaven or earth or by any other oath. Simply let your “Yes” be yes, and your “No,” no, so that you will not fall under judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.13",
+      "edition_verse_id": "BSB:JAS.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Is any one of you suffering? He should pray. Is anyone cheerful? He should sing praises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.14",
+      "edition_verse_id": "BSB:JAS.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.15",
+      "edition_verse_id": "BSB:JAS.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the prayer offered in faith will restore the one who is sick. The Lord will raise him up. If he has sinned, he will be forgiven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.16",
+      "edition_verse_id": "BSB:JAS.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man has great power to prevail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.17",
+      "edition_verse_id": "BSB:JAS.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Elijah was a man just like us. He prayed earnestly that it would not rain, and it did not rain on the land for three and a half years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.18",
+      "edition_verse_id": "BSB:JAS.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Again he prayed, and the heavens gave rain, and the earth yielded its crops.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JAS.5.19",
+      "edition_verse_id": "BSB:JAS.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My brothers, if one of you should wander from the truth and someone should bring him back,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JAS.5.20",
+      "edition_verse_id": "BSB:JAS.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "consider this: Whoever turns a sinner from the error of his way will save his soul from death and cover over a multitude of sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

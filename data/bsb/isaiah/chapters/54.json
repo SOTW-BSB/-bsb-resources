@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ISA",
+  "chapter": 54,
+  "verses": [
+    {
+      "id": "ISA.54.1",
+      "edition_verse_id": "BSB:ISA.54.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,” says the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ISA.54.2",
+      "edition_verse_id": "BSB:ISA.54.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Enlarge the site of your tent, stretch out the curtains of your dwellings, do not hold back. Lengthen your ropes and drive your stakes in deep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.3",
+      "edition_verse_id": "BSB:ISA.54.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For you will spread out to the right and left; your descendants will dispossess the nations and inhabit the desolate cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.4",
+      "edition_verse_id": "BSB:ISA.54.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do not be afraid, for you will not be put to shame; do not be intimidated, for you will not be humiliated. For you will forget the shame of your youth and will remember no more the reproach of your widowhood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.5",
+      "edition_verse_id": "BSB:ISA.54.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For your husband is your Maker — the LORD of Hosts is His name— the Holy One of Israel is your Redeemer; He is called the God of all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.6",
+      "edition_verse_id": "BSB:ISA.54.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For the LORD has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.7",
+      "edition_verse_id": "BSB:ISA.54.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“For a brief moment I forsook you, but with great compassion I will bring you back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.8",
+      "edition_verse_id": "BSB:ISA.54.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In a surge of anger I hid My face from you for a moment, but with everlasting kindness I will have compassion on you,” says the LORD your Redeemer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.9",
+      "edition_verse_id": "BSB:ISA.54.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“For to Me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth. So I have sworn that I will not be angry with you or rebuke you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.10",
+      "edition_verse_id": "BSB:ISA.54.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Though the mountains may be removed and the hills may be shaken, My loving devotion will not depart from you, and My covenant of peace will not be broken,” says the LORD, who has compassion on you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.11",
+      "edition_verse_id": "BSB:ISA.54.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“O afflicted city, lashed by storms, without solace, surely I will set your stones in antimony and lay your foundations with sapphires.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.12",
+      "edition_verse_id": "BSB:ISA.54.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will make your pinnacles of rubies, your gates of sparkling jewels, and all your walls of precious stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.13",
+      "edition_verse_id": "BSB:ISA.54.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then all your sons will be taught by the LORD, and great will be their prosperity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.14",
+      "edition_verse_id": "BSB:ISA.54.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In righteousness you will be established, far from oppression, for you will have no fear. Terror will be far removed, for it will not come near you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.15",
+      "edition_verse_id": "BSB:ISA.54.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If anyone attacks you, it is not from Me; whoever assails you will fall before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.16",
+      "edition_verse_id": "BSB:ISA.54.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Behold, I have created the craftsman who fans the coals into flame and forges a weapon fit for its task; and I have created the destroyer to wreak havoc.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ISA.54.17",
+      "edition_verse_id": "BSB:ISA.54.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "No weapon formed against you shall prosper, and you will refute every tongue that accuses you. This is the heritage of the servants of the LORD, and their vindication is from Me,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

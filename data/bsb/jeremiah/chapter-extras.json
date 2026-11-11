@@ -1,0 +1,337 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Call of Jeremiah"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Israel Has Forsaken God",
+        "\\s1 The Consequence of Israel’s Sin",
+        "\\s1 Israel’s Unfaithfulness"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Wages of the Harlot",
+        "\\s1 Judah Follows Israel’s Example",
+        "\\s1 A Call to Repentance"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 A Plea to Return",
+        "\\s1 Disaster from the North",
+        "\\s1 Lamentation for Judah"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 No One Is Just",
+        "\\s1 Judgment Proclaimed"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Jerusalem’s Final Warning",
+        "\\s1 An Invasion from the North"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Jeremiah’s Message at the Temple Gate",
+        "\\s1 Judah’s Idolatry Persists",
+        "\\s1 The Valley of Slaughter"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Judah’s Sin and Punishment",
+        "\\s1 The People Respond",
+        "\\s1 Jeremiah Weeps for His People"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 A Lament over Zion"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 The Sovereignty of God",
+        "\\s1 The Coming Captivity of Judah"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Broken Covenant",
+        "\\s1 A Plot against Jeremiah"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Prosperity of the Wicked",
+        "\\s1 God’s Answer to Jeremiah",
+        "\\s1 A Message for Israel’s Neighbors"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 The Linen Loincloth",
+        "\\s1 The Wineskins",
+        "\\s1 Captivity Threatened"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Drought, Famine, Sword, and Plague",
+        "\\s1 A Prayer for Mercy"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Judgment to Continue",
+        "\\s1 Jeremiah’s Woe",
+        "\\s1 The LORD’s Promise"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Disaster Predicted",
+        "\\s1 God Will Restore Israel"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 The Sin and Punishment of Judah",
+        "\\s1 Jeremiah’s Prayer for Deliverance",
+        "\\s1 Restoring the Sabbath"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 The Potter and the Clay",
+        "\\s1 Another Plot against Jeremiah"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 The Broken Jar"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Pashhur Persecutes Jeremiah",
+        "\\s1 Jeremiah’s Complaint"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 Jerusalem Will Fall to Babylon",
+        "\\s1 A Message to the House of David"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 A Warning to Judah’s Kings",
+        "\\s1 A Warning about the Palace",
+        "\\s1 A Warning about Shallum",
+        "\\s1 A Warning about Jehoiakim",
+        "\\s1 A Warning to Coniah"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 David’s Righteous Branch",
+        "\\s1 Lying Prophets",
+        "\\s1 False Prophecies"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 The Good and Bad Figs"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 Seventy Years of Captivity",
+        "\\s1 The Cup of God’s Wrath",
+        "\\s1 The Cry of the Shepherds"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 A Warning to the Cities of Judah",
+        "\\s1 Jeremiah Threatened with Death",
+        "\\s1 Jeremiah Spared from Death",
+        "\\s1 The Prophet Uriah"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 The Yoke of Nebuchadnezzar"
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 Hananiah’s False Prophecy"
+      ]
+    },
+    "29": {
+      "source_headings": [
+        "\\s1 Jeremiah’s Letter to the Exiles",
+        "\\s1 The Message to Shemaiah"
+      ]
+    },
+    "30": {
+      "source_headings": [
+        "\\s1 The Restoration of Israel and Judah"
+      ]
+    },
+    "31": {
+      "source_headings": [
+        "\\s1 Mourning Turned to Joy",
+        "\\s1 The New Covenant"
+      ]
+    },
+    "32": {
+      "source_headings": [
+        "\\s1 Jeremiah Buys Hanamel’s Field",
+        "\\s1 Jeremiah Prays for Understanding",
+        "\\s1 The LORD Answers Jeremiah",
+        "\\s1 A Promise of Restoration"
+      ]
+    },
+    "33": {
+      "source_headings": [
+        "\\s1 The Excellence of the Restored Nation",
+        "\\s1 The Covenant with David"
+      ]
+    },
+    "34": {
+      "source_headings": [
+        "\\s1 A Prophecy against Zedekiah",
+        "\\s1 Freedom for Hebrew Slaves"
+      ]
+    },
+    "35": {
+      "source_headings": [
+        "\\s1 The Obedience of the Rechabites",
+        "\\s1 Judah Rebuked"
+      ]
+    },
+    "36": {
+      "source_headings": [
+        "\\s1 Jeremiah’s Scroll Read in the Temple",
+        "\\s1 Jeremiah’s Scroll Read in the Palace",
+        "\\s1 Jehoiakim Burns the Scroll",
+        "\\s1 Jeremiah Rewrites the Scroll"
+      ]
+    },
+    "37": {
+      "source_headings": [
+        "\\s1 Jeremiah Warns Zedekiah",
+        "\\s1 Jeremiah Imprisoned"
+      ]
+    },
+    "38": {
+      "source_headings": [
+        "\\s1 Jeremiah Cast into the Cistern"
+      ]
+    },
+    "39": {
+      "source_headings": [
+        "\\s1 The Fall of Jerusalem",
+        "\\s1 Jeremiah Delivered"
+      ]
+    },
+    "40": {
+      "source_headings": [
+        "\\s1 Jeremiah Remains in Judah",
+        "\\s1 Gedaliah Governs in Judah",
+        "\\s1 The Plot against Gedaliah"
+      ]
+    },
+    "41": {
+      "source_headings": [
+        "\\s1 The Murder of Gedaliah",
+        "\\s1 Johanan Rescues the Captives"
+      ]
+    },
+    "42": {
+      "source_headings": [
+        "\\s1 A Warning against Going to Egypt"
+      ]
+    },
+    "43": {
+      "source_headings": [
+        "\\s1 Jeremiah Taken to Egypt"
+      ]
+    },
+    "44": {
+      "source_headings": [
+        "\\s1 Judgment on the Jews in Egypt",
+        "\\s1 The Stubbornness of the People",
+        "\\s1 Calamity for the Jews"
+      ]
+    },
+    "45": {
+      "source_headings": [
+        "\\s1 Jeremiah’s Message to Baruch"
+      ]
+    },
+    "46": {
+      "source_headings": [
+        "\\s1 Judgment on Egypt"
+      ]
+    },
+    "47": {
+      "source_headings": [
+        "\\s1 Judgment on the Philistines"
+      ]
+    },
+    "48": {
+      "source_headings": [
+        "\\s1 Judgment on Moab"
+      ]
+    },
+    "49": {
+      "source_headings": [
+        "\\s1 Judgment on the Ammonites",
+        "\\s1 Judgment on Edom",
+        "\\s1 Judgment on Damascus",
+        "\\s1 Judgment on Kedar and Hazor",
+        "\\s1 Judgment on Elam"
+      ]
+    },
+    "50": {
+      "source_headings": [
+        "\\s1 A Prophecy against Babylon",
+        "\\s1 Hope for Israel and Judah",
+        "\\s1 Babylon’s Fall Is Certain",
+        "\\s1 Redemption for God’s People",
+        "\\s1 The Destruction of Babylon"
+      ]
+    },
+    "51": {
+      "source_headings": [
+        "\\s1 Judgment on Babylon",
+        "\\s1 Praise to the God of Jacob",
+        "\\s1 Babylon’s Punishment",
+        "\\s1 Jeremiah’s Message to Seraiah"
+      ]
+    },
+    "52": {
+      "source_headings": [
+        "\\s1 The Fall of Jerusalem Recounted",
+        "\\s1 The Temple Destroyed",
+        "\\s1 Captives Carried to Babylon",
+        "\\s1 Jehoiachin Released from Prison"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "JOB.8.1",
+      "edition_verse_id": "BSB:JOB.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Bildad the Shuhite replied:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.8.2",
+      "edition_verse_id": "BSB:JOB.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“How long will you go on saying such things? The words of your mouth are a blustering wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.3",
+      "edition_verse_id": "BSB:JOB.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Does God pervert justice? Does the Almighty pervert what is right?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.4",
+      "edition_verse_id": "BSB:JOB.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When your children sinned against Him, He gave them over to their rebellion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.5",
+      "edition_verse_id": "BSB:JOB.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But if you would earnestly seek God and ask the Almighty for mercy,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.6",
+      "edition_verse_id": "BSB:JOB.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "if you are pure and upright, even now He will rouse Himself on your behalf and restore your righteous estate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.7",
+      "edition_verse_id": "BSB:JOB.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Though your beginnings were modest, your latter days will flourish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.8",
+      "edition_verse_id": "BSB:JOB.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Please inquire of past generations and consider the discoveries of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.9",
+      "edition_verse_id": "BSB:JOB.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For we were born yesterday and know nothing; our days on earth are but a shadow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.10",
+      "edition_verse_id": "BSB:JOB.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Will they not teach you and tell you, and speak from their understanding?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.11",
+      "edition_verse_id": "BSB:JOB.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Does papyrus grow where there is no marsh? Do reeds flourish without water?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.12",
+      "edition_verse_id": "BSB:JOB.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "While the shoots are still uncut, they dry up more quickly than grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.13",
+      "edition_verse_id": "BSB:JOB.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Such is the destiny of all who forget God; so the hope of the godless will perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.14",
+      "edition_verse_id": "BSB:JOB.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "His confidence is fragile; his security is in a spider’s web.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.15",
+      "edition_verse_id": "BSB:JOB.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He leans on his web, but it gives way; he holds fast, but it does not endure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.16",
+      "edition_verse_id": "BSB:JOB.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He is a well-watered plant in the sunshine, spreading its shoots over the garden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.17",
+      "edition_verse_id": "BSB:JOB.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "His roots wrap around the rock heap; he looks for a home among the stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.18",
+      "edition_verse_id": "BSB:JOB.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If he is uprooted from his place, it will disown him, saying, ‘ I never saw you.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.19",
+      "edition_verse_id": "BSB:JOB.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Surely this is the joy of his way; yet others will spring from the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.20",
+      "edition_verse_id": "BSB:JOB.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Behold, God does not reject the blameless, nor will He strengthen the hand of evildoers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.21",
+      "edition_verse_id": "BSB:JOB.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He will yet fill your mouth with laughter, and your lips with a shout of joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.8.22",
+      "edition_verse_id": "BSB:JOB.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Your enemies will be clothed in shame, and the tent of the wicked will be no more.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

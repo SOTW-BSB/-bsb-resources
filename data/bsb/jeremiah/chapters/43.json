@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 43,
+  "verses": [
+    {
+      "id": "JER.43.1",
+      "edition_verse_id": "BSB:JER.43.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Jeremiah had finished telling all the people all the words of the LORD their God— everything that the LORD had sent him to say—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.43.2",
+      "edition_verse_id": "BSB:JER.43.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Azariah son of Hoshaiah, Johanan son of Kareah, and all the arrogant men said to Jeremiah, “You are lying! The LORD our God has not sent you to say, ‘You must not go to Egypt to reside there.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.43.3",
+      "edition_verse_id": "BSB:JER.43.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Rather, Baruch son of Neriah is inciting you against us to deliver us into the hands of the Chaldeans, so that they may put us to death or exile us to Babylon!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.43.4",
+      "edition_verse_id": "BSB:JER.43.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So Johanan son of Kareah and all the commanders of the forces disobeyed the command of the LORD to stay in the land of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.43.5",
+      "edition_verse_id": "BSB:JER.43.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Instead, Johanan son of Kareah and all the commanders of the forces took the whole remnant of Judah, those who had returned to the land of Judah from all the nations to which they had been scattered,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.43.6",
+      "edition_verse_id": "BSB:JER.43.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "the men, the women, the children, the king’s daughters, and everyone whom Nebuzaradan captain of the guard had allowed to remain with Gedaliah son of Ahikam, the son of Shaphan, as well as Jeremiah the prophet and Baruch son of Neriah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.43.7",
+      "edition_verse_id": "BSB:JER.43.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So they entered the land of Egypt because they did not obey the voice of the LORD, and they went as far as Tahpanhes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.43.8",
+      "edition_verse_id": "BSB:JER.43.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to Jeremiah at Tahpanhes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.43.9",
+      "edition_verse_id": "BSB:JER.43.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“In the sight of the Jews, pick up some large stones and bury them in the clay of the brick pavement at the entrance to Pharaoh’s palace at Tahpanhes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.43.10",
+      "edition_verse_id": "BSB:JER.43.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then tell them that this is what the LORD of Hosts, the God of Israel, says: ‘I will send for My servant Nebuchadnezzar king of Babylon, and I will set his throne over these stones that I have embedded, and he will spread his royal pavilion over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.43.11",
+      "edition_verse_id": "BSB:JER.43.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He will come and strike down the land of Egypt, bringing death to those destined for death, captivity to those destined for captivity, and the sword to those destined for the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.43.12",
+      "edition_verse_id": "BSB:JER.43.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will kindle a fire in the temples of the gods of Egypt, and Nebuchadnezzar will burn those temples and take their gods as captives. So he will wrap himself with the land of Egypt as a shepherd wraps himself in his garment, and he will depart from there unscathed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.43.13",
+      "edition_verse_id": "BSB:JER.43.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He will demolish the sacred pillars of the temple of the sun in the land of Egypt, and he will burn down the temples of the gods of Egypt.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

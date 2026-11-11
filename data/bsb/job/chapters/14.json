@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "JOB.14.1",
+      "edition_verse_id": "BSB:JOB.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Man, who is born of woman, is short of days and full of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.14.2",
+      "edition_verse_id": "BSB:JOB.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Like a flower, he comes forth, then withers away; like a fleeting shadow, he does not endure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.3",
+      "edition_verse_id": "BSB:JOB.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Do You open Your eyes to one like this? Will You bring him into judgment before You?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.4",
+      "edition_verse_id": "BSB:JOB.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who can bring out clean from unclean? No one!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.5",
+      "edition_verse_id": "BSB:JOB.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Since his days are determined and the number of his months is with You, and since You have set limits that he cannot exceed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.6",
+      "edition_verse_id": "BSB:JOB.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "look away from him and let him rest, so he can enjoy his day as a hired hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.7",
+      "edition_verse_id": "BSB:JOB.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For there is hope for a tree: If it is cut down, it will sprout again, and its tender shoots will not fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.8",
+      "edition_verse_id": "BSB:JOB.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If its roots grow old in the ground and its stump dies in the soil,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.9",
+      "edition_verse_id": "BSB:JOB.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "at the scent of water it will bud and put forth twigs like a sapling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.10",
+      "edition_verse_id": "BSB:JOB.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But a man dies and is laid low; he breathes his last, and where is he?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.11",
+      "edition_verse_id": "BSB:JOB.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "As water disappears from the sea and a river becomes parched and dry,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.12",
+      "edition_verse_id": "BSB:JOB.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "so a man lies down and does not rise. Until the heavens are no more, he will not be awakened or roused from sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.13",
+      "edition_verse_id": "BSB:JOB.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If only You would hide me in Sheol and conceal me until Your anger has passed! If only You would appoint a time for me and then remember me!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.14",
+      "edition_verse_id": "BSB:JOB.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When a man dies, will he live again? All the days of my hard service I will wait, until my renewal comes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.15",
+      "edition_verse_id": "BSB:JOB.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You will call, and I will answer; You will desire the work of Your hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.16",
+      "edition_verse_id": "BSB:JOB.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For then You would count my steps, but would not keep track of my sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.17",
+      "edition_verse_id": "BSB:JOB.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "My transgression would be sealed in a bag, and You would cover over my iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.18",
+      "edition_verse_id": "BSB:JOB.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But as a mountain erodes and crumbles and a rock is dislodged from its place,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.19",
+      "edition_verse_id": "BSB:JOB.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "as water wears away the stones and torrents wash away the soil, so You destroy a man’s hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.20",
+      "edition_verse_id": "BSB:JOB.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You forever overpower him, and he passes on; You change his countenance and send him away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.21",
+      "edition_verse_id": "BSB:JOB.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "If his sons receive honor, he does not know it; if they are brought low, he is unaware.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.14.22",
+      "edition_verse_id": "BSB:JOB.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He feels only the pain of his own body and mourns only for himself.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

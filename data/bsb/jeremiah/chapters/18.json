@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JER",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "JER.18.1",
+      "edition_verse_id": "BSB:JER.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the word that came to Jeremiah from the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.2",
+      "edition_verse_id": "BSB:JER.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Go down at once to the potter’s house, and there I will give you My message.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.3",
+      "edition_verse_id": "BSB:JER.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So I went down to the potter’s house and saw him working at the wheel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.4",
+      "edition_verse_id": "BSB:JER.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But the vessel that he was shaping from the clay became flawed in his hand; so he formed it into another vessel, as it seemed best for him to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.5",
+      "edition_verse_id": "BSB:JER.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.6",
+      "edition_verse_id": "BSB:JER.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“O house of Israel, declares the LORD, can I not treat you as this potter treats his clay? Just like clay in the potter’s hand, so are you in My hand, O house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.7",
+      "edition_verse_id": "BSB:JER.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "At any time I might announce that a nation or kingdom will be uprooted, torn down, and destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.8",
+      "edition_verse_id": "BSB:JER.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But if that nation I warned turns from its evil, then I will relent of the disaster I had planned to bring.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.9",
+      "edition_verse_id": "BSB:JER.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And if at another time I announce that I will build up and establish a nation or kingdom,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.10",
+      "edition_verse_id": "BSB:JER.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and if it does evil in My sight and does not listen to My voice, then I will relent of the good I had intended for it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.11",
+      "edition_verse_id": "BSB:JER.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now therefore, tell the men of Judah and the residents of Jerusalem that this is what the LORD says: ‘Behold, I am planning a disaster for you and devising a plan against you. Turn now, each of you, from your evil ways, and correct your ways and deeds.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.12",
+      "edition_verse_id": "BSB:JER.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But they will reply, ‘It is hopeless. We will follow our own plans, and each of us will act according to the stubbornness of his evil heart.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.13",
+      "edition_verse_id": "BSB:JER.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD says: “Inquire among the nations: Who has ever heard things like these? Virgin Israel has done a most terrible thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.14",
+      "edition_verse_id": "BSB:JER.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Does the snow of Lebanon ever leave its rocky slopes? Or do its cool waters flowing from a distance ever run dry?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.15",
+      "edition_verse_id": "BSB:JER.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Yet My people have forgotten Me. They burn incense to worthless idols that make them stumble in their ways, leaving the ancient roads to walk on rutted bypaths instead of on the highway.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.16",
+      "edition_verse_id": "BSB:JER.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They have made their land a desolation, a perpetual object of scorn; all who pass by will be appalled and shake their heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.17",
+      "edition_verse_id": "BSB:JER.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will scatter them before the enemy like the east wind. I will show them My back and not My face in the day of their calamity.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.18",
+      "edition_verse_id": "BSB:JER.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then some said, “Come, let us make plans against Jeremiah, for the law will never be lost to the priest, nor counsel to the wise, nor an oracle to the prophet. Come, let us denounce him and pay no heed to any of his words.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JER.18.19",
+      "edition_verse_id": "BSB:JER.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Attend to me, O LORD. Hear what my accusers are saying!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.20",
+      "edition_verse_id": "BSB:JER.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Should good be repaid with evil? Yet they have dug a pit for me. Remember how I stood before You to speak good on their behalf, to turn Your wrath from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.21",
+      "edition_verse_id": "BSB:JER.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Therefore, hand their children over to famine; pour out the power of the sword upon them. Let their wives become childless and widowed; let their husbands be slain by disease, their young men struck down by the sword in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.22",
+      "edition_verse_id": "BSB:JER.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Let a cry be heard from their houses when You suddenly bring raiders against them, for they have dug a pit to capture me and have hidden snares for my feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JER.18.23",
+      "edition_verse_id": "BSB:JER.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But You, O LORD, know all their deadly plots against me. Do not wipe out their guilt or blot out their sin from Your sight. Let them be overthrown before You; deal with them in the time of Your anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
