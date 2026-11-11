@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "EZK.36.1",
+      "edition_verse_id": "BSB:EZK.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“And you, son of man, prophesy to the mountains of Israel and say: O mountains of Israel, hear the word of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.2",
+      "edition_verse_id": "BSB:EZK.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD says: Because the enemy has said of you, ‘Aha! The ancient heights have become our possession,’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.3",
+      "edition_verse_id": "BSB:EZK.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "therefore prophesy and declare that this is what the Lord GOD says: Because they have made you desolate and have trampled you on every side, so that you became a possession of the rest of the nations and were taken up in slander by the lips of their talkers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.4",
+      "edition_verse_id": "BSB:EZK.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "therefore, O mountains of Israel, hear the word of the Lord GOD. This is what the Lord GOD says to the mountains and hills, to the ravines and valleys, to the desolate ruins and abandoned cities, which have become a spoil and a mockery to the rest of the nations around you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.5",
+      "edition_verse_id": "BSB:EZK.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: Surely in My burning zeal I have spoken against the rest of the nations, and against all Edom, who took My land as their own possession with wholehearted joy and utter contempt, so that its pastureland became plunder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.6",
+      "edition_verse_id": "BSB:EZK.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore, prophesy concerning the land of Israel and tell the mountains and hills, the ravines and valleys, that this is what the Lord GOD says: Behold, I have spoken in My burning zeal because you have endured the reproach of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.7",
+      "edition_verse_id": "BSB:EZK.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: I have sworn with an uplifted hand that surely the nations around you will endure reproach of their own.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.8",
+      "edition_verse_id": "BSB:EZK.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But you, O mountains of Israel, will produce branches and bear fruit for My people Israel, for they will soon come home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.9",
+      "edition_verse_id": "BSB:EZK.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For behold, I am on your side; I will turn toward you, and you will be tilled and sown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.10",
+      "edition_verse_id": "BSB:EZK.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I will multiply the people upon you — the house of Israel in its entirety. The cities will be inhabited and the ruins rebuilt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.11",
+      "edition_verse_id": "BSB:EZK.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I will fill you with people and animals, and they will multiply and be fruitful. I will make you as inhabited as you once were, and I will make you prosper more than before. Then you will know that I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.12",
+      "edition_verse_id": "BSB:EZK.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Yes, I will cause My people Israel to walk upon you; they will possess you, and you will be their inheritance, and you will no longer deprive them of their children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.13",
+      "edition_verse_id": "BSB:EZK.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For this is what the Lord GOD says: Because people say to you, ‘You devour men and deprive your nation of its children,’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.14",
+      "edition_verse_id": "BSB:EZK.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "therefore you will no longer devour men or deprive your nation of its children, declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.15",
+      "edition_verse_id": "BSB:EZK.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will no longer allow the taunts of the nations to be heard against you, and you will no longer endure the reproach of the peoples or cause your nation to stumble, declares the Lord GOD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.16",
+      "edition_verse_id": "BSB:EZK.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Again the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.17",
+      "edition_verse_id": "BSB:EZK.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“Son of man, when the people of Israel lived in their land, they defiled it by their own ways and deeds. Their behavior before Me was like the uncleanness of a woman’s impurity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.18",
+      "edition_verse_id": "BSB:EZK.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So I poured out My wrath upon them because of the blood they had shed on the land, and because they had defiled it with their idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.19",
+      "edition_verse_id": "BSB:EZK.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I dispersed them among the nations, and they were scattered throughout the lands. I judged them according to their ways and deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.20",
+      "edition_verse_id": "BSB:EZK.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And wherever they went among the nations, they profaned My holy name, because it was said of them, ‘These are the people of the LORD, yet they had to leave His land.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.21",
+      "edition_verse_id": "BSB:EZK.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But I had concern for My holy name, which the house of Israel had profaned among the nations to which they had gone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.22",
+      "edition_verse_id": "BSB:EZK.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Therefore tell the house of Israel that this is what the Lord GOD says: It is not for your sake that I will act, O house of Israel, but for My holy name, which you profaned among the nations to which you went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.23",
+      "edition_verse_id": "BSB:EZK.36.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I will show the holiness of My great name, which has been profaned among the nations— the name you have profaned among them. Then the nations will know that I am the LORD, declares the Lord GOD, when I show My holiness in you before their eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.24",
+      "edition_verse_id": "BSB:EZK.36.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For I will take you from among the nations and gather you out of all the countries, and I will bring you back into your own land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.25",
+      "edition_verse_id": "BSB:EZK.36.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.26",
+      "edition_verse_id": "BSB:EZK.36.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.27",
+      "edition_verse_id": "BSB:EZK.36.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.28",
+      "edition_verse_id": "BSB:EZK.36.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then you will live in the land that I gave your forefathers; you will be My people, and I will be your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.29",
+      "edition_verse_id": "BSB:EZK.36.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "I will save you from all your uncleanness. I will summon the grain and make it plentiful, and I will not bring famine upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.30",
+      "edition_verse_id": "BSB:EZK.36.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will also make the fruit of the trees and the crops of the field plentiful, so that you will no longer bear reproach among the nations on account of famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.31",
+      "edition_verse_id": "BSB:EZK.36.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then you will remember your evil ways and wicked deeds, and you will loathe yourselves for your iniquities and abominations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.32",
+      "edition_verse_id": "BSB:EZK.36.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "It is not for your sake that I will act, declares the Lord GOD — let it be known to you. Be ashamed and disgraced for your ways, O house of Israel!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.33",
+      "edition_verse_id": "BSB:EZK.36.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD says: On the day I cleanse you from all your iniquities, I will cause the cities to be resettled and the ruins to be rebuilt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.34",
+      "edition_verse_id": "BSB:EZK.36.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The desolate land will be cultivated instead of lying desolate in the sight of all who pass through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.35",
+      "edition_verse_id": "BSB:EZK.36.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then they will say, ‘This land that was desolate has become like the garden of Eden. The cities that were once ruined, desolate, and destroyed are now fortified and inhabited.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.36.36",
+      "edition_verse_id": "BSB:EZK.36.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then the nations around you that remain will know that I, the LORD, have rebuilt what was destroyed, and I have replanted what was desolate. I, the LORD, have spoken, and I will do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.37",
+      "edition_verse_id": "BSB:EZK.36.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD says: Once again I will hear the plea of the house of Israel and do for them this: I will multiply their people like a flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.36.38",
+      "edition_verse_id": "BSB:EZK.36.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Like the numerous flocks for sacrifices at Jerusalem during her appointed feasts, so the ruined cities will be filled with flocks of people. Then they will know that I am the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

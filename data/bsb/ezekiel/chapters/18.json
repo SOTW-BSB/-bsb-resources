@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "EZK.18.1",
+      "edition_verse_id": "BSB:EZK.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.2",
+      "edition_verse_id": "BSB:EZK.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“What do you people mean by quoting this proverb about the land of Israel: ‘The fathers have eaten sour grapes, and the teeth of the children are set on edge’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.3",
+      "edition_verse_id": "BSB:EZK.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "As surely as I live, declares the Lord GOD, you will no longer quote this proverb in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.4",
+      "edition_verse_id": "BSB:EZK.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, every soul belongs to Me; both father and son are Mine. The soul who sins is the one who will die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.5",
+      "edition_verse_id": "BSB:EZK.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now suppose a man is righteous and does what is just and right:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.6",
+      "edition_verse_id": "BSB:EZK.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife or approach a woman during her period.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.7",
+      "edition_verse_id": "BSB:EZK.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He does not oppress another, but restores the pledge to the debtor. He does not commit robbery, but gives his bread to the hungry and covers the naked with clothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.8",
+      "edition_verse_id": "BSB:EZK.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He does not engage in usury or take excess interest, but he withholds his hand from iniquity and executes true justice between men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.9",
+      "edition_verse_id": "BSB:EZK.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He follows My statutes and faithfully keeps My ordinances. That man is righteous; surely he will live, declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.10",
+      "edition_verse_id": "BSB:EZK.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now suppose that man has a violent son, who sheds blood or does any of these things,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.11",
+      "edition_verse_id": "BSB:EZK.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "though the father has done none of them: Indeed, the son eats at the mountain and defiles his neighbor’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.12",
+      "edition_verse_id": "BSB:EZK.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He oppresses the poor and needy; he commits robbery and does not restore a pledge. He lifts his eyes to idols; he commits abominations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.13",
+      "edition_verse_id": "BSB:EZK.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He engages in usury and takes excess interest. Will this son live? He will not! Since he has committed all these abominations, he will surely die; his blood will be on his own head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.14",
+      "edition_verse_id": "BSB:EZK.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now suppose this son has a son who sees all the sins his father has committed, considers them, and does not do likewise:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.15",
+      "edition_verse_id": "BSB:EZK.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.16",
+      "edition_verse_id": "BSB:EZK.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He does not oppress another, or retain a pledge, or commit robbery. He gives his bread to the hungry and covers the naked with clothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.17",
+      "edition_verse_id": "BSB:EZK.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He withholds his hand from harming the poor and takes no interest or usury. He keeps My ordinances and follows My statutes. Such a man will not die for his father’s iniquity. He will surely live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.18",
+      "edition_verse_id": "BSB:EZK.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As for his father, he will die for his own iniquity, because he practiced extortion, robbed his brother, and did what was wrong among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.19",
+      "edition_verse_id": "BSB:EZK.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Yet you may ask, ‘Why shouldn’t the son bear the iniquity of his father?’ Since the son has done what is just and right, carefully observing all My statutes, he will surely live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.20",
+      "edition_verse_id": "BSB:EZK.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The soul who sins is the one who will die. A son will not bear the iniquity of his father, and a father will not bear the iniquity of his son. The righteousness of the righteous man will fall upon him, and the wickedness of the wicked man will fall upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.21",
+      "edition_verse_id": "BSB:EZK.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But if the wicked man turns from all the sins he has committed, keeps all My statutes, and does what is just and right, he will surely live; he will not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.22",
+      "edition_verse_id": "BSB:EZK.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "None of the transgressions he has committed will be held against him. Because of the righteousness he has practiced, he will live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.23",
+      "edition_verse_id": "BSB:EZK.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Do I take any pleasure in the death of the wicked? declares the Lord GOD. Wouldn’t I prefer that he turn from his ways and live?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.24",
+      "edition_verse_id": "BSB:EZK.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But if a righteous man turns from his righteousness and practices iniquity, committing the same abominations as the wicked, will he live? None of the righteous acts he did will be remembered. Because of the unfaithfulness and sin he has committed, he will die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.25",
+      "edition_verse_id": "BSB:EZK.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Yet you say, ‘The way of the Lord is not just.’ Hear now, O house of Israel: Is it My way that is unjust? Is it not your ways that are unjust?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.26",
+      "edition_verse_id": "BSB:EZK.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If a righteous man turns from his righteousness and practices iniquity, he will die for this. He will die because of the iniquity he has committed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.27",
+      "edition_verse_id": "BSB:EZK.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But if a wicked man turns from the wickedness he has committed and does what is just and right, he will save his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.28",
+      "edition_verse_id": "BSB:EZK.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Because he considered and turned from all the transgressions he had committed, he will surely live; he will not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.29",
+      "edition_verse_id": "BSB:EZK.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Yet the house of Israel says, ‘The way of the Lord is not just.’ Are My ways unjust, O house of Israel? Is it not your ways that are unjust?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.30",
+      "edition_verse_id": "BSB:EZK.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Therefore, O house of Israel, I will judge you, each according to his ways, declares the Lord GOD. Repent and turn from all your transgressions, so that your iniquity will not become your downfall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.18.31",
+      "edition_verse_id": "BSB:EZK.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Cast away from yourselves all the transgressions you have committed, and fashion for yourselves a new heart and a new spirit. Why should you die, O house of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.18.32",
+      "edition_verse_id": "BSB:EZK.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For I take no pleasure in anyone’s death, declares the Lord GOD. So repent and live![’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

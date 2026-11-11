@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "EZK.28.1",
+      "edition_verse_id": "BSB:EZK.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.28.2",
+      "edition_verse_id": "BSB:EZK.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Son of man, tell the ruler of Tyre that this is what the Lord GOD says: Your heart is proud, and you have said, ‘I am a god; I sit in the seat of gods in the heart of the sea.’ Yet you are a man and not a god, though you have regarded your heart as that of a god.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.3",
+      "edition_verse_id": "BSB:EZK.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Behold, you are wiser than Daniel; no secret is hidden from you!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.4",
+      "edition_verse_id": "BSB:EZK.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "By your wisdom and understanding you have gained your wealth and amassed gold and silver for your treasuries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.5",
+      "edition_verse_id": "BSB:EZK.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "By your great skill in trading you have increased your wealth, but your heart has grown proud because of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.6",
+      "edition_verse_id": "BSB:EZK.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: Because you regard your heart as the heart of a god,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.7",
+      "edition_verse_id": "BSB:EZK.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "behold, I will bring foreigners against you, the most ruthless of nations. They will draw their swords against the beauty of your wisdom and will defile your splendor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.8",
+      "edition_verse_id": "BSB:EZK.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They will bring you down to the Pit, and you will die a violent death in the heart of the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.9",
+      "edition_verse_id": "BSB:EZK.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Will you still say, ‘I am a god,’ in the presence of those who slay you? You will be only a man, not a god, in the hands of those who wound you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.10",
+      "edition_verse_id": "BSB:EZK.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You will die the death of the uncircumcised at the hands of foreigners. For I have spoken, declares the Lord GOD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.11",
+      "edition_verse_id": "BSB:EZK.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Again the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.28.12",
+      "edition_verse_id": "BSB:EZK.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Son of man, take up a lament for the king of Tyre and tell him that this is what the Lord GOD says: ‘You were the seal of perfection, full of wisdom and perfect in beauty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.13",
+      "edition_verse_id": "BSB:EZK.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.14",
+      "edition_verse_id": "BSB:EZK.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.15",
+      "edition_verse_id": "BSB:EZK.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "From the day you were created you were blameless in your ways— until wickedness was found in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.16",
+      "edition_verse_id": "BSB:EZK.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "By the vastness of your trade, you were filled with violence, and you sinned. So I drove you in disgrace from the mountain of God, and I banished you, O guardian cherub, from among the fiery stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.17",
+      "edition_verse_id": "BSB:EZK.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Your heart grew proud of your beauty; you corrupted your wisdom because of your splendor; so I cast you to the earth; I made you a spectacle before kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.18",
+      "edition_verse_id": "BSB:EZK.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "By the multitude of your iniquities and the dishonesty of your trading you have profaned your sanctuaries. So I made fire come from within you, and it consumed you. I reduced you to ashes on the ground in the eyes of all who saw you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.19",
+      "edition_verse_id": "BSB:EZK.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All the nations who know you are appalled over you. You have come to a horrible end and will be no more.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.20",
+      "edition_verse_id": "BSB:EZK.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.28.21",
+      "edition_verse_id": "BSB:EZK.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Son of man, set your face against Sidon and prophesy against her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.22",
+      "edition_verse_id": "BSB:EZK.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And you are to declare that this is what the Lord GOD says: ‘Behold, I am against you, O Sidon, and I will be glorified within you. They will know that I am the LORD when I execute judgments against her and demonstrate My holiness through her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.23",
+      "edition_verse_id": "BSB:EZK.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I will send a plague against her and shed blood in her streets; the slain will fall within her, while the sword is against her on every side. Then they will know that I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.28.24",
+      "edition_verse_id": "BSB:EZK.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For the people of Israel will no longer face a pricking brier or a painful thorn from all around them who treat them with contempt. Then they will know that I am the Lord GOD.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.28.25",
+      "edition_verse_id": "BSB:EZK.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD says: ‘When I gather the house of Israel from the peoples among whom they have been scattered, I will show Myself holy among them in the sight of the nations. Then they will dwell in their own land, which I have given to My servant Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.28.26",
+      "edition_verse_id": "BSB:EZK.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And there they will dwell securely, build houses, and plant vineyards. They will dwell securely when I execute judgments against all those around them who treat them with contempt. Then they will know that I am the LORD their God.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

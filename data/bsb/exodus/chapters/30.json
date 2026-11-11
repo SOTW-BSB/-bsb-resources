@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "EXO.30.1",
+      "edition_verse_id": "BSB:EXO.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“You are also to make an altar of acacia wood for the burning of incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.2",
+      "edition_verse_id": "BSB:EXO.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It is to be square, a cubit long, a cubit wide, and two cubits high. Its horns must be of one piece.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.3",
+      "edition_verse_id": "BSB:EXO.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Overlay with pure gold the top and all the sides and horns, and make a molding of gold around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.4",
+      "edition_verse_id": "BSB:EXO.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And make two gold rings below the molding on opposite sides to hold the poles used to carry it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.5",
+      "edition_verse_id": "BSB:EXO.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Make the poles of acacia wood and overlay them with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.6",
+      "edition_verse_id": "BSB:EXO.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Place the altar in front of the veil that is before the ark of the Testimony— before the mercy seat that is over the Testimony— where I will meet with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.7",
+      "edition_verse_id": "BSB:EXO.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Aaron is to burn fragrant incense on it every morning when he tends the lamps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.8",
+      "edition_verse_id": "BSB:EXO.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When Aaron sets up the lamps at twilight, he must burn the incense perpetually before the LORD for the generations to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.9",
+      "edition_verse_id": "BSB:EXO.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "On this altar you must not offer unauthorized incense or a burnt offering or grain offering; nor are you to pour a drink offering on it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.10",
+      "edition_verse_id": "BSB:EXO.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Once a year Aaron shall make atonement on the horns of the altar. Throughout your generations he shall make atonement on it annually with the blood of the sin offering of atonement. The altar is most holy to the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.11",
+      "edition_verse_id": "BSB:EXO.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.12",
+      "edition_verse_id": "BSB:EXO.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“When you take a census of the Israelites to number them, each man must pay the LORD a ransom for his life when he is counted. Then no plague will come upon them when they are numbered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.13",
+      "edition_verse_id": "BSB:EXO.30.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Everyone who crosses over to those counted must pay a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.14",
+      "edition_verse_id": "BSB:EXO.30.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Everyone twenty years of age or older who crosses over must give this offering to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.15",
+      "edition_verse_id": "BSB:EXO.30.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In making the offering to the LORD to atone for your lives, the rich shall not give more than a half shekel, nor shall the poor give less.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.16",
+      "edition_verse_id": "BSB:EXO.30.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Take the atonement money from the Israelites and use it for the service of the Tent of Meeting. It will serve as a memorial for the Israelites before the LORD to make atonement for your lives.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.17",
+      "edition_verse_id": "BSB:EXO.30.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.18",
+      "edition_verse_id": "BSB:EXO.30.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“You are to make a bronze basin with a bronze stand for washing. Set it between the Tent of Meeting and the altar, and put water in it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.19",
+      "edition_verse_id": "BSB:EXO.30.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "with which Aaron and his sons are to wash their hands and feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.20",
+      "edition_verse_id": "BSB:EXO.30.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Whenever they enter the Tent of Meeting or approach the altar to minister by presenting a food offering to the LORD, they must wash with water so that they will not die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.21",
+      "edition_verse_id": "BSB:EXO.30.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thus they are to wash their hands and feet so that they will not die; this shall be a permanent statute for Aaron and his descendants for the generations to come.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.22",
+      "edition_verse_id": "BSB:EXO.30.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.23",
+      "edition_verse_id": "BSB:EXO.30.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“Take the finest spices: 500 shekels of liquid myrrh, half that amount (250 shekels) of fragrant cinnamon, 250 shekels of fragrant cane,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.24",
+      "edition_verse_id": "BSB:EXO.30.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "500 shekels of cassia — all according to the sanctuary shekel — and a hin of olive oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.25",
+      "edition_verse_id": "BSB:EXO.30.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Prepare from these a sacred anointing oil, a fragrant blend, the work of a perfumer; it will be a sacred anointing oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.26",
+      "edition_verse_id": "BSB:EXO.30.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Use this oil to anoint the Tent of Meeting, the ark of the Testimony,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.27",
+      "edition_verse_id": "BSB:EXO.30.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "the table and all its utensils, the lampstand and its utensils, the altar of incense,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.28",
+      "edition_verse_id": "BSB:EXO.30.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "the altar of burnt offering and all its utensils, and the basin with its stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.29",
+      "edition_verse_id": "BSB:EXO.30.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "You are to consecrate them so that they will be most holy. Whatever touches them shall be holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.30",
+      "edition_verse_id": "BSB:EXO.30.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Anoint Aaron and his sons and consecrate them to serve Me as priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.31",
+      "edition_verse_id": "BSB:EXO.30.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And you are to tell the Israelites, ‘This will be My sacred anointing oil for the generations to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.32",
+      "edition_verse_id": "BSB:EXO.30.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "It must not be used to anoint an ordinary man, and you must not make anything like it with the same formula. It is holy, and it must be holy to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.33",
+      "edition_verse_id": "BSB:EXO.30.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Anyone who mixes perfume like it or puts it on an outsider shall be cut off from his people.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.34",
+      "edition_verse_id": "BSB:EXO.30.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The LORD also said to Moses, “Take fragrant spices — gum resin, onycha, galbanum, and pure frankincense — in equal measures,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.30.35",
+      "edition_verse_id": "BSB:EXO.30.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "and make a fragrant blend of incense, the work of a perfumer, seasoned with salt, pure and holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.36",
+      "edition_verse_id": "BSB:EXO.30.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Grind some of it into fine powder and place it in front of the Testimony in the Tent of Meeting, where I will meet with you. It shall be most holy to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.37",
+      "edition_verse_id": "BSB:EXO.30.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "You are never to use this formula to make incense for yourselves; you shall regard it as holy to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.30.38",
+      "edition_verse_id": "BSB:EXO.30.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Anyone who makes something like it to enjoy its fragrance shall be cut off from his people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

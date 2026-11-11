@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "EZK.22.1",
+      "edition_verse_id": "BSB:EZK.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.2",
+      "edition_verse_id": "BSB:EZK.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“As for you, son of man, will you judge her? Will you pass judgment on the city of bloodshed? Then confront her with all her abominations",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.3",
+      "edition_verse_id": "BSB:EZK.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and tell her that this is what the Lord GOD says: ‘O city who brings her own doom by shedding blood within her walls and making idols to defile herself,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.4",
+      "edition_verse_id": "BSB:EZK.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "you are guilty of the blood you have shed, and you are defiled by the idols you have made. You have brought your days to a close and have come to the end of your years. Therefore I have made you a reproach to the nations and a mockery to all the lands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.5",
+      "edition_verse_id": "BSB:EZK.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Those near and far will mock you, O infamous city, full of turmoil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.6",
+      "edition_verse_id": "BSB:EZK.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "See how every prince of Israel within you has used his power to shed blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.7",
+      "edition_verse_id": "BSB:EZK.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Father and mother are treated with contempt. Within your walls the foreign resident is exploited, the fatherless and the widow are oppressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.8",
+      "edition_verse_id": "BSB:EZK.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You have despised My holy things and profaned My Sabbaths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.9",
+      "edition_verse_id": "BSB:EZK.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Among you are slanderous men bent on bloodshed; within you are those who eat on the mountain shrines and commit acts of indecency.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.10",
+      "edition_verse_id": "BSB:EZK.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In you they have uncovered the nakedness of their fathers; in you they violate women during their menstrual impurity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.11",
+      "edition_verse_id": "BSB:EZK.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "One man commits an abomination with his neighbor’s wife; another wickedly defiles his daughter-in-law; and yet another violates his sister, his own father’s daughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.12",
+      "edition_verse_id": "BSB:EZK.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "In you they take bribes to shed blood. You engage in usury, take excess interest, and extort your neighbors. But Me you have forgotten, declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.13",
+      "edition_verse_id": "BSB:EZK.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now look, I strike My hands together against your unjust gain and against the blood you have shed in your midst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.14",
+      "edition_verse_id": "BSB:EZK.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Will your courage endure or your hands be strong in the day I deal with you? I, the LORD, have spoken, and I will act.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.15",
+      "edition_verse_id": "BSB:EZK.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will disperse you among the nations and scatter you throughout the lands; I will purge your uncleanness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.16",
+      "edition_verse_id": "BSB:EZK.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when you have defiled yourself in the eyes of the nations, then you will know that I am the LORD.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.17",
+      "edition_verse_id": "BSB:EZK.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.18",
+      "edition_verse_id": "BSB:EZK.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Son of man, the house of Israel has become dross to Me. All of them are copper, tin, iron, and lead inside the furnace; they are but the dross of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.19",
+      "edition_verse_id": "BSB:EZK.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: ‘Because all of you have become dross, behold, I will gather you into Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.20",
+      "edition_verse_id": "BSB:EZK.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Just as one gathers silver, copper, iron, lead, and tin into the furnace to melt with a fiery blast, so I will gather you in My anger and wrath, leave you there, and melt you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.21",
+      "edition_verse_id": "BSB:EZK.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Yes, I will gather you together and blow on you with the fire of My wrath, and you will be melted within the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.22",
+      "edition_verse_id": "BSB:EZK.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "As silver is melted in a furnace, so you will be melted within the city. Then you will know that I, the LORD, have poured out My wrath upon you.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.23",
+      "edition_verse_id": "BSB:EZK.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.24",
+      "edition_verse_id": "BSB:EZK.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“Son of man, say to her, ‘In the day of indignation, you are a land that has not been cleansed, upon which no rain has fallen.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.22.25",
+      "edition_verse_id": "BSB:EZK.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The conspiracy of the princes in her midst is like a roaring lion tearing its prey. They devour the people, seize the treasures and precious things, and multiply the widows within her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.26",
+      "edition_verse_id": "BSB:EZK.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Her priests do violence to My law and profane My holy things. They make no distinction between the holy and the common, and they fail to distinguish between the clean and the unclean. They disregard My Sabbaths, so that I am profaned among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.27",
+      "edition_verse_id": "BSB:EZK.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Her officials within her are like wolves tearing their prey, shedding blood, and destroying lives for dishonest gain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.28",
+      "edition_verse_id": "BSB:EZK.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Her prophets whitewash these deeds by false visions and lying divinations, saying, ‘This is what the Lord GOD says,’ when the LORD has not spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.29",
+      "edition_verse_id": "BSB:EZK.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The people of the land have practiced extortion and committed robbery. They have oppressed the poor and needy and have exploited the foreign resident without justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.30",
+      "edition_verse_id": "BSB:EZK.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I searched for a man among them to repair the wall and stand in the gap before Me on behalf of the land, so that I should not destroy it. But I found no one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.22.31",
+      "edition_verse_id": "BSB:EZK.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So I have poured out My indignation upon them and consumed them with the fire of My fury. I have brought their ways down upon their own heads, declares the Lord GOD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1CH.2.1",
+      "edition_verse_id": "BSB:1CH.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.2.2",
+      "edition_verse_id": "BSB:1CH.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.3",
+      "edition_verse_id": "BSB:1CH.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The sons of Judah: Er, Onan, and Shelah. These three were born to him by Bath-shua the Canaanite. Er, Judah’s firstborn, was wicked in the sight of the LORD. So the LORD put him to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.4",
+      "edition_verse_id": "BSB:1CH.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Tamar, Judah’s daughter-in-law, bore to him Perez and Zerah. Judah had five sons in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.5",
+      "edition_verse_id": "BSB:1CH.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sons of Perez: Hezron and Hamul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.6",
+      "edition_verse_id": "BSB:1CH.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The sons of Zerah: Zimri, Ethan, Heman, Calcol, and Dara— five in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.7",
+      "edition_verse_id": "BSB:1CH.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The son of Carmi: Achar, who brought trouble upon Israel by violating the ban on devoted things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.8",
+      "edition_verse_id": "BSB:1CH.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The son of Ethan: Azariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.9",
+      "edition_verse_id": "BSB:1CH.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The sons who were born to Hezron: Jerahmeel, Ram, and Caleb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.10",
+      "edition_verse_id": "BSB:1CH.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Ram was the father of Amminadab, and Amminadab was the father of Nahshon, a leader of the descendants of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.11",
+      "edition_verse_id": "BSB:1CH.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Nahshon was the father of Salmon, and Salmon was the father of Boaz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.12",
+      "edition_verse_id": "BSB:1CH.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Boaz was the father of Obed, and Obed was the father of Jesse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.13",
+      "edition_verse_id": "BSB:1CH.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jesse was the father of Eliab his firstborn; Abinadab was born second, Shimea third,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.14",
+      "edition_verse_id": "BSB:1CH.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Nethanel fourth, Raddai fifth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.15",
+      "edition_verse_id": "BSB:1CH.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Ozem sixth, and David seventh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.16",
+      "edition_verse_id": "BSB:1CH.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Their sisters were Zeruiah and Abigail. And the three sons of Zeruiah were Abishai, Joab, and Asahel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.17",
+      "edition_verse_id": "BSB:1CH.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Abigail was the mother of Amasa, whose father was Jether the Ishmaelite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.18",
+      "edition_verse_id": "BSB:1CH.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Caleb son of Hezron had children by his wife Azubah and by Jerioth. These were the sons of Azubah: Jesher, Shobab, and Ardon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.19",
+      "edition_verse_id": "BSB:1CH.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "When Azubah died, Caleb married Ephrath, who bore to him Hur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.20",
+      "edition_verse_id": "BSB:1CH.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Hur was the father of Uri, and Uri was the father of Bezalel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.21",
+      "edition_verse_id": "BSB:1CH.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Later, Hezron slept with the daughter of Machir the father of Gilead. He had married her when he was sixty years old, and she bore to him Segub.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.22",
+      "edition_verse_id": "BSB:1CH.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Segub was the father of Jair, who had twenty-three cities in the land of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.23",
+      "edition_verse_id": "BSB:1CH.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But Geshur and Aram captured Havvoth-jair, along with Kenath and its sixty surrounding villages. All these were descendants of Machir the father of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.24",
+      "edition_verse_id": "BSB:1CH.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "After Hezron died in Caleb-ephrathah, his wife Abijah bore to him Ashhur the father of Tekoa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.25",
+      "edition_verse_id": "BSB:1CH.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The sons of Jerahmeel the firstborn of Hezron: Ram his firstborn, Bunah, Oren, Ozem, and Ahijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.26",
+      "edition_verse_id": "BSB:1CH.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Jerahmeel had another wife named Atarah, who was the mother of Onam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.27",
+      "edition_verse_id": "BSB:1CH.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The sons of Ram the firstborn of Jerahmeel: Maaz, Jamin, and Eker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.28",
+      "edition_verse_id": "BSB:1CH.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The sons of Onam: Shammai and Jada. The sons of Shammai: Nadab and Abishur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.29",
+      "edition_verse_id": "BSB:1CH.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Abishur’s wife was named Abihail, and she bore to him Ahban and Molid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.30",
+      "edition_verse_id": "BSB:1CH.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The sons of Nadab: Seled and Appaim. Seled died without children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.31",
+      "edition_verse_id": "BSB:1CH.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The son of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.32",
+      "edition_verse_id": "BSB:1CH.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The sons of Jada the brother of Shammai: Jether and Jonathan. Jether died without children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.33",
+      "edition_verse_id": "BSB:1CH.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The sons of Jonathan: Peleth and Zaza. These were the descendants of Jerahmeel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.34",
+      "edition_verse_id": "BSB:1CH.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Sheshan had no sons, but only daughters. He also had an Egyptian servant named Jarha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.35",
+      "edition_verse_id": "BSB:1CH.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Sheshan gave his daughter in marriage to his servant Jarha, and she bore to him Attai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.36",
+      "edition_verse_id": "BSB:1CH.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Attai was the father of Nathan, Nathan was the father of Zabad,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.37",
+      "edition_verse_id": "BSB:1CH.2.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Zabad was the father of Ephlal, Ephlal was the father of Obed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.38",
+      "edition_verse_id": "BSB:1CH.2.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Obed was the father of Jehu, Jehu was the father of Azariah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.39",
+      "edition_verse_id": "BSB:1CH.2.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Azariah was the father of Helez, Helez was the father of Elasah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.40",
+      "edition_verse_id": "BSB:1CH.2.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Elasah was the father of Sismai, Sismai was the father of Shallum,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.41",
+      "edition_verse_id": "BSB:1CH.2.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Shallum was the father of Jekamiah, and Jekamiah was the father of Elishama.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.42",
+      "edition_verse_id": "BSB:1CH.2.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "The sons of Caleb the brother of Jerahmeel: Mesha his firstborn, who was the father of Ziph, and Mareshah his second son, who was the father of Hebron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.43",
+      "edition_verse_id": "BSB:1CH.2.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The sons of Hebron: Korah, Tappuah, Rekem, and Shema.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.44",
+      "edition_verse_id": "BSB:1CH.2.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Shema was the father of Raham the father of Jorkeam, and Rekem was the father of Shammai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.45",
+      "edition_verse_id": "BSB:1CH.2.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "The son of Shammai was Maon, and Maon was the father of Beth-zur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.46",
+      "edition_verse_id": "BSB:1CH.2.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Caleb’s concubine Ephah was the mother of Haran, Moza, and Gazez. Haran was the father of Gazez.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.47",
+      "edition_verse_id": "BSB:1CH.2.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The sons of Jahdai: Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.48",
+      "edition_verse_id": "BSB:1CH.2.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Caleb’s concubine Maacah was the mother of Sheber and Tirhanah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.49",
+      "edition_verse_id": "BSB:1CH.2.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "She was also the mother of Shaaph father of Madmannah, and of Sheva father of Machbenah and Gibea. Caleb’s daughter was Acsah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.50",
+      "edition_verse_id": "BSB:1CH.2.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah: Shobal the father of Kiriath-jearim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.51",
+      "edition_verse_id": "BSB:1CH.2.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Salma the father of Bethlehem, and Hareph the father of Beth-gader.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.52",
+      "edition_verse_id": "BSB:1CH.2.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "These were the descendants of Shobal the father of Kiriath-jearim: Haroeh, half the Manahathites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.53",
+      "edition_verse_id": "BSB:1CH.2.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "and the clans of Kiriath-jearim— the Ithrites, Puthites, Shumathites, and Mishraites. From these descended the Zorathites and Eshtaolites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.54",
+      "edition_verse_id": "BSB:1CH.2.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "The descendants of Salma: Bethlehem, the Netophathites, Atroth-beth-joab, half the Manahathites, the Zorites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.2.55",
+      "edition_verse_id": "BSB:1CH.2.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "and the clans of the scribes who lived at Jabez— the Tirathites, Shimeathites, and Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

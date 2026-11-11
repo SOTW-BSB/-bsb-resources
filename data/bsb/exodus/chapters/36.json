@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "EXO.36.1",
+      "edition_verse_id": "BSB:EXO.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“So Bezalel, Oholiab, and every skilled person are to carry out everything commanded by the LORD, who has given them skill and ability to know how to perform all the work of constructing the sanctuary.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.2",
+      "edition_verse_id": "BSB:EXO.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then Moses summoned Bezalel, Oholiab, and every skilled person whom the LORD had gifted — everyone whose heart stirred him to come and do the work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.3",
+      "edition_verse_id": "BSB:EXO.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They received from Moses all the contributions that the Israelites had brought to carry out the service of constructing the sanctuary. Meanwhile, the people continued to bring freewill offerings morning after morning,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.4",
+      "edition_verse_id": "BSB:EXO.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "so that all the skilled craftsmen who were doing all the work on the sanctuary left their work",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.5",
+      "edition_verse_id": "BSB:EXO.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and said to Moses, “The people are bringing more than enough for doing the work the LORD has commanded us to do.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.6",
+      "edition_verse_id": "BSB:EXO.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "After Moses had given an order, they sent a proclamation throughout the camp: “No man or woman should make anything else as an offering for the sanctuary.” So the people were restrained from bringing more,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.7",
+      "edition_verse_id": "BSB:EXO.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "since what they already had was more than enough to perform all the work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.8",
+      "edition_verse_id": "BSB:EXO.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All the skilled craftsmen among the workmen made the ten curtains for the tabernacle. They were made of finely spun linen, as well as blue, purple, and scarlet yarn, with cherubim skillfully worked into them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.9",
+      "edition_verse_id": "BSB:EXO.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Each curtain was twenty-eight cubits long and four cubits wide; all the curtains were the same size.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.10",
+      "edition_verse_id": "BSB:EXO.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he joined five of the curtains together, and the other five he joined as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.11",
+      "edition_verse_id": "BSB:EXO.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He made loops of blue material on the edge of the end curtain in the first set, and also on the end curtain in the second set.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.12",
+      "edition_verse_id": "BSB:EXO.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He made fifty loops on one curtain and fifty loops on the end curtain of the second set, so that the loops lined up opposite one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.13",
+      "edition_verse_id": "BSB:EXO.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He also made fifty gold clasps to join the curtains together, so that the tabernacle was a unit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.14",
+      "edition_verse_id": "BSB:EXO.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He then made curtains of goat hair for the tent over the tabernacle — eleven curtains in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.15",
+      "edition_verse_id": "BSB:EXO.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Each of the eleven curtains was the same size — thirty cubits long and four cubits wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.16",
+      "edition_verse_id": "BSB:EXO.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He joined five of the curtains into one set and the other six into another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.17",
+      "edition_verse_id": "BSB:EXO.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He made fifty loops along the edge of the end curtain in the first set, and fifty loops along the edge of the corresponding curtain in the second set.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.18",
+      "edition_verse_id": "BSB:EXO.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He also made fifty bronze clasps to join the tent together as a unit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.19",
+      "edition_verse_id": "BSB:EXO.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Additionally, he made for the tent a covering of ram skins dyed red, and over that a covering of fine leather.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.20",
+      "edition_verse_id": "BSB:EXO.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Next, he constructed upright frames of acacia wood for the tabernacle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.21",
+      "edition_verse_id": "BSB:EXO.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Each frame was ten cubits long and a cubit and a half wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.22",
+      "edition_verse_id": "BSB:EXO.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Two tenons were connected to each other for each frame. He made all the frames of the tabernacle in this way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.23",
+      "edition_verse_id": "BSB:EXO.36.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He constructed twenty frames for the south side of the tabernacle,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.24",
+      "edition_verse_id": "BSB:EXO.36.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "with forty silver bases to put under the twenty frames — two bases for each frame, one under each tenon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.25",
+      "edition_verse_id": "BSB:EXO.36.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For the second side of the tabernacle, the north side, he made twenty frames",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.26",
+      "edition_verse_id": "BSB:EXO.36.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and forty silver bases — two bases under each frame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.27",
+      "edition_verse_id": "BSB:EXO.36.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He made six frames for the rear of the tabernacle, the west side,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.28",
+      "edition_verse_id": "BSB:EXO.36.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and two frames for the two back corners of the tabernacle,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.29",
+      "edition_verse_id": "BSB:EXO.36.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "coupled together from bottom to top and fitted into a single ring. He made both corners in this way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.30",
+      "edition_verse_id": "BSB:EXO.36.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So there were eight frames and sixteen silver bases — two under each frame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.31",
+      "edition_verse_id": "BSB:EXO.36.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He also made five crossbars of acacia wood for the frames on one side of the tabernacle,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.32",
+      "edition_verse_id": "BSB:EXO.36.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "five for those on the other side, and five for those on the rear side of the tabernacle, to the west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.33",
+      "edition_verse_id": "BSB:EXO.36.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He made the central crossbar to run through the center of the frames, from one end to the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.34",
+      "edition_verse_id": "BSB:EXO.36.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he overlaid the frames with gold and made gold rings to hold the crossbars. He also overlaid the crossbars with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.36.35",
+      "edition_verse_id": "BSB:EXO.36.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Next, he made the veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.36",
+      "edition_verse_id": "BSB:EXO.36.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "He also made four posts of acacia wood for it and overlaid them with gold, along with gold hooks; and he cast four silver bases for the posts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.37",
+      "edition_verse_id": "BSB:EXO.36.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For the entrance to the tent, he made a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.36.38",
+      "edition_verse_id": "BSB:EXO.36.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "together with five posts and their hooks. He overlaid the tops of the posts and their bands with gold, and their five bases were bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

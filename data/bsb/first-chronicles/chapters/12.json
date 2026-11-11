@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "1CH.12.1",
+      "edition_verse_id": "BSB:1CH.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.2",
+      "edition_verse_id": "BSB:1CH.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "they were archers using both the right and left hands to sling stones and shoot arrows; and they were Saul’s kinsmen from Benjamin):",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.3",
+      "edition_verse_id": "BSB:1CH.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Ahiezer their chief and Joash, who were the sons of Shemaah the Gibeathite; Jeziel and Pelet, the sons of Azmaveth; Beracah; Jehu the Anathothite;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.4",
+      "edition_verse_id": "BSB:1CH.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Ishmaiah the Gibeonite, a mighty man among the Thirty and a leader over the Thirty; Jeremiah, Jahaziel, Johanan, and Jozabad the Gederathite;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.5",
+      "edition_verse_id": "BSB:1CH.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Eluzai, Jerimoth, Bealiah, Shemariah, and Shephatiah the Haruphite;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.6",
+      "edition_verse_id": "BSB:1CH.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, who were Korahites;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.7",
+      "edition_verse_id": "BSB:1CH.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and Joelah and Zebadiah, the sons of Jeroham from Gedor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.8",
+      "edition_verse_id": "BSB:1CH.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Some Gadites defected to David at his stronghold in the wilderness. They were mighty men of valor, trained for battle, experts with the shield and spear, whose faces were like the faces of lions and who were as swift as gazelles on the mountains:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.9",
+      "edition_verse_id": "BSB:1CH.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Ezer the chief, Obadiah the second in command, Eliab the third,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.10",
+      "edition_verse_id": "BSB:1CH.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Mishmannah the fourth, Jeremiah the fifth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.11",
+      "edition_verse_id": "BSB:1CH.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Attai the sixth, Eliel the seventh,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.12",
+      "edition_verse_id": "BSB:1CH.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Johanan the eighth, Elzabad the ninth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.13",
+      "edition_verse_id": "BSB:1CH.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jeremiah the tenth, and Machbanai the eleventh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.14",
+      "edition_verse_id": "BSB:1CH.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "These Gadites were army commanders, the least of whom was a match for a hundred, and the greatest for a thousand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.15",
+      "edition_verse_id": "BSB:1CH.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "These are the ones who crossed the Jordan in the first month when it was overflowing all its banks, and they put to flight all those in the valleys, both to the east and to the west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.16",
+      "edition_verse_id": "BSB:1CH.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Other Benjamites and some men from Judah also came to David in his stronghold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.17",
+      "edition_verse_id": "BSB:1CH.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And David went out to meet them, saying, “If you have come to me in peace to help me, my heart will be united with you; but if you have come to betray me to my enemies when my hands are free of violence, may the God of our fathers see it and judge you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.18",
+      "edition_verse_id": "BSB:1CH.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the Spirit came upon Amasai, the chief of the Thirty, and he said: “We are yours, O David! We are with you, O son of Jesse! Peace, peace to you, and peace to your helpers, for your God helps you.” So David received them and made them leaders of his troops.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.19",
+      "edition_verse_id": "BSB:1CH.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Some from Manasseh defected to David when he went with the Philistines to fight against Saul. (They did not help the Philistines because the Philistine rulers consulted and sent David away, saying, “It will cost us our heads if he defects to his master Saul.”)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.20",
+      "edition_verse_id": "BSB:1CH.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When David went to Ziklag, these men of Manasseh defected to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands in Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.21",
+      "edition_verse_id": "BSB:1CH.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They helped David against the raiders, for they were all mighty men of valor and commanders in the army.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.22",
+      "edition_verse_id": "BSB:1CH.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For at that time men came to David day after day to help him, until he had a great army, like the army of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.23",
+      "edition_verse_id": "BSB:1CH.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now these are the numbers of men armed for battle who came to David at Hebron to turn Saul’s kingdom over to him, in accordance with the word of the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.24",
+      "edition_verse_id": "BSB:1CH.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "From Judah: 6,800 armed troops bearing shields and spears.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.25",
+      "edition_verse_id": "BSB:1CH.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "From Simeon: 7,100 mighty men of valor, ready for battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.26",
+      "edition_verse_id": "BSB:1CH.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "From Levi: 4,600,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.27",
+      "edition_verse_id": "BSB:1CH.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "including Jehoiada, leader of the house of Aaron, with 3,700 men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.28",
+      "edition_verse_id": "BSB:1CH.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and Zadok, a mighty young man of valor, with 22 commanders from his own family.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.12.29",
+      "edition_verse_id": "BSB:1CH.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "From Benjamin, the kinsmen of Saul: 3,000, most of whom had remained loyal to the house of Saul up to that time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.30",
+      "edition_verse_id": "BSB:1CH.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "From Ephraim: 20,800 mighty men of valor, famous among their own clans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.31",
+      "edition_verse_id": "BSB:1CH.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "From the half-tribe of Manasseh: 18,000 designated by name to come and make David king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.32",
+      "edition_verse_id": "BSB:1CH.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "From Issachar, men who understood the times and knew what Israel should do: 200 chiefs with all their kinsmen at their command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.33",
+      "edition_verse_id": "BSB:1CH.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "From Zebulun: 50,000 fit for service, trained for battle with all kinds of weapons of war, who with one purpose were devoted to David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.34",
+      "edition_verse_id": "BSB:1CH.12.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "From Naphtali: 1,000 commanders, accompanied by 37,000 men with shield and spear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.35",
+      "edition_verse_id": "BSB:1CH.12.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "From Dan: 28,600 prepared for battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.36",
+      "edition_verse_id": "BSB:1CH.12.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "From Asher: 40,000 fit for service, prepared for battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.37",
+      "edition_verse_id": "BSB:1CH.12.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And from east of the Jordan, from Reuben, Gad, and the half-tribe of Manasseh there: 120,000 armed with every kind of weapon of war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.38",
+      "edition_verse_id": "BSB:1CH.12.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "All these men of war, arrayed for battle, came to Hebron fully determined to make David king over all Israel. And all the rest of the Israelites were of one mind to make David king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.39",
+      "edition_verse_id": "BSB:1CH.12.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "They spent three days there eating and drinking with David, for their relatives had provided for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.12.40",
+      "edition_verse_id": "BSB:1CH.12.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And their neighbors from as far away as Issachar, Zebulun, and Naphtali came bringing food on donkeys, camels, mules, and oxen— abundant supplies of flour, fig cakes and raisin cakes, wine and oil, oxen and sheep. Indeed, there was joy in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

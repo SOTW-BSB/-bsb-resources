@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 37,
+  "verses": [
+    {
+      "id": "EXO.37.1",
+      "edition_verse_id": "BSB:EXO.37.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Bezalel went on to construct the ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.2",
+      "edition_verse_id": "BSB:EXO.37.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He overlaid it with pure gold, both inside and out, and made a gold molding around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.3",
+      "edition_verse_id": "BSB:EXO.37.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he cast four gold rings for its four feet, two rings on one side and two on the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.4",
+      "edition_verse_id": "BSB:EXO.37.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then he made poles of acacia wood and overlaid them with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.5",
+      "edition_verse_id": "BSB:EXO.37.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He inserted the poles into the rings on the sides of the ark in order to carry it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.6",
+      "edition_verse_id": "BSB:EXO.37.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He constructed a mercy seat of pure gold, two and a half cubits long and a cubit and a half wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.7",
+      "edition_verse_id": "BSB:EXO.37.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He made two cherubim of hammered gold at the ends of the mercy seat,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.8",
+      "edition_verse_id": "BSB:EXO.37.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "one cherub on one end and one on the other, all made from one piece of gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.9",
+      "edition_verse_id": "BSB:EXO.37.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the cherubim had wings that spread upward, overshadowing the mercy seat. The cherubim faced each other, looking toward the mercy seat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.10",
+      "edition_verse_id": "BSB:EXO.37.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He also made the table of acacia wood two cubits long, a cubit wide, and a cubit and a half high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.11",
+      "edition_verse_id": "BSB:EXO.37.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He overlaid it with pure gold and made a gold molding around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.12",
+      "edition_verse_id": "BSB:EXO.37.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he made a rim around it a handbreadth wide and put a gold molding on the rim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.13",
+      "edition_verse_id": "BSB:EXO.37.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He cast four gold rings for the table and fastened them to the four corners at its four legs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.14",
+      "edition_verse_id": "BSB:EXO.37.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The rings were placed close to the rim, to serve as holders for the poles used to carry the table.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.15",
+      "edition_verse_id": "BSB:EXO.37.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He made the poles of acacia wood for carrying the table and overlaid them with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.16",
+      "edition_verse_id": "BSB:EXO.37.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He also made the utensils for the table out of pure gold: its plates and dishes, as well as its bowls and pitchers for pouring drink offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.17",
+      "edition_verse_id": "BSB:EXO.37.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then he made the lampstand out of pure hammered gold, all of one piece: its base and shaft, its cups, and its buds and petals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.18",
+      "edition_verse_id": "BSB:EXO.37.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Six branches extended from the sides, three on one side and three on the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.19",
+      "edition_verse_id": "BSB:EXO.37.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "There were three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extended from the lampstand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.20",
+      "edition_verse_id": "BSB:EXO.37.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And on the lampstand were four cups shaped like almond blossoms with buds and petals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.21",
+      "edition_verse_id": "BSB:EXO.37.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "A bud was under the first pair of branches that extended from the lampstand, a bud under the second pair, and a bud under the third pair.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.22",
+      "edition_verse_id": "BSB:EXO.37.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The buds and branches were all of one piece with the lampstand, hammered out of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.23",
+      "edition_verse_id": "BSB:EXO.37.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He also made its seven lamps, its wick trimmers, and trays of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.24",
+      "edition_verse_id": "BSB:EXO.37.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He made the lampstand and all its utensils from a talent of pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.25",
+      "edition_verse_id": "BSB:EXO.37.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He made the altar of incense out of acacia wood. It was square, a cubit long, a cubit wide, and two cubits high. Its horns were of one piece.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.26",
+      "edition_verse_id": "BSB:EXO.37.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he overlaid with pure gold the top and all the sides and horns. Then he made a molding of gold around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.27",
+      "edition_verse_id": "BSB:EXO.37.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He made two gold rings below the molding on opposite sides to hold the poles used to carry it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.37.28",
+      "edition_verse_id": "BSB:EXO.37.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he made the poles of acacia wood and overlaid them with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.37.29",
+      "edition_verse_id": "BSB:EXO.37.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He also made the sacred anointing oil and the pure, fragrant incense, the work of a perfumer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

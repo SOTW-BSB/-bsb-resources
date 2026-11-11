@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "1CH.15.1",
+      "edition_verse_id": "BSB:1CH.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "David constructed buildings for himself in the City of David, and he prepared a place for the ark of God and pitched a tent for it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.2",
+      "edition_verse_id": "BSB:1CH.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then David said, “No one but the Levites may carry the ark of God, because the LORD has chosen them to carry the ark of the LORD and to minister before Him forever.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.3",
+      "edition_verse_id": "BSB:1CH.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And David assembled all Israel in Jerusalem to bring up the ark of the LORD to the place he had prepared for it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.4",
+      "edition_verse_id": "BSB:1CH.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then he gathered together the descendants of Aaron and the Levites:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.5",
+      "edition_verse_id": "BSB:1CH.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "From the Kohathites, Uriel the chief and 120 of his relatives;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.6",
+      "edition_verse_id": "BSB:1CH.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "from the Merarites, Asaiah the chief and 220 of his relatives;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.7",
+      "edition_verse_id": "BSB:1CH.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "from the Gershomites, Joel the chief and 130 of his relatives;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.8",
+      "edition_verse_id": "BSB:1CH.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "from the Elizaphanites, Shemaiah the chief and 200 of his relatives;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.9",
+      "edition_verse_id": "BSB:1CH.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "from the Hebronites, Eliel the chief and 80 of his relatives;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.10",
+      "edition_verse_id": "BSB:1CH.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and from the Uzzielites, Amminadab the chief and 112 of his relatives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.11",
+      "edition_verse_id": "BSB:1CH.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "David summoned the priests Zadok and Abiathar and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.12",
+      "edition_verse_id": "BSB:1CH.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he said to them, “You are the heads of the Levitical families. You and your relatives must consecrate yourselves so that you may bring the ark of the LORD, the God of Israel, to the place I have prepared for it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.13",
+      "edition_verse_id": "BSB:1CH.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "It was because you Levites were not with us the first time that the LORD our God burst forth in anger against us. For we did not consult Him about the proper order.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.14",
+      "edition_verse_id": "BSB:1CH.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So the priests and Levites consecrated themselves to bring up the ark of the LORD, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.15",
+      "edition_verse_id": "BSB:1CH.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded in accordance with the word of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.16",
+      "edition_verse_id": "BSB:1CH.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "David also told the leaders of the Levites to appoint their relatives as singers to lift up their voices with joy, accompanied by musical instruments— harps, lyres, and cymbals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.17",
+      "edition_verse_id": "BSB:1CH.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So the Levites appointed Heman son of Joel; from his brothers, Asaph son of Berechiah; from their brothers the Merarites, Ethan son of Kushaiah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.18",
+      "edition_verse_id": "BSB:1CH.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and with them their brothers next in rank: Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, and the gatekeepers Obed-edom and Jeiel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.19",
+      "edition_verse_id": "BSB:1CH.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The musicians Heman, Asaph, and Ethan were to sound the bronze cymbals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.20",
+      "edition_verse_id": "BSB:1CH.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play the harps according to Alamoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.21",
+      "edition_verse_id": "BSB:1CH.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead the music with lyres according to Sheminith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.22",
+      "edition_verse_id": "BSB:1CH.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Chenaniah the head Levite was the director of the music because he was highly skilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.23",
+      "edition_verse_id": "BSB:1CH.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Berechiah and Elkanah were to be guardians of the ark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.24",
+      "edition_verse_id": "BSB:1CH.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer — the priests — were to blow the trumpets before the ark of God. Obed-edom and Jehiah were also to be guardians of the ark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.25",
+      "edition_verse_id": "BSB:1CH.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So David, the elders of Israel, and the commanders of thousands went with rejoicing to bring the ark of the covenant of the LORD from the house of Obed-edom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.26",
+      "edition_verse_id": "BSB:1CH.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And because God helped the Levites who were carrying the ark of the covenant of the LORD, they sacrificed seven bulls and seven rams.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.27",
+      "edition_verse_id": "BSB:1CH.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Now David was dressed in a robe of fine linen, as were all the Levites who were carrying the ark, as well as the singers and Chenaniah, the director of music for the singers. David also wore a linen ephod.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.15.28",
+      "edition_verse_id": "BSB:1CH.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So all Israel brought up the ark of the covenant of the LORD with shouting, with the sounding of rams’ horns and trumpets, and with cymbals and the music of harps and lyres.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.15.29",
+      "edition_verse_id": "BSB:1CH.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "As the ark of the covenant of the LORD was entering the City of David, Saul’s daughter Michal looked down from a window and saw King David dancing and celebrating, and she despised him in her heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

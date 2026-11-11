@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "EZK.29.1",
+      "edition_verse_id": "BSB:EZK.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the tenth year, on the twelfth day of the tenth month, the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.2",
+      "edition_verse_id": "BSB:EZK.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Son of man, set your face against Pharaoh king of Egypt and prophesy against him and against all Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.3",
+      "edition_verse_id": "BSB:EZK.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Speak to him and tell him that this is what the Lord GOD says: Behold, I am against you, O Pharaoh king of Egypt, O great monster who lies among his rivers, who says, ‘The Nile is mine; I made it myself.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.4",
+      "edition_verse_id": "BSB:EZK.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But I will put hooks in your jaws and cause the fish of your streams to cling to your scales. I will haul you up out of your rivers, and all the fish of your streams will cling to your scales.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.5",
+      "edition_verse_id": "BSB:EZK.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I will leave you in the desert, you and all the fish of your streams. You will fall on the open field and will not be taken away or gathered for burial. I have given you as food to the beasts of the earth and the birds of the air.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.6",
+      "edition_verse_id": "BSB:EZK.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then all the people of Egypt will know that I am the LORD. For you were only a staff of reeds to the house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.7",
+      "edition_verse_id": "BSB:EZK.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When Israel took hold of you with their hands, you splintered, tearing all their shoulders; when they leaned on you, you broke, and their backs were wrenched.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.8",
+      "edition_verse_id": "BSB:EZK.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: I will bring a sword against you and cut off from you man and beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.9",
+      "edition_verse_id": "BSB:EZK.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The land of Egypt will become a desolate wasteland. Then they will know that I am the LORD. Because you said, ‘The Nile is mine; I made it,’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.10",
+      "edition_verse_id": "BSB:EZK.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "therefore I am against you and against your rivers. I will turn the land of Egypt into a ruin, a desolate wasteland from Migdol to Syene, and as far as the border of Cush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.11",
+      "edition_verse_id": "BSB:EZK.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "No foot of man or beast will pass through, and it will be uninhabited for forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.12",
+      "edition_verse_id": "BSB:EZK.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will make the land of Egypt a desolation among desolate lands, and her cities will lie desolate for forty years among the ruined cities. And I will disperse the Egyptians among the nations and scatter them throughout the countries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.13",
+      "edition_verse_id": "BSB:EZK.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For this is what the Lord GOD says: At the end of forty years I will gather the Egyptians from the nations to which they were scattered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.14",
+      "edition_verse_id": "BSB:EZK.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I will restore Egypt from captivity and bring them back to the land of Pathros, the land of their origin. There they will be a lowly kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.15",
+      "edition_verse_id": "BSB:EZK.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Egypt will be the lowliest of kingdoms and will never again exalt itself above the nations. For I will diminish Egypt so that it will never again rule over the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.16",
+      "edition_verse_id": "BSB:EZK.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Egypt will never again be an object of trust for the house of Israel, but will remind them of their iniquity in turning to the Egyptians. Then they will know that I am the Lord GOD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.17",
+      "edition_verse_id": "BSB:EZK.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "In the twenty-seventh year, on the first day of the first month, the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.18",
+      "edition_verse_id": "BSB:EZK.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Son of man, Nebuchadnezzar king of Babylon caused his army to labor strenuously against Tyre. Every head was made bald and every shoulder made raw. But he and his army received no wages from Tyre for the labor they expended on it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.19",
+      "edition_verse_id": "BSB:EZK.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: I will give the land of Egypt to Nebuchadnezzar king of Babylon, who will carry off its wealth, seize its spoil, and remove its plunder. This will be the wages for his army.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.29.20",
+      "edition_verse_id": "BSB:EZK.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I have given him the land of Egypt as the reward for his labor, because it was done for Me, declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.29.21",
+      "edition_verse_id": "BSB:EZK.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "In that day I will cause a horn to sprout for the house of Israel, and I will open your mouth to speak among them. Then they will know that I am the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

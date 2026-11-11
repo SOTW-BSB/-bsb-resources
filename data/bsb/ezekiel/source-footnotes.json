@@ -1,0 +1,1287 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Or \\fqa from God\\f*",
+          "raw_sha256": "43e881b898b73e93e5d4eadef937526314ef050cc5315643ae34315fc76c362d"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 1:3 \\ft That is, the Babylonians\\f*",
+          "raw_sha256": "749415efdbd1c0902549f4e09a8549dc22e3ba15493bc85ce30c681e6b0888e5"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft Or \\fqa The center of the fire looked like glowing metal\\ft ; similarly in verse 27\\f*",
+          "raw_sha256": "521dabc33f38db671d6e470fd7e74e97b3cc9491f316337102135da2a46156e1"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 1:24 \\ft Hebrew \\fqa Shaddai\\f*",
+          "raw_sha256": "09e61d7fde691c312641fe09b014dca827a84b8cbe36a987812d3cf162e05823"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Or \\fqa Son of Adam\\ft ; here and throughout Ezekiel\\f*",
+          "raw_sha256": "36d0ca8cdea6dd19f72a508b16fc83787e5fa9da1264343e16964b08740245df"
+        }
+      ]
+    },
+    "3": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft Or \\fqa the wind\\ft ; also in verse 14\\f*",
+          "raw_sha256": "fb3cf7d53acaa1b2dc3bbab386fc21250c81833853b3d7d546d5f5f53201407b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft Or \\fqa sound behind me as the glory of the LORD rose from its place!\\f*",
+          "raw_sha256": "84b010425617092b41c506992e4c57c759614b7b91397a65b99a90f9c0ac56b1"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 3:18 \\ft Or \\fqa for his iniquity\\ft ; also in verse 19\\f*",
+          "raw_sha256": "2f210fa3072f72abe214d429af27900d186936ab2ffe12464b2b5bd3bf1fcba3"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 3:20 \\ft Or \\fqa for his sin\\f*",
+          "raw_sha256": "be45201443a3341676d59a7006de0925a8f6865e4ed21d44305fb2a3a6091e01"
+        }
+      ]
+    },
+    "4": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 4:10 \\fqa 20 shekels \\ft is approximately 8 ounces or 228 grams of food.\\f*",
+          "raw_sha256": "6c3fc87115532b5c1f73d93f9d277bf9e6db02b609512add7e5f1c2f5fd46623"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 4:11 \\fqa A sixth of a hin \\ft is approximately 0.65 quarts or 0.61 liters of water.\\f*",
+          "raw_sha256": "eaf619105cf3842ff821043e63a647c3a09b980240589b0bd5c3efedcde14ca7"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 4:14 \\ft Hebrew \\fqa “Ah, Lord GOD,” I said, “Behold, my soul has never been made unclean.\\f*",
+          "raw_sha256": "62b13edf703927ca9a4248235764014b94d2b4e6eb1c7c3d7baf8d63512e110a"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 4:16 \\ft Hebrew \\fqa staff\\f*",
+          "raw_sha256": "ceb23cf2fd0ed9fee2c5b955254b82da0228a1049a753228c906e0c385fc8457"
+        }
+      ]
+    },
+    "5": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 5:7 \\ft Some Hebrew manuscripts and Syriac \\fqa My ordinances; you have even conformed\\f*",
+          "raw_sha256": "0d13d8a77af1a2ee46bfd570f4196804820ee9e8a6d0b7b7f258847528a2b84d"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 5:15 \\ft DSS, LXX, Syriac, and Vulgate; MT \\fqa So it will be\\f*",
+          "raw_sha256": "af45e50080f4efd8544bd060307e324266af14dda0f4a659d195b68f89f0345e"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 5:16 \\ft Hebrew \\fqa them \\ft \\f*",
+          "raw_sha256": "c5cfdf2afab6f18b2605b7251d5d302c3ebbc7daa0370b07bdec936aa473116d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:16 \\ft Hebrew \\fqa staff\\f*",
+          "raw_sha256": "4b73214f060d67d9e13fd4d359ac95d2bb47c523f283e7ba1360e051ba862679"
+        }
+      ]
+    },
+    "6": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 6:14 \\ft Most Hebrew manuscripts; Vulgate and a few Hebrew manuscripts \\fqa Riblah\\f*",
+          "raw_sha256": "2c2c7eafc450863a3751f8d0b13ebf1f80e105ef0e4529b7aa62f8c14e3928bf"
+        }
+      ]
+    },
+    "7": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 7:5 \\ft Or \\fqa A unique disaster\\ft , as in most Hebrew manuscripts; some Hebrew manuscripts and Syriac \\fqa Disaster after disaster\\f*",
+          "raw_sha256": "8d3818fa75883128a88b167e9bc504ac9b9ff13c5b35a2f5df2449db33a0932e"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 7:11 \\ft Literally \\fqa The violence has grown into a rod of wickedness\\f*",
+          "raw_sha256": "c5072b74eb3cbd35e4f9e69d7e153d411587699a1d58601dbf124daaffbd87c5"
+        }
+      ]
+    },
+    "8": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 8:2 \\ft Or \\fqa as glowing metal\\f*",
+          "raw_sha256": "13ddc0b16c5aca3f5b61e43d06003de38bac10ac6f4471131ab9d50710f63e53"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 8:5 \\ft Or \\fqa gate of the altar\\f*",
+          "raw_sha256": "b47fb33d18df1c7d77280b2a5ad77e6cb58a7f465212df218a4d362ebd915871"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 8:14 \\fqa Tammuz\\ft , meaning \\fqa Sprout of Life\\ft , was a Sumerian god of fertility.\\f*",
+          "raw_sha256": "3a8bf6d1c0e9ea52c082b6ab2b7f5bef7289dab2f24de86c460b25c5f6f16ad6"
+        }
+      ]
+    },
+    "10": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 10:5 \\ft Hebrew \\fqa El-Shaddai\\f*",
+          "raw_sha256": "f9b947d00e3d96080bb0bc38c3199005864b4eee11c902fe695f665d78b2b7f2"
+        }
+      ]
+    },
+    "11": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 11:3 \\ft Or \\fqa cauldron\\f*",
+          "raw_sha256": "031b09527b8f4c88e441048f753fc90ee1f7a2184ae8c7a8708a9fe04b524379"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 11:24 \\ft Or \\fqa Babylonia\\f*",
+          "raw_sha256": "74fb3a2a5ae329f2134158bca356c14b385fbcfe177a49560989f3e253196a2e"
+        }
+      ]
+    },
+    "12": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 12:11 \\ft Literally \\fqa ‘I am a sign to you.’ Just as I have done\\ft ; some translators close the quotation at the end of the verse.\\f*",
+          "raw_sha256": "2dd06e269a72eb2b492bac6020c3f536860c04ec5487719877a5c57c82c580de"
+        }
+      ]
+    },
+    "14": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 14:13 \\ft Hebrew \\fqa staff\\f*",
+          "raw_sha256": "291618d5b063b76f47bb89b2dcd8954530e83cb4a8228c4c302a189e074525de"
+        }
+      ]
+    },
+    "16": {
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 16:29 \\ft Or \\fqa Babylonia\\f*",
+          "raw_sha256": "09e14a69e2d3d09b36794bd2660b47bb1175ccffb73d24ae9aa12020deaf9c3d"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 16:30 \\ft Or \\fqa How feverish is your heart,\\f*",
+          "raw_sha256": "596097ef9d46ab61859a231bfc286b3caa9610b8f18bb34df9855d74386d7cc7"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 16:50 \\ft A few Hebrew manuscripts and LXX; MT \\fqa as I have seen\\f*",
+          "raw_sha256": "28b185f00d484f122af4adbf9f0598b4751a755f30ac405132633ef416cf8e75"
+        }
+      ],
+      "53": [
+        {
+          "source_usfm": "\\f + \\fr 16:53 \\ft Or \\fqa restore the fortunes of Sodom and her daughters\\f*",
+          "raw_sha256": "38c6669f264c812128ee5a41845dd11f8a66631462eeb616783e951991d00584"
+        }
+      ],
+      "57": [
+        {
+          "source_usfm": "\\f + \\fr 16:57 \\ft Many Hebrew manuscripts and Syriac; most Hebrew manuscripts, LXX, and Vulgate \\fqa Aram\\f*",
+          "raw_sha256": "c3405979b8fadf3565f8546866f1eb56a391951eea1fb8a926516dc212753ed4"
+        }
+      ]
+    },
+    "17": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 17:3 \\fqa Pinions \\ft are the outer parts of a bird’s wings, including the flight feathers.\\f*",
+          "raw_sha256": "c8980ab023d2ef52125159b1c856d0049c974a91467d27d9174dd02d969a1716"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 17:5 \\ft Hebrew \\fqa in a field of seed\\f*",
+          "raw_sha256": "16549357beade8a9f354d04ed11dcf14bfd2cd04880c12c96a07ded19002f993"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 17:13 \\ft Hebrew \\fqa the royal seed\\f*",
+          "raw_sha256": "9c977a0c875e5f1b476cc4081e24dca4a8541310ca6b8d8c2823177417f4d944"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 17:21 \\ft Many Hebrew manuscripts; MT \\fqa All his fleeing troops\\f*",
+          "raw_sha256": "3d57a10e24a1f27969f23b10f71dc7e3a41f82a95a2486b94c0b8d724c9122e4"
+        }
+      ]
+    },
+    "18": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 18:17 \\ft Hebrew; LXX \\fqa He withholds his hand from iniquity\\f*",
+          "raw_sha256": "ce143aac9dc255daa729643e27041d113534d6408da62745b2a5b931350fda63"
+        }
+      ]
+    },
+    "19": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 19:7 \\ft Or \\fqa He knew their widows \\ft or \\fqa He seized their widows\\f*",
+          "raw_sha256": "f357654a52b20f3ace86b19a97c85a7395022ddd2bc68572812044315cf541df"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 19:10 \\ft Some Hebrew manuscripts; most Hebrew manuscripts \\fqa in your bloodline\\f*",
+          "raw_sha256": "bd80acff686bb27dcad0c622eaae29137294461165670a0de5d98d7f39051362"
+        }
+      ]
+    },
+    "20": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 20:11 \\ft See \\ref Leviticus 18:5|LEV 18:5\\ref*; also in Ezekiel 20:13 and 21.\\f*",
+          "raw_sha256": "2d3af9eb7ee8658c9309200d94062945f54356dda932622afbfa2049b36403aa"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 20:29 \\fqa Bamah \\ft means \\fqa high place\\ft .\\f*",
+          "raw_sha256": "c943c0323cd5513d57b4b6a5356b390abc335fbdd4a26284e4217d154108bc3f"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 20:31 \\ft Literally \\fqa making your sons pass through the fire\\f*",
+          "raw_sha256": "bc965242bfa95afec05ef3aee597ac23fb6c62b357d52d07e1a50c2380e30865"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 20:34 \\ft LXX \\fqa receive you\\ft ; see also \\ref 2 Corinthians 6:17|2CO 6:17\\ref*.\\f*",
+          "raw_sha256": "4bb9dcd6a271c1de8c07da206c63b26c3370ab70ea8cd8648df570647f2948eb"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 20:36 \\ft Or \\fqa in the wilderness after bringing them out of Egypt\\f*",
+          "raw_sha256": "23abad7332312d783586d2813716412331bd121bf4621041e4bf3b24a999a9c4"
+        }
+      ],
+      "46": [
+        {
+          "source_usfm": "\\f + \\fr 20:46 \\ft Hebrew \\fqa toward Teman\\f*",
+          "raw_sha256": "61f3d4843bbbd5ab449a88ec42afed69cefc3491d5ac8caaf3fed4a07f2a5f79"
+        }
+      ]
+    },
+    "21": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 21:12 \\ft Or \\fqa beat your breast\\f*",
+          "raw_sha256": "9424832afc82ceb31acbb2127a3ef67c2f75f6d733d6929f2e5275c7a853ad38"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 21:27 \\ft Or \\fqa of Him to whom it rightfully belongs, to whom I have given it.\\f*",
+          "raw_sha256": "2340e0a2d8eec15ce19b85b3c4cc6f17b02c59b9b6a5e7b0774841fbc6d6c420"
+        }
+      ]
+    },
+    "22": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 22:16 \\ft Or \\fqa And when I have allotted you your inheritance\\f*",
+          "raw_sha256": "d4eaf99e6ea59ad0f66b081764c45aec745648338efd107759a75334f5b8c682"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 22:25 \\ft LXX; Hebrew \\fqa prophets\\f*",
+          "raw_sha256": "b4009573cc5ddd3bdbd42bc66f5b5c9c6743c69eacc467741fce31ec83ca7a54"
+        }
+      ]
+    },
+    "23": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 23:4 \\fqa Oholah \\ft means \\fqa her own tent \\ft or \\fqa she worships at a tent shrine\\ft , a metaphor for Samaria as an adulteress with Assyria.\\f*",
+          "raw_sha256": "2121193236f6f3db171123b57759bf1104d017232e2562016b67b11df39a5a9d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:4 \\fqa Oholibah \\ft means \\fqa the tent is in her \\ft or \\fqa she is a tent shrine\\ft , a metaphor for Jerusalem as an adulterous wife.\\f*",
+          "raw_sha256": "daa6a905a49a5f8014541d39bcb1fa67b207716aca31d6750f479d4ca30455a1"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 23:14 \\ft That is, the Babylonians\\f*",
+          "raw_sha256": "ba7fc029c36a4c2f022a1ef2957751d243648dd69ef1189129bd1d4249e47f40"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 23:15 \\ft Or \\fqa Babylonia\\ft ; also in verse 16\\f*",
+          "raw_sha256": "87c1bb67eecb157bcf00cbb9a4a60fbd2a1ef3d6575ed92dbca6fc5413330c34"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 23:24 \\ft LXX \\fqa They will all come against you from the north\\f*",
+          "raw_sha256": "60cd316e716c8a99ac68e98c995f23970cb6b7ba30eb7227ce93b02dc4a3af21"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 23:37 \\ft Literally \\fqa passed their children, whom they bore to Me, through the fire\\f*",
+          "raw_sha256": "7521c34ada0491f8e37be154e488ba7b022fc1b0a9e3bbd0070e79b0c40b3bb3"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 23:40 \\ft Hebrew \\fqa they sent\\f*",
+          "raw_sha256": "39ed5d3117a6fbfc2b7c09ff3d3c22d8b419907ca206f7b6b7898012ba4d295f"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 23:42 \\ft Or \\fqa Sabeans\\f*",
+          "raw_sha256": "015f6b8bded3b9138ab2ba27dddb941f883e40db50d9ce3b4e44d94d9f458caa"
+        }
+      ]
+    },
+    "24": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 24:6 \\ft Or \\fqa let no lot fall upon it\\f*",
+          "raw_sha256": "c08d4204b1a4c1e7b81d90e26369145bc8c17c1f73de3116fbd1791ab29738a0"
+        }
+      ]
+    },
+    "25": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 25:5 \\ft Hebrew \\fqa and the Ammonites\\f*",
+          "raw_sha256": "c55776c2234beee045db471fdbc3ec8f19a63b84ab754e84e208f2de10ac017a"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 25:8 \\ft LXX does not include \\fqa and Seir\\ft .\\f*",
+          "raw_sha256": "9c2855742e2abf381fa2ce0df43b8eb7ec59123da5032eaf49603b784eed0ae0"
+        }
+      ]
+    },
+    "26": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 26:1 \\ft Likely reading of the original Hebrew text; MT \\fqa In the eleventh year\\f*",
+          "raw_sha256": "b416209f10c214e1d8473bd8ca3407c7acb6c2be88bbcc06cc8834c8818af0df"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 26:7 \\ft Hebrew \\fqa Nebuchadrezzar\\ft , a variant of \\fqa Nebuchadnezzar \\ft (king of Babylon). The latter spelling is used throughout Ezekiel for consistency.\\f*",
+          "raw_sha256": "8ba139b09175e01dbd3c28b20c4590db1414482c782ccf4faaae6cebc0bd914a"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 26:17 \\ft Or \\fqa on all her inhabitants\\f*",
+          "raw_sha256": "409bcd9cfabcf2b012c102e4617661859b4785678f0b951779b7bbd3467862ae"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 26:20 \\ft LXX \\fqa or take your place\\f*",
+          "raw_sha256": "13576613f711d3d9b788c67ed59111d72e25caabf87d0d2af70437e74f99e914"
+        }
+      ]
+    },
+    "27": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 27:5 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\f*",
+          "raw_sha256": "bbfcf9b594d4cf5a3b3795833840054d5bc84f036274387474cf8436b27662b7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:5 \\ft That is, Mount Hermon\\f*",
+          "raw_sha256": "a7276adb912a55f7534e4c6e0ed9ba2257053284f1d21cbbd3026f4a4fd8c88d"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 27:6 \\ft Hebrew \\fqa Kittim\\f*",
+          "raw_sha256": "8aff5fb8ae7681c670bfff568d203917d91bb2b5b7d5bd6e0eba4939575c55e2"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 27:13 \\ft That is, Greece\\f*",
+          "raw_sha256": "c99a8ffdf21aa9935e3f66d474215c33352c617239e148c9624bd113cf5504e0"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 27:15 \\ft Hebrew; LXX \\fqa Rhodes\\f*",
+          "raw_sha256": "ea11aa7ff4fa0c2c33c79074cc80f9372d82200a70a6dcd9670b0092a11d3c09"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 27:16 \\ft Most Hebrew manuscripts; some Hebrew manuscripts and Syriac \\fqa Edom\\f*",
+          "raw_sha256": "0c962d5fa6f0eb802e90db424f356acd9b50142f194d31504ea44b3376d45bd6"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 27:19 \\ft Probable reading; MT \\fqa —and Dan and Javan from Uzal (traded) for your wares\\f*",
+          "raw_sha256": "ee2557b74f6cedbd12d2a81ed7e218a2b72dfdba3b718dbfddb8887ee33eda43"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:19 \\ft Or \\fqa calamus\\f*",
+          "raw_sha256": "b9553936a1a38b395c4326dc53a909eaae6fe7140c3b1bba7f14370a037bb058"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:19 \\ft Or \\fqa were among your merchandise\\f*",
+          "raw_sha256": "c2c5e9e96acedb8ae324a05f304554731d40e84faca8c0e1131e3e1a358f8b6f"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 27:25 \\ft Or \\fqa A fleet of trading ships\\f*",
+          "raw_sha256": "ef5a00982ed32a553ab04d24db94a0843df4eed994bd0c3907c0a794135d5071"
+        }
+      ]
+    },
+    "28": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 28:13 \\ft The precise identification of some of these gemstones is uncertain.\\f*",
+          "raw_sha256": "e8b57e080d585f102416dbeb3103f2244e3c55cee2d744756d1dceb6f780226f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 28:13 \\ft Or \\fqa lapis lazuli\\f*",
+          "raw_sha256": "46e3644a6115148b4104b6d5482f04482df8d7b3bc01c4dbec28780c36cebad2"
+        }
+      ]
+    },
+    "29": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 29:7 \\ft Syriac (see also LXX and Vulgate); Hebrew \\fqa and you caused their loins to shake.\\f*",
+          "raw_sha256": "ed6ef8348564b322d599b4eeeb2de4652dea65ef99b8aa2cdd32a40d8d9b5069"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 29:10 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "9d1119822029f3fa822927f296dc417b04ca3bf20910fdac3912ec1b98483c97"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 29:14 \\ft Or \\fqa restore the fortunes of Egypt\\f*",
+          "raw_sha256": "ff7e9e0ab60368472b1827cd7c90322fe67f2cfd6403a5ed74960c504d54eb42"
+        }
+      ]
+    },
+    "30": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 30:3 \\ft Hebrew does not include \\fqa of doom\\ft .\\f*",
+          "raw_sha256": "60e72ba9231ab3ddb9148800b0ebaa55472b16a97c40c421977e25b5ca8ab594"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 30:4 \\ft That is, the upper Nile region; also in verses 5 and 9\\f*",
+          "raw_sha256": "8896b9a267e1429432cad0a6669e9c251217977c5ffb6a338fde8d3a42863d5d"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 30:5 \\ft Or \\fqa Lydia\\f*",
+          "raw_sha256": "ed5bc646ad4cfcab6e4257072b5148b355b6ad61445046e89787cf374e4a7c79"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 30:6 \\ft That is, Aswan; see \\ref Isaiah 49:12|ISA 49:12\\ref*\\f*",
+          "raw_sha256": "3d422c13fd355195f12240708354ef3caf48adf34685b29a1dc6e06a8e0960b2"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 30:9 \\ft Hebrew \\fqa the day of Egypt\\f*",
+          "raw_sha256": "944333e4eaf0dd848b0fb147e671afeaecb01e81f1f48f62b4446d8f730b68f2"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 30:13 \\ft LXX; Hebrew \\fqa Noph\\ft ; also in verse 16\\f*",
+          "raw_sha256": "7c7e459212857fb04d7be5206321a7cca93cb5798b7b4928d5bc93bf19cffb10"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 30:14 \\ft Hebrew \\fqa No\\ft ; also in verses 15 and 16\\f*",
+          "raw_sha256": "afbde3d0ca5236a01ed6ff5fce723b35d9941fa6b93a879377c85dc664c32186"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 30:15 \\ft Hebrew \\fqa Sin\\ft ; also in verse 16\\f*",
+          "raw_sha256": "ffb5caede08820e4b6aca139c44dc7b2e74c894bd19176d20c4c3bc9f2782ae3"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 30:17 \\ft That is, \\fqa Heliopolis and Bubastis\\ft , as in LXX; Hebrew \\fqa Aven and Pi-beseth\\f*",
+          "raw_sha256": "1bef319adf0ba4ef52c109fd61c2c9dac2a51535afda591bc77d7161ce3f8606"
+        }
+      ]
+    },
+    "31": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 31:8 \\ft Or \\fqa pines \\ft or \\fqa junipers \\ft or \\fqa firs\\f*",
+          "raw_sha256": "604532b2d29b8d4e30aaef0316a9638d66717269ac3027225ad99be896a4bfd5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 31:8 \\ft Possibly \\fqa chestnut \\ft or \\fqa juniper\\f*",
+          "raw_sha256": "59896d4eba2110bbde146fa47609563df47fd36e3078df4d194b0c4cf53b8c97"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 31:10 \\ft Hebrew \\fqa you became great\\f*",
+          "raw_sha256": "b4c9795a93b60e51a2ad0d86685e4a91496e11cfe96895f44f1832bb739cb454"
+        },
+        {
+          "source_usfm": "\\f + \\fr 31:10 \\ft Or \\fqa through the thick boughs\\f*",
+          "raw_sha256": "75e686710aa806d6064b1d64f375b586bff7b24fe135560857a9d517c60ad493"
+        }
+      ]
+    },
+    "32": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 32:5 \\ft Or \\fqa your lofty stature\\f*",
+          "raw_sha256": "dd5338b8b9c5b966bbdf1f82868e256df4970e385f12ca8efa29a0990363a955"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 32:9 \\ft Hebrew; LXX \\fqa when I lead you into captivity among the nations, into countries\\f*",
+          "raw_sha256": "fdbbf002710745537c1f52f4eb308e3860ecf35ca13c3b4ff1f61835610b2f54"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 32:17 \\ft Presumably the fifteenth day of the twelfth month (see verse 1); LXX \\fqa on the fifteenth day of the first month\\ft .\\f*",
+          "raw_sha256": "9a111ff0f446b8e4d7f4d379e0c769926b5eacd45838a8ab8fbb9f3725eba344"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 32:27 \\ft LXX; Hebrew \\fqa warriors of the uncircumcised \\ft \\f*",
+          "raw_sha256": "26806d2c8cae72415a54bcd5ce8975d638f39dd94d921c019382c0e841482b4a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 32:27 \\ft Likely reading of the original Hebrew text; MT \\fqa iniquities\\f*",
+          "raw_sha256": "1623a2d143f0d3c88ff5a6acb45a0595a27f662b061ea096d45918107fc674fc"
+        }
+      ]
+    },
+    "33": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 33:9 \\ft See \\ref Acts 20:25–26|ACT 20:25-26\\ref*\\f*",
+          "raw_sha256": "340fa3d5eab854f8466420cfef51ffef5ef32a8e8ebcb3dcdc84812973cb6d6a"
+        }
+      ]
+    },
+    "37": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 37:5 \\ft Or \\fqa spirit\\ft ; also in verses 6, 9, and 10\\f*",
+          "raw_sha256": "9ef85e5668218a76077c9966273e94b9357d2ef2ef235741e51d7376bf8bfbb6"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 37:16 \\ft Or \\fqa branch\\ft ; also in verses 17, 19, and 20\\f*",
+          "raw_sha256": "1f1acdd1aa8935f50d2315e153d16607c6154ad90292a18cda5190efa12ff0b2"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 37:23 \\ft Many Hebrew manuscripts (see also LXX); most Hebrew manuscripts \\fqa all their dwelling places where they sinned\\f*",
+          "raw_sha256": "bcc03969b65a4f712996a6797fb28936b084cbad78143abe8bc4e403dbc37e44"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 37:27 \\ft Or \\fqa My tabernacle\\f*",
+          "raw_sha256": "db708c96453b22eca37167e2b1a119e5e4709e79865c65eb589d3af3bf63bf1f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 37:27 \\ft Cited in \\ref 2 Corinthians 6:16|2CO 6:16\\ref*\\f*",
+          "raw_sha256": "7987e7f068854947aa056f210d5daec9de127493a6b1d792f55b2e76079dbe0e"
+        }
+      ]
+    },
+    "38": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 38:2 \\ft Or \\fqa of Magog, the prince of Rosh, Meshech, and Tubal\\f*",
+          "raw_sha256": "79550003e408ac1d864d90971243e48d22f259dadfac8ce1693a7d3b839f859d"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 38:3 \\ft Or \\fqa Gog, the prince of Rosh, Meshech, and Tubal\\f*",
+          "raw_sha256": "e2e1fc29ce4ebda866efeeb657764ab815ab2f3afaa6cceff24b1c0d95ad5337"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 38:5 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "bc7eca6b57be7818f0ff01abc7fccca5076cab09aaf0b54a655aa56812738f26"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 38:13 \\ft Or \\fqa young lions\\f*",
+          "raw_sha256": "49308c16f7f40f4f42ebec83c0b47ae8ea9b5bfe9f03fc8ca5bc6fe3d630262e"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 38:14 \\ft LXX \\fqa will you not rouse yourself?\\f*",
+          "raw_sha256": "9b1e9a9e9a7760e3cac19a4a5f33b8bf33e9311d72c33beaa8915350913fe5a7"
+        }
+      ]
+    },
+    "39": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 39:1 \\ft Or \\fqa Gog, prince of Rosh, Meshech, and Tubal\\f*",
+          "raw_sha256": "8e47a2a00a5c39a81571917c1d7e83c1093b9a41260c751fa3b52a9f05fceaff"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 39:11 \\ft That is, the Dead Sea\\f*",
+          "raw_sha256": "a67d4e5ce000bb7277c9886e1822e2941e697e0b54c94be7d4b5b8be7b3e0ef2"
+        },
+        {
+          "source_usfm": "\\f + \\fr 39:11 \\fqa Hamon-gog \\ft means \\fqa multitude of Gog\\ft .\\f*",
+          "raw_sha256": "6c116bd981d645f362a95a42176870f3c7f4e84a439fbab8fd3804e3f91f1836"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 39:13 \\ft Or \\fqa and the day I display My glory will be a day of renown\\f*",
+          "raw_sha256": "e0a743e909f093082a05f12cc172655f2c815bb11c165b690163d0989fc4471b"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 39:16 \\fqa Hamonah \\ft means \\fqa multitude \\ft or \\fqa horde\\ft .\\f*",
+          "raw_sha256": "d7aef14d8d785c077b93edbf96be0a832dee7b82481dd41891eeb91606c4e992"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 39:25 \\ft Or \\fqa restore the fortunes of Jacob\\f*",
+          "raw_sha256": "34f937c2fcb8feda3743e55e1de5cae20bd687419e15a515b4226f8c9eda82d3"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 39:26 \\ft A few Hebrew manuscripts; MT \\fqa They will bear\\f*",
+          "raw_sha256": "aec0b89cef78b143598ac508bcb558f601fd9b6bd98a709ac26cc4d0a24b4f38"
+        }
+      ]
+    },
+    "40": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 40:5 \\fqa 6 long cubits\\ft , the length of the reed used for measuring, is approximately 10.5 feet or 3.2 meters; similarly in verses 6, 7, and 12. The long cubit of about 21 inches or 53.3 centimeters is the basic unit of length throughout Ezekiel 40 to 48.\\f*",
+          "raw_sha256": "79b972853768f9c4e01c7f21bff9ee2ca2e36be521c27aedd1534f9c8c02e45f"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 40:6 \\ft Hebrew \\fqa one reed deep, even one threshold, one reed deep.\\f*",
+          "raw_sha256": "dad7ab5f9d6e897668648eeccb335b28f012f0eea74faf7d6009a70ec41afd73"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 40:7 \\fqa 5 (long) cubits \\ft is approximately 8.75 feet or 2.7 meters; also in verses 30 and 48.\\f*",
+          "raw_sha256": "b86db942b7624a1da07f23469ec38ff0ff5b25afb1a45adbee441e3460db8250"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 40:8 \\ft Literally \\fqa the portico of the gateway inside, one rod\\f*",
+          "raw_sha256": "eb3d802ee1dc5c361461b60235fbb5e15ad7258b982b2b8839edb6a16f479ad4"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 40:9 \\fqa 8 (long) cubits \\ft is approximately 14 feet or 4.3 meters.\\f*",
+          "raw_sha256": "614441bf902f0c83b598e412f487fa793760aebcff15268283e7823613bca227"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:9 \\fqa 2 (long) cubits \\ft is approximately 3.5 feet or 1.1 meters.\\f*",
+          "raw_sha256": "4117b55d61d3e77a9b2a22c5e8fbe95ab8603aaa6acc3cc591a7499fd2833d1e"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 40:11 \\fqa 10 (long) cubits \\ft is approximately 17.5 feet or 5.3 meters.\\f*",
+          "raw_sha256": "10453e7ea164397344b950ac943db213128b65915a66c8e8e8bb6141a327cfe2"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:11 \\fqa 13 (long) cubits \\ft is approximately 22.75 feet or 6.9 meters.\\f*",
+          "raw_sha256": "01fda8be2c75c612fa4b4f3c32d331357894cd7be6849741d1f94476c2697b1b"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 40:13 \\fqa 25 (long) cubits \\ft is approximately 43.75 feet or 13.3 meters; also in verses 21, 25, 29, 30, 33, and 36.\\f*",
+          "raw_sha256": "ce91d5dfd5c3d572e751b7359fa2e09fcc9f8b070bb6dc7e8b6b3caa65ed2950"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 40:14 \\fqa 60 (long) cubits \\ft is approximately 105 feet or 32 meters.\\f*",
+          "raw_sha256": "5c85f25d062fce3d350016662b7ea0bd6fcae1cf3a2a5d40767d2152a2c6d662"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 40:15 \\fqa 50 (long) cubits \\ft is approximately 87.5 feet or 26.7 meters; also in verses 21, 25, 29, 33, and 36.\\f*",
+          "raw_sha256": "c9209911da971d8704b949b300a0604ed65e756b9e1b64e761fd92ddd354914b"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 40:16 \\ft Or \\fqa gateposts \\ft or \\fqa jambs \\ft or \\fqa projecting walls\\ft ; here and throughout Ezekiel 40 and 41.\\f*",
+          "raw_sha256": "d592e7001eb80f7829cfd1637131dd77dc2e7c2633cbd0442cdbe99304764315"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 40:19 \\fqa 100 (long) cubits \\ft is approximately 175 feet or 53.3 meters; also in verses 23, 27, and 47.\\f*",
+          "raw_sha256": "413becb7b324299b3f0490a1f0a57edc5d36e43dc132674e872f410f279b6177"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 40:30 \\ft The porticoes were approximately 43.75 feet long and 8.75 feet deep (13.3 meters long and 2.7 meters deep).\\f*",
+          "raw_sha256": "c3e86d786af872f51d349a154345c31a3aba0040e82946a910371c42da57b358"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 40:37 \\ft LXX and Vulgate (see also verses 26, 31, and 34); Hebrew \\fqa jambs \\ft or \\fqa dividing wall\\f*",
+          "raw_sha256": "7df92d449add30750a84e1066deedfc2374646b7ffef9a4a850a0c186119ef9e"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 40:38 \\ft Hebrew \\fqa at the jambs\\f*",
+          "raw_sha256": "8aeb1e80e884714399d761e516748fd9ecf792f932d70845a3a44c0721441524"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 40:42 \\ft The tables were approximately 2.6 feet in length and width, and 1.75 feet high (79.2 centimeters in length and width, and 53.3 centimeters high).\\f*",
+          "raw_sha256": "81a98877c9fcb1d831cd592b6f419d8657f5018b3dd9a240b4e62caaaa40c60c"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 40:43 \\ft Or \\fqa shelves\\f*",
+          "raw_sha256": "440c44cac316f69054a7830356df24fb7360fe0a9a4972b3c0eb4c5be46faf00"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:43 \\fqa A handbreadth \\ft is approximately 2.9 inches or 7.4 centimeters long.\\f*",
+          "raw_sha256": "c94f3afcc376306cef9dcc674ba7f6cec11478d4ec11c570ae6607c682e72d11"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 40:44 \\ft LXX; Hebrew \\fqa within the inner court were chambers for the singers\\f*",
+          "raw_sha256": "1ddab149f6d0b389305e56eebdb34c4cafe2dc68e2ee686e1886ab875c666bc7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:44 \\ft LXX; Hebrew \\fqa the east gateway\\f*",
+          "raw_sha256": "804d69cd44a3f122f2df0bb2ae8ea92f5bf8f71cf93138790abe36f3a1a29e95"
+        }
+      ],
+      "48": [
+        {
+          "source_usfm": "\\f + \\fr 40:48 \\ft LXX; the gateway was approximately 24.5 feet or 7.5 meters wide, with sidewalls approximately 5.25 feet or 1.6 meters wide on either side. Hebrew \\fqa The width of the gateway was three cubits on either side.\\f*",
+          "raw_sha256": "e1dec221a295f71c30ed9d3009148d74c23849140e396ef7bc837cb7879b1744"
+        }
+      ],
+      "49": [
+        {
+          "source_usfm": "\\f + \\fr 40:49 \\fqa 20 (long) cubits \\ft is approximately 35 feet or 10.7 meters.\\f*",
+          "raw_sha256": "80d854fb19c722764b57e35c61cd7e045c8c3e4740cde25958f47c71d46689ad"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:49 \\ft LXX; \\fqa 12 (long) cubits \\ft is approximately 21 feet or 6.4 meters; Hebrew \\fqa eleven cubits deep\\ft ; that is, approximately 19.25 feet or 5.9 meters.\\f*",
+          "raw_sha256": "ae11262d09b0e6a43b93b40bcca325893972498ccd7fd37c4f9777fe6649df26"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:49 \\ft LXX; Hebrew \\fqa and steps led up to it \\ft \\f*",
+          "raw_sha256": "99b19dcd8e043ddf2fb11c9b5d44b598b07e5d6d5b687fefddea4b62db7bac14"
+        }
+      ]
+    },
+    "41": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 41:1 \\fqa 6 (long) cubits \\ft is approximately 10.5 feet or 3.2 meters; also in verses 3, 5, and 8.\\f*",
+          "raw_sha256": "f83eea2a55a99a8f8cb3934e2887f922c0016043bbb03e65c41db32971869c83"
+        },
+        {
+          "source_usfm": "\\f + \\fr 41:1 \\ft One Hebrew manuscript and LXX; most Hebrew manuscripts \\fqa on each side—the width of the tent\\f*",
+          "raw_sha256": "a766ce4d4ce6cec97240dd3e0eddde447e4a5c986b4b1d8ab3c37be87ad051aa"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 41:2 \\fqa 10 (long) cubits \\ft is approximately 17.5 feet or 5.3 meters.\\f*",
+          "raw_sha256": "2db311090d393a1337bd9975493789f0fd8ff6968a125d8722d1f51170dfdfc6"
+        },
+        {
+          "source_usfm": "\\f + \\fr 41:2 \\fqa 5 (long) cubits \\ft is approximately 8.75 feet or 2.7 meters; also in verses 9, 11, and 12.\\f*",
+          "raw_sha256": "7daec28c5620a3f55fafcc9d0b258a6cbebd036bc205e18c305faf6f84f324cd"
+        },
+        {
+          "source_usfm": "\\f + \\fr 41:2 \\ft The outer sanctuary was approximately 70 feet long and 35 feet wide (21.3 meters long and 10.7 meters wide).\\f*",
+          "raw_sha256": "17c798e553eb9efb6315281513ae89ae2132558366a80378f4d43bbecf2d10fe"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 41:3 \\fqa 2 (long) cubits \\ft is approximately 3.5 feet or 1.1 meters.\\f*",
+          "raw_sha256": "ec948dd2b2986dfe0f3bb430c37451839064548745d5d92816c3237bae278022"
+        },
+        {
+          "source_usfm": "\\f + \\fr 41:3 \\fqa 7 (long) cubits \\ft is approximately 12.25 feet or 3.7 meters.\\f*",
+          "raw_sha256": "26011d9770fa7d0d84c7513a8b74e25c1df390921aae8ce425cdb93a38d75f08"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 41:4 \\ft Or \\fqa the length of the inner sanctuary\\f*",
+          "raw_sha256": "56df14a13080c87e4af3d5a0b49e2d2f06a9b8cd0733d3e7744c8e029171e015"
+        },
+        {
+          "source_usfm": "\\f + \\fr 41:4 \\ft The room was approximately 35 feet long and 35 feet wide (10.7 meters long and 10.7 meters wide).\\f*",
+          "raw_sha256": "797b36bae282140a7a8625a99d79d7ad89bcdb4a72928f88c94395a375658445"
+        },
+        {
+          "source_usfm": "\\f + \\fr 41:4 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "9846f7638a86b7d69b7c8f5762b90956f91462385e8fce4118e7e65a1c694fa9"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 41:5 \\fqa 4 (long) cubits \\ft is approximately 7 feet or 2.1 meters.\\f*",
+          "raw_sha256": "d1200ab248906a83e768ed14d0b6d3ab681f62ff8f1e3e3b2a79dbda8bd565a3"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 41:12 \\fqa 70 (long) cubits \\ft is approximately 122.5 feet or 37.3 meters.\\f*",
+          "raw_sha256": "88c2cac83faa980546218f7abdf4f9a07a2329cbfd0e4671051408e91fe0ba1f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 41:12 \\fqa 90 (long) cubits \\ft is approximately 157.5 feet or 48 meters.\\f*",
+          "raw_sha256": "55c9a09502248ac2329e34bdf35e1bc7db602b4b22acbc18b5e61d059dc471f9"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 41:13 \\fqa 100 (long) cubits \\ft is approximately 175 feet or 53.3 meters; similarly in verses 14 and 15.\\f*",
+          "raw_sha256": "c444365aa41ac246804a61c11db7c08bd824a36c86903647bfa20a784cab3b0a"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 41:22 \\ft Or \\fqa long\\ft ; the altar was approximately 5.25 feet high and 3.5 feet square (1.6 meters high and 1.1 meters square)\\f*",
+          "raw_sha256": "99373ef73e0420fe540648a23b8efa977c7fdea751aaed57bc8c6f3c605ae4a4"
+        }
+      ]
+    },
+    "42": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 42:2 \\ft The building was approximately 175 feet long and 87.5 feet wide (53.3 meters long and 26.7 meters wide).\\f*",
+          "raw_sha256": "7401fbd9fe281abb9d85194cd7876c726e4d2b56a943e011ae1be2ad4bc446a3"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 42:3 \\fqa 20 (long) cubits \\ft is approximately 35 feet or 10.7 meters.\\f*",
+          "raw_sha256": "107cb5326cc613ae6a60bb710131d96de670ce81fc3c8d92a56fcd6afd108b73"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 42:4 \\ft LXX. The walkway was approximately 17.5 feet wide and 175 feet long (5.3 meters wide and 53.3 meters long). Hebrew \\fqa ten cubits wide and a cubit long.\\f*",
+          "raw_sha256": "b92e1763d742afac4a21b53163866f854027c46bd6b4e66fbadd67a94ae1cb5f"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 42:10 \\ft LXX; Hebrew \\fqa east side\\f*",
+          "raw_sha256": "d220d15f42981282247cf860668e281c30dd62d9b8d603f6b9c616f3b01938ef"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 42:16 \\ft See LXX; \\fqa five hundred cubits \\ft from verse 17 LXX and implied in verses 16, 18, 19, and 20 is approximately 875 feet or 266.7 meters in length. Hebrew \\fqa five hundred reeds, with the measuring reed round about\\ft , that is approximately 5,250 feet or 1,600 meters; similarly in verses 17, 18, 19, and 20.\\f*",
+          "raw_sha256": "909bb3e6dd1205aa4af6ee55f81ab18cf89ade9006e8e9093c99e5f84f547825"
+        }
+      ]
+    },
+    "43": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 43:3 \\ft Some Hebrew manuscripts and Vulgate; most Hebrew manuscripts \\fqa when I came\\f*",
+          "raw_sha256": "1ec0ca10885a43610976db107c908d7c623ad2533fc531e6b6642eefd4e461fb"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 43:7 \\ft Or \\fqa the monuments\\ft ; also in verse 9 \\f*",
+          "raw_sha256": "dd1e0469ea668a23117ec1023e8ca505468695c2a1d403593d3c3c55900ba76b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 43:7 \\ft Or \\fqa for their kings on their high places\\f*",
+          "raw_sha256": "07ca0533daa37ab7271d8465d4a505eddffbda54fbd293da69eec753f2274bc4"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 43:11 \\ft Hebrew; LXX and Vulgate \\fqa and they will be ashamed\\f*",
+          "raw_sha256": "0995c6c64e3822a0920b09702f5b673207a08ddedadc2358c15f49629b429dd5"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 43:13 \\ft The \\fqa long cubit\\ft , about 21 inches or 53.3 centimeters, is the basic unit for linear measurement throughout Ezekiel 40–48. \\f*",
+          "raw_sha256": "ff967b51eecdbf56449dec7eb988b4283bcbc52f0ff876c173d002bc144851df"
+        },
+        {
+          "source_usfm": "\\f + \\fr 43:13 \\fqa One span \\ft is approximately 9 inches or 22.9 centimeters.\\f*",
+          "raw_sha256": "61bef981ff8a9df10a1d8ee803af83316b5e33e555e3f3e08e555296cf7db3c8"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 43:14 \\ft The space was to be approximately 3.5 feet (1.1 meters), and the ledge was to be approximately 1.75 feet wide (53.3 centimeters wide).\\f*",
+          "raw_sha256": "e9c6ca3068707cbc50fa3bff644cddc3efe4d0a32d33df5f519d7579bf03f254"
+        },
+        {
+          "source_usfm": "\\f + \\fr 43:14 \\ft The space was to be approximately 7 feet (2.1 meters), and the ledge was to be approximately 1.75 feet wide (53.3 centimeters wide).\\f*",
+          "raw_sha256": "af61aff0bf83039c0746c7aa73e37fca213612c2d66c794e39865f68d254f4d8"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 43:16 \\fqa 12 (long) cubits \\ft is approximately 21 feet or 6.4 meters.\\f*",
+          "raw_sha256": "5452b69a246d44188a40fa17d78165b713a904548cac0a91679e111e446d8700"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 43:17 \\fqa 14 (long) cubits \\ft is approximately 24.5 feet or 7.5 meters.\\f*",
+          "raw_sha256": "ef79acf3230e1ef4da3f3c152f651d3d025eb77f293780bb15ad4f901ca6d634"
+        },
+        {
+          "source_usfm": "\\f + \\fr 43:17 \\fqa A half cubit \\ft is approximately 10.5 inches or 26.7 centimeters.\\f*",
+          "raw_sha256": "aabef0b51b783c25b62d80de5776e9adf93566e2933e706a6ca5ee89652d4b3c"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 43:26 \\ft Hebrew \\fqa fill its hand\\f*",
+          "raw_sha256": "d6e348f5476d0173673e01c76d15083baa8d991974c6ab14e0e58ccd92ea01f5"
+        }
+      ]
+    },
+    "45": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 45:1 \\ft LXX; the holy portion was to be approximately 8.3 miles long and 6.6 miles wide (13.3 kilometers long and 10.7 kilometers wide). Hebrew \\fqa 25,000 cubits long and 10,000 wide\\ft . See also verses 3 and 5 and \\ref Ezekiel 48:9|EZK 48:9\\ref*.\\f*",
+          "raw_sha256": "141ccd4572faff74b6ee324eb7e2d43bfba43a5e427b1244f917baa529939483"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 45:2 \\fqa 500 (long) cubits \\ft is approximately 875 feet or 266.7 meters.\\f*",
+          "raw_sha256": "3cee1125868784de7633b64860c06dbd44d991e906e6a4082e88373a91f12b95"
+        },
+        {
+          "source_usfm": "\\f + \\fr 45:2 \\fqa 50 (long) cubits \\ft is approximately 87.5 feet or 26.7 meters.\\f*",
+          "raw_sha256": "32cc505e2918cde45902a612f232a4dd3a454642756046eb202883180de6b491"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 45:3 \\ft The portion was to be approximately 8.3 miles long and 3.3 miles wide (13.3 kilometers long and 5.3 kilometers wide); similarly in verse 5.\\f*",
+          "raw_sha256": "ca9562d50d1e7c4da10f492509c5a437b18bb24797f98380f3fcbb0d629e77e5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 45:3 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "75af8a73f789a1a444d74a7983f911185d84d4e8e40b86091dac4376b091ca82"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 45:5 \\ft LXX; Hebrew \\fqa their possession, twenty chambers\\f*",
+          "raw_sha256": "fc864d793168e698e51728cfbffaa8507f58061fc6aeea65c710784b467f928b"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 45:6 \\ft The property of the city was to be approximately 1.7 miles wide and 8.3 miles long (2.7 kilometers wide and 13.3 kilometers long).\\f*",
+          "raw_sha256": "aed75ac67eb53d2552ebef599f5f28c74ae0f66be84a121f4d3ee0c5b03bb29e"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 45:10 \\fqa An ephah \\ft is a dry measure of approximately 20 dry quarts or 22 liters.\\f*",
+          "raw_sha256": "43eccdb47cacd56db9109f1f7442a3ca6d12e637f0af2eec2541c7dc23ec4a9f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 45:10 \\fqa A bath \\ft was a liquid measure of approximately 5.8 gallons or 22 liters.\\f*",
+          "raw_sha256": "4f9b88dd66f17c2977103b34d7caec5c25d93c278f48328d73a9591e401f5745"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 45:11 \\fqa A homer \\ft was a dry measure of approximately 6.24 bushels or 220 liters; also in verses 13 and 14.\\f*",
+          "raw_sha256": "00582efd66e3a285540d5e5f09f2b27466148629b0b98bb4e9f7988213c5e843"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 45:12 \\fqa 20 gerahs \\ft is equivalent to one shekel (approximately 0.4 ounces or 11.4 grams).\\f*",
+          "raw_sha256": "2619d2d307fde02ef32e9dcb15484b7c56615698c498ac30b3c7fe374a9f4a84"
+        },
+        {
+          "source_usfm": "\\f + \\fr 45:12 \\ft That is, 60 shekels total; elsewhere, the common mina was 50 shekels. Sixty shekels weighed approximately 1.5 pounds or 683.8 grams.\\f*",
+          "raw_sha256": "40ab4f765058c94d57dd8653a378de688a53118c0679d454f3de7b91afe02d09"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 45:13 \\ft That is, a sixtieth of the harvest of wheat and of barley; \\fqa a sixth of an ephah \\ft was approximately 3.3 dry quarts or 3.7 liters.\\f*",
+          "raw_sha256": "b5f6711749aee8b06105bbe8bae77612bdbc4abda2a79a9d82612baf8ae4936f"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 45:14 \\ft That is, one percent of one’s oil; \\fqa a tenth of a bath \\ft was approximately 2.3 quarts or 2.2 liters.\\f*",
+          "raw_sha256": "0e01a5555d2d418b3336b2a324ed2549caa1b5b50c01448454e37180f529b374"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 45:17 \\ft Or \\fqa purification offerings\\ft ; also in verses 19, 22, 23, and 25\\f*",
+          "raw_sha256": "7ec8fff16c2ca75e9eee13fccdd340e6357241e9064290b2fd947c225e651466"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 45:24 \\ft Literally \\fqa a hin of oil for each ephah\\ft ; that is, approximately 0.97 gallons or 3.67 liters of oil for each ephah of grain\\f*",
+          "raw_sha256": "bc1d4e4bc85717cbf9c523b7357d500532196ef0d27733b9b71c13412527aa57"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 45:25 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as \\fqa the Feast of Booths \\ft or \\fqa the Feast of Shelters \\ft and originally called \\fqa the Feast of Ingathering\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref* and Exodus 34:22).\\f*",
+          "raw_sha256": "c49720b65a1636071e8631c2837409d7e5c1d307f4c42e2de44e0a14016b5b4b"
+        }
+      ]
+    },
+    "46": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 46:5 \\fqa An ephah \\ft is approximately 20 dry quarts or 22 liters (probably about 38.3 pounds or 17.4 kilograms of grain); also in verses 7 and 11.\\f*",
+          "raw_sha256": "9716afce03f09308135e94a19ff08424b99538cf94c0b4a6f71296c755b3eda3"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 46:14 \\fqa A sixth of an ephah \\ft is approximately 3.3 dry quarts or 3.7 liters (probably about 4.2 pounds or 1.9 kilograms of flour).\\f*",
+          "raw_sha256": "780420ec4ee38dc108592d4b6881ed91f13f19d844e4013898baaa0ca22b1959"
+        },
+        {
+          "source_usfm": "\\f + \\fr 46:14 \\ft Or \\fqa a third of a hin of olive oil\\ft ; that is, approximately 1.3 quarts or 1.2 liters\\f*",
+          "raw_sha256": "cc5237620c6050383123fdaadd8a08bfd2ff69c83a2c0e27a7102eab5b204994"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 46:22 \\ft The enclosed courts were approximately 70 feet long and 52.5 feet wide (21.3 meters long and 16 meters wide).\\f*",
+          "raw_sha256": "81d44700d63a977d25688cf1cce604f809b1fcb9f96023497016e61edd74f1b4"
+        }
+      ]
+    },
+    "47": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 47:3 \\fqa 1,000 (long) cubits \\ft is approximately 1,750 feet or 533.4 meters.\\f*",
+          "raw_sha256": "c527b76712854d4e75566afa03c36b1158e72a6c5cda43fc753873da6a8cbcac"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 47:8 \\ft Literally \\fqa the Sea\\f*",
+          "raw_sha256": "37a185405ecee62647e541d39e02bafba8f4f5c00c83ea8d0cce8f65071ed5e9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 47:8 \\ft Hebrew \\fqa is healed\\ft ; similarly in verses 9 and 11\\f*",
+          "raw_sha256": "81c289c0b44373e1e9f94328543e485729c65d9b0f6fdc237d4934d6775efd95"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 47:10 \\ft That is, the Mediterranean Sea; also in verses 15, 19, and 20\\f*",
+          "raw_sha256": "07ec0fe54f85fec5d42dd99e1fd597b54211ab26c88837cff84fd6ef169d5fb3"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 47:13 \\ft Since Levi had no portion, Joseph’s sons Ephraim and Manasseh received land as two tribes.\\f*",
+          "raw_sha256": "b37966bdabf0aee86a70958b7bb24646bf4de24412641658a48b173ec8b376a3"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 47:16 \\ft LXX; MT \\fqa \\fv 15\\fv*...through Lebo to Zedad, \\fv 16\\fv*Hamath, Berothah, and Sibraim\\f*",
+          "raw_sha256": "11f3573968653375d5892c0645ef0bc95720305e6c8d8a15158ba856aa25c594"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 47:18 \\ft See Syriac; that is, \\fqa of Israel, to the Dead Sea and as far as Tamar\\ft ; Hebrew \\fqa of Israel. And along the Eastern Sea you are to measure.\\f*",
+          "raw_sha256": "6f4c21c7d3f0478121207fe625788b6ff32f92aabab91171db5142717f26907f"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 47:19 \\ft Hebrew does not include \\fqa of Egypt\\ft .\\f*",
+          "raw_sha256": "6832c08eb05a9e76b4b57b18f3fbeeed7233c44baf98e34178417a37595b6e4f"
+        }
+      ]
+    },
+    "48": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 48:8 \\fqa 25,000 (long) cubits \\ft is approximately 8.3 miles or 13.3 kilometers; also in verses 9, 10, 13, 15, 20, and 21.\\f*",
+          "raw_sha256": "757ff8f15aae2d822bbd5905514b3ab9b6302b5b5c2eaffe85f768c6f9b7f932"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 48:9 \\fqa 10,000 (long) cubits \\ft is approximately 3.3 miles or 5.3 kilometers; also in verses 10, 13, and 18.\\f*",
+          "raw_sha256": "94b820c8818e7ca33dc7d84fc6398bf3397f756ddbf471a9bb7fefa66bfe4abc"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 48:12 \\ft Or \\fqa a Most Holy Place\\f*",
+          "raw_sha256": "70e8ba76b6d15a0ff950e7493898e5c88094dec94406e909b2a2d39a76a2853a"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 48:15 \\fqa 5,000 (long) cubits \\ft is approximately 1.7 miles or 2.7 kilometers.\\f*",
+          "raw_sha256": "1e70fc7ddcfcb4031231fa89fb2bf08359bf6696450fdd632645226f7d6b8ca6"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 48:16 \\fqa 4,500 (long) cubits \\ft is approximately 1.5 miles or 2.4 kilometers; also in verses 30, 32, 33, and 34.\\f*",
+          "raw_sha256": "f49fd827c5691157a1c5745870b2ad3fddbe6f250307cab505847ae14e81157e"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 48:17 \\fqa 250 (long) cubits \\ft is approximately 437.5 feet or 133.4 meters.\\f*",
+          "raw_sha256": "2da8d6cc9f7be2c73d8bc39e9c0de11a1a334873ef97e2d8f30a3401fe4514db"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 48:28 \\ft Hebrew does not include \\fqa of Egypt\\ft .\\f*",
+          "raw_sha256": "2fc410e6496e2e23cb7300f3108627e5a2a1988bc79ca887ce7ad630f74807c3"
+        },
+        {
+          "source_usfm": "\\f + \\fr 48:28 \\ft That is, the Mediterranean Sea\\f*",
+          "raw_sha256": "fa7915b4a06ec32088b0618c7faea6241109688bc8da255abd55b43bcadedd91"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 48:35 \\fqa 18,000 (long) cubits \\ft is approximately 6 miles or 9.6 kilometers.\\f*",
+          "raw_sha256": "5010541b2e6025218a1dc1d6dbe9e4c934c5f05f7a660914802b40211c0c01a7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 48:35 \\ft Hebrew \\fqa YHWH Shammah\\f*",
+          "raw_sha256": "3fb1891201fce93da8a81027d0684df3292198971d43b2ce5c7c733e126b0785"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

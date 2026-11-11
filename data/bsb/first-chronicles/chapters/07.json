@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "1CH.7.1",
+      "edition_verse_id": "BSB:1CH.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The sons of Issachar: Tola, Puah, Jashub, and Shimron— four in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.2",
+      "edition_verse_id": "BSB:1CH.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, the heads of their families. In the days of David, 22,600 descendants of Tola were numbered in their genealogies as mighty men of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.3",
+      "edition_verse_id": "BSB:1CH.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah. All five of them were chiefs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.4",
+      "edition_verse_id": "BSB:1CH.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In addition to them, according to their genealogy, they had 36,000 troops for battle, for they had many wives and children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.5",
+      "edition_verse_id": "BSB:1CH.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Their kinsmen belonging to all the families of Issachar who were mighty men of valor totaled 87,000, as listed in their genealogies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.6",
+      "edition_verse_id": "BSB:1CH.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The three sons of Benjamin: Bela, Becher, and Jediael.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.7",
+      "edition_verse_id": "BSB:1CH.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, heads of their families— five in all. There were 22,034 mighty men of valor listed in their genealogies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.8",
+      "edition_verse_id": "BSB:1CH.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The sons of Becher: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth; all these were Becher’s sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.9",
+      "edition_verse_id": "BSB:1CH.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Their genealogies were recorded according to the heads of their families— 20,200 mighty men of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.10",
+      "edition_verse_id": "BSB:1CH.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The son of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.11",
+      "edition_verse_id": "BSB:1CH.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "All these sons of Jediael were heads of their families, mighty men of valor; there were 17,200 fit for battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.12",
+      "edition_verse_id": "BSB:1CH.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The Shuppites and Huppites were descendants of Ir, and the Hushites were descendants of Aher.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.13",
+      "edition_verse_id": "BSB:1CH.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum— the descendants of Bilhah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.14",
+      "edition_verse_id": "BSB:1CH.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The descendants of Manasseh: Asriel through his Aramean concubine. She also gave birth to Machir the father of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.15",
+      "edition_verse_id": "BSB:1CH.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Machir took a wife from among the Huppites and Shuppites. The name of his sister was Maacah. Another descendant was named Zelophehad, who had only daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.16",
+      "edition_verse_id": "BSB:1CH.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Machir’s wife Maacah gave birth to a son, and she named him Peresh. His brother was named Sheresh, and his sons were Ulam and Rekem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.17",
+      "edition_verse_id": "BSB:1CH.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The son of Ulam: Bedan. These were the sons of Gilead son of Machir, the son of Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.18",
+      "edition_verse_id": "BSB:1CH.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "His sister Hammolecheth gave birth to Ishhod, Abiezer, and Mahlah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.19",
+      "edition_verse_id": "BSB:1CH.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And these were the sons of Shemida: Ahian, Shechem, Likhi, and Aniam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.20",
+      "edition_verse_id": "BSB:1CH.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The descendants of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.21",
+      "edition_verse_id": "BSB:1CH.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Zabad his son, and Shuthelah his son. Ezer and Elead were killed by the natives of Gath, because they went down to steal their livestock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.22",
+      "edition_verse_id": "BSB:1CH.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Their father Ephraim mourned for many days, and his relatives came to comfort him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.23",
+      "edition_verse_id": "BSB:1CH.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And again he slept with his wife, and she conceived and gave birth to a son. So he named him Beriah, because tragedy had come upon his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.24",
+      "edition_verse_id": "BSB:1CH.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "His daughter was Sheerah, who built Lower and Upper Beth-horon, as well as Uzzen-sheerah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.25",
+      "edition_verse_id": "BSB:1CH.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Additionally, Rephah was his son, Resheph his son, Telah his son, Tahan his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.26",
+      "edition_verse_id": "BSB:1CH.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Ladan his son, Ammihud his son, Elishama his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.27",
+      "edition_verse_id": "BSB:1CH.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Nun his son, and Joshua his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.28",
+      "edition_verse_id": "BSB:1CH.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Their holdings and settlements included Bethel and its villages, Naaran to the east, Gezer and its villages to the west, and Shechem and its villages as far as Ayyah and its villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.29",
+      "edition_verse_id": "BSB:1CH.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And along the borders of Manasseh were Beth-shean, Taanach, Megiddo, and Dor, together with their villages. The descendants of Joseph son of Israel lived in these towns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.30",
+      "edition_verse_id": "BSB:1CH.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The children of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.7.31",
+      "edition_verse_id": "BSB:1CH.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The sons of Beriah: Heber, as well as Malchiel, who was the father of Birzaith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.32",
+      "edition_verse_id": "BSB:1CH.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Heber was the father of Japhlet, Shomer, and Hotham, and of their sister Shua.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.33",
+      "edition_verse_id": "BSB:1CH.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The sons of Japhlet: Pasach, Bimhal, and Ashvath. These were Japhlet’s sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.34",
+      "edition_verse_id": "BSB:1CH.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The sons of Shemer: Ahi, Rohgah, Hubbah, and Aram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.35",
+      "edition_verse_id": "BSB:1CH.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The sons of his brother Helem: Zophah, Imna, Shelesh, and Amal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.36",
+      "edition_verse_id": "BSB:1CH.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.37",
+      "edition_verse_id": "BSB:1CH.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.38",
+      "edition_verse_id": "BSB:1CH.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "The sons of Jether: Jephunneh, Pispa, and Ara.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.39",
+      "edition_verse_id": "BSB:1CH.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "The sons of Ulla: Arah, Hanniel, and Rizia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.7.40",
+      "edition_verse_id": "BSB:1CH.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "All these were the descendants of Asher — heads of their families, choice and mighty men of valor, and chiefs among the leaders. The number of men fit for battle, recorded in their genealogies, was 26,000.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Ezekiel’s Vision by the River Kebar",
+        "\\s1 The Four Living Creatures",
+        "\\s1 The Four Wheels",
+        "\\s1 The Divine Glory"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Ezekiel’s Call"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Ezekiel Eats the Scroll",
+        "\\s1 A Watchman for Israel"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 A Sign of Jerusalem’s Siege",
+        "\\s1 The Defiled Bread"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Razor of Judgment",
+        "\\s1 Famine, Sword, and Dispersion"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Judgment against Idolatry",
+        "\\s1 A Remnant to Be Blessed"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 The Hour of Doom",
+        "\\s1 The Desolation of Israel"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Vision of Idolatry in the Temple"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Execution of the Idolaters"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 God’s Glory Exits the Temple"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Evil in High Places",
+        "\\s1 A Promise of Restoration",
+        "\\s1 God’s Glory Leaves Jerusalem"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Signs of the Coming Captivity",
+        "\\s1 The Presumptuous Proverb"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Reproof of False Prophets",
+        "\\s1 Reproof of False Prophetesses"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Idolatrous Elders Condemned",
+        "\\s1 Four Dire Judgments"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Jerusalem the Useless Vine"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Jerusalem’s Unfaithfulness",
+        "\\s1 Judgment on Jerusalem",
+        "\\s1 The Covenant Remembered"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 The Parable of Two Eagles and a Vine",
+        "\\s1 The Parable Explained"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 The Soul Who Sins Will Die"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 A Lament for the Princes of Israel"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Israel’s Rebellion in Egypt",
+        "\\s1 Israel’s Rebellion in the Wilderness",
+        "\\s1 Israel’s Rebellion in the Land",
+        "\\s1 Judgment and Restoration",
+        "\\s1 A Prophecy against the South"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 God’s Sword of Judgment"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 The Sins of Jerusalem",
+        "\\s1 The Refining Furnace",
+        "\\s1 Israel’s Wicked Leaders"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 The Two Adulterous Sisters",
+        "\\s1 Oholibah to Be Plagued",
+        "\\s1 Judgment on Both Sisters"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 The Parable of the Cooking Pot",
+        "\\s1 Ezekiel’s Wife Dies"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 A Prophecy against Ammon",
+        "\\s1 A Prophecy against Moab",
+        "\\s1 A Prophecy against Edom",
+        "\\s1 A Prophecy against the Philistines"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 A Prophecy against Tyre"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 A Lament for Tyre"
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 A Prophecy against the Ruler of Tyre",
+        "\\s1 A Lament for the King of Tyre",
+        "\\s1 A Prophecy against Sidon",
+        "\\s1 The Restoration of Israel"
+      ]
+    },
+    "29": {
+      "source_headings": [
+        "\\s1 A Prophecy against Pharaoh",
+        "\\s1 The Desolation of Egypt",
+        "\\s1 Egypt the Reward of Nebuchadnezzar"
+      ]
+    },
+    "30": {
+      "source_headings": [
+        "\\s1 A Lament for Egypt",
+        "\\s1 Pharaoh’s Power Broken"
+      ]
+    },
+    "31": {
+      "source_headings": [
+        "\\s1 Egypt Will Fall like Assyria"
+      ]
+    },
+    "32": {
+      "source_headings": [
+        "\\s1 A Lament for Pharaoh King of Egypt",
+        "\\s1 Egypt Cast into the Pit"
+      ]
+    },
+    "33": {
+      "source_headings": [
+        "\\s1 Ezekiel the Watchman for Israel",
+        "\\s1 The Message of the Watchman",
+        "\\s1 Word of Jerusalem’s Fall"
+      ]
+    },
+    "34": {
+      "source_headings": [
+        "\\s1 A Prophecy against Israel’s Shepherds",
+        "\\s1 The Good Shepherd",
+        "\\s1 The Covenant of Peace"
+      ]
+    },
+    "35": {
+      "source_headings": [
+        "\\s1 A Prophecy against Mount Seir"
+      ]
+    },
+    "36": {
+      "source_headings": [
+        "\\s1 A Prophecy to the Mountains of Israel",
+        "\\s1 A New Heart and a New Spirit"
+      ]
+    },
+    "37": {
+      "source_headings": [
+        "\\s1 The Valley of Dry Bones",
+        "\\s1 One Nation with One King"
+      ]
+    },
+    "38": {
+      "source_headings": [
+        "\\s1 A Prophecy against Gog"
+      ]
+    },
+    "39": {
+      "source_headings": [
+        "\\s1 The Slaughter of Gog’s Armies",
+        "\\s1 Israel to Be Restored"
+      ]
+    },
+    "40": {
+      "source_headings": [
+        "\\s1 The Man with a Measuring Rod",
+        "\\s1 The East Gate",
+        "\\s1 The Outer Court",
+        "\\s1 The North Gate",
+        "\\s1 The South Gate",
+        "\\s1 The Gates of the Inner Court",
+        "\\s1 Eight Tables for Sacrifices",
+        "\\s1 Chambers for Ministry",
+        "\\s1 The Inner Court"
+      ]
+    },
+    "41": {
+      "source_headings": [
+        "\\s1 Inside the Temple",
+        "\\s1 Outside the Temple",
+        "\\s1 The Interior Structures"
+      ]
+    },
+    "42": {
+      "source_headings": [
+        "\\s1 Chambers for the Priests",
+        "\\s1 The Outer Measurements"
+      ]
+    },
+    "43": {
+      "source_headings": [
+        "\\s1 The Glory of the LORD Returns to the Temple",
+        "\\s1 The Altar of Sacrifice"
+      ]
+    },
+    "44": {
+      "source_headings": [
+        "\\s1 The East Gate Assigned to the Prince",
+        "\\s1 Reproof of the Levites",
+        "\\s1 The Duties of the Priests"
+      ]
+    },
+    "45": {
+      "source_headings": [
+        "\\s1 Consecration of the Land",
+        "\\s1 The Prince’s Portion",
+        "\\s1 Honest Scales",
+        "\\s1 Offerings and Feasts"
+      ]
+    },
+    "46": {
+      "source_headings": [
+        "\\s1 The Prince’s Offerings",
+        "\\s1 The Courts for Boiling and Baking"
+      ]
+    },
+    "47": {
+      "source_headings": [
+        "\\s1 Waters from under the Temple",
+        "\\s1 The Borders of the Land"
+      ]
+    },
+    "48": {
+      "source_headings": [
+        "\\s1 The Portions for the Tribes",
+        "\\s1 The Portions for the Priests and Levites",
+        "\\s1 The Common Portion",
+        "\\s1 The Portion for the Prince",
+        "\\s1 The Portions for the Remaining Tribes",
+        "\\s1 The City Gates and Dimensions"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

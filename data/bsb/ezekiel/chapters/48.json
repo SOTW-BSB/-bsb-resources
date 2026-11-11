@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 48,
+  "verses": [
+    {
+      "id": "EZK.48.1",
+      "edition_verse_id": "BSB:EZK.48.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Now these are the names of the tribes: At the northern frontier, Dan will have one portion bordering the road of Hethlon to Lebo-hamath and running on to Hazar-enan on the border of Damascus with Hamath to the north, and extending from the east side to the west side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.2",
+      "edition_verse_id": "BSB:EZK.48.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Asher will have one portion bordering the territory of Dan from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.3",
+      "edition_verse_id": "BSB:EZK.48.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Naphtali will have one portion bordering the territory of Asher from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.4",
+      "edition_verse_id": "BSB:EZK.48.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Manasseh will have one portion bordering the territory of Naphtali from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.5",
+      "edition_verse_id": "BSB:EZK.48.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ephraim will have one portion bordering the territory of Manasseh from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.6",
+      "edition_verse_id": "BSB:EZK.48.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Reuben will have one portion bordering the territory of Ephraim from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.7",
+      "edition_verse_id": "BSB:EZK.48.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Judah will have one portion bordering the territory of Reuben from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.8",
+      "edition_verse_id": "BSB:EZK.48.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Bordering the territory of Judah, from east to west, will be the portion you are to set apart. It will be 25,000 cubits wide, and the length of a tribal portion from east to west. In the center will be the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.9",
+      "edition_verse_id": "BSB:EZK.48.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The special portion you set apart to the LORD shall be 25,000 cubits long and 10,000 cubits wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.10",
+      "edition_verse_id": "BSB:EZK.48.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "This will be the holy portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side, and 25,000 cubits long on the south side. In the center will be the sanctuary of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.11",
+      "edition_verse_id": "BSB:EZK.48.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "It will be for the consecrated priests, the descendants of Zadok, who kept My charge and did not go astray as the Levites did when the Israelites went astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.12",
+      "edition_verse_id": "BSB:EZK.48.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "It will be a special portion for them set apart from the land, a most holy portion adjacent to the territory of the Levites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.13",
+      "edition_verse_id": "BSB:EZK.48.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Bordering the territory of the priests, the Levites shall have an area 25,000 cubits long and 10,000 cubits wide. The whole length will be 25,000 cubits, and the width 10,000 cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.14",
+      "edition_verse_id": "BSB:EZK.48.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They must not sell or exchange any of it, and they must not transfer this best part of the land, for it is holy to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.15",
+      "edition_verse_id": "BSB:EZK.48.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for common use by the city, for houses, and for pastureland. The city will be in the center of it",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.16",
+      "edition_verse_id": "BSB:EZK.48.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and will have these measurements: 4,500 cubits on the north side, 4,500 cubits on the south side, 4,500 cubits on the east side, and 4,500 cubits on the west side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.17",
+      "edition_verse_id": "BSB:EZK.48.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The pastureland of the city will extend 250 cubits to the north, 250 cubits to the south, 250 cubits to the east, and 250 cubits to the west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.18",
+      "edition_verse_id": "BSB:EZK.48.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The remainder of the length bordering the holy portion and running adjacent to it will be 10,000 cubits on the east side and 10,000 cubits on the west side. Its produce will supply food for the workers of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.19",
+      "edition_verse_id": "BSB:EZK.48.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The workers of the city who cultivate it will come from all the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.20",
+      "edition_verse_id": "BSB:EZK.48.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The entire portion will be a square, 25,000 cubits by 25,000 cubits. You are to set apart the holy portion, along with the city property.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.21",
+      "edition_verse_id": "BSB:EZK.48.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The remaining area on both sides of the holy portion and of the property of the city will belong to the prince. He will own the land adjacent to the tribal portions, extending eastward from the 25,000 cubits of the holy district toward the eastern border, and westward from the 25,000 cubits to the western border. And in the center of them will be the holy portion and the sanctuary of the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.22",
+      "edition_verse_id": "BSB:EZK.48.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So the Levitical property and the city property will lie in the center of the area belonging to the prince— the area between the borders of Judah and Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.23",
+      "edition_verse_id": "BSB:EZK.48.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "As for the rest of the tribes: Benjamin will have one portion extending from the east side to the west side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.24",
+      "edition_verse_id": "BSB:EZK.48.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Simeon will have one portion bordering the territory of Benjamin from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.25",
+      "edition_verse_id": "BSB:EZK.48.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Issachar will have one portion bordering the territory of Simeon from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.26",
+      "edition_verse_id": "BSB:EZK.48.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Zebulun will have one portion bordering the territory of Issachar from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.27",
+      "edition_verse_id": "BSB:EZK.48.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And Gad will have one portion bordering the territory of Zebulun from east to west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.28",
+      "edition_verse_id": "BSB:EZK.48.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The southern border of Gad will run from Tamar to the waters of Meribath-kadesh, then along the Brook of Egypt and out to the Great Sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.29",
+      "edition_verse_id": "BSB:EZK.48.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions,” declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.30",
+      "edition_verse_id": "BSB:EZK.48.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "“These will be the exits of the city: Beginning on the north side, which will be 4,500 cubits long,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.48.31",
+      "edition_verse_id": "BSB:EZK.48.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "the gates of the city will be named after the tribes of Israel. On the north side there will be three gates: the gate of Reuben, the gate of Judah, and the gate of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.32",
+      "edition_verse_id": "BSB:EZK.48.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "On the east side, which will be 4,500 cubits long, there will be three gates: the gate of Joseph, the gate of Benjamin, and the gate of Dan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.33",
+      "edition_verse_id": "BSB:EZK.48.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "On the south side, which will be 4,500 cubits long, there will be three gates: the gate of Simeon, the gate of Issachar, and the gate of Zebulun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.34",
+      "edition_verse_id": "BSB:EZK.48.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And on the west side, which will be 4,500 cubits long, there will be three gates: the gate of Gad, the gate of Asher, and the gate of Naphtali.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.48.35",
+      "edition_verse_id": "BSB:EZK.48.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The perimeter of the city will be 18,000 cubits, and from that day on the name of the city will be: THE LORD IS THERE.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

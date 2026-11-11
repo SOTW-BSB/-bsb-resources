@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 34,
+  "verses": [
+    {
+      "id": "EXO.34.1",
+      "edition_verse_id": "BSB:EXO.34.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses, “Chisel out two stone tablets like the originals, and I will write on them the words that were on the first tablets, which you broke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.2",
+      "edition_verse_id": "BSB:EXO.34.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Be ready in the morning, and come up on Mount Sinai to present yourself before Me on the mountaintop.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.3",
+      "edition_verse_id": "BSB:EXO.34.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "No one may go up with you; in fact, no one may be seen anywhere on the mountain — not even the flocks or herds may graze in front of the mountain.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.4",
+      "edition_verse_id": "BSB:EXO.34.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So Moses chiseled out two stone tablets like the originals. He rose early in the morning, and taking the two stone tablets in his hands, he went up Mount Sinai as the LORD had commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.5",
+      "edition_verse_id": "BSB:EXO.34.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the LORD descended in a cloud, stood with him there, and proclaimed His name, the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.6",
+      "edition_verse_id": "BSB:EXO.34.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the LORD passed in front of Moses and called out: “The LORD, the LORD God, is compassionate and gracious, slow to anger, abounding in loving devotion and faithfulness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.7",
+      "edition_verse_id": "BSB:EXO.34.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "maintaining loving devotion to a thousand generations, forgiving iniquity, transgression, and sin. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers on their children and grandchildren to the third and fourth generations.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.8",
+      "edition_verse_id": "BSB:EXO.34.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Moses immediately bowed down to the ground and worshiped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.9",
+      "edition_verse_id": "BSB:EXO.34.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“O Lord,” he said, “if I have indeed found favor in Your sight, my Lord, please go with us. Although this is a stiff-necked people, forgive our iniquity and sin, and take us as Your inheritance.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.10",
+      "edition_verse_id": "BSB:EXO.34.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the LORD said, “Behold, I am making a covenant. Before all your people I will perform wonders that have never been done in any nation in all the world. All the people among whom you live will see the LORD’s work, for it is an awesome thing that I am doing with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.11",
+      "edition_verse_id": "BSB:EXO.34.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Observe what I command you this day. I will drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites, and Jebusites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.12",
+      "edition_verse_id": "BSB:EXO.34.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Be careful not to make a treaty with the inhabitants of the land you are entering, lest they become a snare in your midst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.13",
+      "edition_verse_id": "BSB:EXO.34.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Rather, you must tear down their altars, smash their sacred stones, and chop down their Asherah poles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.14",
+      "edition_verse_id": "BSB:EXO.34.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For you must not worship any other god, for the LORD, whose name is Jealous, is a jealous God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.15",
+      "edition_verse_id": "BSB:EXO.34.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Do not make a covenant with the inhabitants of the land, for when they prostitute themselves to their gods and sacrifice to them, they will invite you, and you will eat their sacrifices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.16",
+      "edition_verse_id": "BSB:EXO.34.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And when you take some of their daughters as brides for your sons, their daughters will prostitute themselves to their gods and cause your sons to do the same.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.17",
+      "edition_verse_id": "BSB:EXO.34.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "You shall make no molten gods for yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.18",
+      "edition_verse_id": "BSB:EXO.34.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "You are to keep the Feast of Unleavened Bread. For seven days at the appointed time in the month of Abib, you are to eat unleavened bread as I commanded you. For in the month of Abib you came out of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.19",
+      "edition_verse_id": "BSB:EXO.34.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The first offspring of every womb belongs to Me, including all the firstborn males among your livestock, whether cattle or sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.20",
+      "edition_verse_id": "BSB:EXO.34.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You must redeem the firstborn of a donkey with a lamb; but if you do not redeem it, you are to break its neck. You must redeem all the firstborn of your sons. No one shall appear before Me empty-handed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.21",
+      "edition_verse_id": "BSB:EXO.34.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Six days you shall labor, but on the seventh day you shall rest; even in the seasons of plowing and harvesting, you must rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.22",
+      "edition_verse_id": "BSB:EXO.34.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And you are to celebrate the Feast of Weeks with the firstfruits of the wheat harvest, and the Feast of Ingathering at the turn of the year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.23",
+      "edition_verse_id": "BSB:EXO.34.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Three times a year all your males are to appear before the Lord GOD, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.24",
+      "edition_verse_id": "BSB:EXO.34.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For I will drive out the nations before you and enlarge your borders, and no one will covet your land when you go up three times a year to appear before the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.25",
+      "edition_verse_id": "BSB:EXO.34.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Do not offer the blood of a sacrifice to Me along with anything leavened, and do not let any of the sacrifice from the Passover Feast remain until morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.26",
+      "edition_verse_id": "BSB:EXO.34.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Bring the best of the firstfruits of your soil to the house of the LORD your God. You must not cook a young goat in its mother’s milk.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.27",
+      "edition_verse_id": "BSB:EXO.34.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The LORD also said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.28",
+      "edition_verse_id": "BSB:EXO.34.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So Moses was there with the LORD forty days and forty nights without eating bread or drinking water. He wrote on the tablets the words of the covenant — the Ten Commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.29",
+      "edition_verse_id": "BSB:EXO.34.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And when Moses came down from Mount Sinai with the two tablets of the Testimony in his hands, he was unaware that his face had become radiant from speaking with the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.30",
+      "edition_verse_id": "BSB:EXO.34.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Aaron and all the Israelites looked at Moses, and behold, his face was radiant. And they were afraid to approach him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.31",
+      "edition_verse_id": "BSB:EXO.34.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But Moses called out to them; so Aaron and all the leaders of the congregation returned to him, and Moses spoke to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.32",
+      "edition_verse_id": "BSB:EXO.34.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And after this all the Israelites came near, and Moses commanded them to do everything that the LORD had told him on Mount Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.33",
+      "edition_verse_id": "BSB:EXO.34.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When Moses had finished speaking with them, he put a veil over his face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.34.34",
+      "edition_verse_id": "BSB:EXO.34.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But whenever Moses went in before the LORD to speak with Him, he would remove the veil until he came out. And when he came out, he would tell the Israelites what he had been commanded,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.34.35",
+      "edition_verse_id": "BSB:EXO.34.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "and the Israelites would see that the face of Moses was radiant. So Moses would put the veil back over his face until he went in to speak with the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

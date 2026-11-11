@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "EZK.5.1",
+      "edition_verse_id": "BSB:EZK.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“As for you, son of man, take a sharp sword, use it as a barber’s razor, and shave your head and beard. Then take a set of scales and divide the hair.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.2",
+      "edition_verse_id": "BSB:EZK.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When the days of the siege have ended, you are to burn up a third of the hair inside the city; you are also to take a third and slash it with the sword all around the city; and you are to scatter a third to the wind. For I will unleash a sword behind them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.5.3",
+      "edition_verse_id": "BSB:EZK.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But you are to take a few strands of hair and secure them in the folds of your garment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.4",
+      "edition_verse_id": "BSB:EZK.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Again, take a few of these, throw them into the fire, and burn them. From there a fire will spread to the whole house of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.5.5",
+      "edition_verse_id": "BSB:EZK.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD says: ‘This is Jerusalem, which I have set in the center of the nations, with countries all around her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.6",
+      "edition_verse_id": "BSB:EZK.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But she has rebelled against My ordinances more wickedly than the nations, and against My statutes worse than the countries around her. For her people have rejected My ordinances and have not walked in My statutes.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.5.7",
+      "edition_verse_id": "BSB:EZK.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: ‘You have been more insubordinate than the nations around you; you have not walked in My statutes or kept My ordinances, nor have you even conformed to the ordinances of the nations around you.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.8",
+      "edition_verse_id": "BSB:EZK.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: ‘Behold, I Myself am against you, Jerusalem, and I will execute judgments among you in the sight of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.9",
+      "edition_verse_id": "BSB:EZK.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Because of all your abominations, I will do to you what I have never done before and will never do again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.5.10",
+      "edition_verse_id": "BSB:EZK.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As a result, fathers among you will eat their sons, and sons will eat their fathers. I will execute judgments against you and scatter all your remnant to every wind.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.5.11",
+      "edition_verse_id": "BSB:EZK.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore as surely as I live, declares the Lord GOD, because you have defiled My sanctuary with all your detestable idols and abominations, I Myself will withdraw My favor; I will not look upon you with pity, nor will I spare you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.12",
+      "edition_verse_id": "BSB:EZK.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "A third of your people will die by plague or be consumed by famine within you, a third will fall by the sword outside your walls, and a third I will scatter to every wind and unleash a sword behind them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.13",
+      "edition_verse_id": "BSB:EZK.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when My anger is spent and I have vented My wrath against them, I will be appeased. And when I have spent My wrath on them, they will know that I, the LORD, in My zeal have spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.14",
+      "edition_verse_id": "BSB:EZK.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I will make you a ruin and a disgrace among the nations around you, in the sight of all who pass by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.15",
+      "edition_verse_id": "BSB:EZK.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So you will be a reproach and a taunt, a warning and a horror to the nations around you, when I execute judgments against you in anger, wrath, and raging fury. I, the LORD, have spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.5.16",
+      "edition_verse_id": "BSB:EZK.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When I shower you with the deadly arrows of famine and destruction that I will send to destroy you, I will intensify the famine against you and cut off your supply of food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.5.17",
+      "edition_verse_id": "BSB:EZK.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will send famine and wild beasts against you, and they will leave you childless. Plague and bloodshed will sweep through you, and I will bring a sword against you. I, the LORD, have spoken.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

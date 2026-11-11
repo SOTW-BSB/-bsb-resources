@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "EZK.32.1",
+      "edition_verse_id": "BSB:EZK.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the twelfth year, on the first day of the twelfth month, the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.32.2",
+      "edition_verse_id": "BSB:EZK.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Son of man, take up a lament for Pharaoh king of Egypt and say to him: ‘You are like a lion among the nations; you are like a monster in the seas. You thrash about in your rivers, churning up the waters with your feet and muddying the streams.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.3",
+      "edition_verse_id": "BSB:EZK.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD says: ‘I will spread My net over you with a company of many peoples, and they will draw you up in My net.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.4",
+      "edition_verse_id": "BSB:EZK.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will abandon you on the land and hurl you into the open field. I will cause all the birds of the air to settle upon you, and all the beasts of the earth to eat their fill of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.5",
+      "edition_verse_id": "BSB:EZK.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I will put your flesh on the mountains and fill the valleys with your remains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.6",
+      "edition_verse_id": "BSB:EZK.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will drench the land with the flow of your blood, all the way to the mountains — the ravines will be filled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.7",
+      "edition_verse_id": "BSB:EZK.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When I extinguish you, I will cover the heavens and darken their stars. I will cover the sun with a cloud, and the moon will not give its light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.8",
+      "edition_verse_id": "BSB:EZK.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All the shining lights in the heavens I will darken over you, and I will bring darkness upon your land,’ declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.9",
+      "edition_verse_id": "BSB:EZK.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "‘I will trouble the hearts of many peoples, when I bring about your destruction among the nations, in countries you do not know.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.10",
+      "edition_verse_id": "BSB:EZK.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I will cause many peoples to be appalled over you, and their kings will shudder in horror because of you when I brandish My sword before them. On the day of your downfall each of them will tremble every moment for his life.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.11",
+      "edition_verse_id": "BSB:EZK.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For this is what the Lord GOD says: ‘The sword of the king of Babylon will come against you!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.12",
+      "edition_verse_id": "BSB:EZK.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will make your hordes fall by the swords of the mighty, the most ruthless of all nations. They will ravage the pride of Egypt and all her multitudes will be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.13",
+      "edition_verse_id": "BSB:EZK.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I will slaughter all her cattle beside the abundant waters. No human foot will muddy them again, and no cattle hooves will disturb them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.14",
+      "edition_verse_id": "BSB:EZK.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then I will let her waters settle and will make her rivers flow like oil,’ declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.15",
+      "edition_verse_id": "BSB:EZK.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "‘When I make the land of Egypt a desolation and empty it of all that filled it, when I strike down all who live there, then they will know that I am the LORD.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.16",
+      "edition_verse_id": "BSB:EZK.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "This is the lament they will chant for her; the daughters of the nations will chant it. Over Egypt and all her multitudes they will chant it, declares the Lord GOD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.32.17",
+      "edition_verse_id": "BSB:EZK.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "In the twelfth year, on the fifteenth day of the month, the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.32.18",
+      "edition_verse_id": "BSB:EZK.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Son of man, wail for the multitudes of Egypt, and consign her and the daughters of the mighty nations to the depths of the earth with those who descend to the Pit:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.19",
+      "edition_verse_id": "BSB:EZK.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Whom do you surpass in beauty? Go down and be placed with the uncircumcised!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.20",
+      "edition_verse_id": "BSB:EZK.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "They will fall among those slain by the sword. The sword is appointed! Let them drag her away along with all her multitudes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.21",
+      "edition_verse_id": "BSB:EZK.32.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Mighty chiefs will speak from the midst of Sheol about Egypt and her allies: ‘They have come down and lie with the uncircumcised, with those slain by the sword.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.22",
+      "edition_verse_id": "BSB:EZK.32.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Assyria is there with her whole company; her graves are all around her. All of them are slain, fallen by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.23",
+      "edition_verse_id": "BSB:EZK.32.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Her graves are set in the depths of the Pit, and her company is all around her grave. All of them are slain, fallen by the sword— those who once spread terror in the land of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.24",
+      "edition_verse_id": "BSB:EZK.32.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Elam is there with all her multitudes around her grave. All of them are slain, fallen by the sword— those who went down uncircumcised to the earth below, who once spread their terror in the land of the living. They bear their disgrace with those who descend to the Pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.25",
+      "edition_verse_id": "BSB:EZK.32.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Among the slain they prepare a resting place for Elam with all her hordes, with her graves all around her. All of them are uncircumcised, slain by the sword, although their terror was once spread in the land of the living. They bear their disgrace with those who descend to the Pit. They are placed among the slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.26",
+      "edition_verse_id": "BSB:EZK.32.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Meshech and Tubal are there with all their multitudes, with their graves all around them. All of them are uncircumcised, slain by the sword, because they spread their terror in the land of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.27",
+      "edition_verse_id": "BSB:EZK.32.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They do not lie down with the fallen warriors of old, who went down to Sheol with their weapons of war, whose swords were placed under their heads, whose shields rested on their bones, although the terror of the mighty was once in the land of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.28",
+      "edition_verse_id": "BSB:EZK.32.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But you too will be shattered and lie down among the uncircumcised, with those slain by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.29",
+      "edition_verse_id": "BSB:EZK.32.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Edom is there, and all her kings and princes, who despite their might are laid among those slain by the sword. They lie down with the uncircumcised, with those who descend to the Pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.30",
+      "edition_verse_id": "BSB:EZK.32.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "All the leaders of the north and all the Sidonians are there; they went down in disgrace with the slain, despite the terror of their might. They lie uncircumcised with those slain by the sword and bear their shame with those who descend to the Pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.31",
+      "edition_verse_id": "BSB:EZK.32.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Pharaoh will see them and be comforted over all his multitude— Pharaoh and all his army, slain by the sword, declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.32.32",
+      "edition_verse_id": "BSB:EZK.32.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "For I will spread My terror in the land of the living, so that Pharaoh and all his multitude will be laid to rest among the uncircumcised, with those slain by the sword, declares the Lord GOD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

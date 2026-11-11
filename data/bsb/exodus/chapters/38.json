@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapter": 38,
+  "verses": [
+    {
+      "id": "EXO.38.1",
+      "edition_verse_id": "BSB:EXO.38.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Bezalel constructed the altar of burnt offering from acacia wood. It was square, five cubits long, five cubits wide, and three cubits high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.2",
+      "edition_verse_id": "BSB:EXO.38.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He made a horn at each of its four corners, so that the horns and altar were of one piece, and he overlaid the altar with bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.3",
+      "edition_verse_id": "BSB:EXO.38.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He made all the altar’s utensils of bronze — its pots, shovels, sprinkling bowls, meat forks, and firepans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.4",
+      "edition_verse_id": "BSB:EXO.38.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He made a grate of bronze mesh for the altar under its ledge, halfway up from the bottom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.5",
+      "edition_verse_id": "BSB:EXO.38.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "At the four corners of the bronze grate he cast four rings as holders for the poles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.6",
+      "edition_verse_id": "BSB:EXO.38.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he made the poles of acacia wood and overlaid them with bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.7",
+      "edition_verse_id": "BSB:EXO.38.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then he inserted the poles into the rings on the sides of the altar for carrying it. He made the altar with boards so that it was hollow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.8",
+      "edition_verse_id": "BSB:EXO.38.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Next he made the bronze basin and its stand from the mirrors of the women who served at the entrance to the Tent of Meeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.9",
+      "edition_verse_id": "BSB:EXO.38.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then he constructed the courtyard. The south side of the courtyard was a hundred cubits long and had curtains of finely spun linen,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.10",
+      "edition_verse_id": "BSB:EXO.38.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.11",
+      "edition_verse_id": "BSB:EXO.38.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The north side was also a hundred cubits long, with twenty posts and twenty bronze bases. The hooks and bands of the posts were silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.12",
+      "edition_verse_id": "BSB:EXO.38.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The west side was fifty cubits long and had curtains, with ten posts and ten bases. The hooks and bands of the posts were silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.13",
+      "edition_verse_id": "BSB:EXO.38.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the east side, toward the sunrise, was also fifty cubits long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.14",
+      "edition_verse_id": "BSB:EXO.38.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The curtains on one side of the entrance were fifteen cubits long, with three posts and three bases.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.15",
+      "edition_verse_id": "BSB:EXO.38.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the curtains on the other side were also fifteen cubits long, with three posts and three bases as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.16",
+      "edition_verse_id": "BSB:EXO.38.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "All the curtains around the courtyard were made of finely spun linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.17",
+      "edition_verse_id": "BSB:EXO.38.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The bases for the posts were bronze, the hooks and bands were silver, and the plating for the tops of the posts was silver. So all the posts of the courtyard were banded with silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.18",
+      "edition_verse_id": "BSB:EXO.38.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The curtain for the entrance to the courtyard was embroidered with blue, purple, and scarlet yarn, and finely spun linen. It was twenty cubits long and, like the curtains of the courtyard, five cubits high,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.19",
+      "edition_verse_id": "BSB:EXO.38.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "with four posts and four bronze bases. Their hooks were silver, as well as the bands and the plating of their tops.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.20",
+      "edition_verse_id": "BSB:EXO.38.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "All the tent pegs for the tabernacle and for the surrounding courtyard were bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.21",
+      "edition_verse_id": "BSB:EXO.38.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "This is the inventory for the tabernacle, the tabernacle of the Testimony, as recorded at Moses’ command by the Levites under the direction of Ithamar son of Aaron the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.22",
+      "edition_verse_id": "BSB:EXO.38.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything that the LORD had commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.23",
+      "edition_verse_id": "BSB:EXO.38.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "With him was Oholiab son of Ahisamach, of the tribe of Dan, an engraver, designer, and embroiderer in blue, purple, and scarlet yarn and fine linen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.24",
+      "edition_verse_id": "BSB:EXO.38.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "All the gold from the wave offering used for the work on the sanctuary totaled 29 talents and 730 shekels, according to the sanctuary shekel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.25",
+      "edition_verse_id": "BSB:EXO.38.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The silver from those numbered among the congregation totaled 100 talents and 1,775 shekels, according to the sanctuary shekel—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.26",
+      "edition_verse_id": "BSB:EXO.38.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "a beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone twenty years of age or older who had crossed over to be numbered, a total of 603,550 men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.27",
+      "edition_verse_id": "BSB:EXO.38.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil— 100 bases from the 100 talents, one talent per base.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.28",
+      "edition_verse_id": "BSB:EXO.38.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "With the 1,775 shekels [of silver] he made the hooks for the posts, overlaid their tops, and supplied bands for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.29",
+      "edition_verse_id": "BSB:EXO.38.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The bronze from the wave offering totaled 70 talents and 2,400 shekels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.38.30",
+      "edition_verse_id": "BSB:EXO.38.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "He used it to make the bases for the entrance to the Tent of Meeting, the bronze altar and its bronze grating, all the utensils for the altar,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.38.31",
+      "edition_verse_id": "BSB:EXO.38.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "the bases for the surrounding courtyard and its gate, and all the tent pegs for the tabernacle and its surrounding courtyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "1CH.13.1",
+      "edition_verse_id": "BSB:1CH.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then David conferred with all his leaders, the commanders of thousands and of hundreds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.2",
+      "edition_verse_id": "BSB:1CH.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he said to the whole assembly of Israel, “If it seems good to you, and if this is of the LORD our God, let us send word far and wide to the rest of our brothers in all the land of Israel, and also to the priests and Levites in their cities and pasturelands, so that they may join us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.3",
+      "edition_verse_id": "BSB:1CH.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then let us bring back the ark of our God, for we did not inquire of Him in the days of Saul.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.4",
+      "edition_verse_id": "BSB:1CH.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And because this proposal seemed right to all the people, the whole assembly agreed to it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.5",
+      "edition_verse_id": "BSB:1CH.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So David assembled all Israel, from the River Shihor in Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.6",
+      "edition_verse_id": "BSB:1CH.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "David and all Israel went up to Baalah of Judah (that is, Kiriath-jearim) to bring up from there the ark of God the LORD, who is enthroned between the cherubim — the ark that is called by the Name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.7",
+      "edition_verse_id": "BSB:1CH.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So they carried the ark of God from the house of Abinadab on a new cart, with Uzzah and Ahio guiding the cart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.8",
+      "edition_verse_id": "BSB:1CH.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "David and all the Israelites were celebrating before God with all their might, with songs and on harps and lyres, with tambourines, cymbals, and trumpets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.9",
+      "edition_verse_id": "BSB:1CH.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When they came to the threshing floor of Chidon, Uzzah reached out and took hold of the ark, because the oxen had stumbled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.10",
+      "edition_verse_id": "BSB:1CH.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the anger of the LORD burned against Uzzah, and He struck him down because he had put his hand on the ark. So he died there before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.11",
+      "edition_verse_id": "BSB:1CH.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah, as it is called to this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.12",
+      "edition_verse_id": "BSB:1CH.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "That day David feared God and asked, “How can I ever bring the ark of God to me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.13.13",
+      "edition_verse_id": "BSB:1CH.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So he did not move the ark with him to the City of David; instead, he took it aside to the house of Obed-edom the Gittite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.13.14",
+      "edition_verse_id": "BSB:1CH.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thus the ark of God remained with the family of Obed-edom in his house for three months, and the LORD blessed his household and everything he owned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

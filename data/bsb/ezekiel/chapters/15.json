@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "EZK.15.1",
+      "edition_verse_id": "BSB:EZK.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.15.2",
+      "edition_verse_id": "BSB:EZK.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Son of man, how does the wood of the vine surpass any other branch among the trees in the forest?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.3",
+      "edition_verse_id": "BSB:EZK.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Can wood be taken from it to make something useful? Or can one make from it a peg on which to hang utensils?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.4",
+      "edition_verse_id": "BSB:EZK.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "No, it is cast into the fire for fuel. The fire devours both ends, and the middle is charred. Can it be useful for anything?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.15.5",
+      "edition_verse_id": "BSB:EZK.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Even when it was whole, it could not be made useful. How much less can it ever be useful when the fire has consumed it and charred it!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.6",
+      "edition_verse_id": "BSB:EZK.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: ‘Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so I will give up the people of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.15.7",
+      "edition_verse_id": "BSB:EZK.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And I will set My face against them. Though they may have escaped the fire, yet another fire will consume them. And when I set My face against them, you will know that I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.15.8",
+      "edition_verse_id": "BSB:EZK.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Thus I will make the land desolate, because they have acted unfaithfully,’ declares the Lord GOD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

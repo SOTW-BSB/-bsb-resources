@@ -1,0 +1,431 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EZR",
+  "chapters": {
+    "1": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft That is, the leader of the exiles returning to Judah\\f*",
+          "raw_sha256": "0ac89b32f5f4f95a7a64c43aeaeecfe6799d591f4be53e0fa91693d24983e49e"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft Or \\fqa basins\\ft ; twice in this verse\\f*",
+          "raw_sha256": "0d30ee6ac40685d263274ca488caa7969f056faa6024698b3f3abefe3c5708af"
+        }
+      ]
+    },
+    "2": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 2:2 \\ft Parallel text at \\ref Nehemiah 7:7|NEH 7:7\\ref* \\fqa accompanied by Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah\\f*",
+          "raw_sha256": "6990e9bc89e0b837c5fdfdc0aafbf0e9d06e777e921966546ed95623e0a8c583"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\fqa Bani \\ft is a variant of \\fqa Binnui\\ft ; see \\ref Nehemiah 7:15|NEH 7:15\\ref*.\\f*",
+          "raw_sha256": "cae4d6d46d15cc58d6ca22be673505c77f8610f6f5b949d5d57bab7b7836e106"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 2:18 \\fqa Jorah \\ft is a variant of \\fqa Hariph\\ft ; see \\ref Nehemiah 7:24|NEH 7:24\\ref*.\\f*",
+          "raw_sha256": "db33885da777b8d980a994a9ddfd853e3e602d3c928de8985b5826a3eadc2ff9"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 2:20 \\fqa Gibbar \\ft is a variant of \\fqa Gibeon\\ft ; see \\ref Nehemiah 7:25|NEH 7:25\\ref*.\\f*",
+          "raw_sha256": "dbe1947a88f8edba368398325b9d2b30e3cde18ede98aa554367a76291b55d28"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 2:21 \\ft Literally \\fqa the sons\\ft ; here and in verses 25, 26, 33, and 34\\f*",
+          "raw_sha256": "46750d4de787790a07cd0aca15a683ccf89a72b02d6c394f8df504cff2ad814c"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 2:24 \\fqa Azmaveth \\ft is a variant of \\fqa Beth-azmaveth\\ft ; see \\ref Nehemiah 7:28|NEH 7:28\\ref*.\\f*",
+          "raw_sha256": "8be5948197c5f3935f6a0f041a175771382a880cb424a8126ae0f6295698a377"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 2:25 \\ft LXX (see also \\ref Nehemiah 7:29|NEH 7:29\\ref*); Hebrew \\fqa Kiriath-arim\\f*",
+          "raw_sha256": "bb329c0332376c02e3798cab97110bfef8b8daa923e97e84804d23648937c444"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 2:31 \\ft Or \\fqa of West Elam\\f*",
+          "raw_sha256": "073311f467ce75dc7601ecad5504986f47b01f1728853396a4b54ab3c5a17d0c"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 2:40 \\fqa Hodaviah \\ft is a variant of \\fqa Hodevah\\ft ; see \\ref Nehemiah 7:43|NEH 7:43\\ref*.\\f*",
+          "raw_sha256": "f5b7a1d7479035aa7bc927a3ccff9384edc8a924ef30f9ef8d26fe6e6201cbd0"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 2:43 \\ft Hebrew \\fqa The Nethinim\\ft ; also in verses 58 and 70\\f*",
+          "raw_sha256": "512ac90bbac965c135f4e24b9e73d21f5109c7f3f775e8a93aa7410bef6b589f"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 2:44 \\fqa Siaha \\ft is a variant of \\fqa Sia\\ft ; see \\ref Nehemiah 7:47|NEH 7:47\\ref*.\\f*",
+          "raw_sha256": "20e4fb6ffa1704de0834bb11116d97ad90c1fa13fb268e330655f24bf250a5dc"
+        }
+      ],
+      "46": [
+        {
+          "source_usfm": "\\f + \\fr 2:46 \\ft Alternate MT reading (see also \\ref Nehemiah 7:48|NEH 7:48\\ref*); the other alternate reads \\fqa Shamlai\\f*",
+          "raw_sha256": "64bd5261d84045fe5ef49d8ac5724ec191df6d807be250bc10ae60939ded0eb1"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 2:50 \\fqa Nephusim \\ft is a variant of \\fqa Nephushesim\\ft ; see \\ref Nehemiah 7:52|NEH 7:52\\ref*.\\f*",
+          "raw_sha256": "9be17a7edfbe756ba2b7dcfdf8a4e002808462b53c40d3b0328e516288e939a9"
+        }
+      ],
+      "52": [
+        {
+          "source_usfm": "\\f + \\fr 2:52 \\fqa Bazluth \\ft is a variant of \\fqa Bazlith\\ft ; see \\ref Nehemiah 7:54|NEH 7:54\\ref*.\\f*",
+          "raw_sha256": "20b3ef50410b18e39079dc478596c129e27f4d3c5fd91c9c298de1517bc127a0"
+        }
+      ],
+      "55": [
+        {
+          "source_usfm": "\\f + \\fr 2:55 \\fqa Peruda \\ft is a variant of \\fqa Perida\\ft ; see \\ref Nehemiah 7:57|NEH 7:57\\ref*.\\f*",
+          "raw_sha256": "5f9c6d40cdbdf6ed48f333d65debe8aa90465457ad6a4cdd0f6cfd3bd08e86c1"
+        }
+      ],
+      "57": [
+        {
+          "source_usfm": "\\f + \\fr 2:57 \\fqa Ami \\ft is a variant of \\fqa Amon\\ft ; see \\ref Nehemiah 7:59|NEH 7:59\\ref*.\\f*",
+          "raw_sha256": "8849635c237c5f41e4ae7bb3b45f51eab9e7088f7398a65cc8ec677032f61c8e"
+        }
+      ],
+      "59": [
+        {
+          "source_usfm": "\\f + \\fr 2:59 \\fqa Addan \\ft is a variant of \\fqa Addon\\ft ; see \\ref Nehemiah 7:61|NEH 7:61\\ref*.\\f*",
+          "raw_sha256": "d4522964ba8b779c50f2c97779c49ee305e0699b428ba6aa74d32e7def42aadf"
+        }
+      ],
+      "63": [
+        {
+          "source_usfm": "\\f + \\fr 2:63 \\ft Literally \\fqa Lights and Perfections\\f*",
+          "raw_sha256": "182b8b4905b36bb9aa647b4eb15cfb06f4b242392743446177a8327119e0c824"
+        }
+      ],
+      "69": [
+        {
+          "source_usfm": "\\f + \\fr 2:69 \\ft Or \\fqa 61,000 gold drachmas\\ft ; that is, approximately 1,129.7 pounds or 512.4 kilograms of gold coins\\f*",
+          "raw_sha256": "23b8084013b6778a9b6d0039c54ec4a83d75e20164fb783c7d1549d10208ca0d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:69 \\fqa 5,000 minas \\ft is approximately 3.14 tons or 2.85 metric tons of silver.\\f*",
+          "raw_sha256": "6ae4f3189bb1a2561f5b8fc0738dd0596ebedaaddcc22d8fca9ee87610f9943f"
+        }
+      ],
+      "70": [
+        {
+          "source_usfm": "\\f + \\fr 2:70 \\ft Or \\fqa all Israel\\f*",
+          "raw_sha256": "0eb95f88fabddbebdc096fb0fecbf789a0e8a472bc03c3e4df6895abc07372d0"
+        }
+      ]
+    },
+    "3": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\fqa Jozadak \\ft is a variant of \\fqa Jehozadak\\ft ; also in verse 8; see \\ref 1 Chronicles 6:14|1CH 6:14\\ref*.\\f*",
+          "raw_sha256": "893ecd7e22409e05882ebb6074a9bc8e2a0a7a692ede649bf39357ae3ed28fea"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 3:4 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as \\fqa the Feast of Booths \\ft or \\fqa the Feast of Shelters \\ft and originally called \\fqa the Feast of Ingathering\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref* and Exodus 34:22).\\f*",
+          "raw_sha256": "602b43bff865f16782f85fec1d03bc53db97b14e4afd98af63c4d25e11749525"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\ft Hebrew \\fqa sons of Judah\\ft ; that is, most likely, \\fqa sons of Yehudah\\ft , another name for \\fqa Hodevah \\ft or \\fqa Hodaviah\\ft ; see \\ref Ezra 2:40|EZR 2:40\\ref* and Nehemiah 7:43.\\f*",
+          "raw_sha256": "5972ea5f88f7e03f7ba7d4c0f843f6e158c700c0ecd3b4d8b0f5eeb9367df5cc"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "bfe37cc974639d849041dfbc62641c01d3cdd180c9959f5e071befcc2dbfc515"
+        }
+      ]
+    },
+    "4": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft Hebrew \\fqa Ahasuerus\\f*",
+          "raw_sha256": "60d47ab254469cb241795975fe3fcae2dd34b0b9ba985e0812337104343b43fa"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft The original text of \\ref Ezra 4:8|EZR 4:8\\ref* through Ezra 6:18 is in Aramaic.\\f*",
+          "raw_sha256": "f787b3983f026ace6ce7355ddbbc572030c317fef2722108637156aefb0614aa"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 4:10 \\ft Aramaic \\fqa Osnappar\\ft , another name for \\fqa Ashurbanipal\\f*",
+          "raw_sha256": "8380b881574d1ee4b14f879426e68d4aeaca0fe03b51a0636c9f58acffb6713b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:10 \\ft Aramaic \\fqa beyond the River\\ft ; also in verses 11, 16, 17, and 20\\f*",
+          "raw_sha256": "8d1530428848408c64781b6d3fae0d9294c9097f869d38adc7094b13608e69c5"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 4:14 \\ft Literally \\fqa because the salt of the palace is our salt\\f*",
+          "raw_sha256": "cdf5466087b374b3b0e80b6da8bef9ebcd0913368e5e2d47535960258bd9d4bb"
+        }
+      ]
+    },
+    "5": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\fqa Jozadak \\ft is a variant of \\fqa Jehozadak\\ft ; see \\ref 1 Chronicles 6:14|1CH 6:14\\ref*.\\f*",
+          "raw_sha256": "229d6c8c6ddb602d3b587d880f447fd063ac69720390696ec62566a3908600ec"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 5:3 \\ft Aramaic \\fqa the governor beyond the River\\ft ; also in verse 6\\f*",
+          "raw_sha256": "db9574db755aba68b343d63a1d0d702263027c98920f25e4c7ec8a3b1a092b48"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 5:4 \\ft LXX and Syriac; Aramaic \\fqa Then we told them,\\f*",
+          "raw_sha256": "bd3eebf6c5f2fb3f1848131d7887ab045c8c92d95cd6151c675ecaa34aa4e5b4"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft Aramaic \\fqa the names of the men at their heads\\f*",
+          "raw_sha256": "df72e133d279f182336ceb6abc029d25317ed24f6769c29f8bc390b779daded6"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 5:14 \\ft Or \\fqa palace\\f*",
+          "raw_sha256": "95ca7ca3f5fee58bc018a9210aa303d565ceb048fb13de96a94d3f0367b13df3"
+        }
+      ]
+    },
+    "6": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 6:3 \\ft The house was to be approximately 90 feet or 27.4 meters in height and width; Syriac (see also \\ref 1 Kings 6:2|1KI 6:2\\ref*) \\fqa It is to be sixty cubits long, twenty cubits wide, and thirty cubits high\\ft .\\f*",
+          "raw_sha256": "49bc0ce704e886dbde2457a751554103bb315f5f511dc15c59339ac8e8be2f46"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\ft Aramaic \\fqa governor beyond the River\\ft ; similarly in verses 8 and 13\\f*",
+          "raw_sha256": "7101082022f54ea1b3ae9ca61ef94a10312d8444c136357aa287c376c2cccd62"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 6:11 \\ft Literally \\fqa shall be made a dunghill because of this\\f*",
+          "raw_sha256": "bc150eb39f3f8ad9bc1632609265c5c9256afbf166073af471b5459e09ebda9c"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 6:15 \\fqa Adar \\ft is the twelfth month of the Hebrew lunar calendar, usually occurring within the months of February and March.\\f*",
+          "raw_sha256": "6fb4a4cbe9d7263653fb0c7f58b3115e5ae50ad98285a7be0161afc4504c7e2b"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 6:21 \\ft Or \\fqa nations\\f*",
+          "raw_sha256": "c3e5690178d2e7f0d65f3f893efdbc9883252d4a8cdd1779f8731664530cd877"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 6:22 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "f6cee5b991ac5855bec43eb7db5e303a8bf3dc3d274e8c5f36d3bb3f354c9486"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\ft Literally \\fqa After these things\\f*",
+          "raw_sha256": "142ddfa53f63df654dc632c8bbaeeb0e65623a821952693fb0fc389cf0a5e4bc"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 7:7 \\ft Hebrew \\fqa Nethinim\\ft ; also in verse 24\\f*",
+          "raw_sha256": "cc3984df9eaafc06cb281191f589954c3b6dceee0b2b9fb40b7fdadbe718ffaf"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 7:11 \\ft The original text of \\ref Ezra 7:12–26|EZR 7:12-26\\ref* is in Aramaic.\\f*",
+          "raw_sha256": "6c18cc916dd490156f37e520a09ac9fb7be0a074dae105a36b23765a2c1ea790"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 7:12 \\ft Aramaic \\fqa Perfect now \\ft (probably a greeting)\\f*",
+          "raw_sha256": "ff68c3cd70ee8ed5b7c9369582b3014bbc2ad2c4a617a11961dced9b16c95525"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 7:21 \\ft Aramaic \\fqa beyond the River\\ft ; also in verse 25\\f*",
+          "raw_sha256": "6a3dacf1300597f4a37c686ab0e2f447e2792491cab2ba22a5fc6a640165d61f"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 7:22 \\fqa 100 talents \\ft is approximately 3.77 tons or 3.42 metric tons of silver.\\f*",
+          "raw_sha256": "320406f468c6166a0cfd6377f6fddb3d9aee23408ddcc6810722c652978cbb6e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:22 \\fqa 100 cors \\ft is approximately 624 bushels or 22,000 liters (probably about 19.2 tons or 17.4 metric tons of wheat).\\f*",
+          "raw_sha256": "681c3b79269d050f7e1754028f6dc2a3efde12fac6ea471a9ac0b61f2b8f61bc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:22 \\fqa 100 baths \\ft is approximately 580 gallons or 2,200 liters of wine.\\f*",
+          "raw_sha256": "42f29cc4c638655efc22025c00115f08432bede5196b4ae4f6cdc8f418916f83"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:22 \\ft Or \\fqa 100 baths of oil\\ft ; that is, approximately 580 gallons or 2,200 liters\\f*",
+          "raw_sha256": "56ff25b2dcb81c0da8bb86bed3948e7a00cc3f8c79f5b02240b45f1db5d28661"
+        }
+      ]
+    },
+    "8": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 8:5 \\ft Some LXX manuscripts (see also \\ref 1 Esdras 8:32|8:32\\ref*); Hebrew \\fqa from the descendants of Shecaniah, the son of Jahaziel\\f*",
+          "raw_sha256": "6fb56c27cc46ac65d1792da8c8b912dc46a587f328bf05ca3459be97cb7ec200"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 8:10 \\ft Some LXX manuscripts (see also \\ref 1 Esdras 8:36|8:36\\ref*); Hebrew \\fqa from the descendants of Shelomith, the son of Josiphiah\\f*",
+          "raw_sha256": "ae0365161cc38742b52c028292b3cf834944dd2e455c5a892e89c8d33f112032"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 8:13 \\ft Or \\fqa the last\\f*",
+          "raw_sha256": "67a8c48fdfefcf2e2335c22c44a2142c0bf63cef824323559efb2d2f845b8b33"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 8:14 \\ft LXX, Syriac, and an alternate MT reading; the other alternate reads \\fqa Zabbud\\ft .\\f*",
+          "raw_sha256": "8727fbd8e2dda2726141ac0c2cafb4c7074d85ca62c6315014abd25623787164"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 8:16 \\fqa Elnathan \\ft appears three times in verse, either as a repetition for emphasis or as a record of multiple men with this name.\\f*",
+          "raw_sha256": "ef4f368618d47d08812f24b38f4fe09440a58ed4e7a3533c21aa9d3e63ad69db"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 8:17 \\ft Hebrew \\fqa the Nethinim\\ft ; also in verse 20\\f*",
+          "raw_sha256": "7960497a0636f6d5f44914f99064a8e11c5594ec9b8d1605561a46f358cc592a"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 8:26 \\fqa 650 talents \\ft is approximately 24.5 tons or 22.2 metric tons of silver.\\f*",
+          "raw_sha256": "3ec896452c095662ef4f2ccea0e2bf56e159710686772eb4909f0661fe3af304"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:26 \\fqa 100 talents \\ft is approximately 3.77 tons or 3.42 metric tons of silver articles.\\f*",
+          "raw_sha256": "962c4e0cbbc231367a1920bf4c10e5388292a229592b96a8f47b4dc2c5ba47b5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:26 \\fqa 100 talents \\ft is approximately 3.77 tons or 3.42 metric tons of gold.\\f*",
+          "raw_sha256": "1103a7bd2a769fcf9b0f0b5ccded7a9447b3a385fa2ee8fd8b62d47ba1ba14ef"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 8:27 \\ft Or \\fqa worth 1,000 drachmas\\ft ; that is, approximately 18.5 pounds or 8.4 kilograms of gold\\f*",
+          "raw_sha256": "beac1d1a0b70224b9c9de5a3cbea5015b787a03fb4ef61a870706a582a24290e"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 8:36 \\ft A \\fqa satrap \\ft was a Persian official.\\f*",
+          "raw_sha256": "f3ab517ad62d64e69f2a77e328c6e41db75f3a3f616c397d66e2905cdd141dd1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:36 \\ft Hebrew \\fqa governors beyond the River\\f*",
+          "raw_sha256": "6dbe86a983716ec287516bb02da2d305c7e51ff01852d42a116881d68d7ff89e"
+        }
+      ]
+    },
+    "9": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 9:8 \\ft Or \\fqa nail \\ft or \\fqa foothold\\f*",
+          "raw_sha256": "2efca74367a782e10e8bee07fa05de0ad25ffae6c4ba9a9431784382190ad050"
+        }
+      ]
+    },
+    "10": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft Or \\fqa went\\f*",
+          "raw_sha256": "0451271b265b0aba6548e4e18c39df0785108d04f8d7c127801431a6d064c2fd"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 10:18 \\fqa Jozadak \\ft is a variant of \\fqa Jehozadak\\ft ; see \\ref 1 Chronicles 6:14|1CH 6:14\\ref*.\\f*",
+          "raw_sha256": "6b333f486c1f360d2e005255eef521d82c00884fe35b0a84da1d79d35d3bead1"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 10:25 \\ft Hebrew; LXX \\fqa Hashabiah\\f*",
+          "raw_sha256": "51c5dc43da8126c6353dd79efd0776a1ba22a53891e6774d084e3c64089bfbb8"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 10:38 \\ft See LXX; Hebrew \\fqa And Bani, and Binnui, (and) Shimei,\\f*",
+          "raw_sha256": "6a5eee29954a162920b70cf10cae77c4fdb77d037240e0e37e4fed0632cf1fe3"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 10:44 \\ft Or \\fqa and they sent them away with their children\\f*",
+          "raw_sha256": "d9991e02e9ac11fc4940cc9fb690fcdd3deecc59a9f63fec256126c8d10c69b4"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

@@ -1,0 +1,596 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "EZK.40.1",
+      "edition_verse_id": "BSB:EZK.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month — in the fourteenth year after Jerusalem had been struck down — on that very day the hand of the LORD was upon me, and He took me there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.2",
+      "edition_verse_id": "BSB:EZK.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In visions of God He took me to the land of Israel and set me on a very high mountain, on whose southern slope was a structure that resembled a city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.3",
+      "edition_verse_id": "BSB:EZK.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So He took me there, and I saw a man whose appearance was like bronze. He was standing in the gateway with a linen cord and a measuring rod in his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.4",
+      "edition_verse_id": "BSB:EZK.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Son of man,” he said to me, “look with your eyes, hear with your ears, and pay attention to everything I am going to show you, for that is why you have been brought here. Report to the house of Israel everything you see.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.5",
+      "edition_verse_id": "BSB:EZK.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And I saw a wall surrounding the temple area. Now the length of the measuring rod in the man’s hand was six long cubits (each measuring a cubit and a handbreadth), and he measured the wall to be one rod thick and one rod high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.6",
+      "edition_verse_id": "BSB:EZK.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then he came to the gate facing east and climbed its steps. He measured the threshold of the gate to be one rod deep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.7",
+      "edition_verse_id": "BSB:EZK.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Each gate chamber was one rod long and one rod wide, and there were five cubits between the gate chambers. The inner threshold of the gate by the portico facing inward was one rod deep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.8",
+      "edition_verse_id": "BSB:EZK.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then he measured the portico of the gateway inside;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.9",
+      "edition_verse_id": "BSB:EZK.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "it was eight cubits deep, and its jambs were two cubits thick. And the portico of the gateway faced the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.10",
+      "edition_verse_id": "BSB:EZK.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There were three gate chambers on each side of the east gate, each with the same measurements, and the gateposts on either side also had the same measurements.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.11",
+      "edition_verse_id": "BSB:EZK.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he measured the width of the gateway entrance to be ten cubits, and its length was thirteen cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.12",
+      "edition_verse_id": "BSB:EZK.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "In front of each gate chamber was a wall one cubit high, and the gate chambers were six cubits square.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.13",
+      "edition_verse_id": "BSB:EZK.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then he measured the gateway from the roof of one gate chamber to the roof of the opposite one; the distance was twenty-five cubits from doorway to doorway.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.14",
+      "edition_verse_id": "BSB:EZK.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Next he measured the gateposts to be sixty cubits high. The gateway extended around to the gatepost of the courtyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.15",
+      "edition_verse_id": "BSB:EZK.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the distance from the entrance of the gateway to the far end of its inner portico was fifty cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.16",
+      "edition_verse_id": "BSB:EZK.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The gate chambers and their side pillars had beveled windows all around the inside of the gateway. The porticos also had windows all around on the inside. Each side pillar was decorated with palm trees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.17",
+      "edition_verse_id": "BSB:EZK.40.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then he brought me into the outer court, and there were chambers and a pavement laid out all around the court. Thirty chambers faced the pavement,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.18",
+      "edition_verse_id": "BSB:EZK.40.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "which flanked the gateways and corresponded to the length of the gates; this was the lower pavement.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.19",
+      "edition_verse_id": "BSB:EZK.40.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then he measured the distance from the front of the lower gateway to the outside of the inner court; it was a hundred cubits on the east side as well as on the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.20",
+      "edition_verse_id": "BSB:EZK.40.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He also measured the length and width of the gateway of the outer court facing north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.21",
+      "edition_verse_id": "BSB:EZK.40.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Its three gate chambers on each side, its side pillars, and its portico all had the same measurements as the first gate: fifty cubits long and twenty-five cubits wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.22",
+      "edition_verse_id": "BSB:EZK.40.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Its windows, portico, and palm trees had the same measurements as those of the gate facing east. Seven steps led up to it, with its portico opposite them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.23",
+      "edition_verse_id": "BSB:EZK.40.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "There was a gate to the inner court facing the north gate, just as there was on the east. He measured the distance from gateway to gateway to be a hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.24",
+      "edition_verse_id": "BSB:EZK.40.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then he led me to the south side, and I saw a gateway facing south. He measured its side pillars and portico, and they had the same measurements as the others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.25",
+      "edition_verse_id": "BSB:EZK.40.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Both the gateway and its portico had windows all around, like the other windows. It was fifty cubits long and twenty-five cubits wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.26",
+      "edition_verse_id": "BSB:EZK.40.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Seven steps led up to it, and its portico was opposite them; it had palm trees on its side pillars, one on each side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.27",
+      "edition_verse_id": "BSB:EZK.40.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The inner court also had a gate facing south, and he measured the distance from gateway to gateway toward the south to be a hundred cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.28",
+      "edition_verse_id": "BSB:EZK.40.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Next he brought me into the inner court through the south gate, and he measured the south gate; it had the same measurements as the others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.29",
+      "edition_verse_id": "BSB:EZK.40.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Its gate chambers, side pillars, and portico had the same measurements as the others. Both the gateway and its portico had windows all around; it was fifty cubits long and twenty-five cubits wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.30",
+      "edition_verse_id": "BSB:EZK.40.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "(The porticoes around the inner court were twenty-five cubits long and five cubits deep.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.31",
+      "edition_verse_id": "BSB:EZK.40.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Its portico faced the outer court, and its side pillars were decorated with palm trees. Eight steps led up to it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.32",
+      "edition_verse_id": "BSB:EZK.40.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And he brought me to the inner court on the east side, and he measured the gateway; it had the same measurements as the others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.33",
+      "edition_verse_id": "BSB:EZK.40.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Its gate chambers, side pillars, and portico had the same measurements as the others. Both the gateway and its portico had windows all around. It was fifty cubits long and twenty-five cubits wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.34",
+      "edition_verse_id": "BSB:EZK.40.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Its portico faced the outer court, and its side pillars were decorated with palm trees on each side. Eight steps led up to it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.35",
+      "edition_verse_id": "BSB:EZK.40.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then he brought me to the north gate and measured it. It had the same measurements as the others,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.36",
+      "edition_verse_id": "BSB:EZK.40.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "as did its gate chambers, side pillars, and portico. It also had windows all around. It was fifty cubits long and twenty-five cubits wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.37",
+      "edition_verse_id": "BSB:EZK.40.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Its portico faced the outer court, and its side pillars were decorated with palm trees on each side. Eight steps led up to it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.38",
+      "edition_verse_id": "BSB:EZK.40.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "There was a chamber with a doorway by the portico in each of the inner gateways. There the burnt offering was to be washed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.39",
+      "edition_verse_id": "BSB:EZK.40.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Inside the portico of the gateway were two tables on each side, on which the burnt offerings, sin offerings, and guilt offerings were to be slaughtered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.40",
+      "edition_verse_id": "BSB:EZK.40.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Outside, as one goes up to the entrance of the north gateway, there were two tables on one side and two more tables on the other side of the gate’s portico.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.41",
+      "edition_verse_id": "BSB:EZK.40.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "So there were four tables inside the gateway and four outside — eight tables in all — on which the sacrifices were to be slaughtered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.42",
+      "edition_verse_id": "BSB:EZK.40.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "There were also four tables of dressed stone for the burnt offering, each a cubit and a half long, a cubit and a half wide, and a cubit high. On these were placed the utensils used to slaughter the burnt offerings and the other sacrifices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.43",
+      "edition_verse_id": "BSB:EZK.40.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The double-pronged hooks, each a handbreadth long, were fastened all around the inside of the room, and the flesh of the offering was to be placed on the tables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.44",
+      "edition_verse_id": "BSB:EZK.40.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Outside the inner gate, within the inner court, were two chambers, one beside the north gate and facing south, and another beside the south gate and facing north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.45",
+      "edition_verse_id": "BSB:EZK.40.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then the man said to me: “The chamber that faces south is for the priests who keep charge of the temple,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.46",
+      "edition_verse_id": "BSB:EZK.40.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "and the chamber that faces north is for the priests who keep charge of the altar. These are the sons of Zadok, the only Levites who may approach the LORD to minister before Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.40.47",
+      "edition_verse_id": "BSB:EZK.40.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Next he measured the court. It was square, a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.48",
+      "edition_verse_id": "BSB:EZK.40.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Then he brought me to the portico of the temple and measured the side pillars of the portico to be five cubits on each side. The width of the gateway was fourteen cubits and its sidewalls were three cubits on either side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.40.49",
+      "edition_verse_id": "BSB:EZK.40.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "The portico was twenty cubits wide and twelve cubits deep, and ten steps led up to it. There were columns by the side pillars, one on each side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

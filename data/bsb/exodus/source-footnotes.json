@@ -1,0 +1,1315 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EXO",
+  "chapters": {
+    "1": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft MT (see also \\ref Genesis 46:27|GEN 46:27\\ref*); DSS and LXX (see also Acts 7:14) \\fqa seventy-five\\f*",
+          "raw_sha256": "18b0db3d5297b3757a1ce52aba1273573af6cb4eaa28a7f6e86cccc3d1eda2a6"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\ft Or \\fqa and take the country\\f*",
+          "raw_sha256": "d9452994869f49363729694ddec4698bb6bde48f6f67d1ac211f7b9f030e9a61"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 1:22 \\ft SP, LXX, and Targum Yonaton; Hebrew does not include \\fqa to the Hebrews\\ft .\\f*",
+          "raw_sha256": "9e847a894f75438c60448005d201044e7431e00e84026f25399e90d2d955c596"
+        }
+      ]
+    },
+    "2": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 2:3 \\ft The Hebrew can also mean \\fqa ark\\ft ; also in verse 5; see \\ref Genesis 6:14|GEN 6:14\\ref*.\\f*",
+          "raw_sha256": "0119635f56ea2bedf20f2c62d99ad1a8196515c3dfcd184e759e5de4fcb43b46"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\fqa Moses \\ft sounds like a Hebrew term that means \\fqa to lift out\\ft .\\f*",
+          "raw_sha256": "493d8872aa7906ddc234b95f5966d45810ca0085cb8662afc701bdaa15cf4f85"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 2:11 \\ft Or \\fqa his brothers\\f*",
+          "raw_sha256": "b01b0db049e59c1a00481c30c574559c6a7023b1470e525e257f128db8d74414"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 2:14 \\ft Cited in \\ref Acts 7:27|ACT 7:27\\ref* and Acts 7:35\\f*",
+          "raw_sha256": "2668b02c168aa12917d8148c28d02d987d59ef7f26146027dd53ec89e64eeee8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:14 \\ft LXX \\fqa Are you planning to kill me as you killed the Egyptian yesterday?\\ft Cited in \\ref Acts 7:28|ACT 7:28\\ref*\\f*",
+          "raw_sha256": "f4c4091b8a54f71000883fa53b7cb1e8b00e079c3cef3efad368e6a8308bc03d"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 2:18 \\fqa Reuel \\ft was also called \\fqa Jethro\\ft ; see \\ref Exodus 3:1|EXO 3:1\\ref*.\\f*",
+          "raw_sha256": "d01e47d0c5ba3a0cc23ed58f84d2f59a7e96c328d6ef15d28c0024941586f547"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 2:22 \\fqa Gershom \\ft sounds like the Hebrew for \\fqa foreigner\\ft .\\f*",
+          "raw_sha256": "986d242b3092452a39e70d03306aa9d630c48f5d2e8e67b158da10e9230ac9b3"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft Moses’ father-in-law \\fqa Jethro \\ft was also called \\fqa Reuel\\ft ; see \\ref Exodus 2:18|EXO 2:18\\ref*.\\f*",
+          "raw_sha256": "b954a9b4d1c1e82fb69987aa2973cf05dcb1bc8cb66d6509d9b1511d846c052c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "0d0ff32ea0875d9576b2a167bdc1b1aa186d014a9586f67047cfb777ed25f6ad"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\ft Or \\fqa Angel\\f*",
+          "raw_sha256": "2e5362fcf8277be1c1f9a9a652a90ad03f5e4ce8eab3a3097642764731f0b754"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\ft Cited in \\ref Acts 7:33|ACT 7:33\\ref*\\f*",
+          "raw_sha256": "0803cc07ef3097ec06eee20753bf833452105edd24e2cda9dafcb7c0979517be"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft Cited in \\ref Matthew 22:32|MAT 22:32\\ref*, Mark 12:26, Luke 20:37, and Acts 7:32\\f*",
+          "raw_sha256": "66a5436bd78fd684bcf8a544214c148e6df0a10a6d76610b2c3af6fdf84020ed"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 3:10 \\ft Cited in \\ref Acts 7:34|ACT 7:34\\ref*\\f*",
+          "raw_sha256": "dcaf9365a9f8f1f348427e4d30b14c060103e23973775ece35136f93c7efbe1d"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft Cited in \\ref Acts 7:7|ACT 7:7\\ref*\\f*",
+          "raw_sha256": "0f34cf64abd1f2f7f116611e36596b78d2a1da576bfce3fad1cb14587ff5fa7f"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 3:14 \\ft Or \\ft I WILL BE WHAT I WILL BE\\f*",
+          "raw_sha256": "cdb82d63def10eb08ff0b79477585290d0c1e5845f9b87daba0a940a8e8c69de"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 3:19 \\ft Literally \\fqa except by a mighty hand\\f*",
+          "raw_sha256": "95f0c996f82631986a7572ffbcd8a793e157f650ef9f5d1ca9ca99917b0db899"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft Hebrew \\fqa nachash\\ft , in contrast to Aaron’s staff, which became a \\fqa tannin\\ft in \\ref Exodus 7:10|EXO 7:10\\ref*\\f*",
+          "raw_sha256": "77c6261be6280ab45571e42a6fe154ad0c9b7e33e450bcc8e2bb0f757fdbc5c6"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft Hebrew \\fqa into your bosom\\ft ; twice in this verse and twice in verse 7\\f*",
+          "raw_sha256": "3442f37060bb9914727e38428a7096f58a089139fc874d76e8c8626443097c9a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft The Hebrew word traditionally translated as \\fqa leprous \\ft was used for various skin diseases; see Leviticus 13.\\f*",
+          "raw_sha256": "c8b850449a4f10a2e6b136cdfd5b6c4bba5074c39a891e2a7bcddcd03d687922"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 4:18 \\ft Moses’ father-in-law \\fqa Jethro \\ft was also called \\fqa Reuel\\ft ; see \\ref Exodus 2:18|EXO 2:18\\ref*.\\f*",
+          "raw_sha256": "7bda670c9769bfb9654c181aa434f4e627b407ad48ad81fd365a807b856a2a44"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 4:21 \\ft Or \\fqa stiffen \\ft or \\fqa strengthen\\f*",
+          "raw_sha256": "74b251163b3baa84d510bed4a272533d48928f0d23aeffef4cf7bcc4ea75dfe1"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 4:24 \\ft Hebrew \\fqa him\\f*",
+          "raw_sha256": "e74106f92c0e15bf941a763605d088ffb5f92c4bdcb9649c016e1a0d67b63097"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 4:25 \\ft Hebrew \\fqa his feet\\f*",
+          "raw_sha256": "0a4422813c3ee5f9840d6f143cbf4bb761ff6670abfa9003931e67e01e6b9f9d"
+        }
+      ]
+    },
+    "6": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 6:3 \\ft Hebrew \\fqa El-Shaddai\\f*",
+          "raw_sha256": "fd72972656b5ed88d22a02345883c13b6bcf081df6a2ab26b6959a1c3868711c"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 6:12 \\ft Hebrew \\fqa I have uncircumcised lips\\ft ; also in verse 30\\f*",
+          "raw_sha256": "07647c236936b4b52cd994db7eb924fb40a6135722406d839fb1d762260b3b5d"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 6:15 \\fqa Zohar \\ft is a variant of \\fqa Zerah\\ft ; see \\ref Numbers 26:13|NUM 26:13\\ref* and 1 Chronicles 4:24.\\f*",
+          "raw_sha256": "2c862a2390f779ed4575e304d092556aed2db4313b527f61c6290ac9d90be3b3"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 6:22 \\fqa Elzaphan \\ft is a variant of \\fqa Elizaphan\\ft ; see \\ref Numbers 3:30|NUM 3:30\\ref*.\\f*",
+          "raw_sha256": "920cb09bc259184f9f1ba71a415be22a3f6b4a524b60dab935814a9ddf064a81"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 6:24 \\fqa Abiasaph \\ft is a variant of \\fqa Ebiasaph\\ft ; see \\ref 1 Chronicles 6:23|1CH 6:23\\ref* and 1 Chronicles 9:19.\\f*",
+          "raw_sha256": "792aa5967feb5875309c1499a24d6adcbd3e4e3bd24069c2feec6dd16d110788"
+        }
+      ]
+    },
+    "7": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 7:9 \\ft Hebrew \\fqa tannin\\ft ; here and in verse 10, in contrast to Moses’ staff, which became a \\fqa nachash\\ft in \\ref Exodus 4:3|EXO 4:3\\ref* and was noted again in Exodus 7:15\\f*",
+          "raw_sha256": "0607526a58909176d21dde89cb8e05f03d0e4a94c9065da820365b5d55735437"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\ft Or \\fqa stiffened \\ft or \\fqa strengthened\\ft ; also in verse 22\\f*",
+          "raw_sha256": "550b83c1206dbdc75a508f441535dcf8527148156bbd0ad374c41a37d0660ef1"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 7:14 \\ft Or \\fqa heavy \\ft or \\fqa stubborn\\f*",
+          "raw_sha256": "1e0ff89e94bb61033507ff0d5c845304a038b2c1746e5ab10406b4d9e4c1069f"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 7:20 \\ft Hebrew \\fqa he raised the staff\\ft ; see verse 19; some translators \\fqa Moses raised the staff\\ft .\\f*",
+          "raw_sha256": "ad81211bf19b2f66db435a97f59a5337b039aa5141b7d580d3d5fd7af2eb1384"
+        }
+      ]
+    },
+    "8": {
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 8:15 \\ft Or \\fqa made heavy\\ft ; also in verse 32\\f*",
+          "raw_sha256": "13e00146cdd85f32874ac68ccaaec37ea88368c88d8796bfc8deaf42573f2c58"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 8:19 \\ft Or \\fqa stiffened \\ft or \\fqa strengthened\\f*",
+          "raw_sha256": "9fea5422171ccb4dff51ca94744020e3a4f327c4f9985b2349ca9e214978d321"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 8:21 \\ft Literally \\fqa a noxious mixture\\ft ; also in verses 22, 24, 29, and 31\\f*",
+          "raw_sha256": "3812632dc14bae724b3190d7e1f302c58cdad94c24ad24b2785d6f55f273199a"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 8:23 \\ft LXX and Vulgate; Hebrew \\fqa I will set redemption\\f*",
+          "raw_sha256": "a31db66f3710ee76d32dc431cc65337c0b6ccc8bd2fac88535394f3f7e3ecd27"
+        }
+      ]
+    },
+    "9": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 9:7 \\ft Or \\fqa made heavy\\ft ; also in verse 34\\f*",
+          "raw_sha256": "e5b8cbcb02657ac2e8f289767487bd43917aa044e7c9e8a8746c9a85d9379436"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 9:12 \\ft Or \\fqa stiffened \\ft or \\fqa strengthened\\ft ; also in verse 35\\f*",
+          "raw_sha256": "84e05d08798781be7e3e70e85c4f54d8acb4ba82914911af9efbc7b6bb461193"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 9:14 \\ft Hebrew \\fqa against your heart \\ft or \\fqa against your inner man\\f*",
+          "raw_sha256": "f3a583685b7640357b89ad55a89323f1d6ea833bb11670bcd5b09cda15c55f40"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 9:16 \\ft Or \\fqa have spared you\\f*",
+          "raw_sha256": "62fd2a3f5c027891f31815b75446fd99e82c929d343750981bf230ae555c224d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:16 \\ft LXX \\fqa in you\\f*",
+          "raw_sha256": "5131f086274956e534750894006588aebb87dbcf58efc89abc4b918c093fa255"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:16 \\ft Cited in \\ref Romans 9:17|ROM 9:17\\ref*\\f*",
+          "raw_sha256": "814fb5e9a7ddf230caeb40b48a109fdc69ae2b6ec537da1d5780c4f3d2920bb7"
+        }
+      ]
+    },
+    "10": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 10:1 \\ft Or \\fqa made heavy\\f*",
+          "raw_sha256": "0208899afecbdb9a7efcfd708994333be4dd98be3ca3a21d55f76af1007af8a4"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 10:19 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "5d1bbe58b718e657e6c3e064efe5ec100c9125d93a6359f0931c4691d4132b7c"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 10:20 \\ft Or \\fqa stiffened \\ft or \\fqa strengthened\\ft ; also in verse 27\\f*",
+          "raw_sha256": "368f64c8db3bf4589ef705db883e04f90c1a1faed31f30af448ae51fe4251752"
+        }
+      ]
+    },
+    "11": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 11:7 \\ft Some translators close this quotation at the end of the verse.\\f*",
+          "raw_sha256": "b7020faa28cd2713525f010beb40618aec7450d0b5bf9efb52aa48e522ad24ec"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 11:10 \\ft Or \\fqa stiffened \\ft or \\fqa strengthened\\f*",
+          "raw_sha256": "65cedc2677cfa8e47549995e008fcdb4e84c976fca30ac5a0a1bc3646f7767e7"
+        }
+      ]
+    },
+    "12": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft The Hebrew word can mean \\fqa lamb \\ft or \\fqa kid\\ft ; also in verses 4 and 5.\\f*",
+          "raw_sha256": "5ab4bc3c1610b1d135e48b6c205ec62a340fb1a6e079f59d0a406cdf6fb488d7"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 12:6 \\ft Hebrew \\fqa between the two evenings\\f*",
+          "raw_sha256": "195102bc39505069697ce0b4fc52c4129057f5a083eb62f0f1ac081ac8547c3f"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 12:7 \\ft Literally \\fqa on the two doorposts and on the lintel\\ft ; similarly in verses 22 and 23\\f*",
+          "raw_sha256": "7081da4025de0a531a8ba5bdc422402193f203fd210686adbea24df2b3238ed7"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 12:11 \\ft Literally \\fqa Gird up your loins\\f*",
+          "raw_sha256": "75016679dd3b730e5cc35904a0d12cc798d332fb36b2ca7b249d55e199900d2a"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 12:17 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten\\f*",
+          "raw_sha256": "9062fae6211e5b549611bee47bf4a123eddc5ece18a5916c6d40b7e492319562"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 12:37 \\fqa Succoth \\ft means \\fqa booths \\ft or \\fqa shelters \\ft or \\fqa tabernacles\\ft .\\f*",
+          "raw_sha256": "101646c441499f79553408929dee64dfce6b32d6489b78b5c1d3ba1a7be17d58"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 12:40 \\ft MT; SP \\fqa in Canaan and Egypt\\ft ; LXX \\fqa in Egypt and Canaan\\f*",
+          "raw_sha256": "094c1775df809c2ee78c633bf5c20557d2813c783cde62cf8a7b6bee04527ecf"
+        }
+      ]
+    },
+    "13": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 13:2 \\ft Cited in \\ref Luke 2:23|LUK 2:23\\ref*\\f*",
+          "raw_sha256": "069fc320efa23063ab3fd07031b7590c13dbd5114d543d45d898143e9158dbfb"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 13:4 \\fqa Abib \\ft was the first month of the ancient Hebrew lunar calendar, usually occurring within the months of March and April.\\f*",
+          "raw_sha256": "8e50ea209ce0ad40a5d4264a50daf016ba9c2542b8ee6582d3bf11c92d14b973"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 13:18 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "13b4181c9a583fc91198709f1e0f166a6822cb98256b199d13828196329c1cab"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:18 \\ft LXX \\fqa left the land of Egypt in the fifth generation\\f*",
+          "raw_sha256": "44139ebaf306f62b469beb9b020924b1abbf23ec775abbf1aa8d7f9f1a400c24"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 13:19 \\ft \\ref Genesis 50:25|GEN 50:25\\ref*\\f*",
+          "raw_sha256": "0ab33bf9f86fd4ee4f83c3c0c9752292f8cd5a87c590a0bbecdb37705d934974"
+        }
+      ]
+    },
+    "14": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 14:4 \\ft Or \\fqa stiffen \\ft or \\fqa strengthen\\ft ; similarly in verses 8 and 17\\f*",
+          "raw_sha256": "34837a0343645385daba16fef9d4b6a36a562ab1c3276b831b0866be1d0c05c2"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 14:8 \\ft Or \\fqa marching out boldly\\ft ; literally \\fqa marching out with an upraised hand\\f*",
+          "raw_sha256": "24303fa281c0a1b7f9a18bfa7505441966fdbc76bf7f316c5ce3c9bed01edf4d"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 14:19 \\ft Or \\fqa Angel\\f*",
+          "raw_sha256": "ac3af138e0f03538750041eded2a6f979f360a04abddd37688631d62e045af12"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 14:20 \\ft LXX \\fqa and the night passed\\f*",
+          "raw_sha256": "47399256579fcf4d6c8f72e787a52417213e569975d2bc7432c55f4e64ed2afa"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 14:25 \\ft Or \\fqa to swerve \\ft or \\fqa to come off \\ft or \\fqa to bind\\ft ; see also SP, LXX, and Syriac.\\f*",
+          "raw_sha256": "cead208ddaed1f370ad94ca1f4eab2cfa17b85da927cba62bcc72de5ccd8c799"
+        }
+      ]
+    },
+    "15": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 15:4 \\ft Or \\fqa the Sea of Reeds\\ft ; also in verse 22\\f*",
+          "raw_sha256": "fefcb5624f80a22e6c4b243ca799a55d09de7a824b9416a2c6ba1e06443ee2d2"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 15:13 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "84dc42fd6f57969d2416515c95d11435785f406ca1c8ae652085935720235733"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 15:23 \\fqa Marah \\ft means \\fqa bitter\\ft .\\f*",
+          "raw_sha256": "23ad4fb0d4562b852fc4d8cabc663fcd7d15cce99a3ec6966f874ff99077953e"
+        }
+      ]
+    },
+    "16": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 16:1 \\ft The geographical name \\fqa Sin \\ft is related to \\fqa Sinai \\ft and should not be mistaken for the English word \\fqa sin\\ft .\\f*",
+          "raw_sha256": "90caa13e6ca307f87400ad683302a3a973e23217e9e84fc0f5b0e8b8a42f075a"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 16:12 \\ft Hebrew \\fqa Between the two evenings\\f*",
+          "raw_sha256": "6bf53aba7dab6cdd50a36764efbf718f58ba23db3964c0ba9cfb3309b691184c"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 16:16 \\fqa An omer \\ft is approximately 2 dry quarts or 2.2 liters; also in verses 18, 32, 33, and 36.\\f*",
+          "raw_sha256": "e172a6882787ac3d35fd57f19cc604d514403b0435cd3726a39bbdf09b05240e"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 16:18 \\ft Cited in \\ref 2 Corinthians 8:15|2CO 8:15\\ref*\\f*",
+          "raw_sha256": "f0cf0250f13974cf381c1d62a4ceea7ca73e12a96d2df35649f57864383bb9b8"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 16:22 \\fqa 2 omers \\ft is approximately 4 dry quarts or 4.4 liters per person.\\f*",
+          "raw_sha256": "377686567746ce9a468f2a4cdd33232dc545da69a2a4bf6a041094e2b87bdb24"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 16:31 \\fqa Manna \\ft sounds like the Hebrew for \\fqa What is it? \\ft (see verse 15).\\f*",
+          "raw_sha256": "68fb9229f5eed6a557d37cda6bc2c05d9da4ebc4a5a811ec5706fc006ae0841b"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 16:34 \\fqa The Testimony \\ft refers to the stone tablets in the ark of the covenant inscribed with the Ten Commandments.\\f*",
+          "raw_sha256": "e03c035496f2d6294d9e45bf51aab9430e63f9f74beb00b1b738e0bdb0899f71"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 16:36 \\fqa An ephah \\ft was a dry measure having the capacity of about 20 dry quarts or 22 liters.\\f*",
+          "raw_sha256": "d025a5fe8f1662ac08dc05fc2d85f921075d7f540cac4d322e17113ed186ef21"
+        }
+      ]
+    },
+    "17": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 17:1 \\ft The geographical name \\fqa Sin \\ft is related to \\fqa Sinai \\ft and should not be mistaken for the English word \\fqa sin\\ft .\\f*",
+          "raw_sha256": "3acf2f3daf8e3cfe67b9f2670468a078de873e142453e4d3dab94d1559c14d73"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 17:6 \\fqa Horeb \\ft is another name for Sinai.\\f*",
+          "raw_sha256": "db3b83fedd25b9c9185adfd5fb005eabd376af9534330caebd9c9565968c3f8d"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 17:7 \\fqa Massah \\ft means \\fqa testing\\ft .\\f*",
+          "raw_sha256": "64ece3808df09a0f6c3dc28a8b0e17c583067fe64ed9a9b59338e1b945e5a229"
+        },
+        {
+          "source_usfm": "\\f + \\fr 17:7 \\fqa Meribah \\ft means \\fqa quarreling\\ft .\\f*",
+          "raw_sha256": "f6fb5f86f2f878eebf5cb62382d866073c8456b0500301ee39b2d76ecb971d20"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 17:15 \\ft Hebrew \\fqa YHWH Nissi\\f*",
+          "raw_sha256": "d5aff635ac04aaf1200c68b6e39c848d2c30119bdf32bb056f91e864eeb983f7"
+        }
+      ]
+    },
+    "18": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 18:1 \\ft Moses’ father-in-law \\fqa Jethro \\ft was also called \\fqa Reuel\\ft ; see \\ref Exodus 2:18|EXO 2:18\\ref*.\\f*",
+          "raw_sha256": "11669441de5b48bd64d2b17e899721f9c79422c081c5ebdb1dc2f927f99f5da4"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 18:3 \\fqa Gershom \\ft sounds like the Hebrew for \\fqa sojourner\\ft .\\f*",
+          "raw_sha256": "8f481dd664c311c502e4ee5e71ade6e5242da859735cf8a2b83df69de201b580"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 18:4 \\fqa Eliezer \\ft means \\fqa God is my helper\\ft .\\f*",
+          "raw_sha256": "7230cce7f9659d162e9644d856ad9cccb9b1b26c005d108b264ddeb65a09a2e1"
+        }
+      ]
+    },
+    "19": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 19:1 \\ft Hebrew \\fqa In the third month, on the same day\\ft ; that is, two months after leaving Egypt; see \\ref Numbers 33:3|NUM 33:3\\ref*.\\f*",
+          "raw_sha256": "6843451168ae307795a3e45ede661ac5cf75e4ed9e27d2f1ca8a07d1ec03c348"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 19:13 \\ft Cited in \\ref Hebrews 12:20|HEB 12:20\\ref*\\f*",
+          "raw_sha256": "9c087c763d7135d1a37f19f5f7d33bd64c1ca553a8cf4f201f2132070566c0cf"
+        },
+        {
+          "source_usfm": "\\f + \\fr 19:13 \\ft Or \\fqa may they go up on the mountain\\f*",
+          "raw_sha256": "04ba380637ddbb5acae0e384cfbae217f9f9059be724e2ff32fc96b3880d21bf"
+        }
+      ]
+    },
+    "20": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 20:3 \\ft Or \\fqa besides Me\\f*",
+          "raw_sha256": "6ab6c9b2c88b828f5186b4a0d6f89e3d298db5420e6027d5b277fc173bc93a97"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 20:6 \\ft Or \\fqa to thousands\\f*",
+          "raw_sha256": "e8d6d0f8e7c3cbf541c0d5c74c6be73264b8c1b395883378894603531d03ad44"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 20:12 \\ft Cited in \\ref Matthew 15:4|MAT 15:4\\ref*, Matthew 19:19, Mark 7:10, Luke 18:20, and Ephesians 6:2–3\\f*",
+          "raw_sha256": "92d189ba53d1fa28b97d8a3809d90905bd8dceba4ee176fef7f3e21f664b3c95"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 20:13 \\ft Cited in \\ref Matthew 5:21|MAT 5:21\\ref*, Matthew 19:18, Mark 10:19, Luke 18:20, Romans 13:9, and James 2:11\\f*",
+          "raw_sha256": "00080330a4959609d14c0d218cdf89780fb3905250fa55832de6005aa52a922d"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 20:14 \\ft Cited in \\ref Matthew 5:27|MAT 5:27\\ref*, Matthew 19:18, Mark 10:19, Luke 18:20, Romans 13:9, and James 2:11\\f*",
+          "raw_sha256": "6a97a46b0053dbfa7ca1e55ba9521f0190b88fde5c708a39285161babe77ac6e"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 20:15 \\ft Cited in \\ref Matthew 19:18|MAT 19:18\\ref*, Mark 10:19, Luke 18:20, and Romans 13:9\\f*",
+          "raw_sha256": "926a91d98076659fa0f50128134d92d50dbae70f263802609ec6b16d8317512a"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 20:16 \\ft Cited in \\ref Matthew 19:18|MAT 19:18\\ref*, Mark 10:19, and Luke 18:20\\f*",
+          "raw_sha256": "6a54207a25f2c09880b27496c61ac88681a60c84033e6e8c67f1831838cd465e"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 20:17 \\ft Cited in \\ref Romans 7:7|ROM 7:7\\ref* and Romans 13:9\\f*",
+          "raw_sha256": "ec5bfdec56e784a3b68a99060ce9f927e74778272886eb8ad117d79b630e4716"
+        }
+      ]
+    },
+    "21": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 21:6 \\ft Or \\fqa before God\\f*",
+          "raw_sha256": "9bfd9f8fe14000777bc1aa09c9f959a989c66ffbc6879862a66555f4d78d9938"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 21:8 \\ft Or \\fqa so that he does not designate her for himself\\f*",
+          "raw_sha256": "dddc3d632471175e4e5ada6e9b8ebb7a35356bb5baac3f326c8a423549f04e4d"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 21:17 \\ft Or \\fqa dishonors \\ft or \\fqa reviles\\f*",
+          "raw_sha256": "3407f2e5c99e6cc7038beccf617745341247875ec130c63d085af500efed3e59"
+        },
+        {
+          "source_usfm": "\\f + \\fr 21:17 \\ft Cited in \\ref Matthew 15:4|MAT 15:4\\ref* and Mark 7:10\\f*",
+          "raw_sha256": "8eeea0c5809e68258b7e667c2bc0becc87e98e0a7bd33e503127f905e62e43f2"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 21:22 \\ft Literally \\fqa and her children come out\\f*",
+          "raw_sha256": "7b805efce0d777a058e5698e61a8f44ac6ebebdc5a36e26712893a41ae60c763"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 21:24 \\ft Cited in \\ref Matthew 5:38|MAT 5:38\\ref*\\f*",
+          "raw_sha256": "d868c9299762519291e41e4da51d3f6276fdc2538a6fcc2f893a3d5dbd2d004c"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 21:28 \\ft Or \\fqa a bull\\ft ; also in verses 29–36\\f*",
+          "raw_sha256": "42a2db8dc5c3e5d37f31ec085a334465e1f63870daec9a733cdc254ea720c90d"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 21:32 \\fqa 30 shekels \\ft is approximately 12 ounces or 342 grams of silver.\\f*",
+          "raw_sha256": "1663a8327b9ff7b8cee2100e6c8e8775eef02de49e33279001bde1090f6e1f55"
+        }
+      ]
+    },
+    "22": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 22:1 \\ft Or \\fqa a bull \\ft or \\fqa a cow\\ft ; also in verses 4, 9, and 10\\f*",
+          "raw_sha256": "088840a2ad670db5d0fbb41b0218450b4e0540a98c3c91c3be2bb4e2db800ce1"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 22:8 \\ft Or \\fqa before God\\ft ; also in verse 9\\f*",
+          "raw_sha256": "589d10a8c3eda136861a919b1dc014b7becdaaf207d82d816a0659f2f94b546f"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 22:9 \\ft Or \\fqa whom God condemns\\f*",
+          "raw_sha256": "3638067da2d0425ad2ef43fa2764fdba5cd750b75efc1878b162be457fd3f1ab"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 22:20 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "ccc861078fd8fb7cc8f046bcfd964ba1980450d24773112f49d220017d277654"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 22:28 \\ft LXX \\fqa or speak evil about the ruler of your people\\ft ; cited in \\ref Acts 23:5|ACT 23:5\\ref*\\f*",
+          "raw_sha256": "87bfc946a02c2c8ae9ac74e4921985c9850e9ab37b0148e1000f2ebb88a50cd4"
+        }
+      ]
+    },
+    "23": {
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 23:15 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "342592c48e6decf156454a08025a010c6b0f622ce92538e88a9a973d28ce2878"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:15 \\fqa Abib \\ft was the first month of the ancient Hebrew lunar calendar, usually occurring within the months of March and April.\\f*",
+          "raw_sha256": "cc00e3a077a4b8616d2394daaa6943a5a48f5e7bc6382071a6af3a16f0e7ab99"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 23:16 \\ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as \\fqa the Feast of Weeks\\ft (see \\ref Exodus 34:22|EXO 34:22\\ref*) or \\fqa the Feast of Pentecost\\ft (see \\ref Acts 2:1|ACT 2:1\\ref*).\\f*",
+          "raw_sha256": "2c7a5d2307cb73925e65c45a56ead9d4304463629f22386f3feff3ded0e9df33"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:16 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; it is later called \\fqa the Feast of Tabernacles \\ft (or \\fqa Booths \\ft or \\fqa Shelters\\ft ).\\f*",
+          "raw_sha256": "87e5dcf222fd7651b325ebfb9aa3ce325605ddb9acd69209de80a8eccb97ed4a"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 23:25 \\ft LXX and Vulgate \\fqa I will bless\\f*",
+          "raw_sha256": "86a2c4f2227260ed95bc4ff8cf9015ce9d62bc7c46a2c61da88390252218e2b3"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 23:31 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "b2c81c336b26cfde8a9d3c33da2c27111a161cdd97de3fe9c2aa4662f2c9e3be"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:31 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "c41dc123043d5a6b1658ac29baf2fd9db331833de5a80e1ffd6a29cc4db0c3fb"
+        }
+      ]
+    },
+    "24": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 24:8 \\ft Cited in \\ref Hebrews 9:20|HEB 9:20\\ref*\\f*",
+          "raw_sha256": "8732e5ed9c241fdca86fcc4e2214890d9a7e33bdc4c7ab65eb6c2372a11ce1f6"
+        }
+      ]
+    },
+    "25": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 25:5 \\ft Possibly the hides of large aquatic mammals\\f*",
+          "raw_sha256": "1eea43111243c5789723444fd35f13b22b640d30c515244c436c0cff63498c82"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 25:10 \\ft The ark was approximately 3.75 feet long, 2.25 feet wide, and 2.25 feet high (114.3 centimeters long, 68.6 centimeters wide, and 68.6 centimeters high).\\f*",
+          "raw_sha256": "d161796234ca4f9f681aeb3f73c46d83fd2f8de1189e641540e8182d84a31c4e"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 25:16 \\fqa The Testimony \\ft refers to the stone tablets in the ark of the covenant inscribed with the Ten Commandments; also in verses 21 and 22.\\f*",
+          "raw_sha256": "a74a177bddb5975a7730f6801ea15b7f7b0f9c68f9be47cdeb9e921994add16a"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 25:17 \\ft Or \\fqa an atonement cover\\ft ; here and throughout Exodus\\f*",
+          "raw_sha256": "a0f63bf386bc8c1e934c974f10e69bc91a6519c3810a5edee8532466fe9be7fe"
+        },
+        {
+          "source_usfm": "\\f + \\fr 25:17 \\ft The mercy seat was approximately 3.75 feet long and 2.25 feet wide (114.3 centimeters long and 68.6 centimeters wide).\\f*",
+          "raw_sha256": "4f984837ca8a48445c72694ac6935838b942c002c3fe8edbef0af10359416c98"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 25:22 \\ft That is, \\fqa the ark of the covenant\\f*",
+          "raw_sha256": "393a8bbf35305e965e4348eebca43f12b40efaf0238b50150f4be73ca3abca12"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 25:23 \\ft The table was approximately 3 feet long, 1.5 feet wide, and 2.25 feet high (91.4 centimeters long, 45.7 centimeters wide, and 68.6 centimeters high).\\f*",
+          "raw_sha256": "183807d4365513d172eae90e2ab0f9501c126daf9288e6b22c9c11cdafbc2466"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 25:25 \\fqa A handbreadth \\ft is approximately 2.9 inches or 7.4 centimeters.\\f*",
+          "raw_sha256": "dd0fa6613662c52515d4ed01e6724af0e8f22f63a9ae3347616b266ce5cc8589"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 25:39 \\fqa A talent \\ft is approximately 75.4 pounds or 34.2 kilograms of gold.\\f*",
+          "raw_sha256": "1acdad9ba215f441e205fa01d0c0184cccf2325481d11db74587c3a195e0c691"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 25:40 \\ft Cited in \\ref Hebrews 8:5|HEB 8:5\\ref*\\f*",
+          "raw_sha256": "fd2789e24b869b5def391c048b96561f6832faf80ad1c4fc639b069aab8d8a8a"
+        }
+      ]
+    },
+    "26": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 26:2 \\ft Each of the ten curtains was approximately 42 feet long and 6 feet wide (12.8 meters long and 1.8 meters wide).\\f*",
+          "raw_sha256": "80d5dc65e3248c3e0f4d3abb3886daaf0e8d1f95838671af4d24db7a1ab0c95f"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 26:8 \\ft Each of the eleven curtains was approximately 45 feet long and 6 feet wide (13.7 meters long and 1.8 meters wide).\\f*",
+          "raw_sha256": "2c80bba01553b68b0cd99838c7eb908eaa4bcc27ee4d40056686a0e37e9235fe"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 26:13 \\fqa A cubit \\ft is approximately 18 inches or 45.7 centimeters.\\f*",
+          "raw_sha256": "0e9d4bce7f8438f4bd3b5fbb3e6b74a6af142fd926b4c9c3f539d919d8109fd3"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 26:14 \\ft Possibly the hides of large aquatic mammals\\f*",
+          "raw_sha256": "95ac60e8804783637aadfc7c2f600c419053e0316e79dc52fcd5a40eb40dc786"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 26:16 \\ft Each frame was approximately 15 feet long and 2.25 feet wide (4.6 meters long and 68.6 centimeters wide).\\f*",
+          "raw_sha256": "d0d0279bc7b5c8faa3b6b126ada07ba06f416a1bb52a5534d1a393bbc648f3a8"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 26:17 \\ft That is, projecting pieces of wood made for insertion into another piece; similarly in verse 19.\\f*",
+          "raw_sha256": "76864f8a262fbe72ab8f2039f7d40f2675ccb57119d25fcf4973754611c79a64"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 26:33 \\ft That is, \\fqa the ark of the covenant\\ft ; also in verse 34\\f*",
+          "raw_sha256": "f2576bfd9e320b6a3b7b35063accae22dcf7771382cd7ffa43c01e18b689ce20"
+        },
+        {
+          "source_usfm": "\\f + \\fr 26:33 \\ft Or \\fqa the Holy of Holies\\ft ; also in verse 34\\f*",
+          "raw_sha256": "5e28352758d32b6f917d220dd3a2f4fa6ca1be4adae66d6f5a6df9cf980e108a"
+        }
+      ]
+    },
+    "27": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 27:1 \\ft The altar was approximately 7.5 feet in length and width, and 4.5 feet high (2.3 meters in length and width, and 1.4 meters high).\\f*",
+          "raw_sha256": "83663150d509d6abcc59593fbc3e7d44242ab7d4743650a923ca47ac102d6d23"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 27:9 \\fqa 100 cubits \\ft is approximately 150 feet or 45.7 meters; also in verse 11.\\f*",
+          "raw_sha256": "e329ca0565bfcff576affbcc5da14469753fd926f04100ae6c397da368d276d1"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 27:12 \\fqa 50 cubits \\ft is approximately 75 feet or 22.9 meters; also in verse 13.\\f*",
+          "raw_sha256": "7a6d2660b7fbd00f1c044a3930c83b237ffea2cb92820bfee5a2855b641256f9"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 27:14 \\fqa 15 cubits \\ft is approximately 22.5 feet or 6.9 meters; also in verse 15.\\f*",
+          "raw_sha256": "043ff292ddcd3f8f3ff8bca79ed0c8c00b923e3bd660a4f6370f4c0a8878f988"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 27:16 \\fqa 20 cubits \\ft is approximately 30 feet or 9.1 meters.\\f*",
+          "raw_sha256": "06007545f6632146b67a5050df068798edafa612fcd3f0476d3cc30a45d1febe"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 27:18 \\ft The courtyard was approximately 150 feet long and 75 feet wide (45.7 meters long and 22.9 meters wide).\\f*",
+          "raw_sha256": "59982e9d3ee52749ecc288d36dcea062d730ac6e4e0151a37f53bd82acac8766"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:18 \\fqa 5 cubits \\ft is approximately 7.5 feet or 2.3 meters.\\f*",
+          "raw_sha256": "fd27699dfeaebc1b1b45afa80c061fc3102b61792c6c3e64622e89177609cb66"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 27:21 \\fqa The Testimony \\ft refers to the stone tablets in the ark of the covenant inscribed with the Ten Commandments.\\f*",
+          "raw_sha256": "1bf0e66302bb91d3e80c77e3efa3328461e43a03e7630d7ad78ebc6c963267ae"
+        }
+      ]
+    },
+    "28": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 28:16 \\ft The breastpiece, when folded over, was approximately 9 inches or 22.9 centimeters in both length and width.\\f*",
+          "raw_sha256": "4040f0520c9a037a3165864aeca94f8e19f46168c9534ffdc7546b0d8ca04171"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 28:17 \\ft The precise identification of some of these gemstones is uncertain.\\f*",
+          "raw_sha256": "05aea83f5bfadaf054cf03f637d1bec86b0d061ce3cac9ed302c1d5db4d02c1f"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 28:30 \\ft Literally \\fqa Lights and Perfections\\f*",
+          "raw_sha256": "44a672ea7769d87fce524e3872bd90e0fa85a610fb92ad922615c1fd3c4435d2"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 28:32 \\ft The meaning of the Hebrew word is uncertain; possibly \\fqa a coat of mail\\ft .\\f*",
+          "raw_sha256": "0c7a698b2839f23fdfc23f732489e271e5d6c2946c8bac40417f5c308a297a7c"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 28:36 \\ft That is, \\fqa the LORD\\f*",
+          "raw_sha256": "45bc73895b35d4c19162fa81d305f6a6a425c8c61a8c9e6508ced48ef073a55d"
+        }
+      ]
+    },
+    "29": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 29:14 \\ft Or \\fqa purification offering\\ft ; also in verse 36\\f*",
+          "raw_sha256": "55b2749068ef178215485e8d8abe02e42bec34a3d80433e92a3b8d6da7dbbbd3"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 29:39 \\ft Hebrew \\fqa between the two evenings\\ft ; also in verse 41\\f*",
+          "raw_sha256": "220813a2a81df444150054d4bda8dff78205ae2da6551cf00d426c22884b2f4f"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 29:40 \\fqa A tenth of an ephah \\ft is approximately 2 dry quarts or 2.2 liters (probably about 2.6 pounds or 1.2 kilograms of flour).\\f*",
+          "raw_sha256": "93d4443b5d63eb81aff96643a4cc6988cb80e96b233437d63d029d005d57700c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 29:40 \\ft Hebrew \\fqa a quarter hin of pressed oil\\ft ; that is, approximately 0.97 quarts or 0.92 liters\\f*",
+          "raw_sha256": "c481b0e8c64f1e11b26154b21dfb40ff6bcbcd0c028d811bddc595d3bff5b95b"
+        }
+      ]
+    },
+    "30": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 30:2 \\ft The altar was approximately 1.5 feet in length and width, and 3 feet high (45.7 centimeters in length and width, and 91.4 centimeters high).\\f*",
+          "raw_sha256": "bb7b49bbac797393a6b2b44c96273e37d295e87252fca8181592690c2f4c5c77"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 30:6 \\ft That is, \\fqa the ark of the covenant\\ft ; also in verse 26\\f*",
+          "raw_sha256": "bb9bc41ac33020fc309caee42f2ba216fb1160a01057f53b3ea1a17a1636622a"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 30:8 \\ft Hebrew \\fqa between the two evenings\\f*",
+          "raw_sha256": "cfee57206b144340a97f7736d00de554f5fc72b4aadf85ef17fc303168b81158"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 30:9 \\ft Or \\fqa strange\\f*",
+          "raw_sha256": "d868fd468b8a00223d587736dea4673b969417588711409bb6483b818f4d3b9b"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 30:10 \\ft Or \\fqa purification offering\\f*",
+          "raw_sha256": "839d30f91b47a7ffeedddd692854d289b384d1102d0ad0d81fe621877ef2c054"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 30:13 \\fqa A half shekel \\ft is approximately 0.2 ounces or 5.7 grams; also in verse 15.\\f*",
+          "raw_sha256": "1b6329753985324943065f9f63baaa64fdfc48d6aa90471cb74999c27d84fec5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 30:13 \\fqa 20 gerahs \\ft is equivalent to one shekel (approximately 0.4 ounces or 11.4 grams).\\f*",
+          "raw_sha256": "0d5f5e3338b942c920091e5b515e4293ced145e0f50456bb89ce693210d806ab"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 30:23 \\fqa 500 shekels \\ft is approximately 12.6 pounds or 5.7 kilograms of myrrh.\\f*",
+          "raw_sha256": "c38c494e59f13dd6c79b0360079ef3ac0830e761f32a3a8ef255baf9c6209d14"
+        },
+        {
+          "source_usfm": "\\f + \\fr 30:23 \\fqa 250 shekels \\ft is approximately 6.3 pounds or 2.9 kilograms of cinnamon.\\f*",
+          "raw_sha256": "bd979754354b348ce1eee6c17dd02ff6bc4b7402814ad3c4f5bc428ced692375"
+        },
+        {
+          "source_usfm": "\\f + \\fr 30:23 \\fqa 250 shekels \\ft is approximately 6.3 pounds or 2.9 kilograms of cane.\\f*",
+          "raw_sha256": "247eb7d6e53c2295a8c57fecc798150e19e8627072cfaa60d322882e7a0e4997"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 30:24 \\fqa 500 shekels \\ft is approximately 12.6 pounds or 5.7 kilograms of cassia.\\f*",
+          "raw_sha256": "32814e2223439411368b34254d9dc29585aefb2df3bd4d0c7d479371d751950c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 30:24 \\fqa A hin \\ft is approximately 0.97 gallons or 3.67 liters of olive oil.\\f*",
+          "raw_sha256": "95f7956fc522ce870a41fca732550cf1fd696e6faf156315d382709ec7c62f31"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 30:36 \\fqa The Testimony \\ft refers to the stone tablets in the ark of the covenant inscribed with the Ten Commandments.\\f*",
+          "raw_sha256": "2bc85eef81e52d0a86f95e4dcfb585c717d385cb60843edc874a14c6cca69842"
+        }
+      ]
+    },
+    "31": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 31:7 \\ft That is, \\fqa the ark of the covenant\\f*",
+          "raw_sha256": "851d6840a8f6cefda21e6b8d03101a6ef7f477f04157c4a41f38cd692d4688c8"
+        }
+      ]
+    },
+    "32": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 32:1 \\ft Cited in \\ref Acts 7:40|ACT 7:40\\ref*\\f*",
+          "raw_sha256": "de0ddc7fb46fa8164c0ed257a3939e9f40fa06215f485cd15365ffdfd3559754"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 32:6 \\ft Or \\fqa to play\\ft ; cited in \\ref 1 Corinthians 10:7|1CO 10:7\\ref*\\f*",
+          "raw_sha256": "0a49088223c1f8641188dca80d4139f08e12188faa4c3be1e777fcfe708a3a4a"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 32:25 \\ft Or \\fqa and become an object of derision\\f*",
+          "raw_sha256": "08bd744fd40c050030806b610f39dbe9e7febb384d9630d3a1b3af2243c765ee"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 32:29 \\ft Or \\fqa have ordained yourselves\\f*",
+          "raw_sha256": "0745e6ef0b18fca7c144226b62c825615cb746c25280d7fecf32e5cd20c2138f"
+        }
+      ]
+    },
+    "33": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 33:6 \\ft That is, from Mount Sinai onward, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "6f1581e2c467058c16123b90eb943b94a3b9f1154b17c73a606946eea856752b"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 33:19 \\ft Cited in \\ref Romans 9:15|ROM 9:15\\ref*\\f*",
+          "raw_sha256": "aa6c95c21fce03e1b963219a1d7533fcf256fc01cade94e98d08f6fdb6e7e7a8"
+        }
+      ]
+    },
+    "34": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 34:7 \\ft Hebrew \\fqa to thousands\\f*",
+          "raw_sha256": "5b1493708efee4e23c340858ea9a72ec4b15d228dee81aa8a1b466da6ee0dc92"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 34:12 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft .\\f*",
+          "raw_sha256": "23dbfa5b55aba79000856e81ebb79db84cfb5d1bc510aac9959df7b66b1a8b8e"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 34:18 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "25f825e4b9fad0adb8f9ebe611a5c0a89022781fda214c22302b8eb3259b427a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 34:18 \\fqa Abib \\ft was the first month of the ancient Hebrew lunar calendar, usually occurring within the months of March and April; twice in this verse.\\f*",
+          "raw_sha256": "18203bdcbba756039c076d780ba07891e56f477d06460b2ddacbaf4b67c982ab"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 34:22 \\ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as \\fqa the Feast of Harvest\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref*) or \\fqa the Feast of Pentecost\\ft (see \\ref Acts 2:1|ACT 2:1\\ref*).\\f*",
+          "raw_sha256": "a5f0be9e1bac5ffe86223cbb52e6e11a05e9177a380f95d1185623f754408099"
+        },
+        {
+          "source_usfm": "\\f + \\fr 34:22 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; it is later called \\fqa the Feast of Tabernacles \\ft (or \\fqa Booths \\ft or \\fqa Shelters\\ft ).\\f*",
+          "raw_sha256": "de7aa61552343f8bd61863afb7414df6278e7ff4475b16287912631ff689073f"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 34:28 \\ft Hebrew \\fqa the Ten Words\\f*",
+          "raw_sha256": "6845278c1a497c3ca774d50403dbf6037ef00d57b276ca2df63ea890d743552c"
+        }
+      ]
+    },
+    "35": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 35:7 \\ft Possibly the hides of large aquatic mammals; also in verse 23\\f*",
+          "raw_sha256": "77e8e4bf8364a20d4c1be38803a8d64ae980bff9d2f91250d2bba3f5998319a4"
+        }
+      ]
+    },
+    "36": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 36:9 \\ft Each of the ten curtains was approximately 42 feet long and 6 feet wide (12.8 meters long and 1.8 meters wide).\\f*",
+          "raw_sha256": "7630b82ff231411e06cafff4c0b2e2ef7f0f7c2c7e5e2a12259b0da9cda7fd5b"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 36:15 \\ft Each of the eleven curtains was approximately 45 feet long and 6 feet wide (13.7 meters long and 1.8 meters wide).\\f*",
+          "raw_sha256": "b5f2b760ae5632558df620dbc552c6ca94242a4ecaca432f0bb26e6d80836db7"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 36:19 \\ft Possibly the hides of large aquatic mammals\\f*",
+          "raw_sha256": "8b58e8d0d480e5f0e8d4293a20f1df57c5e5e4ab457c7ee87fe2ef7fc6186de0"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 36:21 \\ft Each frame was approximately 15 feet long and 2.25 feet wide (4.6 meters long and 68.6 centimeters wide).\\f*",
+          "raw_sha256": "ef00c31b2f20895928d4149da451210527214005e6ea53b8019374381eda743c"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 36:22 \\ft That is, projecting pieces of wood made for insertion into another piece; similarly in verse 24.\\f*",
+          "raw_sha256": "422be0d7d91e56aef159f6492976617892a31af4100382d8049e16d70717adbf"
+        }
+      ]
+    },
+    "37": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 37:1 \\ft The ark was approximately 3.75 feet long, 2.25 feet wide, and 2.25 feet high (114.3 centimeters long, 68.6 centimeters wide, and 68.6 centimeters high).\\f*",
+          "raw_sha256": "5875eb394dacf2c7e8d4502791e5f5e8746a1cf78822c4a55d9a4b25fec7404c"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 37:6 \\ft The mercy seat was approximately 3.75 feet long and 2.25 feet wide (114.3 centimeters long and 68.6 centimeters wide).\\f*",
+          "raw_sha256": "3095267e484427974648aeb47e2dfba58d1431adddd1757b527c8090699dbf60"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 37:10 \\ft The table was approximately 3 feet long, 1.5 feet wide, and 2.25 feet high (91.4 centimeters long, 45.7 centimeters wide, and 68.6 centimeters high).\\f*",
+          "raw_sha256": "6fde223ce9ad8018f896a65919a5fd7438e0062ae95495120ad980aa8dedbab0"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 37:12 \\fqa A handbreadth \\ft is approximately 2.9 inches or 7.4 centimeters.\\f*",
+          "raw_sha256": "e1787013d204213a20e2875743ecc3cd61c2bdc9dcffac665616de0d9c8596f1"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 37:24 \\fqa A talent \\ft is approximately 75.4 pounds or 34.2 kilograms of gold.\\f*",
+          "raw_sha256": "33fc51d6807fe17d21d0bcbb969ffec6d2997874b64ebf7b97f288e19fd18749"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 37:25 \\ft The altar was approximately 1.5 feet in length and width, and 3 feet high (45.7 centimeters in length and width, and 91.4 centimeters high).\\f*",
+          "raw_sha256": "74ce695225ac00cab99ccd7cc5389ea404820a28958e722f8199701079c1a0b3"
+        }
+      ]
+    },
+    "38": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 38:1 \\ft Literally \\fqa He constructed\\f*",
+          "raw_sha256": "b2eaaf13b5966e793bc5f7a7b6f8b425b9bc279b20e4b6c0a9ea41ff2a1f27b2"
+        },
+        {
+          "source_usfm": "\\f + \\fr 38:1 \\ft The altar was approximately 7.5 feet in length and width, and 4.5 feet high (2.3 meters in length and width, and 1.4 meters high).\\f*",
+          "raw_sha256": "5237923247f6ae4ed801799ddd21fa5fb88646519c743634bd38699135dc5fde"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 38:9 \\fqa 100 cubits \\ft is approximately 150 feet or 45.7 meters.\\f*",
+          "raw_sha256": "4354faf74dafda6b6775075a1d47d7935576a287f146b8405be81bc770694ce4"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 38:12 \\fqa 50 cubits \\ft is approximately 75 feet or 22.9 meters.\\f*",
+          "raw_sha256": "bcf65ad27a559b66d7541091bd83da257e639265316125a998169c804527c848"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 38:14 \\fqa 15 cubits \\ft is approximately 22.5 feet or 6.9 meters.\\f*",
+          "raw_sha256": "5f1a22395c4d504755f31b1bfdb37b775be4003d6ef3f7cb1d208d4594942a16"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 38:18 \\fqa 20 cubits \\ft is approximately 30 feet or 9.1 meters.\\f*",
+          "raw_sha256": "db7e8621ed130abd396a6e29ab4d9c5164eb34c86d7a55e5acc80f9ff5090c02"
+        },
+        {
+          "source_usfm": "\\f + \\fr 38:18 \\fqa 5 cubits \\ft is approximately 7.5 feet or 2.3 meters.\\f*",
+          "raw_sha256": "4219b5989fc03778a67b07108c8f33a25452ac097bc1288c9c8d771e7e19d16c"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 38:24 \\ft The total weight of the gold was approximately 1.1 tons or 1 metric ton.\\f*",
+          "raw_sha256": "1097732ca3c61494d8a092ab65b6404653747b7a147eb88576b03cf87623923a"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 38:25 \\ft The total weight of the silver was approximately 3.79 tons or 3.44 metric tons.\\f*",
+          "raw_sha256": "62251df6ab52c11ae22fc192ac6517ee5b2c2c97a28792a0e9372db8d8d05b0a"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 38:26 \\fqa A beka \\ft is half a shekel, or approximately 0.2 ounces or 5.7 grams.\\f*",
+          "raw_sha256": "a1460cff4e7a7f062326ffe69cd9f57a34a993aebea65f8352174d3594cce7d2"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 38:27 \\fqa 100 talents \\ft is approximately 3.77 tons or 3.42 metric tons of silver.\\f*",
+          "raw_sha256": "848e20905a896ac1e86f10a01725ee925e6fb61dd1141d51c363d18bdf512b23"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 38:28 \\fqa 1,775 shekels \\ft is approximately 44.6 pounds or 20.2 kilograms of silver.\\f*",
+          "raw_sha256": "6ed1eded477df27f91809b457c588a59aca2c9486fff07ca7b0296c85b241a03"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 38:29 \\ft The total weight of the bronze was approximately 2.67 tons or 2.42 metric tons.\\f*",
+          "raw_sha256": "7504465a78e66e6454e263891fc3bd36e56b73c625be67a9eb3a3fd4dc81da8e"
+        }
+      ]
+    },
+    "39": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 39:2 \\ft Literally \\fqa He made\\f*",
+          "raw_sha256": "97779f983c606199c7630770239cc28895249e572f57fdaa9c2c48c72b964311"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 39:9 \\ft The breastpiece, when folded over, was approximately 9 inches or 22.9 centimeters in both length and width.\\f*",
+          "raw_sha256": "bce3a35448dd4e6de393adda0ecbd913c80d9fc84286e4122549709c5e1b4ad2"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 39:10 \\ft The precise identification of some of these gemstones is uncertain.\\f*",
+          "raw_sha256": "8559543624908fae7a8429071ce9c87d866ba6ed584b03225b6fef07b7cf6d26"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 39:23 \\ft The meaning of the Hebrew word is uncertain; possibly \\fqa a coat of mail\\ft .\\f*",
+          "raw_sha256": "98713a3df3a5d085570631bc8efaa4f343bedc073b76b7b96e443d54c77a321d"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 39:30 \\ft That is, \\fqa the LORD\\f*",
+          "raw_sha256": "d15888e050d78b6382b6c44d039fef66dac2f43b9c179ff41f890a774030833f"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 39:34 \\ft Possibly the hides of large aquatic mammals\\f*",
+          "raw_sha256": "0b0bd65615976fac6a8c4fbd26f128c70163d030559e80f72f4f3589093f925a"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 39:35 \\ft That is, \\fqa the ark of the covenant\\f*",
+          "raw_sha256": "6c026c7b9e9dcac86ee31b3e022d5211875e04aa98278f52c524ece46284b137"
+        }
+      ]
+    },
+    "40": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 40:3 \\ft That is, \\fqa the ark of the covenant\\ft ; also in verses 5 and 21\\f*",
+          "raw_sha256": "c7b407d648ed0bbee7698feee202edd6b399c77bc6a71676b4900fd0c08414c3"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

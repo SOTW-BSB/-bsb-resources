@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "EZK.12.1",
+      "edition_verse_id": "BSB:EZK.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.2",
+      "edition_verse_id": "BSB:EZK.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Son of man, you are living in a rebellious house. They have eyes to see but do not see, and ears to hear but do not hear, for they are a rebellious house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.3",
+      "edition_verse_id": "BSB:EZK.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore, son of man, pack your bags for exile. In broad daylight, set out from your place and go to another as they watch. Perhaps they will understand, though they are a rebellious house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.4",
+      "edition_verse_id": "BSB:EZK.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Bring out your baggage for exile by day, as they watch. Then in the evening, as they watch, go out like those who go into exile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.5",
+      "edition_verse_id": "BSB:EZK.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As they watch, dig through the wall and carry your belongings out through it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.6",
+      "edition_verse_id": "BSB:EZK.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And as they watch, lift your bags to your shoulder and take them out at dusk; cover your face so that you cannot see the land. For I have made you a sign to the house of Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.7",
+      "edition_verse_id": "BSB:EZK.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So I did as I was commanded. I brought out my bags for exile by day, and in the evening I dug through the wall by hand. I took my belongings out at dusk, carrying them on my shoulder as they watched.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.8",
+      "edition_verse_id": "BSB:EZK.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And in the morning the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.9",
+      "edition_verse_id": "BSB:EZK.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“Son of man, hasn’t the rebellious house of Israel asked you, ‘What are you doing?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.10",
+      "edition_verse_id": "BSB:EZK.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Tell them that this is what the Lord GOD says: ‘This burden concerns the prince in Jerusalem and all the house of Israel who are there.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.11",
+      "edition_verse_id": "BSB:EZK.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You are to say, ‘I am a sign to you.’ Just as it happened here, so will it be done to them; they will go into exile as captives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.12",
+      "edition_verse_id": "BSB:EZK.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And at dusk the prince among them will lift his bags to his shoulder and go out. They will dig through the wall to bring him out. He will cover his face so he cannot see the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.13",
+      "edition_verse_id": "BSB:EZK.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But I will spread My net over him, and he will be caught in My snare. I will bring him to Babylon, the land of the Chaldeans; yet he will not see it, and there he will die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.14",
+      "edition_verse_id": "BSB:EZK.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And I will scatter to every wind all the attendants around him and all his troops, and I will draw a sword to chase after them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.15",
+      "edition_verse_id": "BSB:EZK.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And they will know that I am the LORD, when I disperse them among the nations and scatter them throughout the countries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.16",
+      "edition_verse_id": "BSB:EZK.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But I will spare a few of them from sword and famine and plague, so that in the nations to which they go, they can recount all their abominations. Then they will know that I am the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.17",
+      "edition_verse_id": "BSB:EZK.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Moreover, the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.18",
+      "edition_verse_id": "BSB:EZK.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Son of man, eat your bread with trembling, and drink your water with quivering and anxiety.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.19",
+      "edition_verse_id": "BSB:EZK.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then tell the people of the land that this is what the Lord GOD says about those living in Jerusalem and in the land of Israel: ‘They will eat their bread with anxiety and drink their water in dread, for their land will be stripped of everything in it because of the violence of all who dwell in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.20",
+      "edition_verse_id": "BSB:EZK.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The inhabited cities will be laid waste, and the land will become desolate. Then you will know that I am the LORD.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.21",
+      "edition_verse_id": "BSB:EZK.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Again the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.22",
+      "edition_verse_id": "BSB:EZK.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "“Son of man, what is this proverb that you have in the land of Israel: ‘The days go by, and every vision fails’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.23",
+      "edition_verse_id": "BSB:EZK.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Therefore tell them that this is what the Lord GOD says: ‘I will put an end to this proverb, and in Israel they will no longer recite it.’ But say to them: ‘The days are at hand when every vision will be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.24",
+      "edition_verse_id": "BSB:EZK.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For there will be no more false visions or flattering divinations within the house of Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.25",
+      "edition_verse_id": "BSB:EZK.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "because I, the LORD, will speak whatever word I speak, and it will be fulfilled without delay. For in your days, O rebellious house, I will speak a message and bring it to pass, declares the Lord GOD.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.26",
+      "edition_verse_id": "BSB:EZK.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Furthermore, the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.12.27",
+      "edition_verse_id": "BSB:EZK.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "“Son of man, take note that the house of Israel is saying, ‘The vision that he sees is for many years from now; he prophesies about the distant future.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.12.28",
+      "edition_verse_id": "BSB:EZK.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Therefore tell them that this is what the Lord GOD says: ‘None of My words will be delayed any longer. The message I speak will be fulfilled, declares the Lord GOD.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

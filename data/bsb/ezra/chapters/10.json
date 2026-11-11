@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZR",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "EZR.10.1",
+      "edition_verse_id": "BSB:EZR.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "While Ezra prayed and made this confession, weeping and falling facedown before the house of God, a very large assembly of Israelites — men, women, and children — gathered around him, and the people wept bitterly as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.2",
+      "edition_verse_id": "BSB:EZR.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then Shecaniah son of Jehiel, an Elamite, said to Ezra: “We have been unfaithful to our God by marrying foreign women from the people of the land, yet in spite of this, there is hope for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.3",
+      "edition_verse_id": "BSB:EZR.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So now let us make a covenant before our God to send away all the foreign wives and their children, according to the counsel of my lord and of those who tremble at the command of our God. Let it be done according to the Law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.4",
+      "edition_verse_id": "BSB:EZR.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Get up, for this matter is your responsibility, and we will support you. Be strong and take action!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.5",
+      "edition_verse_id": "BSB:EZR.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So Ezra got up and made the leading priests, Levites, and all Israel take an oath to do what had been said. And they took the oath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.6",
+      "edition_verse_id": "BSB:EZR.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then Ezra withdrew from before the house of God and walked to the chamber of Jehohanan son of Eliashib. And while he stayed there, he ate no food and drank no water, because he was mourning over the unfaithfulness of the exiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.7",
+      "edition_verse_id": "BSB:EZR.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And a proclamation was issued throughout Judah and Jerusalem that all the exiles should gather at Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.8",
+      "edition_verse_id": "BSB:EZR.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Whoever failed to appear within three days would forfeit all his property, according to the counsel of the leaders and elders, and would himself be expelled from the assembly of the exiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.9",
+      "edition_verse_id": "BSB:EZR.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So within the three days, all the men of Judah and Benjamin assembled in Jerusalem, and on the twentieth day of the ninth month, all the people sat in the square at the house of God, trembling regarding this matter and because of the heavy rain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.10",
+      "edition_verse_id": "BSB:EZR.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Ezra the priest stood up and said to them, “You have been unfaithful by marrying foreign women, adding to the guilt of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.11",
+      "edition_verse_id": "BSB:EZR.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now, therefore, make a confession to the LORD, the God of your fathers, and do His will. Separate yourselves from the people of the land and from your foreign wives.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.12",
+      "edition_verse_id": "BSB:EZR.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the whole assembly responded in a loud voice: “Truly we must do as you say!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.13",
+      "edition_verse_id": "BSB:EZR.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But there are many people here, and it is the rainy season. We are not able to stay out in the open. Nor is this the work of one or two days, for we have transgressed greatly in this matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.14",
+      "edition_verse_id": "BSB:EZR.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Let our leaders represent the whole assembly. Then let everyone in our towns who has married a foreign woman come at an appointed time, together with the elders and judges of each town, until the fierce anger of our God in this matter is turned away from us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.15",
+      "edition_verse_id": "BSB:EZR.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "(Only Jonathan son of Asahel and Jahzeiah son of Tikvah, supported by Meshullam and Shabbethai the Levite, opposed this plan.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.16",
+      "edition_verse_id": "BSB:EZR.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So the exiles did as proposed. Ezra the priest selected men who were family heads, each of them identified by name, to represent their families. On the first day of the tenth month they launched the investigation,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.17",
+      "edition_verse_id": "BSB:EZR.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and by the first day of the first month they had dealt with all the men who had married foreign women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.18",
+      "edition_verse_id": "BSB:EZR.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Among the descendants of the priests who had married foreign women were found these descendants of Jeshua son of Jozadak and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.19",
+      "edition_verse_id": "BSB:EZR.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They pledged to send their wives away, and for their guilt they presented a ram from the flock as a guilt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.20",
+      "edition_verse_id": "BSB:EZR.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "From the descendants of Immer: Hanani and Zebadiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.21",
+      "edition_verse_id": "BSB:EZR.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "From the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.22",
+      "edition_verse_id": "BSB:EZR.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "From the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.23",
+      "edition_verse_id": "BSB:EZR.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Among the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah, and Eliezer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.24",
+      "edition_verse_id": "BSB:EZR.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "From the singers: Eliashib. From the gatekeepers: Shallum, Telem, and Uri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.25",
+      "edition_verse_id": "BSB:EZR.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And among the other Israelites, from the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.26",
+      "edition_verse_id": "BSB:EZR.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "From the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.27",
+      "edition_verse_id": "BSB:EZR.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "From the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.28",
+      "edition_verse_id": "BSB:EZR.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "From the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.29",
+      "edition_verse_id": "BSB:EZR.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "From the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.30",
+      "edition_verse_id": "BSB:EZR.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "From the descendants of Pahath-moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.31",
+      "edition_verse_id": "BSB:EZR.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "From the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.32",
+      "edition_verse_id": "BSB:EZR.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Benjamin, Malluch, and Shemariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.33",
+      "edition_verse_id": "BSB:EZR.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "From the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.34",
+      "edition_verse_id": "BSB:EZR.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "From the descendants of Bani: Maadai, Amram, Uel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.35",
+      "edition_verse_id": "BSB:EZR.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Benaiah, Bedeiah, Cheluhi,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.36",
+      "edition_verse_id": "BSB:EZR.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Vaniah, Meremoth, Eliashib,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.37",
+      "edition_verse_id": "BSB:EZR.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Mattaniah, Mattenai, and Jaasu.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.38",
+      "edition_verse_id": "BSB:EZR.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "From the descendants of Binnui: Shimei,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.39",
+      "edition_verse_id": "BSB:EZR.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Shelemiah, Nathan, Adaiah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.40",
+      "edition_verse_id": "BSB:EZR.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Machnadebai, Shashai, Sharai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.41",
+      "edition_verse_id": "BSB:EZR.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Azarel, Shelemiah, Shemariah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.42",
+      "edition_verse_id": "BSB:EZR.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Shallum, Amariah, and Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZR.10.43",
+      "edition_verse_id": "BSB:EZR.10.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And from the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZR.10.44",
+      "edition_verse_id": "BSB:EZR.10.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "All these men had married foreign women, and some of them had children by these wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

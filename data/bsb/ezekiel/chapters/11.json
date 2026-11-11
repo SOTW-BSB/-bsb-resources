@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "EZK.11.1",
+      "edition_verse_id": "BSB:EZK.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.2",
+      "edition_verse_id": "BSB:EZK.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And the LORD said to me, “Son of man, these are the men who plot evil and give wicked counsel in this city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.3",
+      "edition_verse_id": "BSB:EZK.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They are saying, ‘Is not the time near to build houses? The city is the cooking pot, and we are the meat.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.4",
+      "edition_verse_id": "BSB:EZK.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore prophesy against them; prophesy, O son of man!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.5",
+      "edition_verse_id": "BSB:EZK.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the Spirit of the LORD fell upon me and told me to declare that this is what the LORD says: “That is what you are thinking, O house of Israel; and I know the thoughts that arise in your minds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.6",
+      "edition_verse_id": "BSB:EZK.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You have multiplied those you killed in this city and filled its streets with the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.7",
+      "edition_verse_id": "BSB:EZK.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Therefore this is what the Lord GOD says: The slain you have laid within this city are the meat, and the city is the pot; but I will remove you from it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.8",
+      "edition_verse_id": "BSB:EZK.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You fear the sword, so I will bring the sword against you, declares the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.9",
+      "edition_verse_id": "BSB:EZK.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will bring you out of the city and deliver you into the hands of foreigners, and I will execute judgments against you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.10",
+      "edition_verse_id": "BSB:EZK.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You will fall by the sword, and I will judge you even to the borders of Israel. Then you will know that I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.11",
+      "edition_verse_id": "BSB:EZK.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The city will not be a pot for you, nor will you be the meat within it. I will judge you even to the borders of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.12",
+      "edition_verse_id": "BSB:EZK.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then you will know that I am the LORD. For you have neither followed My statutes nor practiced My ordinances, but you have conformed to the ordinances of the nations around you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.13",
+      "edition_verse_id": "BSB:EZK.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now as I was prophesying, Pelatiah son of Benaiah died. Then I fell facedown and cried out in a loud voice, “Oh, Lord GOD, will You bring the remnant of Israel to a complete end?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.14",
+      "edition_verse_id": "BSB:EZK.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to me, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.15",
+      "edition_verse_id": "BSB:EZK.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Son of man, your brothers — your relatives, your fellow exiles, and the whole house of Israel — are those of whom the people of Jerusalem have said, ‘They are far away from the LORD; this land has been given to us as a possession.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.16",
+      "edition_verse_id": "BSB:EZK.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore declare that this is what the Lord GOD says: ‘Although I sent them far away among the nations and scattered them among the countries, yet for a little while I have been a sanctuary for them in the countries to which they have gone.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.17",
+      "edition_verse_id": "BSB:EZK.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore declare that this is what the Lord GOD says: ‘I will gather you from the peoples and assemble you from the countries to which you have been scattered, and I will give back to you the land of Israel.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.18",
+      "edition_verse_id": "BSB:EZK.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When they return to it, they will remove all its detestable things and all its abominations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.19",
+      "edition_verse_id": "BSB:EZK.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And I will give them singleness of heart and put a new spirit within them; I will remove their heart of stone and give them a heart of flesh,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.20",
+      "edition_verse_id": "BSB:EZK.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "so that they may follow My statutes, keep My ordinances, and practice them. Then they will be My people, and I will be their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.21",
+      "edition_verse_id": "BSB:EZK.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But as for those whose hearts pursue detestable things and abominations, I will bring their conduct down upon their own heads, declares the Lord GOD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.22",
+      "edition_verse_id": "BSB:EZK.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.23",
+      "edition_verse_id": "BSB:EZK.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the glory of the LORD rose up from within the city and stood over the mountain east of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EZK.11.24",
+      "edition_verse_id": "BSB:EZK.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the Spirit lifted me up and carried me back to Chaldea, to the exiles in the vision given by the Spirit of God. After the vision had gone up from me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EZK.11.25",
+      "edition_verse_id": "BSB:EZK.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I told the exiles everything the LORD had shown me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

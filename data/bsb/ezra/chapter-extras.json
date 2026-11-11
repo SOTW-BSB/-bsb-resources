@@ -1,0 +1,75 @@
+{
+  "edition_id": "BSB",
+  "book_code": "EZR",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Proclamation of Cyrus",
+        "\\s1 Cyrus Restores the Holy Vessels"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The List of Returning Exiles",
+        "\\s1 Offerings by the Exiles"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Sacrifices Restored",
+        "\\s1 Temple Restoration Begins"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Adversaries Hinder the Work",
+        "\\s1 Opposition under Xerxes and Artaxerxes",
+        "\\s1 The Decree of Artaxerxes"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Temple Rebuilding Resumes",
+        "\\s1 Tattenai’s Letter to Darius"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Decree of Darius",
+        "\\s1 The Temple Completed",
+        "\\s1 Dedication of the Temple",
+        "\\s1 The Returned Exiles Keep the Passover"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Ezra Arrives in Jerusalem",
+        "\\s1 Artaxerxes’ Letter for Ezra",
+        "\\s1 Ezra Blesses God"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Exiles Who Returned with Ezra",
+        "\\s1 Ezra Sends for the Levites",
+        "\\s1 Fasting for Protection",
+        "\\s1 Priests to Guard the Offerings",
+        "\\s1 Arrival in Jerusalem"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Intermarriage with Neighboring Peoples",
+        "\\s1 Ezra’s Prayer of Confession"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Shecaniah’s Encouragement",
+        "\\s1 The People’s Confession of Sin",
+        "\\s1 Those Guilty of Intermarriage"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

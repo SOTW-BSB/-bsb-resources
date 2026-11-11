@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1CH.5.1",
+      "edition_verse_id": "BSB:1CH.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These were the sons of Reuben the firstborn of Israel. Though he was the firstborn, his birthright was given to the sons of Joseph son of Israel, because Reuben defiled his father’s bed. So he is not reckoned according to birthright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.5.2",
+      "edition_verse_id": "BSB:1CH.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And though Judah prevailed over his brothers and a ruler came from him, the birthright belonged to Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.3",
+      "edition_verse_id": "BSB:1CH.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.4",
+      "edition_verse_id": "BSB:1CH.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The descendants of Joel: Shemaiah his son, Gog his son, Shimei his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.5",
+      "edition_verse_id": "BSB:1CH.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Micah his son, Reaiah his son, Baal his son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.6",
+      "edition_verse_id": "BSB:1CH.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "and Beerah his son, whom Tiglath-pileser king of Assyria carried into exile. Beerah was a leader of the Reubenites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.7",
+      "edition_verse_id": "BSB:1CH.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "His relatives by their clans are recorded in their genealogy: Jeiel the chief, Zechariah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.8",
+      "edition_verse_id": "BSB:1CH.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and Bela son of Azaz, the son of Shema, the son of Joel. They settled in Aroer and as far as Nebo and Baal-meon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.9",
+      "edition_verse_id": "BSB:1CH.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They also settled in the east as far as the edge of the desert that extends to the Euphrates River, because their livestock had increased in the land of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.10",
+      "edition_verse_id": "BSB:1CH.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "During the days of Saul they waged war against the Hagrites, who were defeated at their hands, and they occupied the dwellings of the Hagrites throughout the region east of Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.11",
+      "edition_verse_id": "BSB:1CH.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The descendants of Gad lived next to the Reubenites in the land of Bashan, as far as Salecah:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.5.12",
+      "edition_verse_id": "BSB:1CH.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Joel was the chief, Shapham the second, then Jaanai and Shaphat, who lived in Bashan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.13",
+      "edition_verse_id": "BSB:1CH.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Their kinsmen by families were Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and Eber— seven in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.14",
+      "edition_verse_id": "BSB:1CH.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "These were the sons of Abihail son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.15",
+      "edition_verse_id": "BSB:1CH.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Ahi son of Abdiel, the son of Guni, was head of their family.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.16",
+      "edition_verse_id": "BSB:1CH.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They lived in Gilead, in Bashan and its towns, and throughout the pasturelands of Sharon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.17",
+      "edition_verse_id": "BSB:1CH.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All of them were recorded in the genealogies during the reigns of Jotham king of Judah and Jeroboam king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.18",
+      "edition_verse_id": "BSB:1CH.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The Reubenites, the Gadites, and the half-tribe of Manasseh had 44,760 warriors— valiant men who carried the shield and sword, drew the bow, and were trained for battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.19",
+      "edition_verse_id": "BSB:1CH.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They waged war against the Hagrites, as well as Jetur, Naphish, and Nodab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.20",
+      "edition_verse_id": "BSB:1CH.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And because they cried out to God in battle, they were helped against their enemies, and the Hagrites and all their allies were delivered into their hands. Because they put their trust in God, He answered their prayers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.21",
+      "edition_verse_id": "BSB:1CH.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They seized the livestock of the Hagrites— 50,000 camels, 250,000 sheep, and 2,000 donkeys. They also took 100,000 captives,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.22",
+      "edition_verse_id": "BSB:1CH.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "and many others fell slain, because the battle belonged to God. And they occupied the land until the exile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.23",
+      "edition_verse_id": "BSB:1CH.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now the people of the half-tribe of Manasseh were numerous. They settled in the land from Bashan to Baal-hermon (that is, Senir, also known as Mount Hermon).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.5.24",
+      "edition_verse_id": "BSB:1CH.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "These were the heads of their families: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel. They were mighty men of valor, famous men, and heads of their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.25",
+      "edition_verse_id": "BSB:1CH.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But they were unfaithful to the God of their fathers, and they prostituted themselves with the gods of the peoples of the land, whom God had destroyed before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.5.26",
+      "edition_verse_id": "BSB:1CH.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-pileser king of Assyria) to take the Reubenites, the Gadites, and the half-tribe of Manasseh into exile. And he brought them to Halah, Habor, Hara, and the river of Gozan, where they remain to this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
