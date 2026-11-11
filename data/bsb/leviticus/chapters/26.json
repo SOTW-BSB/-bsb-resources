@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "LEV.26.1",
+      "edition_verse_id": "BSB:LEV.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“You must not make idols for yourselves or set up a carved image or sacred pillar; you must not place a sculpted stone in your land to bow down to it. For I am the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.2",
+      "edition_verse_id": "BSB:LEV.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "You must keep My Sabbaths and have reverence for My sanctuary. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.3",
+      "edition_verse_id": "BSB:LEV.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If you follow My statutes and carefully keep My commandments,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.4",
+      "edition_verse_id": "BSB:LEV.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will give you rains in their season, and the land will yield its produce, and the trees of the field will bear their fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.5",
+      "edition_verse_id": "BSB:LEV.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Your threshing will continue until the grape harvest, and the grape harvest will continue until sowing time; you will have your fill of food to eat and will dwell securely in your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.6",
+      "edition_verse_id": "BSB:LEV.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And I will give peace to the land, and you will lie down with nothing to fear. I will rid the land of dangerous animals, and no sword will pass through your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.7",
+      "edition_verse_id": "BSB:LEV.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You will pursue your enemies, and they will fall by the sword before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.8",
+      "edition_verse_id": "BSB:LEV.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Five of you will pursue a hundred, and a hundred of you will pursue ten thousand, and your enemies will fall by the sword before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.9",
+      "edition_verse_id": "BSB:LEV.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will turn toward you and make you fruitful and multiply you, and I will establish My covenant with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.10",
+      "edition_verse_id": "BSB:LEV.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You will still be eating the old supply of grain when you need to clear it out to make room for the new.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.11",
+      "edition_verse_id": "BSB:LEV.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And I will make My dwelling place among you, and My soul will not despise you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.12",
+      "edition_verse_id": "BSB:LEV.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will walk among you and be your God, and you will be My people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.13",
+      "edition_verse_id": "BSB:LEV.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I am the LORD your God, who brought you out of the land of Egypt so that you would no longer be slaves to the Egyptians. I broke the bars of your yoke and enabled you to walk in uprightness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.14",
+      "edition_verse_id": "BSB:LEV.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If, however, you fail to obey Me and to carry out all these commandments,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.15",
+      "edition_verse_id": "BSB:LEV.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and if you reject My statutes, despise My ordinances, and neglect to carry out all My commandments, and so break My covenant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.16",
+      "edition_verse_id": "BSB:LEV.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "then this is what I will do to you: I will bring upon you sudden terror, wasting disease, and fever that will destroy your sight and drain your life. You will sow your seed in vain, because your enemies will eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.17",
+      "edition_verse_id": "BSB:LEV.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And I will set My face against you, so that you will be defeated by your enemies. Those who hate you will rule over you, and you will flee when no one pursues you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.18",
+      "edition_verse_id": "BSB:LEV.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And if after all this you will not obey Me, I will proceed to punish you sevenfold for your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.19",
+      "edition_verse_id": "BSB:LEV.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I will break down your stubborn pride and make your sky like iron and your land like bronze,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.20",
+      "edition_verse_id": "BSB:LEV.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and your strength will be spent in vain. For your land will not yield its produce, and the trees of the land will not bear their fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.21",
+      "edition_verse_id": "BSB:LEV.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "If you walk in hostility toward Me and refuse to obey Me, I will multiply your plagues seven times, according to your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.22",
+      "edition_verse_id": "BSB:LEV.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I will send wild animals against you to rob you of your children, destroy your livestock, and reduce your numbers, until your roads lie desolate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.23",
+      "edition_verse_id": "BSB:LEV.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And if in spite of these things you do not accept My discipline, but continue to walk in hostility toward Me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.24",
+      "edition_verse_id": "BSB:LEV.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "then I will act with hostility toward you, and I will strike you sevenfold for your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.25",
+      "edition_verse_id": "BSB:LEV.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And I will bring a sword against you to execute the vengeance of the covenant. Though you withdraw into your cities, I will send a plague among you, and you will be delivered into the hand of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.26",
+      "edition_verse_id": "BSB:LEV.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When I cut off your supply of bread, ten women will bake your bread in a single oven and dole out your bread by weight, so that you will eat but not be satisfied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.27",
+      "edition_verse_id": "BSB:LEV.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But if in spite of all this you do not obey Me, but continue to walk in hostility toward Me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.28",
+      "edition_verse_id": "BSB:LEV.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "then I will walk in fury against you, and I, even I, will punish you sevenfold for your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.29",
+      "edition_verse_id": "BSB:LEV.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "You will eat the flesh of your own sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.30",
+      "edition_verse_id": "BSB:LEV.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will destroy your high places, cut down your incense altars, and heap your lifeless bodies on the lifeless remains of your idols; and My soul will despise you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.31",
+      "edition_verse_id": "BSB:LEV.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "I will reduce your cities to rubble and lay waste your sanctuaries, and I will refuse to smell the pleasing aroma of your sacrifices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.32",
+      "edition_verse_id": "BSB:LEV.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And I will lay waste the land, so that your enemies who dwell in it will be appalled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.33",
+      "edition_verse_id": "BSB:LEV.26.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But I will scatter you among the nations and will draw out a sword after you as your land becomes desolate and your cities are laid waste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.34",
+      "edition_verse_id": "BSB:LEV.26.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then the land shall enjoy its Sabbaths all the days it lies desolate, while you are in the land of your enemies. At that time the land will rest and enjoy its Sabbaths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.35",
+      "edition_verse_id": "BSB:LEV.26.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "As long as it lies desolate, the land will have the rest it did not receive during the Sabbaths when you lived in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.36",
+      "edition_verse_id": "BSB:LEV.26.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "As for those of you who survive, I will send a faintness into their hearts in the lands of their enemies, so that even the sound of a windblown leaf will put them to flight. And they will flee as one flees the sword, and fall when no one pursues them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.37",
+      "edition_verse_id": "BSB:LEV.26.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "They will stumble over one another as before the sword, though no one is behind them. So you will not be able to stand against your enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.38",
+      "edition_verse_id": "BSB:LEV.26.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "You will perish among the nations, and the land of your enemies will consume you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.39",
+      "edition_verse_id": "BSB:LEV.26.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Those of you who survive in the lands of your enemies will waste away in their iniquity and will decay in the sins of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.40",
+      "edition_verse_id": "BSB:LEV.26.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But if they will confess their iniquity and that of their fathers in the unfaithfulness that they practiced against Me, by which they have also walked in hostility toward Me—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.41",
+      "edition_verse_id": "BSB:LEV.26.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "and I acted with hostility toward them and brought them into the land of their enemies— and if their uncircumcised hearts will be humbled and they will make amends for their iniquity,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.42",
+      "edition_verse_id": "BSB:LEV.26.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "then I will remember My covenant with Jacob and My covenant with Isaac and My covenant with Abraham, and I will remember the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.43",
+      "edition_verse_id": "BSB:LEV.26.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "For the land will be abandoned by them, and it will enjoy its Sabbaths by lying desolate without them. And they will pay the penalty for their iniquity, because they rejected My ordinances and abhorred My statutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.44",
+      "edition_verse_id": "BSB:LEV.26.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Yet in spite of this, when they are in the land of their enemies, I will not reject or despise them so as to destroy them and break My covenant with them; for I am the LORD their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.26.45",
+      "edition_verse_id": "BSB:LEV.26.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "But for their sake I will remember the covenant with their fathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.26.46",
+      "edition_verse_id": "BSB:LEV.26.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "These are the statutes, ordinances, and laws that the LORD established between Himself and the Israelites through Moses on Mount Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

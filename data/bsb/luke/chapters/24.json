@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "LUK.24.1",
+      "edition_verse_id": "BSB:LUK.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.2",
+      "edition_verse_id": "BSB:LUK.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "They found the stone rolled away from the tomb,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.3",
+      "edition_verse_id": "BSB:LUK.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "but when they entered, they did not find the body of the Lord Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.4",
+      "edition_verse_id": "BSB:LUK.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "While they were puzzling over this, suddenly two men in radiant apparel stood beside them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.5",
+      "edition_verse_id": "BSB:LUK.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As the women bowed their faces to the ground in terror, the two men asked them, “Why do you look for the living among the dead?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.6",
+      "edition_verse_id": "BSB:LUK.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He is not here; He has risen! Remember how He told you while He was still in Galilee:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.7",
+      "edition_verse_id": "BSB:LUK.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "‘The Son of Man must be delivered into the hands of sinful men, and be crucified, and on the third day rise again.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.8",
+      "edition_verse_id": "BSB:LUK.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then they remembered His words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.9",
+      "edition_verse_id": "BSB:LUK.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when they returned from the tomb, they reported all these things to the Eleven and to all the others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.10",
+      "edition_verse_id": "BSB:LUK.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told this to the apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.11",
+      "edition_verse_id": "BSB:LUK.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But their words seemed like nonsense to them, and they did not believe the women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.12",
+      "edition_verse_id": "BSB:LUK.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Peter, however, got up and ran to the tomb. And after bending down and seeing only the linen cloths, he went away, wondering to himself what had happened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.13",
+      "edition_verse_id": "BSB:LUK.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "That same day two of them were going to a village called Emmaus, about seven miles from Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.14",
+      "edition_verse_id": "BSB:LUK.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They were talking with each other about everything that had happened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.15",
+      "edition_verse_id": "BSB:LUK.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And as they talked and deliberated, Jesus Himself came up and walked along with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.16",
+      "edition_verse_id": "BSB:LUK.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But their eyes were kept from recognizing Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.17",
+      "edition_verse_id": "BSB:LUK.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He asked them, “What are you discussing so intently as you walk along?” They stood still, with sadness on their faces.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.18",
+      "edition_verse_id": "BSB:LUK.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "One of them, named Cleopas, asked Him, “Are You the only visitor to Jerusalem who does not know the things that have happened there in recent days?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.19",
+      "edition_verse_id": "BSB:LUK.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“What things?” He asked. “The events involving Jesus of Nazareth,” they answered. “This man was a prophet, powerful in speech and action before God and all the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.20",
+      "edition_verse_id": "BSB:LUK.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Our chief priests and rulers delivered Him up to the sentence of death, and they crucified Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.21",
+      "edition_verse_id": "BSB:LUK.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But we were hoping He was the One who would redeem Israel. And besides all this, it is the third day since these things took place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.22",
+      "edition_verse_id": "BSB:LUK.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Furthermore, some of our women astounded us. They were at the tomb early this morning,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.23",
+      "edition_verse_id": "BSB:LUK.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "but they did not find His body. They came and told us they had seen a vision of angels, who said that Jesus was alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.24",
+      "edition_verse_id": "BSB:LUK.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then some of our companions went to the tomb and found it just as the women had described. But Him they did not see.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.25",
+      "edition_verse_id": "BSB:LUK.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Jesus said to them, “O foolish ones, and slow of heart to believe all that the prophets have spoken!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.26",
+      "edition_verse_id": "BSB:LUK.24.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Was it not necessary for the Christ to suffer these things and then to enter His glory?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.27",
+      "edition_verse_id": "BSB:LUK.24.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And beginning with Moses and all the Prophets, He explained to them what was written in all the Scriptures about Himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.28",
+      "edition_verse_id": "BSB:LUK.24.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "As they approached the village where they were headed, He seemed to be going farther.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.29",
+      "edition_verse_id": "BSB:LUK.24.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But they pleaded with Him, “Stay with us, for it is nearly evening and the day is almost over.” So He went in to stay with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.30",
+      "edition_verse_id": "BSB:LUK.24.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "While He was reclining at the table with them, He took bread, spoke a blessing and broke it, and gave it to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.31",
+      "edition_verse_id": "BSB:LUK.24.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then their eyes were opened and they recognized Jesus — and He disappeared from their sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.32",
+      "edition_verse_id": "BSB:LUK.24.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "They asked each other, “Were not our hearts burning within us as He spoke with us on the road and opened the Scriptures to us?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.33",
+      "edition_verse_id": "BSB:LUK.24.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And they got up that very hour and returned to Jerusalem. There they found the Eleven and those with them, gathered together",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.34",
+      "edition_verse_id": "BSB:LUK.24.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "and saying, “The Lord has indeed risen and has appeared to Simon!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.35",
+      "edition_verse_id": "BSB:LUK.24.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then the two told what had happened on the road, and how they had recognized Jesus in the breaking of the bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.36",
+      "edition_verse_id": "BSB:LUK.24.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "While they were describing these events, Jesus Himself stood among them and said, “Peace be with you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.37",
+      "edition_verse_id": "BSB:LUK.24.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But they were startled and frightened, thinking they had seen a spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.38",
+      "edition_verse_id": "BSB:LUK.24.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "“Why are you troubled,” Jesus asked, “and why do doubts arise in your hearts?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.39",
+      "edition_verse_id": "BSB:LUK.24.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Look at My hands and My feet. It is I Myself. Touch Me and see — for a spirit does not have flesh and bones, as you see I have.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.40",
+      "edition_verse_id": "BSB:LUK.24.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And when He had said this, He showed them His hands and feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.41",
+      "edition_verse_id": "BSB:LUK.24.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "While they were still in disbelief because of their joy and amazement, He asked them, “Do you have anything here to eat?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.42",
+      "edition_verse_id": "BSB:LUK.24.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "So they gave Him a piece of broiled fish,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.43",
+      "edition_verse_id": "BSB:LUK.24.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "and He took it and ate it in front of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.44",
+      "edition_verse_id": "BSB:LUK.24.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Jesus said to them, “These are the words I spoke to you while I was still with you: Everything must be fulfilled that is written about Me in the Law of Moses, the Prophets, and the Psalms.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.45",
+      "edition_verse_id": "BSB:LUK.24.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then He opened their minds to understand the Scriptures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.46",
+      "edition_verse_id": "BSB:LUK.24.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "And He told them, “This is what is written: The Christ will suffer and rise from the dead on the third day,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.47",
+      "edition_verse_id": "BSB:LUK.24.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "and in His name repentance and forgiveness of sins will be proclaimed to all nations, beginning in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.48",
+      "edition_verse_id": "BSB:LUK.24.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "You are witnesses of these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.49",
+      "edition_verse_id": "BSB:LUK.24.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And behold, I am sending the promise of My Father upon you. But remain in the city until you have been clothed with power from on high.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.50",
+      "edition_verse_id": "BSB:LUK.24.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "When Jesus had led them out as far as Bethany, He lifted up His hands and blessed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.24.51",
+      "edition_verse_id": "BSB:LUK.24.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "While He was blessing them, He left them and was carried up into heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.52",
+      "edition_verse_id": "BSB:LUK.24.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And they worshiped Him and returned to Jerusalem with great joy,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.24.53",
+      "edition_verse_id": "BSB:LUK.24.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "praising God continually in the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

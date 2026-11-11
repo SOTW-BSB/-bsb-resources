@@ -1,0 +1,680 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "LUK.8.1",
+      "edition_verse_id": "BSB:LUK.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Soon afterward, Jesus traveled from one town and village to another, preaching and proclaiming the good news of the kingdom of God. The Twelve were with Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.2",
+      "edition_verse_id": "BSB:LUK.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "as well as some women who had been healed of evil spirits and infirmities: Mary called Magdalene, from whom seven demons had gone out,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.3",
+      "edition_verse_id": "BSB:LUK.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Joanna the wife of Herod’s household manager Chuza, Susanna, and many others. These women were ministering to them out of their own means.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.4",
+      "edition_verse_id": "BSB:LUK.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "While a large crowd was gathering and people were coming to Jesus from town after town, He told them this parable:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.5",
+      "edition_verse_id": "BSB:LUK.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“A farmer went out to sow his seed. And as he was sowing, some seed fell along the path, where it was trampled, and the birds of the air devoured it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.6",
+      "edition_verse_id": "BSB:LUK.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Some fell on rocky ground, and when it came up, the seedlings withered because they had no moisture.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.7",
+      "edition_verse_id": "BSB:LUK.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Other seed fell among thorns, which grew up with it and choked the seedlings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.8",
+      "edition_verse_id": "BSB:LUK.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Still other seed fell on good soil, where it sprang up and produced a crop — a hundredfold.” As Jesus said this, He called out, “He who has ears to hear, let him hear.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.9",
+      "edition_verse_id": "BSB:LUK.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then His disciples asked Him what this parable meant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.10",
+      "edition_verse_id": "BSB:LUK.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He replied, “The knowledge of the mysteries of the kingdom of God has been given to you, but to others I speak in parables, so that, ‘though seeing, they may not see; though hearing, they may not understand.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.11",
+      "edition_verse_id": "BSB:LUK.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now this is the meaning of the parable: The seed is the word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.12",
+      "edition_verse_id": "BSB:LUK.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The seeds along the path are those who hear, but the devil comes and takes away the word from their hearts, so that they may not believe and be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.13",
+      "edition_verse_id": "BSB:LUK.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The seeds on rocky ground are those who hear the word and receive it with joy, but they have no root. They believe for a season, but in the time of testing, they fall away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.14",
+      "edition_verse_id": "BSB:LUK.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The seeds that fell among the thorns are those who hear, but as they go on their way, they are choked by the worries, riches, and pleasures of this life, and their fruit does not mature.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.15",
+      "edition_verse_id": "BSB:LUK.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But the seeds on good soil are those with a noble and good heart, who hear the word, cling to it, and by persevering produce a crop.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.16",
+      "edition_verse_id": "BSB:LUK.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "No one lights a lamp and covers it with a jar or puts it under a bed. Instead, he sets it on a stand, so those who enter can see the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.17",
+      "edition_verse_id": "BSB:LUK.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be made known and brought to light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.18",
+      "edition_verse_id": "BSB:LUK.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Pay attention, therefore, to how you listen. Whoever has will be given more, but whoever does not have, even what he thinks he has will be taken away from him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.19",
+      "edition_verse_id": "BSB:LUK.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then Jesus’ mother and brothers came to see Him, but they were unable to reach Him because of the crowd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.20",
+      "edition_verse_id": "BSB:LUK.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He was told, “Your mother and brothers are standing outside, wanting to see You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.21",
+      "edition_verse_id": "BSB:LUK.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But He replied, “My mother and brothers are those who hear the word of God and carry it out.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.22",
+      "edition_verse_id": "BSB:LUK.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "One day Jesus said to His disciples, “Let us cross to the other side of the lake.” So He got into a boat with them and set out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.23",
+      "edition_verse_id": "BSB:LUK.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "As they sailed, He fell asleep, and a windstorm came down on the lake, so that the boat was being swamped, and they were in great danger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.24",
+      "edition_verse_id": "BSB:LUK.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The disciples went and woke Him, saying, “Master, Master, we are perishing!” Then Jesus got up and rebuked the wind and the raging waters, and they subsided, and all was calm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.25",
+      "edition_verse_id": "BSB:LUK.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "“Where is your faith?” He asked. Frightened and amazed, they asked one another, “Who is this? He commands even the winds and the water, and they obey Him!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.26",
+      "edition_verse_id": "BSB:LUK.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then they sailed to the region of the Gerasenes, across the lake from Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.27",
+      "edition_verse_id": "BSB:LUK.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When Jesus stepped ashore, He was met by a demon-possessed man from the town. For a long time this man had not worn clothing or lived in a house, but he stayed in the tombs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.28",
+      "edition_verse_id": "BSB:LUK.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When the man saw Jesus, he cried out and fell down before Him, shouting in a loud voice, “What do You want with me, Jesus, Son of the Most High God? I beg You not to torture me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.29",
+      "edition_verse_id": "BSB:LUK.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "For Jesus had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was bound with chains and shackles, he had broken the chains and been driven by the demon into solitary places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.30",
+      "edition_verse_id": "BSB:LUK.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "“What is your name?” Jesus asked. “Legion,” he replied, because many demons had gone into him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.31",
+      "edition_verse_id": "BSB:LUK.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And the demons kept begging Jesus not to order them to go into the Abyss.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.32",
+      "edition_verse_id": "BSB:LUK.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "There on the hillside a large herd of pigs was feeding. So the demons begged Jesus to let them enter the pigs, and He gave them permission.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.33",
+      "edition_verse_id": "BSB:LUK.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then the demons came out of the man and went into the pigs, and the herd rushed down the steep bank into the lake and was drowned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.34",
+      "edition_verse_id": "BSB:LUK.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When those tending the pigs saw what had happened, they ran off and reported this in the town and countryside.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.35",
+      "edition_verse_id": "BSB:LUK.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "So the people went out to see what had happened. They came to Jesus and found the man whom the demons had left, sitting at Jesus’ feet, clothed and in his right mind; and they were afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.36",
+      "edition_verse_id": "BSB:LUK.8.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Meanwhile, those who had seen it reported how the demon-possessed man had been healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.37",
+      "edition_verse_id": "BSB:LUK.8.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Then all the people of the region of the Gerasenes asked Jesus to depart from them, because great fear had taken hold of them. So He got into the boat and started back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.38",
+      "edition_verse_id": "BSB:LUK.8.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "The man whom the demons had left begged to go with Jesus. But He sent him away, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.39",
+      "edition_verse_id": "BSB:LUK.8.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "“Return home and describe how much God has done for you.” So the man went away and proclaimed all over the town how much Jesus had done for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.40",
+      "edition_verse_id": "BSB:LUK.8.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "When Jesus returned, the crowd welcomed Him, for they had all been waiting for Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.41",
+      "edition_verse_id": "BSB:LUK.8.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Just then a synagogue leader named Jairus came and fell at Jesus’ feet. He begged Him to come to his house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.42",
+      "edition_verse_id": "BSB:LUK.8.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "because his only daughter, who was about twelve, was dying. As Jesus went with him, the crowds pressed around Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.43",
+      "edition_verse_id": "BSB:LUK.8.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "including a woman who had suffered from bleeding for twelve years. She had spent all her money on physicians, but no one was able to heal her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.44",
+      "edition_verse_id": "BSB:LUK.8.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "She came up behind Jesus and touched the fringe of His cloak, and immediately her bleeding stopped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.45",
+      "edition_verse_id": "BSB:LUK.8.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "“Who touched Me?” Jesus asked. But they all denied it. “Master,” said Peter, “the people are crowding and pressing against You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.46",
+      "edition_verse_id": "BSB:LUK.8.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "But Jesus declared, “Someone touched Me, for I know that power has gone out from Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.47",
+      "edition_verse_id": "BSB:LUK.8.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Then the woman, seeing that she could not escape notice, came trembling and fell down before Him. In the presence of all the people, she explained why she had touched Him and how she had immediately been healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.48",
+      "edition_verse_id": "BSB:LUK.8.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "“Daughter,” said Jesus, “your faith has healed you. Go in peace.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.49",
+      "edition_verse_id": "BSB:LUK.8.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "While He was still speaking, someone arrived from the house of the synagogue leader. “Your daughter is dead,” he told Jairus. “Do not bother the Teacher anymore.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.50",
+      "edition_verse_id": "BSB:LUK.8.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "But Jesus overheard them and said to Jairus, “Do not be afraid; just believe, and she will be healed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.51",
+      "edition_verse_id": "BSB:LUK.8.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "When He entered the house, He did not allow anyone to go in with Him except Peter, John, James, and the child’s father and mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.52",
+      "edition_verse_id": "BSB:LUK.8.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Meanwhile, everyone was weeping and mourning for her. But Jesus said, “Stop weeping; she is not dead but asleep.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.53",
+      "edition_verse_id": "BSB:LUK.8.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "And they laughed at Him, knowing that she was dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.54",
+      "edition_verse_id": "BSB:LUK.8.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "But Jesus took her by the hand and called out, “Child, get up!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.8.55",
+      "edition_verse_id": "BSB:LUK.8.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "Her spirit returned, and at once she got up. And He directed that she be given something to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.8.56",
+      "edition_verse_id": "BSB:LUK.8.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "Her parents were astounded, but Jesus ordered them not to tell anyone what had happened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

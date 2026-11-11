@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "LEV.7.1",
+      "edition_verse_id": "BSB:LEV.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Now this is the law of the guilt offering, which is most holy:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.2",
+      "edition_verse_id": "BSB:LEV.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The guilt offering must be slaughtered in the place where the burnt offering is slaughtered, and the priest shall splatter its blood on all sides of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.3",
+      "edition_verse_id": "BSB:LEV.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And all the fat from it shall be offered: the fat tail, the fat that covers the entrails,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.4",
+      "edition_verse_id": "BSB:LEV.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "both kidneys with the fat on them near the loins, and the lobe of the liver, which is to be removed with the kidneys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.5",
+      "edition_verse_id": "BSB:LEV.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The priest shall burn them on the altar as a food offering to the LORD; it is a guilt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.6",
+      "edition_verse_id": "BSB:LEV.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Every male among the priests may eat of it. It must be eaten in a holy place; it is most holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.7",
+      "edition_verse_id": "BSB:LEV.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The guilt offering is like the sin offering; the same law applies to both. It belongs to the priest who makes atonement with it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.8",
+      "edition_verse_id": "BSB:LEV.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "As for the priest who presents a burnt offering for anyone, the hide of that offering belongs to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.9",
+      "edition_verse_id": "BSB:LEV.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Likewise , every grain offering that is baked in an oven or cooked in a pan or on a griddle belongs to the priest who presents it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.10",
+      "edition_verse_id": "BSB:LEV.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and every grain offering, whether dry or mixed with oil, belongs equally to all the sons of Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.11",
+      "edition_verse_id": "BSB:LEV.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now this is the law of the peace offering that one may present to the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.12",
+      "edition_verse_id": "BSB:LEV.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If he offers it in thanksgiving, then along with the sacrifice of thanksgiving he shall offer unleavened cakes mixed with olive oil, unleavened wafers coated with oil, and well-kneaded cakes of fine flour mixed with oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.13",
+      "edition_verse_id": "BSB:LEV.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Along with his peace offering of thanksgiving he is to present an offering with cakes of leavened bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.14",
+      "edition_verse_id": "BSB:LEV.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "From the cakes he must present one portion of each offering as a contribution to the LORD. It belongs to the priest who sprinkles the blood of the peace offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.15",
+      "edition_verse_id": "BSB:LEV.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The meat of the sacrifice of his peace offering of thanksgiving must be eaten on the day he offers it; none of it may be left until morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.16",
+      "edition_verse_id": "BSB:LEV.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If, however, the sacrifice he offers is a vow or a freewill offering, it shall be eaten on the day he presents his sacrifice, but the remainder may be eaten on the next day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.17",
+      "edition_verse_id": "BSB:LEV.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But any meat of the sacrifice remaining until the third day must be burned up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.18",
+      "edition_verse_id": "BSB:LEV.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If any of the meat from his peace offering is eaten on the third day, it will not be accepted. It will not be credited to the one who presented it; it shall be an abomination, and the one who eats of it shall bear his iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.19",
+      "edition_verse_id": "BSB:LEV.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Meat that touches anything unclean must not be eaten; it is to be burned up. As for any other meat, anyone who is ceremonially clean may eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.20",
+      "edition_verse_id": "BSB:LEV.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But if anyone who is unclean eats meat from the peace offering that belongs to the LORD, that person must be cut off from his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.21",
+      "edition_verse_id": "BSB:LEV.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "If one touches anything unclean, whether human uncleanness, an unclean animal, or any unclean, detestable thing, and then eats any of the meat of the peace offering that belongs to the LORD, that person must be cut off from his people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.22",
+      "edition_verse_id": "BSB:LEV.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.23",
+      "edition_verse_id": "BSB:LEV.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and say, ‘You are not to eat any of the fat of an ox, a sheep, or a goat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.24",
+      "edition_verse_id": "BSB:LEV.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The fat of an animal found dead or mauled by wild beasts may be used for any other purpose, but you must not eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.25",
+      "edition_verse_id": "BSB:LEV.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "If anyone eats the fat of an animal from which a food offering may be presented to the LORD, the one who eats it must be cut off from his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.26",
+      "edition_verse_id": "BSB:LEV.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "You must not eat the blood of any bird or animal in any of your dwellings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.27",
+      "edition_verse_id": "BSB:LEV.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "If anyone eats blood, that person must be cut off from his people.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.28",
+      "edition_verse_id": "BSB:LEV.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.29",
+      "edition_verse_id": "BSB:LEV.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and say, ‘Anyone who presents a peace offering to the LORD must bring it as his sacrifice to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.30",
+      "edition_verse_id": "BSB:LEV.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "With his own hands he is to bring the food offerings to the LORD; he shall bring the fat, together with the breast, and wave the breast as a wave offering before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.31",
+      "edition_verse_id": "BSB:LEV.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The priest is to burn the fat on the altar, but the breast belongs to Aaron and his sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.32",
+      "edition_verse_id": "BSB:LEV.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And you are to give the right thigh to the priest as a contribution from your peace offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.33",
+      "edition_verse_id": "BSB:LEV.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The son of Aaron who presents the blood and fat of the peace offering shall have the right thigh as a portion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.34",
+      "edition_verse_id": "BSB:LEV.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "I have taken from the sons of Israel the breast of the wave offering and the thigh of the contribution of their peace offerings, and I have given them to Aaron the priest and his sons as a permanent portion from the sons of Israel.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.35",
+      "edition_verse_id": "BSB:LEV.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "This is the portion of the food offerings to the LORD for Aaron and his sons since the day they were presented to serve the LORD as priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.36",
+      "edition_verse_id": "BSB:LEV.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "On the day they were anointed, the LORD commanded that this be given them by the sons of Israel. It is a permanent portion for the generations to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.7.37",
+      "edition_verse_id": "BSB:LEV.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "This is the law of the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the peace offering,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.7.38",
+      "edition_verse_id": "BSB:LEV.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "which the LORD gave Moses on Mount Sinai on the day He commanded the Israelites to present their offerings to the LORD in the Wilderness of Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

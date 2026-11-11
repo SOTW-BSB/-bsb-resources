@@ -1,0 +1,185 @@
+{
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Laws for Burnt Offerings"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Laws for Grain Offerings"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Laws for Peace Offerings"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Laws for Sin Offerings"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Sins Requiring a Sin Offering",
+        "\\s1 Laws for Guilt Offerings"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Sins Requiring a Guilt Offering",
+        "\\s1 The Burnt Offering",
+        "\\s1 The Grain Offering",
+        "\\s1 The Sin Offering"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 The Guilt Offering",
+        "\\s1 The Peace Offering",
+        "\\s1 Fat and Blood Forbidden",
+        "\\s1 The Priests’ Portion"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Moses Consecrates Aaron and His Sons",
+        "\\s1 The Priests’ Sin Offering",
+        "\\s1 The Priests’ Burnt Offering",
+        "\\s1 The Ram of Ordination"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Aaron’s First Offerings"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 The Sin of Nadab and Abihu",
+        "\\s1 Restrictions for Priests"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Clean and Unclean Animals"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Purification after Childbirth"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Laws about Skin Diseases",
+        "\\s1 Laws about Mildew"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Cleansing from Skin Diseases",
+        "\\s1 Signs of Home Contamination",
+        "\\s1 Cleansing a Home"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 The Uncleanness of Men",
+        "\\s1 The Cleansing of Men",
+        "\\s1 The Uncleanness of Women",
+        "\\s1 The Cleansing of Women"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 The Day of Atonement"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 The Place of Sacrifice",
+        "\\s1 Laws against Eating Blood"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 Unlawful Sexual Relations"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 Commandments for Holiness",
+        "\\s1 Love Your Neighbor",
+        "\\s1 Keep My Statutes"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Punishments for Disobedience",
+        "\\s1 Punishments for Sexual Immorality",
+        "\\s1 Distinguish between Clean and Unclean"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 Holiness Required of Priests",
+        "\\s1 Restrictions against Those with Blemishes"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 Restrictions against the Unclean",
+        "\\s1 Worthy Offerings"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 Feasts and Sabbaths",
+        "\\s1 Passover and the Feast of Unleavened Bread",
+        "\\s1 The Feast of Firstfruits",
+        "\\s1 The Feast of Weeks",
+        "\\s1 The Feast of Trumpets",
+        "\\s1 The Day of Atonement",
+        "\\s1 The Feast of Tabernacles"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 The Oil for the Lamps",
+        "\\s1 The Showbread",
+        "\\s1 Punishment for Blasphemy",
+        "\\s1 An Eye for an Eye"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 The Seventh Year",
+        "\\s1 The Year of Jubilee",
+        "\\s1 Return of Property",
+        "\\s1 The Blessing of Obedience",
+        "\\s1 The Law of Redemption",
+        "\\s1 Redemption of the Poor",
+        "\\s1 Redemption of Bondmen",
+        "\\s1 Redemption of Servants"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 Additional Blessings of Obedience",
+        "\\s1 Punishments for Disobedience",
+        "\\s1 God Remembers Those Who Repent"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 Rules about Valuations",
+        "\\s1 Instruction on Tithes"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

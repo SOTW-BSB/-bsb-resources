@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LAM",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "LAM.5.1",
+      "edition_verse_id": "BSB:LAM.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Remember, O LORD, what has happened to us. Look and see our disgrace!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.5.2",
+      "edition_verse_id": "BSB:LAM.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Our inheritance has been turned over to strangers, our houses to foreigners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.3",
+      "edition_verse_id": "BSB:LAM.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "We have become fatherless orphans; our mothers are widows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.4",
+      "edition_verse_id": "BSB:LAM.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We must buy the water we drink; our wood comes at a price.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.5",
+      "edition_verse_id": "BSB:LAM.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "We are closely pursued; we are weary and find no rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.6",
+      "edition_verse_id": "BSB:LAM.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We submitted to Egypt and Assyria to get enough bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.7",
+      "edition_verse_id": "BSB:LAM.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Our fathers sinned and are no more, but we bear their punishment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.8",
+      "edition_verse_id": "BSB:LAM.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Slaves rule over us; there is no one to deliver us from their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.9",
+      "edition_verse_id": "BSB:LAM.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "We get our bread at the risk of our lives because of the sword in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.10",
+      "edition_verse_id": "BSB:LAM.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Our skin is as hot as an oven with fever from our hunger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.11",
+      "edition_verse_id": "BSB:LAM.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Women have been ravished in Zion, virgins in the cities of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.12",
+      "edition_verse_id": "BSB:LAM.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Princes have been hung up by their hands; elders receive no respect.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.13",
+      "edition_verse_id": "BSB:LAM.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Young men toil at millstones; boys stagger under loads of wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.14",
+      "edition_verse_id": "BSB:LAM.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The elders have left the city gate; the young men have stopped their music.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.15",
+      "edition_verse_id": "BSB:LAM.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Joy has left our hearts; our dancing has turned to mourning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.16",
+      "edition_verse_id": "BSB:LAM.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The crown has fallen from our head. Woe to us, for we have sinned!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.17",
+      "edition_verse_id": "BSB:LAM.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Because of this, our hearts are faint; because of these, our eyes grow dim—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.18",
+      "edition_verse_id": "BSB:LAM.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "because of Mount Zion, which lies desolate, patrolled by foxes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.19",
+      "edition_verse_id": "BSB:LAM.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You, O LORD, reign forever; Your throne endures from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.20",
+      "edition_verse_id": "BSB:LAM.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Why have You forgotten us forever? Why have You forsaken us for so long?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.21",
+      "edition_verse_id": "BSB:LAM.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Restore us to Yourself, O LORD, so we may return; renew our days as of old,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.5.22",
+      "edition_verse_id": "BSB:LAM.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "unless You have utterly rejected us and remain angry with us beyond measure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

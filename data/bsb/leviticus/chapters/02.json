@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "LEV.2.1",
+      "edition_verse_id": "BSB:LEV.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“When anyone brings a grain offering to the LORD, his offering must consist of fine flour. He is to pour olive oil on it, put frankincense on it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.2",
+      "edition_verse_id": "BSB:LEV.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and bring it to Aaron’s sons the priests. The priest shall take a handful of the flour and oil, together with all the frankincense, and burn this as a memorial portion on the altar, a food offering, a pleasing aroma to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.3",
+      "edition_verse_id": "BSB:LEV.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The remainder of the grain offering shall belong to Aaron and his sons; it is a most holy part of the food offerings to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.4",
+      "edition_verse_id": "BSB:LEV.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now if you bring an offering of grain baked in an oven, it must consist of fine flour, either unleavened cakes mixed with oil or unleavened wafers coated with oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.5",
+      "edition_verse_id": "BSB:LEV.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If your offering is a grain offering prepared on a griddle, it must be unleavened bread made of fine flour mixed with oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.6",
+      "edition_verse_id": "BSB:LEV.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Crumble it and pour oil on it; it is a grain offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.7",
+      "edition_verse_id": "BSB:LEV.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If your offering is a grain offering cooked in a pan, it must consist of fine flour with oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.8",
+      "edition_verse_id": "BSB:LEV.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When you bring to the LORD the grain offering made in any of these ways, it is to be presented to the priest, and he shall take it to the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.9",
+      "edition_verse_id": "BSB:LEV.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The priest is to remove the memorial portion from the grain offering and burn it on the altar as a food offering, a pleasing aroma to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.10",
+      "edition_verse_id": "BSB:LEV.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But the remainder of the grain offering shall belong to Aaron and his sons; it is a most holy part of the food offerings to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.11",
+      "edition_verse_id": "BSB:LEV.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "No grain offering that you present to the LORD may be made with leaven, for you are not to burn any leaven or honey as a food offering to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.12",
+      "edition_verse_id": "BSB:LEV.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You may bring them to the LORD as an offering of firstfruits, but they must not go up on the altar as a pleasing aroma.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.13",
+      "edition_verse_id": "BSB:LEV.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And you shall season each of your grain offerings with salt. You must not leave the salt of the covenant of your God out of your grain offering; you are to add salt to each of your offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.14",
+      "edition_verse_id": "BSB:LEV.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If you bring a grain offering of firstfruits to the LORD, you shall offer crushed heads of new grain roasted on the fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.2.15",
+      "edition_verse_id": "BSB:LEV.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And you are to put oil and frankincense on it; it is a grain offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.2.16",
+      "edition_verse_id": "BSB:LEV.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The priest shall then burn the memorial portion of the crushed grain and the oil, together with all its frankincense, as a food offering to the LORD.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapters": {
+    "1": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 1:16 \\ft Or \\fqa the crop and feathers\\f*",
+          "raw_sha256": "3865b15dc4aa279e6034468d978c7c21dd4638a474ac0d3103bcb39eb965cd33"
+        }
+      ]
+    },
+    "2": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 2:5 \\ft That is, a shallow pan for baking or frying\\f*",
+          "raw_sha256": "1ecbe72bea1f2ef9c2300c8a6492e5f4f77cb104f46c5a24227da3b69501be43"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft That is, a deep pan or stew pan\\f*",
+          "raw_sha256": "21faa40849960b164891cd48cdb891269a65000df7789528987c2c2f80ec15ab"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft Or \\fqa purification offering\\ft ; here and throughout Leviticus\\f*",
+          "raw_sha256": "54e24f867a5e6eaab0a727ea5e266ee8e2e1aea1ef5a1c21f56d307a1ebcd4d7"
+        }
+      ]
+    },
+    "5": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 5:11 \\fqa A tenth of an ephah \\ft is approximately 2 dry quarts or 2.2 liters (probably about 2.6 pounds or 1.2 kilograms of flour).\\f*",
+          "raw_sha256": "d34f7395b4cf918f3b0bd73a02b6b686628fadbe9c14f3ec229fcefb1574c99f"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 5:15 \\ft Or \\fqa flock or its equivalence\\f*",
+          "raw_sha256": "281a8463bac15d8ca5ef9ec7bc888016cf73ae1d8580867dcf99959895184553"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:15 \\fqa A shekel \\ft is approximately 0.4 ounces or 11.4 grams of silver.\\f*",
+          "raw_sha256": "636acf2de79145627f44a83224e043c1014a2e036af544f16171bdff8d34b3f1"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 5:19 \\ft Or \\fqa he has paid full compensation\\f*",
+          "raw_sha256": "e35e3fd5789eb05ca0be560c3e7c179e998cae483cc611b52a66fa5cf74b0ad5"
+        }
+      ]
+    },
+    "6": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 6:20 \\fqa A tenth of an ephah \\ft is approximately 2 dry quarts or 2.2 liters (probably about 2.6 pounds or 1.2 kilograms of flour).\\f*",
+          "raw_sha256": "c1640c7be3b88aef7f768cee6f51d9db151b899042a55f048728807007bb3afe"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 6:21 \\ft That is, a shallow pan for baking or frying\\f*",
+          "raw_sha256": "9b7e619f9b2a8c46e55e465b48d567449a9b408cf0c9b9df30b3e69b46125916"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:21 \\ft Or \\fqa baked\\f*",
+          "raw_sha256": "7ff76bf45cda531a2c04160aec63672ed0c06712b90e3821ea758639aa750925"
+        }
+      ]
+    },
+    "7": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 7:9 \\ft That is, a deep pan or stew pan\\f*",
+          "raw_sha256": "e2c22014157af4b5394e21a5e1b783ce961a2a257f4ce8cb9dbdc30abbe3373f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:9 \\ft That is, a shallow pan for baking or frying\\f*",
+          "raw_sha256": "a860543c5a16fb233e857f70f9a4425624a9737a6f0762d7d94613cd17fda19f"
+        }
+      ]
+    },
+    "8": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 8:8 \\ft Literally \\fqa Lights and Perfections\\f*",
+          "raw_sha256": "320456487a8c16536c2cf1669c0dcd0cf00df93c04fa0d3f1e8da12b9a381467"
+        }
+      ]
+    },
+    "9": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 9:4 \\ft Or \\fqa a bull \\ft or \\fqa a cow\\ft ; also in verses 18 and 19\\f*",
+          "raw_sha256": "abad9a3ecab1275647daebeca8e800da932dc694180dd070cb4941da301e6f00"
+        }
+      ]
+    },
+    "10": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 10:1 \\ft Or \\fqa strange\\f*",
+          "raw_sha256": "be270ae29f740bc533015cc0c03ef0b500359b2f6ef2b04e309ade35a0834fc5"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 10:4 \\fqa Elzaphan \\ft is a variant of \\fqa Elizaphan\\ft ; see \\ref Numbers 3:30|NUM 3:30\\ref*.\\f*",
+          "raw_sha256": "11120d06a4e8593798247c44d6e16d1022f33fee702f1f3e6acd8d2699ae82a2"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft Or \\fqa Do not uncover your heads\\f*",
+          "raw_sha256": "e34db56a1d1842e084fef902a0d59b3b2896fc1d407cdc0a52873c2852f8f8b8"
+        }
+      ]
+    },
+    "11": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 11:4 \\ft The precise identification of some of the birds and animals in this chapter is uncertain.\\f*",
+          "raw_sha256": "d0d86c14d48cea597af8da07f42c3a818d9675d141954cca336cd0ca3809aa52"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 11:5 \\ft Or \\fqa The coney \\ft or \\fqa The hyrax\\f*",
+          "raw_sha256": "3bee0acf2fe48df89cebacea6e159bb41b2dd0fe3b65e1e5e68b9fb443ddcd88"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 11:16 \\ft Literally \\fqa the daughter of the ostrich \\ft or \\fqa the daughter of the owl\\f*",
+          "raw_sha256": "5603d36e7fc8a7adbf4406649e9668541bd881488068a151094dfc153e8dd1ca"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 11:26 \\ft Literally \\fqa a split hoof not completely divided\\f*",
+          "raw_sha256": "7e3a22a287d1a5856497424e7c50f0f5b77c2c061584494217a70ed5e56d47a3"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 11:44 \\ft Here and in verse 45; cited in \\ref 1 Peter 1:16|1PE 1:16\\ref*\\f*",
+          "raw_sha256": "7f8ab89332974cab72926061ea15207792947354c8cd42beef2cfdbce7924b2e"
+        }
+      ]
+    },
+    "12": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 12:8 \\ft Cited in \\ref Luke 2:24|LUK 2:24\\ref*\\f*",
+          "raw_sha256": "e55a94933ae4e06c32419ff081434bf0377905a61c0cb84b43d70f99398b879b"
+        }
+      ]
+    },
+    "13": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 13:2 \\ft Forms of the Hebrew \\fqa tzaraath\\ft , traditionally translated as \\fqa leprosy\\ft , were used for various skin diseases; here and throughout verses 3–46.\\f*",
+          "raw_sha256": "cd97be2f119dda112185a95216d3cec2a50f39565dd75c99051290209f8e90a0"
+        }
+      ],
+      "45": [
+        {
+          "source_usfm": "\\f + \\fr 13:45 \\ft Or \\fqa uncover his head\\f*",
+          "raw_sha256": "655a076cdcc4e45b1efbcb3a4fa547fe9f74dccfa349486313144ecae38ca35c"
+        }
+      ],
+      "47": [
+        {
+          "source_usfm": "\\f + \\fr 13:47 \\ft Forms of the Hebrew \\fqa tzaraath\\ft , traditionally translated as \\fqa leprosy \\ft regarding skin diseases, are translated as \\fqa mildew \\ft regarding blemishes on garments, utensils, or buildings; here and throughout the remainder of this chapter.\\f*",
+          "raw_sha256": "10051d8f27d62e5615a09c3d42a97f9fbef6da09147878091eff9c5b2a70311e"
+        }
+      ]
+    },
+    "14": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 14:2 \\ft Forms of the Hebrew \\fqa tzaraath\\ft , traditionally translated as \\fqa leprosy\\ft , were used for various skin diseases; also in verses 3, 7, 32, 54, and 57.\\f*",
+          "raw_sha256": "01ebc89adfefd6a490d521ca6c911d170eb65fe69bcb9ea8b036837d8262f841"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 14:5 \\ft Or \\fqa flowing water \\ft or \\fqa living water\\ft ; here and in verses 6, 50, 51, and 52\\f*",
+          "raw_sha256": "8726e48b6d0b3e6b9e2f102160774c2d15b294ec6e99e123b5e6229f7babf165"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 14:10 \\fqa Three-tenths of an ephah \\ft is approximately 6 dry quarts or 6.6 liters (probably about 7.6 pounds or 3.5 kilograms of flour).\\f*",
+          "raw_sha256": "3c58048ec982e4fad49949f6e56abed0967e8d52c7e487dd212ba4f149a19269"
+        },
+        {
+          "source_usfm": "\\f + \\fr 14:10 \\ft Or \\fqa one log of oil\\ft ; that is, approximately 0.33 quarts or 0.31 liters; also in verses 12, 15, 21, and 24\\f*",
+          "raw_sha256": "8b108902353079ca3a2481d0b6a6f4a0a8483b4946ea7681cafe68f4d35fbb9c"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 14:21 \\fqa A tenth of an ephah \\ft is approximately 2 dry quarts or 2.2 liters (probably about 2.6 pounds or 1.2 kilograms of flour).\\f*",
+          "raw_sha256": "68364b0088e69ad221ab11d645376b44d61c98c839c9f61ac47676559c3c471e"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 14:31 \\ft LXX and Syriac; Hebrew includes \\fqa as he is able to afford,\\f*",
+          "raw_sha256": "ba9b3f0566ab985c2fb9d47f2467333fa8286d2d0bbff52ed21d48ddd2f820e2"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 14:34 \\ft Forms of the Hebrew \\fqa tzaraath\\ft , traditionally translated as \\fqa leprosy \\ft regarding skin diseases, are translated as \\fqa mildew \\ft regarding blemishes on garments, utensils, or buildings; here and throughout the remainder of this chapter.\\f*",
+          "raw_sha256": "faa27a2054ac91b1230db0665b7ff3346ef6b57fd475448c4a015eeb9688a562"
+        }
+      ],
+      "57": [
+        {
+          "source_usfm": "\\f + \\fr 14:57 \\ft The Hebrew translated here as \\fqa skin diseases and mildew \\ft is one singular term; see the footnotes for verses 2 and 34.\\f*",
+          "raw_sha256": "4c48aaed931456503b60de532a7e8206574067cd156cfdeb999a7b1f9e0b4735"
+        }
+      ]
+    },
+    "15": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 15:13 \\ft Or \\fqa flowing water \\ft or \\fqa living water\\f*",
+          "raw_sha256": "f833828ab14a84db7977abdfde4180fd89bc90f10e99ba64a6d5e41d58fce314"
+        }
+      ]
+    },
+    "16": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 16:2 \\ft Or \\fqa the Holy Place\\ft ; also in verses 16, 17, 20, 23, and 27\\f*",
+          "raw_sha256": "33ac63d6e309437b9948056410e7fc6ca82937ab4d3b18d405fb3adb1f99f7dc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 16:2 \\ft Or \\fqa atonement cover\\ft ; here and throughout this chapter\\f*",
+          "raw_sha256": "9e68a07bbf1987fc63b8d4533683a307705fe6703cce995c2de09448e9d121d9"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 16:8 \\ft Literally \\fqa the other to Azazel\\ft ; similarly twice in verse 10 and once in verse 26\\f*",
+          "raw_sha256": "74b74c2bea4e0ef60e934aad3499fe96a274ea6a5f2a9e12888e8f2d751c4ffa"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 16:13 \\fqa The Testimony \\ft refers to the stone tablets in the ark of the covenant inscribed with the Ten Commandments.\\f*",
+          "raw_sha256": "f7bc9e232aa18503a6c1a3d94f2a3aafb8e0c6a94a45efe40490977c23cb2160"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 16:29 \\ft Or \\fqa afflict your souls \\ft or \\fqa deny yourselves\\ft ; also in verse 31\\f*",
+          "raw_sha256": "d8d46970660123db6522ae059ca7f2eea9341108667baa8a6f30e9ddba25c470"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 16:33 \\ft Or \\fqa the Holy Sanctuary\\f*",
+          "raw_sha256": "149268cf6f9236e068846ea59c994cdb39a2eb30c6f910a7a3145a426f9a1c47"
+        }
+      ]
+    },
+    "17": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 17:3 \\ft Or \\fqa a bull \\ft or \\fqa a cow\\f*",
+          "raw_sha256": "43a080e57c0160670418c28b7a128f6e7ec36a6e9affecf90f874e6c53671e42"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 17:7 \\ft Or \\fqa goat idols\\f*",
+          "raw_sha256": "cccb90f8e717ffd81fa4afef7158732cca5819b7b537c4c63634b9124050140d"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 17:11 \\ft Literally \\fqa the soul\\ft ; also in verse 14\\f*",
+          "raw_sha256": "524f3b5fb6dc8062bfb81bb2fe3f6ecba1346ad0864784c7633e47dc21bd9274"
+        }
+      ]
+    },
+    "18": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 18:5 \\ft Cited in \\ref Romans 10:5|ROM 10:5\\ref* and Galatians 3:12; see also Ezekiel 20:11, 13, and 21.\\f*",
+          "raw_sha256": "a83900f90c5be7426864197cdef796f0b9ea0f12fb6e0cac1c19c137301d713c"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 18:6 \\ft Literally \\fqa to uncover (their) nakedness\\ft ; here and throughout this chapter\\f*",
+          "raw_sha256": "bc4d953d07db33dee05566cfcddd5e7749a08cd6313a37ad9956f8350a8f2176"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 18:21 \\ft Hebrew \\fqa to make them pass through (the fire)\\f*",
+          "raw_sha256": "df87f729247e6d65949fec48ea58fe8ac25fc505c521f43337bad19a607c7609"
+        }
+      ]
+    },
+    "19": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 19:2 \\ft Cited in \\ref 1 Peter 1:16|1PE 1:16\\ref*\\f*",
+          "raw_sha256": "a089ca3847132e3dc54506aa8a940869eb4a318b4cb653510aad4520b7208c7e"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 19:16 \\ft Literally \\fqa blood\\f*",
+          "raw_sha256": "660b83b9c7e96a64389026ed4b2aa11bd1be1013fff006003d7a120394254b7e"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 19:18 \\ft Cited in \\ref Matthew 5:43|MAT 5:43\\ref*, Matthew 19:19, Matthew 22:39, Mark 12:31, Luke 10:27, Romans 13:9, Galatians 5:14, and James 2:8\\f*",
+          "raw_sha256": "bf052b722a0b077621297bbdc487b6b4fc4881497cdaff2dc8e3213e12982f53"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 19:23 \\ft Hebrew \\fqa as uncircumcised\\ft ; twice in this verse\\f*",
+          "raw_sha256": "676f784d9e4b8e05dc46fd74d3537ec1394e7520f28c65fc27f1152156e21667"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 19:36 \\fqa An ephah \\ft is a dry measure of approximately 20 dry quarts or 22 liters.\\f*",
+          "raw_sha256": "b88b294d7aa6d3a2987d62eb9597c110625138b419be14e59c19f006b9764b6b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 19:36 \\fqa A hin \\ft is a liquid measure of approximately 0.97 gallons or 3.67 liters.\\f*",
+          "raw_sha256": "05d1cebff6ec151a1f5bc5bc7b0dde6a5d2bf09c413ff63e9970f0c67666eff1"
+        }
+      ]
+    },
+    "20": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 20:9 \\ft Or \\fqa dishonors \\ft or \\fqa reviles\\ft ; similarly again in this verse\\f*",
+          "raw_sha256": "82e6e04f4a3208323e0bb85ae975fb214cb2d7bd8b7b8dbf71e7d2bfef1ca358"
+        },
+        {
+          "source_usfm": "\\f + \\fr 20:9 \\ft Cited in \\ref Matthew 15:4|MAT 15:4\\ref* and Mark 7:10\\f*",
+          "raw_sha256": "4b98f338fb8cb79f01bae8dca3abe12d2169e4adfde384bd6952d506de9bd022"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 20:17 \\ft Literally \\fqa and he sees her nakedness and she sees his nakedness\\f*",
+          "raw_sha256": "b3231a7843149504834c211ed530165b4a90b94ebe6c78bf3da4d4864f0ecac9"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 20:18 \\ft Literally \\fqa uncovers her nakedness\\ft ; similarly in verse 19\\f*",
+          "raw_sha256": "cb292aa975135a70a8178b7648139b9f271c0cb3423dbd616b85d87a1fe2dac5"
+        }
+      ]
+    },
+    "21": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 21:10 \\ft Or \\fqa must not uncover his head\\f*",
+          "raw_sha256": "23ea846c68d30b344f7a463ad0088f824de0f30380950d98d303653c0fd410e4"
+        }
+      ]
+    },
+    "22": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 22:4 \\ft Forms of the Hebrew \\fqa tzaraath\\ft , traditionally translated as \\fqa leprosy\\ft , were used for various skin diseases; see Leviticus 13.\\f*",
+          "raw_sha256": "00e01292c2524eb4db5175bc6dad9bc43906dd75738875c67135fbfdac007f66"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 22:23 \\ft Or \\fqa a bull \\ft or \\fqa a cow\\f*",
+          "raw_sha256": "6a6c5a637bc296a27b55f2c2ea002f41d960e459d523fa79e14e3b33ff34eb94"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 22:27 \\ft Or \\fqa a calf\\f*",
+          "raw_sha256": "6756730056afcab59128a57be7853d150343669117eb84533c44529eeb64f4ea"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 22:28 \\ft Or \\fqa a cow\\f*",
+          "raw_sha256": "b73641c56ec812b509705da0a2f40419c94abc59ed1de427bd719598145ec770"
+        }
+      ]
+    },
+    "23": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 23:5 \\ft Hebrew \\fqa begins between the two evenings of the fourteenth\\f*",
+          "raw_sha256": "6184a821696f54ca6e8ac82a0e9ddfdf318c355797f432d782c1c91c62274b64"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 23:6 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "c0fc358ebdd0fba10b4921e958e26695f334233c3d281547cb0d0f41ce692716"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 23:13 \\fqa Two-tenths of an ephah \\ft is approximately 4 dry quarts or 4.4 liters (probably about 5.1 pounds or 2.3 kilograms of flour); also in verse 17.\\f*",
+          "raw_sha256": "962adca00efb415be42a2b4b2c5b0a172c0bc49f37dba123ff9519ef145b3189"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:13 \\fqa A quarter hin \\ft is approximately 0.97 quarts or 0.92 liters of wine.\\f*",
+          "raw_sha256": "5105b53a178798d50b019a7ffaf07b0bd5b33b1fd2a3a186f0c43089cb33300b"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 23:24 \\ft Or \\fqa a sacred assembly, a memorial of shouting\\f*",
+          "raw_sha256": "560d69f7b01dedfa3f864ff131c12a62c5071d04bffa75e7fb446a379e9652b4"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 23:27 \\ft Or \\fqa afflict your souls \\ft or \\fqa deny yourselves\\ft ; also in verse 32\\f*",
+          "raw_sha256": "7d7a262afad06e4787597ec22e857e20079ce73865dab6916343986a66fdf84a"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 23:34 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as \\fqa the Feast of Booths \\ft or \\fqa the Feast of Shelters \\ft and originally called \\fqa the Feast of Ingathering\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref* and Exodus 34:22).\\f*",
+          "raw_sha256": "b7550e319e0360b9d4438ab75d957501bba337fbc0c52092aa89a3167e30f01c"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 23:40 \\ft Or \\fqa poplars\\f*",
+          "raw_sha256": "3985c9492c338bb8771a51ccba4cd65ed089ccdbe1b9d6f15cc0da894fe3b73b"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 23:42 \\ft Or \\fqa tabernacles \\ft or \\fqa shelters\\ft ; twice in this verse, and also in verse 43; see the footnote for verse 34.\\f*",
+          "raw_sha256": "70313b4f6658e7178b63eb84d5b39bb76b4784578c66efda5920aae498594c0e"
+        }
+      ]
+    },
+    "24": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 24:3 \\fqa The Testimony \\ft refers to the stone tablets in the ark of the covenant inscribed with the Ten Commandments.\\f*",
+          "raw_sha256": "49ad9976b50a00009d5f90572af914d6027a0b3485cf3b043cb2255d37415a5c"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 24:5 \\fqa Two-tenths of an ephah \\ft is approximately 4 dry quarts or 4.4 liters (probably about 5.1 pounds or 2.3 kilograms of flour).\\f*",
+          "raw_sha256": "b24b6d24ac56c2b27569869cb14367e5ee8892aba92c28c3567eee4279127267"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 24:14 \\ft Literally \\fqa the one who cursed\\ft ; also in verse 23\\f*",
+          "raw_sha256": "1f69455a80c3416fdf1ba152c100d9e726b27e03d220c25397e7eb7be897a7ce"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 24:20 \\ft Cited in \\ref Matthew 5:38|MAT 5:38\\ref*\\f*",
+          "raw_sha256": "dd1cfa40b84fefa27ee6a4dedfbcc3e1c50e3fb7dc274049b3edce02154ed09f"
+        }
+      ]
+    },
+    "26": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 26:11 \\ft Or \\fqa My tabernacle\\f*",
+          "raw_sha256": "694091340aa777e83d38839703d23043a96bb79a67192eeb03cdaa24ad340eda"
+        },
+        {
+          "source_usfm": "\\f + \\fr 26:11 \\ft Or \\fqa reject\\ft ; also in verse 30\\f*",
+          "raw_sha256": "7fb67e6761cb3bf27eafbe31d15f51e0b0e802414a9aa97bedd0f11b2538c856"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 26:12 \\ft Cited in \\ref 2 Corinthians 6:16|2CO 6:16\\ref*\\f*",
+          "raw_sha256": "56ee2b659e6eaa6e76c01bd577945af7010ea2f3a7843e6e50e4dca4454ba3e9"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 26:26 \\ft Hebrew \\fqa staff\\f*",
+          "raw_sha256": "7de44e64722d7623486a33d7c52c38ae32555bbba4de8382af579a4c2ac7e9b1"
+        }
+      ]
+    },
+    "27": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 27:3 \\fqa 50 shekels \\ft is approximately 1.26 pounds or 569.8 grams of silver; also in verse 16.\\f*",
+          "raw_sha256": "9d5983c4c88294b117d1ffc78331c6575145d818dd30c0dc36340406d16600c5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:3 \\fqa A shekel \\ft weighed approximately 0.4 ounces or 11.4 grams; also in verse 25.\\f*",
+          "raw_sha256": "4506408f329c72eb5f18b923fb429201777d09f826a2511d2ce73ffc1be326c2"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 27:4 \\fqa 30 shekels \\ft is approximately 12 ounces or 342 grams of silver.\\f*",
+          "raw_sha256": "f6cf84767c5b3d1129dacdf3c68c9cf05975fb8b1066f9de61c4fa127f8830d0"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 27:5 \\fqa 20 shekels \\ft is approximately 8 ounces or 228 grams of silver.\\f*",
+          "raw_sha256": "bf4958207e53899c98cda9724b82fec4ea285e00b69703b9293f3e8b06ae71a8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:5 \\fqa 10 shekels \\ft is approximately 4 ounces or 114 grams of silver; also in verse 7.\\f*",
+          "raw_sha256": "cd16dedab8ea086760e1b73f969b73ecc0096696991fdc3f4f8250ed11df877c"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 27:6 \\fqa 5 shekels \\ft is approximately 2 ounces or 57 grams of silver.\\f*",
+          "raw_sha256": "965aed2773ff62be734bde73dc182d61481eb02627956662cac093b30a5d5b4c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:6 \\fqa 3 shekels \\ft is approximately 1.2 ounces or 34.2 grams of silver.\\f*",
+          "raw_sha256": "31e99fed1e962c9b1db672442d1bcd8aa883925a2ea9fdaac83facb7cf19848d"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 27:7 \\fqa 15 shekels \\ft is approximately 6 ounces or 171 grams of silver.\\f*",
+          "raw_sha256": "46321bd84c0598c5b8ac534f75621bd19100a7be7a0877f5e40e503db9a31f7a"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 27:8 \\ft Or \\fqa present himself\\f*",
+          "raw_sha256": "e05d4a7906d20d96e26d4bc7dfbb60f8820a72488fecb2041f9f733a1412cde5"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 27:16 \\fqa A homer \\ft is a dry measure of approximately 6.24 bushels or 220 liters (probably about 291 pounds or 132 kilograms of barley seed).\\f*",
+          "raw_sha256": "dbf5c91f8f4f59f2e44e9154249e78df50c81523afc353fcddfea381ad724ac4"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 27:25 \\fqa 20 gerahs \\ft is equivalent to one shekel (approximately 0.4 ounces or 11.4 grams).\\f*",
+          "raw_sha256": "03eea52a5916e80db27fa0cb540b00ff7b739753d33087b7e1c6df2dc659853b"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 27:28 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD; similarly in verse 29.\\f*",
+          "raw_sha256": "4c569b3600829360a5e158e1fb2a7331c499073816a0bd890b5408f9bb4500de"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

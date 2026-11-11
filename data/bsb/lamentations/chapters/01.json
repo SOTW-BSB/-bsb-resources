@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LAM",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "LAM.1.1",
+      "edition_verse_id": "BSB:LAM.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How lonely lies the city, once so full of people! She who was great among the nations has become a widow. The princess of the provinces has become a slave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.1.2",
+      "edition_verse_id": "BSB:LAM.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "She weeps aloud in the night, with tears upon her cheeks. Among all her lovers there is no one to comfort her. All her friends have betrayed her; they have become her enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.3",
+      "edition_verse_id": "BSB:LAM.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Judah has gone into exile under affliction and harsh slavery; she dwells among the nations but finds no place to rest. All her pursuers have overtaken her in the midst of her distress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.4",
+      "edition_verse_id": "BSB:LAM.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The roads to Zion mourn, because no one comes to her appointed feasts. All her gates are deserted; her priests groan, her maidens grieve, and she herself is bitter with anguish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.5",
+      "edition_verse_id": "BSB:LAM.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Her foes have become her masters; her enemies are at ease. For the LORD has brought her grief because of her many transgressions. Her children have gone away as captives before the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.6",
+      "edition_verse_id": "BSB:LAM.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "All the splendor has departed from the Daughter of Zion. Her princes are like deer that find no pasture; they lack the strength to flee in the face of the hunter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.7",
+      "edition_verse_id": "BSB:LAM.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In the days of her affliction and wandering Jerusalem remembers all the treasures that were hers in days of old. When her people fell into enemy hands she received no help. Her enemies looked upon her, laughing at her downfall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.8",
+      "edition_verse_id": "BSB:LAM.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Jerusalem has sinned greatly; therefore she has become an object of scorn. All who honored her now despise her, for they have seen her nakedness; she herself groans and turns away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.9",
+      "edition_verse_id": "BSB:LAM.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Her uncleanness stains her skirts; she did not consider her end. Her downfall was astounding; there was no one to comfort her. Look, O LORD, on my affliction, for the enemy has triumphed!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.10",
+      "edition_verse_id": "BSB:LAM.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The adversary has seized all her treasures. For she has seen the nations enter her sanctuary— those You had forbidden to enter Your assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.11",
+      "edition_verse_id": "BSB:LAM.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "All her people groan as they search for bread. They have traded their treasures for food to keep themselves alive. Look, O LORD, and consider, for I have become despised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.12",
+      "edition_verse_id": "BSB:LAM.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Is this nothing to you, all you who pass by? Look around and see! Is there any sorrow like mine, which was inflicted on me, which the LORD made me suffer on the day of His fierce anger?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.13",
+      "edition_verse_id": "BSB:LAM.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He sent fire from on high, and it overpowered my bones. He spread a net for my feet and turned me back. He made me desolate, faint all the day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.14",
+      "edition_verse_id": "BSB:LAM.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "My transgressions are bound into a yoke, knit together by His hand; they are draped over my neck, and the Lord has broken my strength. He has delivered me into the hands of those I cannot withstand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.15",
+      "edition_verse_id": "BSB:LAM.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The Lord has rejected all the mighty men in my midst; He has summoned an army against me to crush my young warriors. Like grapes in a winepress, the Lord has trampled the Virgin Daughter of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.16",
+      "edition_verse_id": "BSB:LAM.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For these things I weep; my eyes flow with tears. For there is no one nearby to comfort me, no one to revive my soul. My children are destitute because the enemy has prevailed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.17",
+      "edition_verse_id": "BSB:LAM.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Zion stretches out her hands, but there is no one to comfort her. The LORD has decreed against Jacob that his neighbors become his foes. Jerusalem has become an unclean thing among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.18",
+      "edition_verse_id": "BSB:LAM.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The LORD is righteous, yet I rebelled against His command. Listen, all you people; look upon my suffering. My young men and maidens have gone into captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.19",
+      "edition_verse_id": "BSB:LAM.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I called out to my lovers, but they have betrayed me. My priests and elders perished in the city while they searched for food to keep themselves alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.20",
+      "edition_verse_id": "BSB:LAM.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "See, O LORD, how distressed I am! I am churning within; my heart is pounding within me, for I have been most rebellious. Outside, the sword bereaves; inside, there is death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.21",
+      "edition_verse_id": "BSB:LAM.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "People have heard my groaning, but there is no one to comfort me. All my enemies have heard of my trouble; they are glad that You have caused it. May You bring the day You have announced, so that they may become like me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.1.22",
+      "edition_verse_id": "BSB:LAM.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Let all their wickedness come before You, and deal with them as You have dealt with me because of all my transgressions. For my groans are many, and my heart is faint.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

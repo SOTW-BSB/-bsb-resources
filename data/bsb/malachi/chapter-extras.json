@@ -1,0 +1,31 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MAL",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The LORD’s Love for Israel",
+        "\\s1 The Polluted Offerings"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 A Warning to the Priests",
+        "\\s1 Judah’s Unfaithfulness"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 I Will Send My Messenger",
+        "\\s1 Robbing God",
+        "\\s1 The Book of Remembrance"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Day of the LORD"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

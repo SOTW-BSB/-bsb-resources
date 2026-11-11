@@ -1,0 +1,38 @@
+{
+  "edition_id": "BSB",
+  "book_code": "LAM",
+  "chapter_count": 5,
+  "verse_count": 154,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "5e3df8554125ab40aaba75b731e66413e6af494dcb460b7bbb295aaa370746e6"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "a66b0042675dd07e23de71875a4fd44a6f67a08a14a2e444d58871533878feb9"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 66,
+      "omitted_from_main_text": [],
+      "sha256": "b6991be5bc75bbbeeabb66c6a3af738cca1673b411e8ca0cac8c2883723c8a2e"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "ff8f4269d0baf11fcb91efcbe8c5365c489f6a08c770a3d52cbaf60c70ea723c"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "f829fe5bd124ae1376008c2b491bc0c7c16ed3db51deabb03b77a66bdc042f65"
+    }
+  ]
+}

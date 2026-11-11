@@ -1,0 +1,572 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "LEV.11.1",
+      "edition_verse_id": "BSB:LEV.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD spoke again to Moses and Aaron, telling them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.2",
+      "edition_verse_id": "BSB:LEV.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Say to the Israelites, ‘Of all the beasts of the earth, these ones you may eat:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.3",
+      "edition_verse_id": "BSB:LEV.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You may eat any animal that has a split hoof completely divided and that chews the cud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.4",
+      "edition_verse_id": "BSB:LEV.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But of those that only chew the cud or only have a divided hoof, you are not to eat the following: The camel, though it chews the cud, does not have a divided hoof; it is unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.5",
+      "edition_verse_id": "BSB:LEV.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The rock badger, though it chews the cud, does not have a divided hoof; it is unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.6",
+      "edition_verse_id": "BSB:LEV.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The rabbit, though it chews the cud, does not have a divided hoof; it is unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.7",
+      "edition_verse_id": "BSB:LEV.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the pig, though it has a split hoof completely divided, does not chew the cud; it is unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.8",
+      "edition_verse_id": "BSB:LEV.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You must not eat their meat or touch their carcasses; they are unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.9",
+      "edition_verse_id": "BSB:LEV.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Of all the creatures that live in the water, whether in the seas or in the streams, you may eat anything with fins and scales.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.10",
+      "edition_verse_id": "BSB:LEV.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But the following among all the teeming life and creatures in the water are detestable to you: everything in the seas or streams that does not have fins and scales.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.11",
+      "edition_verse_id": "BSB:LEV.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They shall be an abomination to you; you must not eat their meat, and you must detest their carcasses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.12",
+      "edition_verse_id": "BSB:LEV.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Everything in the water that does not have fins and scales shall be detestable to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.13",
+      "edition_verse_id": "BSB:LEV.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Additionally, you are to detest the following birds, and they must not be eaten because they are detestable: the eagle, the bearded vulture, the black vulture,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.14",
+      "edition_verse_id": "BSB:LEV.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "the kite, any kind of falcon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.15",
+      "edition_verse_id": "BSB:LEV.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "any kind of raven,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.16",
+      "edition_verse_id": "BSB:LEV.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the ostrich, the screech owl, the gull, any kind of hawk,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.17",
+      "edition_verse_id": "BSB:LEV.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the little owl, the cormorant, the great owl,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.18",
+      "edition_verse_id": "BSB:LEV.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the white owl, the desert owl, the osprey,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.19",
+      "edition_verse_id": "BSB:LEV.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "the stork, any kind of heron, the hoopoe, and the bat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.20",
+      "edition_verse_id": "BSB:LEV.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "All flying insects that walk on all fours are detestable to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.21",
+      "edition_verse_id": "BSB:LEV.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "However, you may eat the following kinds of flying insects that walk on all fours: those having jointed legs above their feet for hopping on the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.22",
+      "edition_verse_id": "BSB:LEV.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Of these you may eat any kind of locust, katydid, cricket, or grasshopper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.23",
+      "edition_verse_id": "BSB:LEV.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "All other flying insects that have four legs are detestable to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.24",
+      "edition_verse_id": "BSB:LEV.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "These creatures will make you unclean. Whoever touches their carcasses will be unclean until evening,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.25",
+      "edition_verse_id": "BSB:LEV.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "and whoever picks up one of their carcasses must wash his clothes, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.26",
+      "edition_verse_id": "BSB:LEV.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Every animal with hooves not completely divided or that does not chew the cud is unclean for you. Whoever touches any of them will be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.27",
+      "edition_verse_id": "BSB:LEV.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "All the four-footed animals that walk on their paws are unclean for you; whoever touches their carcasses will be unclean until evening,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.28",
+      "edition_verse_id": "BSB:LEV.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and anyone who picks up a carcass must wash his clothes, and he will be unclean until evening. They are unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.29",
+      "edition_verse_id": "BSB:LEV.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The following creatures that move along the ground are unclean for you: the mole, the mouse, any kind of great lizard,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.30",
+      "edition_verse_id": "BSB:LEV.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "the gecko, the monitor lizard, the common lizard, the skink, and the chameleon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.31",
+      "edition_verse_id": "BSB:LEV.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "These animals are unclean for you among all the crawling creatures. Whoever touches them when they are dead shall be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.32",
+      "edition_verse_id": "BSB:LEV.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "When one of them dies and falls on something, that article becomes unclean; any article of wood, clothing, leather, sackcloth, or any implement used for work must be rinsed with water and will remain unclean until evening; then it will be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.33",
+      "edition_verse_id": "BSB:LEV.11.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "If any of them falls into a clay pot, everything in it will be unclean; you must break the pot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.34",
+      "edition_verse_id": "BSB:LEV.11.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Any food coming into contact with water from that pot will be unclean, and any drink in such a container will be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.35",
+      "edition_verse_id": "BSB:LEV.11.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Anything upon which one of their carcasses falls will be unclean. If it is an oven or cooking pot, it must be smashed; it is unclean and will remain unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.36",
+      "edition_verse_id": "BSB:LEV.11.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Nevertheless, a spring or cistern containing water will remain clean, but one who touches a carcass in it will be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.37",
+      "edition_verse_id": "BSB:LEV.11.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "If a carcass falls on any seed for sowing, the seed is clean;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.38",
+      "edition_verse_id": "BSB:LEV.11.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "but if water has been put on the seed and a carcass falls on it, it is unclean for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.39",
+      "edition_verse_id": "BSB:LEV.11.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "If an animal that you may eat dies, anyone who touches the carcass will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.40",
+      "edition_verse_id": "BSB:LEV.11.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Whoever eats from the carcass must wash his clothes and will be unclean until evening, and anyone who picks up the carcass must wash his clothes and will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.41",
+      "edition_verse_id": "BSB:LEV.11.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Every creature that moves along the ground is detestable; it must not be eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.42",
+      "edition_verse_id": "BSB:LEV.11.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Do not eat any creature that moves along the ground, whether it crawls on its belly or walks on four or more feet; for such creatures are detestable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.43",
+      "edition_verse_id": "BSB:LEV.11.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Do not defile yourselves by any crawling creature; do not become unclean or defiled by them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.44",
+      "edition_verse_id": "BSB:LEV.11.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "For I am the LORD your God; consecrate yourselves, therefore, and be holy, because I am holy. You must not defile yourselves by any creature that crawls along the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.45",
+      "edition_verse_id": "BSB:LEV.11.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "For I am the LORD, who brought you up out of the land of Egypt so that I would be your God; therefore be holy, because I am holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.11.46",
+      "edition_verse_id": "BSB:LEV.11.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "This is the law regarding animals, birds, all living creatures that move in the water, and all creatures that crawl along the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.11.47",
+      "edition_verse_id": "BSB:LEV.11.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "You must distinguish between the unclean and the clean, between animals that may be eaten and those that may not.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,632 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "LUK.2.1",
+      "edition_verse_id": "BSB:LUK.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.2",
+      "edition_verse_id": "BSB:LUK.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "This was the first census to take place while Quirinius was governor of Syria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.3",
+      "edition_verse_id": "BSB:LUK.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And everyone went to his own town to register.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.4",
+      "edition_verse_id": "BSB:LUK.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So Joseph also went up from Nazareth in Galilee to Judea, to the city of David called Bethlehem, since he was from the house and line of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.5",
+      "edition_verse_id": "BSB:LUK.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He went there to register with Mary, who was pledged to him in marriage and was expecting a child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.6",
+      "edition_verse_id": "BSB:LUK.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "While they were there, the time came for her Child to be born.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.7",
+      "edition_verse_id": "BSB:LUK.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And she gave birth to her firstborn, a Son. She wrapped Him in swaddling cloths and laid Him in a manger, because there was no room for them in the inn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.8",
+      "edition_verse_id": "BSB:LUK.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And there were shepherds residing in the fields nearby, keeping watch over their flocks by night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.9",
+      "edition_verse_id": "BSB:LUK.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Just then an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were terrified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.10",
+      "edition_verse_id": "BSB:LUK.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But the angel said to them, “Do not be afraid! For behold, I bring you good news of great joy that will be for all the people:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.11",
+      "edition_verse_id": "BSB:LUK.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Today in the city of David a Savior has been born to you. He is Christ the Lord!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.12",
+      "edition_verse_id": "BSB:LUK.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And this will be a sign to you: You will find a baby wrapped in swaddling cloths and lying in a manger.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.13",
+      "edition_verse_id": "BSB:LUK.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And suddenly there appeared with the angel a great multitude of the heavenly host, praising God and saying:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.14",
+      "edition_verse_id": "BSB:LUK.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“Glory to God in the highest, and on earth peace to men on whom His favor rests!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.15",
+      "edition_verse_id": "BSB:LUK.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When the angels had left them and gone into heaven, the shepherds said to one another, “Let us go to Bethlehem and see this thing that has happened, which the Lord has made known to us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.16",
+      "edition_verse_id": "BSB:LUK.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So they hurried off and found Mary and Joseph and the Baby, who was lying in the manger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.17",
+      "edition_verse_id": "BSB:LUK.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "After they had seen the Child, they spread the message they had received about Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.18",
+      "edition_verse_id": "BSB:LUK.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And all who heard it were amazed at what the shepherds said to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.19",
+      "edition_verse_id": "BSB:LUK.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But Mary treasured up all these things and pondered them in her heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.20",
+      "edition_verse_id": "BSB:LUK.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The shepherds returned, glorifying and praising God for all they had heard and seen, which was just as the angel had told them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.21",
+      "edition_verse_id": "BSB:LUK.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When the eight days before His circumcision had passed, He was named Jesus, the name the angel had given Him before He was conceived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.22",
+      "edition_verse_id": "BSB:LUK.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when the time of purification according to the Law of Moses was complete, His parents brought Him to Jerusalem to present Him to the Lord",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.23",
+      "edition_verse_id": "BSB:LUK.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "(as it is written in the Law of the Lord: “Every firstborn male shall be consecrated to the Lord”),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.24",
+      "edition_verse_id": "BSB:LUK.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and to offer the sacrifice specified in the Law of the Lord: “A pair of turtledoves or two young pigeons.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.25",
+      "edition_verse_id": "BSB:LUK.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now there was a man in Jerusalem named Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.26",
+      "edition_verse_id": "BSB:LUK.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The Holy Spirit had revealed to him that he would not see death before he had seen the Lord’s Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.27",
+      "edition_verse_id": "BSB:LUK.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Led by the Spirit, he went into the temple courts. And when the parents brought in the child Jesus to do for Him what was customary under the Law,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.28",
+      "edition_verse_id": "BSB:LUK.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Simeon took Him in his arms and blessed God, saying:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.29",
+      "edition_verse_id": "BSB:LUK.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“Sovereign Lord, as You have promised, You now dismiss Your servant in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.30",
+      "edition_verse_id": "BSB:LUK.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "For my eyes have seen Your salvation,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.31",
+      "edition_verse_id": "BSB:LUK.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "which You have prepared in the sight of all people,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.32",
+      "edition_verse_id": "BSB:LUK.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "a light for revelation to the Gentiles, and for glory to Your people Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.33",
+      "edition_verse_id": "BSB:LUK.2.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The Child’s father and mother were amazed at what was spoken about Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.34",
+      "edition_verse_id": "BSB:LUK.2.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then Simeon blessed them and said to His mother Mary: “Behold, this Child is appointed to cause the rise and fall of many in Israel, and to be a sign that will be spoken against,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.35",
+      "edition_verse_id": "BSB:LUK.2.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "so that the thoughts of many hearts will be revealed — and a sword will pierce your soul as well.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.36",
+      "edition_verse_id": "BSB:LUK.2.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "There was also a prophetess named Anna, the daughter of Phanuel, of the tribe of Asher, who was well along in years. She had been married for seven years,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.37",
+      "edition_verse_id": "BSB:LUK.2.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "and then was a widow to the age of eighty-four. She never left the temple, but worshiped night and day, fasting and praying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.38",
+      "edition_verse_id": "BSB:LUK.2.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Coming forward at that moment, she gave thanks to God and spoke about the Child to all who were waiting for the redemption of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.39",
+      "edition_verse_id": "BSB:LUK.2.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "When Jesus’ parents had done everything required by the Law of the Lord, they returned to Galilee, to their own town of Nazareth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.40",
+      "edition_verse_id": "BSB:LUK.2.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And the Child grew and became strong. He was filled with wisdom, and the grace of God was upon Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.41",
+      "edition_verse_id": "BSB:LUK.2.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Every year His parents went to Jerusalem for the Feast of the Passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.42",
+      "edition_verse_id": "BSB:LUK.2.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And when He was twelve years old, they went up according to the custom of the Feast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.43",
+      "edition_verse_id": "BSB:LUK.2.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "When those days were over and they were returning home, the boy Jesus remained behind in Jerusalem, but His parents were unaware He had stayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.44",
+      "edition_verse_id": "BSB:LUK.2.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Assuming He was in their company, they traveled on for a day before they began to look for Him among their relatives and friends.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.45",
+      "edition_verse_id": "BSB:LUK.2.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "When they could not find Him, they returned to Jerusalem to search for Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.46",
+      "edition_verse_id": "BSB:LUK.2.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Finally, after three days they found Him in the temple courts, sitting among the teachers, listening to them and asking them questions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.47",
+      "edition_verse_id": "BSB:LUK.2.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And all who heard Him were astounded at His understanding and His answers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.48",
+      "edition_verse_id": "BSB:LUK.2.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "When His parents saw Him, they were astonished. “Child, why have You done this to us?” His mother asked. “Your father and I have been anxiously searching for You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.49",
+      "edition_verse_id": "BSB:LUK.2.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "“Why were you looking for Me?” He asked. “Did you not know that I had to be in My Father’s house?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.50",
+      "edition_verse_id": "BSB:LUK.2.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "But they did not understand the statement He was making to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.2.51",
+      "edition_verse_id": "BSB:LUK.2.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Then He went down to Nazareth with them and was obedient to them. But His mother treasured up all these things in her heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.2.52",
+      "edition_verse_id": "BSB:LUK.2.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And Jesus grew in wisdom and stature, and in favor with God and man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JDG",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "JDG.13.1",
+      "edition_verse_id": "BSB:JDG.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Again the Israelites did evil in the sight of the LORD, so He delivered them into the hand of the Philistines for forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.2",
+      "edition_verse_id": "BSB:JDG.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now there was a man from Zorah named Manoah, from the clan of the Danites, whose wife was barren and had no children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.3",
+      "edition_verse_id": "BSB:JDG.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The angel of the LORD appeared to the woman and said to her, “It is true that you are barren and have no children; but you will conceive and give birth to a son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.13.4",
+      "edition_verse_id": "BSB:JDG.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now please be careful not to drink wine or strong drink, and not to eat anything unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.13.5",
+      "edition_verse_id": "BSB:JDG.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For behold, you will conceive and give birth to a son. And no razor shall touch his head, because the boy will be a Nazirite to God from the womb, and he will begin the deliverance of Israel from the hand of the Philistines.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.13.6",
+      "edition_verse_id": "BSB:JDG.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So the woman went and told her husband, “A man of God came to me. His appearance was like the angel of God, exceedingly awesome. I did not ask him where he came from, and he did not tell me his name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.7",
+      "edition_verse_id": "BSB:JDG.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But he said to me, ‘Behold, you will conceive and give birth to a son. Now, therefore, do not drink wine or strong drink, and do not eat anything unclean, because the boy will be a Nazirite to God from the womb until the day of his death.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.13.8",
+      "edition_verse_id": "BSB:JDG.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Manoah prayed to the LORD, “Please, O Lord, let the man of God You sent us come to us again to teach us how to raise the boy who is to be born.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.9",
+      "edition_verse_id": "BSB:JDG.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And God listened to the voice of Manoah, and the angel of God returned to the woman as she was sitting in the field; but her husband Manoah was not with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.10",
+      "edition_verse_id": "BSB:JDG.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The woman ran quickly to tell her husband, “Behold, the man who came to me the other day has reappeared!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.13.11",
+      "edition_verse_id": "BSB:JDG.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Manoah got up and followed his wife. When he came to the man, he asked, “Are you the man who spoke to my wife?” “I am, ” he said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.12",
+      "edition_verse_id": "BSB:JDG.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then Manoah asked, “When your words come to pass, what will be the boy’s rule of life and mission?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.13",
+      "edition_verse_id": "BSB:JDG.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So the angel of the LORD answered Manoah, “Your wife is to do everything I told her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.14",
+      "edition_verse_id": "BSB:JDG.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "She must not eat anything that comes from the vine, nor drink any wine or strong drink, nor eat anything unclean. She must do everything I have commanded her.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.13.15",
+      "edition_verse_id": "BSB:JDG.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Please stay here,” Manoah said to the angel of the LORD, “and we will prepare a young goat for you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.16",
+      "edition_verse_id": "BSB:JDG.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the angel of the LORD replied, “Even if I stay, I will not eat your food. But if you prepare a burnt offering, offer it to the LORD.” For Manoah did not know that it was the angel of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.17",
+      "edition_verse_id": "BSB:JDG.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Manoah said to the angel of the LORD, “What is your name, so that we may honor you when your word comes to pass?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.18",
+      "edition_verse_id": "BSB:JDG.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Why do you ask my name,” said the angel of the LORD, “since it is beyond comprehension?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.19",
+      "edition_verse_id": "BSB:JDG.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then Manoah took a young goat and a grain offering and offered them on a rock to the LORD. And as Manoah and his wife looked on, the LORD did a marvelous thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.20",
+      "edition_verse_id": "BSB:JDG.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When the flame went up from the altar to the sky, the angel of the LORD ascended in the flame. When Manoah and his wife saw this, they fell facedown to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.13.21",
+      "edition_verse_id": "BSB:JDG.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when the angel of the LORD did not appear again to Manoah and his wife, Manoah realized that it had been the angel of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.22",
+      "edition_verse_id": "BSB:JDG.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "“We are going to die,” he said to his wife, “for we have seen God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.23",
+      "edition_verse_id": "BSB:JDG.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But his wife replied, “If the LORD had intended to kill us, He would not have accepted the burnt offering and the grain offering from our hands, nor would He have shown us all these things or spoken to us this way.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.24",
+      "edition_verse_id": "BSB:JDG.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So the woman gave birth to a son and named him Samson. The boy grew, and the LORD blessed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.13.25",
+      "edition_verse_id": "BSB:JDG.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the Spirit of the LORD began to stir him at Mahaneh-dan, between Zorah and Eshtaol.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

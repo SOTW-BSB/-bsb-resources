@@ -1,0 +1,39 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JUD",
+  "chapters": {
+    "1": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft NE, WH, BYZ, and TR \\fqa the Lord\\f*",
+          "raw_sha256": "ad3f10eda6e6a635cecc7efda4af4e7f8b83d7b0f7b0c4389a87fa8725d47f1c"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft This account is attributed by Origen to the Testament of Moses, also called the Assumption of Moses.\\f*",
+          "raw_sha256": "7b57e47d0eff7771d7d390f8e41cd7f442cac90b8816bd7e7ec4e1cf2a85a397"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft Or \\fqa are blemishes\\f*",
+          "raw_sha256": "d4c877a0576f0bddf48aac4b73b0332be11d39e9142059dd23fcfade9c6c9aa4"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 1:15 \\ft See the First Book of Enoch (\\ref 1 Enoch 1:9|1:9\\ref*).\\f*",
+          "raw_sha256": "5783ba02f50927cb63811a78b16e1ae3cf5c0fb6c654a5522ff0e183e5aae397"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 1:18 \\ft See \\ref 2 Peter 3:3|2PE 3:3\\ref*.\\f*",
+          "raw_sha256": "7a2bfae01301b52475cfcaab3550da41d67d4282165144ab97388c5c71527e02"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

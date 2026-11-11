@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "LUK.5.1",
+      "edition_verse_id": "BSB:LUK.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On one occasion, while Jesus was standing by the Lake of Gennesaret with the crowd pressing in on Him to hear the word of God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.2",
+      "edition_verse_id": "BSB:LUK.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He saw two boats at the edge of the lake. The fishermen had left them and were washing their nets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.3",
+      "edition_verse_id": "BSB:LUK.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jesus got into the boat belonging to Simon and asked him to put out a little from shore. And sitting down, He taught the people from the boat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.4",
+      "edition_verse_id": "BSB:LUK.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When Jesus had finished speaking, He said to Simon, “Put out into deep water and let down your nets for a catch.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.5",
+      "edition_verse_id": "BSB:LUK.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Master,” Simon replied, “we have worked hard all night without catching anything. But because You say so, I will let down the nets.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.6",
+      "edition_verse_id": "BSB:LUK.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When they had done so, they caught such a large number of fish that their nets began to tear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.7",
+      "edition_verse_id": "BSB:LUK.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So they signaled to their partners in the other boat to come and help them, and they came and filled both boats so full that they began to sink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.8",
+      "edition_verse_id": "BSB:LUK.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When Simon Peter saw this, he fell at Jesus’ knees. “Go away from me, Lord,” he said, “for I am a sinful man.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.9",
+      "edition_verse_id": "BSB:LUK.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For he and his companions were astonished at the catch of fish they had taken,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.10",
+      "edition_verse_id": "BSB:LUK.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and so were his partners James and John, the sons of Zebedee. “Do not be afraid,” Jesus said to Simon. “From now on you will catch men.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.11",
+      "edition_verse_id": "BSB:LUK.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And when they had brought their boats ashore, they left everything and followed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.12",
+      "edition_verse_id": "BSB:LUK.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "While Jesus was in one of the towns, a man came along who was covered with leprosy. When he saw Jesus, he fell facedown and begged Him, “Lord, if You are willing, You can make me clean.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.13",
+      "edition_verse_id": "BSB:LUK.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately the leprosy left him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.14",
+      "edition_verse_id": "BSB:LUK.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“Do not tell anyone,” Jesus instructed him. “But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.15",
+      "edition_verse_id": "BSB:LUK.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But the news about Jesus spread all the more, and great crowds came to hear Him and to be healed of their sicknesses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.16",
+      "edition_verse_id": "BSB:LUK.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Yet He frequently withdrew to the wilderness to pray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.17",
+      "edition_verse_id": "BSB:LUK.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "One day Jesus was teaching, and the Pharisees and teachers of the law were sitting there. People had come from Jerusalem and from every village of Galilee and Judea, and the power of the Lord was present for Him to heal the sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.18",
+      "edition_verse_id": "BSB:LUK.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Just then some men came carrying a paralyzed man on a mat. They tried to bring him inside to set him before Jesus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.19",
+      "edition_verse_id": "BSB:LUK.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "but they could not find a way through the crowd. So they went up on the roof and lowered him on his mat through the tiles into the middle of the crowd, right in front of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.20",
+      "edition_verse_id": "BSB:LUK.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When Jesus saw their faith, He said, “Friend, your sins are forgiven.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.21",
+      "edition_verse_id": "BSB:LUK.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But the scribes and Pharisees began thinking to themselves, “Who is this man who speaks blasphemy? Who can forgive sins but God alone?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.22",
+      "edition_verse_id": "BSB:LUK.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Knowing what they were thinking, Jesus replied, “Why are you thinking these things in your hearts?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.23",
+      "edition_verse_id": "BSB:LUK.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.24",
+      "edition_verse_id": "BSB:LUK.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But so that you may know that the Son of Man has authority on the earth to forgive sins…” He said to the paralytic, “I tell you, get up, pick up your mat, and go home.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.25",
+      "edition_verse_id": "BSB:LUK.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And immediately the man stood up before them, took what he had been lying on, and went home glorifying God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.26",
+      "edition_verse_id": "BSB:LUK.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Everyone was taken with amazement and glorified God. They were filled with awe and said, “We have seen remarkable things today.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.27",
+      "edition_verse_id": "BSB:LUK.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "After this, Jesus went out and saw a tax collector named Levi sitting at the tax booth. “Follow Me,” He told him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.28",
+      "edition_verse_id": "BSB:LUK.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and Levi got up, left everything, and followed Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.29",
+      "edition_verse_id": "BSB:LUK.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then Levi hosted a great banquet for Jesus at his house. A large crowd of tax collectors was there, along with others who were eating with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.30",
+      "edition_verse_id": "BSB:LUK.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But the Pharisees and their scribes complained to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.31",
+      "edition_verse_id": "BSB:LUK.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Jesus answered, “It is not the healthy who need a doctor, but the sick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.32",
+      "edition_verse_id": "BSB:LUK.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I have not come to call the righteous, but sinners, to repentance.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.33",
+      "edition_verse_id": "BSB:LUK.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then they said to Him, “John’s disciples and those of the Pharisees frequently fast and pray, but Yours keep on eating and drinking.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.34",
+      "edition_verse_id": "BSB:LUK.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Jesus replied, “Can you make the guests of the bridegroom fast while He is with them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.35",
+      "edition_verse_id": "BSB:LUK.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But the time will come when the bridegroom will be taken from them; then they will fast.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.36",
+      "edition_verse_id": "BSB:LUK.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "He also told them a parable: “No one tears a piece of cloth from a new garment and sews it on an old one. If he does, he will tear the new garment as well, and the patch from the new will not match the old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.37",
+      "edition_verse_id": "BSB:LUK.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And no one pours new wine into old wineskins. If he does, the new wine will burst the skins, the wine will spill, and the wineskins will be ruined.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.5.38",
+      "edition_verse_id": "BSB:LUK.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Instead, new wine is poured into new wineskins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.5.39",
+      "edition_verse_id": "BSB:LUK.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And no one after drinking old wine wants new, for he says, ‘The old is better.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

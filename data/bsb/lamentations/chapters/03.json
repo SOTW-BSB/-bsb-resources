@@ -1,0 +1,800 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LAM",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "LAM.3.1",
+      "edition_verse_id": "BSB:LAM.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I am the man who has seen affliction under the rod of God’s wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.3.2",
+      "edition_verse_id": "BSB:LAM.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He has driven me away and made me walk in darkness instead of light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.3",
+      "edition_verse_id": "BSB:LAM.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Indeed, He keeps turning His hand against me all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.4",
+      "edition_verse_id": "BSB:LAM.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He has worn away my flesh and skin; He has shattered my bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.5",
+      "edition_verse_id": "BSB:LAM.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He has besieged me and surrounded me with bitterness and hardship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.6",
+      "edition_verse_id": "BSB:LAM.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He has made me dwell in darkness like those dead for ages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.7",
+      "edition_verse_id": "BSB:LAM.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He has walled me in so I cannot escape; He has weighed me down with chains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.8",
+      "edition_verse_id": "BSB:LAM.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Even when I cry out and plead for help, He shuts out my prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.9",
+      "edition_verse_id": "BSB:LAM.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He has barred my ways with cut stones; He has made my paths crooked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.10",
+      "edition_verse_id": "BSB:LAM.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He is a bear lying in wait, a lion hiding in ambush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.11",
+      "edition_verse_id": "BSB:LAM.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He forced me off my path and tore me to pieces; He left me without help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.12",
+      "edition_verse_id": "BSB:LAM.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He bent His bow and set me as the target for His arrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.13",
+      "edition_verse_id": "BSB:LAM.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He pierced my kidneys with His arrows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.14",
+      "edition_verse_id": "BSB:LAM.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I am a laughingstock to all my people; they mock me in song all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.15",
+      "edition_verse_id": "BSB:LAM.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He has filled me with bitterness; He has intoxicated me with wormwood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.16",
+      "edition_verse_id": "BSB:LAM.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He has ground my teeth with gravel and trampled me in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.17",
+      "edition_verse_id": "BSB:LAM.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "My soul has been deprived of peace; I have forgotten what prosperity is.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.18",
+      "edition_verse_id": "BSB:LAM.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So I say, “My strength has perished, along with my hope from the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.19",
+      "edition_verse_id": "BSB:LAM.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Remember my affliction and wandering, the wormwood and the gall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.20",
+      "edition_verse_id": "BSB:LAM.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Surely my soul remembers and is humbled within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.21",
+      "edition_verse_id": "BSB:LAM.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Yet I call this to mind, and therefore I have hope:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.22",
+      "edition_verse_id": "BSB:LAM.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Because of the loving devotion of the LORD we are not consumed, for His mercies never fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.23",
+      "edition_verse_id": "BSB:LAM.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "They are new every morning; great is Your faithfulness!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.24",
+      "edition_verse_id": "BSB:LAM.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“The LORD is my portion,” says my soul, “therefore I will hope in Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.25",
+      "edition_verse_id": "BSB:LAM.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The LORD is good to those who wait for Him, to the soul who seeks Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.26",
+      "edition_verse_id": "BSB:LAM.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "It is good to wait quietly for the salvation of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.27",
+      "edition_verse_id": "BSB:LAM.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "It is good for a man to bear the yoke while he is still young.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.28",
+      "edition_verse_id": "BSB:LAM.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Let him sit alone in silence, for the LORD has laid it upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.29",
+      "edition_verse_id": "BSB:LAM.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Let him bury his face in the dust— perhaps there is still hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.30",
+      "edition_verse_id": "BSB:LAM.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Let him offer his cheek to the one who would strike him; let him be filled with reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.31",
+      "edition_verse_id": "BSB:LAM.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For the Lord will not cast us off forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.32",
+      "edition_verse_id": "BSB:LAM.3.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Even if He causes grief, He will show compassion according to His abundant loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.33",
+      "edition_verse_id": "BSB:LAM.3.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For He does not willingly afflict or grieve the sons of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.34",
+      "edition_verse_id": "BSB:LAM.3.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "To crush underfoot all the prisoners of the land,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.35",
+      "edition_verse_id": "BSB:LAM.3.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "to deny a man justice before the Most High,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.36",
+      "edition_verse_id": "BSB:LAM.3.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "to subvert a man in his lawsuit— of these the Lord does not approve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.37",
+      "edition_verse_id": "BSB:LAM.3.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Who has spoken and it came to pass, unless the Lord has ordained it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.38",
+      "edition_verse_id": "BSB:LAM.3.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Do not both adversity and good come from the mouth of the Most High?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.39",
+      "edition_verse_id": "BSB:LAM.3.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Why should any mortal man complain, in view of his sins?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.40",
+      "edition_verse_id": "BSB:LAM.3.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Let us examine and test our ways, and turn back to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.41",
+      "edition_verse_id": "BSB:LAM.3.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Let us lift up our hearts and hands to God in heaven:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.42",
+      "edition_verse_id": "BSB:LAM.3.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "“We have sinned and rebelled; You have not forgiven.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.43",
+      "edition_verse_id": "BSB:LAM.3.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "You have covered Yourself in anger and pursued us; You have killed without pity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.44",
+      "edition_verse_id": "BSB:LAM.3.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "You have covered Yourself with a cloud that no prayer can pass through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.45",
+      "edition_verse_id": "BSB:LAM.3.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "You have made us scum and refuse among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.46",
+      "edition_verse_id": "BSB:LAM.3.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "All our enemies open their mouths against us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.47",
+      "edition_verse_id": "BSB:LAM.3.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Panic and pitfall have come upon us — devastation and destruction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.48",
+      "edition_verse_id": "BSB:LAM.3.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Streams of tears flow from my eyes over the destruction of the daughter of my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.49",
+      "edition_verse_id": "BSB:LAM.3.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "My eyes overflow unceasingly, without relief,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.50",
+      "edition_verse_id": "BSB:LAM.3.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "until the LORD looks down from heaven and sees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.51",
+      "edition_verse_id": "BSB:LAM.3.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "My eyes bring grief to my soul because of all the daughters of my city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.52",
+      "edition_verse_id": "BSB:LAM.3.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Without cause my enemies hunted me like a bird.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.53",
+      "edition_verse_id": "BSB:LAM.3.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "They dropped me alive into a pit and cast stones upon me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.54",
+      "edition_verse_id": "BSB:LAM.3.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "The waters flowed over my head, and I thought I was going to die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.55",
+      "edition_verse_id": "BSB:LAM.3.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "I called on Your name, O LORD, out of the depths of the Pit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.56",
+      "edition_verse_id": "BSB:LAM.3.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "You heard my plea: “Do not ignore my cry for relief.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.57",
+      "edition_verse_id": "BSB:LAM.3.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "You drew near when I called on You; You said, “Do not be afraid.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.58",
+      "edition_verse_id": "BSB:LAM.3.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "You defend my cause, O Lord; You redeem my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.59",
+      "edition_verse_id": "BSB:LAM.3.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "You have seen, O LORD, the wrong done to me; vindicate my cause!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.60",
+      "edition_verse_id": "BSB:LAM.3.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "You have seen all their malice, all their plots against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.61",
+      "edition_verse_id": "BSB:LAM.3.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "O LORD, You have heard their insults, all their plots against me —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.62",
+      "edition_verse_id": "BSB:LAM.3.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "the slander and murmuring of my assailants against me all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.63",
+      "edition_verse_id": "BSB:LAM.3.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "When they sit and when they rise, see how they mock me in song.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.64",
+      "edition_verse_id": "BSB:LAM.3.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "You will pay them back what they deserve, O LORD, according to the work of their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.65",
+      "edition_verse_id": "BSB:LAM.3.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Put a veil of anguish over their hearts; may Your curse be upon them!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.3.66",
+      "edition_verse_id": "BSB:LAM.3.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "You will pursue them in anger and exterminate them from under Your heavens, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

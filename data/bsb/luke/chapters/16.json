@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "LUK.16.1",
+      "edition_verse_id": "BSB:LUK.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.2",
+      "edition_verse_id": "BSB:LUK.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So he called him in to ask, ‘What is this I hear about you? Turn in an account of your management, for you cannot be manager any longer.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.3",
+      "edition_verse_id": "BSB:LUK.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The manager said to himself, ‘What shall I do, now that my master is taking away my position? I am too weak to dig and too ashamed to beg.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.4",
+      "edition_verse_id": "BSB:LUK.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I know what I will do so that after my removal from management, people will welcome me into their homes.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.5",
+      "edition_verse_id": "BSB:LUK.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And he called in each one of his master’s debtors. ‘How much do you owe my master?’ he asked the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.6",
+      "edition_verse_id": "BSB:LUK.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "‘A hundred measures of olive oil,’ he answered. ‘Take your bill,’ said the manager, ‘sit down quickly, and write fifty.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.7",
+      "edition_verse_id": "BSB:LUK.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then he asked another, ‘And how much do you owe?’ ‘A hundred measures of wheat,’ he replied. ‘Take your bill and write eighty,’ he told him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.8",
+      "edition_verse_id": "BSB:LUK.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The master commended the dishonest manager because he had acted shrewdly. For the sons of this age are more shrewd in dealing with their own kind than are the sons of light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.9",
+      "edition_verse_id": "BSB:LUK.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I tell you, use worldly wealth to make friends for yourselves so that when it is gone, they will welcome you into eternal dwellings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.10",
+      "edition_verse_id": "BSB:LUK.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Whoever is faithful with very little will also be faithful with much, and whoever is dishonest with very little will also be dishonest with much.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.11",
+      "edition_verse_id": "BSB:LUK.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So if you have not been faithful with worldly wealth, who will entrust you with true riches?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.12",
+      "edition_verse_id": "BSB:LUK.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And if you have not been faithful with the belongings of another, who will give you belongings of your own?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.13",
+      "edition_verse_id": "BSB:LUK.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "No servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and money.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.14",
+      "edition_verse_id": "BSB:LUK.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The Pharisees, who were lovers of money, heard all of this and were scoffing at Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.15",
+      "edition_verse_id": "BSB:LUK.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So He said to them, “You are the ones who justify yourselves before men, but God knows your hearts. For what is prized among men is detestable before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.16",
+      "edition_verse_id": "BSB:LUK.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The Law and the Prophets were proclaimed until John. Since that time, the gospel of the kingdom of God is being preached, and everyone is forcing his way into it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.17",
+      "edition_verse_id": "BSB:LUK.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But it is easier for heaven and earth to pass away than for a single stroke of a pen to drop out of the Law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.18",
+      "edition_verse_id": "BSB:LUK.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Anyone who divorces his wife and marries another woman commits adultery, and he who marries a divorced woman commits adultery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.19",
+      "edition_verse_id": "BSB:LUK.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now there was a rich man dressed in purple and fine linen, who lived each day in joyous splendor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.20",
+      "edition_verse_id": "BSB:LUK.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And a beggar named Lazarus lay at his gate, covered with sores",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.21",
+      "edition_verse_id": "BSB:LUK.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and longing to be fed with the crumbs that fell from the rich man’s table. Even the dogs came and licked his sores.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.22",
+      "edition_verse_id": "BSB:LUK.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "One day the beggar died and was carried by the angels to Abraham’s side. And the rich man also died and was buried.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.23",
+      "edition_verse_id": "BSB:LUK.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "In Hades, where he was in torment, he looked up and saw Abraham from afar, with Lazarus by his side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.24",
+      "edition_verse_id": "BSB:LUK.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So he cried out, ‘Father Abraham, have mercy on me and send Lazarus to dip the tip of his finger in water and cool my tongue. For I am in agony in this fire.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.25",
+      "edition_verse_id": "BSB:LUK.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But Abraham answered, ‘Child, remember that during your lifetime you received your good things, while Lazarus received bad things. But now he is comforted here, while you are in agony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.26",
+      "edition_verse_id": "BSB:LUK.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And besides all this, a great chasm has been fixed between us and you, so that even those who wish cannot cross from here to you, nor can anyone cross from there to us.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.27",
+      "edition_verse_id": "BSB:LUK.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "‘Then I beg you, father,’ he said, ‘send Lazarus to my father’s house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.28",
+      "edition_verse_id": "BSB:LUK.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "for I have five brothers. Let him warn them, so that they will not also end up in this place of torment.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.16.29",
+      "edition_verse_id": "BSB:LUK.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But Abraham replied, ‘They have Moses and the Prophets; let your brothers listen to them.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.30",
+      "edition_verse_id": "BSB:LUK.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "‘No, father Abraham,’ he said, ‘but if someone is sent to them from the dead, they will repent.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.16.31",
+      "edition_verse_id": "BSB:LUK.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then Abraham said to him, ‘If they do not listen to Moses and the Prophets, they will not be persuaded even if someone rises from the dead.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

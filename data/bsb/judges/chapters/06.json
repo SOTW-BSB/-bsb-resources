@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JDG",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "JDG.6.1",
+      "edition_verse_id": "BSB:JDG.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.2",
+      "edition_verse_id": "BSB:JDG.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and the hand of Midian prevailed against Israel. Because of the Midianites, the Israelites prepared shelters for themselves in the mountains, caves, and strongholds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.3",
+      "edition_verse_id": "BSB:JDG.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Whenever the Israelites planted their crops, the Midianites, Amalekites, and other people of the east would come up and invade them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.4",
+      "edition_verse_id": "BSB:JDG.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "encamping against them as far as Gaza and destroying the produce of the land. They left Israel with no sustenance, neither sheep nor oxen nor donkeys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.5",
+      "edition_verse_id": "BSB:JDG.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For the Midianites came with their livestock and their tents like a great swarm of locusts. They and their camels were innumerable, and they entered the land to ravage it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.6",
+      "edition_verse_id": "BSB:JDG.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Israel was greatly impoverished by Midian, and the Israelites cried out to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.7",
+      "edition_verse_id": "BSB:JDG.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now when the Israelites cried out to the LORD because of Midian,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.8",
+      "edition_verse_id": "BSB:JDG.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He sent them a prophet, who told them, “This is what the LORD, the God of Israel, says: I brought you up out of Egypt, out of the house of slavery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.9",
+      "edition_verse_id": "BSB:JDG.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I delivered you out of the hands of Egypt and all your oppressors. I drove them out before you and gave you their land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.10",
+      "edition_verse_id": "BSB:JDG.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I said to you: ‘I am the LORD your God. You must not fear the gods of the Amorites, in whose land you dwell.’ But you did not obey Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.11",
+      "edition_verse_id": "BSB:JDG.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then the angel of the LORD came and sat down under the oak in Ophrah that belonged to Joash the Abiezrite, where his son Gideon was threshing wheat in a winepress to hide it from the Midianites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.12",
+      "edition_verse_id": "BSB:JDG.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the angel of the LORD appeared to Gideon and said, “The LORD is with you, O mighty man of valor.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.13",
+      "edition_verse_id": "BSB:JDG.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "“Please, my Lord,” Gideon replied, “if the LORD is with us, why has all this happened to us? And where are all His wonders of which our fathers told us, saying, ‘Has not the LORD brought us up out of Egypt?’ But now the LORD has forsaken us and delivered us into the hand of Midian.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.14",
+      "edition_verse_id": "BSB:JDG.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The LORD turned to him and said, “Go in the strength you have and save Israel from the hand of Midian. Am I not sending you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.15",
+      "edition_verse_id": "BSB:JDG.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Please, my Lord,” Gideon replied, “how can I save Israel? Indeed, my clan is the weakest in Manasseh, and I am the youngest in my father’s house.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.16",
+      "edition_verse_id": "BSB:JDG.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“Surely I will be with you,” the LORD replied, “and you will strike down all the Midianites as one man.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.17",
+      "edition_verse_id": "BSB:JDG.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Gideon answered, “If I have found favor in Your sight, give me a sign that it is You speaking with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.18",
+      "edition_verse_id": "BSB:JDG.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Please do not depart from this place until I return to You. Let me bring my offering and set it before You.” And the LORD said, “I will stay until you return.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.19",
+      "edition_verse_id": "BSB:JDG.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So Gideon went in and prepared a young goat and unleavened bread and an ephah of flour. He placed the meat in a basket and the broth in a pot and brought them out to present to Him under the oak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.20",
+      "edition_verse_id": "BSB:JDG.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the angel of God said to him, “Take the meat and the unleavened bread, lay them on this rock, and pour out the broth.” And Gideon did so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.21",
+      "edition_verse_id": "BSB:JDG.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then the angel of the LORD extended the tip of the staff that was in his hand and touched the meat and the unleavened bread. And fire flared from the rock and consumed the meat and the unleavened bread. Then the angel of the LORD vanished from his sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.22",
+      "edition_verse_id": "BSB:JDG.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When Gideon realized that it was the angel of the LORD, he said, “Oh no, Lord GOD! I have seen the angel of the LORD face to face!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.23",
+      "edition_verse_id": "BSB:JDG.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But the LORD said to him, “Peace be with you. Do not be afraid, for you will not die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.24",
+      "edition_verse_id": "BSB:JDG.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So Gideon built an altar to the LORD there and called it The LORD Is Peace. To this day it stands in Ophrah of the Abiezrites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.25",
+      "edition_verse_id": "BSB:JDG.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "On that very night the LORD said to Gideon, “Take your father’s young bull and a second bull seven years old, tear down your father’s altar to Baal, and cut down the Asherah pole beside it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.26",
+      "edition_verse_id": "BSB:JDG.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then build a proper altar to the LORD your God on the top of this stronghold. And with the wood of the Asherah pole you cut down, take the second bull and offer it as a burnt offering.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.27",
+      "edition_verse_id": "BSB:JDG.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So Gideon took ten of his servants and did as the LORD had told him. But because he was too afraid of his father’s household and the men of the city, he did it by night rather than in the daytime.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.28",
+      "edition_verse_id": "BSB:JDG.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When the men of the city got up in the morning, there was Baal’s altar torn down, with the Asherah pole cut down beside it and the second bull offered up on the newly built altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.29",
+      "edition_verse_id": "BSB:JDG.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“Who did this?” they said to one another. And after they had investigated thoroughly, they were told, “Gideon son of Joash did it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.30",
+      "edition_verse_id": "BSB:JDG.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then the men of the city said to Joash, “Bring out your son. He must die, because he has torn down Baal’s altar and cut down the Asherah pole beside it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.31",
+      "edition_verse_id": "BSB:JDG.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But Joash said to all who stood against him, “Are you contending for Baal? Are you trying to save him? Whoever pleads his case will be put to death by morning! If Baal is a god, let him contend for himself with the one who has torn down his altar.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.32",
+      "edition_verse_id": "BSB:JDG.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.33",
+      "edition_verse_id": "BSB:JDG.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then all the Midianites, Amalekites, and other people of the east gathered together, crossed over the Jordan, and camped in the Valley of Jezreel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.34",
+      "edition_verse_id": "BSB:JDG.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "So the Spirit of the LORD came upon Gideon, who blew the ram’s horn and rallied the Abiezrites behind him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.35",
+      "edition_verse_id": "BSB:JDG.6.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Calling them to arms, Gideon sent messengers throughout Manasseh, as well as Asher, Zebulun, and Naphtali, so that they came up to meet him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.36",
+      "edition_verse_id": "BSB:JDG.6.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then Gideon said to God, “If You are going to save Israel by my hand, as You have said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.37",
+      "edition_verse_id": "BSB:JDG.6.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "then behold, I will place a fleece of wool on the threshing floor. If there is dew only on the fleece and all the ground is dry, then I will know that You are going to save Israel by my hand, as You have said.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.6.38",
+      "edition_verse_id": "BSB:JDG.6.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And that is what happened. When Gideon arose the next morning, he squeezed the fleece and wrung out the dew — a bowlful of water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.39",
+      "edition_verse_id": "BSB:JDG.6.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Then Gideon said to God, “Do not be angry with me; let me speak one more time. Please allow me one more test with the fleece. This time let it be dry, and the ground covered with dew.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.6.40",
+      "edition_verse_id": "BSB:JDG.6.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And that night God did so. Only the fleece was dry, and dew covered the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

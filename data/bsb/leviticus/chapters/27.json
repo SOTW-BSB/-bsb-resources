@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "LEV.27.1",
+      "edition_verse_id": "BSB:LEV.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.2",
+      "edition_verse_id": "BSB:LEV.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and say to them, ‘When someone makes a special vow to the LORD involving the value of persons,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.3",
+      "edition_verse_id": "BSB:LEV.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "if the valuation concerns a male from twenty to sixty years of age, then your valuation shall be fifty shekels of silver, according to the sanctuary shekel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.4",
+      "edition_verse_id": "BSB:LEV.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Or if it is a female, then your valuation shall be thirty shekels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.5",
+      "edition_verse_id": "BSB:LEV.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And if the person is from five to twenty years of age, then your valuation for the male shall be twenty shekels, and for the female ten shekels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.6",
+      "edition_verse_id": "BSB:LEV.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now if the person is from one month to five years of age, then your valuation for the male shall be five shekels of silver, and for the female three shekels of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.7",
+      "edition_verse_id": "BSB:LEV.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And if the person is sixty years of age or older, then your valuation shall be fifteen shekels for the male and ten shekels for the female.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.8",
+      "edition_verse_id": "BSB:LEV.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But if the one making the vow is too poor to pay the valuation, he is to present the person before the priest, who shall set the value according to what the one making the vow can afford.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.9",
+      "edition_verse_id": "BSB:LEV.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If he vows an animal that may be brought as an offering to the LORD, any such animal given to the LORD shall be holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.10",
+      "edition_verse_id": "BSB:LEV.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He must not replace it or exchange it, either good for bad or bad for good. But if he does substitute one animal for another, both that animal and its substitute will be holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.11",
+      "edition_verse_id": "BSB:LEV.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But if the vow involves any of the unclean animals that may not be brought as an offering to the LORD, the animal must be presented before the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.12",
+      "edition_verse_id": "BSB:LEV.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The priest shall set its value, whether high or low; as the priest values it, the price will be set.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.13",
+      "edition_verse_id": "BSB:LEV.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If, however, the owner decides to redeem the animal, he must add a fifth to its value.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.14",
+      "edition_verse_id": "BSB:LEV.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now if a man consecrates his house as holy to the LORD, then the priest shall value it either as good or bad. The price will stand just as the priest values it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.15",
+      "edition_verse_id": "BSB:LEV.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But if he who consecrated his house redeems it, he must add a fifth to the assessed value, and it will belong to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.16",
+      "edition_verse_id": "BSB:LEV.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If a man consecrates to the LORD a parcel of his land, then your valuation shall be proportional to the seed required for it — fifty shekels of silver for every homer of barley seed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.17",
+      "edition_verse_id": "BSB:LEV.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If he consecrates his field during the Year of Jubilee, the price will stand according to your valuation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.18",
+      "edition_verse_id": "BSB:LEV.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But if he consecrates his field after the Jubilee, the priest is to calculate the price in proportion to the years left until the next Year of Jubilee, so that your valuation will be reduced.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.19",
+      "edition_verse_id": "BSB:LEV.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And if the one who consecrated the field decides to redeem it, he must add a fifth to the assessed value, and it shall belong to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.20",
+      "edition_verse_id": "BSB:LEV.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If, however, he does not redeem the field, or if he has sold it to another man, it may no longer be redeemed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.21",
+      "edition_verse_id": "BSB:LEV.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When the field is released in the Jubilee, it will become holy, like a field devoted to the LORD; it becomes the property of the priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.22",
+      "edition_verse_id": "BSB:LEV.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Now if a man consecrates to the LORD a field he has purchased, which is not a part of his own property,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.23",
+      "edition_verse_id": "BSB:LEV.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "then the priest shall calculate for him the value up to the Year of Jubilee, and the man shall pay the assessed value on that day as a sacred offering to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.24",
+      "edition_verse_id": "BSB:LEV.27.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "In the Year of Jubilee the field shall return to the one from whom it was bought — the original owner of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.25",
+      "edition_verse_id": "BSB:LEV.27.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Every valuation will be according to the sanctuary shekel, twenty gerahs to the shekel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.26",
+      "edition_verse_id": "BSB:LEV.27.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But no one may consecrate a firstborn of the livestock, because a firstborn belongs to the LORD. Whether it is an ox or a sheep, it is the LORD’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.27",
+      "edition_verse_id": "BSB:LEV.27.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But if it is among the unclean animals, then he may redeem it according to your valuation and add a fifth of its value. If it is not redeemed, then it shall be sold according to your valuation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.28",
+      "edition_verse_id": "BSB:LEV.27.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Nothing that a man sets apart to the LORD from all he owns — whether a man, an animal, or his inherited land — can be sold or redeemed; everything so devoted is most holy to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.29",
+      "edition_verse_id": "BSB:LEV.27.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "No person set apart for destruction may be ransomed; he must surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.30",
+      "edition_verse_id": "BSB:LEV.27.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Thus any tithe from the land, whether from the seed of the land or the fruit of the trees, belongs to the LORD; it is holy to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.31",
+      "edition_verse_id": "BSB:LEV.27.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "If a man wishes to redeem part of his tithe, he must add a fifth to its value.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.32",
+      "edition_verse_id": "BSB:LEV.27.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Every tenth animal from the herd or flock that passes under the shepherd’s rod will be holy to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.27.33",
+      "edition_verse_id": "BSB:LEV.27.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He must not inspect whether it is good or bad, and he shall not make any substitution. But if he does make a substitution, both the animal and its substitute shall become holy; they cannot be redeemed.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.27.34",
+      "edition_verse_id": "BSB:LEV.27.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "These are the commandments that the LORD gave to Moses for the Israelites on Mount Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

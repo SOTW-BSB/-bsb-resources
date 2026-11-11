@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "LUK.15.1",
+      "edition_verse_id": "BSB:LUK.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now all the tax collectors and sinners were gathering around to listen to Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.2",
+      "edition_verse_id": "BSB:LUK.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So the Pharisees and scribes began to grumble: “This man welcomes sinners and eats with them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.3",
+      "edition_verse_id": "BSB:LUK.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Jesus told them this parable:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.4",
+      "edition_verse_id": "BSB:LUK.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“What man among you, if he has a hundred sheep and loses one of them, does not leave the ninety-nine in the pasture and go after the one that is lost, until he finds it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.5",
+      "edition_verse_id": "BSB:LUK.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And when he finds it, he joyfully puts it on his shoulders,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.6",
+      "edition_verse_id": "BSB:LUK.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "comes home, and calls together his friends and neighbors to tell them, ‘Rejoice with me, for I have found my lost sheep!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.7",
+      "edition_verse_id": "BSB:LUK.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I tell you that in the same way there will be more joy in heaven over one sinner who repents than over ninety-nine righteous ones who do not need to repent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.8",
+      "edition_verse_id": "BSB:LUK.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Or what woman who has ten silver coins and loses one of them does not light a lamp, sweep her house, and search carefully until she finds it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.9",
+      "edition_verse_id": "BSB:LUK.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And when she finds it, she calls together her friends and neighbors to say, ‘Rejoice with me, for I have found my lost coin.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.10",
+      "edition_verse_id": "BSB:LUK.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In the same way, I tell you, there is joy in the presence of God’s angels over one sinner who repents.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.11",
+      "edition_verse_id": "BSB:LUK.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Jesus said, “There was a man who had two sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.12",
+      "edition_verse_id": "BSB:LUK.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The younger son said to him, ‘Father, give me my share of the estate.’ So he divided his property between them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.13",
+      "edition_verse_id": "BSB:LUK.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "After a few days, the younger son got everything together and journeyed to a distant country, where he squandered his wealth in wild living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.14",
+      "edition_verse_id": "BSB:LUK.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "After he had spent all he had, a severe famine swept through that country, and he began to be in need.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.15",
+      "edition_verse_id": "BSB:LUK.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So he went and hired himself out to a citizen of that country, who sent him into his fields to feed the pigs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.16",
+      "edition_verse_id": "BSB:LUK.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He longed to fill his belly with the pods the pigs were eating, but no one would give him a thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.17",
+      "edition_verse_id": "BSB:LUK.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Finally he came to his senses and said, ‘How many of my father’s hired servants have plenty of food, but here I am, starving to death!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.18",
+      "edition_verse_id": "BSB:LUK.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will get up and go back to my father and say to him, “Father, I have sinned against heaven and against you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.19",
+      "edition_verse_id": "BSB:LUK.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I am no longer worthy to be called your son. Make me like one of your hired servants.”’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.20",
+      "edition_verse_id": "BSB:LUK.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.21",
+      "edition_verse_id": "BSB:LUK.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The son declared, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.22",
+      "edition_verse_id": "BSB:LUK.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the father said to his servants, ‘Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.23",
+      "edition_verse_id": "BSB:LUK.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Bring the fattened calf and kill it. Let us feast and celebrate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.24",
+      "edition_verse_id": "BSB:LUK.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For this son of mine was dead and is alive again! He was lost and is found!’ So they began to celebrate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.25",
+      "edition_verse_id": "BSB:LUK.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Meanwhile the older son was in the field, and as he approached the house, he heard music and dancing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.26",
+      "edition_verse_id": "BSB:LUK.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "So he called one of the servants and asked what was going on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.27",
+      "edition_verse_id": "BSB:LUK.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "‘Your brother has returned,’ he said, ‘and your father has killed the fattened calf, because he has him back safe and sound.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.28",
+      "edition_verse_id": "BSB:LUK.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The older son became angry and refused to go in. So his father came out and pleaded with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.29",
+      "edition_verse_id": "BSB:LUK.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But he answered his father, ‘Look, all these years I have served you and never disobeyed a commandment of yours. Yet you never gave me even a young goat so I could celebrate with my friends.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.30",
+      "edition_verse_id": "BSB:LUK.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But when this son of yours returns from squandering your wealth with prostitutes, you kill the fattened calf for him!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.15.31",
+      "edition_verse_id": "BSB:LUK.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "‘Son, you are always with me,’ the father said, ‘and all that is mine is yours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.15.32",
+      "edition_verse_id": "BSB:LUK.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But it was fitting to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

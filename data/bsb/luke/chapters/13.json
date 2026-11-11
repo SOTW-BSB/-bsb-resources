@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "LUK.13.1",
+      "edition_verse_id": "BSB:LUK.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.2",
+      "edition_verse_id": "BSB:LUK.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "To this He replied, “Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered this way?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.3",
+      "edition_verse_id": "BSB:LUK.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "No, I tell you. But unless you repent, you too will all perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.4",
+      "edition_verse_id": "BSB:LUK.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Or those eighteen who were killed when the tower of Siloam collapsed on them: Do you think that they were more sinful than all the others living in Jerusalem?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.5",
+      "edition_verse_id": "BSB:LUK.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "No, I tell you. But unless you repent, you too will all perish.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.6",
+      "edition_verse_id": "BSB:LUK.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then Jesus told this parable: “A man had a fig tree that was planted in his vineyard. He went to look for fruit on it but did not find any.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.7",
+      "edition_verse_id": "BSB:LUK.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So he said to the keeper of the vineyard, ‘Look, for the past three years I have come to search for fruit on this fig tree and haven’t found any. Therefore cut it down! Why should it use up the soil?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.8",
+      "edition_verse_id": "BSB:LUK.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "‘Sir,’ the man replied, ‘leave it alone again this year, until I dig around it and fertilize it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.9",
+      "edition_verse_id": "BSB:LUK.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If it bears fruit next year, fine. But if not, you can cut it down.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.10",
+      "edition_verse_id": "BSB:LUK.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "One Sabbath Jesus was teaching in one of the synagogues,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.11",
+      "edition_verse_id": "BSB:LUK.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and a woman there had been disabled by a spirit for eighteen years. She was hunched over and could not stand up straight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.12",
+      "edition_verse_id": "BSB:LUK.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When Jesus saw her, He called her over and said, “Woman, you are set free from your disability.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.13",
+      "edition_verse_id": "BSB:LUK.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then He placed His hands on her, and immediately she straightened up and began to glorify God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.14",
+      "edition_verse_id": "BSB:LUK.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But the synagogue leader was indignant that Jesus had healed on the Sabbath. “There are six days for work,” he told the crowd. “So come and be healed on those days and not on the Sabbath.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.15",
+      "edition_verse_id": "BSB:LUK.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“You hypocrites!” the Lord replied. “Does not each of you on the Sabbath untie his ox or donkey from the stall and lead it to water?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.16",
+      "edition_verse_id": "BSB:LUK.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then should not this daughter of Abraham, whom Satan has kept bound for eighteen long years, be released from her bondage on the Sabbath day?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.17",
+      "edition_verse_id": "BSB:LUK.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "When Jesus said this, all His adversaries were humiliated. And the whole crowd rejoiced at all the glorious things He was doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.18",
+      "edition_verse_id": "BSB:LUK.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then Jesus asked, “What is the kingdom of God like? To what can I compare it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.19",
+      "edition_verse_id": "BSB:LUK.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "It is like a mustard seed that a man tossed into his garden. It grew and became a tree, and the birds of the air nested in its branches.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.20",
+      "edition_verse_id": "BSB:LUK.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Again He asked, “To what can I compare the kingdom of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.21",
+      "edition_verse_id": "BSB:LUK.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "It is like leaven that a woman took and mixed into three measures of flour, until all of it was leavened.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.22",
+      "edition_verse_id": "BSB:LUK.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then Jesus traveled throughout the towns and villages, teaching as He made His way toward Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.23",
+      "edition_verse_id": "BSB:LUK.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“Lord,” someone asked Him, “will only a few people be saved?” Jesus answered,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.24",
+      "edition_verse_id": "BSB:LUK.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“Make every effort to enter through the narrow door. For many, I tell you, will try to enter and will not be able.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.25",
+      "edition_verse_id": "BSB:LUK.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "After the master of the house gets up and shuts the door, you will stand outside knocking and saying, ‘Lord, open the door for us.’ But he will reply, ‘I do not know where you are from.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.26",
+      "edition_verse_id": "BSB:LUK.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then you will say, ‘We ate and drank with you, and you taught in our streets.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.27",
+      "edition_verse_id": "BSB:LUK.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he will answer, ‘I tell you, I do not know where you are from. Depart from me, all you evildoers.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.28",
+      "edition_verse_id": "BSB:LUK.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "There will be weeping and gnashing of teeth when you see Abraham, Isaac, Jacob, and all the prophets in the kingdom of God, but you yourselves are thrown out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.29",
+      "edition_verse_id": "BSB:LUK.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "People will come from east and west and north and south, and will recline at the table in the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.30",
+      "edition_verse_id": "BSB:LUK.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And indeed, some who are last will be first, and some who are first will be last.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.31",
+      "edition_verse_id": "BSB:LUK.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "At that very hour, some Pharisees came to Jesus and told Him, “Leave this place and get away, because Herod wants to kill You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.32",
+      "edition_verse_id": "BSB:LUK.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But Jesus replied, “Go tell that fox, ‘Look, I will keep driving out demons and healing people today and tomorrow, and on the third day I will reach My goal.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.33",
+      "edition_verse_id": "BSB:LUK.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Nevertheless, I must keep going today and tomorrow and the next day, for it is not admissible for a prophet to perish outside of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.13.34",
+      "edition_verse_id": "BSB:LUK.13.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together as a hen gathers her chicks under her wings, but you were unwilling!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.13.35",
+      "edition_verse_id": "BSB:LUK.13.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Look, your house is left to you desolate. And I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

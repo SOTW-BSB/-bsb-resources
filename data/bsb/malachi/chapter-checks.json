@@ -1,0 +1,32 @@
+{
+  "edition_id": "BSB",
+  "book_code": "MAL",
+  "chapter_count": 4,
+  "verse_count": 55,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "41a145c5aeb3e675cb9e5df16e467275052c3be19791ee3758a561194ac1712e"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "201b61baf2f401357a304c009b3551feb4e1ff1c0c88da76271e5267c227a89e"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "532d46eed0efed7db647a3b4a805f0d19ac110f2be8bba152edb2e2e219dc038"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 6,
+      "omitted_from_main_text": [],
+      "sha256": "b0b278d87c56017583e33f76cc20b287dc2deaa11266ed9e148c62ad6085e694"
+    }
+  ]
+}

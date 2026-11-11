@@ -1,0 +1,536 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "LUK.4.1",
+      "edition_verse_id": "BSB:LUK.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.2",
+      "edition_verse_id": "BSB:LUK.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "where for forty days He was tempted by the devil. He ate nothing during those days, and when they had ended, He was hungry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.3",
+      "edition_verse_id": "BSB:LUK.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The devil said to Him, “If You are the Son of God, tell this stone to become bread.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.4",
+      "edition_verse_id": "BSB:LUK.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But Jesus answered, “It is written: ‘Man shall not live on bread alone.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.5",
+      "edition_verse_id": "BSB:LUK.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the devil led Him up to a high place and showed Him in an instant all the kingdoms of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.6",
+      "edition_verse_id": "BSB:LUK.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“I will give You authority over all these kingdoms and all their glory,” he said. “For it has been relinquished to me, and I can give it to anyone I wish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.7",
+      "edition_verse_id": "BSB:LUK.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So if You worship me, it will all be Yours.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.8",
+      "edition_verse_id": "BSB:LUK.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Jesus answered, “It is written: ‘Worship the Lord your God and serve Him only.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.9",
+      "edition_verse_id": "BSB:LUK.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the devil led Him to Jerusalem and set Him on the pinnacle of the temple. “If You are the Son of God,” he said, “throw Yourself down from here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.10",
+      "edition_verse_id": "BSB:LUK.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For it is written: ‘He will command His angels concerning You to guard You carefully,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.11",
+      "edition_verse_id": "BSB:LUK.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.12",
+      "edition_verse_id": "BSB:LUK.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But Jesus answered, “It also says, ‘Do not put the Lord your God to the test.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.13",
+      "edition_verse_id": "BSB:LUK.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When the devil had finished every temptation, he left Him until an opportune time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.14",
+      "edition_verse_id": "BSB:LUK.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Jesus returned to Galilee in the power of the Spirit, and the news about Him spread throughout the surrounding region.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.15",
+      "edition_verse_id": "BSB:LUK.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He taught in their synagogues and was glorified by everyone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.16",
+      "edition_verse_id": "BSB:LUK.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then Jesus came to Nazareth, where He had been brought up. As was His custom, He entered the synagogue on the Sabbath. And when He stood up to read,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.17",
+      "edition_verse_id": "BSB:LUK.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the scroll of the prophet Isaiah was handed to Him. Unrolling it, He found the place where it was written:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.18",
+      "edition_verse_id": "BSB:LUK.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“The Spirit of the Lord is on Me, because He has anointed Me to preach good news to the poor. He has sent Me to proclaim liberty to the captives and recovery of sight to the blind, to release the oppressed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.19",
+      "edition_verse_id": "BSB:LUK.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "to proclaim the year of the Lord’s favor.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.20",
+      "edition_verse_id": "BSB:LUK.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then He rolled up the scroll, returned it to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.21",
+      "edition_verse_id": "BSB:LUK.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and He began by saying, “Today this Scripture is fulfilled in your hearing.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.22",
+      "edition_verse_id": "BSB:LUK.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "All spoke well of Him and marveled at the gracious words that came from His lips. “Isn’t this the son of Joseph?” they asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.23",
+      "edition_verse_id": "BSB:LUK.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Jesus said to them, “Surely you will quote this proverb to Me: ‘Physician, heal yourself! Do here in Your hometown what we have heard that You did in Capernaum.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.24",
+      "edition_verse_id": "BSB:LUK.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then He added, “Truly I tell you, no prophet is accepted in his hometown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.25",
+      "edition_verse_id": "BSB:LUK.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But I tell you truthfully that there were many widows in Israel in the time of Elijah, when the sky was shut for three and a half years and great famine swept over all the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.26",
+      "edition_verse_id": "BSB:LUK.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Yet Elijah was not sent to any of them, but to the widow of Zarephath in Sidon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.27",
+      "edition_verse_id": "BSB:LUK.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And there were many lepers in Israel in the time of Elisha the prophet. Yet not one of them was cleansed— only Naaman the Syrian.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.28",
+      "edition_verse_id": "BSB:LUK.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "On hearing this, all the people in the synagogue were enraged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.29",
+      "edition_verse_id": "BSB:LUK.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "They got up, drove Him out of the town, and led Him to the brow of the hill on which the town was built, in order to throw Him over the cliff.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.30",
+      "edition_verse_id": "BSB:LUK.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But Jesus passed through the crowd and went on His way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.31",
+      "edition_verse_id": "BSB:LUK.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then He went down to Capernaum, a town in Galilee, and on the Sabbath He began to teach the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.32",
+      "edition_verse_id": "BSB:LUK.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "They were astonished at His teaching, because His message had authority.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.33",
+      "edition_verse_id": "BSB:LUK.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "In the synagogue there was a man possessed by the spirit of an unclean demon. He cried out in a loud voice,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.34",
+      "edition_verse_id": "BSB:LUK.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“Ha! What do You want with us, Jesus of Nazareth? Have You come to destroy us? I know who You are — the Holy One of God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.35",
+      "edition_verse_id": "BSB:LUK.4.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But Jesus rebuked the demon. “Be silent!” He said. “Come out of him!” At this, the demon threw the man down before them all and came out without harming him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.36",
+      "edition_verse_id": "BSB:LUK.4.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "All the people were overcome with amazement and asked one another, “What is this message? With authority and power He commands the unclean spirits, and they come out!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.37",
+      "edition_verse_id": "BSB:LUK.4.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the news about Jesus spread throughout the surrounding region.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.38",
+      "edition_verse_id": "BSB:LUK.4.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "After Jesus had left the synagogue, He went to the home of Simon, whose mother-in-law was suffering from a high fever. So they appealed to Jesus on her behalf,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.39",
+      "edition_verse_id": "BSB:LUK.4.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "and He stood over her and rebuked the fever, and it left her. And she got up at once and began to serve them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.40",
+      "edition_verse_id": "BSB:LUK.4.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "At sunset, all who were ill with various diseases were brought to Jesus, and laying His hands on each one, He healed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.41",
+      "edition_verse_id": "BSB:LUK.4.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Demons also came out of many people, shouting, “You are the Son of God!” But He rebuked the demons and would not allow them to speak, because they knew He was the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.42",
+      "edition_verse_id": "BSB:LUK.4.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "At daybreak, Jesus went out to a solitary place, and the crowds were looking for Him. They came to Him and tried to keep Him from leaving.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.4.43",
+      "edition_verse_id": "BSB:LUK.4.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "But Jesus told them, “I must preach the good news of the kingdom of God to the other towns as well, because that is why I was sent.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.4.44",
+      "edition_verse_id": "BSB:LUK.4.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And He continued to preach in the synagogues of Judea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

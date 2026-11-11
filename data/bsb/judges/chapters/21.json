@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JDG",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "JDG.21.1",
+      "edition_verse_id": "BSB:JDG.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the men of Israel had sworn an oath at Mizpah, saying, “Not one of us will give his daughter in marriage to a Benjamite.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.2",
+      "edition_verse_id": "BSB:JDG.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So the people came to Bethel and sat there before God until evening, lifting up their voices and weeping bitterly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.3",
+      "edition_verse_id": "BSB:JDG.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Why, O LORD God of Israel,” they cried out, “has this happened in Israel? Today in Israel one tribe is missing!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.4",
+      "edition_verse_id": "BSB:JDG.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The next day the people got up early, built an altar there, and presented burnt offerings and peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.5",
+      "edition_verse_id": "BSB:JDG.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The Israelites asked, “Who among all the tribes of Israel did not come to the assembly before the LORD?” For they had taken a solemn oath that anyone who failed to come up before the LORD at Mizpah would surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.6",
+      "edition_verse_id": "BSB:JDG.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Israelites grieved for their brothers, the Benjamites, and said, “Today a tribe is cut off from Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.7",
+      "edition_verse_id": "BSB:JDG.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "What should we do about wives for the survivors, since we have sworn by the LORD not to give them our daughters in marriage?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.8",
+      "edition_verse_id": "BSB:JDG.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So they asked, “Which one of the tribes of Israel failed to come up before the LORD at Mizpah?” And, in fact, no one from Jabesh-gilead had come to the camp for the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.9",
+      "edition_verse_id": "BSB:JDG.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For when the people were counted, none of the residents of Jabesh-gilead were there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.10",
+      "edition_verse_id": "BSB:JDG.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So the congregation sent 12,000 of their most valiant men and commanded them: “Go and put to the sword those living in Jabesh-gilead, including women and children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.11",
+      "edition_verse_id": "BSB:JDG.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "This is what you are to do: Devote to destruction every male, as well as every female who has had relations with a man.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.12",
+      "edition_verse_id": "BSB:JDG.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So they found among the inhabitants of Jabesh-gilead four hundred young women who had not had relations with a man, and they brought them to the camp at Shiloh in the land of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.13",
+      "edition_verse_id": "BSB:JDG.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the whole congregation sent a message of peace to the Benjamites who were at the rock of Rimmon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.14",
+      "edition_verse_id": "BSB:JDG.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And at that time the Benjamites returned and were given the women who were spared from Jabesh-gilead. But there were not enough women for all of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.15",
+      "edition_verse_id": "BSB:JDG.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The people grieved for Benjamin, because the LORD had made a void in the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.16",
+      "edition_verse_id": "BSB:JDG.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the elders of the congregation said, “What should we do about wives for those who remain, since the women of Benjamin have been destroyed?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.17",
+      "edition_verse_id": "BSB:JDG.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They added, “There must be heirs for the survivors of Benjamin, so that a tribe of Israel will not be wiped out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.18",
+      "edition_verse_id": "BSB:JDG.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But we cannot give them our daughters as wives.” For the Israelites had sworn, “Cursed is he who gives a wife to a Benjamite.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.19",
+      "edition_verse_id": "BSB:JDG.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“But look,” they said, “there is a yearly feast to the LORD in Shiloh, which is north of Bethel east of the road that goes up from Bethel to Shechem, and south of Lebonah.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.20",
+      "edition_verse_id": "BSB:JDG.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So they commanded the Benjamites: “Go, hide in the vineyards",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.21",
+      "edition_verse_id": "BSB:JDG.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and watch. When you see the daughters of Shiloh come out to perform their dances, each of you is to come out of the vineyards, catch for himself a wife from the daughters of Shiloh, and go to the land of Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.22",
+      "edition_verse_id": "BSB:JDG.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When their fathers or brothers come to us to complain, we will tell them, ‘Do us a favor by helping them, since we did not get wives for each of them in the war. Since you did not actually give them your daughters, you have no guilt.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.23",
+      "edition_verse_id": "BSB:JDG.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The Benjamites did as instructed and carried away the number of women they needed from the dancers they caught. They went back to their own inheritance, rebuilt their cities, and settled in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.21.24",
+      "edition_verse_id": "BSB:JDG.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And at that time, each of the Israelites returned from there to his own tribe and clan, each to his own inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.21.25",
+      "edition_verse_id": "BSB:JDG.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In those days there was no king in Israel; everyone did what was right in his own eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

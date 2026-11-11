@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "LEV.15.1",
+      "edition_verse_id": "BSB:LEV.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses and Aaron,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.2",
+      "edition_verse_id": "BSB:LEV.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Say to the Israelites, ‘When any man has a bodily discharge, the discharge is unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.3",
+      "edition_verse_id": "BSB:LEV.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This uncleanness is from his discharge, whether his body allows the discharge to flow or blocks it. So his discharge will bring about uncleanness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.4",
+      "edition_verse_id": "BSB:LEV.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Any bed on which the man with the discharge lies will be unclean, and any furniture on which he sits will be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.5",
+      "edition_verse_id": "BSB:LEV.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Anyone who touches his bed must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.6",
+      "edition_verse_id": "BSB:LEV.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Whoever sits on furniture on which the man with the discharge was sitting must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.7",
+      "edition_verse_id": "BSB:LEV.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Whoever touches the body of the man with a discharge must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.8",
+      "edition_verse_id": "BSB:LEV.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If the man with the discharge spits on one who is clean, that person must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.9",
+      "edition_verse_id": "BSB:LEV.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Any saddle on which the man with the discharge rides will be unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.10",
+      "edition_verse_id": "BSB:LEV.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Whoever touches anything that was under him will be unclean until evening, and whoever carries such things must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.11",
+      "edition_verse_id": "BSB:LEV.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If the man with the discharge touches anyone without first rinsing his hands with water, the one who was touched must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.12",
+      "edition_verse_id": "BSB:LEV.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Any clay pot that the man with the discharge touches must be broken, and any wooden utensil must be rinsed with water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.13",
+      "edition_verse_id": "BSB:LEV.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When the man has been cleansed from his discharge, he must count off seven days for his cleansing, wash his clothes, and bathe himself in fresh water, and he shall be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.14",
+      "edition_verse_id": "BSB:LEV.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "On the eighth day he is to take two turtledoves or two young pigeons, come before the LORD at the entrance to the Tent of Meeting, and give them to the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.15",
+      "edition_verse_id": "BSB:LEV.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The priest is to sacrifice them, one as a sin offering and the other as a burnt offering. In this way the priest will make atonement for the man before the LORD because of his discharge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.16",
+      "edition_verse_id": "BSB:LEV.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When a man has an emission of semen, he must bathe his whole body with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.17",
+      "edition_verse_id": "BSB:LEV.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Any clothing or leather on which there is an emission of semen must be washed with water, and it will remain unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.18",
+      "edition_verse_id": "BSB:LEV.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If a man lies with a woman and there is an emission of semen, both must bathe with water, and they will remain unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.19",
+      "edition_verse_id": "BSB:LEV.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "When a woman has a discharge consisting of blood from her body, she will be unclean due to her menstruation for seven days, and anyone who touches her will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.20",
+      "edition_verse_id": "BSB:LEV.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Anything on which she lies or sits during her menstruation will be unclean,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.21",
+      "edition_verse_id": "BSB:LEV.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and anyone who touches her bed must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.22",
+      "edition_verse_id": "BSB:LEV.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Whoever touches any furniture on which she was sitting must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.23",
+      "edition_verse_id": "BSB:LEV.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And whether it is a bed or furniture on which she was sitting, whoever touches it will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.24",
+      "edition_verse_id": "BSB:LEV.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "If a man lies with her and her menstrual flow touches him, he will be unclean for seven days, and any bed on which he lies will become unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.25",
+      "edition_verse_id": "BSB:LEV.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When a woman has a discharge of her blood for many days at a time other than her menstrual period, or if it continues beyond her period, she will be unclean all the days of her unclean discharge, just as she is during the days of her menstruation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.26",
+      "edition_verse_id": "BSB:LEV.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Any bed on which she lies or any furniture on which she sits during the days of her discharge will be unclean, like her bed during her menstrual period.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.27",
+      "edition_verse_id": "BSB:LEV.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Anyone who touches these things will be unclean; he must wash his clothes and bathe with water, and he will be unclean until evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.28",
+      "edition_verse_id": "BSB:LEV.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When a woman is cleansed of her discharge, she must count off seven days, and after that she will be ceremonially clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.29",
+      "edition_verse_id": "BSB:LEV.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "On the eighth day she is to take two turtledoves or two young pigeons and bring them to the priest at the entrance to the Tent of Meeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.30",
+      "edition_verse_id": "BSB:LEV.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The priest is to sacrifice one as a sin offering and the other as a burnt offering. In this way the priest will make atonement for her before the LORD for her unclean discharge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.15.31",
+      "edition_verse_id": "BSB:LEV.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "You must keep the children of Israel separate from their uncleanness, so that they do not die by defiling My tabernacle, which is among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.32",
+      "edition_verse_id": "BSB:LEV.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "This is the law of him who has a discharge, of the man who has an emission of semen whereby he is unclean,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.15.33",
+      "edition_verse_id": "BSB:LEV.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "of a woman in her menstrual period, of any male or female who has a discharge, and of a man who lies with an unclean woman.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "LUK.18.1",
+      "edition_verse_id": "BSB:LUK.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jesus told them a parable about their need to pray at all times and not lose heart:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.2",
+      "edition_verse_id": "BSB:LUK.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“In a certain town there was a judge who neither feared God nor respected men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.3",
+      "edition_verse_id": "BSB:LUK.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And there was a widow in that town who kept appealing to him, ‘Give me justice against my adversary.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.4",
+      "edition_verse_id": "BSB:LUK.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For a while he refused, but later he said to himself, ‘Though I neither fear God nor respect men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.5",
+      "edition_verse_id": "BSB:LUK.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "yet because this widow keeps pestering me, I will give her justice. Otherwise, she will wear me out with her perpetual requests.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.6",
+      "edition_verse_id": "BSB:LUK.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Lord said, “Listen to the words of the unjust judge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.7",
+      "edition_verse_id": "BSB:LUK.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Will not God bring about justice for His elect who cry out to Him day and night? Will He delay in helping them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.8",
+      "edition_verse_id": "BSB:LUK.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.9",
+      "edition_verse_id": "BSB:LUK.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "To some who trusted in their own righteousness and viewed others with contempt, He also told this parable:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.10",
+      "edition_verse_id": "BSB:LUK.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Two men went up to the temple to pray. One was a Pharisee and the other a tax collector.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.11",
+      "edition_verse_id": "BSB:LUK.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The Pharisee stood by himself and prayed, ‘God, I thank You that I am not like other men — swindlers, evildoers, adulterers — or even like this tax collector.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.12",
+      "edition_verse_id": "BSB:LUK.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I fast twice a week and pay tithes of all that I acquire.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.13",
+      "edition_verse_id": "BSB:LUK.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But the tax collector stood at a distance, unwilling even to lift up his eyes to heaven. Instead, he beat his breast and said, ‘God, have mercy on me, a sinner!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.14",
+      "edition_verse_id": "BSB:LUK.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I tell you, this man, rather than the Pharisee, went home justified. For everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.15",
+      "edition_verse_id": "BSB:LUK.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now people were even bringing their babies to Jesus for Him to place His hands on them. And when the disciples saw this, they rebuked those who brought them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.16",
+      "edition_verse_id": "BSB:LUK.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But Jesus called the children to Him and said, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.17",
+      "edition_verse_id": "BSB:LUK.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.18",
+      "edition_verse_id": "BSB:LUK.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then a certain ruler asked Him, “Good Teacher, what must I do to inherit eternal life?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.19",
+      "edition_verse_id": "BSB:LUK.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“Why do you call Me good?” Jesus replied. “No one is good except God alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.20",
+      "edition_verse_id": "BSB:LUK.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You know the commandments: ‘Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.21",
+      "edition_verse_id": "BSB:LUK.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“All these I have kept from my youth,” he said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.22",
+      "edition_verse_id": "BSB:LUK.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "On hearing this, Jesus told him, “You still lack one thing: Sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.23",
+      "edition_verse_id": "BSB:LUK.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But when the ruler heard this, he became very sad, because he was extremely wealthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.24",
+      "edition_verse_id": "BSB:LUK.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Seeing the man’s sadness, Jesus said, “How hard it is for the rich to enter the kingdom of God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.25",
+      "edition_verse_id": "BSB:LUK.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Indeed, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.26",
+      "edition_verse_id": "BSB:LUK.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Those who heard this asked, “Who then can be saved?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.27",
+      "edition_verse_id": "BSB:LUK.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But Jesus said, “What is impossible with man is possible with God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.28",
+      "edition_verse_id": "BSB:LUK.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "“Look,” said Peter, “we have left all we had to follow You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.29",
+      "edition_verse_id": "BSB:LUK.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“Truly I tell you,” Jesus replied, “no one who has left home or wife or brothers or parents or children for the sake of the kingdom of God",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.30",
+      "edition_verse_id": "BSB:LUK.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "will fail to receive many times more in this age — and in the age to come, eternal life.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.31",
+      "edition_verse_id": "BSB:LUK.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then Jesus took the Twelve aside and said to them, “Look, we are going up to Jerusalem, and everything the prophets have written about the Son of Man will be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.32",
+      "edition_verse_id": "BSB:LUK.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He will be delivered over to the Gentiles and will be mocked and insulted and spit upon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.33",
+      "edition_verse_id": "BSB:LUK.18.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "They will flog Him and kill Him, and on the third day He will rise again.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.34",
+      "edition_verse_id": "BSB:LUK.18.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But the disciples did not understand any of these things. The meaning was hidden from them, and they did not comprehend what He was saying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.35",
+      "edition_verse_id": "BSB:LUK.18.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "As Jesus drew near to Jericho, a blind man was sitting beside the road, begging.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.36",
+      "edition_verse_id": "BSB:LUK.18.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "When he heard the crowd going by, he asked what was happening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.37",
+      "edition_verse_id": "BSB:LUK.18.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "“Jesus of Nazareth is passing by,” they told him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.38",
+      "edition_verse_id": "BSB:LUK.18.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "So he called out, “Jesus, Son of David, have mercy on me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.39",
+      "edition_verse_id": "BSB:LUK.18.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Those who led the way admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.40",
+      "edition_verse_id": "BSB:LUK.18.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Jesus stopped and directed that the man be brought to Him. When he had come near, Jesus asked him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.41",
+      "edition_verse_id": "BSB:LUK.18.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "“What do you want Me to do for you?” “Lord,” he said, “let me see again.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.18.42",
+      "edition_verse_id": "BSB:LUK.18.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "“Receive your sight!” Jesus replied. “Your faith has healed you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.18.43",
+      "edition_verse_id": "BSB:LUK.18.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Immediately he received his sight and followed Jesus, glorifying God. And all the people, when they saw it, gave praise to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

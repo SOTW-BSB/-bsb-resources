@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "LEV.18.1",
+      "edition_verse_id": "BSB:LEV.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.2",
+      "edition_verse_id": "BSB:LEV.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and tell them: I am the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.3",
+      "edition_verse_id": "BSB:LEV.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You must not follow the practices of the land of Egypt, where you used to live, and you must not follow the practices of the land of Canaan, into which I am bringing you. You must not walk in their customs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.4",
+      "edition_verse_id": "BSB:LEV.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You are to practice My judgments and keep My statutes by walking in them. I am the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.5",
+      "edition_verse_id": "BSB:LEV.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Keep My statutes and My judgments, for the man who does these things will live by them. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.6",
+      "edition_verse_id": "BSB:LEV.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "None of you are to approach any close relative to have sexual relations. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.7",
+      "edition_verse_id": "BSB:LEV.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You must not expose the nakedness of your father by having sexual relations with your mother. She is your mother; you must not have sexual relations with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.8",
+      "edition_verse_id": "BSB:LEV.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with your father’s wife; it would dishonor your father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.9",
+      "edition_verse_id": "BSB:LEV.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with your sister, either your father’s daughter or your mother’s daughter, whether she was born in the same home or elsewhere.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.10",
+      "edition_verse_id": "BSB:LEV.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with your son’s daughter or your daughter’s daughter, for that would shame your family.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.11",
+      "edition_verse_id": "BSB:LEV.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with the daughter of your father’s wife, born to your father; she is your sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.12",
+      "edition_verse_id": "BSB:LEV.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with your father’s sister; she is your father’s close relative.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.13",
+      "edition_verse_id": "BSB:LEV.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with your mother’s sister, for she is your mother’s close relative.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.14",
+      "edition_verse_id": "BSB:LEV.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You must not dishonor your father’s brother by approaching his wife to have sexual relations with her; she is your aunt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.15",
+      "edition_verse_id": "BSB:LEV.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with your daughter-in-law. She is your son’s wife; you are not to have sexual relations with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.16",
+      "edition_verse_id": "BSB:LEV.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with your brother’s wife; that would shame your brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.17",
+      "edition_verse_id": "BSB:LEV.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "You must not have sexual relations with both a woman and her daughter. You are not to marry her son’s daughter or her daughter’s daughter and have sexual relations with her. They are close relatives; it is depraved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.18",
+      "edition_verse_id": "BSB:LEV.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "You must not take your wife’s sister as a rival wife and have sexual relations with her while your wife is still alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.19",
+      "edition_verse_id": "BSB:LEV.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You must not approach a woman to have sexual relations with her during her menstrual period.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.20",
+      "edition_verse_id": "BSB:LEV.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You must not lie carnally with your neighbor’s wife and thus defile yourself with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.21",
+      "edition_verse_id": "BSB:LEV.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "You must not give any of your children to be sacrificed to Molech, for you must not profane the name of your God. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.22",
+      "edition_verse_id": "BSB:LEV.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "You must not lie with a man as with a woman; that is an abomination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.23",
+      "edition_verse_id": "BSB:LEV.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "You must not lie carnally with any animal, thus defiling yourself with it; a woman must not stand before an animal to mate with it; that is a perversion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.24",
+      "edition_verse_id": "BSB:LEV.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Do not defile yourselves by any of these practices, for by all these things the nations I am driving out before you have defiled themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.25",
+      "edition_verse_id": "BSB:LEV.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Even the land has become defiled, so I am punishing it for its sin, and the land will vomit out its inhabitants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.26",
+      "edition_verse_id": "BSB:LEV.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But you are to keep My statutes and ordinances, and you must not commit any of these abominations— neither your native-born nor the foreigner who lives among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.27",
+      "edition_verse_id": "BSB:LEV.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For the men who were in the land before you committed all these abominations, and the land has become defiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.28",
+      "edition_verse_id": "BSB:LEV.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So if you defile the land, it will vomit you out as it spewed out the nations before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.18.29",
+      "edition_verse_id": "BSB:LEV.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Therefore anyone who commits any of these abominations must be cut off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.18.30",
+      "edition_verse_id": "BSB:LEV.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "You must keep My charge not to practice any of the abominable customs that were practiced before you, so that you do not defile yourselves by them. I am the LORD your God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

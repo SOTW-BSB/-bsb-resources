@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LAM",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "LAM.4.1",
+      "edition_verse_id": "BSB:LAM.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "How the gold has become tarnished, the pure gold has become dull! The gems of the temple lie scattered on every street corner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LAM.4.2",
+      "edition_verse_id": "BSB:LAM.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "How the precious sons of Zion, once worth their weight in pure gold, are now esteemed as jars of clay, the work of a potter’s hands!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.3",
+      "edition_verse_id": "BSB:LAM.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Even jackals offer their breasts to nurse their young, but the daughter of my people has become cruel, like an ostrich in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.4",
+      "edition_verse_id": "BSB:LAM.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The nursing infant’s tongue clings in thirst to the roof of his mouth. Little children beg for bread, but no one gives them any.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.5",
+      "edition_verse_id": "BSB:LAM.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Those who once ate delicacies are destitute in the streets; those brought up in crimson huddle in ash heaps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.6",
+      "edition_verse_id": "BSB:LAM.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The punishment of the daughter of my people is greater than that of Sodom, which was overthrown in an instant without a hand turned to help her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.7",
+      "edition_verse_id": "BSB:LAM.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Her dignitaries were brighter than snow, whiter than milk; their bodies were more ruddy than rubies, their appearance like sapphires.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.8",
+      "edition_verse_id": "BSB:LAM.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But now their appearance is blacker than soot; they are not recognized in the streets. Their skin has shriveled on their bones; it has become as dry as a stick.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.9",
+      "edition_verse_id": "BSB:LAM.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Those slain by the sword are better off than those who die of hunger, who waste away, pierced with pain because the fields lack produce.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.10",
+      "edition_verse_id": "BSB:LAM.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The hands of compassionate women have cooked their own children, who became their food in the destruction of the daughter of my people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.11",
+      "edition_verse_id": "BSB:LAM.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD has exhausted His wrath; He has poured out His fierce anger; He has kindled a fire in Zion, and it has consumed her foundations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.12",
+      "edition_verse_id": "BSB:LAM.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The kings of the earth did not believe, nor any people of the world, that an enemy or a foe could enter the gates of Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.13",
+      "edition_verse_id": "BSB:LAM.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But this was for the sins of her prophets and the guilt of her priests, who shed the blood of the righteous in her midst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.14",
+      "edition_verse_id": "BSB:LAM.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They wandered blind in the streets, defiled by this blood, so that no one dared to touch their garments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.15",
+      "edition_verse_id": "BSB:LAM.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Go away! Unclean!” men shouted at them. “Away, away! Do not touch us!” So they fled and wandered. Among the nations it was said, “They can stay here no longer.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.16",
+      "edition_verse_id": "BSB:LAM.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The presence of the LORD has scattered them; He regards them no more. The priests are shown no honor; the elders find no favor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.17",
+      "edition_verse_id": "BSB:LAM.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All the while our eyes were failing as we looked in vain for help. We watched from our towers for a nation that could not save us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.18",
+      "edition_verse_id": "BSB:LAM.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They stalked our every step, so that we could not walk in our streets. Our end drew near, our time ran out, for our end had come!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.19",
+      "edition_verse_id": "BSB:LAM.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Those who chased us were swifter than the eagles in the sky; they pursued us over the mountains and ambushed us in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.20",
+      "edition_verse_id": "BSB:LAM.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The LORD’s anointed, the breath of our life, was captured in their pits. We had said of him, “Under his shadow we will live among the nations.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.21",
+      "edition_verse_id": "BSB:LAM.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet the cup will pass to you as well; you will get drunk and expose yourself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LAM.4.22",
+      "edition_verse_id": "BSB:LAM.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "O Daughter of Zion, your punishment is complete; He will not prolong your exile. But He will punish your iniquity, O Daughter of Edom; He will expose your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

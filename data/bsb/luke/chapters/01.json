@@ -1,0 +1,968 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "LUK.1.1",
+      "edition_verse_id": "BSB:LUK.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Many have undertaken to compose an account of the things that have been fulfilled among us,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.2",
+      "edition_verse_id": "BSB:LUK.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "just as they were handed down to us by the initial eyewitnesses and servants of the word.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.3",
+      "edition_verse_id": "BSB:LUK.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore, having carefully investigated everything from the beginning, it seemed good also to me to write an orderly account for you, most excellent Theophilus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.4",
+      "edition_verse_id": "BSB:LUK.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "so that you may know the certainty of the things you have been taught.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.5",
+      "edition_verse_id": "BSB:LUK.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "In the time of Herod king of Judea there was a priest named Zechariah, who belonged to the priestly division of Abijah, and whose wife Elizabeth was a descendant of Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.6",
+      "edition_verse_id": "BSB:LUK.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Both of them were righteous in the sight of God, walking blamelessly in all the commandments and decrees of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.7",
+      "edition_verse_id": "BSB:LUK.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But they had no children, because Elizabeth was barren, and they were both well along in years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.8",
+      "edition_verse_id": "BSB:LUK.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "One day while Zechariah’s division was on duty and he was serving as priest before God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.9",
+      "edition_verse_id": "BSB:LUK.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "he was chosen by lot, according to the custom of the priesthood, to enter the temple of the Lord and burn incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.10",
+      "edition_verse_id": "BSB:LUK.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And at the hour of the incense offering, the whole congregation was praying outside.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.11",
+      "edition_verse_id": "BSB:LUK.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Just then an angel of the Lord appeared to Zechariah, standing at the right side of the altar of incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.12",
+      "edition_verse_id": "BSB:LUK.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When Zechariah saw him, he was startled and gripped with fear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.13",
+      "edition_verse_id": "BSB:LUK.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But the angel said to him, “Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son, and you are to give him the name John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.14",
+      "edition_verse_id": "BSB:LUK.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He will be a joy and delight to you, and many will rejoice at his birth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.15",
+      "edition_verse_id": "BSB:LUK.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "for he will be great in the sight of the Lord. He shall never take wine or strong drink, and he will be filled with the Holy Spirit even from his mother’s womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.16",
+      "edition_verse_id": "BSB:LUK.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Many of the sons of Israel he will turn back to the Lord their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.17",
+      "edition_verse_id": "BSB:LUK.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he will go on before the Lord in the spirit and power of Elijah, to turn the hearts of the fathers to their children and the disobedient to the wisdom of the righteous — to make ready a people prepared for the Lord.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.18",
+      "edition_verse_id": "BSB:LUK.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“How can I be sure of this?” Zechariah asked the angel. “I am an old man, and my wife is well along in years.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.19",
+      "edition_verse_id": "BSB:LUK.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“I am Gabriel,” replied the angel. “I stand in the presence of God, and I have been sent to speak to you and to bring you this good news.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.20",
+      "edition_verse_id": "BSB:LUK.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And now you will be silent and unable to speak until the day this comes to pass, because you did not believe my words, which will be fulfilled at their proper time.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.21",
+      "edition_verse_id": "BSB:LUK.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Meanwhile, the people were waiting for Zechariah and wondering why he took so long in the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.22",
+      "edition_verse_id": "BSB:LUK.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When he came out and was unable to speak to them, they realized he had seen a vision in the temple. He kept making signs to them but remained unable to speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.23",
+      "edition_verse_id": "BSB:LUK.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And when the days of his service were complete, he returned home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.24",
+      "edition_verse_id": "BSB:LUK.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "After these days, his wife Elizabeth became pregnant and for five months remained in seclusion. She declared,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.25",
+      "edition_verse_id": "BSB:LUK.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "“The Lord has done this for me. In these days He has shown me favor and taken away my disgrace among the people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.26",
+      "edition_verse_id": "BSB:LUK.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "In the sixth month, God sent the angel Gabriel to a town in Galilee called Nazareth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.27",
+      "edition_verse_id": "BSB:LUK.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "to a virgin pledged in marriage to a man named Joseph, who was of the house of David. And the virgin’s name was Mary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.28",
+      "edition_verse_id": "BSB:LUK.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.29",
+      "edition_verse_id": "BSB:LUK.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Mary was greatly troubled at his words and wondered what kind of greeting this might be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.30",
+      "edition_verse_id": "BSB:LUK.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So the angel told her, “Do not be afraid, Mary, for you have found favor with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.31",
+      "edition_verse_id": "BSB:LUK.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Behold, you will conceive and give birth to a son, and you are to give Him the name Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.32",
+      "edition_verse_id": "BSB:LUK.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His father David,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.33",
+      "edition_verse_id": "BSB:LUK.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "and He will reign over the house of Jacob forever. His kingdom will never end!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.34",
+      "edition_verse_id": "BSB:LUK.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“How can this be,” Mary asked the angel, “since I am a virgin?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.35",
+      "edition_verse_id": "BSB:LUK.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the Holy One to be born will be called the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.36",
+      "edition_verse_id": "BSB:LUK.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.37",
+      "edition_verse_id": "BSB:LUK.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For no word from God will ever fail.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.38",
+      "edition_verse_id": "BSB:LUK.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "“I am the Lord’s servant,” Mary answered. “May it happen to me according to your word.” Then the angel left her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.39",
+      "edition_verse_id": "BSB:LUK.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "In those days Mary got ready and hurried to a town in the hill country of Judah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.40",
+      "edition_verse_id": "BSB:LUK.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "where she entered the home of Zechariah and greeted Elizabeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.41",
+      "edition_verse_id": "BSB:LUK.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.42",
+      "edition_verse_id": "BSB:LUK.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "In a loud voice she exclaimed, “Blessed are you among women, and blessed is the fruit of your womb!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.43",
+      "edition_verse_id": "BSB:LUK.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And why am I so honored, that the mother of my Lord should come to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.44",
+      "edition_verse_id": "BSB:LUK.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "For as soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.45",
+      "edition_verse_id": "BSB:LUK.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Blessed is she who has believed that the Lord’s word to her will be fulfilled.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.46",
+      "edition_verse_id": "BSB:LUK.1.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Then Mary said: “My soul magnifies the Lord,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.47",
+      "edition_verse_id": "BSB:LUK.1.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "and my spirit rejoices in God my Savior!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.48",
+      "edition_verse_id": "BSB:LUK.1.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "For He has looked with favor on the humble state of His servant. From now on all generations will call me blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.49",
+      "edition_verse_id": "BSB:LUK.1.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "For the Mighty One has done great things for me. Holy is His name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.50",
+      "edition_verse_id": "BSB:LUK.1.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "His mercy extends to those who fear Him, from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.51",
+      "edition_verse_id": "BSB:LUK.1.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "He has performed mighty deeds with His arm; He has scattered those who are proud in the thoughts of their hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.52",
+      "edition_verse_id": "BSB:LUK.1.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "He has brought down rulers from their thrones, but has exalted the humble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.53",
+      "edition_verse_id": "BSB:LUK.1.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "He has filled the hungry with good things, but has sent the rich away empty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.54",
+      "edition_verse_id": "BSB:LUK.1.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "He has helped His servant Israel, remembering to be merciful,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.55",
+      "edition_verse_id": "BSB:LUK.1.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "as He promised to our fathers, to Abraham and his descendants forever.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.56",
+      "edition_verse_id": "BSB:LUK.1.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "Mary stayed with Elizabeth for about three months and then returned home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.57",
+      "edition_verse_id": "BSB:LUK.1.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "When the time came for Elizabeth to have her child, she gave birth to a son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.58",
+      "edition_verse_id": "BSB:LUK.1.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "Her neighbors and relatives heard that the Lord had shown her great mercy, and they rejoiced with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.59",
+      "edition_verse_id": "BSB:LUK.1.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "On the eighth day, when they came to circumcise the child, they were going to name him after his father Zechariah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.60",
+      "edition_verse_id": "BSB:LUK.1.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "But his mother replied, “No! He shall be called John.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.61",
+      "edition_verse_id": "BSB:LUK.1.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "They said to her, “There is no one among your relatives who bears this name.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.62",
+      "edition_verse_id": "BSB:LUK.1.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "So they made signs to his father to find out what he wanted to name the child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.63",
+      "edition_verse_id": "BSB:LUK.1.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "Zechariah asked for a tablet and wrote, “His name is John.” And they were all amazed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.64",
+      "edition_verse_id": "BSB:LUK.1.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "Immediately Zechariah’s mouth was opened and his tongue was released, and he began to speak, praising God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.65",
+      "edition_verse_id": "BSB:LUK.1.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "All their neighbors were filled with awe, and people throughout the hill country of Judea were talking about these events.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.66",
+      "edition_verse_id": "BSB:LUK.1.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "And all who heard this wondered in their hearts and asked, “What then will this child become?” For the Lord’s hand was with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.67",
+      "edition_verse_id": "BSB:LUK.1.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "Then his father Zechariah was filled with the Holy Spirit and prophesied:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.1.68",
+      "edition_verse_id": "BSB:LUK.1.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "“Blessed be the Lord, the God of Israel, because He has visited and redeemed His people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.69",
+      "edition_verse_id": "BSB:LUK.1.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "He has raised up a horn of salvation for us in the house of His servant David,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.70",
+      "edition_verse_id": "BSB:LUK.1.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "as He spoke through His holy prophets, those of ages past,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.71",
+      "edition_verse_id": "BSB:LUK.1.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "salvation from our enemies and from the hand of all who hate us,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.72",
+      "edition_verse_id": "BSB:LUK.1.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "to show mercy to our fathers and to remember His holy covenant,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.73",
+      "edition_verse_id": "BSB:LUK.1.73",
+      "verse": 73,
+      "spans": [
+        {
+          "text": "the oath He swore to our father Abraham, to grant us",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.74",
+      "edition_verse_id": "BSB:LUK.1.74",
+      "verse": 74,
+      "spans": [
+        {
+          "text": "deliverance from hostile hands, that we may serve Him without fear,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.75",
+      "edition_verse_id": "BSB:LUK.1.75",
+      "verse": 75,
+      "spans": [
+        {
+          "text": "in holiness and righteousness before Him all the days of our lives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.76",
+      "edition_verse_id": "BSB:LUK.1.76",
+      "verse": 76,
+      "spans": [
+        {
+          "text": "And you, child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.77",
+      "edition_verse_id": "BSB:LUK.1.77",
+      "verse": 77,
+      "spans": [
+        {
+          "text": "to give to His people the knowledge of salvation through the forgiveness of their sins,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.78",
+      "edition_verse_id": "BSB:LUK.1.78",
+      "verse": 78,
+      "spans": [
+        {
+          "text": "because of the tender mercy of our God, by which the Dawn will visit us from on high,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.79",
+      "edition_verse_id": "BSB:LUK.1.79",
+      "verse": 79,
+      "spans": [
+        {
+          "text": "to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.1.80",
+      "edition_verse_id": "BSB:LUK.1.80",
+      "verse": 80,
+      "spans": [
+        {
+          "text": "And the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

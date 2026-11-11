@@ -1,0 +1,115 @@
+{
+  "edition_id": "BSB",
+  "book_code": "LAM",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "72c03a5f6dfab1f1c0de9a82eb38bbb4561013f15b14920e354e3133d1ccb00b"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft Or \\fqa her shame\\f*",
+          "raw_sha256": "57e5d2e7243371e1d54f1b1f5f17804c34d86fa52260f71f48fcf8c9b7ebc735"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Most Hebrew manuscripts; other Hebrew manuscripts and LXX \\fqa He kept watch over my sins\\f*",
+          "raw_sha256": "b765e41d86cc89713e3180174d1eb2c210d209115dbaf2a5b6fc33586453c807"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 1:15 \\ft Or \\fqa has set a time for me\\f*",
+          "raw_sha256": "5b3f67ccceb674f65cbce689f18c1b5b15c86891039f7cb3982198fd67665bd5"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "db6cf264f23d3b232866e0c3a8ce5cff57a2f441ceffe6bddd9c029ccf983eaf"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 2:3 \\ft Or \\fqa all the strength\\f*",
+          "raw_sha256": "de89f25d90704d328c860ff3af1389ff6c34f27cafbb3672f9ba44bedca95995"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\ft Or \\fqa the strength\\f*",
+          "raw_sha256": "f4ef8f3ee0d61715eb378be4a8579d36b1899d49edb173fd14b732d8cae701fa"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 2:18 \\ft Literally \\fqa Their heart cries out to the Lord.\\f*",
+          "raw_sha256": "12cf3911c74211db4707d14baa29a119a8162e8589f954082b96399add614ce4"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 2:19 \\ft That is, between six and nine at night\\f*",
+          "raw_sha256": "c5df826d6996958468aaa6862656c101fd4b5262743e06cc02552235f4953034"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft This chapter is an acrostic poem, each 3–verse stanza beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "5620d49683bcfaede51f45e464872269f230a649c7525e8db63699d30208039e"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 3:22 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "0e81e7f82bc07f5f782366bffc5493440db47f7ae777861974e73592fde0dd1e"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 4:1 \\ft This chapter is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "a04fb55a17b99b7a435f7fc4b6fe0f01c172538e28121e7757928022fcccb425"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft Or \\fqa serpents \\ft or \\fqa dragons\\f*",
+          "raw_sha256": "112687a69f8062525819290c4b3661d8f1ccfdb64b5f138b10c6a143a2dc6dc4"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft Or \\fqa iniquity\\f*",
+          "raw_sha256": "220fc2207df43e2d497abf2b4d08b86a0f307dc6856f9e425b09d31d33378406"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft Or \\fqa their polishing \\ft or \\fqa their hair\\f*",
+          "raw_sha256": "82a5b05a9125d0d6532bf205f35e69aea3f986692e498d0f4d663609531c7b5f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft Hebrew \\fqa lapis lazuli\\f*",
+          "raw_sha256": "7ed057f034bc6d3a6a504d982b59f277785ce36941f02ecaf8ad3a90691b0270"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 4:22 \\ft Or \\fqa He will not exile you again\\f*",
+          "raw_sha256": "fd7901740386342ef9d0d7b85080973ca730d819137285b9e80c6e28a7166f61"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

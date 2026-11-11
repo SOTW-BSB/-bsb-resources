@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "LEV.22.1",
+      "edition_verse_id": "BSB:LEV.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.2",
+      "edition_verse_id": "BSB:LEV.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Tell Aaron and his sons to treat with respect the sacred offerings that the Israelites have consecrated to Me, so that they do not profane My holy name. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.3",
+      "edition_verse_id": "BSB:LEV.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Tell them that for the generations to come, if any of their descendants in a state of uncleanness approaches the sacred offerings that the Israelites consecrate to the LORD, that person must be cut off from My presence. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.4",
+      "edition_verse_id": "BSB:LEV.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If a descendant of Aaron has a skin disease or a discharge, he may not eat the sacred offerings until he is clean. Whoever touches anything defiled by a corpse or by a man who has an emission of semen,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.5",
+      "edition_verse_id": "BSB:LEV.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "or whoever touches a crawling creature or a person that makes him unclean, whatever the uncleanness may be —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.6",
+      "edition_verse_id": "BSB:LEV.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "the man who touches any of these will remain unclean until evening. He must not eat from the sacred offerings unless he has bathed himself with water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.7",
+      "edition_verse_id": "BSB:LEV.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When the sun has set, he will become clean, and then he may eat from the sacred offerings, for they are his food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.8",
+      "edition_verse_id": "BSB:LEV.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He must not eat anything found dead or torn by wild animals, which would make him unclean. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.9",
+      "edition_verse_id": "BSB:LEV.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The priests must keep My charge, lest they bear the guilt and die because they profane it. I am the LORD who sanctifies them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.10",
+      "edition_verse_id": "BSB:LEV.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "No one outside a priest’s family may eat the sacred offering, nor may the guest of a priest or his hired hand eat it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.11",
+      "edition_verse_id": "BSB:LEV.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But if a priest buys a slave with his own money, or if a slave is born in his household, that slave may eat his food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.12",
+      "edition_verse_id": "BSB:LEV.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If the priest’s daughter is married to a man other than a priest, she is not to eat of the sacred contributions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.13",
+      "edition_verse_id": "BSB:LEV.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But if a priest’s daughter with no children becomes widowed or divorced and returns to her father’s house, she may share her father’s food as in her youth. But no outsider may share it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.14",
+      "edition_verse_id": "BSB:LEV.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If anyone eats a sacred offering in error, he must add a fifth to its value and give the sacred offering to the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.15",
+      "edition_verse_id": "BSB:LEV.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The priests must not profane the sacred offerings that the Israelites present to the LORD",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.16",
+      "edition_verse_id": "BSB:LEV.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "by allowing the people to eat the sacred offerings and thus to bear the punishment for guilt. For I am the LORD who sanctifies them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.17",
+      "edition_verse_id": "BSB:LEV.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.18",
+      "edition_verse_id": "BSB:LEV.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Speak to Aaron and his sons and all the Israelites and tell them, ‘Any man of the house of Israel or any foreign resident who presents a gift for a burnt offering to the LORD, whether to fulfill a vow or as a freewill offering,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.19",
+      "edition_verse_id": "BSB:LEV.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "must offer an unblemished male from the cattle, sheep, or goats in order for it to be accepted on your behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.20",
+      "edition_verse_id": "BSB:LEV.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You must not present anything with a defect, because it will not be accepted on your behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.21",
+      "edition_verse_id": "BSB:LEV.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When a man presents a peace offering to the LORD from the herd or flock to fulfill a vow or as a freewill offering, it must be without blemish or defect to be acceptable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.22",
+      "edition_verse_id": "BSB:LEV.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "You are not to present to the LORD any animal that is blind, injured, or maimed, or anything with a running sore, a festering rash, or a scab; you must not put any of these on the altar as a food offering to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.23",
+      "edition_verse_id": "BSB:LEV.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "You may present as a freewill offering an ox or sheep that has a deformed or stunted limb, but it is not acceptable in fulfillment of a vow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.24",
+      "edition_verse_id": "BSB:LEV.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "You are not to present to the LORD an animal whose testicles are bruised, crushed, torn, or cut; you are not to sacrifice them in your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.25",
+      "edition_verse_id": "BSB:LEV.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Neither you nor a foreigner shall present food to your God from any such animal. They will not be accepted on your behalf, because they are deformed and flawed.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.26",
+      "edition_verse_id": "BSB:LEV.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.27",
+      "edition_verse_id": "BSB:LEV.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "“When an ox, a sheep, or a goat is born, it must remain with its mother for seven days. From the eighth day on, it will be acceptable as a food offering presented to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.28",
+      "edition_verse_id": "BSB:LEV.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But you must not slaughter an ox or a sheep on the same day as its young.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.29",
+      "edition_verse_id": "BSB:LEV.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When you sacrifice a thank offering to the LORD, offer it so that it may be acceptable on your behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.30",
+      "edition_verse_id": "BSB:LEV.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "It must be eaten that same day. Do not leave any of it until morning. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.31",
+      "edition_verse_id": "BSB:LEV.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "You are to keep My commandments and practice them. I am the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.22.32",
+      "edition_verse_id": "BSB:LEV.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "You must not profane My holy name. I must be acknowledged as holy among the Israelites. I am the LORD who sanctifies you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.22.33",
+      "edition_verse_id": "BSB:LEV.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "who brought you out of the land of Egypt to be your God. I am the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

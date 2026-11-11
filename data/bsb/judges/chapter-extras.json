@@ -1,0 +1,143 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JDG",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Conquest of Canaan Proceeds",
+        "\\s1 The Capture of Jerusalem and Hebron",
+        "\\s1 The Failure to Complete the Conquest"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Israel Rebuked at Bochim",
+        "\\s1 Joshua’s Death and Burial",
+        "\\s1 Israel’s Unfaithfulness",
+        "\\s1 Judges Raised Up"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Nations Left to Test Israel",
+        "\\s1 Othniel",
+        "\\s1 Ehud",
+        "\\s1 Shamgar"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Deborah and Barak",
+        "\\s1 Jael Kills Sisera"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Song of Deborah and Barak"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Midian Oppresses Israel",
+        "\\s1 The Call of Gideon",
+        "\\s1 Gideon Destroys Baal’s Altar",
+        "\\s1 The Sign of the Fleece"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Gideon’s Army of Three Hundred",
+        "\\s1 The Sword of Gideon",
+        "\\s1 Gideon Defeats Midian"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Gideon Defeats Zebah and Zalmunna",
+        "\\s1 Gideon’s Ephod",
+        "\\s1 Forty Years of Peace",
+        "\\s1 Gideon’s Death"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Abimelech’s Conspiracy",
+        "\\s1 Jotham’s Parable",
+        "\\s1 Gaal Conspires with the Shechemites",
+        "\\s1 The Fall of Shechem",
+        "\\s1 Abimelech’s Punishment"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Tola",
+        "\\s1 Jair",
+        "\\s1 Oppression by the Philistines and Ammonites"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Jephthah Delivers Israel",
+        "\\s1 Jephthah’s Tragic Vow"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Jephthah Defeats Ephraim",
+        "\\s1 Ibzan, Elon, and Abdon"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 The Birth of Samson"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Samson’s Marriage",
+        "\\s1 Samson’s Riddle"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Samson’s Revenge"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Samson Escapes Gaza",
+        "\\s1 Samson and Delilah",
+        "\\s1 Delilah Learns the Secret",
+        "\\s1 Samson’s Vengeance and Death"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 Micah’s Idolatry"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 The Danites Settle in Laish",
+        "\\s1 The Danites Take Micah’s Idols"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 The Crime of the Benjamites"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 The Decree of the Assembly",
+        "\\s1 Civil War against Benjamin"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 Wives for the Benjamites"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

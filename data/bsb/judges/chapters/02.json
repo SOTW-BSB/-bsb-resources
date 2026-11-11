@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JDG",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JDG.2.1",
+      "edition_verse_id": "BSB:JDG.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the angel of the LORD went up from Gilgal to Bochim and said, “I brought you up out of Egypt and led you into the land that I had promised to your fathers, and I said, ‘I will never break My covenant with you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.2",
+      "edition_verse_id": "BSB:JDG.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and you are not to make a covenant with the people of this land, but you shall tear down their altars.’ Yet you have not obeyed My voice. What is this you have done?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.3",
+      "edition_verse_id": "BSB:JDG.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So now I tell you that I will not drive out these people before you; they will be thorns in your sides, and their gods will be a snare to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.4",
+      "edition_verse_id": "BSB:JDG.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When the angel of the LORD had spoken these words to all the Israelites, the people lifted up their voices and wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.5",
+      "edition_verse_id": "BSB:JDG.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So they called that place Bochim and offered sacrifices there to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.6",
+      "edition_verse_id": "BSB:JDG.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "After Joshua had dismissed the people, the Israelites went out to take possession of the land, each to his own inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.7",
+      "edition_verse_id": "BSB:JDG.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the people served the LORD throughout the days of Joshua and of the elders who outlived him, who had seen all the great works that the LORD had done for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.8",
+      "edition_verse_id": "BSB:JDG.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Joshua son of Nun, the servant of the LORD, died at the age of 110.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.9",
+      "edition_verse_id": "BSB:JDG.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They buried him in the land of his inheritance, at Timnath-heres in the hill country of Ephraim, north of Mount Gaash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.10",
+      "edition_verse_id": "BSB:JDG.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "After that whole generation had also been gathered to their fathers, another generation rose up who did not know the LORD or the works that He had done for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.11",
+      "edition_verse_id": "BSB:JDG.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the Israelites did evil in the sight of the LORD and served the Baals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.12",
+      "edition_verse_id": "BSB:JDG.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Thus they forsook the LORD, the God of their fathers, who had brought them out of the land of Egypt, and they followed after various gods of the peoples around them. They bowed down to them and provoked the LORD to anger,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.13",
+      "edition_verse_id": "BSB:JDG.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "for they forsook Him and served Baal and the Ashtoreths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.14",
+      "edition_verse_id": "BSB:JDG.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then the anger of the LORD burned against Israel, and He delivered them into the hands of those who plundered them. He sold them into the hands of their enemies all around, whom they were no longer able to resist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.15",
+      "edition_verse_id": "BSB:JDG.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Wherever Israel marched out, the hand of the LORD was against them to bring calamity, just as He had sworn to them. So they were greatly distressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.16",
+      "edition_verse_id": "BSB:JDG.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the LORD raised up judges, who saved them from the hands of those who plundered them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.17",
+      "edition_verse_id": "BSB:JDG.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Israel, however, did not listen to their judges. Instead, they prostituted themselves with other gods and bowed down to them. They quickly turned from the way of their fathers, who had walked in obedience to the LORD’s commandments; they did not do as their fathers had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.18",
+      "edition_verse_id": "BSB:JDG.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Whenever the LORD raised up a judge for the Israelites, He was with that judge and saved them from the hands of their enemies while the judge was still alive; for the LORD was moved to pity by their groaning under those who oppressed them and afflicted them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.19",
+      "edition_verse_id": "BSB:JDG.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But when the judge died, the Israelites became even more corrupt than their fathers, going after other gods to serve them and bow down to them. They would not give up their evil practices and stubborn ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.20",
+      "edition_verse_id": "BSB:JDG.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So the anger of the LORD burned against Israel, and He said, “Because this nation has transgressed the covenant I laid down for their fathers and has not heeded My voice,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.2.21",
+      "edition_verse_id": "BSB:JDG.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I will no longer drive out before them any of the nations Joshua left when he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.22",
+      "edition_verse_id": "BSB:JDG.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In this way I will test whether Israel will keep the way of the LORD by walking in it as their fathers did.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.2.23",
+      "edition_verse_id": "BSB:JDG.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "That is why the LORD had left those nations in place and had not driven them out immediately by delivering them into the hand of Joshua.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

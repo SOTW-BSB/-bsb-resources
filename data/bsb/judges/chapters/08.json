@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JDG",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "JDG.8.1",
+      "edition_verse_id": "BSB:JDG.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the men of Ephraim said to Gideon, “Why have you done this to us? Why did you fail to call us when you went to fight against Midian?” And they contended with him violently.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.2",
+      "edition_verse_id": "BSB:JDG.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But Gideon answered them, “Now what have I accomplished compared to you? Are not the gleanings of Ephraim better than the grape harvest of Abiezer?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.3",
+      "edition_verse_id": "BSB:JDG.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "God has delivered Oreb and Zeeb, the two princes of Midian, into your hand. What was I able to do compared to you?” When he had said this, their anger against him subsided.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.4",
+      "edition_verse_id": "BSB:JDG.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then Gideon and his three hundred men came to the Jordan and crossed it, exhausted yet still in pursuit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.5",
+      "edition_verse_id": "BSB:JDG.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So Gideon said to the men of Succoth, “Please give my troops some bread, for they are exhausted, and I am still pursuing Zebah and Zalmunna, the kings of Midian.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.6",
+      "edition_verse_id": "BSB:JDG.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But the leaders of Succoth asked, “Are the hands of Zebah and Zalmunna already in your possession, that we should give bread to your army?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.7",
+      "edition_verse_id": "BSB:JDG.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Very well,” Gideon replied, “when the LORD has delivered Zebah and Zalmunna into my hand, I will tear your flesh with the thorns and briers of the wilderness!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.8",
+      "edition_verse_id": "BSB:JDG.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "From there he went up to Penuel and asked the same from them, but the men of Penuel gave the same response as the men of Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.9",
+      "edition_verse_id": "BSB:JDG.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So Gideon told the men of Penuel, “When I return in triumph, I will tear down this tower!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.10",
+      "edition_verse_id": "BSB:JDG.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now Zebah and Zalmunna were in Karkor with their army of about fifteen thousand men — all that were left of the armies of the people of the east. A hundred and twenty thousand swordsmen had already fallen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.11",
+      "edition_verse_id": "BSB:JDG.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And Gideon went up by way of the caravan route east of Nobah and Jogbehah, and he attacked their army, taking them by surprise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.12",
+      "edition_verse_id": "BSB:JDG.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When Zebah and Zalmunna fled, Gideon pursued and captured these two kings of Midian, routing their entire army.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.13",
+      "edition_verse_id": "BSB:JDG.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "After this, Gideon son of Joash returned from the battle along the Ascent of Heres.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.14",
+      "edition_verse_id": "BSB:JDG.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "There he captured a young man of Succoth and interrogated him. The young man wrote down for him the names of the seventy-seven leaders and elders of Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.15",
+      "edition_verse_id": "BSB:JDG.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Gideon went to the men of Succoth and said, “Here are Zebah and Zalmunna, about whom you taunted me, saying, ‘Are the hands of Zebah and Zalmunna already in your possession, that we should give bread to your weary men?’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.16",
+      "edition_verse_id": "BSB:JDG.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then he took the elders of the city, and using the thorns and briers of the wilderness, he disciplined the men of Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.17",
+      "edition_verse_id": "BSB:JDG.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He also pulled down the tower of Penuel and killed the men of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.18",
+      "edition_verse_id": "BSB:JDG.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Next, Gideon asked Zebah and Zalmunna, “What kind of men did you kill at Tabor?” “Men like you,” they answered, “each one resembling the son of a king.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.19",
+      "edition_verse_id": "BSB:JDG.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“They were my brothers,” Gideon replied, “the sons of my mother! As surely as the LORD lives, if you had let them live, I would not kill you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.20",
+      "edition_verse_id": "BSB:JDG.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So he said to Jether, his firstborn, “Get up and kill them.” But the young man did not draw his sword; he was fearful because he was still a youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.21",
+      "edition_verse_id": "BSB:JDG.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Zebah and Zalmunna said, “Get up and kill us yourself, for as the man is, so is his strength.” So Gideon got up and killed Zebah and Zalmunna, and he took the crescent ornaments from the necks of their camels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.22",
+      "edition_verse_id": "BSB:JDG.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the Israelites said to Gideon, “Rule over us — you and your son and grandson — for you have saved us from the hand of Midian.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.23",
+      "edition_verse_id": "BSB:JDG.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But Gideon replied, “I will not rule over you, nor will my son. The LORD shall rule over you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.24",
+      "edition_verse_id": "BSB:JDG.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then he added, “Let me make a request of you, that each of you give me an earring from his plunder.” (For the enemies had gold earrings because they were Ishmaelites.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.25",
+      "edition_verse_id": "BSB:JDG.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "“We will give them gladly,” they replied. So they spread out a garment, and each man threw an earring from his plunder onto it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.26",
+      "edition_verse_id": "BSB:JDG.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The weight of the gold earrings he had requested was 1 ,700 shekels, in addition to the crescent ornaments, the pendants, the purple garments of the kings of Midian, and the chains from the necks of their camels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.27",
+      "edition_verse_id": "BSB:JDG.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "From all this Gideon made an ephod, which he placed in Ophrah, his hometown. But soon all Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.28",
+      "edition_verse_id": "BSB:JDG.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "In this way Midian was subdued before the Israelites and did not raise its head again. So the land had rest for forty years in the days of Gideon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.29",
+      "edition_verse_id": "BSB:JDG.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and he — Jerubbaal son of Joash — returned home and settled down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.30",
+      "edition_verse_id": "BSB:JDG.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Gideon had seventy sons of his own, since he had many wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.31",
+      "edition_verse_id": "BSB:JDG.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "His concubine, who dwelt in Shechem, also bore him a son, and he named him Abimelech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.8.32",
+      "edition_verse_id": "BSB:JDG.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Later, Gideon son of Joash died at a ripe old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.33",
+      "edition_verse_id": "BSB:JDG.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And as soon as Gideon was dead, the Israelites turned and prostituted themselves with the Baals, and they set up Baal-berith as their god.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.34",
+      "edition_verse_id": "BSB:JDG.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The Israelites failed to remember the LORD their God who had delivered them from the hands of all their enemies on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.8.35",
+      "edition_verse_id": "BSB:JDG.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "They did not show kindness to the house of Jerubbaal (that is, Gideon) for all the good things he had done for Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

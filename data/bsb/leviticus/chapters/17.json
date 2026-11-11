@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "LEV.17.1",
+      "edition_verse_id": "BSB:LEV.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.2",
+      "edition_verse_id": "BSB:LEV.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Speak to Aaron, his sons, and all the Israelites and tell them this is what the LORD has commanded:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.3",
+      "edition_verse_id": "BSB:LEV.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "‘Anyone from the house of Israel who slaughters an ox, a lamb, or a goat in the camp or outside of it",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.4",
+      "edition_verse_id": "BSB:LEV.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "instead of bringing it to the entrance to the Tent of Meeting to present it as an offering to the LORD before His tabernacle— that man shall incur bloodguilt. He has shed blood and must be cut off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.5",
+      "edition_verse_id": "BSB:LEV.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For this reason the Israelites will bring to the LORD the sacrifices they have been offering in the open fields. They are to bring them to the priest at the entrance to the Tent of Meeting and offer them as sacrifices of peace offerings to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.6",
+      "edition_verse_id": "BSB:LEV.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The priest will then splatter the blood on the altar of the LORD at the entrance to the Tent of Meeting and burn the fat as a pleasing aroma to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.7",
+      "edition_verse_id": "BSB:LEV.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They must no longer offer their sacrifices to the goat demons to which they have prostituted themselves. This will be a permanent statute for them for the generations to come.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.8",
+      "edition_verse_id": "BSB:LEV.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Tell them that if anyone from the house of Israel or any foreigner living among them offers a burnt offering or a sacrifice",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.9",
+      "edition_verse_id": "BSB:LEV.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "but does not bring it to the entrance to the Tent of Meeting to sacrifice it to the LORD, that man must be cut off from his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.10",
+      "edition_verse_id": "BSB:LEV.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If anyone from the house of Israel or a foreigner living among them eats any blood, I will set My face against that person and cut him off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.11",
+      "edition_verse_id": "BSB:LEV.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For the life of the flesh is in the blood, and I have given it to you to make atonement for your souls upon the altar; for it is the blood that makes atonement for the soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.12",
+      "edition_verse_id": "BSB:LEV.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore I say to the Israelites, ‘None of you may eat blood, nor may any foreigner living among you eat blood.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.13",
+      "edition_verse_id": "BSB:LEV.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And if any Israelite or foreigner living among them hunts down a wild animal or bird that may be eaten, he must drain its blood and cover it with dirt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.14",
+      "edition_verse_id": "BSB:LEV.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the life of all flesh is its blood. Therefore I have told the Israelites, ‘You must not eat the blood of any living thing, because the life of all flesh is its blood; whoever eats it must be cut off.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.17.15",
+      "edition_verse_id": "BSB:LEV.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And any person, whether native or foreigner, who eats anything found dead or mauled by wild beasts must wash his clothes and bathe with water, and he will be unclean until evening; then he will be clean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.17.16",
+      "edition_verse_id": "BSB:LEV.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But if he does not wash his clothes and bathe himself, then he shall bear his iniquity.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JDG",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "JDG.3.1",
+      "edition_verse_id": "BSB:JDG.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These are the nations that the LORD left to test all the Israelites who had not known any of the wars in Canaan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.2",
+      "edition_verse_id": "BSB:JDG.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "if only to teach warfare to the subsequent generations of Israel, especially to those who had not known it formerly:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.3",
+      "edition_verse_id": "BSB:JDG.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon from Mount Baal-hermon to Lebo-hamath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.4",
+      "edition_verse_id": "BSB:JDG.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "These nations were left to test the Israelites, to find out whether they would keep the commandments of the LORD, which He had given their fathers through Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.5",
+      "edition_verse_id": "BSB:JDG.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Thus the Israelites continued to live among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.6",
+      "edition_verse_id": "BSB:JDG.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And they took the daughters of these people in marriage, gave their own daughters to their sons, and served their gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.7",
+      "edition_verse_id": "BSB:JDG.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So the Israelites did evil in the sight of the LORD; they forgot the LORD their God and served the Baals and the Asherahs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.8",
+      "edition_verse_id": "BSB:JDG.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the anger of the LORD burned against Israel, and He sold them into the hand of Cushan-rishathaim king of Aram-naharaim, and the Israelites served him eight years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.9",
+      "edition_verse_id": "BSB:JDG.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But when the Israelites cried out to the LORD, He raised up Othniel son of Caleb’s younger brother Kenaz as a deliverer to save them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.10",
+      "edition_verse_id": "BSB:JDG.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The Spirit of the LORD came upon him, and he became Israel’s judge and went out to war. And the LORD delivered Cushan-rishathaim king of Aram into the hand of Othniel, who prevailed against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.11",
+      "edition_verse_id": "BSB:JDG.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So the land had rest for forty years, until Othniel son of Kenaz died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.12",
+      "edition_verse_id": "BSB:JDG.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Once again the Israelites did evil in the sight of the LORD. So He gave Eglon king of Moab power over Israel, because they had done evil in the sight of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.13",
+      "edition_verse_id": "BSB:JDG.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "After enlisting the Ammonites and Amalekites to join forces with him, Eglon attacked and defeated Israel, taking possession of the City of Palms.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.14",
+      "edition_verse_id": "BSB:JDG.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The Israelites served Eglon king of Moab eighteen years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.15",
+      "edition_verse_id": "BSB:JDG.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And again they cried out to the LORD, and He raised up Ehud son of Gera, a left-handed Benjamite, as their deliverer. So they sent him with tribute to Eglon king of Moab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.16",
+      "edition_verse_id": "BSB:JDG.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now Ehud had made for himself a double-edged sword a cubit long. He strapped it to his right thigh under his cloak",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.17",
+      "edition_verse_id": "BSB:JDG.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "and brought the tribute to Eglon king of Moab, who was an obese man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.18",
+      "edition_verse_id": "BSB:JDG.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "After Ehud had finished presenting the tribute, he ushered out those who had carried it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.19",
+      "edition_verse_id": "BSB:JDG.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But upon reaching the idols near Gilgal, he himself turned back and said, “I have a secret message for you, O king.” “Silence,” said the king, and all his attendants left him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.20",
+      "edition_verse_id": "BSB:JDG.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Ehud approached him while he was sitting alone in the coolness of his upper room. “I have a word from God for you,” Ehud said, and the king rose from his seat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.21",
+      "edition_verse_id": "BSB:JDG.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Ehud reached with his left hand, pulled the sword from his right thigh, and plunged it into Eglon’s belly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.22",
+      "edition_verse_id": "BSB:JDG.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Even the handle sank in after the blade, and Eglon’s fat closed in over it, so that Ehud did not withdraw the sword from his belly. And Eglon’s bowels emptied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.23",
+      "edition_verse_id": "BSB:JDG.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then Ehud went out through the porch, closing and locking the doors of the upper room behind him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.24",
+      "edition_verse_id": "BSB:JDG.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "After Ehud was gone, Eglon’s servants came in and found the doors of the upper room locked. “He must be relieving himself in the cool room,” they said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.25",
+      "edition_verse_id": "BSB:JDG.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So they waited until they became worried and saw that he had still not opened the doors of the upper room. Then they took the key and opened the doors— and there was their lord lying dead on the floor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.26",
+      "edition_verse_id": "BSB:JDG.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Ehud, however, had escaped while the servants waited. He passed by the idols and escaped to Seirah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.27",
+      "edition_verse_id": "BSB:JDG.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "On arriving in Seirah, he blew the ram’s horn throughout the hill country of Ephraim. The Israelites came down with him from the hills, and he became their leader.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.28",
+      "edition_verse_id": "BSB:JDG.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "“Follow me,” he told them, “for the LORD has delivered your enemies the Moabites into your hand.” So they followed him down and seized the fords of the Jordan leading to Moab, and they did not allow anyone to cross over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.3.29",
+      "edition_verse_id": "BSB:JDG.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "At that time they struck down about ten thousand Moabites, all robust and valiant men. Not one of them escaped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.30",
+      "edition_verse_id": "BSB:JDG.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So Moab was subdued under the hand of Israel that day, and the land had rest for eighty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.3.31",
+      "edition_verse_id": "BSB:JDG.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "After Ehud came Shamgar son of Anath. And he too saved Israel, striking down six hundred Philistines with an oxgoad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

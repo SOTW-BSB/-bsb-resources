@@ -1,0 +1,156 @@
+{
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter_count": 24,
+  "verse_count": 1149,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 80,
+      "omitted_from_main_text": [],
+      "sha256": "23685fbdbc68270fddd260566d4d1ee85b920fbd68eb463aa87f7c2d83dec180"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 52,
+      "omitted_from_main_text": [],
+      "sha256": "f5e0d924ef4c844ac1d1a7f42d93089ba3f5869854088c8aecd86d0badeae8ae"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 38,
+      "omitted_from_main_text": [],
+      "sha256": "30e9058b23bd3bbb679a044dcba1bb99b95cfb76fd60a4517b2af677e03b9d8b"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 44,
+      "omitted_from_main_text": [],
+      "sha256": "c9164d1d3c1b37a945a7cdceab8fcadb26f51718eae148415d260d95a2ac3c83"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 39,
+      "omitted_from_main_text": [],
+      "sha256": "bbe574a2a3d041e8bfdd77273f377e505296bdf8e55543d023a71fcc69eb0a81"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 49,
+      "omitted_from_main_text": [],
+      "sha256": "65686e3d1b165d015b7f749ab247a98186608b529ab79d31aee0b91d2c8516cf"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 50,
+      "omitted_from_main_text": [],
+      "sha256": "275ef465e6640c6ceec47c3c590f0e6ba7e1a1b88de3601e45649e3127a42f9d"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 56,
+      "omitted_from_main_text": [],
+      "sha256": "4b9d3786d2e10f233a9d22cd271538e66c04b65869aba4cfb75a20df050c9fc4"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 62,
+      "omitted_from_main_text": [],
+      "sha256": "955f661e349f4ad3763be5c4b247b3ffed1f5310277a7dea57a0f717087340df"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 42,
+      "omitted_from_main_text": [],
+      "sha256": "138b1a9cfa10dd0dd4c70f91d1b531d0b5002a099d29c639b01918b1d3ece1dd"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 54,
+      "omitted_from_main_text": [],
+      "sha256": "8b8a22cdddef9d89655446dfa2ca1129fbd3222f01c5f067270bd8bfad6015d9"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 59,
+      "omitted_from_main_text": [],
+      "sha256": "e77d7cd20e8f6acb2d156a026f8f1b25ec987adca4ed98d5e59c9c7864351074"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 35,
+      "omitted_from_main_text": [],
+      "sha256": "31e123829491db3fd73fe998ab89d31139434d0dcf51f9d5917b2e906eb7f782"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 35,
+      "omitted_from_main_text": [],
+      "sha256": "0fd3bcd21ac8a8afe654efa204c4727c07fe4268ed2d4460701712d60807ac11"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 32,
+      "omitted_from_main_text": [],
+      "sha256": "f123a04b2ad6a80801882ed4b2738569832e944a0dc19a9e93b8dd1a1bf366ee"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 31,
+      "omitted_from_main_text": [],
+      "sha256": "8d521bd1abca51373bf95fd90cf3438bc86f0c0713e3f3d2c57d5167d72035a3"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 36,
+      "omitted_from_main_text": [
+        "LUK.17.36"
+      ],
+      "sha256": "e8f8c9b2ab9e089de96d2341c35b1110b9a12951e38ca84db3d843d478807d84"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 43,
+      "omitted_from_main_text": [],
+      "sha256": "93ce386daa88ee2545ddc7ca1779f3f3fb53f24727e7d2ad6e0d7170b0872618"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 48,
+      "omitted_from_main_text": [],
+      "sha256": "a7220211893aaa339846675e39a2db4722ed64f7dc205b1398f9f7c348edd499"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 47,
+      "omitted_from_main_text": [],
+      "sha256": "4581277b580647256be3adab5c8e48e01e6b11e183e17658714db3f4349ab0df"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 38,
+      "omitted_from_main_text": [],
+      "sha256": "69f4f044ee97daf9e21c337e27e2f765967971c33261e5240ea662dde2035943"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 71,
+      "omitted_from_main_text": [],
+      "sha256": "bf68a9113adf140f80f1f2dd0ab9475754bc8a7de4b2db2dc11eec2b08408df2"
+    },
+    {
+      "chapter": 23,
+      "verse_count": 55,
+      "omitted_from_main_text": [
+        "LUK.23.17"
+      ],
+      "sha256": "39eb56744e600fc8d23ded3a6536591cee778268aef4776f4cf631853c5fddb4"
+    },
+    {
+      "chapter": 24,
+      "verse_count": 53,
+      "omitted_from_main_text": [],
+      "sha256": "ac7e6cf45a6ad4fe3b3b816e064236d5162cf04d5aa196b57bc19cac71d83414"
+    }
+  ]
+}

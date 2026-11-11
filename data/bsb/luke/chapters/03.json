@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "LUK.3.1",
+      "edition_verse_id": "BSB:LUK.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.2",
+      "edition_verse_id": "BSB:LUK.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.3",
+      "edition_verse_id": "BSB:LUK.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He went into all the region around the Jordan, preaching a baptism of repentance for the forgiveness of sins,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.4",
+      "edition_verse_id": "BSB:LUK.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "as it is written in the book of the words of Isaiah the prophet: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.5",
+      "edition_verse_id": "BSB:LUK.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Every valley shall be filled in, and every mountain and hill made low. The crooked ways shall be made straight, and the rough ways smooth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.6",
+      "edition_verse_id": "BSB:LUK.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And all humanity will see God’s salvation.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.7",
+      "edition_verse_id": "BSB:LUK.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then John said to the crowds coming out to be baptized by him, “You brood of vipers, who warned you to flee from the coming wrath?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.8",
+      "edition_verse_id": "BSB:LUK.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Produce fruit, then, in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.9",
+      "edition_verse_id": "BSB:LUK.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The axe lies ready at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.10",
+      "edition_verse_id": "BSB:LUK.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The crowds asked him, “What then should we do?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.11",
+      "edition_verse_id": "BSB:LUK.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "John replied, “Whoever has two tunics should share with him who has none, and whoever has food should do the same.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.12",
+      "edition_verse_id": "BSB:LUK.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Even tax collectors came to be baptized. “Teacher,” they asked, “what should we do?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.13",
+      "edition_verse_id": "BSB:LUK.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "“Collect no more than you are authorized,” he answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.14",
+      "edition_verse_id": "BSB:LUK.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then some soldiers asked him, “And what should we do?” “Do not take money by force or false accusation,” he said. “Be content with your wages.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.15",
+      "edition_verse_id": "BSB:LUK.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The people were waiting expectantly and were all wondering in their hearts if John could be the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.16",
+      "edition_verse_id": "BSB:LUK.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "John answered all of them: “I baptize you with water, but One more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and with fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.17",
+      "edition_verse_id": "BSB:LUK.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "His winnowing fork is in His hand to clear His threshing floor and to gather the wheat into His barn; but He will burn up the chaff with unquenchable fire.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.18",
+      "edition_verse_id": "BSB:LUK.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "With these and many other exhortations, John proclaimed the good news to the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.19",
+      "edition_verse_id": "BSB:LUK.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But when he rebuked Herod the tetrarch regarding his brother’s wife Herodias and all the evils he had done,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.20",
+      "edition_verse_id": "BSB:LUK.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Herod added this to them all: He locked John up in prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.21",
+      "edition_verse_id": "BSB:LUK.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.22",
+      "edition_verse_id": "BSB:LUK.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.23",
+      "edition_verse_id": "BSB:LUK.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Jesus Himself was about thirty years old when He began His ministry. He was regarded as the son of Joseph, the son of Heli,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.3.24",
+      "edition_verse_id": "BSB:LUK.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.25",
+      "edition_verse_id": "BSB:LUK.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.26",
+      "edition_verse_id": "BSB:LUK.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.27",
+      "edition_verse_id": "BSB:LUK.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.28",
+      "edition_verse_id": "BSB:LUK.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.29",
+      "edition_verse_id": "BSB:LUK.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.30",
+      "edition_verse_id": "BSB:LUK.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.31",
+      "edition_verse_id": "BSB:LUK.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.32",
+      "edition_verse_id": "BSB:LUK.3.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.33",
+      "edition_verse_id": "BSB:LUK.3.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "the son of Amminadab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.34",
+      "edition_verse_id": "BSB:LUK.3.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.35",
+      "edition_verse_id": "BSB:LUK.3.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.36",
+      "edition_verse_id": "BSB:LUK.3.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.37",
+      "edition_verse_id": "BSB:LUK.3.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Cainan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.3.38",
+      "edition_verse_id": "BSB:LUK.3.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "the son of Enosh, the son of Seth, the son of Adam, the son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

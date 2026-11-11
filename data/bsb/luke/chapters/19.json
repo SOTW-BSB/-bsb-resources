@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "LUK.19.1",
+      "edition_verse_id": "BSB:LUK.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jesus entered Jericho and was passing through.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.2",
+      "edition_verse_id": "BSB:LUK.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And there was a man named Zacchaeus, a chief tax collector, who was very wealthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.3",
+      "edition_verse_id": "BSB:LUK.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He was trying to see who Jesus was, but could not see over the crowd because he was small in stature.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.4",
+      "edition_verse_id": "BSB:LUK.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So he ran on ahead and climbed a sycamore tree to see Him, since Jesus was about to pass that way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.5",
+      "edition_verse_id": "BSB:LUK.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When Jesus came to that place, He looked up and said, “Zacchaeus, hurry down, for I must stay at your house today.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.6",
+      "edition_verse_id": "BSB:LUK.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So Zacchaeus hurried down and welcomed Him joyfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.7",
+      "edition_verse_id": "BSB:LUK.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And all who saw this began to grumble, saying, “He has gone to be the guest of a sinful man!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.8",
+      "edition_verse_id": "BSB:LUK.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.9",
+      "edition_verse_id": "BSB:LUK.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.10",
+      "edition_verse_id": "BSB:LUK.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For the Son of Man came to seek and to save the lost.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.11",
+      "edition_verse_id": "BSB:LUK.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "While the people were listening to this, Jesus proceeded to tell them a parable, because He was near Jerusalem and they thought the kingdom of God would appear imminently.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.12",
+      "edition_verse_id": "BSB:LUK.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So He said, “A man of noble birth went to a distant country to lay claim to his kingship and then return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.13",
+      "edition_verse_id": "BSB:LUK.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Beforehand, he called ten of his servants and gave them ten minas. ‘Conduct business with this until I return,’ he said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.14",
+      "edition_verse_id": "BSB:LUK.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But his subjects hated him and sent a delegation after him to say, ‘We do not want this man to rule over us.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.15",
+      "edition_verse_id": "BSB:LUK.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When he returned from procuring his kingship, he summoned the servants to whom he had given the money, to find out what each one had earned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.16",
+      "edition_verse_id": "BSB:LUK.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The first servant came forward and said, ‘Master, your mina has produced ten more minas.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.17",
+      "edition_verse_id": "BSB:LUK.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "His master replied, ‘Well done, good servant! Because you have been faithful in a very small matter, you shall have authority over ten cities.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.18",
+      "edition_verse_id": "BSB:LUK.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The second servant came and said, ‘Master, your mina has made five minas.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.19",
+      "edition_verse_id": "BSB:LUK.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And to this one he said, ‘You shall have authority over five cities.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.20",
+      "edition_verse_id": "BSB:LUK.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then another servant came and said, ‘Master, here is your mina, which I have laid away in a piece of cloth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.21",
+      "edition_verse_id": "BSB:LUK.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For I was afraid of you, because you are a harsh man. You withdraw what you did not deposit and reap what you did not sow.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.22",
+      "edition_verse_id": "BSB:LUK.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "His master replied, ‘You wicked servant, I will judge you by your own words. So you knew that I am a harsh man, withdrawing what I did not deposit and reaping what I did not sow?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.23",
+      "edition_verse_id": "BSB:LUK.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Why then did you not deposit my money in the bank, and upon my return I could have collected it with interest?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.24",
+      "edition_verse_id": "BSB:LUK.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then he told those standing by, ‘Take the mina from him and give it to the one who has ten minas.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.25",
+      "edition_verse_id": "BSB:LUK.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "‘Master,’ they said, ‘he already has ten!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.26",
+      "edition_verse_id": "BSB:LUK.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He replied, ‘ I tell you that everyone who has will be given more; but the one who does not have, even what he has will be taken away from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.27",
+      "edition_verse_id": "BSB:LUK.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And these enemies of mine who were unwilling for me to rule over them, bring them here and slay them in front of me.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.28",
+      "edition_verse_id": "BSB:LUK.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "After Jesus had said this, He went on ahead, going up to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.29",
+      "edition_verse_id": "BSB:LUK.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "As He approached Bethphage and Bethany at the Mount of Olives, He sent out two of His disciples,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.30",
+      "edition_verse_id": "BSB:LUK.19.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "saying, “Go into the village ahead of you, and as you enter it, you will find a colt tied there, on which no one has ever sat. Untie it and bring it here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.31",
+      "edition_verse_id": "BSB:LUK.19.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "If anyone asks, ‘Why are you untying it?’ tell him, ‘The Lord needs it.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.32",
+      "edition_verse_id": "BSB:LUK.19.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "So those who were sent went out and found it just as Jesus had told them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.33",
+      "edition_verse_id": "BSB:LUK.19.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "As they were untying the colt, its owners asked, “Why are you untying the colt?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.34",
+      "edition_verse_id": "BSB:LUK.19.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“The Lord needs it,” they answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.35",
+      "edition_verse_id": "BSB:LUK.19.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then they led the colt to Jesus, threw their cloaks over it, and put Jesus on it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.36",
+      "edition_verse_id": "BSB:LUK.19.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "As He rode along, the people spread their cloaks on the road.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.37",
+      "edition_verse_id": "BSB:LUK.19.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And as He approached the descent from the Mount of Olives, the whole multitude of disciples began to praise God joyfully in a loud voice for all the miracles they had seen:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.38",
+      "edition_verse_id": "BSB:LUK.19.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "“Blessed is the King who comes in the name of the Lord!” “Peace in heaven and glory in the highest!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.39",
+      "edition_verse_id": "BSB:LUK.19.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But some of the Pharisees in the crowd said to Him, “Teacher, rebuke Your disciples!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.40",
+      "edition_verse_id": "BSB:LUK.19.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "“I tell you,” He answered, “if they remain silent, the very stones will cry out.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.41",
+      "edition_verse_id": "BSB:LUK.19.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "As Jesus approached Jerusalem and saw the city, He wept over it",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.42",
+      "edition_verse_id": "BSB:LUK.19.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "and said, “If only you had known on this day what would bring you peace! But now it is hidden from your eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.43",
+      "edition_verse_id": "BSB:LUK.19.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "For the days will come upon you when your enemies will barricade you and surround you and hem you in on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.44",
+      "edition_verse_id": "BSB:LUK.19.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "They will level you to the ground — you and the children within your walls. They will not leave one stone on another, because you did not recognize the time of your visitation from God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.45",
+      "edition_verse_id": "BSB:LUK.19.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then Jesus entered the temple courts and began to drive out those who were selling there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.46",
+      "edition_verse_id": "BSB:LUK.19.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "He declared to them, “It is written: ‘My house will be a house of prayer.’ But you have made it ‘a den of robbers.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.19.47",
+      "edition_verse_id": "BSB:LUK.19.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Jesus was teaching at the temple every day, but the chief priests, scribes, and leaders of the people were intent on killing Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.19.48",
+      "edition_verse_id": "BSB:LUK.19.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Yet they could not find a way to do so, because all the people hung on His words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

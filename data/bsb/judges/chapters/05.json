@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JDG",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JDG.5.1",
+      "edition_verse_id": "BSB:JDG.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On that day Deborah and Barak son of Abinoam sang this song:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JDG.5.2",
+      "edition_verse_id": "BSB:JDG.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“When the princes take the lead in Israel, when the people volunteer, bless the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.3",
+      "edition_verse_id": "BSB:JDG.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Listen, O kings! Give ear, O princes! I will sing to the LORD; I will sing praise to the LORD, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.4",
+      "edition_verse_id": "BSB:JDG.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "O LORD, when You went out from Seir, when You marched from the land of Edom, the earth trembled, the heavens poured out rain, and the clouds poured down water.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.5",
+      "edition_verse_id": "BSB:JDG.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The mountains quaked before the LORD, the One of Sinai, before the LORD, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.6",
+      "edition_verse_id": "BSB:JDG.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In the days of Shamgar son of Anath, in the days of Jael, the highways were deserted and the travelers took the byways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.7",
+      "edition_verse_id": "BSB:JDG.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Life in the villages ceased; it ended in Israel, until I, Deborah, arose, a mother in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.8",
+      "edition_verse_id": "BSB:JDG.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When they chose new gods, then war came to their gates. Not a shield or spear was found among forty thousand in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.9",
+      "edition_verse_id": "BSB:JDG.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "My heart is with the princes of Israel, with the volunteers among the people. Bless the LORD!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.10",
+      "edition_verse_id": "BSB:JDG.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You who ride white donkeys, who sit on saddle blankets, and you who travel the road, ponder",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.11",
+      "edition_verse_id": "BSB:JDG.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "the voices of the singers at the watering places. There they shall recount the righteous acts of the LORD, the righteous deeds of His villagers in Israel. Then the people of the LORD went down to the gates:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.12",
+      "edition_verse_id": "BSB:JDG.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "‘Awake, awake, O Deborah! Awake, awake, sing a song! Arise, O Barak, and take hold of your captives, O son of Abinoam!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.13",
+      "edition_verse_id": "BSB:JDG.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the survivors came down to the nobles; the people of the LORD came down to me against the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.14",
+      "edition_verse_id": "BSB:JDG.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Some came from Ephraim, with their roots in Amalek; Benjamin came with your people after you. The commanders came down from Machir, the bearers of the marshal’s staff from Zebulun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.15",
+      "edition_verse_id": "BSB:JDG.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The princes of Issachar were with Deborah, and Issachar was with Barak, rushing into the valley at his heels. In the clans of Reuben there was great indecision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.16",
+      "edition_verse_id": "BSB:JDG.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Why did you sit among the sheepfolds to hear the whistling for the flocks? In the clans of Reuben there was great indecision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.17",
+      "edition_verse_id": "BSB:JDG.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Gilead remained beyond the Jordan. Dan, why did you linger by the ships? Asher stayed at the coast and remained in his harbors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.18",
+      "edition_verse_id": "BSB:JDG.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Zebulun was a people who risked their lives; Naphtali, too, on the heights of the battlefield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.19",
+      "edition_verse_id": "BSB:JDG.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Kings came and fought; then the kings of Canaan fought at Taanach by the waters of Megiddo, but they took no plunder of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.20",
+      "edition_verse_id": "BSB:JDG.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "From the heavens the stars fought; from their courses they fought against Sisera.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.21",
+      "edition_verse_id": "BSB:JDG.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The River Kishon swept them away, the ancient river, the River Kishon. March on, O my soul, in strength!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.22",
+      "edition_verse_id": "BSB:JDG.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the hooves of horses thundered— the mad galloping of his stallions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.23",
+      "edition_verse_id": "BSB:JDG.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "‘Curse Meroz,’ says the angel of the LORD. ‘Bitterly curse her inhabitants; for they did not come to help the LORD, to help the LORD against the mighty.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.24",
+      "edition_verse_id": "BSB:JDG.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Most blessed among women is Jael, the wife of Heber the Kenite, most blessed of tent-dwelling women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.25",
+      "edition_verse_id": "BSB:JDG.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He asked for water, and she gave him milk. In a magnificent bowl she brought him curds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.26",
+      "edition_verse_id": "BSB:JDG.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "She reached for the tent peg, her right hand for the workman’s hammer. She struck Sisera and crushed his skull; she shattered and pierced his temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.27",
+      "edition_verse_id": "BSB:JDG.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "At her feet he collapsed, he fell, there he lay still; at her feet he collapsed, he fell; where he collapsed, there he fell dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.28",
+      "edition_verse_id": "BSB:JDG.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Sisera’s mother looked through the window; she peered through the lattice and lamented: ‘Why is his chariot so long in coming? What has delayed the clatter of his chariots?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.29",
+      "edition_verse_id": "BSB:JDG.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Her wisest ladies answer; indeed she keeps telling herself,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.30",
+      "edition_verse_id": "BSB:JDG.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "‘Are they not finding and dividing the spoil— a girl or two for each warrior, a plunder of dyed garments for Sisera, the spoil of embroidered garments for the neck of the looter?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JDG.5.31",
+      "edition_verse_id": "BSB:JDG.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So may all Your enemies perish, O LORD! But may those who love You shine like the sun at its brightest.” And the land had rest for forty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

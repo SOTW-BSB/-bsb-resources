@@ -1,0 +1,668 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LEV",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "LEV.25.1",
+      "edition_verse_id": "BSB:LEV.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses on Mount Sinai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.2",
+      "edition_verse_id": "BSB:LEV.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and say to them: When you enter the land that I am giving you, the land itself must observe a Sabbath to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.3",
+      "edition_verse_id": "BSB:LEV.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For six years you may sow your field and prune your vineyard and gather its crops.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.4",
+      "edition_verse_id": "BSB:LEV.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But in the seventh year there shall be a Sabbath of complete rest for the land — a Sabbath to the LORD. You are not to sow your field or prune your vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.5",
+      "edition_verse_id": "BSB:LEV.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You are not to reap the aftergrowth of your harvest or gather the grapes of your untended vines. The land must have a year of complete rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.6",
+      "edition_verse_id": "BSB:LEV.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Whatever the land yields during the Sabbath year shall be food for you— for yourself, your manservant and maidservant, the hired hand or foreigner who stays with you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.7",
+      "edition_verse_id": "BSB:LEV.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and for your livestock and the wild animals in your land. All its growth may serve as food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.8",
+      "edition_verse_id": "BSB:LEV.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And you shall count off seven Sabbaths of years — seven times seven years — so that the seven Sabbaths of years amount to forty-nine years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.9",
+      "edition_verse_id": "BSB:LEV.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then you are to sound the horn far and wide on the tenth day of the seventh month, the Day of Atonement. You shall sound it throughout your land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.10",
+      "edition_verse_id": "BSB:LEV.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So you are to consecrate the fiftieth year and proclaim liberty in the land for all its inhabitants. It shall be your Jubilee, when each of you is to return to his property and to his clan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.11",
+      "edition_verse_id": "BSB:LEV.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The fiftieth year will be a Jubilee for you; you are not to sow the land or reap its aftergrowth or harvest the untended vines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.12",
+      "edition_verse_id": "BSB:LEV.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For it is a Jubilee; it shall be holy to you. You may eat only the crops taken directly from the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.13",
+      "edition_verse_id": "BSB:LEV.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "In this Year of Jubilee, each of you shall return to his own property.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.14",
+      "edition_verse_id": "BSB:LEV.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If you make a sale to your neighbor or a purchase from him, you must not take advantage of each other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.15",
+      "edition_verse_id": "BSB:LEV.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You are to buy from your neighbor according to the number of years since the last Jubilee; he is to sell to you according to the number of harvest years remaining.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.16",
+      "edition_verse_id": "BSB:LEV.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You shall increase the price in proportion to a greater number of years, or decrease it in proportion to a lesser number of years; for he is selling you a given number of harvests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.17",
+      "edition_verse_id": "BSB:LEV.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Do not take advantage of each other, but fear your God; for I am the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.18",
+      "edition_verse_id": "BSB:LEV.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "You are to keep My statutes and carefully observe My judgments, so that you may dwell securely in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.19",
+      "edition_verse_id": "BSB:LEV.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then the land will yield its fruit, so that you can eat your fill and dwell in safety in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.20",
+      "edition_verse_id": "BSB:LEV.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now you may wonder, ‘What will we eat in the seventh year if we do not sow or gather our produce?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.21",
+      "edition_verse_id": "BSB:LEV.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But I will send My blessing upon you in the sixth year, so that the land will yield a crop sufficient for three years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.22",
+      "edition_verse_id": "BSB:LEV.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "While you are sowing in the eighth year, you will be eating from the previous harvest, until the ninth year’s harvest comes in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.23",
+      "edition_verse_id": "BSB:LEV.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The land must not be sold permanently, because it is Mine, and you are but foreigners and residents with Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.24",
+      "edition_verse_id": "BSB:LEV.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Thus for every piece of property you possess, you must provide for the redemption of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.25",
+      "edition_verse_id": "BSB:LEV.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "If your brother becomes impoverished and sells some of his property, his nearest of kin may come and redeem what his brother has sold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.26",
+      "edition_verse_id": "BSB:LEV.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Or if a man has no one to redeem it for him, but he prospers and acquires enough to redeem his land,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.27",
+      "edition_verse_id": "BSB:LEV.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "he shall calculate the years since its sale, repay the balance to the man to whom he sold it, and return to his property.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.28",
+      "edition_verse_id": "BSB:LEV.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But if he cannot obtain enough to repay him, what he sold will remain in possession of the buyer until the Year of Jubilee. In the Jubilee, however, it is to be released, so that he may return to his property.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.29",
+      "edition_verse_id": "BSB:LEV.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "If a man sells a house in a walled city, he retains his right of redemption until a full year after its sale; during that year it may be redeemed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.30",
+      "edition_verse_id": "BSB:LEV.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If it is not redeemed by the end of a full year, then the house in the walled city is permanently transferred to its buyer and his descendants. It is not to be released in the Jubilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.31",
+      "edition_verse_id": "BSB:LEV.25.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But houses in villages with no walls around them are to be considered as open fields. They may be redeemed, and they shall be released in the Jubilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.32",
+      "edition_verse_id": "BSB:LEV.25.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "As for the cities of the Levites, the Levites always have the right to redeem their houses in the cities they possess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.33",
+      "edition_verse_id": "BSB:LEV.25.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So whatever belongs to the Levites may be redeemed— a house sold in a city they possess— and must be released in the Jubilee, because the houses in the cities of the Levites are their possession among the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.34",
+      "edition_verse_id": "BSB:LEV.25.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But the open pastureland around their cities may not be sold, for this is their permanent possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.35",
+      "edition_verse_id": "BSB:LEV.25.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Now if your countryman becomes destitute and cannot support himself among you, then you are to help him as you would a foreigner or stranger, so that he can continue to live among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.36",
+      "edition_verse_id": "BSB:LEV.25.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Do not take any interest or profit from him, but fear your God, that your countryman may live among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.37",
+      "edition_verse_id": "BSB:LEV.25.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "You must not lend him your silver at interest or sell him your food for profit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.38",
+      "edition_verse_id": "BSB:LEV.25.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "I am the LORD your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.39",
+      "edition_verse_id": "BSB:LEV.25.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "If a countryman among you becomes destitute and sells himself to you, then you must not force him into slave labor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.40",
+      "edition_verse_id": "BSB:LEV.25.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Let him stay with you as a hired worker or temporary resident; he is to work for you until the Year of Jubilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.41",
+      "edition_verse_id": "BSB:LEV.25.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Then he and his children are to be released, and he may return to his clan and to the property of his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.42",
+      "edition_verse_id": "BSB:LEV.25.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Because the Israelites are My servants, whom I brought out of the land of Egypt, they are not to be sold as slaves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.43",
+      "edition_verse_id": "BSB:LEV.25.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "You are not to rule over them harshly, but you shall fear your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.44",
+      "edition_verse_id": "BSB:LEV.25.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Your menservants and maidservants shall come from the nations around you, from whom you may purchase them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.45",
+      "edition_verse_id": "BSB:LEV.25.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "You may also purchase them from the foreigners residing among you or their clans living among you who are born in your land. These may become your property.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.46",
+      "edition_verse_id": "BSB:LEV.25.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "You may leave them to your sons after you to inherit as property; you can make them slaves for life. But as for your brothers, the Israelites, no man may rule harshly over his brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.47",
+      "edition_verse_id": "BSB:LEV.25.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "If a foreigner residing among you prospers, but your countryman dwelling near him becomes destitute and sells himself to the foreigner or to a member of his clan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.48",
+      "edition_verse_id": "BSB:LEV.25.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "he retains the right of redemption after he has sold himself. One of his brothers may redeem him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.49",
+      "edition_verse_id": "BSB:LEV.25.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "either his uncle or cousin or any close relative from his clan may redeem him. Or if he prospers, he may redeem himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.50",
+      "edition_verse_id": "BSB:LEV.25.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "He and his purchaser will then count the time from the year he sold himself up to the Year of Jubilee. The price of his sale will be determined by the number of years, based on the daily wages of a hired hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.51",
+      "edition_verse_id": "BSB:LEV.25.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "If many years remain, he must pay for his redemption in proportion to his purchase price.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.52",
+      "edition_verse_id": "BSB:LEV.25.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "If only a few years remain until the Year of Jubilee, he is to calculate and pay his redemption according to his remaining years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.53",
+      "edition_verse_id": "BSB:LEV.25.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "He shall be treated like a man hired from year to year, but a foreign owner must not rule over him harshly in your sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LEV.25.54",
+      "edition_verse_id": "BSB:LEV.25.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "Even if he is not redeemed in any of these ways, he and his children shall be released in the Year of Jubilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LEV.25.55",
+      "edition_verse_id": "BSB:LEV.25.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "For the Israelites are My servants. They are My servants, whom I brought out of the land of Egypt. I am the LORD your God.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

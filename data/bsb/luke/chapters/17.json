@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LUK",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "LUK.17.1",
+      "edition_verse_id": "BSB:LUK.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jesus said to His disciples, “It is inevitable that stumbling blocks will come, but woe to the one through whom they come!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.2",
+      "edition_verse_id": "BSB:LUK.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "It would be better for him to have a millstone hung around his neck and to be thrown into the sea than to cause one of these little ones to stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.3",
+      "edition_verse_id": "BSB:LUK.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.4",
+      "edition_verse_id": "BSB:LUK.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Even if he sins against you seven times in a day, and seven times returns to say, ‘I repent,’ you must forgive him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.5",
+      "edition_verse_id": "BSB:LUK.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The apostles said to the Lord, “Increase our faith!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.6",
+      "edition_verse_id": "BSB:LUK.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Lord answered, “If you have faith the size of a mustard seed, you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.7",
+      "edition_verse_id": "BSB:LUK.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Which of you whose servant comes in from plowing or shepherding in the field will say to him, ‘Come at once and sit down to eat’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.8",
+      "edition_verse_id": "BSB:LUK.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Instead, won’t he tell him, ‘Prepare my meal and dress yourself to serve me while I eat and drink, and afterward you may eat and drink’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.9",
+      "edition_verse_id": "BSB:LUK.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Does he thank the servant because he did what he was told?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.10",
+      "edition_verse_id": "BSB:LUK.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So you also, when you have done everything commanded of you, should say, ‘We are unworthy servants; we have only done our duty.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.11",
+      "edition_verse_id": "BSB:LUK.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "While Jesus was on His way to Jerusalem, He was passing between Samaria and Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.12",
+      "edition_verse_id": "BSB:LUK.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As He entered one of the villages, He was met by ten lepers. They stood at a distance",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.13",
+      "edition_verse_id": "BSB:LUK.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and raised their voices, shouting, “Jesus, Master, have mercy on us!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.14",
+      "edition_verse_id": "BSB:LUK.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When Jesus saw them, He said, “Go, show yourselves to the priests.” And as they were on their way, they were cleansed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.15",
+      "edition_verse_id": "BSB:LUK.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When one of them saw that he was healed, he came back, praising God in a loud voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.16",
+      "edition_verse_id": "BSB:LUK.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He fell facedown at Jesus’ feet in thanksgiving to Him — and he was a Samaritan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.17",
+      "edition_verse_id": "BSB:LUK.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“Were not all ten cleansed?” Jesus asked. “Where then are the other nine?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.18",
+      "edition_verse_id": "BSB:LUK.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Was no one found except this foreigner to return and give glory to God?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.19",
+      "edition_verse_id": "BSB:LUK.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then Jesus said to him, “Rise and go; your faith has made you well!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.20",
+      "edition_verse_id": "BSB:LUK.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When asked by the Pharisees when the kingdom of God would come, Jesus replied, “The kingdom of God will not come with observable signs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.21",
+      "edition_verse_id": "BSB:LUK.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Nor will people say, ‘Look, here it is,’ or ‘There it is.’ For you see, the kingdom of God is in your midst.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.22",
+      "edition_verse_id": "BSB:LUK.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then He said to the disciples, “The time is coming when you will long to see one of the days of the Son of Man, but you will not see it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.23",
+      "edition_verse_id": "BSB:LUK.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "People will tell you, ‘Look, there He is!’ or ‘Look, here He is!’ Do not go out or chase after them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.24",
+      "edition_verse_id": "BSB:LUK.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For just as the lightning flashes and lights up the sky from one end to the other, so will be the Son of Man in His day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.25",
+      "edition_verse_id": "BSB:LUK.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But first He must suffer many things and be rejected by this generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.26",
+      "edition_verse_id": "BSB:LUK.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Just as it was in the days of Noah, so also will it be in the days of the Son of Man:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.27",
+      "edition_verse_id": "BSB:LUK.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "People were eating and drinking, marrying and being given in marriage, up to the day Noah entered the ark. Then the flood came and destroyed them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.28",
+      "edition_verse_id": "BSB:LUK.17.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "It was the same in the days of Lot: People were eating and drinking, buying and selling, planting and building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.29",
+      "edition_verse_id": "BSB:LUK.17.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But on the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.30",
+      "edition_verse_id": "BSB:LUK.17.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "It will be just like that on the day the Son of Man is revealed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "LUK.17.31",
+      "edition_verse_id": "BSB:LUK.17.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "On that day, let no one on the housetop come down to retrieve his possessions. Likewise, let no one in the field return for anything he has left behind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.32",
+      "edition_verse_id": "BSB:LUK.17.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Remember Lot’s wife!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.33",
+      "edition_verse_id": "BSB:LUK.17.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Whoever tries to save his life will lose it, but whoever loses his life will preserve it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.34",
+      "edition_verse_id": "BSB:LUK.17.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "I tell you, on that night two people will be in one bed: one will be taken and the other left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.35",
+      "edition_verse_id": "BSB:LUK.17.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Two women will be grinding grain together: one will be taken and the other left.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "LUK.17.37",
+      "edition_verse_id": "BSB:LUK.17.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "“Where, Lord?” they asked. Jesus answered, “Wherever there is a carcass, there the vultures will gather.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
