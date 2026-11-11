@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "ACT.15.1",
+      "edition_verse_id": "BSB:ACT.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then some men came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.2",
+      "edition_verse_id": "BSB:ACT.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And after engaging these men in sharp debate, Paul and Barnabas were appointed, along with some other believers, to go up to Jerusalem to see the apostles and elders about this question.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.3",
+      "edition_verse_id": "BSB:ACT.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Sent on their way by the church, they passed through Phoenicia and Samaria, recounting the conversion of the Gentiles and bringing great joy to all the brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.4",
+      "edition_verse_id": "BSB:ACT.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "On their arrival in Jerusalem, they were welcomed by the church and apostles and elders, to whom they reported all that God had done through them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.5",
+      "edition_verse_id": "BSB:ACT.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But some believers from the party of the Pharisees stood up and declared, “The Gentiles must be circumcised and required to obey the law of Moses.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.6",
+      "edition_verse_id": "BSB:ACT.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So the apostles and elders met to look into this matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.7",
+      "edition_verse_id": "BSB:ACT.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "After much discussion, Peter got up and said to them, “Brothers, you know that in the early days God made a choice among you that the Gentiles would hear from my lips the message of the gospel and believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.8",
+      "edition_verse_id": "BSB:ACT.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And God, who knows the heart, showed His approval by giving the Holy Spirit to them, just as He did to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.9",
+      "edition_verse_id": "BSB:ACT.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He made no distinction between us and them, for He cleansed their hearts by faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.10",
+      "edition_verse_id": "BSB:ACT.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now then, why do you test God by placing on the necks of the disciples a yoke that neither we nor our fathers have been able to bear?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.11",
+      "edition_verse_id": "BSB:ACT.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "On the contrary, we believe it is through the grace of the Lord Jesus that we are saved, just as they are.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.12",
+      "edition_verse_id": "BSB:ACT.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The whole assembly fell silent as they listened to Barnabas and Paul describing the signs and wonders God had done among the Gentiles through them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.13",
+      "edition_verse_id": "BSB:ACT.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When they had finished speaking, James declared, “Brothers, listen to me!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.14",
+      "edition_verse_id": "BSB:ACT.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Simon has told us how God first visited the Gentiles to take from them a people to be His own.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.15",
+      "edition_verse_id": "BSB:ACT.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The words of the prophets agree with this, as it is written:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.16",
+      "edition_verse_id": "BSB:ACT.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "‘After this I will return and rebuild the fallen tent of David. Its ruins I will rebuild, and I will restore it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.17",
+      "edition_verse_id": "BSB:ACT.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "so that the remnant of men may seek the Lord, and all the Gentiles who are called by My name, says the Lord who does these things",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.18",
+      "edition_verse_id": "BSB:ACT.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "that have been known for ages.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.19",
+      "edition_verse_id": "BSB:ACT.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "It is my judgment, therefore, that we should not cause trouble for the Gentiles who are turning to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.20",
+      "edition_verse_id": "BSB:ACT.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Instead, we should write and tell them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals, and from blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.21",
+      "edition_verse_id": "BSB:ACT.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For Moses has been proclaimed in every city from ancient times and is read in the synagogues on every Sabbath.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.22",
+      "edition_verse_id": "BSB:ACT.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the apostles and elders, with the whole church, decided to select men from among them to send to Antioch with Paul and Barnabas. They chose Judas called Barsabbas and Silas, two leaders among the brothers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.23",
+      "edition_verse_id": "BSB:ACT.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and sent them with this letter: The apostles and the elders, your brothers, To the brothers among the Gentiles in Antioch, Syria, and Cilicia: Greetings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.24",
+      "edition_verse_id": "BSB:ACT.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "It has come to our attention that some went out from us without our authorization and unsettled you, troubling your minds by what they said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.25",
+      "edition_verse_id": "BSB:ACT.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So we all agreed to choose men to send to you along with our beloved Barnabas and Paul,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.26",
+      "edition_verse_id": "BSB:ACT.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "men who have risked their lives for the name of our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.27",
+      "edition_verse_id": "BSB:ACT.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Therefore we are sending Judas and Silas to tell you in person the same things we are writing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.28",
+      "edition_verse_id": "BSB:ACT.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "It seemed good to the Holy Spirit and to us not to burden you with anything beyond these essential requirements:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.29",
+      "edition_verse_id": "BSB:ACT.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "You must abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality. You will do well to avoid these things. Farewell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.30",
+      "edition_verse_id": "BSB:ACT.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So the men were sent off and went down to Antioch, where they assembled the congregation and delivered the letter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.31",
+      "edition_verse_id": "BSB:ACT.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "When the people read it, they rejoiced at its encouraging message.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.32",
+      "edition_verse_id": "BSB:ACT.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Judas and Silas, who themselves were prophets, said much to encourage and strengthen the brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.33",
+      "edition_verse_id": "BSB:ACT.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "After spending some time there, they were sent off by the brothers in peace to return to those who had sent them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.35",
+      "edition_verse_id": "BSB:ACT.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But Paul and Barnabas remained at Antioch, along with many others, teaching and preaching the word of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.36",
+      "edition_verse_id": "BSB:ACT.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Some time later Paul said to Barnabas, “Let us go back and visit the brothers in every town where we proclaimed the word of the Lord, to see how they are doing.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.37",
+      "edition_verse_id": "BSB:ACT.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Barnabas wanted to take John, also called Mark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.38",
+      "edition_verse_id": "BSB:ACT.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But Paul thought it best not to take him, because he had deserted them in Pamphylia and had not accompanied them in the work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.39",
+      "edition_verse_id": "BSB:ACT.15.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Their disagreement was so sharp that they parted company. Barnabas took Mark and sailed for Cyprus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.15.40",
+      "edition_verse_id": "BSB:ACT.15.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "but Paul chose Silas and left, commended by the brothers to the grace of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.15.41",
+      "edition_verse_id": "BSB:ACT.15.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "And he traveled through Syria and Cilicia, strengthening the churches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

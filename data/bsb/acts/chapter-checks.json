@@ -1,0 +1,184 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter_count": 28,
+  "verse_count": 1003,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 26,
+      "omitted_from_main_text": [],
+      "sha256": "3dde4a1386ea2ee7885821627638aa7a1ad91a55c6dd253c52560f97c3ea8da9"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 47,
+      "omitted_from_main_text": [],
+      "sha256": "ee9f1a5745b9a36621146cc0e0f0d8d7ea9160c24ed14f0062a96031ffb6c6d8"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 26,
+      "omitted_from_main_text": [],
+      "sha256": "27337e102a0aac39ab099e8457748bed84d8eb33b601ef196dd0c4f94f2a5dec"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 37,
+      "omitted_from_main_text": [],
+      "sha256": "d7515b6de10ba52126110398cb8948f690d952dac2bd0ce6d71d5bb3b0bc9110"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 42,
+      "omitted_from_main_text": [],
+      "sha256": "988ec6c951316bb12389d2e86bc2a7623047904fa7919bfbeaa5ba19c79a3c33"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "e8e0c552b0135601310002d78beccb6eedf679c06248d2ca0bc4b3c641729c91"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 60,
+      "omitted_from_main_text": [],
+      "sha256": "212860a77601f5d2990ac4d9b850beca903992994d7371be3375a5ffd807b986"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 39,
+      "omitted_from_main_text": [
+        "ACT.8.37"
+      ],
+      "sha256": "ab6a05e692b1bf248ecaa424b62c4e3cd4803938cb1f95ea90a64216760c3997"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 43,
+      "omitted_from_main_text": [],
+      "sha256": "466451fd6a51c4d0b09a052f29c08cd5b52778c8d382a645a18b6cbc11eaeb07"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 48,
+      "omitted_from_main_text": [],
+      "sha256": "7eb214ccae5efbfbd2f7ee378cf2be3bf13b24d5bb8af34f6c854950287bfcfa"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 30,
+      "omitted_from_main_text": [],
+      "sha256": "960e12ff6db26d702719c7c4301e92ff3ff939c6c8e25c7f655b2dca6d5c5d6f"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 25,
+      "omitted_from_main_text": [],
+      "sha256": "5969f5bbfdbfc8c1c3c0c85ac64affb8cc62d9e70da1d2a30467577219fc3ca5"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 52,
+      "omitted_from_main_text": [],
+      "sha256": "87505bda4fb7a1def56abafdedbf7ff81c29fb60320f2fbf7173bce20bf22a40"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 28,
+      "omitted_from_main_text": [],
+      "sha256": "3dcb094ef8142924d697ebe1db64316b134e18f48e4b59d99778b479f1e953ec"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 40,
+      "omitted_from_main_text": [
+        "ACT.15.34"
+      ],
+      "sha256": "e66ab0ad1353c559fb9583b387d4afc4df1688fbf8e55833b7f7baf58fa66656"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 40,
+      "omitted_from_main_text": [],
+      "sha256": "8a213dcca47d3033f5022593f8c676e7ebfa60a2f34642fa155d15b147a36ad1"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 34,
+      "omitted_from_main_text": [],
+      "sha256": "8628a2656aebe41f73ed6cb16213171e289dc623dacc53a6b7be974246e57c4c"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 28,
+      "omitted_from_main_text": [],
+      "sha256": "3639ed920a2e4c2f799945a769f0fc2c81298de3415d0555751f51e3c2fbc076"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 41,
+      "omitted_from_main_text": [],
+      "sha256": "08a6093a37e5879635444e88addcf71553cc71078a850de670238732bb77bd0c"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 38,
+      "omitted_from_main_text": [],
+      "sha256": "433d1ae8e0cbe434ac725b0e6fecafe3c54322f0028dac90566e9c4c68129c93"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 40,
+      "omitted_from_main_text": [],
+      "sha256": "76f52e2fb3effd51f80498d96f5aad2a1b53f6e6a4952f4b941d1f5297bc6af4"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 30,
+      "omitted_from_main_text": [],
+      "sha256": "c7cbd34679c22a235bb2490fcb8f73586d5d43a519ea3c8476cea56a40fd943f"
+    },
+    {
+      "chapter": 23,
+      "verse_count": 35,
+      "omitted_from_main_text": [],
+      "sha256": "837135f6610e5bef7adad5c8c91f87d6311953a1cf5dbb95d66ccb3728a392cd"
+    },
+    {
+      "chapter": 24,
+      "verse_count": 26,
+      "omitted_from_main_text": [
+        "ACT.24.7"
+      ],
+      "sha256": "85ddba63f1f37f418267ec4ac6b82fbf11fd9b7357d5f321b4876b8590540387"
+    },
+    {
+      "chapter": 25,
+      "verse_count": 27,
+      "omitted_from_main_text": [],
+      "sha256": "da7ae254a2f788e9e6168edf3a2769d90cb08a1d59542f0a0acaeee7d1ba0d99"
+    },
+    {
+      "chapter": 26,
+      "verse_count": 32,
+      "omitted_from_main_text": [],
+      "sha256": "05ca6d30fce5ba46f92b5cd12ba996b87a3c574524cf3d5b65202a08174ac5ed"
+    },
+    {
+      "chapter": 27,
+      "verse_count": 44,
+      "omitted_from_main_text": [],
+      "sha256": "87c86f5e802702294e44f83b951684697f0bb459a654cc127985ab5376b5b4e3"
+    },
+    {
+      "chapter": 28,
+      "verse_count": 30,
+      "omitted_from_main_text": [
+        "ACT.28.29"
+      ],
+      "sha256": "f4dedaab752b000603e9db7eea4bd6588d7b16385e44fca6108cb39154e56283"
+    }
+  ]
+}

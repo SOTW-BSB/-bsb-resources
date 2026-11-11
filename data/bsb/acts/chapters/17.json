@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "ACT.17.1",
+      "edition_verse_id": "BSB:ACT.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.2",
+      "edition_verse_id": "BSB:ACT.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As was his custom, Paul went into the synagogue, and on three Sabbaths he reasoned with them from the Scriptures,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.3",
+      "edition_verse_id": "BSB:ACT.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "explaining and proving that the Christ had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Christ,” he declared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.4",
+      "edition_verse_id": "BSB:ACT.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Some of the Jews were persuaded and joined Paul and Silas, along with a large number of God-fearing Greeks and quite a few leading women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.5",
+      "edition_verse_id": "BSB:ACT.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The Jews, however, became jealous. So they brought in some troublemakers from the marketplace, formed a mob, and sent the city into an uproar. They raided Jason’s house in search of Paul and Silas, hoping to bring them out to the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.6",
+      "edition_verse_id": "BSB:ACT.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But when they could not find them, they dragged Jason and some other brothers before the city officials, shouting, “These men who have turned the world upside down have now come here,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.7",
+      "edition_verse_id": "BSB:ACT.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and Jason has welcomed them into his home. They are all defying Caesar’s decrees, saying that there is another king, named Jesus!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.8",
+      "edition_verse_id": "BSB:ACT.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "On hearing this, the crowd and city officials were greatly disturbed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.9",
+      "edition_verse_id": "BSB:ACT.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they collected bond from Jason and the others and then released them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.10",
+      "edition_verse_id": "BSB:ACT.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As soon as night had fallen, the brothers sent Paul and Silas away to Berea. On arriving there, they went into the Jewish synagogue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.11",
+      "edition_verse_id": "BSB:ACT.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.12",
+      "edition_verse_id": "BSB:ACT.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As a result, many of them believed, along with quite a few prominent Greek women and men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.13",
+      "edition_verse_id": "BSB:ACT.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But when the Jews from Thessalonica learned that Paul was also proclaiming the word of God in Berea, they went there themselves to incite and agitate the crowds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.14",
+      "edition_verse_id": "BSB:ACT.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The brothers immediately sent Paul to the coast, but Silas and Timothy remained in Berea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.15",
+      "edition_verse_id": "BSB:ACT.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Those who escorted Paul brought him to Athens and then returned with instructions for Silas and Timothy to join him as soon as possible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.16",
+      "edition_verse_id": "BSB:ACT.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "While Paul was waiting for them in Athens, he was deeply disturbed in his spirit to see that the city was full of idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.17",
+      "edition_verse_id": "BSB:ACT.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So he reasoned in the synagogue with the Jews and God-fearing Gentiles, and in the marketplace with those he met each day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.18",
+      "edition_verse_id": "BSB:ACT.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Some Epicurean and Stoic philosophers also began to debate with him. Some of them asked, “What is this babbler trying to say?” Others said, “He seems to be advocating foreign gods.” They said this because Paul was proclaiming the good news of Jesus and the resurrection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.19",
+      "edition_verse_id": "BSB:ACT.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So they took Paul and brought him to the Areopagus, where they asked him, “May we know what this new teaching is that you are presenting?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.20",
+      "edition_verse_id": "BSB:ACT.17.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For you are bringing some strange notions to our ears, and we want to know what they mean.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.21",
+      "edition_verse_id": "BSB:ACT.17.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Now all the Athenians and foreigners who lived there spent their time doing nothing more than hearing and articulating new ideas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.22",
+      "edition_verse_id": "BSB:ACT.17.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then Paul stood up in the meeting of the Areopagus and said, “Men of Athens, I see that in every way you are very religious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.23",
+      "edition_verse_id": "BSB:ACT.17.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For as I walked around and examined your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Therefore what you worship as something unknown, I now proclaim to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.24",
+      "edition_verse_id": "BSB:ACT.17.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.25",
+      "edition_verse_id": "BSB:ACT.17.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Nor is He served by human hands, as if He needed anything, because He Himself gives everyone life and breath and everything else.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.26",
+      "edition_verse_id": "BSB:ACT.17.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "From one man He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.27",
+      "edition_verse_id": "BSB:ACT.17.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "God intended that they would seek Him and perhaps reach out for Him and find Him, though He is not far from each one of us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.28",
+      "edition_verse_id": "BSB:ACT.17.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "‘For in Him we live and move and have our being.’ As some of your own poets have said, ‘We are His offspring.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.29",
+      "edition_verse_id": "BSB:ACT.17.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Therefore, being offspring of God, we should not think that the Divine Being is like gold or silver or stone, an image formed by man’s skill and imagination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.30",
+      "edition_verse_id": "BSB:ACT.17.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Although God overlooked the ignorance of earlier times, He now commands all people everywhere to repent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.31",
+      "edition_verse_id": "BSB:ACT.17.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.32",
+      "edition_verse_id": "BSB:ACT.17.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "When they heard about the resurrection of the dead, some began to mock him, but others said, “We want to hear you again on this topic.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.17.33",
+      "edition_verse_id": "BSB:ACT.17.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "At that, Paul left the Areopagus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.17.34",
+      "edition_verse_id": "BSB:ACT.17.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But some joined him and believed, including Dionysius the Areopagite, a woman named Damaris, and others who were with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

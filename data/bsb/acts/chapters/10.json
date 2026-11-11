@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "ACT.10.1",
+      "edition_verse_id": "BSB:ACT.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.2",
+      "edition_verse_id": "BSB:ACT.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He and all his household were devout and God-fearing. He gave generously to the people and prayed to God regularly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.3",
+      "edition_verse_id": "BSB:ACT.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "One day at about the ninth hour, he had a clear vision of an angel of God who came to him and said, “Cornelius!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.4",
+      "edition_verse_id": "BSB:ACT.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Cornelius stared at him in fear and asked, “What is it, Lord?” The angel answered, “Your prayers and gifts to the poor have ascended as a memorial offering before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.5",
+      "edition_verse_id": "BSB:ACT.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now send men to Joppa to call for a man named Simon who is called Peter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.6",
+      "edition_verse_id": "BSB:ACT.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He is staying with Simon the tanner, whose house is by the sea.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.7",
+      "edition_verse_id": "BSB:ACT.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier from among his attendants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.8",
+      "edition_verse_id": "BSB:ACT.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He explained what had happened and sent them to Joppa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.9",
+      "edition_verse_id": "BSB:ACT.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The next day at about the sixth hour, as the men were approaching the city on their journey, Peter went up on the roof to pray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.10",
+      "edition_verse_id": "BSB:ACT.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He became hungry and wanted something to eat, but while the meal was being prepared, he fell into a trance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.11",
+      "edition_verse_id": "BSB:ACT.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He saw heaven open and something like a large sheet being let down to earth by its four corners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.12",
+      "edition_verse_id": "BSB:ACT.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "It contained all kinds of four-footed animals and reptiles of the earth, as well as birds of the air.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.13",
+      "edition_verse_id": "BSB:ACT.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then a voice said to him: “Get up, Peter, kill and eat!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.14",
+      "edition_verse_id": "BSB:ACT.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“No, Lord!” Peter answered. “I have never eaten anything impure or unclean.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.15",
+      "edition_verse_id": "BSB:ACT.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The voice spoke to him a second time: “Do not call anything impure that God has made clean.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.16",
+      "edition_verse_id": "BSB:ACT.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "This happened three times, and all at once the sheet was taken back up into heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.17",
+      "edition_verse_id": "BSB:ACT.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "While Peter was puzzling over the meaning of the vision, the men sent by Cornelius found Simon’s house and approached the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.18",
+      "edition_verse_id": "BSB:ACT.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They called out to ask if Simon called Peter was staying there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.19",
+      "edition_verse_id": "BSB:ACT.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "As Peter continued to reflect on the vision, the Spirit said to him, “Behold, three men are looking for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.20",
+      "edition_verse_id": "BSB:ACT.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So get up! Go downstairs and accompany them without hesitation, because I have sent them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.21",
+      "edition_verse_id": "BSB:ACT.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So Peter went down to the men and said, “Here am I, the one you are looking for. Why have you come?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.22",
+      "edition_verse_id": "BSB:ACT.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "“Cornelius the centurion has sent us,” they said. “He is a righteous and God-fearing man with a good reputation among the whole Jewish nation. A holy angel instructed him to request your presence in his home so he could hear a message from you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.23",
+      "edition_verse_id": "BSB:ACT.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So Peter invited them in as his guests. And the next day he got ready and went with them, accompanied by some of the brothers from Joppa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.24",
+      "edition_verse_id": "BSB:ACT.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The following day he arrived in Caesarea, where Cornelius was expecting them and had called together his relatives and close friends.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.25",
+      "edition_verse_id": "BSB:ACT.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "As Peter was about to enter, Cornelius met him and fell at his feet to worship him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.26",
+      "edition_verse_id": "BSB:ACT.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But Peter helped him up. “Stand up,” he said, “I am only a man myself.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.27",
+      "edition_verse_id": "BSB:ACT.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "As Peter talked with him, he went inside and found many people gathered together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.28",
+      "edition_verse_id": "BSB:ACT.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He said to them, “You know how unlawful it is for a Jew to associate with a foreigner or visit him. But God has shown me that I should not call any man impure or unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.29",
+      "edition_verse_id": "BSB:ACT.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So when I was invited, I came without objection. I ask, then, why have you sent for me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.30",
+      "edition_verse_id": "BSB:ACT.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Cornelius answered: “Four days ago I was in my house praying at this, the ninth hour. Suddenly a man in radiant clothing stood before me",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.31",
+      "edition_verse_id": "BSB:ACT.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and said, ‘Cornelius, your prayer has been heard, and your gifts to the poor have been remembered before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.32",
+      "edition_verse_id": "BSB:ACT.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Therefore send to Joppa for Simon, who is called Peter. He is a guest in the home of Simon the tanner, by the sea.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.33",
+      "edition_verse_id": "BSB:ACT.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So I sent for you immediately, and you were kind enough to come. Now then, we are all here in the presence of God to listen to everything the Lord has instructed you to tell us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.34",
+      "edition_verse_id": "BSB:ACT.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then Peter began to speak: “I now truly understand that God does not show favoritism,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.35",
+      "edition_verse_id": "BSB:ACT.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "but welcomes those from every nation who fear Him and do what is right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.36",
+      "edition_verse_id": "BSB:ACT.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "He has sent this message to the people of Israel, proclaiming the gospel of peace through Jesus Christ, who is Lord of all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.37",
+      "edition_verse_id": "BSB:ACT.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "You yourselves know what has happened throughout Judea, beginning in Galilee with the baptism that John proclaimed:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.38",
+      "edition_verse_id": "BSB:ACT.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "how God anointed Jesus of Nazareth with the Holy Spirit and with power, and how Jesus went around doing good and healing all who were oppressed by the devil, because God was with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.39",
+      "edition_verse_id": "BSB:ACT.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "We are witnesses of all that He did, both in the land of the Jews and in Jerusalem. And although they put Him to death by hanging Him on a tree,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.40",
+      "edition_verse_id": "BSB:ACT.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "God raised Him up on the third day and caused Him to be seen —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.41",
+      "edition_verse_id": "BSB:ACT.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "not by all the people, but by the witnesses God had chosen beforehand, by us who ate and drank with Him after He rose from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.42",
+      "edition_verse_id": "BSB:ACT.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And He commanded us to preach to the people and to testify that He is the One appointed by God to judge the living and the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.43",
+      "edition_verse_id": "BSB:ACT.10.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.44",
+      "edition_verse_id": "BSB:ACT.10.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "While Peter was still speaking these words, the Holy Spirit fell upon all who heard his message.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.45",
+      "edition_verse_id": "BSB:ACT.10.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "All the circumcised believers who had accompanied Peter were astounded that the gift of the Holy Spirit had been poured out even on the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.46",
+      "edition_verse_id": "BSB:ACT.10.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "For they heard them speaking in tongues and exalting God. Then Peter said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.10.47",
+      "edition_verse_id": "BSB:ACT.10.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "“Can anyone withhold the water to baptize these people? They have received the Holy Spirit just as we have!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.10.48",
+      "edition_verse_id": "BSB:ACT.10.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "So he ordered that they be baptized in the name of Jesus Christ. Then they asked him to stay for a few days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

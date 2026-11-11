@@ -1,0 +1,229 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Prologue",
+        "\\s1 The Ascension",
+        "\\s1 Matthias Replaces Judas"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Holy Spirit at Pentecost",
+        "\\s1 Peter Addresses the Crowd",
+        "\\s1 Three Thousand Believe",
+        "\\s1 The Fellowship of Believers"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 A Lame Man Walks",
+        "\\s1 Peter Speaks in Solomon’s Colonnade"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Peter and John before the Sanhedrin",
+        "\\s1 The Name Forbidden",
+        "\\s1 The Believers’ Prayer",
+        "\\s1 Sharing among Believers"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Ananias and Sapphira",
+        "\\s1 The Apostles Heal Many",
+        "\\s1 The Apostles Arrested and Freed",
+        "\\s1 The Apostles before the Sanhedrin",
+        "\\s1 Gamaliel’s Advice"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Choosing of the Seven",
+        "\\s1 The Arrest of Stephen"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Stephen’s Address: The Call of Abraham",
+        "\\s1 Joseph Sold into Egypt",
+        "\\s1 Israel Oppressed in Egypt",
+        "\\s1 The Birth and Adoption of Moses",
+        "\\s1 The Rejection and Flight of Moses",
+        "\\s1 The Call of Moses",
+        "\\s1 The Rebellion of Israel",
+        "\\s1 The Tabernacle of the Testimony",
+        "\\s1 The Stoning of Stephen"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Saul Persecutes the Church",
+        "\\s1 Philip in Samaria",
+        "\\s1 Simon the Sorcerer",
+        "\\s1 Philip and the Ethiopian"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Road to Damascus",
+        "\\s1 Ananias Baptizes Saul",
+        "\\s1 Saul Preaches at Damascus",
+        "\\s1 The Escape from Damascus",
+        "\\s1 Saul in Jerusalem",
+        "\\s1 The Healing of Aeneas",
+        "\\s1 The Raising of Tabitha"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Cornelius Sends for Peter",
+        "\\s1 Peter’s Vision",
+        "\\s1 Peter Called to Caesarea",
+        "\\s1 Peter Visits Cornelius",
+        "\\s1 Good News for the Gentiles",
+        "\\s1 The Gentiles Receive the Holy Spirit"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Peter’s Report at Jerusalem",
+        "\\s1 The Church at Antioch"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 James Killed, Peter Imprisoned",
+        "\\s1 The Rescue of Peter",
+        "\\s1 The Death of Herod"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Paul’s First Missionary Journey Begins",
+        "\\s1 On Cyprus",
+        "\\s1 In Pisidian Antioch",
+        "\\s1 A Light for the Gentiles"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Paul and Barnabas at Iconium",
+        "\\s1 The Visit to Lystra and Derbe",
+        "\\s1 Strengthening the Disciples"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 The Dispute over Circumcision",
+        "\\s1 The Council at Jerusalem",
+        "\\s1 The Letter to the Gentile Believers",
+        "\\s1 The Believers at Antioch Rejoice",
+        "\\s1 Paul’s Second Missionary Journey Begins"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Timothy Joins Paul and Silas",
+        "\\s1 Paul’s Vision of the Macedonian",
+        "\\s1 Lydia’s Conversion in Philippi",
+        "\\s1 Paul and Silas Imprisoned",
+        "\\s1 The Conversion of the Jailer",
+        "\\s1 An Official Apology"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 The Uproar in Thessalonica",
+        "\\s1 The Character of the Bereans",
+        "\\s1 Paul in Athens",
+        "\\s1 Paul’s Address in the Areopagus"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 Paul Ministers in Corinth",
+        "\\s1 Paul before Gallio",
+        "\\s1 Paul Returns to Antioch",
+        "\\s1 Paul’s Third Missionary Journey Begins"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 The Holy Spirit Received at Ephesus",
+        "\\s1 Paul Ministers in Ephesus",
+        "\\s1 Seven Sons of Sceva",
+        "\\s1 The Riot in Ephesus"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Paul in Macedonia and Greece",
+        "\\s1 Eutychus Revived at Troas",
+        "\\s1 From Troas to Miletus",
+        "\\s1 Paul’s Farewell to the Ephesians"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 Paul’s Journey to Jerusalem",
+        "\\s1 Paul Visits Philip the Evangelist",
+        "\\s1 Paul’s Arrival at Jerusalem",
+        "\\s1 Paul Seized at the Temple",
+        "\\s1 Paul Addresses the Crowd"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 Paul’s Defense to the Crowd",
+        "\\s1 Paul the Roman Citizen"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 Paul before the Sanhedrin",
+        "\\s1 The Plot to Kill Paul",
+        "\\s1 Paul Sent to Felix"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 Tertullus Prosecutes Paul",
+        "\\s1 Paul’s Defense to Felix",
+        "\\s1 The Verdict Postponed"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 Paul’s Trial before Festus",
+        "\\s1 Paul Appeals to Caesar",
+        "\\s1 Festus Consults Agrippa",
+        "\\s1 Paul before Agrippa and Bernice"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 Paul’s Testimony to Agrippa",
+        "\\s1 Festus Interrupts Paul’s Defense"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 Paul Sails for Rome",
+        "\\s1 The Storm at Sea",
+        "\\s1 The Shipwreck"
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 Ashore on Malta",
+        "\\s1 Paul Arrives in Italy",
+        "\\s1 Paul Preaches at Rome"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

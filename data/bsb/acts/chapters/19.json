@@ -1,0 +1,500 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "ACT.19.1",
+      "edition_verse_id": "BSB:ACT.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "While Apollos was at Corinth, Paul passed through the interior and came to Ephesus. There he found some disciples",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.2",
+      "edition_verse_id": "BSB:ACT.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and asked them, “Did you receive the Holy Spirit when you became believers?” “No,” they answered, “we have not even heard that there is a Holy Spirit.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.3",
+      "edition_verse_id": "BSB:ACT.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Into what, then, were you baptized?” Paul asked. “The baptism of John,” they replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.4",
+      "edition_verse_id": "BSB:ACT.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Paul explained: “John’s baptism was a baptism of repentance. He told the people to believe in the One coming after him, that is, in Jesus.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.5",
+      "edition_verse_id": "BSB:ACT.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "On hearing this, they were baptized into the name of the Lord Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.6",
+      "edition_verse_id": "BSB:ACT.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And when Paul laid his hands on them, the Holy Spirit came upon them, and they spoke in tongues and prophesied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.7",
+      "edition_verse_id": "BSB:ACT.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "There were about twelve men in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.8",
+      "edition_verse_id": "BSB:ACT.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Paul went into the synagogue and spoke boldly there for three months, arguing persuasively about the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.9",
+      "edition_verse_id": "BSB:ACT.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But when some of them stubbornly refused to believe and publicly maligned the Way, Paul took his disciples and left the synagogue to conduct daily discussions in the lecture hall of Tyrannus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.10",
+      "edition_verse_id": "BSB:ACT.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "This continued for two years, so that everyone who lived in the province of Asia, Jews and Greeks alike, heard the word of the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.11",
+      "edition_verse_id": "BSB:ACT.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "God did extraordinary miracles through the hands of Paul,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.12",
+      "edition_verse_id": "BSB:ACT.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "so that even handkerchiefs and aprons that had touched him were taken to the sick, and the diseases and evil spirits left them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.13",
+      "edition_verse_id": "BSB:ACT.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now there were some itinerant Jewish exorcists who tried to invoke the name of the Lord Jesus over those with evil spirits. They would say, “I command you by Jesus, whom Paul proclaims.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.14",
+      "edition_verse_id": "BSB:ACT.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Seven sons of Sceva, a Jewish chief priest, were doing this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.15",
+      "edition_verse_id": "BSB:ACT.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But one day the evil spirit responded, “Jesus I know, and I know about Paul, but who are you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.16",
+      "edition_verse_id": "BSB:ACT.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the man with the evil spirit jumped on them and overpowered them all. The attack was so violent that they ran out of the house naked and wounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.17",
+      "edition_verse_id": "BSB:ACT.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "This became known to all the Jews and Greeks living in Ephesus, and fear came over all of them. So the name of the Lord Jesus was held in high honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.18",
+      "edition_verse_id": "BSB:ACT.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Many who had believed now came forward, confessing and disclosing their deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.19",
+      "edition_verse_id": "BSB:ACT.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And a number of those who had practiced magic arts brought their books and burned them in front of everyone. When the value of the books was calculated, the total came to fifty thousand drachmas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.20",
+      "edition_verse_id": "BSB:ACT.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So the word of the Lord powerfully continued to spread and prevail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.21",
+      "edition_verse_id": "BSB:ACT.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "After these things had happened, Paul resolved in the Spirit to go to Jerusalem, passing through Macedonia and Achaia. “After I have been there,” he said, “I must see Rome as well.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.22",
+      "edition_verse_id": "BSB:ACT.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He sent two of his helpers, Timothy and Erastus, to Macedonia, while he stayed for a time in the province of Asia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.23",
+      "edition_verse_id": "BSB:ACT.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "About that time there arose a great disturbance about the Way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.24",
+      "edition_verse_id": "BSB:ACT.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "It began with a silversmith named Demetrius who made silver shrines of Artemis, bringing much business to the craftsmen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.25",
+      "edition_verse_id": "BSB:ACT.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Demetrius assembled the craftsmen, along with the workmen in related trades. “Men,” he said, “you know that this business is our source of prosperity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.26",
+      "edition_verse_id": "BSB:ACT.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And you can see and hear that not only in Ephesus, but in nearly the whole province of Asia, this Paul has persuaded a great number of people to turn away. He says that man-made gods are no gods at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.27",
+      "edition_verse_id": "BSB:ACT.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "There is danger not only that our business will fall into disrepute, but also that the temple of the great goddess Artemis will be discredited and her majesty deposed — she who is worshiped by all the province of Asia and the whole world.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.28",
+      "edition_verse_id": "BSB:ACT.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When the men heard this, they were enraged and began shouting, “Great is Artemis of the Ephesians!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.29",
+      "edition_verse_id": "BSB:ACT.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Soon the whole city was in disarray. They rushed together into the theatre, dragging with them Gaius and Aristarchus, Paul’s traveling companions from Macedonia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.30",
+      "edition_verse_id": "BSB:ACT.19.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Paul wanted to go before the assembly, but the disciples would not allow him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.31",
+      "edition_verse_id": "BSB:ACT.19.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Even some of Paul’s friends who were officials of the province of Asia sent word to him, begging him not to venture into the theatre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.32",
+      "edition_verse_id": "BSB:ACT.19.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Meanwhile the assembly was in turmoil. Some were shouting one thing and some another, and most of them did not even know why they were there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.33",
+      "edition_verse_id": "BSB:ACT.19.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The Jews in the crowd pushed Alexander forward to explain himself, and he motioned for silence so he could make his defense to the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.34",
+      "edition_verse_id": "BSB:ACT.19.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But when they realized that he was a Jew, they all shouted in unison for about two hours: “Great is Artemis of the Ephesians!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.35",
+      "edition_verse_id": "BSB:ACT.19.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Finally the city clerk quieted the crowd and declared, “Men of Ephesus, doesn’t everyone know that the city of Ephesus is guardian of the temple of the great Artemis and of her image, which fell from heaven?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.36",
+      "edition_verse_id": "BSB:ACT.19.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Since these things are undeniable, you ought to be calm and not do anything rash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.37",
+      "edition_verse_id": "BSB:ACT.19.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "For you have brought these men here, though they have neither robbed our temple nor blasphemed our goddess.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.38",
+      "edition_verse_id": "BSB:ACT.19.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "So if Demetrius and his fellow craftsmen have a complaint against anyone, the courts are open and proconsuls are available. Let them bring charges against one another there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.19.39",
+      "edition_verse_id": "BSB:ACT.19.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But if you are seeking anything beyond this, it must be settled in a legal assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.40",
+      "edition_verse_id": "BSB:ACT.19.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "For we are in jeopardy of being charged with rioting for today’s events, and we have no justification to account for this commotion.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.19.41",
+      "edition_verse_id": "BSB:ACT.19.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "After he had said this, he dismissed the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

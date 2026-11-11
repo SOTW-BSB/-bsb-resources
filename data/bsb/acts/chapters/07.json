@@ -1,0 +1,728 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "ACT.7.1",
+      "edition_verse_id": "BSB:ACT.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the high priest asked Stephen, “Are these charges true?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.2",
+      "edition_verse_id": "BSB:ACT.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Stephen declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.3",
+      "edition_verse_id": "BSB:ACT.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and told him, ‘Leave your country and your kindred and go to the land I will show you.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.4",
+      "edition_verse_id": "BSB:ACT.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.5",
+      "edition_verse_id": "BSB:ACT.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.6",
+      "edition_verse_id": "BSB:ACT.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "God told him that his descendants would be foreigners in a strange land, and that they would be enslaved and mistreated four hundred years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.7",
+      "edition_verse_id": "BSB:ACT.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "‘But I will punish the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship Me in this place.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.8",
+      "edition_verse_id": "BSB:ACT.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then God gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.9",
+      "edition_verse_id": "BSB:ACT.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.10",
+      "edition_verse_id": "BSB:ACT.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and rescued him from all his troubles. He granted Joseph favor and wisdom in the sight of Pharaoh king of Egypt, who appointed him ruler over Egypt and all his household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.11",
+      "edition_verse_id": "BSB:ACT.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then famine and great suffering swept across Egypt and Canaan, and our fathers could not find food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.12",
+      "edition_verse_id": "BSB:ACT.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When Jacob heard that there was grain in Egypt, he sent our fathers on their first visit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.13",
+      "edition_verse_id": "BSB:ACT.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "On their second visit, Joseph revealed his identity to his brothers, and his family became known to Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.14",
+      "edition_verse_id": "BSB:ACT.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Joseph sent for his father Jacob and all his relatives, seventy-five in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.15",
+      "edition_verse_id": "BSB:ACT.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So Jacob went down to Egypt, where he and our fathers died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.16",
+      "edition_verse_id": "BSB:ACT.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Their bones were carried back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a price he paid in silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.17",
+      "edition_verse_id": "BSB:ACT.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "As the time drew near for God to fulfill His promise to Abraham, our people in Egypt increased greatly in number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.18",
+      "edition_verse_id": "BSB:ACT.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then another king, who knew nothing of Joseph, arose over Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.19",
+      "edition_verse_id": "BSB:ACT.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He exploited our people and oppressed our fathers, forcing them to abandon their infants so they would die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.20",
+      "edition_verse_id": "BSB:ACT.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "At that time Moses was born, and he was beautiful in the sight of God. For three months he was nurtured in his father’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.21",
+      "edition_verse_id": "BSB:ACT.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When he was set outside, Pharaoh’s daughter took him and brought him up as her own son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.22",
+      "edition_verse_id": "BSB:ACT.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.23",
+      "edition_verse_id": "BSB:ACT.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When Moses was forty years old, he decided to visit his brothers, the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.24",
+      "edition_verse_id": "BSB:ACT.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And when he saw one of them being mistreated, Moses went to his defense and avenged him by striking down the Egyptian who was oppressing him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.25",
+      "edition_verse_id": "BSB:ACT.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He assumed his brothers would understand that God was using him to deliver them, but they did not.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.26",
+      "edition_verse_id": "BSB:ACT.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The next day he came upon two Israelites who were fighting, and he tried to reconcile them, saying, ‘Men, you are brothers. Why are you mistreating each other?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.27",
+      "edition_verse_id": "BSB:ACT.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But the man who was abusing his neighbor pushed Moses aside and said, ‘Who made you ruler and judge over us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.28",
+      "edition_verse_id": "BSB:ACT.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Do you want to kill me as you killed the Egyptian yesterday?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.29",
+      "edition_verse_id": "BSB:ACT.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "At this remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.30",
+      "edition_verse_id": "BSB:ACT.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.31",
+      "edition_verse_id": "BSB:ACT.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "When Moses saw it, he marveled at the sight. As he approached to look more closely, the voice of the Lord came to him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.32",
+      "edition_verse_id": "BSB:ACT.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.33",
+      "edition_verse_id": "BSB:ACT.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.34",
+      "edition_verse_id": "BSB:ACT.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "I have indeed seen the oppression of My people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send you back to Egypt.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.35",
+      "edition_verse_id": "BSB:ACT.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "This Moses, whom they had rejected with the words, ‘Who made you ruler and judge?’ is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.36",
+      "edition_verse_id": "BSB:ACT.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "He led them out and performed wonders and signs in the land of Egypt, at the Red Sea, and for forty years in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.37",
+      "edition_verse_id": "BSB:ACT.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "This is the same Moses who told the Israelites, ‘God will raise up for you a prophet like me from among your brothers.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.38",
+      "edition_verse_id": "BSB:ACT.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "He was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. And he received living words to pass on to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.39",
+      "edition_verse_id": "BSB:ACT.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.40",
+      "edition_verse_id": "BSB:ACT.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "They said to Aaron, ‘Make us gods who will go before us! As for this Moses who led us out of the land of Egypt, we do not know what has happened to him.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.41",
+      "edition_verse_id": "BSB:ACT.7.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "At that time they made a calf and offered a sacrifice to the idol, rejoicing in the works of their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.42",
+      "edition_verse_id": "BSB:ACT.7.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "But God turned away from them and gave them over to the worship of the host of heaven, as it is written in the book of the prophets: ‘Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.43",
+      "edition_verse_id": "BSB:ACT.7.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "You have taken along the tabernacle of Molech and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile beyond Babylon.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.44",
+      "edition_verse_id": "BSB:ACT.7.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Our fathers had the tabernacle of the Testimony with them in the wilderness. It was constructed exactly as God had directed Moses, according to the pattern he had seen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.45",
+      "edition_verse_id": "BSB:ACT.7.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And our fathers who received it brought it in with Joshua when they dispossessed the nations God drove out before them. It remained until the time of David,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.46",
+      "edition_verse_id": "BSB:ACT.7.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.47",
+      "edition_verse_id": "BSB:ACT.7.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "But it was Solomon who built the house for Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.48",
+      "edition_verse_id": "BSB:ACT.7.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "However, the Most High does not dwell in houses made by human hands. As the prophet says:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.49",
+      "edition_verse_id": "BSB:ACT.7.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, or where will My place of repose be?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.50",
+      "edition_verse_id": "BSB:ACT.7.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Has not My hand made all these things?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.51",
+      "edition_verse_id": "BSB:ACT.7.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "You stiff-necked people with uncircumcised hearts and ears! You always resist the Holy Spirit, just as your fathers did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.52",
+      "edition_verse_id": "BSB:ACT.7.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Which of the prophets did your fathers fail to persecute? They even killed those who foretold the coming of the Righteous One. And now you are His betrayers and murderers —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.53",
+      "edition_verse_id": "BSB:ACT.7.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "you who received the law ordained by angels, yet have not kept it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.54",
+      "edition_verse_id": "BSB:ACT.7.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "On hearing this, the members of the Sanhedrin were enraged, and they gnashed their teeth at him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.55",
+      "edition_verse_id": "BSB:ACT.7.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "But Stephen, full of the Holy Spirit, looked intently into heaven and saw the glory of God and Jesus standing at the right hand of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.56",
+      "edition_verse_id": "BSB:ACT.7.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "“Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.57",
+      "edition_verse_id": "BSB:ACT.7.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "At this they covered their ears, cried out in a loud voice, and rushed together at him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.58",
+      "edition_verse_id": "BSB:ACT.7.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "They dragged him out of the city and began to stone him. Meanwhile the witnesses laid their garments at the feet of a young man named Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.7.59",
+      "edition_verse_id": "BSB:ACT.7.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "While they were stoning him, Stephen appealed, “Lord Jesus, receive my spirit.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.7.60",
+      "edition_verse_id": "BSB:ACT.7.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "Falling on his knees, he cried out in a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

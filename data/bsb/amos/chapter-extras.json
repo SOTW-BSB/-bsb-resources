@@ -1,0 +1,57 @@
+{
+  "edition_id": "BSB",
+  "book_code": "AMO",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Judgment on Israel’s Neighbors"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Judgment on Moab, Judah, and Israel"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Witnesses against Israel"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Punishment Brings No Repentance"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 A Lamentation against Israel",
+        "\\s1 A Call to Repentance",
+        "\\s1 Woe to Rebellious Israel"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Woe to Those at Ease in Zion",
+        "\\s1 The Pride of Israel"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 The Locusts, Fire, and Plumb Line",
+        "\\s1 Amaziah Accuses Amos"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Basket of Summer Fruit"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Destruction of Israel",
+        "\\s1 A Promise of Restoration"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

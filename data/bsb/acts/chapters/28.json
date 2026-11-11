@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "ACT.28.1",
+      "edition_verse_id": "BSB:ACT.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Once we were safely ashore, we learned that the island was called Malta.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.2",
+      "edition_verse_id": "BSB:ACT.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The islanders showed us extraordinary kindness. They kindled a fire and welcomed all of us because it was raining and cold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.3",
+      "edition_verse_id": "BSB:ACT.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Paul gathered a bundle of sticks, and as he laid them on the fire, a viper, driven out by the heat, fastened itself to his hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.4",
+      "edition_verse_id": "BSB:ACT.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When the islanders saw the creature hanging from his hand, they said to one another, “Surely this man is a murderer. Although he was saved from the sea, Justice has not allowed him to live.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.5",
+      "edition_verse_id": "BSB:ACT.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But Paul shook the creature off into the fire and suffered no ill effects.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.6",
+      "edition_verse_id": "BSB:ACT.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The islanders were expecting him to swell up or suddenly drop dead. But after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.7",
+      "edition_verse_id": "BSB:ACT.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Nearby stood an estate belonging to Publius, the chief official of the island. He welcomed us and entertained us hospitably for three days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.8",
+      "edition_verse_id": "BSB:ACT.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The father of Publius was sick in bed, suffering from fever and dysentery. Paul went in to see him, and after praying and placing his hands on him, he healed the man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.9",
+      "edition_verse_id": "BSB:ACT.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "After this had happened, the rest of the sick on the island came and were cured as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.10",
+      "edition_verse_id": "BSB:ACT.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The islanders honored us in many ways and supplied our needs when we were ready to sail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.11",
+      "edition_verse_id": "BSB:ACT.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "After three months we set sail in an Alexandrian ship that had wintered in the island. It had the Twin Brothers as a figurehead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.12",
+      "edition_verse_id": "BSB:ACT.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Putting in at Syracuse, we stayed there three days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.13",
+      "edition_verse_id": "BSB:ACT.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "From there we weighed anchor and came to Rhegium. After one day, a south wind came up, and on the second day we arrived at Puteoli.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.14",
+      "edition_verse_id": "BSB:ACT.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "There we found some brothers who invited us to spend the week with them. And so we came to Rome.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.15",
+      "edition_verse_id": "BSB:ACT.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The brothers there had heard about us and traveled as far as the Forum of Appius and the Three Taverns to meet us. When Paul saw them, he was encouraged and gave thanks to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.16",
+      "edition_verse_id": "BSB:ACT.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When we arrived in Rome, Paul was permitted to stay by himself, with a soldier to guard him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.17",
+      "edition_verse_id": "BSB:ACT.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "After three days, he called together the leaders of the Jews. When they had gathered, he said to them, “Brothers, although I have done nothing against our people or the customs of our fathers, I was taken prisoner in Jerusalem and handed over to the Romans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.18",
+      "edition_verse_id": "BSB:ACT.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They examined me and wanted to release me, because there was no basis for a death sentence against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.19",
+      "edition_verse_id": "BSB:ACT.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But when the Jews objected, I was compelled to appeal to Caesar, even though I have no charge to bring against my nation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.20",
+      "edition_verse_id": "BSB:ACT.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So for this reason I have called to see you and speak with you. It is because of the hope of Israel that I am bound with this chain.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.21",
+      "edition_verse_id": "BSB:ACT.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The leaders replied, “We have not received any letters about you from Judea, nor have any of the brothers from there reported or even mentioned anything bad about you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.22",
+      "edition_verse_id": "BSB:ACT.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But we consider your views worth hearing, because we know that people everywhere are speaking against this sect.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.23",
+      "edition_verse_id": "BSB:ACT.28.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So they set a day to meet with Paul, and many people came to the place he was staying. He expounded to them from morning to evening, testifying about the kingdom of God and persuading them about Jesus from the Law of Moses and the Prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.24",
+      "edition_verse_id": "BSB:ACT.28.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Some of them were convinced by what he said, but others refused to believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.25",
+      "edition_verse_id": "BSB:ACT.28.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "They disagreed among themselves and began to leave after Paul had made this final statement: “The Holy Spirit was right when He spoke to your fathers through Isaiah the prophet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.26",
+      "edition_verse_id": "BSB:ACT.28.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "‘Go to this people and say, “You will be ever hearing but never understanding; you will be ever seeing but never perceiving.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.27",
+      "edition_verse_id": "BSB:ACT.28.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.28.28",
+      "edition_verse_id": "BSB:ACT.28.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Be advised, therefore, that God’s salvation has been sent to the Gentiles, and they will listen!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.30",
+      "edition_verse_id": "BSB:ACT.28.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Paul stayed there two full years in his own rented house, welcoming all who came to visit him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.28.31",
+      "edition_verse_id": "BSB:ACT.28.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Boldly and freely he proclaimed the kingdom of God and taught about the Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

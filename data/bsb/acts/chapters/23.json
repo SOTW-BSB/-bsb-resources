@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "ACT.23.1",
+      "edition_verse_id": "BSB:ACT.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul looked directly at the Sanhedrin and said, “Brothers, I have conducted myself before God in all good conscience to this day.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.2",
+      "edition_verse_id": "BSB:ACT.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "At this, the high priest Ananias ordered those standing near Paul to strike him on the mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.3",
+      "edition_verse_id": "BSB:ACT.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Paul said to him, “God will strike you, you whitewashed wall! You sit here to judge me according to the law, yet you yourself violate the law by commanding that I be struck.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.4",
+      "edition_verse_id": "BSB:ACT.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But those standing nearby said, “How dare you insult the high priest of God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.5",
+      "edition_verse_id": "BSB:ACT.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Brothers,” Paul replied, “I was not aware that he was the high priest, for it is written: ‘Do not speak evil about the ruler of your people.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.6",
+      "edition_verse_id": "BSB:ACT.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then Paul, knowing that some of them were Sadducees and the others Pharisees, called out in the Sanhedrin, “Brothers, I am a Pharisee, the son of a Pharisee. It is because of my hope in the resurrection of the dead that I am on trial.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.7",
+      "edition_verse_id": "BSB:ACT.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "As soon as he had said this, a dispute broke out between the Pharisees and Sadducees, and the assembly was divided.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.8",
+      "edition_verse_id": "BSB:ACT.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the Sadducees say that there is neither a resurrection nor angels nor spirits, but the Pharisees acknowledge them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.9",
+      "edition_verse_id": "BSB:ACT.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A great clamor arose, and some scribes from the party of the Pharisees got up and contended sharply, “We find nothing wrong with this man. What if a spirit or an angel has spoken to him?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.10",
+      "edition_verse_id": "BSB:ACT.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The dispute grew so violent that the commander was afraid they would tear Paul to pieces. He ordered the soldiers to go down and remove him by force and bring him into the barracks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.11",
+      "edition_verse_id": "BSB:ACT.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The following night the Lord stood near Paul and said, “Take courage! As you have testified about Me in Jerusalem, so also you must testify in Rome.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.12",
+      "edition_verse_id": "BSB:ACT.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When daylight came, the Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.13",
+      "edition_verse_id": "BSB:ACT.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "More than forty of them were involved in this plot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.14",
+      "edition_verse_id": "BSB:ACT.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They went to the chief priests and elders and said, “We have bound ourselves with a solemn oath not to eat anything until we have killed Paul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.15",
+      "edition_verse_id": "BSB:ACT.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now then, you and the Sanhedrin petition the commander to bring him down to you on the pretext of examining his case more carefully. We are ready to kill him on the way.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.16",
+      "edition_verse_id": "BSB:ACT.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But when the son of Paul’s sister heard about the plot, he went into the barracks and told Paul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.17",
+      "edition_verse_id": "BSB:ACT.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Paul called one of the centurions and said, “Take this young man to the commander; he has something to tell him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.18",
+      "edition_verse_id": "BSB:ACT.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So the centurion took him to the commander and said, “Paul the prisoner sent and asked me to bring this young man to you. He has something to tell you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.19",
+      "edition_verse_id": "BSB:ACT.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The commander took the young man by the hand, drew him aside, and asked, “What do you need to tell me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.20",
+      "edition_verse_id": "BSB:ACT.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He answered, “The Jews have agreed to ask you to bring Paul to the Sanhedrin tomorrow on the pretext of acquiring more information about him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.21",
+      "edition_verse_id": "BSB:ACT.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Do not let them persuade you, because more than forty men are waiting to ambush him. They have bound themselves with an oath not to eat or drink until they have killed him; they are ready now, awaiting your consent.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.22",
+      "edition_verse_id": "BSB:ACT.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So the commander dismissed the young man and instructed him, “Do not tell anyone that you have reported this to me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.23",
+      "edition_verse_id": "BSB:ACT.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then he called two of his centurions and said, “Prepare two hundred soldiers, seventy horsemen, and two hundred spearmen to go to Caesarea in the third hour of the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.24",
+      "edition_verse_id": "BSB:ACT.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Provide mounts for Paul to take him safely to Governor Felix.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.25",
+      "edition_verse_id": "BSB:ACT.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And he wrote the following letter:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.26",
+      "edition_verse_id": "BSB:ACT.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Claudius Lysias, To His Excellency, Governor Felix: Greetings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.27",
+      "edition_verse_id": "BSB:ACT.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "This man was seized by the Jews, and they were about to kill him when I came with my troops to rescue him. For I had learned that he is a Roman citizen,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.28",
+      "edition_verse_id": "BSB:ACT.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and since I wanted to understand their charges against him, I brought him down to their Sanhedrin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.29",
+      "edition_verse_id": "BSB:ACT.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "I found that the accusation involved questions about their own law, but there was no charge worthy of death or imprisonment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.30",
+      "edition_verse_id": "BSB:ACT.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "When I was informed that there was a plot against the man, I sent him to you at once. I also instructed his accusers to present their case against him before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.31",
+      "edition_verse_id": "BSB:ACT.23.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So the soldiers followed their orders and brought Paul by night to Antipatris.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.32",
+      "edition_verse_id": "BSB:ACT.23.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The next day they returned to the barracks and let the horsemen go on with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.33",
+      "edition_verse_id": "BSB:ACT.23.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When the horsemen arrived in Caesarea, they delivered the letter to the governor and presented Paul to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.23.34",
+      "edition_verse_id": "BSB:ACT.23.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The governor read the letter and asked what province Paul was from. Learning that he was from Cilicia,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.23.35",
+      "edition_verse_id": "BSB:ACT.23.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "he said, “I will hear your case when your accusers arrive.” Then he ordered that Paul be kept under guard in Herod’s Praetorium.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

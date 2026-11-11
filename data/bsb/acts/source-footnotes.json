@@ -1,0 +1,981 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapters": {
+    "1": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft Or \\fqa eating together\\f*",
+          "raw_sha256": "f0973206d65a980b5190343cef012fba9f1323725451998ddc496cc737cd487a"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft Or \\fqa For John baptized in water, but in a few days you will be baptized in the Holy Spirit\\ft ; cited in \\ref Acts 11:16|ACT 11:16\\ref*\\f*",
+          "raw_sha256": "0c53172790358285f929fad3a2f78c06610ca2c660df6b1364d8aeb2b6084d1e"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\fqa A Sabbath day’s journey \\ft is 2,000 cubits (approximately 3,000 feet or 914.4 meters)\\f*",
+          "raw_sha256": "ef3e75381d1d3b4ccb44102e8461ef566a523328cae25e03318bab705ea6f174"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 1:20 \\ft \\ref Psalm 69:25|PSA 69:25\\ref*\\f*",
+          "raw_sha256": "5dc2820d05e650a7a831c2dc007e18c2ea211cb7b52286d1b6555136f38413a3"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:20 \\ft \\ref Psalm 109:8|PSA 109:8\\ref*\\f*",
+          "raw_sha256": "b47e7db938e1da9f6f5d3cc1ba8d55f2385925236b1b888012096203a29f80bc"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as \\fqa the Feast of Harvest\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref*) or \\fqa the Feast of Weeks\\ft (see \\ref Exodus 34:22|EXO 34:22\\ref*).\\f*",
+          "raw_sha256": "295fc4e015e41b55675b8e06a8c28ac022e607e354d44877d9b283e206f087ca"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 2:5 \\ft Or \\fqa staying\\ft ; similarly in verse 14\\f*",
+          "raw_sha256": "e2f13fad4417e29f09939dce684ffddab4344ec11a00926a7824081d7a3d34ab"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 2:9 \\ft That is, the Roman Province of Asia, located in what is now western Turkey\\f*",
+          "raw_sha256": "75232ff4bc47e6e341253f149493ffded465382b587da7b8878930c0f8e3039e"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 2:15 \\ft That is, nine in the morning\\f*",
+          "raw_sha256": "313e0deff1560f77afa9d43c98a6ee586e1c245ef6477e6c3dac338201da60e0"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 2:21 \\ft \\ref Joel 2:28–32|JOL 2:28-32\\ref* (see also LXX)\\f*",
+          "raw_sha256": "99881265ffd1f3a2a691491a4c221ba29de8e34eae99728ab6656d257e96da06"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 2:25 \\ft Literally \\fqa I foresaw\\ft ; see verse 31.\\f*",
+          "raw_sha256": "0349aa999856d2a5976da69ec972977d48ba4240f7d8ed670d80048f3b4fbb59"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 2:28 \\ft \\ref Psalm 16:8–11|PSA 16:8-11\\ref* (see also LXX)\\f*",
+          "raw_sha256": "73b514d4090b6e5fd1e0612714074081f5665cfe51949d3b249c60245b9d5917"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 2:30 \\ft Literally \\fqa on oath that He would place out of the fruit of his loins on his throne\\ft ; BYZ and TR \\fqa on oath out of the fruit of his loins, according to the flesh, to raise up Christ to sit on his throne\\ft ; \\ref Psalm 132:11|PSA 132:11\\ref*\\f*",
+          "raw_sha256": "8e6f0dfe031cbe0fac39f5da3ba37e72b5645c65eadda91665bf5d94a76efcac"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 2:35 \\ft \\ref Psalm 110:1|PSA 110:1\\ref*\\f*",
+          "raw_sha256": "d9ab4035747741da4deba42394a77df13782af435428d7d93ddc487674565041"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 2:41 \\ft Literally \\fqa about three thousand souls were added that day\\f*",
+          "raw_sha256": "e89e4b91bfd6c975565ad44fd1d0fd491e4aa435f60894c1fc87dd08f36737bc"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 2:43 \\ft Or \\fqa fear\\f*",
+          "raw_sha256": "f511df620ee7e510f0c0bb48305cfdda6d32c70ad635be69db9e95c6b9de8afb"
+        }
+      ],
+      "46": [
+        {
+          "source_usfm": "\\f + \\fr 2:46 \\ft Literally \\fqa the temple\\f*",
+          "raw_sha256": "fce909f92e1eded4050a3485251d0d7bca29676e95415c0202eed70def4d8946"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft That is, three in the afternoon\\f*",
+          "raw_sha256": "224661ad19b2fbbca09ebf63eb4fd86d4f98f3c1fa25b81892e342a1c64d6d82"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\ft Literally \\fqa the temple\\ft ; also in verse 8\\f*",
+          "raw_sha256": "d136e4dd014c54b5e7a87d3359dda2966aebe5d991180a1b7d080eed40866847"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft SBL, NE, and WH \\fqa In the name of Jesus Christ of Nazareth, walk!\\f*",
+          "raw_sha256": "9830f54e315f3ad44779f143f332ee9bd68121a1bec1efdbe805e4ba4cff8c58"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft Literally \\fqa in the colonnade called Solomon’s\\f*",
+          "raw_sha256": "043075d40fce27104b4107a89325cf0101009a8ff6ff6f12054daff917101cb6"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 3:13 \\ft Or \\fqa His child\\ft ; also in verse 26\\f*",
+          "raw_sha256": "05081790b547d735ed708e37d2bcb91dfbb61e2143f6a900c3c6cfa83cf7285b"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 3:22 \\ft \\ref Deuteronomy 18:15|DEU 18:15\\ref*\\f*",
+          "raw_sha256": "303dba00757664a150f0220d96aa3fcbf7a754fceb991c85ef52565acf7e6f72"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 3:23 \\ft See \\ref Deuteronomy 18:19|DEU 18:19\\ref*.\\f*",
+          "raw_sha256": "857b5176c293b787c939f7c5fc74593e37fae3d3f96230a010190ed68b509295"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 3:25 \\ft \\ref Genesis 22:18|GEN 22:18\\ref*\\f*",
+          "raw_sha256": "c551e51e0ba5a3ede459640204fbcb46d97a4f6aecd07b5b4f5b377a54dd3558"
+        }
+      ]
+    },
+    "4": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 4:11 \\ft \\ref Psalm 118:22|PSA 118:22\\ref*\\f*",
+          "raw_sha256": "21cfe87890e8b002240423b98db2db1c6f4d0dfdc64882a6e340f6bd4825e8b5"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 4:15 \\ft Or \\fqa the Council\\f*",
+          "raw_sha256": "8707f2619b21cf56840957c0fd579f465c7d491652efec2f5d1acbe7ecf91514"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 4:25 \\ft Or \\fqa child\\ft ; also in verses 27 and 30\\f*",
+          "raw_sha256": "0c7950740dfb2d39e4643d385ecfa112c02e560edfb9c4570a63551c98859ed3"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 4:26 \\ft Or \\fqa His Christ \\ft or \\fqa His Messiah\\ft ; \\ref Psalm 2:1–2|PSA 2:1-2\\ref*\\f*",
+          "raw_sha256": "25c071397367709a6d8dd1b9d830ce7b8a8669d80f71f51ed8bcf7526128fff3"
+        }
+      ]
+    },
+    "5": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 5:20 \\ft Literally \\fqa the temple\\ft ; also in verses 21, 25, and 42\\f*",
+          "raw_sha256": "7c8514b156c43d8d43b538afcf2ee48c5df01570a6e8fb6242c32cec29aac9ce"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 5:21 \\ft Or \\fqa the Council\\ft ; also in verses 27, 34, and 41\\f*",
+          "raw_sha256": "0e4350f876436e3a02ecb200a19996ec43583d6e32c540cd4cd16c370a9735fd"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 5:24 \\ft Literally \\fqa as to what this might be\\f*",
+          "raw_sha256": "3542e2a748efbd9aec99aa4de19fc5cfe6729a957c4f822234b68c903d641bca"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 5:33 \\ft ECM, BYZ, TR, and Tischendorf; or \\fqa they took counsel\\ft ; SBL, NE, and WH \\fqa they wanted\\f*",
+          "raw_sha256": "9da6b5e00bcddc608e9e3af8a22c80b23afa3e679cba304be9993fb6d73e9417"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\ft Literally \\fqa the Hellenists began to grumble against the Hebrews\\f*",
+          "raw_sha256": "f4c37868a069a05db212afb26a7e921610e199b9d44566b33b028a9af2a62e5d"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 6:5 \\ft Literally \\fqa and Nicolas, a convert of Antioch\\f*",
+          "raw_sha256": "8a1a0363f533e976ddad6d3df668d54692707da8f431d9fdce9bea9a4b3ddf6b"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\ft Literally \\fqa —whom they set before the apostles,\\f*",
+          "raw_sha256": "5255332548a95217b77c989b4dff9c008100f54434bd12cd20be155aa89c712a"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 6:9 \\ft Literally \\fqa and those from Cilicia and Asia\\ft ; the Roman Province of Asia was located in what is now western Turkey.\\f*",
+          "raw_sha256": "ef7556ac003471412b0ca7bc85c564bb04cb2e7bdb834b71d0499db868784490"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 6:12 \\ft Or \\fqa the Council\\ft ; also in verse 15\\f*",
+          "raw_sha256": "e04746732bcf5c03210ab4fef2c31d05ec60e6878d739672ab45bcb5fa177520"
+        }
+      ]
+    },
+    "7": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 7:3 \\ft \\ref Genesis 12:1|GEN 12:1\\ref*\\f*",
+          "raw_sha256": "42a27b0f114945f98e0bbc6f67915b29e47c9f62f065d24497126179dbda2cfc"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 7:7 \\ft \\ref Genesis 15:13–14|GEN 15:13-14\\ref*; Exodus 3:12\\f*",
+          "raw_sha256": "e3566b147af30a67543e3d712f717596c3843a21a0ae50fbef3c6aa398ae5048"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\ft Or \\fqa Joseph was made known to \\ft or \\fqa Joseph was recognized by\\f*",
+          "raw_sha256": "0280a4eb546e75498e233dafcefb3f429ca8c1085d373eb11e9aa64ba172f45e"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 7:16 \\ft Literally \\fqa And they were carried back\\f*",
+          "raw_sha256": "39d9397d693d69244ac9aadb49bac723102741cc2197535f31e030107afde382"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 7:20 \\ft Or \\fqa he was of great status in God’s eyes \\ft or \\fqa he was no ordinary child\\f*",
+          "raw_sha256": "686b06374026e4191eabdf88d3518661dc14e094cc3440a7fe2b0ce0772ad1ca"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 7:28 \\ft \\ref Exodus 2:13–14|EXO 2:13-14\\ref* (see also LXX)\\f*",
+          "raw_sha256": "f2b1f3c83a953061b2306c48509248ae48ff45dcba730d65557337fb4cfeb7e8"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 7:32 \\ft \\ref Exodus 3:6|EXO 3:6\\ref*\\f*",
+          "raw_sha256": "c61c72631e8b36943de8e9ba4779dd27a8457d3cae983618fdb3a89a5df0a3ce"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 7:34 \\ft \\ref Exodus 3:5–10|EXO 3:5-10\\ref*\\f*",
+          "raw_sha256": "5afe4d32302ea75f749b409a121080f7f506b1504a6dcf824d9c8cb61ab280d8"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 7:35 \\ft \\ref Exodus 2:14|EXO 2:14\\ref*\\f*",
+          "raw_sha256": "878229042adcb94216003f76c740afc6aa42c486f861d02ed58d65913112e97a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:35 \\ft Or \\fqa Angel\\ft ; also in verse 38\\f*",
+          "raw_sha256": "842dea24fb8689dfef93926ec3ae1565f4897acee18eea0f91b0bd3a98021751"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 7:37 \\ft \\ref Deuteronomy 18:15|DEU 18:15\\ref*\\f*",
+          "raw_sha256": "3f3fb4cc754fe6e632b471ceefb11146cfd6d476afa3d77363be3b5d24ee49dd"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 7:38 \\ft NE and WH \\fqa to you\\f*",
+          "raw_sha256": "94d882c7ef461385e82d594a242422f9f73d125d808e88a114ea7e6924dae59d"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 7:40 \\ft \\ref Exodus 32:1|EXO 32:1\\ref*\\f*",
+          "raw_sha256": "970d7281f9e53a3a48d05f91465cb32d1e563a8b7020fc7a77ed12abacf3924b"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 7:43 \\ft \\ref Amos 5:25–27|AMO 5:25-27\\ref* (see also LXX)\\f*",
+          "raw_sha256": "ba45149d1d4bad09ff2bc2302b09f834f740e4fb864cee7c1b04198c6eab9142"
+        }
+      ],
+      "46": [
+        {
+          "source_usfm": "\\f + \\fr 7:46 \\ft SBL, WH, BYZ, and TR; see also LXX for \\ref Psalm 132:5|PSA 132:5\\ref*; ECM and NE \\fqa a dwelling place for the house of Jacob.\\f*",
+          "raw_sha256": "e154bec382da84888df1f615ad3562e248a95583e7057151d1211366a9c892f3"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 7:50 \\ft \\ref Isaiah 66:1–2|ISA 66:1-2\\ref*\\f*",
+          "raw_sha256": "b2bc1a4a757ad12fb2aef62a83d60016deefc4b4b8c9b7e688fbbafb65c7b166"
+        }
+      ],
+      "54": [
+        {
+          "source_usfm": "\\f + \\fr 7:54 \\ft Literally \\fqa On hearing these things, they were cut in their hearts,\\f*",
+          "raw_sha256": "ad3987edb3accb65887e380db2c0c50f02a7be4422d30415e6f4d59d4f9264c9"
+        }
+      ]
+    },
+    "8": {
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 8:27 \\ft Greek \\fqa Kandakē\\f*",
+          "raw_sha256": "490a522cb94ed53e1b169f2a95bceddfe9511bd77c803c9b42d7d47c989d8cbb"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 8:33 \\ft \\ref Isaiah 53:7–8|ISA 53:7-8\\ref* (see also LXX)\\f*",
+          "raw_sha256": "779050be8f77fe5e538d96b512652fa6475a7f222a66a9108168f7098c575ab4"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 8:36 \\ft TR includes \\fqa \\fv 37\\fv*And Philip said, “If you believe with all your heart, you may be baptized.” The eunuch replied, “I believe that Jesus Christ is the Son of God.”\\f*",
+          "raw_sha256": "82e5d070d89b875284c96ca2a05c5a5f3d7ce5a86a5dd98b86215f427e03defc"
+        }
+      ]
+    },
+    "9": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 9:5 \\ft TR includes \\fqa “It is hard for you to kick against the goads.” \\f*",
+          "raw_sha256": "779affa483db0cb1660033b3dd8c3ded4c721903b2edcf6100948561c73179c4"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 9:8 \\ft Literally \\fqa he could see nothing \\ft or \\fqa he could see no one\\f*",
+          "raw_sha256": "ed92ee148e61526fd47eeb6ab8d39db64033b39527d44f98c0888e4c83385fc3"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 9:25 \\ft Literally \\fqa through the wall\\ft ; see \\ref 2 Corinthians 11:33|2CO 11:33\\ref*.\\f*",
+          "raw_sha256": "e5773eeb64fa00348e4d4f00627e67780b336d66514c42d2e1f3b4ce3135f9c2"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 9:29 \\ft Or \\fqa Hellenists\\f*",
+          "raw_sha256": "587a63eb2a9bda75f6687e6839acdda4fd116c3afb896bfcd55024632523195e"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 9:36 \\fqa Tabitha \\ft in Aramaic and \\fqa Dorcas \\ft in Greek both mean \\fqa gazelle\\ft .\\f*",
+          "raw_sha256": "087ec62d1b099c3ba32385cc1864260b9cf7c9dd334609d537cefab271a3fdb3"
+        }
+      ]
+    },
+    "10": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 10:3 \\ft That is, about three in the afternoon; also in verse 30\\f*",
+          "raw_sha256": "588a1316b3befa4309dae7fe947e6980d9593e48f3408aff0b5db0df9c5d7f6b"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft TR includes \\fqa He will tell you what you need to do.\\f*",
+          "raw_sha256": "8dd6cb830084cd31e98cbcbba07bfadd8d67922bd537840a16dd6b4cfd451246"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 10:9 \\ft That is, about noon\\f*",
+          "raw_sha256": "8cd413b49fbed40c63add5445a9ae524ff07893dd28630be210d9bf428680cdd"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 10:14 \\ft Literally \\fqa common\\ft ; similarly in verses 15 and 28\\f*",
+          "raw_sha256": "8f9cc91eba41c124c2abd5e79edbfc8341e8e071ecfe9fe8e9d07ba9db2eb8d0"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 10:19 \\ft ECM and TR; NE and WH \\fqa two men are looking for you\\ft ; SBL and BYZ \\fqa men are looking for you\\f*",
+          "raw_sha256": "11b1bbb60fecc40ae55bfc940a895c180bd6aec7410ccf964297a5d7b2a08fdf"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 10:21 \\ft TR \\fqa the men sent to him by Cornelius\\f*",
+          "raw_sha256": "689306d4e39c8d415d71267f20bdfa05f1ce685c33d7c9f98d76a06ed9461349"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 10:30 \\ft BYZ and TR \\fqa Four days ago I was fasting until this hour, and at the ninth hour I was praying in my house.\\f*",
+          "raw_sha256": "737c875985fe086f8f9f8db8b8d58ad3f0c85adf4bbdd6ad0153b6fa25aa0c57"
+        }
+      ]
+    },
+    "11": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 11:2 \\ft Literally \\fqa those of the circumcision\\f*",
+          "raw_sha256": "72d517e86d7978bce8dc01750a6b311b1c4404fe36a694ac8427ea882551f7cc"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 11:8 \\ft Literally \\fqa common\\ft ; similarly in verse 9\\f*",
+          "raw_sha256": "996ced7cd48d8079330acebcf81e12c1cf4f364dfff34bb3a9a3c618b2331049"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 11:16 \\ft Or \\fqa ‘John baptized in water, but in a few days you will be baptized in the Holy Spirit.’\\ft \\ref Acts 1:5|ACT 1:5\\ref*\\f*",
+          "raw_sha256": "120e973da7e412a9e43230b3ff64cf20de038a784e698721aa5a2f1c33180a31"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 11:20 \\ft Or \\fqa the Hellenists\\f*",
+          "raw_sha256": "eecdddbef7e3375240a25bc41e9f865dc0f5651067984ed97cd69aa1b04811c3"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 11:28 \\ft Or \\fqa the entire Roman world\\f*",
+          "raw_sha256": "82f3d434ba6746e5d4986393243f33043a62d1f9f5c04c5ccd30f3151d19f3cf"
+        }
+      ]
+    },
+    "12": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 12:1 \\ft That is, King Herod Agrippa\\f*",
+          "raw_sha256": "0fd7d21246386b98adf1eb4c68ce42106c777ca1c5746c51d8b6b6651df48938"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:1 \\ft Literally \\fqa put forth the hands to mistreat\\f*",
+          "raw_sha256": "ce9dc252e0eec1e4561fd907aae7518ba0f3d23042fd26ab442789679cd7779c"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft Literally \\fqa seize Peter—now these were the days of the Unleavened\\ft ; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "4ca0c8e97f608a5f26bebd995fdab1899c465744b6832b70ccc98f89f2360652"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 12:20 \\ft Or \\fqa had become furious \\ft \\f*",
+          "raw_sha256": "0201eda11664d155eda100ffd9fc74e94b32cc877ac56c2af2bc6b0d58361b96"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 12:25 \\ft Or \\fqa had fulfilled their mission, they returned to Jerusalem\\ft ; NE and TR \\fqa had fulfilled their mission, they returned from Jerusalem\\f*",
+          "raw_sha256": "a7ee7d5d61913c96ccb1746afc54c04169aab58caf339e707c7ee1b83b4c4a9f"
+        }
+      ]
+    },
+    "13": {
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 13:22 \\ft See \\ref 1 Samuel 13:14|1SA 13:14\\ref*.\\f*",
+          "raw_sha256": "ec65d9cb77a137b8d617ba5211ca8e91e3449bac290f0c3c7b1ffd99c8ac53a4"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 13:25 \\ft \\ref Luke 3:16|LUK 3:16\\ref*; see also Matthew 3:11, Mark 1:7, and John 1:27.\\f*",
+          "raw_sha256": "273598145e2b1da77426b860f0c758c39b53022f6348f94835f07f12e8cfe7ca"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 13:33 \\ft \\ref Psalm 2:7|PSA 2:7\\ref*; literally \\fqa today I have begotten You\\f*",
+          "raw_sha256": "3058257e530a783663d2c3908f6bcadb7fc0bf387227f26092a108e7d4db5eb5"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 13:34 \\ft Literally \\fqa I will give you the holy, the trustworthy of David\\ft ; \\ref Isaiah 55:3|ISA 55:3\\ref*\\f*",
+          "raw_sha256": "2d54e3fb3a00ac8cd1bff8934b021afd51396deed192532afe4c3c0ca964739d"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 13:35 \\ft \\ref Psalm 16:10|PSA 16:10\\ref*\\f*",
+          "raw_sha256": "04f02109f0c5c93849d9e11f3106a2dcac2c66693047ee1bbea6ff236550da97"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 13:41 \\ft \\ref Habakkuk 1:5|HAB 1:5\\ref* (see also LXX)\\f*",
+          "raw_sha256": "1cc9e3a40bce68b572ebaacb513cd848ec831b473c975fe0c08afea2716d3c82"
+        }
+      ],
+      "47": [
+        {
+          "source_usfm": "\\f + \\fr 13:47 \\ft \\ref Isaiah 49:6|ISA 49:6\\ref*\\f*",
+          "raw_sha256": "4ecbdfb45f0eee92e80f1f8c868d188e65898a6c125994bb3f37b158a3482881"
+        }
+      ]
+    },
+    "15": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 15:14 \\ft Greek \\fqa Simeon\\ft , a variant of Simon\\f*",
+          "raw_sha256": "90b75e87cb54c5bebc010d953db8c1cd67d9dc81c9e13b4389407a7558c9420e"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 15:18 \\ft \\ref Amos 9:11–12|AMO 9:11-12\\ref* (see also LXX); BYZ and TR \\fqa says the Lord, who does all these things. \\fv 18\\fv*Known unto God are all His works from the ages.\\f*",
+          "raw_sha256": "b2ec7d4ba26a8da00bc1f5a140dbf801831052c8833aad3d8a69fc4867f0c26b"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 15:24 \\ft BYZ and TR \\fqa by saying that you must be circumcised and keep the law.\\f*",
+          "raw_sha256": "e850900fa1c47059b6aeed94f292ce242a9185b8b013e901c651cd8701481f3a"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 15:33 \\ft TR includes \\fqa \\fv 34\\fv*Silas, however, decided to remain there.\\f*",
+          "raw_sha256": "b217d1d1b1d42fb9a37b1318b6b36800a06d652633d044027e4e0fc9192dbbfc"
+        }
+      ]
+    },
+    "16": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 16:6 \\ft Literally \\fqa in Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "761614a9b6ce503a1820cdb148b21f438d516252e594be30f9c8a067b5c833a1"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 16:12 \\ft Literally \\fqa we went to Philippi, which is a leading city of the district of Macedonia—a colony\\f*",
+          "raw_sha256": "0f2985cf4f8dde1e4fb0ece2366f13b724799d581b2d9699b0286f619c6f35a4"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 16:16 \\ft Greek \\fqa a spirit of Python\\ft ; that is, a spirit of divination named after the mythical serpent slain by Apollo\\f*",
+          "raw_sha256": "431368e1e8ea28b26dbc37ea81b5e70f84eba489e95ab289a0c82ccbdbe67426"
+        }
+      ]
+    },
+    "17": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 17:11 \\ft Literally \\fqa with great eagerness, every day examining the Writings, whether these things were so.\\f*",
+          "raw_sha256": "9d22cdb097b0bc22a71d72de14dce21242ddd0e20c69c928212a84de18cdc77b"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 17:19 \\ft Or \\fqa Ares Hill \\ft or \\fqa Mars Hill\\ft ; also in verse 22 and added for clarity in verse 33\\f*",
+          "raw_sha256": "308a88df5996e44ed9441444142e2d95cdf47b61e04a36d32e319515be6a1714"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 17:22 \\ft Literally \\fqa in the middle\\f*",
+          "raw_sha256": "1586b850969206d4e1ec247169acc38196b6ac45074adaaba5777b734f059758"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 17:26 \\ft Literally \\fqa From one\\ft ; BYZ and TR \\fqa From one blood\\f*",
+          "raw_sha256": "c53f6cf8584add2699984d64bfbbdcc5107364ff8faca86b6801cdbb2f4a9cd0"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 17:28 \\ft This is probably a quote from the Cretan philosopher Epimenides of Knossos.\\f*",
+          "raw_sha256": "bca86eca51e0ba04eb0c563d1ddd5805d98648c8554ff0496e3b4ba328b8a309"
+        },
+        {
+          "source_usfm": "\\f + \\fr 17:28 \\ft This is probably a quote from the poem “Phainomena” by the Cilician philosopher Aratus.\\f*",
+          "raw_sha256": "ab731d941ad9a1075da02eea1df016a7f7bfb22d1bb0d4332db0a2bc6fb7b825"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 17:34 \\ft Literally \\fqa some men\\f*",
+          "raw_sha256": "5b5741c5d3a8ae6c502264cdf4339b4af51ffe3d16a7820d481c4138943a8344"
+        }
+      ]
+    },
+    "18": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 18:7 \\ft ECM; SBL, NE, and WH \\fqa Titius Justus\\ft ; BYZ and TR \\fqa Justus\\f*",
+          "raw_sha256": "f7a623dbab8434ba38387bfaa7e70796b125a79e55d3c178cc204bc0d5fa8def"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 18:17 \\ft Literally \\fqa they all\\ft ; BYZ and TR \\fqa all the Greeks\\f*",
+          "raw_sha256": "80fcc5e0b6ac2725462b24ec6b00fa2306b49388603ee0736c935ee58fcedb78"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 18:21 \\ft BYZ and TR \\fqa I must by all means keep this feast that comes in Jerusalem, but I will come back\\f*",
+          "raw_sha256": "e6203af1d5a7db2d18e6b2596a3d846ac998d3db9fa646c85a89cf8af5b53823"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 18:22 \\ft Literally \\fqa he went up and greeted the church\\f*",
+          "raw_sha256": "40abda88509b563147ac2372b7bfd95caec3a48708ad0639756e49312c60e0c6"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 18:25 \\ft BYZ and TR \\fqa about the Lord\\f*",
+          "raw_sha256": "84a7d5a83837ed7b7123f7af41534b4f5bd9a6e325fc5c40b4b2b7f3c2abbc8f"
+        }
+      ]
+    },
+    "19": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 19:1 \\ft Or \\fqa the highland\\f*",
+          "raw_sha256": "4f4a9083fbcf24ebe37c354742c2c6ffd654a03277df71e5240b4cdcbcd656cf"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 19:10 \\ft Literally \\fqa in Asia\\ft ; Asia was a Roman province in what is now western Turkey; similarly in verses 22, 26, 27, and 31.\\f*",
+          "raw_sha256": "9a39781c6f8080fb9fd4d1ab574914e3603da2f6ece20205fd4147af26220345"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 19:12 \\ft Greek \\fqa soudaria\\f*",
+          "raw_sha256": "e218f530690521a192b81408b5d18f4d16e7ac57b4fbf38e841795238962bea8"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 19:19 \\ft Or \\fqa fifty thousand pieces of silver. \\ft A drachma was a silver coin worth about one day’s wages.\\f*",
+          "raw_sha256": "37a681727b32dd98417bb768c9a1c6b489e74552bc4b701473d80a23f6c2cce6"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 19:21 \\ft Or \\fqa resolved in spirit\\f*",
+          "raw_sha256": "8f7d864593d3e46908a25a53e3a84b12d9fd96134e191a828783a90ad79d1187"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 19:23 \\ft Literally \\fqa there arose no little disturbance\\f*",
+          "raw_sha256": "6e4f881d275fe8b7347519db377fa8d20524255969ac5adbe0f3ed4a524aae63"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 19:24 \\ft Literally \\fqa bringing no little business\\f*",
+          "raw_sha256": "4ea972e468d3c4eaa39d4cefafbeefd8cae9499471930918e30199924ab86869"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 19:31 \\ft Or \\fqa friends who were Asiarchs\\f*",
+          "raw_sha256": "8b9cd3423ea0d0a70a242e069aa8a5b31c4aead709123e1325ac7e4c60d52846"
+        }
+      ]
+    },
+    "20": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 20:4 \\ft Literally \\fqa from Asia\\ft ; Asia was a Roman province in what is now western Turkey; also in verses 16 and 18.\\f*",
+          "raw_sha256": "68d6078dde4bed365f84b15dee0be8dd40dedb4b077bb49dc3da50f8354b61a2"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 20:6 \\ft Literally \\fqa after the days of the Unleavened\\ft ; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "6e7051fc69807fb2bce60e040d68103fd3a13a063cadc8cf19639aac7de2ec21"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 20:15 \\ft BYZ and TR \\fqa and, after remaining at Trogyllium,\\f*",
+          "raw_sha256": "0879a780a9f011e18b8d3bd9b06809756bd8070ef180bd01bcc9bd7bd4db2eb0"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 20:16 \\ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as \\fqa the Feast of Harvest\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref*) or \\fqa the Feast of Weeks\\ft (see \\ref Exodus 34:22|EXO 34:22\\ref*).\\f*",
+          "raw_sha256": "4f7004073a3cf1dba5228709e4628fa851af7670c9b95acaea9ae18246186338"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 20:21 \\ft ECM, TR, and Tischendorf; SBL, NE, BYZ, and WH \\fqa our Lord Jesus\\f*",
+          "raw_sha256": "4e55fe0e34443617a252d1c61fe16db3fc900a83485d6ea09d818150aedb9488"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 20:26 \\ft See \\ref Ezekiel 33:8–9|EZK 33:8-9\\ref*.\\f*",
+          "raw_sha256": "e4edf00465b20cc738be48e1885bb9f31eabfcadb994ae792866e15a8e3c22a6"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 20:28 \\ft Tischendorf \\fqa of the Lord\\ft ; BYZ and PT \\fqa of the Lord and God\\f*",
+          "raw_sha256": "ee76900e2397f971a586a9d5399ec7bd771defb6dd9302eb3715f2a93ee63c79"
+        },
+        {
+          "source_usfm": "\\f + \\fr 20:28 \\ft Or \\fqa with the blood of His own Son.\\f*",
+          "raw_sha256": "b0d7f5ff10f3d05db18f920635bb2b9bf74900ac6e57b8b5881d053dd13b9e67"
+        }
+      ]
+    },
+    "21": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 21:8 \\ft See \\ref Acts 6:5|ACT 6:5\\ref*.\\f*",
+          "raw_sha256": "16ca233044d5ea7a78a1400f1d3b17af85af752a09be391ad13f7899411b2792"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 21:27 \\ft Literally \\fqa from Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "6316178fb4b25922caa86311136a79d30180181418a49a6d7f65b65b255548b4"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 21:31 \\ft Literally \\fqa the commander of the cohort\\f*",
+          "raw_sha256": "80cf1437e784419e50923bb3fe8024710ee59cbe668b2b616a7169ba7899569b"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 21:40 \\ft Or \\fqa in Aramaic\\ft ; literally \\fqa in the Hebrew language\\f*",
+          "raw_sha256": "b90773b40d2376ee79df2ec8f61296bcd16442915333215c7f652462456dd9f4"
+        }
+      ]
+    },
+    "22": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 22:2 \\ft Or \\fqa in Aramaic\\ft ; literally \\fqa in the Hebrew language\\f*",
+          "raw_sha256": "c78f7651c6b40b0fe06153f0b63a6b25bb3bd08138e6bb4d752e0d97df913254"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 22:18 \\ft Literally \\fqa saw Him\\f*",
+          "raw_sha256": "59e3ef20d8fb84b581cf21c8c0c23147132f0ebda280e9df6e2c4bd320e61881"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 22:20 \\ft Or \\fqa martyr\\f*",
+          "raw_sha256": "3fe56da5eea8a52bc4604f29f624f05e9a9b9070694ca16f25681d878b5f02ce"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 22:30 \\ft Or \\fqa the whole Council\\f*",
+          "raw_sha256": "a27aecc95d3d2b2e5431b9c68fa635d11379e050c063e4a84d9994d5281a942a"
+        }
+      ]
+    },
+    "23": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 23:1 \\ft Or \\fqa the Council\\ft ; also in verses 6, 15, 20, and 28\\f*",
+          "raw_sha256": "a574249cf46b12b2f3b8e1b79b5b0d07b5708747f4918fc2d67d4934b10a7550"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 23:5 \\ft \\ref Exodus 22:28|EXO 22:28\\ref* (see also LXX)\\f*",
+          "raw_sha256": "cf9e5a33c08b14e4c820a55908f86db217661a6126635dc64946812aca92e596"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 23:16 \\ft Or \\fqa the ambush\\f*",
+          "raw_sha256": "ee416866fcea0e39c2c00b2a02ad920461c80e0261ecec87586e891b4f2eb1b2"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 23:23 \\ft That is, at nine tonight\\f*",
+          "raw_sha256": "ff72ee17ecb2030ab9b720fa4f8a1d82ed359842268ad4e89e0ef7e0d37fb426"
+        }
+      ]
+    },
+    "24": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 24:1 \\ft Or \\fqa an orator\\f*",
+          "raw_sha256": "ac5d1c984b5d336149767a36ccea0f4fb44e09fcb66e5119b2599a91f4c4cf80"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 24:6 \\ft TR includes \\fqa and we would have judged him according to our law. \\fv 7\\fv*But Lysias the commander came with great force and took him out of our hands, \\fv 8\\fv*ordering his accusers to come before you.\\f*",
+          "raw_sha256": "42f2df20c6785c5826b8a1b002d4b3963a477db4fcb0c151a4bd798f6dba2e58"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 24:18 \\ft Literally \\fqa from Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "455477e9f50bdf7370c550323e911c147f7b25c471a5c040c56f717cfb16133e"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 24:20 \\ft Or \\fqa the Council\\f*",
+          "raw_sha256": "79017e669f57a04d9cc6b5b4e243cc7d2d6d7adff51c2e044c62123a3939e430"
+        }
+      ]
+    },
+    "26": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 26:14 \\ft Or \\fqa in Aramaic\\ft ; literally \\fqa in the Hebrew language \\f*",
+          "raw_sha256": "08fd65d685c9d631eaf486cfc1a560d55b0d8be7173ae9d8c53f1c52a5d472d4"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 26:21 \\ft Literally \\fqa the temple\\f*",
+          "raw_sha256": "d47c1d200c86e28aaa63609a54e166e7c84bfd8cb82cf70f878bce308ee3d253"
+        }
+      ]
+    },
+    "27": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 27:1 \\ft Or \\fqa Augustan\\f*",
+          "raw_sha256": "0577e6e20a374024c3b05e8e0013d2b7d5309a90711a68d9ec527f924285925a"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 27:2 \\ft Literally \\fqa sail to the places along Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "073070731d2dbb79fd7b5e11b53f424c33cbfbe131776258de83f87abb0c4f3e"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 27:9 \\ft That is, Yom Kippur, the Day of Atonement\\f*",
+          "raw_sha256": "65108db91e1b4191e7b353c09cbb3ae9c577be6f6569c6a210d5ed1cee07b08f"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 27:16 \\ft NE, BYZ, and TR \\fqa Clauda\\f*",
+          "raw_sha256": "d323e0cc39c473d3bed34268598eb40ffcd22e86734220ad56b3f8d985af1b3c"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 27:17 \\ft Or \\fqa the sails\\f*",
+          "raw_sha256": "ce853bcf0168fc8cc2587a32cc3295a0eded8f7ea74acf440151b3194d219bd7"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 27:27 \\ft The Adriatic Sea referred to an area extending well south of Italy to include the central portion of the Mediterranean Sea.\\f*",
+          "raw_sha256": "040ab614e0585f53fb635c4d817253555ba8184500fbb76ec09f308fcada8cbc"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 27:28 \\fqa 20 fathoms \\ft is approximately 120 feet or 36.6 meters.\\f*",
+          "raw_sha256": "dd2c3cf11cca7129318cdc7ec66c727bf16de571a504c174a7fe461ecd045080"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:28 \\fqa 15 fathoms \\ft is approximately 90 feet or 27.4 meters.\\f*",
+          "raw_sha256": "6ce66d0c22f38866c267e8bfcb4debb262791e83e0192077e032a0e164697cad"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 27:37 \\ft WH \\fqa 76\\f*",
+          "raw_sha256": "eaf28fb5b7708300771af5c86508404cfddce7659b221dc038268d01865446f5"
+        }
+      ]
+    },
+    "28": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 28:4 \\ft Greek \\fqa Dike\\ft ; that is, the Greek goddess of justice\\f*",
+          "raw_sha256": "9ca58d2d74e9a4aba76f5b514bc29d879634f899015704a319a567e9f27a3952"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 28:11 \\ft Greek \\fqa Dioscuri\\ft ; that is, the Greek gods Castor and Pollux\\f*",
+          "raw_sha256": "e0ee2357836e307fb595fd1c14f6c7ae0a2fc265ba33106773dbcd55fd6ae95f"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 28:15 \\ft The Forum of Appius was about 43 miles or 70 kilometers from Rome.\\f*",
+          "raw_sha256": "affd1560489a3095e22cb4aecbc1cbbdf928ca3c1569d746fb4f877c02537924"
+        },
+        {
+          "source_usfm": "\\f + \\fr 28:15 \\ft The Three Taverns was about 35 miles or 57 kilometers from Rome.\\f*",
+          "raw_sha256": "7ab5c716a98cd19ce96b54bd34d405e1d2d1e17f29627865e9b923ddedfea23f"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 28:16 \\ft BYZ and TR include \\fqa the centurion delivered up the prisoners to the captain of the barrack, but\\ft .\\f*",
+          "raw_sha256": "56915e2f2ebffd428e96881beaaf92610bcaa3662357dbebd9858b786720f0b1"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 28:27 \\ft \\ref Isaiah 6:9–10|ISA 6:9-10\\ref* (see also LXX)\\f*",
+          "raw_sha256": "8557c252af5c24dd06951ddb212097a708ef975742a70f886f36e23962a9a2f2"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 28:28 \\ft BYZ and TR include \\fqa \\fv 29\\fv*When he had said this, the Jews went away, disputing sharply among themselves.\\f*",
+          "raw_sha256": "58c6124604f90e46acc9cdbae892138c42086830d4b64e54a548e46ccae5e90e"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

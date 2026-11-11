@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "ACT.3.1",
+      "edition_verse_id": "BSB:ACT.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.2",
+      "edition_verse_id": "BSB:ACT.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And a man who was lame from birth was being carried to the temple gate called Beautiful, where he was put every day to beg from those entering the temple courts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.3",
+      "edition_verse_id": "BSB:ACT.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When he saw Peter and John about to enter, he asked them for money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.4",
+      "edition_verse_id": "BSB:ACT.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Peter looked directly at him, as did John. “Look at us!” said Peter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.5",
+      "edition_verse_id": "BSB:ACT.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the man gave them his attention, expecting to receive something from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.6",
+      "edition_verse_id": "BSB:ACT.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But Peter said, “Silver or gold I do not have, but what I have I give you: In the name of Jesus Christ of Nazareth, get up and walk!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.7",
+      "edition_verse_id": "BSB:ACT.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Taking him by the right hand, Peter helped him up, and at once the man’s feet and ankles were made strong.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.8",
+      "edition_verse_id": "BSB:ACT.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He sprang to his feet and began to walk. Then he went with them into the temple courts, walking and leaping and praising God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.9",
+      "edition_verse_id": "BSB:ACT.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When all the people saw him walking and praising God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.10",
+      "edition_verse_id": "BSB:ACT.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "they recognized him as the man who used to sit begging at the Beautiful Gate of the temple, and they were filled with wonder and amazement at what had happened to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.11",
+      "edition_verse_id": "BSB:ACT.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "While the man clung to Peter and John, all the people were astonished and ran to them in the walkway called Solomon’s Colonnade.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.12",
+      "edition_verse_id": "BSB:ACT.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And when Peter saw this, he addressed the people: “Men of Israel, why are you surprised by this? Why do you stare at us as if by our own power or godliness we had made this man walk?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.13",
+      "edition_verse_id": "BSB:ACT.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified His servant Jesus. You handed Him over and rejected Him before Pilate, even though he had decided to release Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.14",
+      "edition_verse_id": "BSB:ACT.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You rejected the Holy and Righteous One and asked that a murderer be released to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.15",
+      "edition_verse_id": "BSB:ACT.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You killed the Author of life, but God raised Him from the dead, and we are witnesses of this fact.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.16",
+      "edition_verse_id": "BSB:ACT.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "By faith in the name of Jesus, this man whom you see and know has been made strong. It is Jesus’ name and the faith that comes through Him that has given him this complete healing in your presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.17",
+      "edition_verse_id": "BSB:ACT.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And now, brothers, I know that you acted in ignorance, as did your leaders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.18",
+      "edition_verse_id": "BSB:ACT.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But in this way God has fulfilled what He foretold through all the prophets, saying that His Christ would suffer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.19",
+      "edition_verse_id": "BSB:ACT.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Repent, then, and turn back, so that your sins may be wiped away,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.20",
+      "edition_verse_id": "BSB:ACT.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "that times of refreshing may come from the presence of the Lord, and that He may send Jesus, the Christ, who has been appointed for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.21",
+      "edition_verse_id": "BSB:ACT.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Heaven must take Him in until the time comes for the restoration of all things, which God announced long ago through His holy prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.22",
+      "edition_verse_id": "BSB:ACT.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For Moses said, ‘The Lord your God will raise up for you a prophet like me from among your brothers. You must listen to Him in everything He tells you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.23",
+      "edition_verse_id": "BSB:ACT.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Everyone who does not listen to Him will be completely cut off from among his people.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.24",
+      "edition_verse_id": "BSB:ACT.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Indeed, all the prophets from Samuel on, as many as have spoken, have proclaimed these days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.3.25",
+      "edition_verse_id": "BSB:ACT.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And you are sons of the prophets and of the covenant God made with your fathers when He said to Abraham, ‘Through your offspring all the families of the earth will be blessed.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.3.26",
+      "edition_verse_id": "BSB:ACT.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When God raised up His Servant, He sent Him first to you to bless you by turning each of you from your wicked ways.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

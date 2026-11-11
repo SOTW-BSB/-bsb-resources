@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "AMO",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "AMO.7.1",
+      "edition_verse_id": "BSB:AMO.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD showed me: He was preparing swarms of locusts just after the king’s harvest, as the late spring crop was coming up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.2",
+      "edition_verse_id": "BSB:AMO.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when the locusts had eaten every green plant in the land, I said, “Lord GOD, please forgive! How will Jacob survive, since he is so small?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.7.3",
+      "edition_verse_id": "BSB:AMO.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So the LORD relented from this plan. “It will not happen,” He said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.4",
+      "edition_verse_id": "BSB:AMO.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD showed me: The Lord GOD was calling for judgment by fire. It consumed the great deep and devoured the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.5",
+      "edition_verse_id": "BSB:AMO.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then I said, “Lord GOD, please stop! How will Jacob survive, since he is so small?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.7.6",
+      "edition_verse_id": "BSB:AMO.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So the LORD relented from this plan. “It will not happen either,” said the Lord GOD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.7",
+      "edition_verse_id": "BSB:AMO.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "This is what He showed me: Behold, the Lord was standing by a wall true to plumb, with a plumb line in His hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.8",
+      "edition_verse_id": "BSB:AMO.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Amos, what do you see?” asked the LORD. “A plumb line,” I replied. “Behold,” said the Lord, “I am setting a plumb line among My people Israel; I will no longer spare them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.7.9",
+      "edition_verse_id": "BSB:AMO.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The high places of Isaac will be deserted, and the sanctuaries of Israel will be laid waste; and I will rise up against the house of Jeroboam with My sword.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.10",
+      "edition_verse_id": "BSB:AMO.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Amaziah the priest of Bethel sent word to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land cannot bear all his words,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.11",
+      "edition_verse_id": "BSB:AMO.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "for this is what Amos has said: ‘Jeroboam will die by the sword, and Israel will surely go into exile, away from their homeland.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.7.12",
+      "edition_verse_id": "BSB:AMO.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Amaziah said to Amos, “Go away, you seer! Flee to the land of Judah; earn your bread there and do your prophesying there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.13",
+      "edition_verse_id": "BSB:AMO.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But never prophesy at Bethel again, because it is the sanctuary of the king and the temple of the kingdom.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.7.14",
+      "edition_verse_id": "BSB:AMO.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“I was not a prophet,” Amos replied, “nor was I the son of a prophet; rather, I was a herdsman and a tender of sycamore-fig trees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.15",
+      "edition_verse_id": "BSB:AMO.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But the LORD took me from following the flock and said to me, ‘Go, prophesy to My people Israel.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.7.16",
+      "edition_verse_id": "BSB:AMO.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now, therefore, hear the word of the LORD. You say: ‘Do not prophesy against Israel; do not preach against the house of Isaac.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.7.17",
+      "edition_verse_id": "BSB:AMO.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD says: ‘Your wife will become a prostitute in the city, and your sons and daughters will fall by the sword. Your land will be divided by a measuring line, and you yourself will die on pagan soil. And Israel will surely go into exile, away from their homeland.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

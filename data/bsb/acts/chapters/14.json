@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "ACT.14.1",
+      "edition_verse_id": "BSB:ACT.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "At Iconium, Paul and Barnabas went as usual into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.2",
+      "edition_verse_id": "BSB:ACT.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But the unbelieving Jews stirred up the Gentiles and poisoned their minds against the brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.3",
+      "edition_verse_id": "BSB:ACT.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who affirmed the message of His grace by enabling them to perform signs and wonders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.4",
+      "edition_verse_id": "BSB:ACT.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The people of the city were divided. Some sided with the Jews, and others with the apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.5",
+      "edition_verse_id": "BSB:ACT.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But when the Gentiles and Jews, together with their rulers, set out to mistreat and stone them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.6",
+      "edition_verse_id": "BSB:ACT.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "they found out about it and fled to the Lycaonian cities of Lystra and Derbe and to the surrounding region,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.7",
+      "edition_verse_id": "BSB:ACT.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "where they continued to preach the gospel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.8",
+      "edition_verse_id": "BSB:ACT.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In Lystra there sat a man crippled in his feet, who was lame from birth and had never walked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.9",
+      "edition_verse_id": "BSB:ACT.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "This man was listening to the words of Paul, who looked intently at him and saw that he had faith to be healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.10",
+      "edition_verse_id": "BSB:ACT.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In a loud voice Paul called out, “Stand up on your feet!” And the man jumped up and began to walk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.11",
+      "edition_verse_id": "BSB:ACT.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When the crowds saw what Paul had done, they lifted up their voices in the Lycaonian language: “The gods have come down to us in human form!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.12",
+      "edition_verse_id": "BSB:ACT.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Barnabas they called Zeus, and Paul they called Hermes, because he was the chief speaker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.13",
+      "edition_verse_id": "BSB:ACT.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates, hoping to offer a sacrifice along with the crowds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.14",
+      "edition_verse_id": "BSB:ACT.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But when the apostles Barnabas and Paul found out about this, they tore their clothes and rushed into the crowd, shouting,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.15",
+      "edition_verse_id": "BSB:ACT.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Men, why are you doing this? We too are only men, human like you. We are bringing you good news that you should turn from these worthless things to the living God, who made heaven and earth and sea and everything in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.16",
+      "edition_verse_id": "BSB:ACT.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In past generations, He let all nations go their own way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.17",
+      "edition_verse_id": "BSB:ACT.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.18",
+      "edition_verse_id": "BSB:ACT.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Even with these words, Paul and Barnabas could hardly stop the crowds from sacrificing to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.19",
+      "edition_verse_id": "BSB:ACT.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then some Jews arrived from Antioch and Iconium and won over the crowds. They stoned Paul and dragged him outside the city, presuming he was dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.20",
+      "edition_verse_id": "BSB:ACT.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But after the disciples had gathered around him, he got up and went back into the city. And the next day he left with Barnabas for Derbe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.21",
+      "edition_verse_id": "BSB:ACT.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They preached the gospel to that city and made many disciples. Then they returned to Lystra, Iconium, and Antioch,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.22",
+      "edition_verse_id": "BSB:ACT.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "strengthening the souls of the disciples and encouraging them to continue in the faith. “We must endure many hardships to enter the kingdom of God,” they said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.23",
+      "edition_verse_id": "BSB:ACT.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Paul and Barnabas appointed elders for them in each church, praying and fasting as they entrusted them to the Lord, in whom they had believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.24",
+      "edition_verse_id": "BSB:ACT.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "After passing through Pisidia, they came to Pamphylia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.25",
+      "edition_verse_id": "BSB:ACT.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And when they had spoken the word in Perga, they went down to Attalia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.26",
+      "edition_verse_id": "BSB:ACT.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "From Attalia they sailed to Antioch, where they had been commended to the grace of God for the work they had just completed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.14.27",
+      "edition_verse_id": "BSB:ACT.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When they arrived, they gathered the church together and reported all that God had done through them, and how He had opened the door of faith to the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.14.28",
+      "edition_verse_id": "BSB:ACT.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And they spent a long time there with the disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "ACT.16.1",
+      "edition_verse_id": "BSB:ACT.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Paul came to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.2",
+      "edition_verse_id": "BSB:ACT.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The brothers in Lystra and Iconium spoke well of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.3",
+      "edition_verse_id": "BSB:ACT.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Paul wanted Timothy to accompany him, so he took him and circumcised him on account of the Jews in that area, for they all knew that his father was a Greek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.4",
+      "edition_verse_id": "BSB:ACT.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "As they went from town to town, they delivered the decisions handed down by the apostles and elders in Jerusalem for the people to obey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.5",
+      "edition_verse_id": "BSB:ACT.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the churches were strengthened in the faith and grew daily in numbers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.6",
+      "edition_verse_id": "BSB:ACT.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "After the Holy Spirit had prevented them from speaking the word in the province of Asia, they traveled through the region of Phrygia and Galatia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.7",
+      "edition_verse_id": "BSB:ACT.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not permit them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.8",
+      "edition_verse_id": "BSB:ACT.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So they passed by Mysia and went down to Troas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.9",
+      "edition_verse_id": "BSB:ACT.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "During the night, Paul had a vision of a man of Macedonia standing and pleading with him, “Come over to Macedonia and help us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.10",
+      "edition_verse_id": "BSB:ACT.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As soon as Paul had seen the vision, we got ready to leave for Macedonia, concluding that God had called us to preach the gospel to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.11",
+      "edition_verse_id": "BSB:ACT.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "We sailed from Troas straight to Samothrace, and the following day on to Neapolis.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.12",
+      "edition_verse_id": "BSB:ACT.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "From there we went to the Roman colony of Philippi, the leading city of that district of Macedonia. And we stayed there several days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.13",
+      "edition_verse_id": "BSB:ACT.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "On the Sabbath we went outside the city gate along the river, where it was customary to find a place of prayer. After sitting down, we spoke to the women who had gathered there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.14",
+      "edition_verse_id": "BSB:ACT.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Among those listening was a woman named Lydia, a dealer in purple cloth from the city of Thyatira, who was a worshiper of God. The Lord opened her heart to respond to Paul’s message.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.15",
+      "edition_verse_id": "BSB:ACT.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And when she and her household had been baptized, she urged us, “If you consider me a believer in the Lord, come and stay at my house.” And she persuaded us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.16",
+      "edition_verse_id": "BSB:ACT.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "One day as we were going to the place of prayer, we were met by a slave girl with a spirit of divination, who earned a large income for her masters by fortune-telling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.17",
+      "edition_verse_id": "BSB:ACT.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "This girl followed Paul and the rest of us, shouting, “These men are servants of the Most High God, who are proclaiming to you the way of salvation!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.18",
+      "edition_verse_id": "BSB:ACT.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "She continued this for many days. Eventually Paul grew so aggravated that he turned and said to the spirit, “In the name of Jesus Christ I command you to come out of her!” And the spirit left her at that very moment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.19",
+      "edition_verse_id": "BSB:ACT.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "When the girl’s owners saw that their hope of making money was gone, they seized Paul and Silas and dragged them before the authorities in the marketplace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.20",
+      "edition_verse_id": "BSB:ACT.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "They brought them to the magistrates and said, “These men are Jews and are throwing our city into turmoil",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.21",
+      "edition_verse_id": "BSB:ACT.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "by promoting customs that are unlawful for us Romans to adopt or practice.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.22",
+      "edition_verse_id": "BSB:ACT.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The crowd joined in the attack against Paul and Silas, and the magistrates ordered that they be stripped and beaten with rods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.23",
+      "edition_verse_id": "BSB:ACT.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And after striking them with many blows, they threw them into prison and ordered the jailer to guard them securely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.24",
+      "edition_verse_id": "BSB:ACT.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "On receiving this order, he placed them in the inner cell and fastened their feet in the stocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.25",
+      "edition_verse_id": "BSB:ACT.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.26",
+      "edition_verse_id": "BSB:ACT.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Suddenly a strong earthquake shook the foundations of the prison. At once all the doors flew open and everyone’s chains came loose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.27",
+      "edition_verse_id": "BSB:ACT.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When the jailer woke up and saw the prison doors open, he drew his sword and was about to kill himself, presuming that the prisoners had escaped.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.28",
+      "edition_verse_id": "BSB:ACT.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But Paul called out in a loud voice, “Do not harm yourself! We are all here!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.29",
+      "edition_verse_id": "BSB:ACT.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Calling for lights, the jailer rushed in and fell trembling before Paul and Silas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.30",
+      "edition_verse_id": "BSB:ACT.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then he brought them out and asked, “Sirs, what must I do to be saved?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.31",
+      "edition_verse_id": "BSB:ACT.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "They replied, “Believe in the Lord Jesus and you will be saved, you and your household.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.32",
+      "edition_verse_id": "BSB:ACT.16.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then Paul and Silas spoke the word of the Lord to him and to everyone in his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.33",
+      "edition_verse_id": "BSB:ACT.16.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "At that hour of the night, the jailer took them and washed their wounds. And without delay, he and all his household were baptized.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.34",
+      "edition_verse_id": "BSB:ACT.16.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Then he brought them into his home and set a meal before them. So he and all his household rejoiced that they had come to believe in God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.35",
+      "edition_verse_id": "BSB:ACT.16.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "When daylight came, the magistrates sent their officers with the order: “Release those men.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.36",
+      "edition_verse_id": "BSB:ACT.16.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The jailer informed Paul: “The magistrates have sent orders to release you. Now you may go on your way in peace.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.37",
+      "edition_verse_id": "BSB:ACT.16.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But Paul said to the officers, “They beat us publicly without a trial and threw us into prison, even though we are Roman citizens. And now do they want to send us away secretly? Absolutely not! Let them come themselves and escort us out!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.38",
+      "edition_verse_id": "BSB:ACT.16.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "So the officers relayed this message to the magistrates, who were alarmed to hear that Paul and Silas were Roman citizens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.16.39",
+      "edition_verse_id": "BSB:ACT.16.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "They came to appease them and led them out, requesting that they leave the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.16.40",
+      "edition_verse_id": "BSB:ACT.16.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "After Paul and Silas came out of the prison, they went to Lydia’s house to see the brothers and encourage them. Then they left the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

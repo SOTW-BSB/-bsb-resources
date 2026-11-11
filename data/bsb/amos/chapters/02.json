@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "AMO",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "AMO.2.1",
+      "edition_verse_id": "BSB:AMO.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is what the LORD says: “For three transgressions of Moab, even four, I will not revoke My judgment, because he burned to lime the bones of Edom’s king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.2.2",
+      "edition_verse_id": "BSB:AMO.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So I will send fire against Moab to consume the citadels of Kerioth. Moab will die in tumult, amid war cries and the sound of the ram’s horn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.3",
+      "edition_verse_id": "BSB:AMO.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will cut off the ruler of Moab and kill all the officials with him,” says the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.4",
+      "edition_verse_id": "BSB:AMO.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This is what the LORD says: “For three transgressions of Judah, even four, I will not revoke My judgment, because they reject the Law of the LORD and fail to keep His statutes; they are led astray by the lies in which their fathers walked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.2.5",
+      "edition_verse_id": "BSB:AMO.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So I will send fire upon Judah to consume the citadels of Jerusalem.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.6",
+      "edition_verse_id": "BSB:AMO.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This is what the LORD says: “For three transgressions of Israel, even four, I will not revoke My judgment, because they sell the righteous for silver and the needy for a pair of sandals.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.2.7",
+      "edition_verse_id": "BSB:AMO.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They trample on the heads of the poor as on the dust of the earth; they push the needy out of their way. A man and his father have relations with the same girl and so profane My holy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.8",
+      "edition_verse_id": "BSB:AMO.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They lie down beside every altar on garments taken in pledge. And in the house of their God, they drink wine obtained through fines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.9",
+      "edition_verse_id": "BSB:AMO.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Yet it was I who destroyed the Amorite before them, though his height was like that of the cedars, and he was as strong as the oaks. Yet I destroyed his fruit above and his roots below.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.10",
+      "edition_verse_id": "BSB:AMO.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And I brought you up from the land of Egypt and led you forty years in the wilderness, that you might take possession of the land of the Amorite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.11",
+      "edition_verse_id": "BSB:AMO.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I raised up prophets from your sons and Nazirites from your young men. Is this not true, O children of Israel?” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.12",
+      "edition_verse_id": "BSB:AMO.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“But you made the Nazirites drink wine and commanded the prophets not to prophesy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.13",
+      "edition_verse_id": "BSB:AMO.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Behold, I am about to crush you in your place as with a cart full of grain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.14",
+      "edition_verse_id": "BSB:AMO.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Escape will fail the swift, the strong will not prevail by his strength, and the mighty will not save his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.15",
+      "edition_verse_id": "BSB:AMO.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The archer will not stand his ground, the fleet of foot will not escape, and the horseman will not save his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.2.16",
+      "edition_verse_id": "BSB:AMO.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Even the bravest of mighty men will flee naked on that day,” declares the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

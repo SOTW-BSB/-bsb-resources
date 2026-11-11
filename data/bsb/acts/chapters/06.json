@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "ACT.6.1",
+      "edition_verse_id": "BSB:ACT.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.6.2",
+      "edition_verse_id": "BSB:ACT.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So the Twelve summoned all the disciples and said, “It is unacceptable for us to neglect the word of God in order to wait on tables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.6.3",
+      "edition_verse_id": "BSB:ACT.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore, brothers, select from among you seven men confirmed to be full of the Spirit and wisdom. We will assign this responsibility to them",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.6.4",
+      "edition_verse_id": "BSB:ACT.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and will devote ourselves to prayer and to the ministry of the word.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.6.5",
+      "edition_verse_id": "BSB:ACT.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "This proposal pleased the whole group. They chose Stephen, a man full of faith and of the Holy Spirit, as well as Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolas from Antioch, a convert to Judaism.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.6.6",
+      "edition_verse_id": "BSB:ACT.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They presented these seven to the apostles, who prayed and laid their hands on them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.6.7",
+      "edition_verse_id": "BSB:ACT.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So the word of God continued to spread. The number of disciples in Jerusalem grew rapidly, and a great number of priests became obedient to the faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.6.8",
+      "edition_verse_id": "BSB:ACT.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now Stephen, who was full of grace and power, was performing great wonders and signs among the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.6.9",
+      "edition_verse_id": "BSB:ACT.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But resistance arose from what was called the Synagogue of the Freedmen, including Cyrenians, Alexandrians, and men from the provinces of Cilicia and Asia. They disputed with Stephen,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.6.10",
+      "edition_verse_id": "BSB:ACT.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but they could not stand up to his wisdom or the Spirit by whom he spoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.6.11",
+      "edition_verse_id": "BSB:ACT.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then they prompted some men to say, “We heard Stephen speak words of blasphemy against Moses and against God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.6.12",
+      "edition_verse_id": "BSB:ACT.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So they stirred up the people, elders, and scribes and confronted Stephen. They seized him and brought him before the Sanhedrin,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.6.13",
+      "edition_verse_id": "BSB:ACT.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "where they presented false witnesses who said, “This man never stops speaking against this holy place and against the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.6.14",
+      "edition_verse_id": "BSB:ACT.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For we have heard him say that Jesus of Nazareth will destroy this place and change the customs that Moses handed down to us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.6.15",
+      "edition_verse_id": "BSB:ACT.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

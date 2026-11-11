@@ -1,0 +1,17 @@
+{
+  "edition_id": "BSB",
+  "book_code": "3JN",
+  "original_archive": "bsb_usfm.zip",
+  "archive_sha256": "f0c56438eb89c98e8f62c5c00461e25cc35b098ad5b179bc350cede759ee5f87",
+  "usfm_filename": "bsb_usfm/3JN.usfm",
+  "usfm_sha256": "4168045dfc50a1a130bf5df7b8e48c8f11282b3a230389417f591823f39a6c09",
+  "publisher_reference": "https://berean.bible/downloads.htm",
+  "source_edition": "Berean Standard Bible (owner-provided publisher USFM snapshot, 2026)",
+  "acquisition": "owner-provided USFM archive; installed data derived from archived bytes",
+  "source_archive_preserved_outside_public_repository": true,
+  "source_footnotes_excluded_from_public_reader": true,
+  "source_usfm_contains_strongs_annotations": false,
+  "published_chapter_json_contains_strongs": false,
+  "historical_scans_included": false,
+  "rights_summary": "Public Domain per publisher Berean Bible terms (2023-04-30)"
+}

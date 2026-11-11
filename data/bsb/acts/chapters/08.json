@@ -1,0 +1,476 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "ACT.8.1",
+      "edition_verse_id": "BSB:ACT.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.2",
+      "edition_verse_id": "BSB:ACT.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "God-fearing men buried Stephen and mourned deeply over him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.3",
+      "edition_verse_id": "BSB:ACT.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But Saul began to destroy the church. Going from house to house, he dragged off men and women and put them in prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.4",
+      "edition_verse_id": "BSB:ACT.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Those who had been scattered preached the word wherever they went.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.5",
+      "edition_verse_id": "BSB:ACT.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Philip went down to a city in Samaria and proclaimed the Christ to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.6",
+      "edition_verse_id": "BSB:ACT.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The crowds all paid close attention to Philip’s message and to the signs they saw him perform.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.7",
+      "edition_verse_id": "BSB:ACT.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "With loud shrieks, unclean spirits came out of many who were possessed, and many of the paralyzed and lame were healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.8",
+      "edition_verse_id": "BSB:ACT.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So there was great joy in that city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.9",
+      "edition_verse_id": "BSB:ACT.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Prior to that time, a man named Simon had practiced sorcery in the city and astounded the people of Samaria. He claimed to be someone great,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.10",
+      "edition_verse_id": "BSB:ACT.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and all the people, from the least to the greatest, heeded his words and said, “This man is the divine power called the Great Power.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.11",
+      "edition_verse_id": "BSB:ACT.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They paid close attention to him because he had astounded them for a long time with his sorcery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.12",
+      "edition_verse_id": "BSB:ACT.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But when they believed Philip as he preached the gospel of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.13",
+      "edition_verse_id": "BSB:ACT.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Even Simon himself believed and was baptized. He followed Philip closely and was astounded by the great signs and miracles he observed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.14",
+      "edition_verse_id": "BSB:ACT.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When the apostles in Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.15",
+      "edition_verse_id": "BSB:ACT.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "On their arrival, they prayed for them to receive the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.16",
+      "edition_verse_id": "BSB:ACT.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the Holy Spirit had not yet fallen upon any of them; they had simply been baptized into the name of the Lord Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.17",
+      "edition_verse_id": "BSB:ACT.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Peter and John laid their hands on them, and they received the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.18",
+      "edition_verse_id": "BSB:ACT.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When Simon saw that the Spirit was given through the laying on of the apostles’ hands, he offered them money.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.19",
+      "edition_verse_id": "BSB:ACT.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“Give me this power as well,” he said, “so that everyone on whom I lay my hands may receive the Holy Spirit.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.20",
+      "edition_verse_id": "BSB:ACT.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But Peter replied, “May your silver perish with you, because you thought you could buy the gift of God with money!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.21",
+      "edition_verse_id": "BSB:ACT.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "You have no part or share in our ministry, because your heart is not right before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.22",
+      "edition_verse_id": "BSB:ACT.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Repent, therefore, of your wickedness, and pray to the Lord. Perhaps He will forgive you for the intent of your heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.23",
+      "edition_verse_id": "BSB:ACT.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For I see that you are poisoned by bitterness and captive to iniquity.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.24",
+      "edition_verse_id": "BSB:ACT.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then Simon answered, “Pray to the Lord for me, so that nothing you have said may happen to me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.25",
+      "edition_verse_id": "BSB:ACT.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And after Peter and John had testified and spoken the word of the Lord, they returned to Jerusalem, preaching the gospel in many of the Samaritan villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.26",
+      "edition_verse_id": "BSB:ACT.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Now an angel of the Lord said to Philip, “Get up and go south to the desert road that goes down from Jerusalem to Gaza.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.27",
+      "edition_verse_id": "BSB:ACT.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So he started out, and on his way he met an Ethiopian eunuch, a court official in charge of the entire treasury of Candace, queen of the Ethiopians. He had gone to Jerusalem to worship,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.28",
+      "edition_verse_id": "BSB:ACT.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and on his return was sitting in his chariot reading Isaiah the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.29",
+      "edition_verse_id": "BSB:ACT.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The Spirit said to Philip, “Go over to that chariot and stay by it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.30",
+      "edition_verse_id": "BSB:ACT.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So Philip ran up and heard the man reading Isaiah the prophet. “Do you understand what you are reading?” Philip asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.31",
+      "edition_verse_id": "BSB:ACT.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "“How can I,” he said, “unless someone guides me?” And he invited Philip to come up and sit with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.32",
+      "edition_verse_id": "BSB:ACT.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The eunuch was reading this passage of Scripture: “He was led like a sheep to the slaughter, and as a lamb before the shearer is silent, so He did not open His mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.33",
+      "edition_verse_id": "BSB:ACT.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "In His humiliation He was deprived of justice. Who can recount His descendants? For His life was removed from the earth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.34",
+      "edition_verse_id": "BSB:ACT.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“Tell me,” said the eunuch, “who is the prophet talking about, himself or someone else?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.35",
+      "edition_verse_id": "BSB:ACT.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then Philip began with this very Scripture and told him the good news about Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.36",
+      "edition_verse_id": "BSB:ACT.8.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "As they traveled along the road and came to some water, the eunuch said, “Look, here is water! What is there to prevent me from being baptized?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.38",
+      "edition_verse_id": "BSB:ACT.8.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water, and Philip baptized him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.8.39",
+      "edition_verse_id": "BSB:ACT.8.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, but went on his way rejoicing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.8.40",
+      "edition_verse_id": "BSB:ACT.8.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "But Philip appeared at Azotus and traveled through that region, preaching the gospel in all the towns until he came to Caesarea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "edition_id": "BSB",
+  "book_code": "AMO",
+  "chapter_count": 9,
+  "verse_count": 146,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "7139e30b6714fb8f12154215cfa67cf3f60f8ad8a4fc2a7f9cde9b708c39e023"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 16,
+      "omitted_from_main_text": [],
+      "sha256": "2be20dc812031739aa04e5aee46ca5f39d591eb25fcdd56d470051b96427f049"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "60eb3ae1f7a901e91871809da94ba4a2fca1d8e34a6755026f68271d1ac29444"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 13,
+      "omitted_from_main_text": [],
+      "sha256": "37e72536d204b5c2a9b39b8c463aced55e5a1be3ca5cea791e00297d34969ed4"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 27,
+      "omitted_from_main_text": [],
+      "sha256": "96982b4b5a1ae25f4eb6eb8581aa70b198ddf1e4c897c76763b90f5069441bfc"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "2cb31e9d2e34e926b5c2de6e84c3194fbd0b5303b4a7d1e2e2fc2194e78d273a"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "7bcd430b6712e899775dd258cd39c32f4d3d104dfefb668a52fd4c2a384c7620"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "644284cdcabe58f37362e33b82d4323b10cf68050679b26d049fa6f154f1b346"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "46696403e4676744c06f4f90c86a55c4c3672218d7d597d873deb481704b2511"
+    }
+  ]
+}

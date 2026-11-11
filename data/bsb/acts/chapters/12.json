@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "ACT.12.1",
+      "edition_verse_id": "BSB:ACT.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "About that time, King Herod reached out to harm some who belonged to the church.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.2",
+      "edition_verse_id": "BSB:ACT.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He had James, the brother of John, put to death with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.3",
+      "edition_verse_id": "BSB:ACT.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And seeing that this pleased the Jews, Herod proceeded to seize Peter during the Feast of Unleavened Bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.4",
+      "edition_verse_id": "BSB:ACT.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He arrested him and put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out to the people after the Passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.5",
+      "edition_verse_id": "BSB:ACT.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So Peter was kept in prison, but the church was fervently praying to God for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.6",
+      "edition_verse_id": "BSB:ACT.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "On the night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, with sentries standing guard at the entrance to the prison.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.7",
+      "edition_verse_id": "BSB:ACT.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Suddenly an angel of the Lord appeared and a light shone in the cell. He tapped Peter on the side and woke him up, saying, “Get up quickly.” And the chains fell off his wrists.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.8",
+      "edition_verse_id": "BSB:ACT.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Get dressed and put on your sandals,” said the angel. Peter did so, and the angel told him, “Wrap your cloak around you and follow me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.9",
+      "edition_verse_id": "BSB:ACT.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So Peter followed him out, but he was unaware that what the angel was doing was real. He thought he was only seeing a vision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.10",
+      "edition_verse_id": "BSB:ACT.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They passed the first and second guards and came to the iron gate leading to the city, which opened for them by itself. When they had gone outside and walked the length of one block, the angel suddenly left him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.11",
+      "edition_verse_id": "BSB:ACT.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Peter came to himself and said, “Now I know for sure that the Lord has sent His angel and rescued me from Herod’s grasp and from everything the Jewish people were anticipating.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.12",
+      "edition_verse_id": "BSB:ACT.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And when he had realized this, he went to the house of Mary the mother of John, also called Mark, where many people had gathered together and were praying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.13",
+      "edition_verse_id": "BSB:ACT.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He knocked at the outer gate, and a servant girl named Rhoda came to answer it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.14",
+      "edition_verse_id": "BSB:ACT.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When she recognized Peter’s voice, she was so overjoyed that she forgot to open the gate, but ran inside and announced, “Peter is standing at the gate!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.15",
+      "edition_verse_id": "BSB:ACT.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“You are out of your mind,” they told her. But when she kept insisting it was so, they said, “It must be his angel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.16",
+      "edition_verse_id": "BSB:ACT.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But Peter kept on knocking, and when they opened the door and saw him, they were astounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.17",
+      "edition_verse_id": "BSB:ACT.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Peter motioned with his hand for silence, and he described how the Lord had brought him out of the prison. “Send word to James and to the brothers,” he said, and he left for another place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.18",
+      "edition_verse_id": "BSB:ACT.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "At daybreak there was no small commotion among the soldiers as to what had become of Peter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.19",
+      "edition_verse_id": "BSB:ACT.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "After Herod had searched for him unsuccessfully, he examined the guards and ordered that they be executed. Then he went down from Judea to Caesarea and spent some time there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.20",
+      "edition_verse_id": "BSB:ACT.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now Herod was in a furious dispute with the people of Tyre and Sidon, and they convened before him. Having secured the support of Blastus, the king’s chamberlain, they asked for peace, because their region depended on the king’s country for food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.21",
+      "edition_verse_id": "BSB:ACT.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "On the appointed day, Herod donned his royal robes, sat on his throne, and addressed the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.22",
+      "edition_verse_id": "BSB:ACT.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And they began to shout, “This is the voice of a god, not a man!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.12.23",
+      "edition_verse_id": "BSB:ACT.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Immediately, because Herod did not give glory to God, an angel of the Lord struck him down, and he was eaten by worms and died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.24",
+      "edition_verse_id": "BSB:ACT.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But the word of God continued to spread and multiply.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.12.25",
+      "edition_verse_id": "BSB:ACT.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When Barnabas and Saul had fulfilled their mission to Jerusalem, they returned, bringing with them John, also called Mark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

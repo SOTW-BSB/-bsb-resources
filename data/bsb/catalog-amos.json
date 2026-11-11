@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "AMO",
+  "book_name": "Amos",
+  "book_order": 30,
+  "canonical_ids": "AMO.{chapter}.{verse}",
+  "edition_ids": "BSB:AMO.{chapter}.{verse}",
+  "chapter_count": 9,
+  "verse_count": 146,
+  "traditional_verse_positions": 146,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "amos/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JOL",
+  "successor_book_code": "OBA",
+  "source_provenance": "books/amos/SOURCE_INVENTORY.json",
+  "reader": "books/amos/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

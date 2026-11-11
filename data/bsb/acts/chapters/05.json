@@ -1,0 +1,512 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ACT",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "ACT.5.1",
+      "edition_verse_id": "BSB:ACT.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now a man named Ananias, together with his wife Sapphira, also sold a piece of property.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.2",
+      "edition_verse_id": "BSB:ACT.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "With his wife’s full knowledge, he kept back some of the proceeds for himself, but brought a portion and laid it at the apostles’ feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.3",
+      "edition_verse_id": "BSB:ACT.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Peter said, “Ananias, how is it that Satan has filled your heart to lie to the Holy Spirit and withhold some of the proceeds from the land?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.4",
+      "edition_verse_id": "BSB:ACT.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Did it not belong to you before it was sold? And after it was sold, was it not at your disposal? How could you conceive such a deed in your heart? You have not lied to men, but to God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.5",
+      "edition_verse_id": "BSB:ACT.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "On hearing these words, Ananias fell down and died. And great fear came over all who heard what had happened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.6",
+      "edition_verse_id": "BSB:ACT.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the young men stepped forward, wrapped up his body, and carried him out and buried him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.7",
+      "edition_verse_id": "BSB:ACT.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "About three hours later his wife also came in, unaware of what had happened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.8",
+      "edition_verse_id": "BSB:ACT.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Tell me,” said Peter, “is this the price you and your husband got for the land?” “Yes,” she answered, “that is the price.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.9",
+      "edition_verse_id": "BSB:ACT.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“How could you agree to test the Spirit of the Lord?” Peter replied. “Look, the feet of the men who buried your husband are at the door, and they will carry you out also.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.10",
+      "edition_verse_id": "BSB:ACT.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "At that instant she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.11",
+      "edition_verse_id": "BSB:ACT.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And great fear came over the whole church and all who heard about these events.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.12",
+      "edition_verse_id": "BSB:ACT.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The apostles performed many signs and wonders among the people, and with one accord the believers gathered together in Solomon’s Colonnade.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.13",
+      "edition_verse_id": "BSB:ACT.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Although the people regarded them highly, no one else dared to join them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.14",
+      "edition_verse_id": "BSB:ACT.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Yet more and more believers were brought to the Lord — large numbers of both men and women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.15",
+      "edition_verse_id": "BSB:ACT.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As a result, people brought the sick into the streets and laid them on cots and mats, so that at least Peter’s shadow might fall on some of them as he passed by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.16",
+      "edition_verse_id": "BSB:ACT.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Crowds also gathered from the towns around Jerusalem, bringing the sick and those tormented by unclean spirits, and all of them were healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.17",
+      "edition_verse_id": "BSB:ACT.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then the high priest and all his associates, who belonged to the party of the Sadducees, were filled with jealousy. They went out",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.18",
+      "edition_verse_id": "BSB:ACT.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and arrested the apostles and put them in the public jail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.19",
+      "edition_verse_id": "BSB:ACT.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But during the night an angel of the Lord opened the doors of the jail and brought them out, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.20",
+      "edition_verse_id": "BSB:ACT.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“Go, stand in the temple courts and tell the people the full message of this new life.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.21",
+      "edition_verse_id": "BSB:ACT.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "At daybreak the apostles entered the temple courts as they had been told and began to teach the people. When the high priest and his associates arrived, they convened the Sanhedrin— the full assembly of the elders of Israel— and sent to the jail for the apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.22",
+      "edition_verse_id": "BSB:ACT.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But on arriving at the jail, the officers did not find them there. So they returned with the report:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.23",
+      "edition_verse_id": "BSB:ACT.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“We found the jail securely locked, with the guards posted at the doors; but when we opened them, we found no one inside.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.24",
+      "edition_verse_id": "BSB:ACT.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When the captain of the temple guard and the chief priests heard this account, they were perplexed as to what was happening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.25",
+      "edition_verse_id": "BSB:ACT.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then someone came in and announced, “Look, the men you put in jail are standing in the temple courts teaching the people!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.26",
+      "edition_verse_id": "BSB:ACT.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "At that point, the captain went with the officers and brought the apostles — but not by force, for fear the people would stone them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.27",
+      "edition_verse_id": "BSB:ACT.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They brought them in and made them stand before the Sanhedrin, where the high priest interrogated them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.28",
+      "edition_verse_id": "BSB:ACT.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "“We gave you strict orders not to teach in this name,” he said. “Yet you have filled Jerusalem with your teaching and are determined to make us responsible for this man’s blood.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.29",
+      "edition_verse_id": "BSB:ACT.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But Peter and the other apostles replied, “We must obey God rather than men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.30",
+      "edition_verse_id": "BSB:ACT.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The God of our fathers raised up Jesus, whom you had killed by hanging Him on a tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.31",
+      "edition_verse_id": "BSB:ACT.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "God exalted Him to His right hand as Prince and Savior, in order to grant repentance and forgiveness of sins to Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.32",
+      "edition_verse_id": "BSB:ACT.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.33",
+      "edition_verse_id": "BSB:ACT.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When the Council members heard this, they were enraged, and they resolved to put the apostles to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.34",
+      "edition_verse_id": "BSB:ACT.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But a Pharisee named Gamaliel, a teacher of the law who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a short time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.35",
+      "edition_verse_id": "BSB:ACT.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "“Men of Israel,” he said, “consider carefully what you are about to do to these men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.36",
+      "edition_verse_id": "BSB:ACT.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Some time ago Theudas rose up, claiming to be somebody, and about four hundred men joined him. He was killed, all his followers were dispersed, and it all came to nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.37",
+      "edition_verse_id": "BSB:ACT.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "After him, Judas the Galilean appeared in the days of the census and drew away people after him. He too perished, and all his followers were scattered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.38",
+      "edition_verse_id": "BSB:ACT.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "So in the present case I advise you: Leave these men alone. Let them go! For if their purpose or endeavor is of human origin, it will fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.39",
+      "edition_verse_id": "BSB:ACT.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But if it is from God, you will not be able to stop them. You may even find yourselves fighting against God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.5.40",
+      "edition_verse_id": "BSB:ACT.5.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "At this, they yielded to Gamaliel. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and released them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.41",
+      "edition_verse_id": "BSB:ACT.5.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The apostles left the Sanhedrin, rejoicing that they had been counted worthy of suffering disgrace for the Name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.5.42",
+      "edition_verse_id": "BSB:ACT.5.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Every day, in the temple courts and from house to house, they did not stop teaching and proclaiming the good news that Jesus is the Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

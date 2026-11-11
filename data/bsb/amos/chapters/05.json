@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "AMO",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "AMO.5.1",
+      "edition_verse_id": "BSB:AMO.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Hear this word, O house of Israel, this lamentation I take up against you:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.2",
+      "edition_verse_id": "BSB:AMO.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Fallen is Virgin Israel, never to rise again. She lies abandoned on her land, with no one to raise her up.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.3",
+      "edition_verse_id": "BSB:AMO.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This is what the Lord GOD says: “The city that marches out a thousand strong will have but a hundred left, and the one that marches out a hundred strong will have but ten left in the house of Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.4",
+      "edition_verse_id": "BSB:AMO.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For this is what the LORD says to the house of Israel: “Seek Me and live!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.5",
+      "edition_verse_id": "BSB:AMO.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Do not seek Bethel or go to Gilgal; do not journey to Beersheba, for Gilgal will surely go into exile, and Bethel will come to nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.6",
+      "edition_verse_id": "BSB:AMO.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Seek the LORD and live, or He will sweep like fire through the house of Joseph; it will devour everything, with no one at Bethel to extinguish it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.7",
+      "edition_verse_id": "BSB:AMO.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "There are those who turn justice into wormwood and cast righteousness to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.8",
+      "edition_verse_id": "BSB:AMO.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He who made the Pleiades and Orion, who turns darkness into dawn and darkens day into night, who summons the waters of the sea and pours them over the face of the earth — the LORD is His name —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.9",
+      "edition_verse_id": "BSB:AMO.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He flashes destruction on the strong, so that fury comes upon the stronghold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.10",
+      "edition_verse_id": "BSB:AMO.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "There are those who hate the one who reproves in the gate and despise him who speaks with integrity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.11",
+      "edition_verse_id": "BSB:AMO.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore, because you trample on the poor and exact from him a tax of grain, you will never live in the stone houses you have built; you will never drink the wine from the lush vineyards you have planted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.12",
+      "edition_verse_id": "BSB:AMO.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For I know that your transgressions are many and your sins are numerous. You oppress the righteous by taking bribes; you deprive the poor of justice in the gate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.13",
+      "edition_verse_id": "BSB:AMO.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore, the prudent keep silent in such times, for the days are evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.14",
+      "edition_verse_id": "BSB:AMO.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Seek good, not evil, so that you may live. And the LORD, the God of Hosts, will be with you, as you have claimed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.15",
+      "edition_verse_id": "BSB:AMO.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Hate evil and love good; establish justice in the gate. Perhaps the LORD, the God of Hosts, will be gracious to the remnant of Joseph.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.16",
+      "edition_verse_id": "BSB:AMO.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore this is what the LORD, the God of Hosts, the Lord, says: “There will be wailing in all the public squares and cries of ‘Alas! Alas!’ in all the streets. The farmer will be summoned to mourn, and the mourners to wail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "AMO.5.17",
+      "edition_verse_id": "BSB:AMO.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "There will be wailing in all the vineyards, for I will pass through your midst,” says the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.18",
+      "edition_verse_id": "BSB:AMO.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Woe to you who long for the Day of the LORD! What will the Day of the LORD be for you? It will be darkness and not light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.19",
+      "edition_verse_id": "BSB:AMO.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "It will be like a man who flees from a lion, only to encounter a bear, or who enters his house and rests his hand against the wall, only to be bitten by a snake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.20",
+      "edition_verse_id": "BSB:AMO.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Will not the Day of the LORD be darkness and not light, even gloom with no brightness in it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.21",
+      "edition_verse_id": "BSB:AMO.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“I hate, I despise your feasts! I cannot stand the stench of your solemn assemblies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.22",
+      "edition_verse_id": "BSB:AMO.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Even though you offer Me burnt offerings and grain offerings, I will not accept them; for your peace offerings of fattened cattle I will have no regard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.23",
+      "edition_verse_id": "BSB:AMO.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Take away from Me the noise of your songs! I will not listen to the music of your harps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.24",
+      "edition_verse_id": "BSB:AMO.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But let justice roll on like a river, and righteousness like an ever-flowing stream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.25",
+      "edition_verse_id": "BSB:AMO.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.26",
+      "edition_verse_id": "BSB:AMO.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "You have taken along Sakkuth your king and Kaiwan your star god, the idols you made for yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "AMO.5.27",
+      "edition_verse_id": "BSB:AMO.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Therefore I will send you into exile beyond Damascus,” says the LORD, whose name is the God of Hosts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
