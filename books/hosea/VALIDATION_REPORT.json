@@ -1,0 +1,16 @@
+{
+  "status": "PASS_SOURCE_PROJECTION_CHECKS",
+  "source_archive_sha256": "f0c56438eb89c98e8f62c5c00461e25cc35b098ad5b179bc350cede759ee5f87",
+  "edition_id": "BSB",
+  "book_code": "HOS",
+  "book_name": "Hosea",
+  "chapter_count": 14,
+  "verse_count": 197,
+  "source_verse_markers": 197,
+  "omitted_main_text_positions": [],
+  "source_footnotes_archived_not_rendered": 70,
+  "source_heading_lines_archived_not_rendered": 19,
+  "source_word_link_tags": 0,
+  "data_schema": "ASV/KJV/Webster-compatible v1.0.0 chapter records",
+  "limitations": "No independent character-by-character collation to a publisher print copy; no live GitHub Pages browser test."
+}
