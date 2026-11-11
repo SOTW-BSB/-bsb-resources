@@ -1,0 +1,719 @@
+{
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapters": {
+    "2": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 2:14 \\ft Many MT manuscripts, SP, and Vulgate (see also \\ref Numbers 1:14|NUM 1:14\\ref*); most MT manuscripts \\fqa Reuel\\f*",
+          "raw_sha256": "52312f1e70cbe8501620c27dc07f30c48d36c0343c2953ebbc50ab5397a0ff46"
+        }
+      ]
+    },
+    "3": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 3:4 \\ft Or \\fqa strange\\f*",
+          "raw_sha256": "a816d41de945ee17a7904b5d992984186f7a7a742234eba0ddf4ceb0b56c69fb"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\ft Most MT manuscripts; some MT manuscripts, SP, and LXX (see also \\ref Numbers 8:16|NUM 8:16\\ref*) \\fqa to Me\\f*",
+          "raw_sha256": "9b893ca603174978ed01f136da38069c16ce962383f6dec6aa2708975a41970e"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 3:28 \\ft Hebrew; some LXX manuscripts \\fqa 8,300\\ft ; see the total in verse 39.\\f*",
+          "raw_sha256": "a31c36dee8c72a609e70037abe05d5e7072e1f7041fd1678042fdcb7348d1d5d"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 3:30 \\fqa Elizaphan \\ft is a variant of \\fqa Elzaphan\\ft ; see \\ref Exodus 6:22|EXO 6:22\\ref* and Leviticus 10:4.\\f*",
+          "raw_sha256": "cfbc6a12e6db5360e207374cc2c2ce46964810db550b3a9de8b51a5e7276f3ee"
+        }
+      ],
+      "47": [
+        {
+          "source_usfm": "\\f + \\fr 3:47 \\fqa 5 shekels \\ft is approximately 2 ounces or 57 grams.\\f*",
+          "raw_sha256": "b3438baa7bb8c6478bc1616ca39fe7e05145ec06f4b739461954f28270e7a60b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:47 \\fqa 20 gerahs \\ft is equivalent to one shekel (approximately 0.4 ounces or 11.4 grams).\\f*",
+          "raw_sha256": "ffb7fe1e88d025c156bd46c3853086ecfc1bf5e855f16654ab1e68a1f90f8fb0"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 3:50 \\fqa 1,365 shekels \\ft is approximately 34.3 pounds or 15.6 kilograms.\\f*",
+          "raw_sha256": "1fc082fd1fb9f9ce969b9fe4ee001673f9e6d1b74b3760d056dbea9601332200"
+        }
+      ]
+    },
+    "4": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 4:5 \\ft That is, \\fqa the ark of the covenant\\f*",
+          "raw_sha256": "0d488f83909c3ed871622e19b83b3d29bd2a89ca64d46d8299081b43879e288b"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft Possibly the hides of large aquatic mammals; also in verses 8, 10, 11, 12, 14, and 25; see \\ref Exodus 25:5|EXO 25:5\\ref*.\\f*",
+          "raw_sha256": "d89a7a625b369436ec6faf2bf66239baf29d10ff43387705a3507b59eb0e3c6a"
+        }
+      ]
+    },
+    "5": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft Forms of the Hebrew \\fqa tzaraath\\ft , traditionally translated as \\fqa leprosy\\ft , were used for various skin diseases; see Leviticus 13.\\f*",
+          "raw_sha256": "a8a26e39f7eb6be4dcf9ae57ef611829f39a75de223f4c1ffe722bace3aed956"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 5:15 \\fqa A tenth of an ephah \\ft is approximately 2 dry quarts or 2.2 liters (probably about 3.5 pounds or 1.6 kilograms of barley flour).\\f*",
+          "raw_sha256": "995ad78b8dfc37e1f05782942bf527e6f48ade509aa9828e111761ad5d75e474"
+        }
+      ]
+    },
+    "6": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 6:2 \\fqa Nazirite \\ft means \\fqa one separated \\ft or \\fqa one consecrated\\ft .\\f*",
+          "raw_sha256": "b1be22451104fc4cf32b1fc02dffe3cb00df96f17e5b60cc7fb7377938908edf"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 6:11 \\ft Or \\fqa purification offering\\ft ; here and throughout Numbers\\f*",
+          "raw_sha256": "ac093d92a7cf7e86ee76c1fba8071ec57dda935a60da0aaa293cab9b178d0402"
+        }
+      ]
+    },
+    "7": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\fqa 130 shekels \\ft is approximately 3.3 pounds or 1.48 kilograms; here and throughout this chapter.\\f*",
+          "raw_sha256": "879e834caae348123fc4daf0d4336572a377bca2ff2f472a03bd06f249b2f90a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\fqa 70 shekels \\ft is approximately 1.76 pounds or 797.8 grams; here and throughout this chapter.\\f*",
+          "raw_sha256": "b4742f57d7b4864c9d9c82ff3a644a2b16a2ec0b42c6786cbcb21e007b6798c0"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 7:14 \\fqa 10 shekels \\ft is approximately 4 ounces or 114 grams; here and throughout this chapter.\\f*",
+          "raw_sha256": "4087d72dbdf7d0632eaa10735502703bbd72510bcf9d9b31584a8d646782ec9b"
+        }
+      ],
+      "85": [
+        {
+          "source_usfm": "\\f + \\fr 7:85 \\fqa 2,400 shekels \\ft is approximately 60.3 pounds or 27.4 kilograms.\\f*",
+          "raw_sha256": "217bfd0a06135afe7334c2b866ecf758811a3eb9c602e574ae6fcefcc1277979"
+        }
+      ],
+      "86": [
+        {
+          "source_usfm": "\\f + \\fr 7:86 \\fqa 120 shekels \\ft is approximately 3 pounds or 1.4 kilograms.\\f*",
+          "raw_sha256": "a97ade5e31575cbf073a15e06b11a7ac931292dbbdfa5aab7a4606425c9ead2c"
+        }
+      ],
+      "89": [
+        {
+          "source_usfm": "\\f + \\fr 7:89 \\ft Or \\fqa atonement cover\\f*",
+          "raw_sha256": "e7f0e18228feab3118543a8133aadb2598aa27cf250d817c5bb0ae32d5df918e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:89 \\ft That is, \\fqa the ark of the covenant\\f*",
+          "raw_sha256": "8652ac7698d00ff7141965155e022c693f0d9c6aa2f2a2c7239d7258197266d6"
+        }
+      ]
+    },
+    "9": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 9:3 \\ft Hebrew \\fqa between the two evenings of the fourteenth\\ft ; also in verses 5 and 11\\f*",
+          "raw_sha256": "c947d31959f255c1e15a11df6fe2b1181506b70107de58c1a297a7fb6506138b"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 9:16 \\ft LXX, Syriac, and Vulgate; Hebrew does not include \\fqa by day\\f*",
+          "raw_sha256": "74142b942befc5ded0d56479974ee4faf39fb973c0be7aa20915acfb34e80301"
+        }
+      ]
+    },
+    "10": {
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 10:29 \\fqa Reuel \\ft was also called \\fqa Jethro\\ft ; see \\ref Exodus 3:1|EXO 3:1\\ref*.\\f*",
+          "raw_sha256": "4081ccec75f3efd2c019c9ed575aae0c772cf25db9b93487342c8c2e0faf1738"
+        }
+      ]
+    },
+    "11": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 11:3 \\fqa Taberah \\ft means \\fqa burning\\ft .\\f*",
+          "raw_sha256": "6ebd3089c6cddf92a4d389004b03376d21a3980f379cc61e22827df13e9d1d42"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 11:31 \\ft Or \\fqa up to two cubits deep\\ft ; that is, approximately 3 feet or 91.4 centimeters\\f*",
+          "raw_sha256": "de0154b038015970b531b06ce600f24150d557502f59e335d234349f79f43945"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 11:32 \\fqa 10 homers \\ft is approximately 62.4 bushels or 2,200 liters.\\f*",
+          "raw_sha256": "a1cd43508db75b0adc16d70469cb30b69b3fd20512beccec367622150da8b9c4"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 11:34 \\fqa Kibroth-hattaavah \\ft means \\fqa graves of craving\\ft .\\f*",
+          "raw_sha256": "99b5c757aff9418bcf2d1182d0dac3753ea2582684834369a7fa9070d8f8b86f"
+        }
+      ]
+    },
+    "12": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 12:7 \\ft Cited in \\ref Hebrews 3:5|HEB 3:5\\ref*\\f*",
+          "raw_sha256": "72d2872c2c494677405e3fe9892b55075f9c47a254fe3f78806e8bb1c4667ec3"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 12:10 \\ft The Hebrew word traditionally translated as \\fqa leprous \\ft was used for various skin diseases; see Leviticus 13.\\f*",
+          "raw_sha256": "4c2045f90158f17bc35dce53311a6dfa93b13188300fe0ff99f96931126dda6a"
+        }
+      ]
+    },
+    "13": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 13:3 \\ft Literally \\fqa according to the mouth\\f*",
+          "raw_sha256": "c9a2d611d52526d9d7ff125e66f1ca9d3f8bf19a492929abd4522b105a5e4689"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 13:23 \\fqa Eshcol \\ft means \\fqa cluster\\ft ; also in verse 24.\\f*",
+          "raw_sha256": "001198f3dd60431ca0aed742be4840e75a506bab8efea74d89995c79d335d02f"
+        }
+      ]
+    },
+    "14": {
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 14:18 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "0d406d9dad71a3727d8d96b0e1e0ac360aaee48cc36a1aa9501dd3e135b0ec0d"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 14:25 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "db4f1887e3e502879bbed0857f481b7cd0241ce38faf2db0ac48716b6c4e5b99"
+        }
+      ]
+    },
+    "15": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 15:4 \\fqa A tenth of an ephah \\ft is approximately 2 dry quarts or 2.2 liters (probably about 2.6 pounds or 1.2 kilograms of flour).\\f*",
+          "raw_sha256": "c1cf1f52b06d0ff35b1e9cb4206c2922d7e5274b2473ad116823484f4ae094e8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:4 \\ft Or \\fqa a quarter hin of oil\\ft ; that is, approximately 0.97 quarts or 0.92 liters; similarly in verse 5\\f*",
+          "raw_sha256": "c27955e469519aa91e1b90f36d0d72671e7c7fd51a0c1dadec01c30e4d277865"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 15:6 \\fqa Two-tenths of an ephah \\ft is approximately 4 dry quarts or 4.4 liters (probably about 5.1 pounds or 2.3 kilograms of flour).\\f*",
+          "raw_sha256": "d3bc2641eb7bbe649fc1b82447389fb20149af14375c6a546f84ee0b3ad226ea"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:6 \\ft Or \\fqa a third of a hin of oil\\ft ; that is, approximately 1.3 quarts or 1.2 liters; similarly in verse 7\\f*",
+          "raw_sha256": "a0d73bd5a275eb476b76753e10cfe8822253ea6bd4c890724840689f8c79bdd7"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 15:9 \\fqa Three-tenths of an ephah \\ft is approximately 6 dry quarts or 6.6 liters (probably about 7.6 pounds or 3.5 kilograms of flour).\\f*",
+          "raw_sha256": "e9e734ea526827671c00d99edafeb35c9428465dd77c30860920ef36ea9d79a9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:9 \\ft Or \\fqa half a hin of oil\\ft ; that is, approximately 1.9 quarts or 1.8 liters; similarly in verse 10\\f*",
+          "raw_sha256": "7317622400ad5e895a721bc3272ac8ba9fe12fd17e4745611e66f9fe2c3cace0"
+        }
+      ]
+    },
+    "16": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 16:3 \\ft Figuratively \\fqa You have gone too far \\ft or \\fqa You have appropriated too much authority to yourselves\\ft ; similarly in verse 7\\f*",
+          "raw_sha256": "2a613dc0a79bf2243ccc630b2f566b3646ab186a4631b10e1b098abfa06909a7"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 16:5 \\ft LXX \\fqa God has visited and knows those who are His\\ft ; cited in \\ref 2 Timothy 2:19|2TI 2:19\\ref*\\f*",
+          "raw_sha256": "d1a4e38a3429090d4fbfe36ef337f1ded9f816ac669a3dc3793fca66483d933f"
+        }
+      ]
+    },
+    "17": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 17:4 \\fqa The Testimony \\ft refers to the stone tablets in the ark of the covenant inscribed with the Ten Commandments; also in verse 10.\\f*",
+          "raw_sha256": "31fb6ef8008a4e355756cf95c8be34daaab4a8badb46811b4441cc2366cc322a"
+        }
+      ]
+    },
+    "18": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 18:10 \\ft Or \\fqa You are to eat it in a most holy place\\f*",
+          "raw_sha256": "d387f6f11752baacc685c0b1f47639afc1140e1ecfc38202ae1a940d0700d4bd"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 18:16 \\fqa 5 shekels \\ft is approximately 2 ounces or 57 grams of silver.\\f*",
+          "raw_sha256": "994a57af507e17400cc3d4293d62dff0c75af5baf3b6b37c49c993ae634393ba"
+        },
+        {
+          "source_usfm": "\\f + \\fr 18:16 \\fqa 20 gerahs \\ft is equivalent to one shekel (approximately 0.4 ounces or 11.4 grams).\\f*",
+          "raw_sha256": "002f353b78db1f80fc475b0bd15a23f2ec87b84b57f3fd6ec5c2bceb6606de1f"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 18:19 \\ft That is, a perpetual covenant\\f*",
+          "raw_sha256": "b2c0a4e49c37189031752242e70ea71cff89dc49f3ce2c979d8b665889a9af4d"
+        }
+      ]
+    },
+    "19": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 19:17 \\ft Or \\fqa flowing water \\ft or \\fqa living water\\f*",
+          "raw_sha256": "e95e973ed5868aedd574664a5757ec39810881744dd2259e45bae5cc2df3e1c1"
+        }
+      ]
+    },
+    "20": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 20:13 \\fqa Meribah \\ft means \\fqa quarreling\\ft ; also in verse 24; see \\ref Exodus 17:7|EXO 17:7\\ref*.\\f*",
+          "raw_sha256": "4c92a6f66ede42eff6e1fe47562103b263e7eaebae156b5906d6665e7729deb6"
+        }
+      ]
+    },
+    "21": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 21:2 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also in verse 3.\\f*",
+          "raw_sha256": "4ec6e17efd56945549478dfd0c26d13b57ed03c1b4d81c050fbec1d836f6060f"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 21:3 \\fqa Hormah \\ft means \\fqa destruction\\ft .\\f*",
+          "raw_sha256": "fa4a61ad1b343f2c1b231acf054be98258ebc6d8381568b3e0ef1aabb3090eb2"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 21:4 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "73bc5fabdaa73caca3b647736c05444bc4338598c6aabf86e37be839d9168145"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 21:16 \\fqa Beer \\ft means \\fqa well\\ft .\\f*",
+          "raw_sha256": "f2f137be3c8c205881333b2d03503c1ade183b5b3db45da21c6fa79e4203f590"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 21:20 \\ft Or \\fqa Jeshimon\\f*",
+          "raw_sha256": "25799b4a230ae47b53a74699dc55fd32534a58a7526aeb0ee2e584c75d4e5173"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 21:23 \\fqa Jahaz \\ft is a variant of \\fqa Jahzah\\ft ; see \\ref 1 Chronicles 6:78|1CH 6:78\\ref*.\\f*",
+          "raw_sha256": "961f96c00dfd8b8135742ab5e3da9e8932ec154bae0b1bd826da20d8d1f22102"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 21:24 \\ft Or \\fqa because the territory was rugged\\ft ; literally \\fqa because it was strong\\f*",
+          "raw_sha256": "b0c854e02542a2650f9abb6ba0cde828135ea19532e4eb02c41e7b91bf4c84e5"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 21:30 \\ft Or \\fqa We demolished them until fire spread to Medeba\\f*",
+          "raw_sha256": "debc447daa3ca9ce7357ab885145671b35caae1f3dbe674bc7344d4187b9ab10"
+        }
+      ]
+    },
+    "22": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 22:5 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "05480c9860c26570d3777df3728c65fb1bb29bab0559846186e05d75573d0eb9"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 22:22 \\ft Or \\fqa Angel\\ft ; here through the rest of chapter 22; corresponding pronouns may also be capitalized.\\f*",
+          "raw_sha256": "4d72b587dec561d01097c4a9db951da90b44428e70b5e1fdc41233729d065681"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 22:32 \\ft Or \\fqa reckless \\ft or \\fqa contrary\\f*",
+          "raw_sha256": "fb4fb733302fc093a15ec70ac6e0c9b839fc1a547d507ece46e42e9fe08a4d7b"
+        }
+      ]
+    },
+    "23": {
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 23:28 \\ft Or \\fqa Jeshimon\\f*",
+          "raw_sha256": "8dce695412ac1224d0fe3f846159eac7862a6242a87ea2a884043aac0f32a80e"
+        }
+      ]
+    },
+    "24": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 24:4 \\ft Hebrew \\fqa Shaddai\\ft ; also in verse 16\\f*",
+          "raw_sha256": "f2ac26c02df01b79647eccad3f6c4062d155a1d536485b03f73eac1dbd38c480"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 24:6 \\ft Or \\fqa like valleys\\f*",
+          "raw_sha256": "f41785202fa13c86fb645e6cd2558265111660c775ecc791456942021f21d7e2"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 24:17 \\ft SP \\fqa foreheads\\ft ; Hebrew \\fqa corners (of the head)\\ft ; LXX \\fqa princes\\f*",
+          "raw_sha256": "2027eb2b7a9d9511169f1766af16720a15fa7544469156da6d62be52dcb8fe0a"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 24:22 \\ft Or \\fqa Assyria\\ft ; also in verse 24\\f*",
+          "raw_sha256": "3c32de0c064889da3e821cedcf463d39043f2cb4318d6da4ae537c63f2d47a27"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 24:24 \\ft Hebrew \\fqa Kittim\\f*",
+          "raw_sha256": "52d622c66f5d62ff964591cf0d767d9d383152752e566bcfb3be3a9f339df273"
+        }
+      ]
+    },
+    "25": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 25:1 \\ft Or \\fqa Acacia Grove\\f*",
+          "raw_sha256": "2763991a1f57c4735513712c10607b609a35b2fcfd3e9db361e9cc2d7be28e33"
+        }
+      ]
+    },
+    "26": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 26:4 \\fqa Take a census of the men \\ft is implied but not included in the Hebrew; see verse 2.\\f*",
+          "raw_sha256": "dcf78be1887097fcdc8e98b458f137358ced02cf5a2f5168637a843e0f0cb410"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 26:12 \\fqa Nemuel \\ft is another name for \\fqa Jemuel\\ft ; see \\ref Genesis 46:10|GEN 46:10\\ref*.\\f*",
+          "raw_sha256": "cd4652605674e18a602f2f4fddd168c5a38fbbbd2dfbbba7041c5586c29ce661"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 26:13 \\fqa Zerah \\ft is a variant of \\fqa Zohar\\ft ; see \\ref Genesis 46:10|GEN 46:10\\ref* and Exodus 6:15.\\f*",
+          "raw_sha256": "75fbfda81e2368371c02f737f80d2c0e0d618173b24e71384b3ece0363f96090"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 26:17 \\ft SP and Syriac \\fqa Arodi\\ft ; see \\ref Genesis 46:16|GEN 46:16\\ref*.\\f*",
+          "raw_sha256": "0500ee1e16603c1d92081717ef64945df7a9fcaac88d7245ea9f7ab7453c6639"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 26:23 \\ft SP, LXX, Vulgate, and Syriac \\fqa the Puite clan from Puah\\ft ; see \\ref 1 Chronicles 7:1|1CH 7:1\\ref*.\\f*",
+          "raw_sha256": "66066ac2414e809a6a8c21cd94167f0b31648be988cd8160790daf46dfbf8d77"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 26:24 \\fqa Jashub \\ft is a variant of \\fqa Job\\ft ; see \\ref Genesis 46:13|GEN 46:13\\ref*.\\f*",
+          "raw_sha256": "6205deb97463f2b65ecf8cc9231048a32151c432eb092e82a81b9151afb4351e"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 26:30 \\fqa Iezer \\ft is a variant of \\fqa Abiezer\\ft ; see \\ref Joshua 17:2|JOS 17:2\\ref*.\\f*",
+          "raw_sha256": "acb4f2eebb355b80bf23440711f9d6ba271f05cdf76507f7e9a1c833ce8abd2c"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 26:39 \\ft A few MT manuscripts, SP, Vulgate, and Syriac (see also LXX); most MT manuscripts \\fqa Shephupham\\f*",
+          "raw_sha256": "1a824d771b23ffc5e8dccbb412d707f83a20f0f7d6654a89a292087c2ba4dbef"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 26:40 \\ft SP and Vulgate (see also LXX); MT does not include \\fqa from Ard\\ft .\\f*",
+          "raw_sha256": "9921a53e623a599119392fba4688e12fe0d42ab3a728a2e720ed96f47ee3527f"
+        }
+      ],
+      "61": [
+        {
+          "source_usfm": "\\f + \\fr 26:61 \\ft Or \\fqa strange\\f*",
+          "raw_sha256": "753c2024c7fbaf1b26cf5d07ffd9ebf9aaa2413f245cf215ad0a626c5b96a3ed"
+        }
+      ]
+    },
+    "27": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 27:12 \\ft LXX \\fqa Go up Mount Nebo beyond the Jordan\\f*",
+          "raw_sha256": "4c9ce10812ddd7837a500ac8d8c9ced7715ddf61830db19dad83591fe2886db7"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 27:14 \\fqa Meribah \\ft means \\fqa quarreling\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*.\\f*",
+          "raw_sha256": "45e8f2d2648c2b8afe678dadd4f557f5b2c90a999801268c841f17111cd38c8a"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 27:21 \\ft Literally \\fqa the Lights\\f*",
+          "raw_sha256": "4b6bc340d3405f921921a86258565ee102e582a1489f1a80977bda4965a0495f"
+        }
+      ]
+    },
+    "28": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 28:4 \\ft Hebrew \\fqa between the two evenings\\ft ; also in verse 8\\f*",
+          "raw_sha256": "1b63cc6f864b529ecd53567d424552d20a5562531ebc9c3578453d056db5f80a"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 28:5 \\fqa A tenth of an ephah \\ft is approximately 2 dry quarts or 2.2 liters (probably about 2.6 pounds or 1.2 kilograms of flour); also in verses 13, 21, and 29.\\f*",
+          "raw_sha256": "25596874e79f22b5d8584b2df160f34e313ddaec4ee84e605e6e45b9eb589e6e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 28:5 \\ft Or \\fqa a quarter hin of pure olive oil\\ft ; Hebrew \\fqa a quarter hin of pressed oil\\ft ; that is, approximately 0.97 quarts or 0.92 liters; similarly in verses 7 and 14\\f*",
+          "raw_sha256": "039ad92bc3025b1f085f49c45cde02fff926aa2243b0919c119e2063b05da14f"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 28:9 \\fqa Two-tenths of an ephah \\ft is approximately 4 dry quarts or 4.4 liters (probably about 5.1 pounds or 2.3 kilograms of flour); also in verses 12, 20, and 28.\\f*",
+          "raw_sha256": "32581a746888e5396b2f538073d406f3bb51bd64b34bfef4e124652124c50775"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 28:12 \\fqa Three-tenths of an ephah \\ft is approximately 6 dry quarts or 6.6 liters (probably about 7.6 pounds or 3.5 kilograms of flour); also in verses 20 and 28.\\f*",
+          "raw_sha256": "be4e28d847072e6e8caa2e67a03f0d6c57d9b05b25cc7a7ee01b96b341362dee"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 28:14 \\fqa Half a hin \\ft is approximately 1.9 quarts or 1.8 liters of wine.\\f*",
+          "raw_sha256": "44863b1d8fadd9c70f01675f8f2218853b7112a12c1f264807c8443aa02b35c0"
+        },
+        {
+          "source_usfm": "\\f + \\fr 28:14 \\fqa A third of a hin \\ft is approximately 1.3 quarts or 1.2 liters of wine.\\f*",
+          "raw_sha256": "5b72535e77015d8763645e59f41f91f47b1b539d8d00fd8ab3157903e68d4d8d"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 28:26 \\ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as \\fqa the Feast of Harvest\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref*) or \\fqa the Feast of Pentecost\\ft (see \\ref Acts 2:1|ACT 2:1\\ref*).\\f*",
+          "raw_sha256": "17b61c49402ce1a670d55a97b06e7f39d7464cff9533cc1676be76ab775155a4"
+        }
+      ]
+    },
+    "29": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 29:3 \\fqa Three-tenths of an ephah \\ft is approximately 6 dry quarts or 6.6 liters (probably about 7.6 pounds or 3.5 kilograms of flour); also in verses 9 and 14.\\f*",
+          "raw_sha256": "a2887bd452fd48d2819bdd61192af2e46aff1f45adee0dd53d08bcbba62adf15"
+        },
+        {
+          "source_usfm": "\\f + \\fr 29:3 \\fqa Two-tenths of an ephah \\ft is approximately 4 dry quarts or 4.4 liters (probably about 5.1 pounds or 2.3 kilograms of flour); also in verses 9 and 14.\\f*",
+          "raw_sha256": "ff69331b19ba6f62f6fddf2f1ffafed8adcf52c8218fbfa48c973d1623281ee6"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 29:4 \\fqa A tenth of an ephah \\ft is approximately 2 dry quarts or 2.2 liters (probably about 2.6 pounds or 1.2 kilograms of flour); also in verses 10 and 15.\\f*",
+          "raw_sha256": "5604e0f2bb778f946eb4d39ccb94948a1ae8e7ab8a1ae6703a83f7d2fd839f7d"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 29:7 \\ft Or \\fqa afflict your souls \\ft or \\fqa deny yourselves\\f*",
+          "raw_sha256": "a55ba637a42ae7ab9bb61a47eac0873d4214e7d12bcd2c5a31b93a5e64ae5c15"
+        }
+      ]
+    },
+    "30": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 30:2 \\ft Cited in \\ref Matthew 5:33|MAT 5:33\\ref*\\f*",
+          "raw_sha256": "12fb26b0ca9cfa58aa77d1bfb7dae84ae78b54f8a166b8a9d3a75f0e9b9f6968"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 30:13 \\ft Or \\fqa to fast\\f*",
+          "raw_sha256": "aea234384f5e7858dcbd5d456dc2e9c27e923716a23df7a00309774bf890045e"
+        }
+      ]
+    },
+    "31": {
+      "52": [
+        {
+          "source_usfm": "\\f + \\fr 31:52 \\fqa 16,750 shekels \\ft is approximately 420.8 pounds or 190.9 kilograms.\\f*",
+          "raw_sha256": "6475db85f652db221fce02a1372af117f4bd68e9d643f9a55b59cb01127e437b"
+        }
+      ]
+    },
+    "32": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 32:3 \\ft Hebrew; see verse 38, and similarly in SP and LXX \\fqa Sibmah\\f*",
+          "raw_sha256": "ddd602d0dc9d16128a9baaec740d0f69eec057fbf1995a2989a5c6229a5c4958"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 32:17 \\ft LXX \\fqa we will arm ourselves for battle\\f*",
+          "raw_sha256": "324b94aeee380fd11713f3ea0cd234866c255b292edb9295fbf6ce99404525e7"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 32:41 \\fqa Havvoth-jair \\ft means \\fqa the villages of Jair\\ft .\\f*",
+          "raw_sha256": "45e6a4f011b09dea843c10aff7ff6982b9072c00b137c642e883c7bfc7248856"
+        }
+      ]
+    },
+    "33": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 33:3 \\ft Or \\fqa marched out boldly\\ft ; literally \\fqa marched out with an upraised hand\\f*",
+          "raw_sha256": "cf1b37b223b8db1279d77e8dcc16e1a95f43cde7ae4bddf41eb592b7945e3c9c"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 33:8 \\ft Some Hebrew manuscripts, SP, and Vulgate; see verse 7; most MT manuscripts \\fqa Hahiroth\\f*",
+          "raw_sha256": "3fb206e2bdef98e6f569ba1bd0350236c364cf954c7822ade2c50e4d4350df3e"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 33:10 \\ft Or \\fqa the Sea of Reeds\\ft ; also in verse 11\\f*",
+          "raw_sha256": "13b88d109cb6b831c31ff04ddd671cb4e003384560ec5af2fc0be99bfaf116c2"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 33:11 \\ft The geographical name \\fqa Sin \\ft is related to \\fqa Sinai \\ft and should not be mistaken for the English word \\fqa sin\\ft ; also in verse 12.\\f*",
+          "raw_sha256": "7f3da9eb40bb36cb815226af769e3e9df49fb6df11f69fcdd5dfaa6dea48843c"
+        }
+      ],
+      "45": [
+        {
+          "source_usfm": "\\f + \\fr 33:45 \\fqa Iyim \\ft is another name for \\fqa Iye-abarim\\ft ; see verse 44.\\f*",
+          "raw_sha256": "82e2ecac71809fd53023fece3ab8810e8248238cd5778092d2b6e2fe2b1df877"
+        }
+      ],
+      "47": [
+        {
+          "source_usfm": "\\f + \\fr 33:47 \\ft Or \\fqa the mountains beyond the river\\ft ; also in verse 48\\f*",
+          "raw_sha256": "da8f10042c477096ac8eeb6d6ff42943d5c561221133d0d4d6df1fb29bf30f9e"
+        }
+      ],
+      "49": [
+        {
+          "source_usfm": "\\f + \\fr 33:49 \\ft Or \\fqa the Meadow of the Acacias\\ft ; that is, an area in the lowlands of Moab\\f*",
+          "raw_sha256": "40a636ce90a22c1a7c55f340edc668acbefbcd512aca74e4e56144dcaae6c8e1"
+        }
+      ]
+    },
+    "34": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 34:3 \\ft That is, the Dead Sea; also in verse 12\\f*",
+          "raw_sha256": "95b25b1c0b27a042a3efb1e63cb4cdb0d9c7619bbdb8177cd910754c0001aed9"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 34:4 \\ft Or \\fqa the Ascent of Scorpions \\ft or \\fqa Scorpion Pass\\f*",
+          "raw_sha256": "72a93df8dd870e676b8696d957a6122f283d045a725d11790a325340b49c2041"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 34:5 \\ft That is, the Mediterranean Sea, also called the Great Sea; also in verses 6 and 7\\f*",
+          "raw_sha256": "3ae46d670aaf58174b3b5f86890d8469c7a67739998b757d22ecad176bdcdb23"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 34:11 \\ft That is, the Sea of Galilee\\f*",
+          "raw_sha256": "072e555d0c4b2e32fde51585361773d45e24b44caab36ca65ceec457e0cc6836"
+        }
+      ]
+    },
+    "35": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 35:4 \\fqa 1,000 cubits \\ft is approximately 1,500 feet or 457.2 meters.\\f*",
+          "raw_sha256": "bf904b6839dbf90e3f4c0a0b4ca709ba639c68c631998cdaa1de4078de4bca01"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 35:5 \\fqa 2,000 cubits \\ft is approximately 3,000 feet or 914.4 meters.\\f*",
+          "raw_sha256": "57ad37a94977522031eb7076f9c298b072071d3a4aa6238a6a2f065c71e4f08c"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

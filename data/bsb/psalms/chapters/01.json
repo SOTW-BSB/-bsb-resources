@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "PSA.1.1",
+      "edition_verse_id": "BSB:PSA.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blessed is the man who does not walk in the counsel of the wicked, or set foot on the path of sinners, or sit in the seat of mockers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.1.2",
+      "edition_verse_id": "BSB:PSA.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But his delight is in the Law of the LORD, and on His law he meditates day and night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.3",
+      "edition_verse_id": "BSB:PSA.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He is like a tree planted by streams of water, yielding its fruit in season, whose leaf does not wither, and who prospers in all he does.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.4",
+      "edition_verse_id": "BSB:PSA.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Not so the wicked! For they are like chaff driven off by the wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.5",
+      "edition_verse_id": "BSB:PSA.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.1.6",
+      "edition_verse_id": "BSB:PSA.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For the LORD guards the path of the righteous, but the way of the wicked will perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

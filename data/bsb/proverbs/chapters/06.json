@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "PRO.6.1",
+      "edition_verse_id": "BSB:PRO.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My son, if you have put up security for your neighbor, if you have struck hands in pledge with a stranger,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.2",
+      "edition_verse_id": "BSB:PRO.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "if you have been trapped by the words of your lips, ensnared by the words of your mouth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.3",
+      "edition_verse_id": "BSB:PRO.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "then do this, my son, to free yourself, for you have fallen into your neighbor’s hands: Go, humble yourself, and press your plea with your neighbor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.4",
+      "edition_verse_id": "BSB:PRO.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Allow no sleep to your eyes or slumber to your eyelids.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.5",
+      "edition_verse_id": "BSB:PRO.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Free yourself, like a gazelle from the hand of the hunter, like a bird from the snare of the fowler.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.6",
+      "edition_verse_id": "BSB:PRO.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Walk in the manner of the ant, O slacker; observe its ways and become wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.7",
+      "edition_verse_id": "BSB:PRO.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Without a commander, without an overseer or ruler,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.8",
+      "edition_verse_id": "BSB:PRO.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "it prepares its provisions in summer; it gathers its food at harvest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.9",
+      "edition_verse_id": "BSB:PRO.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "How long will you lie there, O slacker? When will you get up from your sleep?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.10",
+      "edition_verse_id": "BSB:PRO.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "A little sleep, a little slumber, a little folding of the hands to rest,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.11",
+      "edition_verse_id": "BSB:PRO.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and poverty will come upon you like a robber, and need like a bandit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.12",
+      "edition_verse_id": "BSB:PRO.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "A worthless person, a wicked man, walks with a perverse mouth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.13",
+      "edition_verse_id": "BSB:PRO.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "winking his eyes, speaking with his feet, and pointing with his fingers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.14",
+      "edition_verse_id": "BSB:PRO.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "With deceit in his heart he devises evil; he continually sows discord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.15",
+      "edition_verse_id": "BSB:PRO.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Therefore calamity will come upon him suddenly; in an instant he will be shattered beyond recovery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.16",
+      "edition_verse_id": "BSB:PRO.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "There are six things that the LORD hates, seven that are detestable to Him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.6.17",
+      "edition_verse_id": "BSB:PRO.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "haughty eyes, a lying tongue, hands that shed innocent blood,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.18",
+      "edition_verse_id": "BSB:PRO.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "a heart that devises wicked schemes, feet that run swiftly to evil,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.19",
+      "edition_verse_id": "BSB:PRO.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "a false witness who gives false testimony, and one who stirs up discord among brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.20",
+      "edition_verse_id": "BSB:PRO.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My son, keep your father’s commandment, and do not forsake your mother’s teaching.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.21",
+      "edition_verse_id": "BSB:PRO.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Bind them always upon your heart; tie them around your neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.22",
+      "edition_verse_id": "BSB:PRO.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When you walk, they will guide you; when you lie down, they will watch over you; when you awake, they will speak to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.23",
+      "edition_verse_id": "BSB:PRO.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For this commandment is a lamp, this teaching is a light, and the reproofs of discipline are the way to life,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.24",
+      "edition_verse_id": "BSB:PRO.6.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "to keep you from the evil woman, from the smooth tongue of the adulteress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.25",
+      "edition_verse_id": "BSB:PRO.6.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Do not lust in your heart for her beauty or let her captivate you with her eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.26",
+      "edition_verse_id": "BSB:PRO.6.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For the levy of the prostitute is poverty, and the adulteress preys upon your very life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.27",
+      "edition_verse_id": "BSB:PRO.6.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Can a man embrace fire and his clothes not be burned?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.28",
+      "edition_verse_id": "BSB:PRO.6.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Can a man walk on hot coals without scorching his feet?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.29",
+      "edition_verse_id": "BSB:PRO.6.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So is he who sleeps with another man’s wife; no one who touches her will go unpunished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.30",
+      "edition_verse_id": "BSB:PRO.6.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Men do not despise the thief if he steals to satisfy his hunger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.31",
+      "edition_verse_id": "BSB:PRO.6.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Yet if caught, he must pay sevenfold; he must give up all the wealth of his house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.32",
+      "edition_verse_id": "BSB:PRO.6.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He who commits adultery lacks judgment; whoever does so destroys himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.33",
+      "edition_verse_id": "BSB:PRO.6.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Wounds and dishonor will befall him, and his reproach will never be wiped away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.34",
+      "edition_verse_id": "BSB:PRO.6.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For jealousy enrages a husband, and he will show no mercy in the day of vengeance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.6.35",
+      "edition_verse_id": "BSB:PRO.6.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "He will not be appeased by any ransom, or persuaded by lavish gifts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

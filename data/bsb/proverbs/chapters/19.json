@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "PRO.19.1",
+      "edition_verse_id": "BSB:PRO.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Better a poor man who walks with integrity than a fool whose lips are perverse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.19.2",
+      "edition_verse_id": "BSB:PRO.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Even zeal is no good without knowledge, and he who hurries his footsteps misses the mark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.3",
+      "edition_verse_id": "BSB:PRO.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A man’s own folly subverts his way, yet his heart rages against the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.4",
+      "edition_verse_id": "BSB:PRO.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Wealth attracts many friends, but a poor man is deserted by his friend.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.5",
+      "edition_verse_id": "BSB:PRO.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A false witness will not go unpunished, and one who utters lies will not escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.6",
+      "edition_verse_id": "BSB:PRO.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Many seek the favor of the prince, and everyone is a friend of the gift giver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.7",
+      "edition_verse_id": "BSB:PRO.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All the brothers of a poor man hate him — how much more do his friends avoid him! He may pursue them with pleading, but they are nowhere to be found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.8",
+      "edition_verse_id": "BSB:PRO.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He who acquires wisdom loves himself; one who safeguards understanding will find success.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.9",
+      "edition_verse_id": "BSB:PRO.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A false witness will not go unpunished, and one who pours out lies will perish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.10",
+      "edition_verse_id": "BSB:PRO.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Luxury is unseemly for a fool— how much worse for a slave to rule over princes!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.11",
+      "edition_verse_id": "BSB:PRO.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "A man’s insight gives him patience, and his virtue is to overlook an offense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.12",
+      "edition_verse_id": "BSB:PRO.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "A king’s rage is like the roar of a lion, but his favor is like dew on the grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.13",
+      "edition_verse_id": "BSB:PRO.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "A foolish son is his father’s ruin, and a quarrelsome wife is like a constant dripping.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.14",
+      "edition_verse_id": "BSB:PRO.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Houses and wealth are inherited from fathers, but a prudent wife is from the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.15",
+      "edition_verse_id": "BSB:PRO.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Laziness brings on deep sleep, and an idle soul will suffer hunger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.16",
+      "edition_verse_id": "BSB:PRO.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He who keeps a commandment preserves his soul, but he who is careless in his ways will die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.17",
+      "edition_verse_id": "BSB:PRO.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Kindness to the poor is a loan to the LORD, and He will repay the lender.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.18",
+      "edition_verse_id": "BSB:PRO.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Discipline your son, for in that there is hope; do not be party to his death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.19",
+      "edition_verse_id": "BSB:PRO.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A man of great anger must pay the penalty; if you rescue him, you will have to do so again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.20",
+      "edition_verse_id": "BSB:PRO.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Listen to counsel and accept discipline, that you may be wise the rest of your days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.21",
+      "edition_verse_id": "BSB:PRO.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Many plans are in a man’s heart, but the purpose of the LORD will prevail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.22",
+      "edition_verse_id": "BSB:PRO.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The desire of a man is loving devotion; better to be poor than a liar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.23",
+      "edition_verse_id": "BSB:PRO.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The fear of the LORD leads to life, that one may rest content, without visitation from harm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.24",
+      "edition_verse_id": "BSB:PRO.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The slacker buries his hand in the dish; he will not even bring it back to his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.25",
+      "edition_verse_id": "BSB:PRO.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Strike a mocker, and the simple will beware; rebuke the discerning man, and he will gain knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.26",
+      "edition_verse_id": "BSB:PRO.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He who assaults his father or evicts his mother is a son who brings shame and disgrace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.27",
+      "edition_verse_id": "BSB:PRO.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "If you cease to hear instruction, my son, you will stray from the words of knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.28",
+      "edition_verse_id": "BSB:PRO.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "A corrupt witness mocks justice, and a wicked mouth swallows iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.19.29",
+      "edition_verse_id": "BSB:PRO.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Judgments are prepared for mockers, and beatings for the backs of fools.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

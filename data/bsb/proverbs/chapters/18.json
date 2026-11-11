@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "PRO.18.1",
+      "edition_verse_id": "BSB:PRO.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "He who isolates himself pursues selfish desires; he rebels against all sound judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.18.2",
+      "edition_verse_id": "BSB:PRO.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "A fool does not delight in understanding, but only in airing his opinions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.3",
+      "edition_verse_id": "BSB:PRO.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "With a wicked man comes contempt as well, and shame is accompanied by disgrace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.4",
+      "edition_verse_id": "BSB:PRO.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The words of a man’s mouth are deep waters; the fountain of wisdom is a bubbling brook.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.5",
+      "edition_verse_id": "BSB:PRO.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Showing partiality to the wicked is not good, nor is depriving the innocent of justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.6",
+      "edition_verse_id": "BSB:PRO.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "A fool’s lips bring him strife, and his mouth invites a beating.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.7",
+      "edition_verse_id": "BSB:PRO.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "A fool’s mouth is his ruin, and his lips are a snare to his soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.8",
+      "edition_verse_id": "BSB:PRO.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The words of a gossip are like choice morsels that go down into the inmost being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.9",
+      "edition_verse_id": "BSB:PRO.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Whoever is slothful in his work is brother to him who destroys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.10",
+      "edition_verse_id": "BSB:PRO.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The name of the LORD is a strong tower; the righteous run to it and are safe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.11",
+      "edition_verse_id": "BSB:PRO.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "A rich man’s wealth is his fortified city; it is like a high wall in his imagination.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.12",
+      "edition_verse_id": "BSB:PRO.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Before his downfall a man’s heart is proud, but humility comes before honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.13",
+      "edition_verse_id": "BSB:PRO.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He who answers a matter before he hears it— this is folly and disgrace to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.14",
+      "edition_verse_id": "BSB:PRO.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The spirit of a man can endure his sickness, but who can survive a broken spirit?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.15",
+      "edition_verse_id": "BSB:PRO.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The heart of the discerning acquires knowledge, and the ear of the wise seeks it out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.16",
+      "edition_verse_id": "BSB:PRO.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "A man’s gift opens doors for him, and brings him before great men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.17",
+      "edition_verse_id": "BSB:PRO.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The first to state his case seems right until another comes and cross-examines him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.18",
+      "edition_verse_id": "BSB:PRO.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Casting the lot ends quarrels and separates strong opponents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.19",
+      "edition_verse_id": "BSB:PRO.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "An offended brother is harder to win than a fortified city, and disputes are like the bars of a castle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.20",
+      "edition_verse_id": "BSB:PRO.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "From the fruit of his mouth a man’s belly is filled; with the harvest from his lips he is satisfied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.21",
+      "edition_verse_id": "BSB:PRO.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Life and death are in the power of the tongue, and those who love it will eat its fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.22",
+      "edition_verse_id": "BSB:PRO.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He who finds a wife finds a good thing and obtains favor from the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.23",
+      "edition_verse_id": "BSB:PRO.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The poor man pleads for mercy, but the rich man answers harshly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.18.24",
+      "edition_verse_id": "BSB:PRO.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "A man of many companions may come to ruin, but there is a friend who stays closer than a brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

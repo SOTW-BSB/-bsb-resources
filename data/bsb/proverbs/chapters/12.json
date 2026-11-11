@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "PRO.12.1",
+      "edition_verse_id": "BSB:PRO.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Whoever loves discipline loves knowledge, but he who hates correction is stupid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.12.2",
+      "edition_verse_id": "BSB:PRO.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The good man obtains favor from the LORD, but the LORD condemns a man who devises evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.3",
+      "edition_verse_id": "BSB:PRO.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A man cannot be established through wickedness, but the righteous cannot be uprooted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.4",
+      "edition_verse_id": "BSB:PRO.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "A wife of noble character is her husband’s crown, but she who causes shame is like decay in his bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.5",
+      "edition_verse_id": "BSB:PRO.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The plans of the righteous are just, but the counsel of the wicked leads to deceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.6",
+      "edition_verse_id": "BSB:PRO.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The words of the wicked lie in wait for blood, but the speech of the upright rescues them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.7",
+      "edition_verse_id": "BSB:PRO.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The wicked are overthrown and perish, but the house of the righteous will stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.8",
+      "edition_verse_id": "BSB:PRO.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "A man is praised according to his wisdom, but a twisted mind is despised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.9",
+      "edition_verse_id": "BSB:PRO.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Better to be lightly esteemed yet have a servant, than to be self-important but lack food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.10",
+      "edition_verse_id": "BSB:PRO.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "A righteous man regards the life of his animal, but the tender mercies of the wicked are only cruelty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.11",
+      "edition_verse_id": "BSB:PRO.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The one who works his land will have plenty of food, but whoever chases fantasies lacks judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.12",
+      "edition_verse_id": "BSB:PRO.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The wicked desire the plunder of evil men, but the root of the righteous flourishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.13",
+      "edition_verse_id": "BSB:PRO.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "An evil man is trapped by his rebellious speech, but a righteous man escapes from trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.14",
+      "edition_verse_id": "BSB:PRO.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "By fruitful speech a man is filled with good things, and the work of his hands returns to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.15",
+      "edition_verse_id": "BSB:PRO.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The way of a fool is right in his own eyes, but a wise man listens to counsel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.16",
+      "edition_verse_id": "BSB:PRO.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "A fool’s anger is known at once, but a prudent man overlooks an insult.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.17",
+      "edition_verse_id": "BSB:PRO.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He who speaks the truth declares what is right, but a false witness speaks deceit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.18",
+      "edition_verse_id": "BSB:PRO.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Speaking rashly is like a piercing sword, but the tongue of the wise brings healing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.19",
+      "edition_verse_id": "BSB:PRO.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Truthful lips endure forever, but a lying tongue lasts only a moment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.20",
+      "edition_verse_id": "BSB:PRO.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Deceit is in the hearts of those who devise evil, but the counselors of peace have joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.21",
+      "edition_verse_id": "BSB:PRO.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "No harm befalls the righteous, but the wicked are filled with trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.22",
+      "edition_verse_id": "BSB:PRO.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Lying lips are detestable to the LORD, but those who deal faithfully are His delight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.23",
+      "edition_verse_id": "BSB:PRO.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "A shrewd man keeps his knowledge to himself, but a foolish heart proclaims its folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.24",
+      "edition_verse_id": "BSB:PRO.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The hand of the diligent will rule, but laziness ends in forced labor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.25",
+      "edition_verse_id": "BSB:PRO.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Anxiety weighs down the heart of a man, but a good word cheers it up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.26",
+      "edition_verse_id": "BSB:PRO.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "A righteous man is cautious in friendship, but the ways of the wicked lead them astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.27",
+      "edition_verse_id": "BSB:PRO.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "A lazy man does not roast his game, but a diligent man prizes his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.12.28",
+      "edition_verse_id": "BSB:PRO.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "There is life in the path of righteousness, but another path leads to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

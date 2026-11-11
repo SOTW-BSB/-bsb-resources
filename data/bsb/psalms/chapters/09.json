@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "PSA.9.1",
+      "edition_verse_id": "BSB:PSA.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. To the tune of “The Death of the Son.” A Psalm of David. I will give thanks to the LORD with all my heart; I will recount all Your wonders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.9.2",
+      "edition_verse_id": "BSB:PSA.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will be glad and rejoice in You; I will sing praise to Your name, O Most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.3",
+      "edition_verse_id": "BSB:PSA.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When my enemies retreat, they stumble and perish before You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.4",
+      "edition_verse_id": "BSB:PSA.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For You have upheld my just cause; You sit on Your throne judging righteously.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.5",
+      "edition_verse_id": "BSB:PSA.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You have rebuked the nations; You have destroyed the wicked; You have erased their name forever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.6",
+      "edition_verse_id": "BSB:PSA.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The enemy has come to eternal ruin, and You have uprooted their cities; the very memory of them has vanished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.7",
+      "edition_verse_id": "BSB:PSA.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the LORD abides forever; He has established His throne for judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.8",
+      "edition_verse_id": "BSB:PSA.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He judges the world with justice; He governs the people with equity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.9",
+      "edition_verse_id": "BSB:PSA.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The LORD is a refuge for the oppressed, a stronghold in times of trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.10",
+      "edition_verse_id": "BSB:PSA.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Those who know Your name trust in You, for You, O LORD, have not forsaken those who seek You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.11",
+      "edition_verse_id": "BSB:PSA.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Sing praises to the LORD, who dwells in Zion; proclaim His deeds among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.12",
+      "edition_verse_id": "BSB:PSA.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For the Avenger of bloodshed remembers; He does not ignore the cry of the afflicted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.13",
+      "edition_verse_id": "BSB:PSA.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Be merciful to me, O LORD; see how my enemies afflict me! Lift me up from the gates of death,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.14",
+      "edition_verse_id": "BSB:PSA.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "that I may declare all Your praises — that within the gates of Daughter Zion I may rejoice in Your salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.15",
+      "edition_verse_id": "BSB:PSA.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The nations have fallen into a pit of their making; their feet are caught in the net they have hidden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.16",
+      "edition_verse_id": "BSB:PSA.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The LORD is known by the justice He brings; the wicked are ensnared by the work of their hands. Higgaion Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.17",
+      "edition_verse_id": "BSB:PSA.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The wicked will return to Sheol— all the nations who forget God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.18",
+      "edition_verse_id": "BSB:PSA.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the needy will not always be forgotten; nor the hope of the oppressed forever dashed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.19",
+      "edition_verse_id": "BSB:PSA.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Rise up, O LORD, do not let man prevail; let the nations be judged in Your presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.9.20",
+      "edition_verse_id": "BSB:PSA.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Lay terror upon them, O LORD; let the nations know they are but men. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

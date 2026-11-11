@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "PSA.10.1",
+      "edition_verse_id": "BSB:PSA.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Why, O LORD, do You stand far off? Why do You hide in times of trouble?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.10.2",
+      "edition_verse_id": "BSB:PSA.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In pride the wicked pursue the needy; let them be caught in the schemes they devise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.3",
+      "edition_verse_id": "BSB:PSA.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the wicked man boasts in the cravings of his heart; he blesses the greedy and reviles the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.4",
+      "edition_verse_id": "BSB:PSA.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In his pride the wicked man does not seek Him; in all his schemes there is no God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.5",
+      "edition_verse_id": "BSB:PSA.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He is secure in his ways at all times; Your lofty judgments are far from him; he sneers at all his foes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.6",
+      "edition_verse_id": "BSB:PSA.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He says to himself, “I will not be moved; from age to age I am free of distress.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.7",
+      "edition_verse_id": "BSB:PSA.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "His mouth is full of cursing, deceit, and violence; trouble and malice are under his tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.8",
+      "edition_verse_id": "BSB:PSA.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He lies in wait near the villages; in ambush he slays the innocent; his eyes watch in stealth for the helpless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.9",
+      "edition_verse_id": "BSB:PSA.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He lies in wait like a lion in a thicket; he lurks to seize the oppressed; he catches the lowly in his net.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.10",
+      "edition_verse_id": "BSB:PSA.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They are crushed and beaten down; the helpless fall prey to his strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.11",
+      "edition_verse_id": "BSB:PSA.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He says to himself, “God has forgotten; He hides His face and never sees.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.12",
+      "edition_verse_id": "BSB:PSA.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Arise, O LORD! Lift up Your hand, O God! Do not forget the helpless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.13",
+      "edition_verse_id": "BSB:PSA.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Why has the wicked man renounced God? He says to himself, “You will never call me to account.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.14",
+      "edition_verse_id": "BSB:PSA.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But You have regarded trouble and grief; You see to repay it by Your hand. The victim entrusts himself to You; You are the helper of the fatherless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.15",
+      "edition_verse_id": "BSB:PSA.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Break the arm of the wicked and evildoer; call him to account for his wickedness until none is left to be found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.16",
+      "edition_verse_id": "BSB:PSA.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The LORD is King forever and ever; the nations perish from His land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.17",
+      "edition_verse_id": "BSB:PSA.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "You have heard, O LORD, the desire of the humble; You will strengthen their hearts. You will incline Your ear,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.10.18",
+      "edition_verse_id": "BSB:PSA.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "to vindicate the fatherless and oppressed, that the men of the earth may strike terror no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

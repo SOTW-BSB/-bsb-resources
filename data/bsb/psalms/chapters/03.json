@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "PSA.3.1",
+      "edition_verse_id": "BSB:PSA.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of David, when he fled from his son Absalom. O LORD, how my foes have increased! How many rise up against me!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.3.2",
+      "edition_verse_id": "BSB:PSA.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Many say of me, “God will not deliver him.” Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.3",
+      "edition_verse_id": "BSB:PSA.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But You, O LORD, are a shield around me, my glory, and the One who lifts my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.4",
+      "edition_verse_id": "BSB:PSA.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "To the LORD I cry aloud, and He answers me from His holy mountain. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.5",
+      "edition_verse_id": "BSB:PSA.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I lie down and sleep; I wake again, for the LORD sustains me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.6",
+      "edition_verse_id": "BSB:PSA.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will not fear the myriads set against me on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.7",
+      "edition_verse_id": "BSB:PSA.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Arise, O LORD! Save me, O my God! Strike all my enemies on the jaw; break the teeth of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.3.8",
+      "edition_verse_id": "BSB:PSA.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Salvation belongs to the LORD; may Your blessing be on Your people. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

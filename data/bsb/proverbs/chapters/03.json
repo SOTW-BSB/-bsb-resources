@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "PRO.3.1",
+      "edition_verse_id": "BSB:PRO.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My son, do not forget my teaching, but let your heart keep my commandments;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.3.2",
+      "edition_verse_id": "BSB:PRO.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "for they will add length to your days, years and peace to your life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.3",
+      "edition_verse_id": "BSB:PRO.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Never let loving devotion or faithfulness leave you; bind them around your neck, write them on the tablet of your heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.4",
+      "edition_verse_id": "BSB:PRO.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then you will find favor and high regard in the sight of God and man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.5",
+      "edition_verse_id": "BSB:PRO.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Trust in the LORD with all your heart, and lean not on your own understanding;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.6",
+      "edition_verse_id": "BSB:PRO.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "in all your ways acknowledge Him, and He will make your paths straight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.7",
+      "edition_verse_id": "BSB:PRO.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Be not wise in your own eyes; fear the LORD and turn away from evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.8",
+      "edition_verse_id": "BSB:PRO.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "This will bring healing to your body and refreshment to your bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.9",
+      "edition_verse_id": "BSB:PRO.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Honor the LORD with your wealth and with the firstfruits of all your crops;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.10",
+      "edition_verse_id": "BSB:PRO.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "then your barns will be filled with plenty, and your vats will overflow with new wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.11",
+      "edition_verse_id": "BSB:PRO.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My son, do not reject the discipline of the LORD, and do not loathe His rebuke;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.12",
+      "edition_verse_id": "BSB:PRO.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "for the LORD disciplines the one He loves, as does a father the son in whom he delights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.13",
+      "edition_verse_id": "BSB:PRO.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Blessed is the man who finds wisdom, the man who acquires understanding,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.14",
+      "edition_verse_id": "BSB:PRO.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "for she is more profitable than silver, and her gain is better than fine gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.15",
+      "edition_verse_id": "BSB:PRO.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "She is more precious than rubies; nothing you desire compares with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.16",
+      "edition_verse_id": "BSB:PRO.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Long life is in her right hand; in her left hand are riches and honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.17",
+      "edition_verse_id": "BSB:PRO.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All her ways are pleasant, and all her paths are peaceful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.18",
+      "edition_verse_id": "BSB:PRO.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "She is a tree of life to those who embrace her, and those who lay hold of her are blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.19",
+      "edition_verse_id": "BSB:PRO.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The LORD founded the earth by wisdom and established the heavens by understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.20",
+      "edition_verse_id": "BSB:PRO.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "By His knowledge the watery depths were broken open, and the clouds dripped with dew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.21",
+      "edition_verse_id": "BSB:PRO.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "My son, do not lose sight of this: Preserve sound judgment and discernment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.22",
+      "edition_verse_id": "BSB:PRO.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "They will be life to your soul and adornment to your neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.23",
+      "edition_verse_id": "BSB:PRO.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then you will go on your way in safety, and your foot will not stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.24",
+      "edition_verse_id": "BSB:PRO.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When you lie down, you will not be afraid; when you rest, your sleep will be sweet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.25",
+      "edition_verse_id": "BSB:PRO.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Do not fear sudden danger or the ruin that overtakes the wicked,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.26",
+      "edition_verse_id": "BSB:PRO.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "for the LORD will be your confidence and will keep your foot from the snare.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.27",
+      "edition_verse_id": "BSB:PRO.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Do not withhold good from the deserving when it is within your power to act.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.28",
+      "edition_verse_id": "BSB:PRO.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Do not tell your neighbor, “Come back tomorrow and I will provide”— when you already have the means.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.29",
+      "edition_verse_id": "BSB:PRO.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Do not devise evil against your neighbor, for he trustfully dwells beside you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.30",
+      "edition_verse_id": "BSB:PRO.3.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Do not accuse a man without cause, when he has done you no harm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.31",
+      "edition_verse_id": "BSB:PRO.3.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Do not envy a violent man or choose any of his ways;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.32",
+      "edition_verse_id": "BSB:PRO.3.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "for the LORD detests the perverse, but He is a friend to the upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.33",
+      "edition_verse_id": "BSB:PRO.3.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The curse of the LORD is on the house of the wicked, but He blesses the home of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.34",
+      "edition_verse_id": "BSB:PRO.3.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He mocks the mockers, but gives grace to the humble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.3.35",
+      "edition_verse_id": "BSB:PRO.3.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The wise will inherit honor, but fools are held up to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

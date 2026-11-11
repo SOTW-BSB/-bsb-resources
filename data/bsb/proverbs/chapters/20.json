@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "PRO.20.1",
+      "edition_verse_id": "BSB:PRO.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Wine is a mocker, strong drink is a brawler, and whoever is led astray by them is not wise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.20.2",
+      "edition_verse_id": "BSB:PRO.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The terror of a king is like the roar of a lion; whoever provokes him forfeits his own life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.3",
+      "edition_verse_id": "BSB:PRO.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "It is honorable for a man to resolve a dispute, but any fool will quarrel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.4",
+      "edition_verse_id": "BSB:PRO.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The slacker does not plow in season; at harvest time he looks, but nothing is there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.5",
+      "edition_verse_id": "BSB:PRO.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The intentions of a man’s heart are deep waters, but a man of understanding draws them out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.6",
+      "edition_verse_id": "BSB:PRO.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Many a man proclaims his loving devotion, but who can find a trustworthy man?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.7",
+      "edition_verse_id": "BSB:PRO.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The righteous man walks with integrity; blessed are his children after him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.8",
+      "edition_verse_id": "BSB:PRO.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "A king who sits on a throne to judge sifts out all evil with his eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.9",
+      "edition_verse_id": "BSB:PRO.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who can say, “I have kept my heart pure; I am cleansed from my sin”?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.10",
+      "edition_verse_id": "BSB:PRO.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Differing weights and unequal measures— both are detestable to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.11",
+      "edition_verse_id": "BSB:PRO.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Even a young man is known by his actions— whether his conduct is pure and upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.12",
+      "edition_verse_id": "BSB:PRO.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Ears that hear and eyes that see— the LORD has made them both.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.13",
+      "edition_verse_id": "BSB:PRO.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Do not love sleep, or you will grow poor; open your eyes, and you will have plenty of food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.14",
+      "edition_verse_id": "BSB:PRO.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“Worthless, worthless!” says the buyer, but on the way out, he gloats.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.15",
+      "edition_verse_id": "BSB:PRO.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "There is an abundance of gold and rubies, but lips of knowledge are a rare treasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.16",
+      "edition_verse_id": "BSB:PRO.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Take the garment of the one who posts security for a stranger; get collateral if it is for a foreigner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.17",
+      "edition_verse_id": "BSB:PRO.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Food gained by fraud is sweet to a man, but later his mouth is full of gravel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.18",
+      "edition_verse_id": "BSB:PRO.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Set plans by consultation, and wage war under sound guidance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.19",
+      "edition_verse_id": "BSB:PRO.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He who reveals secrets is a constant gossip; avoid the one who babbles with his lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.20",
+      "edition_verse_id": "BSB:PRO.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Whoever curses his father or mother, his lamp will be extinguished in deepest darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.21",
+      "edition_verse_id": "BSB:PRO.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "An inheritance gained quickly will not be blessed in the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.22",
+      "edition_verse_id": "BSB:PRO.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Do not say, “I will avenge this evil!” Wait on the LORD, and He will save you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.23",
+      "edition_verse_id": "BSB:PRO.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Unequal weights are detestable to the LORD, and dishonest scales are no good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.24",
+      "edition_verse_id": "BSB:PRO.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "A man’s steps are from the LORD, so how can anyone understand his own way?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.25",
+      "edition_verse_id": "BSB:PRO.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It is a trap for a man to dedicate something rashly, only later to reconsider his vows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.26",
+      "edition_verse_id": "BSB:PRO.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "A wise king separates out the wicked and drives the threshing wheel over them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.27",
+      "edition_verse_id": "BSB:PRO.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The spirit of a man is the lamp of the LORD, searching out his inmost being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.28",
+      "edition_verse_id": "BSB:PRO.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Loving devotion and faithfulness preserve a king; by these he maintains his throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.29",
+      "edition_verse_id": "BSB:PRO.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The glory of young men is their strength, and gray hair is the splendor of the old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.20.30",
+      "edition_verse_id": "BSB:PRO.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Lashes and wounds scour evil, and beatings cleanse the inmost parts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

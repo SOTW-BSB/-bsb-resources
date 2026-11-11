@@ -1,0 +1,500 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "NUM.15.1",
+      "edition_verse_id": "BSB:NUM.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.2",
+      "edition_verse_id": "BSB:NUM.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and tell them: After you enter the land that I am giving you as a home",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.3",
+      "edition_verse_id": "BSB:NUM.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and you present a food offering to the LORD from the herd or flock to produce a pleasing aroma to the LORD — either a burnt offering or a sacrifice, for a special vow or freewill offering or appointed feast—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.4",
+      "edition_verse_id": "BSB:NUM.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "then the one presenting his offering to the LORD shall also present a grain offering of a tenth of an ephah of fine flour mixed with a quarter hin of olive oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.5",
+      "edition_verse_id": "BSB:NUM.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "With the burnt offering or sacrifice of each lamb, you are to prepare a quarter hin of wine as a drink offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.6",
+      "edition_verse_id": "BSB:NUM.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "With a ram you are to prepare a grain offering of two-tenths of an ephah of fine flour mixed with a third of a hin of olive oil,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.7",
+      "edition_verse_id": "BSB:NUM.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and a third of a hin of wine as a drink offering, a pleasing aroma to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.8",
+      "edition_verse_id": "BSB:NUM.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When you prepare a young bull as a burnt offering or sacrifice to fulfill a vow or as a peace offering to the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.9",
+      "edition_verse_id": "BSB:NUM.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "present with the bull a grain offering of three-tenths of an ephah of fine flour mixed with half a hin of olive oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.10",
+      "edition_verse_id": "BSB:NUM.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Also present half a hin of wine as a drink offering. It is a food offering, a pleasing aroma to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.11",
+      "edition_verse_id": "BSB:NUM.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "This is to be done for each bull, ram, lamb, or goat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.12",
+      "edition_verse_id": "BSB:NUM.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "This is how you must prepare each one, no matter how many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.13",
+      "edition_verse_id": "BSB:NUM.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Everyone who is native-born shall prepare these things in this way when he presents a food offering as a pleasing aroma to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.14",
+      "edition_verse_id": "BSB:NUM.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And for the generations to come, if a foreigner residing with you or someone else among you wants to prepare a food offering as a pleasing aroma to the LORD, he is to do exactly as you do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.15",
+      "edition_verse_id": "BSB:NUM.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The assembly is to have the same statute both for you and for the foreign resident; it is a permanent statute for the generations to come. You and the foreigner shall be the same before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.16",
+      "edition_verse_id": "BSB:NUM.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The same law and the same ordinance will apply both to you and to the foreigner residing with you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.17",
+      "edition_verse_id": "BSB:NUM.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.18",
+      "edition_verse_id": "BSB:NUM.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and tell them: When you enter the land to which I am bringing you",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.19",
+      "edition_verse_id": "BSB:NUM.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and you eat the food of the land, you shall lift up an offering to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.20",
+      "edition_verse_id": "BSB:NUM.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "From the first of your dough, you are to lift up a cake as a contribution; offer it just like an offering from the threshing floor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.21",
+      "edition_verse_id": "BSB:NUM.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Throughout your generations, you are to give the LORD an offering from the first of your dough.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.22",
+      "edition_verse_id": "BSB:NUM.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Now if you stray unintentionally and do not obey all these commandments that the LORD has spoken to Moses—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.23",
+      "edition_verse_id": "BSB:NUM.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "all that the LORD has commanded you through Moses from the day the LORD gave them and continuing through the generations to come—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.24",
+      "edition_verse_id": "BSB:NUM.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and if it was done unintentionally without the knowledge of the congregation, then the whole congregation is to prepare one young bull as a burnt offering, a pleasing aroma to the LORD, with its grain offering and drink offering according to the regulation, and one male goat as a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.25",
+      "edition_verse_id": "BSB:NUM.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The priest is to make atonement for the whole congregation of Israel, so that they may be forgiven; for the sin was unintentional and they have brought to the LORD a food offering and a sin offering, presented before the LORD for their unintentional sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.26",
+      "edition_verse_id": "BSB:NUM.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then the whole congregation of Israel and the foreigners residing among them will be forgiven, since it happened to all the people unintentionally.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.27",
+      "edition_verse_id": "BSB:NUM.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Also, if one person sins unintentionally, he is to present a year-old female goat as a sin offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.28",
+      "edition_verse_id": "BSB:NUM.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And the priest shall make atonement before the LORD on behalf of the person who erred by sinning unintentionally; and when atonement has been made for him, he will be forgiven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.29",
+      "edition_verse_id": "BSB:NUM.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "You shall have the same law for the one who acts in error, whether he is a native-born Israelite or a foreigner residing among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.30",
+      "edition_verse_id": "BSB:NUM.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But the person who sins defiantly, whether a native or foreigner, blasphemes the LORD. That person shall be cut off from among his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.31",
+      "edition_verse_id": "BSB:NUM.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He shall certainly be cut off, because he has despised the word of the LORD and broken His commandment; his guilt remains on him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.32",
+      "edition_verse_id": "BSB:NUM.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "While the Israelites were in the wilderness, a man was found gathering wood on the Sabbath day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.33",
+      "edition_verse_id": "BSB:NUM.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Those who found the man gathering wood brought him to Moses, Aaron, and the whole congregation,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.34",
+      "edition_verse_id": "BSB:NUM.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "and because it had not been declared what should be done to him, they placed him in custody.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.35",
+      "edition_verse_id": "BSB:NUM.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses, “The man must surely be put to death. The whole congregation is to stone him outside the camp.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.36",
+      "edition_verse_id": "BSB:NUM.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "So the whole congregation took the man outside the camp and stoned him to death, as the LORD had commanded Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.37",
+      "edition_verse_id": "BSB:NUM.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.38",
+      "edition_verse_id": "BSB:NUM.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and tell them that throughout the generations to come they are to make for themselves tassels for the corners of their garments, with a blue cord on each tassel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.39",
+      "edition_verse_id": "BSB:NUM.15.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "These will serve as tassels for you to look at, so that you may remember all the commandments of the LORD, that you may obey them and not prostitute yourselves by following your own heart and your own eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.15.40",
+      "edition_verse_id": "BSB:NUM.15.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Then you will remember and obey all My commandments, and you will be holy to your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.15.41",
+      "edition_verse_id": "BSB:NUM.15.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "I am the LORD your God who brought you out of the land of Egypt to be your God. I am the LORD your God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

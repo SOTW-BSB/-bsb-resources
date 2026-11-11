@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "NUM.10.1",
+      "edition_verse_id": "BSB:NUM.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.2",
+      "edition_verse_id": "BSB:NUM.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Make two trumpets of hammered silver to be used for calling the congregation and for having the camps set out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.3",
+      "edition_verse_id": "BSB:NUM.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When both are sounded, the whole congregation is to assemble before you at the entrance to the Tent of Meeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.4",
+      "edition_verse_id": "BSB:NUM.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But if only one is sounded, then the leaders, the heads of the clans of Israel, are to gather before you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.5",
+      "edition_verse_id": "BSB:NUM.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When you sound short blasts, the camps that lie on the east side are to set out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.6",
+      "edition_verse_id": "BSB:NUM.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When you sound the short blasts a second time, the camps that lie on the south side are to set out. The blasts are to signal them to set out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.7",
+      "edition_verse_id": "BSB:NUM.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "To convene the assembly, you are to sound long blasts, not short ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.8",
+      "edition_verse_id": "BSB:NUM.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The sons of Aaron, the priests, are to sound the trumpets. This shall be a permanent statute for you and the generations to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.9",
+      "edition_verse_id": "BSB:NUM.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When you enter into battle in your land against an adversary who attacks you, sound short blasts on the trumpets, and you will be remembered before the LORD your God and saved from your enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.10",
+      "edition_verse_id": "BSB:NUM.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And on your joyous occasions, your appointed feasts, and the beginning of each month, you are to blow the trumpets over your burnt offerings and peace offerings to serve as a reminder for you before your God. I am the LORD your God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.11",
+      "edition_verse_id": "BSB:NUM.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "On the twentieth day of the second month of the second year, the cloud was lifted from above the tabernacle of the Testimony,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.12",
+      "edition_verse_id": "BSB:NUM.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and the Israelites set out from the Wilderness of Sinai, traveling from place to place until the cloud settled in the Wilderness of Paran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.13",
+      "edition_verse_id": "BSB:NUM.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They set out this first time according to the LORD’s command through Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.14",
+      "edition_verse_id": "BSB:NUM.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "First, the divisions of the camp of Judah set out under their standard, with Nahshon son of Amminadab in command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.15",
+      "edition_verse_id": "BSB:NUM.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Nethanel son of Zuar was over the division of the tribe of Issachar,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.16",
+      "edition_verse_id": "BSB:NUM.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and Eliab son of Helon was over the division of the tribe of Zebulun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.17",
+      "edition_verse_id": "BSB:NUM.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then the tabernacle was taken down, and the Gershonites and the Merarites set out, transporting it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.18",
+      "edition_verse_id": "BSB:NUM.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the divisions of the camp of Reuben set out under their standard, with Elizur son of Shedeur in command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.19",
+      "edition_verse_id": "BSB:NUM.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Shelumiel son of Zurishaddai was over the division of the tribe of Simeon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.20",
+      "edition_verse_id": "BSB:NUM.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "and Eliasaph son of Deuel was over the division of the tribe of Gad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.21",
+      "edition_verse_id": "BSB:NUM.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then the Kohathites set out, transporting the holy objects; the tabernacle was to be set up before their arrival.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.22",
+      "edition_verse_id": "BSB:NUM.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Next, the divisions of the camp of Ephraim set out under their standard, with Elishama son of Ammihud in command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.23",
+      "edition_verse_id": "BSB:NUM.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Gamaliel son of Pedahzur was over the division of the tribe of Manasseh,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.24",
+      "edition_verse_id": "BSB:NUM.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and Abidan son of Gideoni was over the division of the tribe of Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.25",
+      "edition_verse_id": "BSB:NUM.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Finally, the divisions of the camp of Dan set out under their standard, serving as the rear guard for all units, with Ahiezer son of Ammishaddai in command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.26",
+      "edition_verse_id": "BSB:NUM.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Pagiel son of Ocran was over the division of the tribe of Asher,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.27",
+      "edition_verse_id": "BSB:NUM.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and Ahira son of Enan was over the division of the tribe of Naphtali.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.28",
+      "edition_verse_id": "BSB:NUM.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "This was the order of march for the Israelite divisions as they set out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.29",
+      "edition_verse_id": "BSB:NUM.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then Moses said to Hobab, the son of Moses’ father-in-law Reuel the Midianite, “We are setting out for the place of which the LORD said: ‘I will give it to you.’ Come with us, and we will treat you well, for the LORD has promised good things to Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.30",
+      "edition_verse_id": "BSB:NUM.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "“I will not go,” Hobab replied. “Instead, I am going back to my own land and my own people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.31",
+      "edition_verse_id": "BSB:NUM.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "“Please do not leave us,” Moses said, “since you know where we should camp in the wilderness, and you can serve as our eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.32",
+      "edition_verse_id": "BSB:NUM.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "If you come with us, we will share with you whatever good things the LORD gives us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.33",
+      "edition_verse_id": "BSB:NUM.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So they set out on a three-day journey from the mountain of the LORD, with the ark of the covenant of the LORD traveling ahead of them for those three days to seek a resting place for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.34",
+      "edition_verse_id": "BSB:NUM.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And the cloud of the LORD was over them by day when they set out from the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.10.35",
+      "edition_verse_id": "BSB:NUM.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Whenever the ark set out, Moses would say, “Rise up, O LORD! May Your enemies be scattered; may those who hate You flee before You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.10.36",
+      "edition_verse_id": "BSB:NUM.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And when it came to rest, he would say: “Return, O LORD, to the countless thousands of Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

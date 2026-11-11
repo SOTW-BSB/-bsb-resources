@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "NUM.30.1",
+      "edition_verse_id": "BSB:NUM.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Moses said to the heads of the tribes of Israel, “This is what the LORD has commanded:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.30.2",
+      "edition_verse_id": "BSB:NUM.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If a man makes a vow to the LORD or swears an oath to obligate himself by a pledge, he must not break his word; he must do everything he has promised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.3",
+      "edition_verse_id": "BSB:NUM.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And if a woman in her father’s house during her youth makes a vow to the LORD or obligates herself by a pledge,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.30.4",
+      "edition_verse_id": "BSB:NUM.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and her father hears about her vow or pledge but says nothing to her, then all the vows or pledges by which she has bound herself shall stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.5",
+      "edition_verse_id": "BSB:NUM.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But if her father prohibits her on the day he hears about it, then none of the vows or pledges by which she has bound herself shall stand. The LORD will absolve her because her father has prohibited her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.6",
+      "edition_verse_id": "BSB:NUM.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If a woman marries while under a vow or rash promise by which she has bound herself,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.30.7",
+      "edition_verse_id": "BSB:NUM.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and her husband hears of it but says nothing to her on that day, then the vows or pledges by which she has bound herself shall stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.8",
+      "edition_verse_id": "BSB:NUM.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But if her husband prohibits her when he hears of it, he nullifies the vow that binds her or the rash promise she has made, and the LORD will absolve her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.9",
+      "edition_verse_id": "BSB:NUM.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Every vow a widow or divorced woman pledges to fulfill is binding on her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.30.10",
+      "edition_verse_id": "BSB:NUM.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If a woman in her husband’s house has made a vow or put herself under an obligation with an oath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.30.11",
+      "edition_verse_id": "BSB:NUM.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and her husband hears of it but says nothing to her and does not prohibit her, then all the vows or pledges by which she has bound herself shall stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.12",
+      "edition_verse_id": "BSB:NUM.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But if her husband nullifies them on the day he hears of them, then nothing that came from her lips, whether her vows or pledges, shall stand. Her husband has nullified them, and the LORD will absolve her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.13",
+      "edition_verse_id": "BSB:NUM.30.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Her husband may confirm or nullify any vow or any sworn pledge to deny herself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.30.14",
+      "edition_verse_id": "BSB:NUM.30.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But if her husband says nothing to her from day to day, then he confirms all the vows and pledges that bind her. He has confirmed them, because he said nothing to her on the day he heard about them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.15",
+      "edition_verse_id": "BSB:NUM.30.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But if he nullifies them after he hears of them, then he will bear her iniquity.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.30.16",
+      "edition_verse_id": "BSB:NUM.30.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "These are the statutes that the LORD commanded Moses concerning the relationship between a man and his wife, and between a father and a young daughter still in his home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

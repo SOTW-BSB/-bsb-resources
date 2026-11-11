@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "PRO.14.1",
+      "edition_verse_id": "BSB:PRO.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Every wise woman builds her house, but a foolish one tears it down with her own hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.14.2",
+      "edition_verse_id": "BSB:PRO.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He who walks in uprightness fears the LORD, but the one who is devious in his ways despises Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.3",
+      "edition_verse_id": "BSB:PRO.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The proud speech of a fool brings a rod to his back, but the lips of the wise protect them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.4",
+      "edition_verse_id": "BSB:PRO.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Where there are no oxen, the manger is empty, but an abundant harvest comes through the strength of the ox.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.5",
+      "edition_verse_id": "BSB:PRO.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "An honest witness does not deceive, but a dishonest witness pours forth lies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.6",
+      "edition_verse_id": "BSB:PRO.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "A mocker seeks wisdom and finds none, but knowledge comes easily to the discerning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.7",
+      "edition_verse_id": "BSB:PRO.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Stay away from a foolish man; you will gain no knowledge from his speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.8",
+      "edition_verse_id": "BSB:PRO.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The wisdom of the prudent is to discern his way, but the folly of fools deceives them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.9",
+      "edition_verse_id": "BSB:PRO.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Fools mock the making of amends, but goodwill is found among the upright.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.10",
+      "edition_verse_id": "BSB:PRO.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The heart knows its own bitterness, and no stranger shares in its joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.11",
+      "edition_verse_id": "BSB:PRO.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The house of the wicked will be destroyed, but the tent of the upright will flourish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.12",
+      "edition_verse_id": "BSB:PRO.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "There is a way that seems right to a man, but its end is the way of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.13",
+      "edition_verse_id": "BSB:PRO.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Even in laughter the heart may ache, and joy may end in sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.14",
+      "edition_verse_id": "BSB:PRO.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The backslider in heart receives the fill of his own ways, but a good man is rewarded for his ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.15",
+      "edition_verse_id": "BSB:PRO.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The simple man believes every word, but the prudent man watches his steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.16",
+      "edition_verse_id": "BSB:PRO.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "A wise man fears and turns from evil, but a fool is careless and reckless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.17",
+      "edition_verse_id": "BSB:PRO.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "A quick-tempered man acts foolishly, and a devious man is hated.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.18",
+      "edition_verse_id": "BSB:PRO.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The simple inherit folly, but the prudent are crowned with knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.19",
+      "edition_verse_id": "BSB:PRO.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The evil bow before the good, and the wicked at the gates of the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.20",
+      "edition_verse_id": "BSB:PRO.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The poor man is hated even by his neighbor, but many are those who love the rich.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.21",
+      "edition_verse_id": "BSB:PRO.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He who despises his neighbor sins, but blessed is he who shows kindness to the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.22",
+      "edition_verse_id": "BSB:PRO.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Do not those who contrive evil go astray? But those who plan goodness find loving devotion and faithfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.23",
+      "edition_verse_id": "BSB:PRO.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "There is profit in all labor, but mere talk leads only to poverty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.24",
+      "edition_verse_id": "BSB:PRO.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The crown of the wise is their wealth, but the effort of fools is folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.25",
+      "edition_verse_id": "BSB:PRO.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "A truthful witness saves lives, but one who utters lies is deceitful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.26",
+      "edition_verse_id": "BSB:PRO.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He who fears the LORD is secure in confidence, and his children shall have a place of refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.27",
+      "edition_verse_id": "BSB:PRO.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The fear of the LORD is a fountain of life, turning a man from the snares of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.28",
+      "edition_verse_id": "BSB:PRO.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "A large population is a king’s splendor, but a lack of subjects is a prince’s ruin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.29",
+      "edition_verse_id": "BSB:PRO.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "A patient man has great understanding, but a quick-tempered man promotes folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.30",
+      "edition_verse_id": "BSB:PRO.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "A tranquil heart is life to the body, but envy rots the bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.31",
+      "edition_verse_id": "BSB:PRO.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Whoever oppresses the poor taunts their Maker, but whoever is kind to the needy honors Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.32",
+      "edition_verse_id": "BSB:PRO.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The wicked man is thrown down by his own sin, but the righteous man has a refuge even in death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.33",
+      "edition_verse_id": "BSB:PRO.14.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Wisdom rests in the heart of the discerning; even among fools she is known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.34",
+      "edition_verse_id": "BSB:PRO.14.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Righteousness exalts a nation, but sin is a disgrace to any people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.14.35",
+      "edition_verse_id": "BSB:PRO.14.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "A king delights in a wise servant, but his anger falls on the shameful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

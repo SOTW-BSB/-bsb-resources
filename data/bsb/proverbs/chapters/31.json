@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 31,
+  "verses": [
+    {
+      "id": "PRO.31.1",
+      "edition_verse_id": "BSB:PRO.31.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These are the words of King Lemuel — the burden that his mother taught him:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.31.2",
+      "edition_verse_id": "BSB:PRO.31.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "What shall I say, O my son? What, O son of my womb? What, O son of my vows?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.3",
+      "edition_verse_id": "BSB:PRO.31.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Do not spend your strength on women or your vigor on those who ruin kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.4",
+      "edition_verse_id": "BSB:PRO.31.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "It is not for kings, O Lemuel, it is not for kings to drink wine, or for rulers to crave strong drink,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.5",
+      "edition_verse_id": "BSB:PRO.31.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "lest they drink and forget what is decreed, depriving all the oppressed of justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.6",
+      "edition_verse_id": "BSB:PRO.31.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Give strong drink to one who is perishing, and wine to the bitter in soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.7",
+      "edition_verse_id": "BSB:PRO.31.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let him drink and forget his poverty, and remember his misery no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.8",
+      "edition_verse_id": "BSB:PRO.31.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Open your mouth for those with no voice, for the cause of all the dispossessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.9",
+      "edition_verse_id": "BSB:PRO.31.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Open your mouth, judge righteously, and defend the cause of the poor and needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.10",
+      "edition_verse_id": "BSB:PRO.31.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "A wife of noble character, who can find? She is far more precious than rubies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.11",
+      "edition_verse_id": "BSB:PRO.31.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The heart of her husband trusts in her, and he lacks nothing of value.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.12",
+      "edition_verse_id": "BSB:PRO.31.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "She brings him good and not harm all the days of her life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.13",
+      "edition_verse_id": "BSB:PRO.31.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "She selects wool and flax and works with eager hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.14",
+      "edition_verse_id": "BSB:PRO.31.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "She is like the merchant ships, bringing her food from afar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.15",
+      "edition_verse_id": "BSB:PRO.31.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "She rises while it is still night to provide food for her household and portions for her maidservants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.16",
+      "edition_verse_id": "BSB:PRO.31.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "She appraises a field and buys it; from her earnings she plants a vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.17",
+      "edition_verse_id": "BSB:PRO.31.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "She girds herself with strength and shows that her arms are strong.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.18",
+      "edition_verse_id": "BSB:PRO.31.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "She sees that her gain is good, and her lamp is not extinguished at night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.19",
+      "edition_verse_id": "BSB:PRO.31.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "She stretches out her hands to the distaff and grasps the spindle with her fingers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.20",
+      "edition_verse_id": "BSB:PRO.31.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "She opens her arms to the poor and reaches out her hands to the needy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.21",
+      "edition_verse_id": "BSB:PRO.31.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When it snows, she has no fear for her household, for they are all clothed in scarlet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.22",
+      "edition_verse_id": "BSB:PRO.31.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "She makes coverings for her bed; her clothing is fine linen and purple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.23",
+      "edition_verse_id": "BSB:PRO.31.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Her husband is known at the city gates, where he sits among the elders of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.24",
+      "edition_verse_id": "BSB:PRO.31.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "She makes linen garments and sells them; she delivers sashes to the merchants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.25",
+      "edition_verse_id": "BSB:PRO.31.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Strength and honor are her clothing, and she can laugh at the days to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.26",
+      "edition_verse_id": "BSB:PRO.31.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "She opens her mouth with wisdom, and faithful instruction is on her tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.27",
+      "edition_verse_id": "BSB:PRO.31.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "She watches over the affairs of her household and does not eat the bread of idleness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.28",
+      "edition_verse_id": "BSB:PRO.31.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Her children rise up and call her blessed; her husband praises her as well:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.29",
+      "edition_verse_id": "BSB:PRO.31.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "“Many daughters have done noble things, but you surpass them all!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.30",
+      "edition_verse_id": "BSB:PRO.31.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Charm is deceptive and beauty is fleeting, but a woman who fears the LORD is to be praised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.31.31",
+      "edition_verse_id": "BSB:PRO.31.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Give her the fruit of her hands, and let her works praise her at the gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

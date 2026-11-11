@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "NUM.35.1",
+      "edition_verse_id": "BSB:NUM.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Again the LORD spoke to Moses on the plains of Moab by the Jordan across from Jericho:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.2",
+      "edition_verse_id": "BSB:NUM.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Command the Israelites to give, from the inheritance they will possess, cities for the Levites to live in and pasturelands around the cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.3",
+      "edition_verse_id": "BSB:NUM.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The cities will be for them to live in, and the pasturelands will be for their herds, their flocks, and all their other livestock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.4",
+      "edition_verse_id": "BSB:NUM.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The pasturelands around the cities you are to give the Levites will extend a thousand cubits from the wall on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.5",
+      "edition_verse_id": "BSB:NUM.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You are also to measure two thousand cubits outside the city on the east, two thousand on the south, two thousand on the west, and two thousand on the north, with the city in the center. These areas will serve as larger pasturelands for the cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.6",
+      "edition_verse_id": "BSB:NUM.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Six of the cities you give the Levites are to be appointed as cities of refuge, to which a manslayer may flee. In addition to these, give the Levites forty-two other cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.7",
+      "edition_verse_id": "BSB:NUM.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The total number of cities you give the Levites will be forty-eight, with their corresponding pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.8",
+      "edition_verse_id": "BSB:NUM.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The cities that you apportion from the territory of the Israelites should be given to the Levites in proportion to the inheritance of each tribe: more from a larger tribe and less from a smaller one.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.9",
+      "edition_verse_id": "BSB:NUM.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.10",
+      "edition_verse_id": "BSB:NUM.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and tell them: When you cross the Jordan into the land of Canaan,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.11",
+      "edition_verse_id": "BSB:NUM.35.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "designate cities to serve as your cities of refuge, so that a person who kills someone unintentionally may flee there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.12",
+      "edition_verse_id": "BSB:NUM.35.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You are to have these cities as a refuge from the avenger, so that the manslayer will not die until he stands trial before the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.13",
+      "edition_verse_id": "BSB:NUM.35.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The cities you select will be your six cities of refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.14",
+      "edition_verse_id": "BSB:NUM.35.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Select three cities across the Jordan and three in the land of Canaan as cities of refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.15",
+      "edition_verse_id": "BSB:NUM.35.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "These six cities will serve as a refuge for the Israelites and for the foreigner or stranger among them, so that anyone who kills a person unintentionally may flee there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.16",
+      "edition_verse_id": "BSB:NUM.35.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If, however, anyone strikes a person with an iron object and kills him, he is a murderer; the murderer must surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.17",
+      "edition_verse_id": "BSB:NUM.35.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Or if anyone has in his hand a stone of deadly size, and he strikes and kills another, he is a murderer; the murderer must surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.18",
+      "edition_verse_id": "BSB:NUM.35.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If anyone has in his hand a deadly object of wood, and he strikes and kills another, he is a murderer; the murderer must surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.19",
+      "edition_verse_id": "BSB:NUM.35.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The avenger of blood is to put the murderer to death; when he finds him, he is to kill him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.20",
+      "edition_verse_id": "BSB:NUM.35.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Likewise, if anyone maliciously pushes another or intentionally throws an object at him and kills him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.21",
+      "edition_verse_id": "BSB:NUM.35.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "or if in hostility he strikes him with his hand and he dies, the one who struck him must surely be put to death; he is a murderer. When the avenger of blood finds the murderer, he is to kill him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.22",
+      "edition_verse_id": "BSB:NUM.35.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But if anyone pushes a person suddenly, without hostility, or throws an object at him unintentionally,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.23",
+      "edition_verse_id": "BSB:NUM.35.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "or without looking drops a heavy stone that kills him, but he was not an enemy and did not intend to harm him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.24",
+      "edition_verse_id": "BSB:NUM.35.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "then the congregation must judge between the slayer and the avenger of blood according to these ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.25",
+      "edition_verse_id": "BSB:NUM.35.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The assembly is to protect the manslayer from the hand of the avenger of blood. Then the assembly will return him to the city of refuge to which he fled, and he must live there until the death of the high priest, who was anointed with the holy oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.26",
+      "edition_verse_id": "BSB:NUM.35.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But if the manslayer ever goes outside the limits of the city of refuge to which he fled",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.27",
+      "edition_verse_id": "BSB:NUM.35.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and the avenger of blood finds him outside of his city of refuge and kills him, then the avenger will not be guilty of bloodshed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.28",
+      "edition_verse_id": "BSB:NUM.35.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "because the manslayer must remain in his city of refuge until the death of the high priest. Only after the death of the high priest may he return to the land he owns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.29",
+      "edition_verse_id": "BSB:NUM.35.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This will be a statutory ordinance for you for the generations to come, wherever you live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.30",
+      "edition_verse_id": "BSB:NUM.35.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If anyone kills a person, the murderer is to be put to death on the testimony of the witnesses. But no one is to be put to death based on the testimony of a lone witness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.31",
+      "edition_verse_id": "BSB:NUM.35.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "You are not to accept a ransom for the life of a murderer who deserves to die; he must surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.32",
+      "edition_verse_id": "BSB:NUM.35.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Nor should you accept a ransom for the person who flees to a city of refuge and allow him to return and live on his own land before the death of the high priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.33",
+      "edition_verse_id": "BSB:NUM.35.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Do not pollute the land where you live, for bloodshed pollutes the land, and no atonement can be made for the land on which the blood is shed, except by the blood of the one who shed it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.34",
+      "edition_verse_id": "BSB:NUM.35.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Do not defile the land where you live and where I dwell. For I, the LORD, dwell among the Israelites.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

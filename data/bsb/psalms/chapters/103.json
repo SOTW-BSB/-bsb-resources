@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 103,
+  "verses": [
+    {
+      "id": "PSA.103.1",
+      "edition_verse_id": "BSB:PSA.103.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Of David. Bless the LORD, O my soul; all that is within me, bless His holy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.103.2",
+      "edition_verse_id": "BSB:PSA.103.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Bless the LORD, O my soul, and do not forget all His kind deeds —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.3",
+      "edition_verse_id": "BSB:PSA.103.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He who forgives all your iniquities and heals all your diseases,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.4",
+      "edition_verse_id": "BSB:PSA.103.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "who redeems your life from the Pit and crowns you with loving devotion and compassion,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.5",
+      "edition_verse_id": "BSB:PSA.103.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "who satisfies you with good things, so that your youth is renewed like the eagle’s.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.6",
+      "edition_verse_id": "BSB:PSA.103.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The LORD executes righteousness and justice for all the oppressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.7",
+      "edition_verse_id": "BSB:PSA.103.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He made known His ways to Moses, His deeds to the people of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.8",
+      "edition_verse_id": "BSB:PSA.103.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD is compassionate and gracious, slow to anger, abounding in loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.9",
+      "edition_verse_id": "BSB:PSA.103.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He will not always accuse us, nor harbor His anger forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.10",
+      "edition_verse_id": "BSB:PSA.103.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He has not dealt with us according to our sins or repaid us according to our iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.11",
+      "edition_verse_id": "BSB:PSA.103.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.12",
+      "edition_verse_id": "BSB:PSA.103.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As far as the east is from the west, so far has He removed our transgressions from us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.13",
+      "edition_verse_id": "BSB:PSA.103.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "As a father has compassion on his children, so the LORD has compassion on those who fear Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.14",
+      "edition_verse_id": "BSB:PSA.103.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For He knows our frame; He is mindful that we are dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.15",
+      "edition_verse_id": "BSB:PSA.103.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As for man, his days are like grass— he blooms like a flower of the field;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.16",
+      "edition_verse_id": "BSB:PSA.103.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "when the wind passes over, it vanishes, and its place remembers it no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.17",
+      "edition_verse_id": "BSB:PSA.103.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But from everlasting to everlasting the loving devotion of the LORD extends to those who fear Him, and His righteousness to their children’s children —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.18",
+      "edition_verse_id": "BSB:PSA.103.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "to those who keep His covenant and remember to obey His precepts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.19",
+      "edition_verse_id": "BSB:PSA.103.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The LORD has established His throne in heaven, and His kingdom rules over all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.20",
+      "edition_verse_id": "BSB:PSA.103.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Bless the LORD, all His angels mighty in strength who carry out His word, who hearken to the voice of His command.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.21",
+      "edition_verse_id": "BSB:PSA.103.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Bless the LORD, all His hosts, you servants who do His will.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.103.22",
+      "edition_verse_id": "BSB:PSA.103.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Bless the LORD, all His works in all places of His dominion. Bless the LORD, O my soul!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

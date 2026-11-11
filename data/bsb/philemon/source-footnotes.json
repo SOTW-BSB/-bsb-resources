@@ -1,0 +1,33 @@
+{
+  "edition_id": "BSB",
+  "book_code": "PHM",
+  "chapters": {
+    "1": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\fqa You \\ft and \\fqa Your \\ft are singular throughout this letter, except in verses 3, 22, and 25.\\f*",
+          "raw_sha256": "88a2eab6a3560934893594913e2bc7de02b84fcfe0589695dc63c59d2f1dd4de"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\fqa Onesimus \\ft means \\fqa useful \\ft (see verse 11) or \\fqa beneficial \\ft (see verse 20).\\f*",
+          "raw_sha256": "618cad6834eaf1ebd6a5e6e70a9e943d69a38fc37eb337fe5a76901b91ebb92e"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 1:20 \\ft Greek \\fqa onaimēn\\ft , a play on the name \\fqa Onesimus\\f*",
+          "raw_sha256": "f462391f61d54300a7f87f6f7093dff6ce3ac945214406a9606704baa12327fb"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 1:25 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "2d1627c0e290ddcd2ff2ed2e7ca400548dc1f8764e594f0942a1176d28fbba4f"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

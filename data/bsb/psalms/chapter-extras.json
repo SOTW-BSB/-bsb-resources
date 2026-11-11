@@ -1,0 +1,927 @@
+{
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\ms BOOK I",
+        "\\d Psalms 1–41",
+        "\\s1 The Two Paths"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Triumphant Messiah"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Deliver Me, O LORD!",
+        "\\d \\v 1 A Psalm of David, when he fled from his son Absalom."
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Answer Me When I Call!",
+        "\\d \\v 1 For the choirmaster. With stringed instruments. A Psalm of David."
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Give Ear to My Words",
+        "\\d \\v 1 For the choirmaster, to be accompanied by flutes. A Psalm of David."
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Do Not Rebuke Me in Your Anger",
+        "\\d \\v 1 For the choirmaster. With stringed instruments, according to Sheminith.\\f + \\fr 6:1 \\fqa Sheminith\\ft is probably a musical term; here and in \\ref 1 Chronicles 15:21|1CH 15:21\\ref* and Psalm 12:1.\\f* A Psalm of David."
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 I Take Refuge in You",
+        "\\d \\v 1 A Shiggaion\\f + \\fr 7:1 \\fqa Shiggaion \\ft is probably a musical or liturgical term.\\f* of David, which he sang to the LORD concerning the words of Cush, a Benjamite."
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 How Majestic Is Your Name!",
+        "\\d \\v 1 For the choirmaster. According to Gittith.\\f + \\fr 8:1 \\fqa Gittith \\ft is probably a musical or liturgical term; here and in Psalms 81 and 84.\\f* A Psalm of David."
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 I Will Give Thanks to the LORD",
+        "\\d \\v 1 For the choirmaster. To the tune of “The Death of the Son.” A Psalm of David.\\f + \\fr 9:1 \\ft Psalms 9 and 10 together follow an acrostic pattern, each stanza beginning with the successive letters of the Hebrew alphabet. In the LXX they form one psalm.\\f*"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 The Perils of the Pilgrim"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 In the LORD I Take Refuge",
+        "\\d \\v 1 For the choirmaster. Of David."
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Godly Are No More",
+        "\\d \\v 1 For the choirmaster. According to Sheminith.\\f + \\fr 12:1 \\fqa Sheminith\\ft is probably a musical term; here and in \\ref 1 Chronicles 15:21|1CH 15:21\\ref* and Psalm 6:1.\\f* A Psalm of David."
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 How Long, O LORD?",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 The Fool Says There Is No God",
+        "\\d \\v 1 For the choirmaster. Of David."
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Who May Dwell on Your Holy Mountain?",
+        "\\d \\v 1 A Psalm of David."
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 The Presence of the LORD",
+        "\\d \\v 1 A Miktam\\f + \\fr 16:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalm 16 and Psalms 56–60.\\f* of David."
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 Hear My Righteous Plea",
+        "\\d \\v 1 A prayer of David."
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 The LORD Is My Rock",
+        "\\d \\v 1 For the choirmaster. Of David the servant of the LORD, who sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul. He said:"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 The Heavens Declare the Glory of God",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 The Day of Trouble",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 After the Battle",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 The Psalm of the Cross",
+        "\\d \\v 1 For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David."
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 The LORD Is My Shepherd",
+        "\\d \\v 1 A Psalm of David."
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 The Earth Is the LORD’s",
+        "\\d \\v 1 A Psalm of David."
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 To You I Lift Up My Soul",
+        "\\d \\v 1 Of David.\\f + \\fr 25:1 \\ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 Vindicate Me, O LORD",
+        "\\d \\v 1 Of David."
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 The LORD Is My Salvation",
+        "\\d \\v 1 Of David."
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 The LORD Is My Strength",
+        "\\d \\v 1 Of David."
+      ]
+    },
+    "29": {
+      "source_headings": [
+        "\\s1 Ascribe Glory to the LORD",
+        "\\d \\v 1 A Psalm of David."
+      ]
+    },
+    "30": {
+      "source_headings": [
+        "\\s1 You Turned My Mourning into Dancing",
+        "\\d \\v 1 A Psalm. A song for the dedication of the temple. Of David."
+      ]
+    },
+    "31": {
+      "source_headings": [
+        "\\s1 Into Your Hands I Commit My Spirit",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "32": {
+      "source_headings": [
+        "\\s1 The Joy of Forgiveness",
+        "\\d \\v 1 Of David. A Maskil.\\f + \\fr 32:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*"
+      ]
+    },
+    "33": {
+      "source_headings": [
+        "\\s1 Praise to the Creator"
+      ]
+    },
+    "34": {
+      "source_headings": [
+        "\\s1 Taste and See That the LORD Is Good",
+        "\\d \\v 1 Of David, when he pretended to be insane before Abimelech,\\f + \\fr 34:1 \\fqa Abimelech \\ft is another name for \\fqa Achish\\ft ; see 1 Samuel 21–29 and \\ref 1 Kings 2:39|1KI 2:39\\ref*.\\f* so that the king drove him away.\\f + \\fr 34:1 \\ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*"
+      ]
+    },
+    "35": {
+      "source_headings": [
+        "\\s1 Contend with My Opponents, O LORD",
+        "\\d \\v 1 Of David."
+      ]
+    },
+    "36": {
+      "source_headings": [
+        "\\s1 The Transgression of the Wicked",
+        "\\d \\v 1 For the choirmaster. A Psalm of David, the servant of the LORD."
+      ]
+    },
+    "37": {
+      "source_headings": [
+        "\\s1 Delight Yourself in the LORD",
+        "\\d \\v 1 Of David.\\f + \\fr 37:1 \\ft This psalm is an acrostic poem, each stanza beginning with the successive letters of the Hebrew alphabet.\\f*"
+      ]
+    },
+    "38": {
+      "source_headings": [
+        "\\s1 Do Not Rebuke Me in Your Anger",
+        "\\d \\v 1 A Psalm of David, for remembrance."
+      ]
+    },
+    "39": {
+      "source_headings": [
+        "\\s1 I Will Watch My Ways",
+        "\\d \\v 1 For the choirmaster. For Jeduthun. A Psalm of David."
+      ]
+    },
+    "40": {
+      "source_headings": [
+        "\\s1 I Waited Patiently for the LORD",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "41": {
+      "source_headings": [
+        "\\s1 Victory over Betrayal",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "42": {
+      "source_headings": [
+        "\\ms BOOK II",
+        "\\d Psalms 42–72",
+        "\\s1 As the Deer Pants for the Water",
+        "\\d \\v 1 For the choirmaster. A Maskil of the sons of Korah.\\f + \\fr 42:1 \\ft In many Hebrew manuscripts Psalms 42 and 43 constitute one psalm. \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*"
+      ]
+    },
+    "43": {
+      "source_headings": [
+        "\\s1 Send Out Your Light"
+      ]
+    },
+    "44": {
+      "source_headings": [
+        "\\s1 Redeem Us, O God",
+        "\\d \\v 1 For the choirmaster. A Maskil\\f + \\fr 44:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of the sons of Korah."
+      ]
+    },
+    "45": {
+      "source_headings": [
+        "\\s1 My Heart Is Stirred by a Noble Theme",
+        "\\d \\v 1 For the choirmaster. To the tune of “The Lilies.” A Maskil\\f + \\fr 45:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of the sons of Korah. A love song."
+      ]
+    },
+    "46": {
+      "source_headings": [
+        "\\s1 God Is Our Refuge and Strength",
+        "\\d \\v 1 For the choirmaster. Of the sons of Korah. According to Alamoth.\\f + \\fr 46:1 \\fqa Alamoth\\ft is probably a musical or liturgical term; here and in \\ref 1 Chronicles 15:20|1CH 15:20\\ref*.\\f* A song."
+      ]
+    },
+    "47": {
+      "source_headings": [
+        "\\s1 Clap Your Hands, All You Peoples",
+        "\\d \\v 1 For the choirmaster. A Psalm of the sons of Korah."
+      ]
+    },
+    "48": {
+      "source_headings": [
+        "\\s1 Broken Bondage",
+        "\\d \\v 1 A song. A Psalm of the sons of Korah."
+      ]
+    },
+    "49": {
+      "source_headings": [
+        "\\s1 The Evanescence of Wealth",
+        "\\d \\v 1 For the choirmaster. A Psalm of the sons of Korah."
+      ]
+    },
+    "50": {
+      "source_headings": [
+        "\\s1 The Mighty One Calls",
+        "\\d \\v 1 A Psalm of Asaph."
+      ]
+    },
+    "51": {
+      "source_headings": [
+        "\\s1 Create in Me a Clean Heart, O God",
+        "\\d \\v 1 For the choirmaster. A Psalm of David. When Nathan the prophet came to him after his adultery with Bathsheba."
+      ]
+    },
+    "52": {
+      "source_headings": [
+        "\\s1 Why Do You Boast of Evil?",
+        "\\d \\v 1 For the choirmaster. A Maskil\\f + \\fr 52:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of David. After Doeg the Edomite went to Saul and told him, “David has gone to the house of Ahimelech.”"
+      ]
+    },
+    "53": {
+      "source_headings": [
+        "\\s1 The Fool Says There Is No God",
+        "\\d \\v 1 For the choirmaster. According to Mahalath.\\f + \\fr 53:1 \\fqa Mahalath\\ft is probably a musical or liturgical term; see also \\ref Psalm 88:1|PSA 88:1\\ref*.\\f* A Maskil\\f + \\fr 53:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of David."
+      ]
+    },
+    "54": {
+      "source_headings": [
+        "\\s1 Save Me by Your Name",
+        "\\d \\v 1 For the choirmaster. With stringed instruments. A Maskil\\f + \\fr 54:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of David. When the Ziphites went to Saul and said, “Is David not hiding among us?”"
+      ]
+    },
+    "55": {
+      "source_headings": [
+        "\\s1 Cast Your Burden upon the LORD",
+        "\\d \\v 1 For the choirmaster. With stringed instruments. A Maskil\\f + \\fr 55:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of David."
+      ]
+    },
+    "56": {
+      "source_headings": [
+        "\\s1 Be Merciful to Me, O God",
+        "\\d \\v 1 For the choirmaster. To the tune of “A Dove on Distant Oaks.” A Miktam\\f + \\fr 56:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f* of David, when the Philistines seized him in Gath."
+      ]
+    },
+    "57": {
+      "source_headings": [
+        "\\s1 In You My Soul Takes Refuge",
+        "\\d \\v 1 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam\\f + \\fr 57:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f* of David, when he fled from Saul into the cave."
+      ]
+    },
+    "58": {
+      "source_headings": [
+        "\\s1 God Judges the Earth",
+        "\\d \\v 1 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam\\f + \\fr 58:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f* of David."
+      ]
+    },
+    "59": {
+      "source_headings": [
+        "\\s1 Deliver Me from My Enemies",
+        "\\d \\v 1 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam\\f + \\fr 59:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f* of David, when Saul sent men to watch David’s house in order to kill him."
+      ]
+    },
+    "60": {
+      "source_headings": [
+        "\\s1 Victory with God",
+        "\\d \\v 1 For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam\\f + \\fr 60:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f* of David for instruction. When he fought Aram-naharaim\\f + \\fr 60:1 \\ft That is, Mesopotamia; \\fqa Aram-naharaim \\ft means \\fqa Aram of the two rivers\\ft , likely the region between the Euphrates and Balih Rivers in northwestern Mesopotamia.\\f* and Aram-zobah,\\f + \\fr 60:1 \\ft That is, the land northeast of Damascus\\f* and Joab returned and struck down 12,000 Edomites in the Valley of Salt."
+      ]
+    },
+    "61": {
+      "source_headings": [
+        "\\s1 You Have Heard My Vows",
+        "\\d \\v 1 For the choirmaster. With stringed instruments. Of David."
+      ]
+    },
+    "62": {
+      "source_headings": [
+        "\\s1 Waiting on God",
+        "\\d \\v 1 For the choirmaster. According to Jeduthun. A Psalm of David."
+      ]
+    },
+    "63": {
+      "source_headings": [
+        "\\s1 Thirsting for God",
+        "\\d \\v 1 A Psalm of David, when he was in the Wilderness of Judah."
+      ]
+    },
+    "64": {
+      "source_headings": [
+        "\\s1 The Hurtful Tongue",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "65": {
+      "source_headings": [
+        "\\s1 Praise Awaits God in Zion",
+        "\\d \\v 1 For the choirmaster. A Psalm of David. A song."
+      ]
+    },
+    "66": {
+      "source_headings": [
+        "\\s1 Make a Joyful Noise",
+        "\\d \\v 1 For the choirmaster. A song. A Psalm."
+      ]
+    },
+    "67": {
+      "source_headings": [
+        "\\s1 May God Cause His Face to Shine upon Us",
+        "\\d \\v 1 For the choirmaster. With stringed instruments. A Psalm. A song."
+      ]
+    },
+    "68": {
+      "source_headings": [
+        "\\s1 God’s Enemies Are Scattered",
+        "\\d \\v 1 For the choirmaster. A Psalm of David. A song."
+      ]
+    },
+    "69": {
+      "source_headings": [
+        "\\s1 The Waters Are up to My Neck",
+        "\\d \\v 1 For the choirmaster. To the tune of “Lilies.” Of David."
+      ]
+    },
+    "70": {
+      "source_headings": [
+        "\\s1 Hurry, O LORD, to Help Me!",
+        "\\d \\v 1 For the choirmaster. Of David. To bring remembrance."
+      ]
+    },
+    "71": {
+      "source_headings": [
+        "\\s1 Be My Rock of Refuge"
+      ]
+    },
+    "72": {
+      "source_headings": [
+        "\\s1 Endow the King with Your Justice",
+        "\\d \\v 1 Of Solomon."
+      ]
+    },
+    "73": {
+      "source_headings": [
+        "\\ms BOOK III",
+        "\\d Psalms 73–89",
+        "\\s1 Surely God Is Good to Israel",
+        "\\d \\v 1 A Psalm of Asaph."
+      ]
+    },
+    "74": {
+      "source_headings": [
+        "\\s1 Why Have You Rejected Us Forever?",
+        "\\d \\v 1 A Maskil\\f + \\fr 74:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of Asaph."
+      ]
+    },
+    "75": {
+      "source_headings": [
+        "\\s1 God’s Righteous Judgment",
+        "\\d \\v 1 For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song."
+      ]
+    },
+    "76": {
+      "source_headings": [
+        "\\s1 God’s Name Is Great in Israel",
+        "\\d \\v 1 For the choirmaster. With stringed instruments. A Psalm of Asaph. A song."
+      ]
+    },
+    "77": {
+      "source_headings": [
+        "\\s1 In the Day of Trouble I Sought the Lord",
+        "\\d \\v 1 For the choirmaster. According to Jeduthun. A Psalm of Asaph."
+      ]
+    },
+    "78": {
+      "source_headings": [
+        "\\s1 I Will Open My Mouth in Parables",
+        "\\d \\v 1 A Maskil\\f + \\fr 78:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of Asaph."
+      ]
+    },
+    "79": {
+      "source_headings": [
+        "\\s1 A Prayer for Deliverance",
+        "\\d \\v 1 A Psalm of Asaph."
+      ]
+    },
+    "80": {
+      "source_headings": [
+        "\\s1 Hear Us, O Shepherd of Israel",
+        "\\d \\v 1 For the choirmaster. To the tune of “The Lilies of the Covenant.” A Psalm of Asaph."
+      ]
+    },
+    "81": {
+      "source_headings": [
+        "\\s1 Sing for Joy to God Our Strength",
+        "\\d \\v 1 For the choirmaster. According to Gittith.\\f + \\fr 81:1 \\fqa Gittith \\ft is probably a musical or liturgical term; here and in Psalms 8 and 84.\\f* Of Asaph."
+      ]
+    },
+    "82": {
+      "source_headings": [
+        "\\s1 God Presides in the Divine Assembly",
+        "\\d \\v 1 A Psalm of Asaph."
+      ]
+    },
+    "83": {
+      "source_headings": [
+        "\\s1 O God, Be Not Silent",
+        "\\d \\v 1 A song. A Psalm of Asaph."
+      ]
+    },
+    "84": {
+      "source_headings": [
+        "\\s1 Better Is One Day in Your Courts",
+        "\\d \\v 1 For the choirmaster. According to Gittith.\\f + \\fr 84:1 \\fqa Gittith \\ft is probably a musical or liturgical term; here and in Psalms 8 and 81.\\f* A Psalm of the sons of Korah."
+      ]
+    },
+    "85": {
+      "source_headings": [
+        "\\s1 You Showed Favor to Your Land",
+        "\\d \\v 1 For the choirmaster. A Psalm of the sons of Korah."
+      ]
+    },
+    "86": {
+      "source_headings": [
+        "\\s1 Tried but Trusting",
+        "\\d \\v 1 A prayer of David."
+      ]
+    },
+    "87": {
+      "source_headings": [
+        "\\s1 The LORD Loves the Gates of Zion",
+        "\\d \\v 1 A Psalm of the sons of Korah. A song."
+      ]
+    },
+    "88": {
+      "source_headings": [
+        "\\s1 I Cry Out before You",
+        "\\d \\v 1 A song. A Psalm of the sons of Korah. For the choirmaster. According to Mahalath Leannoth.\\f + \\fr 88:1 \\fqa Mahalath Leannoth\\ft is probably a musical or liturgical term; see also \\ref Psalm 53:1|PSA 53:1\\ref*.\\f* A Maskil\\f + \\fr 88:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of Heman the Ezrahite."
+      ]
+    },
+    "89": {
+      "source_headings": [
+        "\\s1 I Will Sing of His Love Forever",
+        "\\d \\v 1 A Maskil\\f + \\fr 89:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of Ethan the Ezrahite."
+      ]
+    },
+    "90": {
+      "source_headings": [
+        "\\ms BOOK IV",
+        "\\d Psalms 90–106",
+        "\\s1 From Everlasting to Everlasting",
+        "\\d \\v 1 A prayer of Moses the man of God."
+      ]
+    },
+    "91": {
+      "source_headings": [
+        "\\s1 You Are My Refuge and My Fortress"
+      ]
+    },
+    "92": {
+      "source_headings": [
+        "\\s1 How Great Are Your Works!",
+        "\\d \\v 1 A Psalm. A song for the Sabbath day."
+      ]
+    },
+    "93": {
+      "source_headings": [
+        "\\s1 The LORD Reigns!"
+      ]
+    },
+    "94": {
+      "source_headings": [
+        "\\s1 The LORD Will Not Forget His People"
+      ]
+    },
+    "95": {
+      "source_headings": [
+        "\\s1 Do Not Harden Your Hearts"
+      ]
+    },
+    "96": {
+      "source_headings": [
+        "\\s1 Sing to the LORD, All the Earth"
+      ]
+    },
+    "97": {
+      "source_headings": [
+        "\\s1 Let the Earth Rejoice"
+      ]
+    },
+    "98": {
+      "source_headings": [
+        "\\s1 Sing to the LORD a New Song",
+        "\\d \\v 1 A Psalm."
+      ]
+    },
+    "99": {
+      "source_headings": [
+        "\\s1 The LORD Reigns!"
+      ]
+    },
+    "100": {
+      "source_headings": [
+        "\\s1 Make a Joyful Noise",
+        "\\d \\v 1 A Psalm of thanksgiving."
+      ]
+    },
+    "101": {
+      "source_headings": [
+        "\\s1 I Will Set No Worthless Thing before My Eyes",
+        "\\d \\v 1 A Psalm of David."
+      ]
+    },
+    "102": {
+      "source_headings": [
+        "\\s1 The Prayer of the Afflicted",
+        "\\d \\v 1 A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD."
+      ]
+    },
+    "103": {
+      "source_headings": [
+        "\\s1 Bless the LORD, O My Soul",
+        "\\d \\v 1 Of David."
+      ]
+    },
+    "104": {
+      "source_headings": [
+        "\\s1 How Many Are Your Works, O LORD!"
+      ]
+    },
+    "105": {
+      "source_headings": [
+        "\\s1 Tell of His Wonders"
+      ]
+    },
+    "106": {
+      "source_headings": [
+        "\\s1 Give Thanks to the LORD, for He Is Good"
+      ]
+    },
+    "107": {
+      "source_headings": [
+        "\\ms BOOK V",
+        "\\d Psalms 107–150",
+        "\\s1 Thanksgiving for Deliverance"
+      ]
+    },
+    "108": {
+      "source_headings": [
+        "\\s1 Israel’s Kingdom Blessing",
+        "\\d \\v 1 A song. A Psalm of David."
+      ]
+    },
+    "109": {
+      "source_headings": [
+        "\\s1 The Song of the Slandered",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "110": {
+      "source_headings": [
+        "\\s1 God’s Faithful Messiah",
+        "\\d \\v 1 A Psalm of David."
+      ]
+    },
+    "111": {
+      "source_headings": [
+        "\\s1 Majestic Is His Work"
+      ]
+    },
+    "112": {
+      "source_headings": [
+        "\\s1 The Blessed Fear of the LORD"
+      ]
+    },
+    "113": {
+      "source_headings": [
+        "\\s1 The LORD Exalts the Humble"
+      ]
+    },
+    "114": {
+      "source_headings": [
+        "\\s1 A Psalm of Exodus"
+      ]
+    },
+    "115": {
+      "source_headings": [
+        "\\s1 To Your Name Be the Glory"
+      ]
+    },
+    "116": {
+      "source_headings": [
+        "\\s1 The LORD Has Heard My Voice"
+      ]
+    },
+    "117": {
+      "source_headings": [
+        "\\s1 Extol Him, All You Peoples"
+      ]
+    },
+    "118": {
+      "source_headings": [
+        "\\s1 The LORD Is on My Side"
+      ]
+    },
+    "119": {
+      "source_headings": [
+        "\\s1 Your Word Is a Lamp to My Feet",
+        "\\qa א",
+        "\\qa ALEPH",
+        "\\qa ב",
+        "\\qa BETH",
+        "\\qa ג",
+        "\\qa GIMEL",
+        "\\qa ד",
+        "\\qa DALETH",
+        "\\qa ה",
+        "\\qa HE",
+        "\\qa ו",
+        "\\qa WAW",
+        "\\qa ז",
+        "\\qa ZAYIN",
+        "\\qa ח",
+        "\\qa HETH",
+        "\\qa ט",
+        "\\qa TETH",
+        "\\qa י",
+        "\\qa YODH",
+        "\\qa כ",
+        "\\qa KAPH",
+        "\\qa ל",
+        "\\qa LAMEDH",
+        "\\qa מ",
+        "\\qa MEM",
+        "\\qa נ",
+        "\\qa NUN",
+        "\\qa ס",
+        "\\qa SAMEKH",
+        "\\qa ע",
+        "\\qa AYIN",
+        "\\qa פ",
+        "\\qa PE",
+        "\\qa צ",
+        "\\qa TZADE",
+        "\\qa ק",
+        "\\qa KOPH",
+        "\\qa ר",
+        "\\qa RESH",
+        "\\qa ש",
+        "\\qa SIN and SHIN",
+        "\\qa ת",
+        "\\qa TAW"
+      ]
+    },
+    "120": {
+      "source_headings": [
+        "\\s1 In My Distress I Cried to the LORD",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "121": {
+      "source_headings": [
+        "\\s1 I Lift Up My Eyes to the Hills",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "122": {
+      "source_headings": [
+        "\\s1 Pray for the Peace of Jerusalem",
+        "\\d \\v 1 A song of ascents. Of David."
+      ]
+    },
+    "123": {
+      "source_headings": [
+        "\\s1 I Lift Up My Eyes to You",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "124": {
+      "source_headings": [
+        "\\s1 Our Help Is in the Name of the LORD",
+        "\\d \\v 1 A song of ascents. Of David."
+      ]
+    },
+    "125": {
+      "source_headings": [
+        "\\s1 The LORD Surrounds His People",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "126": {
+      "source_headings": [
+        "\\s1 Zion’s Captives Restored",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "127": {
+      "source_headings": [
+        "\\s1 Children Are a Heritage from the LORD",
+        "\\d \\v 1 A song of ascents. Of Solomon."
+      ]
+    },
+    "128": {
+      "source_headings": [
+        "\\s1 The Blessed Fear of the LORD",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "129": {
+      "source_headings": [
+        "\\s1 The Cords of the Wicked",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "130": {
+      "source_headings": [
+        "\\s1 Out of the Depths",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "131": {
+      "source_headings": [
+        "\\s1 I Have Stilled My Soul",
+        "\\d \\v 1 A song of ascents. Of David."
+      ]
+    },
+    "132": {
+      "source_headings": [
+        "\\s1 The LORD Has Chosen Zion",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "133": {
+      "source_headings": [
+        "\\s1 How Pleasant to Live in Harmony!",
+        "\\d \\v 1 A song of ascents. Of David."
+      ]
+    },
+    "134": {
+      "source_headings": [
+        "\\s1 Bless the LORD, All You Servants",
+        "\\d \\v 1 A song of ascents."
+      ]
+    },
+    "135": {
+      "source_headings": [
+        "\\s1 Give Praise, O Servants of the LORD"
+      ]
+    },
+    "136": {
+      "source_headings": [
+        "\\s1 His Loving Devotion Endures Forever"
+      ]
+    },
+    "137": {
+      "source_headings": [
+        "\\s1 By the Rivers of Babylon"
+      ]
+    },
+    "138": {
+      "source_headings": [
+        "\\s1 A Thankful Heart",
+        "\\d \\v 1 Of David."
+      ]
+    },
+    "139": {
+      "source_headings": [
+        "\\s1 You Have Searched Me and Known Me",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "140": {
+      "source_headings": [
+        "\\s1 Rescue Me from Evil Men",
+        "\\d \\v 1 For the choirmaster. A Psalm of David."
+      ]
+    },
+    "141": {
+      "source_headings": [
+        "\\s1 Come Quickly to Me",
+        "\\d \\v 1 A Psalm of David."
+      ]
+    },
+    "142": {
+      "source_headings": [
+        "\\s1 I Lift My Voice to the LORD",
+        "\\d \\v 1 A Maskil\\f + \\fr 142:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f* of David, when he was in the cave. A prayer."
+      ]
+    },
+    "143": {
+      "source_headings": [
+        "\\s1 I Stretch Out My Hands to You",
+        "\\d \\v 1 A Psalm of David."
+      ]
+    },
+    "144": {
+      "source_headings": [
+        "\\s1 Blessed Be the LORD, My Rock",
+        "\\d \\v 1 Of David."
+      ]
+    },
+    "145": {
+      "source_headings": [
+        "\\s1 I Will Exalt You, My God and King",
+        "\\d \\v 1 A Psalm of praise. Of David.\\f + \\fr 145:1 \\ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*"
+      ]
+    },
+    "146": {
+      "source_headings": [
+        "\\s1 Praise the LORD, O My Soul"
+      ]
+    },
+    "147": {
+      "source_headings": [
+        "\\s1 It Is Good to Sing Praises"
+      ]
+    },
+    "148": {
+      "source_headings": [
+        "\\s1 Praise the LORD from the Heavens"
+      ]
+    },
+    "149": {
+      "source_headings": [
+        "\\s1 Sing to the LORD a New Song"
+      ]
+    },
+    "150": {
+      "source_headings": [
+        "\\s1 Let Everything That Has Breath Praise the LORD"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

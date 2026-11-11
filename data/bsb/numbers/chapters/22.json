@@ -1,0 +1,500 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "NUM.22.1",
+      "edition_verse_id": "BSB:NUM.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the Israelites traveled on and camped in the plains of Moab near the Jordan, across from Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.2",
+      "edition_verse_id": "BSB:NUM.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now Balak son of Zippor saw all that Israel had done to the Amorites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.3",
+      "edition_verse_id": "BSB:NUM.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and Moab was terrified of the people because they were numerous. Indeed, Moab dreaded the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.4",
+      "edition_verse_id": "BSB:NUM.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So the Moabites said to the elders of Midian, “This horde will devour everything around us, as an ox licks up the grass of the field.” Since Balak son of Zippor was king of Moab at that time,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.5",
+      "edition_verse_id": "BSB:NUM.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "he sent messengers to summon Balaam son of Beor at Pethor, which is by the Euphrates in the land of his people. “Behold, a people has come out of Egypt,” said Balak. “They cover the face of the land and have settled next to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.6",
+      "edition_verse_id": "BSB:NUM.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So please come now and put a curse on this people, because they are too mighty for me. Perhaps I may be able to defeat them and drive them out of the land; for I know that those you bless are blessed, and those you curse are cursed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.7",
+      "edition_verse_id": "BSB:NUM.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The elders of Moab and Midian departed with the fees for divination in hand. They came to Balaam and relayed to him the words of Balak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.8",
+      "edition_verse_id": "BSB:NUM.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Spend the night here,” Balaam replied, “and I will give you the answer that the LORD speaks to me.” So the princes of Moab stayed with Balaam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.9",
+      "edition_verse_id": "BSB:NUM.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then God came to Balaam and asked, “Who are these men with you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.10",
+      "edition_verse_id": "BSB:NUM.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Balaam said to God, “Balak son of Zippor, king of Moab, sent me this message:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.11",
+      "edition_verse_id": "BSB:NUM.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "‘Behold, a people has come out of Egypt, and they cover the face of the land. Now come and put a curse on them for me. Perhaps I may be able to fight against them and drive them away.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.12",
+      "edition_verse_id": "BSB:NUM.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But God said to Balaam, “Do not go with them. You are not to curse this people, for they are blessed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.13",
+      "edition_verse_id": "BSB:NUM.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So Balaam got up the next morning and said to Balak’s princes, “Go back to your homeland, because the LORD has refused to let me go with you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.14",
+      "edition_verse_id": "BSB:NUM.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And the princes of Moab arose, returned to Balak, and said, “Balaam refused to come with us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.15",
+      "edition_verse_id": "BSB:NUM.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then Balak sent other princes, more numerous and more distinguished than the first messengers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.16",
+      "edition_verse_id": "BSB:NUM.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They came to Balaam and said, “This is what Balak son of Zippor says: ‘Please let nothing hinder you from coming to me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.17",
+      "edition_verse_id": "BSB:NUM.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "for I will honor you richly and do whatever you say. So please come and put a curse on this people for me!’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.18",
+      "edition_verse_id": "BSB:NUM.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But Balaam replied to the servants of Balak, “If Balak were to give me his house full of silver and gold, I could not do anything small or great to go beyond the command of the LORD my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.19",
+      "edition_verse_id": "BSB:NUM.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So now, please stay here overnight as the others did, that I may find out what else the LORD has to tell me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.20",
+      "edition_verse_id": "BSB:NUM.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "That night God came to Balaam and said, “Since these men have come to summon you, get up and go with them, but you must only do what I tell you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.21",
+      "edition_verse_id": "BSB:NUM.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So in the morning Balaam got up, saddled his donkey, and went with the princes of Moab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.22",
+      "edition_verse_id": "BSB:NUM.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then God’s anger was kindled because Balaam was going along, and the angel of the LORD stood in the road to oppose him. Balaam was riding his donkey, and his two servants were with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.23",
+      "edition_verse_id": "BSB:NUM.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When the donkey saw the angel of the LORD standing in the road with a drawn sword in his hand, she turned off the path and went into a field. So Balaam beat her to return her to the path.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.24",
+      "edition_verse_id": "BSB:NUM.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then the angel of the LORD stood in a narrow passage between two vineyards, with walls on either side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.25",
+      "edition_verse_id": "BSB:NUM.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the donkey saw the angel of the LORD and pressed herself against the wall, crushing Balaam’s foot against it. So he beat her once again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.26",
+      "edition_verse_id": "BSB:NUM.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the angel of the LORD moved on ahead and stood in a narrow place where there was no room to turn to the right or left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.27",
+      "edition_verse_id": "BSB:NUM.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "When the donkey saw the angel of the LORD, she lay down under Balaam, and he became furious and beat her with his staff.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.28",
+      "edition_verse_id": "BSB:NUM.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then the LORD opened the donkey’s mouth, and she said to Balaam, “What have I done to you that you have beaten me these three times?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.29",
+      "edition_verse_id": "BSB:NUM.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Balaam answered the donkey, “You have made a fool of me! If I had a sword in my hand, I would kill you right now!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.30",
+      "edition_verse_id": "BSB:NUM.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But the donkey said to Balaam, “Am I not the donkey you have ridden all your life until today? Have I ever treated you this way before?” “No,” he replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.31",
+      "edition_verse_id": "BSB:NUM.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then the LORD opened Balaam’s eyes, and he saw the angel of the LORD standing in the road with a drawn sword in his hand. And Balaam bowed low and fell facedown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.32",
+      "edition_verse_id": "BSB:NUM.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The angel of the LORD asked him, “Why have you beaten your donkey these three times? Behold, I have come out to oppose you, because your way is perverse before me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.33",
+      "edition_verse_id": "BSB:NUM.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The donkey saw me and turned away from me these three times. If she had not turned away, then by now I would surely have killed you and let her live.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.34",
+      "edition_verse_id": "BSB:NUM.22.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“I have sinned,” Balaam said to the angel of the LORD, “for I did not realize that you were standing in the road to confront me. And now, if this is displeasing in your sight, I will go back home.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.35",
+      "edition_verse_id": "BSB:NUM.22.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But the angel of the LORD said to Balaam, “Go with the men, but you are to speak only what I tell you.” So Balaam went with the princes of Balak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.36",
+      "edition_verse_id": "BSB:NUM.22.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "When Balak heard that Balaam was coming, he went out to meet him at the Moabite city on the Arnon border, at the edge of his territory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.37",
+      "edition_verse_id": "BSB:NUM.22.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And he said to Balaam, “Did I not send you an urgent summons? Why did you not come to me? Am I really not able to reward you richly?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.38",
+      "edition_verse_id": "BSB:NUM.22.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "“See, I have come to you,” Balaam replied, “but can I say just anything? I must speak only the word that God puts in my mouth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.39",
+      "edition_verse_id": "BSB:NUM.22.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "So Balaam accompanied Balak, and they came to Kiriath-huzoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.22.40",
+      "edition_verse_id": "BSB:NUM.22.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Balak sacrificed cattle and sheep, and he gave portions to Balaam and the princes who were with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.22.41",
+      "edition_verse_id": "BSB:NUM.22.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The next morning, Balak took Balaam and brought him up to Bamoth-baal. From there he could see the outskirts of the camp of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "edition_id": "BSB",
+  "book_code": "OBA",
+  "chapters": {
+    "1": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 1:3 \\ft Or \\fqa in the retreats of Sela\\f*",
+          "raw_sha256": "0ea3d8d007f00dee63228df00a46383f0ebe9813debffd62561a1fc5aa19e477"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 1:7 \\ft Hebrew does not include \\fqa Those who eat\\ft .\\f*",
+          "raw_sha256": "f1ae1cd3be6bfa8a6dadb24b0d205706ca3d76b75aafa587aed728ed7e6fd968"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft Hebrew \\fqa nor enlarge your mouth\\f*",
+          "raw_sha256": "fd1720c9404e7ba99ff8d82b7e716a2c60e3c3d7547fc737796e7f3c3ac1c16f"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 1:19 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "a4be17bab8a890210224ceb443a5acf5f272cab4e36f42c70a6662b4d219035e"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 1:21 \\ft Or \\fqa The deliverers will go up from\\ft ; LXX \\fqa Those being delivered will go up\\f*",
+          "raw_sha256": "366f463fc9129fc055f1fae3ad2c420fac6f166e84894ef36e1a4411d64d08c4"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

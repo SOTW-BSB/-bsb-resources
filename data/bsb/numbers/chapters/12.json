@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "NUM.12.1",
+      "edition_verse_id": "BSB:NUM.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.2",
+      "edition_verse_id": "BSB:NUM.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Does the LORD speak only through Moses?” they said. “Does He not also speak through us?” And the LORD heard this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.3",
+      "edition_verse_id": "BSB:NUM.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now Moses was a very humble man, more so than any man on the face of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.4",
+      "edition_verse_id": "BSB:NUM.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And suddenly the LORD said to Moses, Aaron, and Miriam, “You three, come out to the Tent of Meeting.” So the three went out,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.5",
+      "edition_verse_id": "BSB:NUM.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and the LORD came down in a pillar of cloud, stood at the entrance to the Tent, and summoned Aaron and Miriam. When both of them had stepped forward,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.6",
+      "edition_verse_id": "BSB:NUM.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He said, “Hear now My words: If there is a prophet among you, I, the LORD, will reveal Myself to him in a vision; I will speak to him in a dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.7",
+      "edition_verse_id": "BSB:NUM.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But this is not so with My servant Moses; he is faithful in all My house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.8",
+      "edition_verse_id": "BSB:NUM.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I speak with him face to face, clearly and not in riddles; he sees the form of the LORD. Why then were you unafraid to speak against My servant Moses?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.9",
+      "edition_verse_id": "BSB:NUM.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So the anger of the LORD burned against them, and He departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.10",
+      "edition_verse_id": "BSB:NUM.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "As the cloud lifted from above the Tent, suddenly Miriam became leprous, white as snow. Aaron turned toward her, saw that she was leprous,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.11",
+      "edition_verse_id": "BSB:NUM.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and said to Moses, “My lord, please do not hold against us this sin we have so foolishly committed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.12",
+      "edition_verse_id": "BSB:NUM.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Please do not let her be like a stillborn infant whose flesh is half consumed when he comes out of his mother’s womb.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.12.13",
+      "edition_verse_id": "BSB:NUM.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So Moses cried out to the LORD, “O God, please heal her!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.14",
+      "edition_verse_id": "BSB:NUM.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But the LORD answered Moses, “If her father had but spit in her face, would she not have been in disgrace for seven days? Let her be confined outside the camp for seven days; after that she may be brought back in.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.15",
+      "edition_verse_id": "BSB:NUM.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So Miriam was confined outside the camp for seven days, and the people did not move on until she was brought in again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.12.16",
+      "edition_verse_id": "BSB:NUM.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "After that, the people set out from Hazeroth and camped in the Wilderness of Paran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

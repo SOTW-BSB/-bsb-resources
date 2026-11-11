@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "NUM.17.1",
+      "edition_verse_id": "BSB:NUM.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.17.2",
+      "edition_verse_id": "BSB:NUM.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Speak to the Israelites and take from them twelve staffs, one from the leader of each tribe. Write each man’s name on his staff,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.17.3",
+      "edition_verse_id": "BSB:NUM.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and write Aaron’s name on the staff of Levi, because there must be one staff for the head of each tribe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.17.4",
+      "edition_verse_id": "BSB:NUM.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Place the staffs in the Tent of Meeting in front of the Testimony, where I meet with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.17.5",
+      "edition_verse_id": "BSB:NUM.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The staff belonging to the man I choose will sprout, and I will rid Myself of the constant grumbling of the Israelites against you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.17.6",
+      "edition_verse_id": "BSB:NUM.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So Moses spoke to the Israelites, and each of their leaders gave him a staff — one for each of the leaders of their tribes, twelve staffs in all. And Aaron’s staff was among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.17.7",
+      "edition_verse_id": "BSB:NUM.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Moses placed the staffs before the LORD in the Tent of the Testimony.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.17.8",
+      "edition_verse_id": "BSB:NUM.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The next day Moses entered the Tent of the Testimony and saw that Aaron’s staff, representing the house of Levi, had sprouted, put forth buds, blossomed, and produced almonds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.17.9",
+      "edition_verse_id": "BSB:NUM.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Moses brought out all the staffs from the LORD’s presence to all the Israelites. They saw them, and each man took his own staff.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.17.10",
+      "edition_verse_id": "BSB:NUM.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The LORD said to Moses, “Put Aaron’s staff back in front of the Testimony, to be kept as a sign for the rebellious, so that you may put an end to their grumbling against Me, lest they die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.17.11",
+      "edition_verse_id": "BSB:NUM.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Moses did as the LORD had commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.17.12",
+      "edition_verse_id": "BSB:NUM.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the Israelites declared to Moses, “Look, we are perishing! We are lost; we are all lost!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.17.13",
+      "edition_verse_id": "BSB:NUM.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Anyone who comes near the tabernacle of the LORD will die. Are we all going to perish?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

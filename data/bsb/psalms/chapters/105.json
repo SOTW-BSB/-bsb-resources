@@ -1,0 +1,548 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 105,
+  "verses": [
+    {
+      "id": "PSA.105.1",
+      "edition_verse_id": "BSB:PSA.105.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Give thanks to the LORD, call upon His name; make known His deeds among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.105.2",
+      "edition_verse_id": "BSB:PSA.105.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sing to Him, sing praises to Him; tell of all His wonders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.3",
+      "edition_verse_id": "BSB:PSA.105.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Glory in His holy name; let the hearts of those who seek the LORD rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.4",
+      "edition_verse_id": "BSB:PSA.105.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Seek out the LORD and His strength; seek His face always.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.5",
+      "edition_verse_id": "BSB:PSA.105.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Remember the wonders He has done, His marvels, and the judgments He has pronounced,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.6",
+      "edition_verse_id": "BSB:PSA.105.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O offspring of His servant Abraham, O sons of Jacob, His chosen ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.7",
+      "edition_verse_id": "BSB:PSA.105.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He is the LORD our God; His judgments carry throughout the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.8",
+      "edition_verse_id": "BSB:PSA.105.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He remembers His covenant forever, the word He ordained for a thousand generations—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.9",
+      "edition_verse_id": "BSB:PSA.105.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "the covenant He made with Abraham, and the oath He swore to Isaac.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.10",
+      "edition_verse_id": "BSB:PSA.105.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.11",
+      "edition_verse_id": "BSB:PSA.105.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“I will give you the land of Canaan as the portion of your inheritance.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.12",
+      "edition_verse_id": "BSB:PSA.105.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When they were few in number, few indeed, and strangers in the land,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.13",
+      "edition_verse_id": "BSB:PSA.105.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "they wandered from nation to nation, from one kingdom to another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.14",
+      "edition_verse_id": "BSB:PSA.105.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He let no man oppress them; He rebuked kings on their behalf:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.15",
+      "edition_verse_id": "BSB:PSA.105.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Do not touch My anointed ones! Do no harm to My prophets!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.16",
+      "edition_verse_id": "BSB:PSA.105.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He called down famine on the land and cut off all their supplies of food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.17",
+      "edition_verse_id": "BSB:PSA.105.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He sent a man before them— Joseph, sold as a slave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.18",
+      "edition_verse_id": "BSB:PSA.105.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They bruised his feet with shackles and placed his neck in irons,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.19",
+      "edition_verse_id": "BSB:PSA.105.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "until his prediction came true and the word of the LORD proved him right.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.20",
+      "edition_verse_id": "BSB:PSA.105.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The king sent and released him; the ruler of peoples set him free.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.21",
+      "edition_verse_id": "BSB:PSA.105.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He made him master of his household, ruler over all his substance,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.22",
+      "edition_verse_id": "BSB:PSA.105.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "to instruct his princes as he pleased and teach his elders wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.23",
+      "edition_verse_id": "BSB:PSA.105.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then Israel entered Egypt; Jacob dwelt in the land of Ham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.24",
+      "edition_verse_id": "BSB:PSA.105.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the LORD made His people very fruitful, more numerous than their foes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.25",
+      "edition_verse_id": "BSB:PSA.105.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "whose hearts He turned to hate His people, to conspire against His servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.26",
+      "edition_verse_id": "BSB:PSA.105.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He sent Moses His servant, and Aaron, whom He had chosen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.27",
+      "edition_verse_id": "BSB:PSA.105.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They performed His miraculous signs among them, and wonders in the land of Ham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.28",
+      "edition_verse_id": "BSB:PSA.105.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He sent darkness, and it became dark— yet they defied His words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.29",
+      "edition_verse_id": "BSB:PSA.105.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He turned their waters to blood and caused their fish to die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.30",
+      "edition_verse_id": "BSB:PSA.105.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Their land teemed with frogs, even in their royal chambers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.31",
+      "edition_verse_id": "BSB:PSA.105.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He spoke, and insects swarmed— gnats throughout their country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.32",
+      "edition_verse_id": "BSB:PSA.105.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He gave them hail for rain, with lightning throughout their land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.33",
+      "edition_verse_id": "BSB:PSA.105.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He struck their vines and fig trees and shattered the trees of their country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.34",
+      "edition_verse_id": "BSB:PSA.105.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He spoke, and the locusts came— young locusts without number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.35",
+      "edition_verse_id": "BSB:PSA.105.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "They devoured every plant in their land and consumed the produce of their soil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.36",
+      "edition_verse_id": "BSB:PSA.105.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then He struck all the firstborn in their land, the firstfruits of all their vigor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.37",
+      "edition_verse_id": "BSB:PSA.105.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "He brought Israel out with silver and gold, and none among His tribes stumbled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.38",
+      "edition_verse_id": "BSB:PSA.105.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Egypt was glad when they departed, for the dread of Israel had fallen on them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.39",
+      "edition_verse_id": "BSB:PSA.105.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "He spread a cloud as a covering and a fire to light up the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.40",
+      "edition_verse_id": "BSB:PSA.105.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "They asked, and He brought quail and satisfied them with the bread of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.41",
+      "edition_verse_id": "BSB:PSA.105.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "He opened a rock, and water gushed out; it flowed like a river in the desert.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.42",
+      "edition_verse_id": "BSB:PSA.105.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "For He remembered His holy promise to Abraham His servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.43",
+      "edition_verse_id": "BSB:PSA.105.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "He brought forth His people with rejoicing, His chosen with shouts of joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.44",
+      "edition_verse_id": "BSB:PSA.105.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "He gave them the lands of the nations, that they might inherit the fruit of others’ labor,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.105.45",
+      "edition_verse_id": "BSB:PSA.105.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "that they might keep His statutes and obey His laws. Hallelujah!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "NUM.14.1",
+      "edition_verse_id": "BSB:NUM.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the whole congregation lifted up their voices and cried out, and that night the people wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.2",
+      "edition_verse_id": "BSB:NUM.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "All the Israelites grumbled against Moses and Aaron, and the whole congregation said to them, “If only we had died in the land of Egypt, or if only we had died in this wilderness!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.3",
+      "edition_verse_id": "BSB:NUM.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Why is the LORD bringing us into this land to fall by the sword? Our wives and children will become plunder. Would it not be better for us to go back to Egypt?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.4",
+      "edition_verse_id": "BSB:NUM.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So they said to one another, “Let us appoint a leader and return to Egypt.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.5",
+      "edition_verse_id": "BSB:NUM.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then Moses and Aaron fell facedown before the whole assembly of the congregation of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.6",
+      "edition_verse_id": "BSB:NUM.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Joshua son of Nun and Caleb son of Jephunneh, who were among those who had spied out the land, tore their clothes",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.7",
+      "edition_verse_id": "BSB:NUM.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and said to the whole congregation of Israel, “The land we passed through and explored is an exceedingly good land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.8",
+      "edition_verse_id": "BSB:NUM.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If the LORD delights in us, He will bring us into this land, a land flowing with milk and honey, and He will give it to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.9",
+      "edition_verse_id": "BSB:NUM.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Only do not rebel against the LORD, and do not be afraid of the people of the land, for they will be like bread for us. Their protection has been removed, and the LORD is with us. Do not be afraid of them!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.10",
+      "edition_verse_id": "BSB:NUM.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But the whole congregation threatened to stone Joshua and Caleb. Then the glory of the LORD appeared to all the Israelites at the Tent of Meeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.11",
+      "edition_verse_id": "BSB:NUM.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses, “How long will this people treat Me with contempt? How long will they refuse to believe in Me, despite all the signs I have performed among them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.12",
+      "edition_verse_id": "BSB:NUM.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will strike them with a plague and destroy them — and I will make you into a nation greater and mightier than they are.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.13",
+      "edition_verse_id": "BSB:NUM.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But Moses said to the LORD, “The Egyptians will hear of it, for by Your strength You brought this people from among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.14",
+      "edition_verse_id": "BSB:NUM.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And they will tell it to the inhabitants of this land. They have already heard that You, O LORD, are in the midst of this people, that You, O LORD, have been seen face to face, that Your cloud stands over them, and that You go before them in a pillar of cloud by day and a pillar of fire by night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.15",
+      "edition_verse_id": "BSB:NUM.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If You kill this people as one man, the nations who have heard of Your fame will say,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.16",
+      "edition_verse_id": "BSB:NUM.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "‘Because the LORD was unable to bring this people into the land He swore to give them, He has slaughtered them in the wilderness.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.17",
+      "edition_verse_id": "BSB:NUM.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So now I pray, may the power of my Lord be magnified, just as You have declared:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.18",
+      "edition_verse_id": "BSB:NUM.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "‘The LORD is slow to anger and abounding in loving devotion, forgiving iniquity and transgression. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers upon their children to the third and fourth generation.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.19",
+      "edition_verse_id": "BSB:NUM.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Pardon, I pray, the iniquity of this people, in keeping with the greatness of Your loving devotion, just as You have forgiven them ever since they left Egypt.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.20",
+      "edition_verse_id": "BSB:NUM.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“I have pardoned them as you requested,” the LORD replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.21",
+      "edition_verse_id": "BSB:NUM.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Yet as surely as I live and as surely as the whole earth is filled with the glory of the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.22",
+      "edition_verse_id": "BSB:NUM.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "not one of the men who have seen My glory and the signs I performed in Egypt and in the wilderness — yet have tested Me and disobeyed Me these ten times —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.23",
+      "edition_verse_id": "BSB:NUM.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "not one will ever see the land that I swore to give their fathers. None of those who have treated Me with contempt will see it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.24",
+      "edition_verse_id": "BSB:NUM.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But because My servant Caleb has a different spirit and has followed Me wholeheartedly, I will bring him into the land he has entered, and his descendants will inherit it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.25",
+      "edition_verse_id": "BSB:NUM.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now since the Amalekites and Canaanites are living in the valleys, turn back tomorrow and head for the wilderness along the route to the Red Sea.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.26",
+      "edition_verse_id": "BSB:NUM.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses and Aaron,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.27",
+      "edition_verse_id": "BSB:NUM.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "“How long will this wicked congregation grumble against Me? I have heard the complaints that the Israelites are making against Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.28",
+      "edition_verse_id": "BSB:NUM.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So tell them: As surely as I live, declares the LORD, I will do to you exactly as I heard you say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.29",
+      "edition_verse_id": "BSB:NUM.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Your bodies will fall in this wilderness— all who were numbered in the census, everyone twenty years of age or older— because you have grumbled against Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.30",
+      "edition_verse_id": "BSB:NUM.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Surely none of you will enter the land in which I swore to settle you, except Caleb son of Jephunneh and Joshua son of Nun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.31",
+      "edition_verse_id": "BSB:NUM.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But I will bring your children, whom you said would become plunder, into the land you have rejected — and they will enjoy it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.32",
+      "edition_verse_id": "BSB:NUM.14.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "As for you, however, your bodies will fall in this wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.33",
+      "edition_verse_id": "BSB:NUM.14.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Your children will be shepherds in the wilderness for forty years, and they will suffer for your unfaithfulness until the last of your bodies lies in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.34",
+      "edition_verse_id": "BSB:NUM.14.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "In keeping with the forty days you spied out the land, you shall bear your guilt forty years — a year for each day — and you will experience My alienation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.35",
+      "edition_verse_id": "BSB:NUM.14.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "I, the LORD, have spoken, and I will surely do these things to this entire wicked congregation, which has conspired against Me. They will meet their end in the wilderness, and there they will die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.36",
+      "edition_verse_id": "BSB:NUM.14.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "So the men Moses had sent to spy out the land, who had returned and made the whole congregation grumble against him by bringing out a bad report about the land—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.37",
+      "edition_verse_id": "BSB:NUM.14.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "those men who had brought out the bad report about the land— were struck down by a plague before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.38",
+      "edition_verse_id": "BSB:NUM.14.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Of those men who had gone to spy out the land, only Joshua son of Nun and Caleb son of Jephunneh remained alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.39",
+      "edition_verse_id": "BSB:NUM.14.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "And when Moses relayed these words to all the Israelites, the people mourned bitterly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.40",
+      "edition_verse_id": "BSB:NUM.14.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Early the next morning they got up and went up toward the ridge of the hill country. “We have indeed sinned,” they said, “but we will go to the place the LORD has promised.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.41",
+      "edition_verse_id": "BSB:NUM.14.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "But Moses said, “Why are you transgressing the commandment of the LORD? This will not succeed!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.42",
+      "edition_verse_id": "BSB:NUM.14.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Do not go up, lest you be struck down by your enemies, because the LORD is not among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.43",
+      "edition_verse_id": "BSB:NUM.14.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "For there the Amalekites and Canaanites will face you, and you will fall by the sword. Because you have turned away from the LORD, He will not be with you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.14.44",
+      "edition_verse_id": "BSB:NUM.14.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "But they dared to go up to the ridge of the hill country, though neither Moses nor the ark of the covenant of the LORD moved from the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.14.45",
+      "edition_verse_id": "BSB:NUM.14.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then the Amalekites and Canaanites who lived in that part of the hill country came down, attacked them, and routed them all the way to Hormah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

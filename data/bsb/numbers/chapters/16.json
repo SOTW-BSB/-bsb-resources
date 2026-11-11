@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "NUM.16.1",
+      "edition_verse_id": "BSB:NUM.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Korah son of Izhar, the son of Kohath son of Levi, along with some Reubenites — Dathan and Abiram, sons of Eliab, and On son of Peleth — conducted",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.2",
+      "edition_verse_id": "BSB:NUM.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "a rebellion against Moses, along with 250 men of Israel renowned as leaders of the congregation and representatives in the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.3",
+      "edition_verse_id": "BSB:NUM.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They came together against Moses and Aaron and told them, “You have taken too much upon yourselves! For everyone in the entire congregation is holy, and the LORD is in their midst. Why then do you exalt yourselves above the assembly of the LORD?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.4",
+      "edition_verse_id": "BSB:NUM.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When Moses heard this, he fell facedown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.5",
+      "edition_verse_id": "BSB:NUM.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then he said to Korah and all his followers, “Tomorrow morning the LORD will reveal who belongs to Him and who is holy, and He will bring that person near to Himself. The one He chooses He will bring near to Himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.6",
+      "edition_verse_id": "BSB:NUM.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You, Korah, and all your followers are to do as follows: Take censers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.7",
+      "edition_verse_id": "BSB:NUM.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and tomorrow you are to place fire and incense in them in the presence of the LORD. Then the man the LORD chooses will be the one who is holy. It is you sons of Levi who have taken too much upon yourselves!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.8",
+      "edition_verse_id": "BSB:NUM.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Moses also said to Korah, “Now listen, you sons of Levi!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.9",
+      "edition_verse_id": "BSB:NUM.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Is it not enough for you that the God of Israel has separated you from the congregation of Israel and brought you near to Himself to perform the work at the LORD’s tabernacle, and to stand before the congregation to minister to them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.10",
+      "edition_verse_id": "BSB:NUM.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He has brought you near, you and all your fellow Levites, but you are seeking the priesthood as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.11",
+      "edition_verse_id": "BSB:NUM.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore, it is you and all your followers who have conspired against the LORD! As for Aaron, who is he that you should grumble against him?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.12",
+      "edition_verse_id": "BSB:NUM.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then Moses summoned Dathan and Abiram, the sons of Eliab, but they said, “We will not come!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.13",
+      "edition_verse_id": "BSB:NUM.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Is it not enough that you have brought us up out of a land flowing with milk and honey to kill us in the wilderness? Must you also appoint yourself as ruler over us?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.14",
+      "edition_verse_id": "BSB:NUM.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Moreover, you have not brought us into a land flowing with milk and honey or given us an inheritance of fields and vineyards. Will you gouge out the eyes of these men? No, we will not come!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.15",
+      "edition_verse_id": "BSB:NUM.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then Moses became very angry and said to the LORD, “Do not regard their offering. I have not taken one donkey from them or mistreated a single one of them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.16",
+      "edition_verse_id": "BSB:NUM.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Moses said to Korah, “You and all your followers are to appear before the LORD tomorrow— you and they and Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.17",
+      "edition_verse_id": "BSB:NUM.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Each man is to take his censer, place incense in it, and present it before the LORD— 250 censers. You and Aaron are to present your censers as well.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.18",
+      "edition_verse_id": "BSB:NUM.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So each man took his censer, put fire and incense in it, and stood with Moses and Aaron at the entrance to the Tent of Meeting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.19",
+      "edition_verse_id": "BSB:NUM.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "When Korah had gathered his whole assembly against them at the entrance to the Tent of Meeting, the glory of the LORD appeared to the whole congregation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.20",
+      "edition_verse_id": "BSB:NUM.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the LORD said to Moses and Aaron,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.21",
+      "edition_verse_id": "BSB:NUM.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Separate yourselves from this congregation so that I may consume them in an instant.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.22",
+      "edition_verse_id": "BSB:NUM.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But Moses and Aaron fell facedown and said, “O God, the God of the spirits of all flesh, when one man sins, will You be angry with the whole congregation?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.23",
+      "edition_verse_id": "BSB:NUM.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.24",
+      "edition_verse_id": "BSB:NUM.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“Tell the congregation to move away from the dwellings of Korah, Dathan, and Abiram.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.25",
+      "edition_verse_id": "BSB:NUM.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So Moses got up and went to Dathan and Abiram, and the elders of Israel followed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.26",
+      "edition_verse_id": "BSB:NUM.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he warned the congregation, “Move away now from the tents of these wicked men. Do not touch anything that belongs to them, or you will be swept away because of all their sins.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.27",
+      "edition_verse_id": "BSB:NUM.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So they moved away from the dwellings of Korah, Dathan, and Abiram. Meanwhile, Dathan and Abiram had come out and stood at the entrances to their tents with their wives and children and infants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.28",
+      "edition_verse_id": "BSB:NUM.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then Moses said, “This is how you will know that the LORD has sent me to do all these things, for it was not my own doing:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.29",
+      "edition_verse_id": "BSB:NUM.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "If these men die a natural death, or if they suffer the fate of all men, then the LORD has not sent me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.30",
+      "edition_verse_id": "BSB:NUM.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But if the LORD brings about something unprecedented, and the earth opens its mouth and swallows them and all that belongs to them so that they go down alive into Sheol, then you will know that these men have treated the LORD with contempt.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.31",
+      "edition_verse_id": "BSB:NUM.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "As soon as Moses had finished saying all this, the ground beneath them split open,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.32",
+      "edition_verse_id": "BSB:NUM.16.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "and the earth opened its mouth and swallowed them and their households — all Korah’s men and all their possessions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.33",
+      "edition_verse_id": "BSB:NUM.16.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "They went down alive into Sheol with all they owned. The earth closed over them, and they vanished from the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.34",
+      "edition_verse_id": "BSB:NUM.16.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "At their cries, all the people of Israel who were around them fled, saying, “The earth may swallow us too!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.35",
+      "edition_verse_id": "BSB:NUM.16.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And fire came forth from the LORD and consumed the 250 men who were offering the incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.36",
+      "edition_verse_id": "BSB:NUM.16.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.37",
+      "edition_verse_id": "BSB:NUM.16.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "“Tell Eleazar son of Aaron the priest to remove the censers from the flames and to scatter the coals far away, because the censers are holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.38",
+      "edition_verse_id": "BSB:NUM.16.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "As for the censers of those who sinned at the cost of their own lives, hammer them into sheets to overlay the altar, for these were presented before the LORD, and so have become holy. They will serve as a sign to the Israelites.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.39",
+      "edition_verse_id": "BSB:NUM.16.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "So Eleazar the priest took the bronze censers brought by those who had been burned up, and he had them hammered out to overlay the altar,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.40",
+      "edition_verse_id": "BSB:NUM.16.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "just as the LORD commanded him through Moses. This was to be a reminder to the Israelites that no outsider who is not a descendant of Aaron should approach to offer incense before the LORD, lest he become like Korah and his followers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.41",
+      "edition_verse_id": "BSB:NUM.16.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The next day the whole congregation of Israel grumbled against Moses and Aaron, saying, “You have killed the LORD’s people!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.42",
+      "edition_verse_id": "BSB:NUM.16.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "But when the congregation gathered against them, Moses and Aaron turned toward the Tent of Meeting, and suddenly the cloud covered it and the glory of the LORD appeared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.43",
+      "edition_verse_id": "BSB:NUM.16.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Then Moses and Aaron went to the front of the Tent of Meeting,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.44",
+      "edition_verse_id": "BSB:NUM.16.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "and the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.45",
+      "edition_verse_id": "BSB:NUM.16.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "“Get away from this congregation so that I may consume them in an instant.” And Moses and Aaron fell facedown.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.46",
+      "edition_verse_id": "BSB:NUM.16.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Moses said to Aaron, “Take your censer, place fire from the altar in it, and add incense. Go quickly to the congregation and make atonement for them, because wrath has come out from the LORD; the plague has begun.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.47",
+      "edition_verse_id": "BSB:NUM.16.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "So Aaron took the censer as Moses had ordered and ran into the midst of the assembly. And seeing that the plague had begun among the people, he offered the incense and made atonement for the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.16.48",
+      "edition_verse_id": "BSB:NUM.16.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "He stood between the living and the dead, and the plague was halted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.49",
+      "edition_verse_id": "BSB:NUM.16.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "But those who died from the plague numbered 14,700, in addition to those who had died on account of Korah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.16.50",
+      "edition_verse_id": "BSB:NUM.16.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Then Aaron returned to Moses at the entrance to the Tent of Meeting, since the plague had been halted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

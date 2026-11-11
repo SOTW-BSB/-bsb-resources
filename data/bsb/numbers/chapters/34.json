@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 34,
+  "verses": [
+    {
+      "id": "NUM.34.1",
+      "edition_verse_id": "BSB:NUM.34.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.34.2",
+      "edition_verse_id": "BSB:NUM.34.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Command the Israelites and say to them: When you enter the land of Canaan, it will be allotted to you as an inheritance with these boundaries:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.3",
+      "edition_verse_id": "BSB:NUM.34.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Your southern border will extend from the Wilderness of Zin along the border of Edom. On the east, your southern border will run from the end of the Salt Sea,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.4",
+      "edition_verse_id": "BSB:NUM.34.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-barnea. Then it will go on to Hazar-addar and proceed to Azmon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.5",
+      "edition_verse_id": "BSB:NUM.34.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "where it will turn from Azmon, join the Brook of Egypt, and end at the Sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.6",
+      "edition_verse_id": "BSB:NUM.34.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Your western border will be the coastline of the Great Sea; this will be your boundary on the west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.7",
+      "edition_verse_id": "BSB:NUM.34.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Your northern border will run from the Great Sea directly to Mount Hor,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.8",
+      "edition_verse_id": "BSB:NUM.34.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and from Mount Hor to Lebo-hamath, then extend to Zedad,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.9",
+      "edition_verse_id": "BSB:NUM.34.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "continue to Ziphron, and end at Hazar-enan. This will be your boundary on the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.10",
+      "edition_verse_id": "BSB:NUM.34.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And your eastern border will run straight from Hazar-enan to Shepham,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.11",
+      "edition_verse_id": "BSB:NUM.34.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "then go down from Shepham to Riblah on the east side of Ain and continue along the slopes east of the Sea of Chinnereth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.12",
+      "edition_verse_id": "BSB:NUM.34.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the border will go down along the Jordan and end at the Salt Sea. This will be your land, defined by its borders on all sides.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.13",
+      "edition_verse_id": "BSB:NUM.34.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So Moses commanded the Israelites, “Apportion this land by lot as an inheritance. The LORD has commanded that it be given to the nine and a half tribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.34.14",
+      "edition_verse_id": "BSB:NUM.34.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the tribes of the Reubenites and Gadites, along with the half-tribe of Manasseh, have already received their inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.15",
+      "edition_verse_id": "BSB:NUM.34.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "These two and a half tribes have received their inheritance across the Jordan from Jericho, toward the sunrise.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.16",
+      "edition_verse_id": "BSB:NUM.34.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the LORD said to Moses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.34.17",
+      "edition_verse_id": "BSB:NUM.34.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“These are the names of the men who are to assign the land as an inheritance for you: Eleazar the priest and Joshua son of Nun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.18",
+      "edition_verse_id": "BSB:NUM.34.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Appoint one leader from each tribe to distribute the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.19",
+      "edition_verse_id": "BSB:NUM.34.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "These are their names: Caleb son of Jephunneh from the tribe of Judah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.20",
+      "edition_verse_id": "BSB:NUM.34.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Shemuel son of Ammihud from the tribe of Simeon;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.21",
+      "edition_verse_id": "BSB:NUM.34.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Elidad son of Chislon from the tribe of Benjamin;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.22",
+      "edition_verse_id": "BSB:NUM.34.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Bukki son of Jogli, a leader from the tribe of Dan;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.23",
+      "edition_verse_id": "BSB:NUM.34.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Hanniel son of Ephod, a leader from the tribe of Manasseh son of Joseph;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.24",
+      "edition_verse_id": "BSB:NUM.34.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Kemuel son of Shiphtan, a leader from the tribe of Ephraim;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.25",
+      "edition_verse_id": "BSB:NUM.34.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Eli-zaphan son of Parnach, a leader from the tribe of Zebulun;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.26",
+      "edition_verse_id": "BSB:NUM.34.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Paltiel son of Azzan, a leader from the tribe of Issachar;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.27",
+      "edition_verse_id": "BSB:NUM.34.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Ahihud son of Shelomi, a leader from the tribe of Asher;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.28",
+      "edition_verse_id": "BSB:NUM.34.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "and Pedahel son of Ammihud, a leader from the tribe of Naphtali.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.34.29",
+      "edition_verse_id": "BSB:NUM.34.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "These are the ones whom the LORD commanded to apportion the inheritance to the Israelites in the land of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

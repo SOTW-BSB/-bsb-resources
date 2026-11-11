@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "PRO.5.1",
+      "edition_verse_id": "BSB:PRO.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "My son, pay attention to my wisdom; incline your ear to my insight,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.5.2",
+      "edition_verse_id": "BSB:PRO.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that you may maintain discretion and your lips may preserve knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.3",
+      "edition_verse_id": "BSB:PRO.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Though the lips of the forbidden woman drip honey and her speech is smoother than oil,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.4",
+      "edition_verse_id": "BSB:PRO.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "in the end she is bitter as wormwood, sharp as a double-edged sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.5",
+      "edition_verse_id": "BSB:PRO.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Her feet go down to death; her steps lead straight to Sheol.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.6",
+      "edition_verse_id": "BSB:PRO.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "She does not consider the path of life; she does not know that her ways are unstable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.7",
+      "edition_verse_id": "BSB:PRO.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So now, my sons, listen to me, and do not turn aside from the words of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.8",
+      "edition_verse_id": "BSB:PRO.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Keep your path far from her; do not go near the door of her house,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.9",
+      "edition_verse_id": "BSB:PRO.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "lest you concede your vigor to others, and your years to one who is cruel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.10",
+      "edition_verse_id": "BSB:PRO.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "lest strangers feast on your wealth, and your labors enrich the house of a foreigner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.11",
+      "edition_verse_id": "BSB:PRO.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "At the end of your life you will groan when your flesh and your body are spent,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.12",
+      "edition_verse_id": "BSB:PRO.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and you will say, “How I hated discipline, and my heart despised reproof!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.13",
+      "edition_verse_id": "BSB:PRO.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I did not listen to the voice of my teachers or incline my ear to my mentors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.14",
+      "edition_verse_id": "BSB:PRO.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I am on the brink of utter ruin in the midst of the whole assembly.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.15",
+      "edition_verse_id": "BSB:PRO.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Drink water from your own cistern, and running water from your own well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.16",
+      "edition_verse_id": "BSB:PRO.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Why should your springs flow in the streets, your streams of water in the public squares?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.17",
+      "edition_verse_id": "BSB:PRO.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Let them be yours alone, never to be shared with strangers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.18",
+      "edition_verse_id": "BSB:PRO.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "May your fountain be blessed, and may you rejoice in the wife of your youth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.19",
+      "edition_verse_id": "BSB:PRO.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A loving doe, a graceful fawn— may her breasts satisfy you always; may you be captivated by her love forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.20",
+      "edition_verse_id": "BSB:PRO.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Why be captivated, my son, by an adulteress, or embrace the bosom of a stranger?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.21",
+      "edition_verse_id": "BSB:PRO.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For a man’s ways are before the eyes of the LORD, and the LORD examines all his paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.22",
+      "edition_verse_id": "BSB:PRO.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The iniquities of a wicked man entrap him; the cords of his sin entangle him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.5.23",
+      "edition_verse_id": "BSB:PRO.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He dies for lack of discipline, led astray by his own great folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

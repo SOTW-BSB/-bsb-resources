@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NUM",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "NUM.23.1",
+      "edition_verse_id": "BSB:NUM.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Balaam said to Balak, “Build for me seven altars here, and prepare for me seven bulls and seven rams.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.2",
+      "edition_verse_id": "BSB:NUM.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So Balak did as Balaam had instructed, and Balak and Balaam offered a bull and a ram on each altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.3",
+      "edition_verse_id": "BSB:NUM.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Stay here by your burnt offering while I am gone,” Balaam said to Balak. “Perhaps the LORD will meet with me. And whatever He reveals to me, I will tell you.” So Balaam went off to a barren height,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.4",
+      "edition_verse_id": "BSB:NUM.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and God met with him. “I have set up seven altars,” Balaam said, “and on each altar I have offered a bull and a ram.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.5",
+      "edition_verse_id": "BSB:NUM.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the LORD put a message in Balaam’s mouth, saying, “Return to Balak and give him this message.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.6",
+      "edition_verse_id": "BSB:NUM.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So he returned to Balak, who was standing there beside his burnt offering, with all the princes of Moab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.7",
+      "edition_verse_id": "BSB:NUM.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Balaam lifted up an oracle, saying: “Balak brought me from Aram, the king of Moab from the mountains of the east. ‘Come,’ he said, ‘put a curse on Jacob for me; come and denounce Israel!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.8",
+      "edition_verse_id": "BSB:NUM.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "How can I curse those whom God has not cursed? How can I denounce those whom the LORD has not denounced?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.9",
+      "edition_verse_id": "BSB:NUM.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For I see them from atop the rocky cliffs, and I watch them from the hills. Behold, a people dwelling apart, not reckoning themselves among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.10",
+      "edition_verse_id": "BSB:NUM.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who can count the dust of Jacob or number even a fourth of Israel? Let me die the death of the righteous; let my end be like theirs!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.11",
+      "edition_verse_id": "BSB:NUM.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Balak said to Balaam, “What have you done to me? I brought you here to curse my enemies, and behold, you have only blessed them!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.12",
+      "edition_verse_id": "BSB:NUM.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But Balaam replied, “Should I not speak exactly what the LORD puts in my mouth?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.13",
+      "edition_verse_id": "BSB:NUM.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Balak said to him, “Please come with me to another place where you can see them. You will only see the outskirts of their camp — not all of them. And from there, curse them for me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.14",
+      "edition_verse_id": "BSB:NUM.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Balak took him to the field of Zophim, to the top of Pisgah, where he built seven altars and offered a bull and a ram on each altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.15",
+      "edition_verse_id": "BSB:NUM.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Balaam said to Balak, “Stay here beside your burnt offering while I meet the LORD over there.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.16",
+      "edition_verse_id": "BSB:NUM.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the LORD met with Balaam and put a message in his mouth, saying, “Return to Balak and speak what I tell you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.17",
+      "edition_verse_id": "BSB:NUM.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So he returned to Balak, who was standing there by his burnt offering with the princes of Moab. “What did the LORD say?” Balak asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.18",
+      "edition_verse_id": "BSB:NUM.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then Balaam lifted up an oracle, saying: “Arise, O Balak, and listen; give ear to me, O son of Zippor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.19",
+      "edition_verse_id": "BSB:NUM.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "God is not a man, that He should lie, or a son of man, that He should change His mind. Does He speak and not act? Does He promise and not fulfill?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.20",
+      "edition_verse_id": "BSB:NUM.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I have indeed received a command to bless; He has blessed, and I cannot change it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.21",
+      "edition_verse_id": "BSB:NUM.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He considers no disaster for Jacob; He sees no trouble for Israel. The LORD their God is with them, and the shout of the King is among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.22",
+      "edition_verse_id": "BSB:NUM.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "God brought them out of Egypt with strength like a wild ox.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.23",
+      "edition_verse_id": "BSB:NUM.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For there is no spell against Jacob and no divination against Israel. It will now be said of Jacob and Israel, ‘What great things God has done!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.24",
+      "edition_verse_id": "BSB:NUM.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Behold, the people rise like a lioness; they rouse themselves like a lion, not resting until they devour their prey and drink the blood of the slain.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.23.25",
+      "edition_verse_id": "BSB:NUM.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now Balak said to Balaam, “Then neither curse them at all nor bless them at all!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.26",
+      "edition_verse_id": "BSB:NUM.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But Balaam replied, “Did I not tell you that whatever the LORD says, I must do?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.27",
+      "edition_verse_id": "BSB:NUM.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "“Please come,” said Balak, “I will take you to another place. Perhaps it will please God that you curse them for me from there.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.28",
+      "edition_verse_id": "BSB:NUM.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Balak took Balaam to the top of Peor, which overlooks the wasteland.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.29",
+      "edition_verse_id": "BSB:NUM.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then Balaam said, “Build for me seven altars here, and prepare for me seven bulls and seven rams.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.23.30",
+      "edition_verse_id": "BSB:NUM.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So Balak did as Balaam had instructed, and he offered a bull and a ram on each altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

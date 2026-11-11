@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "PRO.4.1",
+      "edition_verse_id": "BSB:PRO.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Listen, my sons, to a father’s instruction; pay attention and gain understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.4.2",
+      "edition_verse_id": "BSB:PRO.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For I give you sound teaching; do not abandon my directive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.3",
+      "edition_verse_id": "BSB:PRO.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When I was a son to my father, tender and the only child of my mother,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.4",
+      "edition_verse_id": "BSB:PRO.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "he taught me and said, “Let your heart lay hold of my words; keep my commands and you will live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.5",
+      "edition_verse_id": "BSB:PRO.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Get wisdom, get understanding; do not forget my words or turn from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.6",
+      "edition_verse_id": "BSB:PRO.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Do not forsake wisdom, and she will preserve you; love her, and she will guard you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.7",
+      "edition_verse_id": "BSB:PRO.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Wisdom is supreme; so acquire wisdom. And whatever you may acquire, gain understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.8",
+      "edition_verse_id": "BSB:PRO.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Prize her, and she will exalt you; if you embrace her, she will honor you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.9",
+      "edition_verse_id": "BSB:PRO.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "She will set a garland of grace on your head; she will present you with a crown of beauty.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.10",
+      "edition_verse_id": "BSB:PRO.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Listen, my son, and receive my words, and the years of your life will be many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.11",
+      "edition_verse_id": "BSB:PRO.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I will guide you in the way of wisdom; I will lead you on straight paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.12",
+      "edition_verse_id": "BSB:PRO.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When you walk, your steps will not be impeded; when you run, you will not stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.13",
+      "edition_verse_id": "BSB:PRO.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Hold on to instruction; do not let go. Guard it, for it is your life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.14",
+      "edition_verse_id": "BSB:PRO.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Do not set foot on the path of the wicked or walk in the way of evildoers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.15",
+      "edition_verse_id": "BSB:PRO.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Avoid it; do not travel on it. Turn from it and pass on by.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.16",
+      "edition_verse_id": "BSB:PRO.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For they cannot sleep unless they do evil; they are deprived of slumber until they make someone fall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.17",
+      "edition_verse_id": "BSB:PRO.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For they eat the bread of wickedness and drink the wine of violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.18",
+      "edition_verse_id": "BSB:PRO.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The path of the righteous is like the first gleam of dawn, shining brighter and brighter until midday.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.19",
+      "edition_verse_id": "BSB:PRO.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But the way of the wicked is like the darkest gloom; they do not know what makes them stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.20",
+      "edition_verse_id": "BSB:PRO.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My son, pay attention to my words; incline your ear to my sayings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.21",
+      "edition_verse_id": "BSB:PRO.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Do not lose sight of them; keep them within your heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.22",
+      "edition_verse_id": "BSB:PRO.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For they are life to those who find them, and health to the whole body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.23",
+      "edition_verse_id": "BSB:PRO.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Guard your heart with all diligence, for from it flow springs of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.24",
+      "edition_verse_id": "BSB:PRO.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Put away deception from your mouth; keep your lips from perverse speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.25",
+      "edition_verse_id": "BSB:PRO.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Let your eyes look forward; fix your gaze straight ahead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.26",
+      "edition_verse_id": "BSB:PRO.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Make a level path for your feet, and all your ways will be sure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.4.27",
+      "edition_verse_id": "BSB:PRO.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Do not swerve to the right or to the left; turn your feet away from evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

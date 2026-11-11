@@ -1,0 +1,38 @@
+{
+  "edition_id": "BSB",
+  "book_code": "PHP",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Greetings from Paul and Timothy",
+        "\\s1 Thanksgiving and Prayer",
+        "\\s1 Paul’s Trials Advance the Gospel",
+        "\\s1 To Live Is Christ",
+        "\\s1 Worthy of the Gospel"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 One in Christ",
+        "\\s1 The Mind of Christ",
+        "\\s1 Lights in the World",
+        "\\s1 Timothy and Epaphroditus"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Righteousness through Faith in Christ",
+        "\\s1 Pressing on toward the Goal",
+        "\\s1 Citizenship in Heaven"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Rejoice in the Lord",
+        "\\s1 The Generosity of the Philippians",
+        "\\s1 Final Greetings"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

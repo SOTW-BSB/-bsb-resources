@@ -1,0 +1,32 @@
+{
+  "edition_id": "BSB",
+  "book_code": "PHP",
+  "chapter_count": 4,
+  "verse_count": 104,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 30,
+      "omitted_from_main_text": [],
+      "sha256": "6266afeee80d0cbcc516c9f6d8a563b547f7cd49769f55a008275054cb7596f8"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 30,
+      "omitted_from_main_text": [],
+      "sha256": "0bb028ee1e368edf4eddd79450014daae0956db7a879f2c2054f4438561aa76b"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "bfdff2dabf5f4eab2d0eea3aca4778e9e575b44771ff8fbcde98ccd772f5fe33"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 23,
+      "omitted_from_main_text": [],
+      "sha256": "5b059e811b22004c4d863fcc3895e63263abc565c01db2b075d95fd78e906377"
+    }
+  ]
+}

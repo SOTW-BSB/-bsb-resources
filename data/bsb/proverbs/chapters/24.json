@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "PRO.24.1",
+      "edition_verse_id": "BSB:PRO.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Do not envy wicked men or desire their company;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.24.2",
+      "edition_verse_id": "BSB:PRO.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "for their hearts devise violence, and their lips declare trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.3",
+      "edition_verse_id": "BSB:PRO.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "By wisdom a house is built and by understanding it is established;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.4",
+      "edition_verse_id": "BSB:PRO.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "through knowledge its rooms are filled with every precious and beautiful treasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.5",
+      "edition_verse_id": "BSB:PRO.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A wise man is strong, and a man of knowledge enhances his strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.6",
+      "edition_verse_id": "BSB:PRO.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Only with sound guidance should you wage war, and victory lies in a multitude of counselors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.7",
+      "edition_verse_id": "BSB:PRO.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Wisdom is too high for a fool; he does not open his mouth in the meeting place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.8",
+      "edition_verse_id": "BSB:PRO.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He who plots evil will be called a schemer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.9",
+      "edition_verse_id": "BSB:PRO.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A foolish scheme is sin, and a mocker is detestable to men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.10",
+      "edition_verse_id": "BSB:PRO.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If you faint in the day of distress, how small is your strength!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.11",
+      "edition_verse_id": "BSB:PRO.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Rescue those being led away to death, and restrain those stumbling toward the slaughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.12",
+      "edition_verse_id": "BSB:PRO.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If you say, “Behold, we did not know about this,” does not He who weighs hearts consider it? Does not the One who guards your life know? Will He not repay a man according to his deeds?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.13",
+      "edition_verse_id": "BSB:PRO.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Eat honey, my son, for it is good, and the honeycomb is sweet to your taste.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.14",
+      "edition_verse_id": "BSB:PRO.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Know therefore that wisdom is sweet to your soul. If you find it, there is a future for you, and your hope will never be cut off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.15",
+      "edition_verse_id": "BSB:PRO.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Do not lie in wait, O wicked man, near the dwelling of the righteous; do not destroy his resting place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.16",
+      "edition_verse_id": "BSB:PRO.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For though a righteous man may fall seven times, he still gets up; but the wicked stumble in bad times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.17",
+      "edition_verse_id": "BSB:PRO.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Do not gloat when your enemy falls, and do not let your heart rejoice when he stumbles,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.18",
+      "edition_verse_id": "BSB:PRO.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "or the LORD will see and disapprove, and turn His wrath away from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.19",
+      "edition_verse_id": "BSB:PRO.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Do not fret over evildoers, and do not be envious of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.20",
+      "edition_verse_id": "BSB:PRO.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For the evil man has no future; the lamp of the wicked will be extinguished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.21",
+      "edition_verse_id": "BSB:PRO.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "My son, fear the LORD and the king, and do not associate with the rebellious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.22",
+      "edition_verse_id": "BSB:PRO.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For they will bring sudden destruction. Who knows what ruin they can bring?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.23",
+      "edition_verse_id": "BSB:PRO.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "These also are sayings of the wise: To show partiality in judgment is not good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.24.24",
+      "edition_verse_id": "BSB:PRO.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Whoever tells the guilty, “You are innocent”— peoples will curse him, and nations will denounce him;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.25",
+      "edition_verse_id": "BSB:PRO.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "but it will go well with those who convict the guilty, and rich blessing will come upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.26",
+      "edition_verse_id": "BSB:PRO.24.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "An honest answer given is like a kiss on the lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.27",
+      "edition_verse_id": "BSB:PRO.24.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Complete your outdoor work and prepare your field; after that, you may build your house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.28",
+      "edition_verse_id": "BSB:PRO.24.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Do not testify against your neighbor without cause, and do not deceive with your lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.29",
+      "edition_verse_id": "BSB:PRO.24.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Do not say, “I will do to him as he has done to me; I will repay the man according to his work.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.30",
+      "edition_verse_id": "BSB:PRO.24.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I went past the field of a slacker and by the vineyard of a man lacking judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.31",
+      "edition_verse_id": "BSB:PRO.24.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Thorns had grown up everywhere, thistles had covered the ground, and the stone wall was broken down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.32",
+      "edition_verse_id": "BSB:PRO.24.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I observed and took it to heart; I looked and received instruction:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.33",
+      "edition_verse_id": "BSB:PRO.24.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "A little sleep, a little slumber, a little folding of the hands to rest,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.24.34",
+      "edition_verse_id": "BSB:PRO.24.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "and poverty will come upon you like a robber, and need like a bandit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

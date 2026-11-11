@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "PRO.29.1",
+      "edition_verse_id": "BSB:PRO.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A man who remains stiff-necked after much reproof will suddenly be shattered beyond recovery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.29.2",
+      "edition_verse_id": "BSB:PRO.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When the righteous flourish, the people rejoice, but when the wicked rule, the people groan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.3",
+      "edition_verse_id": "BSB:PRO.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A man who loves wisdom brings joy to his father, but a companion of prostitutes squanders his wealth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.4",
+      "edition_verse_id": "BSB:PRO.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "By justice a king brings stability to the land, but a man who exacts tribute demolishes it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.5",
+      "edition_verse_id": "BSB:PRO.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A man who flatters his neighbor spreads a net for his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.6",
+      "edition_verse_id": "BSB:PRO.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "An evil man is caught by his own sin, but a righteous one sings and rejoices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.7",
+      "edition_verse_id": "BSB:PRO.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The righteous consider the cause of the poor, but the wicked have no regard for such concerns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.8",
+      "edition_verse_id": "BSB:PRO.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Mockers inflame a city, but the wise turn away anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.9",
+      "edition_verse_id": "BSB:PRO.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If a wise man goes to court with a fool, there will be raving and laughing with no resolution.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.10",
+      "edition_verse_id": "BSB:PRO.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Men of bloodshed hate a blameless man, but the upright care for his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.11",
+      "edition_verse_id": "BSB:PRO.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "A fool vents all his anger, but a wise man holds it back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.12",
+      "edition_verse_id": "BSB:PRO.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "If a ruler listens to lies, all his officials will be wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.13",
+      "edition_verse_id": "BSB:PRO.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The poor man and the oppressor have this in common: The LORD gives light to the eyes of both.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.14",
+      "edition_verse_id": "BSB:PRO.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "A king who judges the poor with fairness— his throne will be established forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.15",
+      "edition_verse_id": "BSB:PRO.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "A rod of correction imparts wisdom, but a child left to himself disgraces his mother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.16",
+      "edition_verse_id": "BSB:PRO.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When the wicked thrive, rebellion increases; but the righteous will see their downfall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.17",
+      "edition_verse_id": "BSB:PRO.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Discipline your son, and he will give you rest; he will bring delight to your soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.18",
+      "edition_verse_id": "BSB:PRO.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Where there is no vision, the people cast off restraint; but blessed is he who keeps the Law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.19",
+      "edition_verse_id": "BSB:PRO.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A servant cannot be corrected by words alone; though he understands, he will not respond.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.20",
+      "edition_verse_id": "BSB:PRO.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Do you see a man who speaks in haste? There is more hope for a fool than for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.21",
+      "edition_verse_id": "BSB:PRO.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "A servant pampered from his youth will bring grief in the end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.22",
+      "edition_verse_id": "BSB:PRO.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "An angry man stirs up dissension, and a hot-tempered man abounds in transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.23",
+      "edition_verse_id": "BSB:PRO.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "A man’s pride will bring him low, but a humble spirit will obtain honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.24",
+      "edition_verse_id": "BSB:PRO.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "A partner to a thief hates his own soul; he receives the oath but does not testify.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.25",
+      "edition_verse_id": "BSB:PRO.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The fear of man is a snare, but whoever trusts in the LORD is set securely on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.26",
+      "edition_verse_id": "BSB:PRO.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Many seek the ruler’s favor, but a man receives justice from the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.29.27",
+      "edition_verse_id": "BSB:PRO.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "An unjust man is detestable to the righteous, and one whose way is upright is detestable to the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

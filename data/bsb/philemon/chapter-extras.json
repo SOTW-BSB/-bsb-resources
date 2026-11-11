@@ -1,0 +1,15 @@
+{
+  "edition_id": "BSB",
+  "book_code": "PHM",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Greetings from Paul and Timothy",
+        "\\s1 Philemon’s Faith and Love",
+        "\\s1 Paul’s Appeal for Onesimus",
+        "\\s1 Additional Greetings"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

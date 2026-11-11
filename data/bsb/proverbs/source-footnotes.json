@@ -1,0 +1,581 @@
+{
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapters": {
+    "1": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft The Hebrew word rendered \\fqa simple \\ft in Proverbs refers to one who is naive, without moral direction, or inclined to evil.\\f*",
+          "raw_sha256": "b246481e292d69ed5927e76d15c068bc49c419f5e69f304ad5631f53051a2daa"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 1:7 \\ft The Hebrew words rendered as \\fqa fool \\ft in Proverbs denote one who is morally deficient.\\f*",
+          "raw_sha256": "b1eacef4fd5738c51e29aa89d153dfff5424de7275921d790778e1fadde47660"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 1:21 \\ft Or \\fqa from the top of the wall\\f*",
+          "raw_sha256": "2cea5321fc0477c6d1f50efa474e1c8ccf214b6cafd655b9769975c24be29672"
+        }
+      ]
+    },
+    "2": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Or \\fqa wayward wife\\f*",
+          "raw_sha256": "ec18adde19333ff67c66ff9e8bf1192901b737fa8415c3a455f612f3ab83a697"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Or \\fqa adulteress\\f*",
+          "raw_sha256": "32ce94af931d46e1d5ab12cd4a560e23ce226e5d39378cd1cb2f499bf64836d9"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 2:18 \\ft Hebrew \\fqa to the Rephaim\\f*",
+          "raw_sha256": "8effaec6310f2f665a4bcbb95ac39495af907f661c328a18801ae526c1bb1cd4"
+        }
+      ]
+    },
+    "3": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "32450af00d40bebc1d3e179fdc3bcf17c5c2e8f971610bd51b464a3e56a81cd5"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft Hebrew \\fqa navel \\ft \\f*",
+          "raw_sha256": "1b4a8f1ae84f2716e5c6fcccf3a17b138f2c3cf03fca63bb2d13c28b73f1898f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft Or \\fqa medicine\\f*",
+          "raw_sha256": "442986de2b9ea8869e67f8e63dac13bf076dd687f3c130eae1c60a33af518d8e"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft LXX \\fqa and do not lose heart when He rebukes\\ft ; cited in \\ref Hebrews 12:5|HEB 12:5\\ref*\\f*",
+          "raw_sha256": "3403a48d78de1c8323c1b160b402b83ae28953c7ad6610c945aa36d83e255ed3"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft LXX \\fqa and He flogs every son He receives\\ft ; cited in \\ref Hebrews 12:6|HEB 12:6\\ref*\\f*",
+          "raw_sha256": "946f605b33dccb49713894051d58d537a1e0ed1367fdd2d204536a6574a0a2b3"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 3:27 \\ft Or \\fqa from its owners\\f*",
+          "raw_sha256": "5746c34dc20c138fac9320b6d1b20bfefbd76ebc0a4b3e7b536e7788ba005a6c"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 3:34 \\ft LXX \\fqa The Lord opposes the proud, but gives grace to the humble\\ft ; cited in \\ref James 4:6|JAS 4:6\\ref* and 1 Peter 5:5\\f*",
+          "raw_sha256": "e2ffc2151ab4c04bcf2916040f498d2c15ad16b0ba22ef6072eb9aa533658a29"
+        }
+      ]
+    },
+    "4": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft Or \\fqa And whatever else you acquire\\f*",
+          "raw_sha256": "ff9d2b3640780191602cd62330e2bdf6fb6721c716184cf31ca14602b38dfe93"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 4:26 \\ft Or \\fqa Ponder the path for your feet\\ft ; LXX \\fqa Make straight paths for your feet\\ft ; cited in \\ref Hebrews 12:13|HEB 12:13\\ref*\\f*",
+          "raw_sha256": "ce2c3561a4bc430e4aaf1e62accadbe15f50268fdb97043b7d6b9ff5aa7c22d3"
+        }
+      ]
+    },
+    "5": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 5:3 \\ft Or \\fqa the adulteress\\f*",
+          "raw_sha256": "3dfd0c8e7ef02406418b5278c7fdab25d61195dcc10476c8c2a29d6e7704a83f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:3 \\ft Or \\fqa her palate\\f*",
+          "raw_sha256": "52e98b323c094d897cfc120446c9169874a3cf4687bbcb7727ecf84fad820d00"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 5:5 \\ft Or \\fqa lay hold of Sheol\\f*",
+          "raw_sha256": "8a2bd8a23032abc9f7bfcec4511cac2415036bfa1d8d5210ba59d99460054444"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 5:19 \\ft Or \\fqa be led astray\\ft ; also in verse 20\\f*",
+          "raw_sha256": "bbf08edae10b795b33aa87ed71ce9498f06a12a71be7137fa5da86ee1148da84"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 5:20 \\ft Or \\fqa a foreign woman \\ft or \\fqa another man’s wife\\f*",
+          "raw_sha256": "b5987d7b6b6c6099e3210fc858ffce3acc2ae047b739f72879172f1005a83a8e"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 5:21 \\ft Or \\fqa ponders \\ft or \\fqa makes level\\f*",
+          "raw_sha256": "944e24f4b3940676e6b1abcf8ecec327d21b84af698c299a7d53ce4a468dbc4b"
+        }
+      ]
+    },
+    "6": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 6:3 \\ft Or \\fqa hasten\\f*",
+          "raw_sha256": "d754738a933ff7ffcc91f6d7bc158342e34b373c3dbd133b009cf231128cc102"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 6:5 \\ft Hebrew does not include \\fqa of the hunter\\ft .\\f*",
+          "raw_sha256": "f1d69c9b7bfc4ca76fc4321e1189c83a435eb54693a80c5ad246f242f1724451"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 6:24 \\ft Or \\fqa the stranger\\f*",
+          "raw_sha256": "ebe960a9fc53499fb8a6842846f02c0451a7ed05359b1e19234f8cbece71b5d0"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 6:25 \\ft Or \\fqa eyelids \\ft or \\fqa eyelashes\\f*",
+          "raw_sha256": "2f837e09da0c7ddad5c98645d15700eba650cb397f3dc801c83274a077a57f5b"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 6:26 \\ft Literally \\fqa a crust of bread\\f*",
+          "raw_sha256": "a5cbd013b0a9074064cbc0ba3f5e306e3341a3c7f8b25ac0fae8e3a976589cc5"
+        }
+      ]
+    },
+    "7": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 7:2 \\ft Literally \\fqa the pupil\\f*",
+          "raw_sha256": "c050b7c524897fd1734b3b47bf9e12a27da98e243dd8b454109c69f3fa7125c8"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 7:22 \\ft Probable reading (see LXX, Vulgate, Syriac); Hebrew \\fqa like fetters to discipline a fool\\f*",
+          "raw_sha256": "8c0a8ce1ad29d5ac01972d9d3e3e266f077200792e8d7937755caa71bc8304d5"
+        }
+      ]
+    },
+    "8": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 8:5 \\ft Or \\fqa instruct your minds\\f*",
+          "raw_sha256": "9280b9cab29fca9dda52088fb8dbc74a02693589a2fd3e5f919ecba228f2b84a"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 8:16 \\ft Some Hebrew manuscripts and LXX \\fqa who govern the earth\\f*",
+          "raw_sha256": "f989ca3ed5344bd1941dfe8ef61e0611757c93035e69def40ab04367fff155d8"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 8:22 \\ft Or \\fqa The LORD possessed me at the beginning of His way\\f*",
+          "raw_sha256": "838b7ced3e656b983c6f8cf401d4473b3570b53a24cd0f2e63a86595fa0424a9"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 8:30 \\ft Or \\fqa filled with His delight\\f*",
+          "raw_sha256": "ba39e35a8b65d0e087f50e141718b483f94f4ec8888471404833740356d866b5"
+        }
+      ]
+    },
+    "9": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 9:1 \\ft Hebrew; LXX, Syriac, and Aramaic Targum \\fqa has set up\\f*",
+          "raw_sha256": "f62a3151b873fa48152b1caf67a3190da2513401ab8310100079a2eece66065f"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 9:11 \\ft LXX, Syriac, and Aramaic Targum; Hebrew \\fqa through me\\f*",
+          "raw_sha256": "faeb15fa2e1ce4e059f6210b5802993bd57cced9dc53e5b2c776a9a3dbeacc9f"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 9:18 \\ft Hebrew \\fqa the Rephaim\\f*",
+          "raw_sha256": "4efd2647efd6734ae588b4ce3ed92543c103fd6f5de61103b439ca3c4869cce6"
+        }
+      ]
+    },
+    "10": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft Or \\fqa but violence covers the mouth of the wicked\\ft ; also in verse 11\\f*",
+          "raw_sha256": "8e2bbc2f88638ce5dc2e151d69ae386fed1fc507dd50070a0b694dc46b257bec"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 10:10 \\ft Or \\fqa babbling fools will fall\\f*",
+          "raw_sha256": "762348554dae0aa8f429e367adff6a271dc5866b70275a41b3affda7a6895248"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 10:12 \\ft See \\ref 1 Peter 4:8|1PE 4:8\\ref*\\f*",
+          "raw_sha256": "2801669ac677a4a060c8f1a1e1fd3b0485b3d5794813bb3cb722acbb587b5ee4"
+        }
+      ]
+    },
+    "11": {
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 11:31 \\ft LXX \\fqa If it is hard for the righteous to be saved, what will become of the ungodly and the sinner?\\ft Cited in \\ref 1 Peter 4:18|1PE 4:18\\ref*\\f*",
+          "raw_sha256": "1ff26559ae0e070e84f991f764fd024218942f2b0c2c078b2c61287142533050"
+        }
+      ]
+    },
+    "13": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 13:14 \\ft Or \\fqa law\\f*",
+          "raw_sha256": "675e42f92ebfcb822f8f09bdc88e6ff6f0dd44d182fa32f87b29407fd6aeffb2"
+        }
+      ]
+    },
+    "14": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 14:16 \\ft Or \\fqa fears the LORD\\f*",
+          "raw_sha256": "8885e34773bf7c7593db309612ca4598179b34f9743235ffb7e1480230feed99"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 14:22 \\ft Or \\fqa show\\f*",
+          "raw_sha256": "43ab8d675ee4139b48455b8806bbc72f632ea3e67072331af0c90a0096b9bed0"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 14:33 \\ft Hebrew; LXX and Syriac \\fqa but among fools she is not known\\f*",
+          "raw_sha256": "4e09a9cabcb76884b856751f4b3129b0c5bb2331bafcf208cf7b96a9dadfcc34"
+        }
+      ]
+    },
+    "15": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 15:11 \\ft Or \\fqa Death and Destruction\\f*",
+          "raw_sha256": "d85132cc0cf70cefa7bd2446cd6030f5f433e7accb611a31d4a45b319a7e5ba4"
+        }
+      ]
+    },
+    "16": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 16:20 \\ft Or \\fqa Whoever speaks prudently will find what is good\\f*",
+          "raw_sha256": "d0b046152d39f8e5aa6e40c8e08f39a0ff7d16144e70d9b1e03181c6482831d0"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 16:27 \\ft Or \\fqa and what is on his lips\\f*",
+          "raw_sha256": "b34d907c4600a5304e7b7a481ab43b2bf1195baf42b19d0a657a44ad309da8bf"
+        }
+      ]
+    },
+    "17": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 17:1 \\ft Or \\fqa sacrifices\\f*",
+          "raw_sha256": "fdb0b5cb12de1d83fabb62469a676a3922a72b198d70470e121bd176abc5ab78"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 17:23 \\ft Hebrew \\fqa a bribe from the bosom\\f*",
+          "raw_sha256": "dccb07c3384898b94306b8fa20b4abd0275e80ed8244c4363864270146467ff4"
+        }
+      ]
+    },
+    "18": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 18:5 \\ft Hebrew \\fqa Lifting the face\\f*",
+          "raw_sha256": "050a280900f09b826a7410940385d3c969edd11fc1b74d3e94fa8ea5de7001eb"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 18:10 \\ft Or \\fqa to Him\\f*",
+          "raw_sha256": "ea288a3660f26666fbad3599779e8c4e69635c51c8f212402edd21da0327b709"
+        }
+      ]
+    },
+    "20": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 20:2 \\ft Literally \\fqa sins against his own soul\\f*",
+          "raw_sha256": "0934f9904b9ea8b99878269df6b43439915883205b020a7ddca7c91b7f2fc941"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 20:10 \\ft Hebrew \\fqa A stone and a stone, an ephah and an ephah\\f*",
+          "raw_sha256": "d02afd8cdc2283b4b9a10ea265ffd77d699059ff410b625828be768164358473"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 20:16 \\ft Or \\fqa a wayward woman\\f*",
+          "raw_sha256": "a4f7d3d746f88d3bfcf0dba8448b747766b0d5e197e1a4ba7a87822723514937"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 20:19 \\ft Or \\fqa the one who is simple\\f*",
+          "raw_sha256": "7e90057317bca535b14127fe0e0e0ceefeb7be3b61554461e462273acb986269"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 20:27 \\ft Or \\fqa breath \\ft or \\fqa speech\\f*",
+          "raw_sha256": "26eb600f7917df2b648bc76f23c13ed53444f08815080cb780550508c294f488"
+        }
+      ]
+    },
+    "21": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 21:12 \\ft Or \\fqa The righteous one\\f*",
+          "raw_sha256": "69aaff7ec372db872b61c0a2358c2908867bd0ef920ae4e86e1939dbf2268c8e"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 21:14 \\ft Hebrew \\fqa a bribe in the bosom\\f*",
+          "raw_sha256": "45d6bc427d4db367230167eed6355115d4c57701b31e5b75d88c48109e3291dd"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 21:29 \\ft Or \\fqa puts up a bold front\\f*",
+          "raw_sha256": "e0412820d70792fd3dff75dff2dee38d431f5bdeabf40cd7f6d5f7f581a5af16"
+        }
+      ]
+    },
+    "22": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 22:8 \\ft LXX includes \\fqa God blesses a cheerful and generous man, but foolish works will come to an end\\ft ; see also \\ref 2 Corinthians 9:7|2CO 9:7\\ref*.\\f*",
+          "raw_sha256": "c701860c372388e9e16c6245806bda0767650c8ece594e4348a933a2b8de18b2"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 22:9 \\ft Literally \\fqa He whose eye is good\\f*",
+          "raw_sha256": "02c08585bd408c6df43cfa23761106aa6287501e0e2a455170320e391dd799e0"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 22:20 \\ft Or \\fqa written for you excellent sayings \\ft or \\fqa written for you three times\\f*",
+          "raw_sha256": "0bb26779528b7a098675bcb40c4f2e448afd6e6adeb09804bd97700d0239c912"
+        }
+      ]
+    },
+    "23": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 23:1 \\ft Or \\fqa who is before you\\f*",
+          "raw_sha256": "580bfe260ac2347ba280464b7d45d8fef50532d09882e4e2e14f40c427bf68c4"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 23:6 \\ft Literally \\fqa of him whose eye is evil\\f*",
+          "raw_sha256": "2f137baa72503bf99c3140f2fceb56799703f69633cbea1ce61eabc098116daf"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 23:7 \\ft Or \\fqa for as he calculates in his soul, so is he\\f*",
+          "raw_sha256": "a755612ce82648d25a25a94567521afc405f46e82cc39026a13f49fab7dd4fef"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 23:16 \\ft Hebrew \\fqa My kidneys\\f*",
+          "raw_sha256": "3c59ca7564a8a2225445e9182a187e56faf480d9adbca8b7072f851dcb7d70a2"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 23:27 \\ft Or \\fqa a foreign woman \\ft or \\fqa a wayward wife\\f*",
+          "raw_sha256": "df1dcf005fa3e816ed10c7a582dd7b63cc19e1255e55b46e1442a2f061fd6cb6"
+        }
+      ]
+    },
+    "24": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 24:5 \\ft LXX \\fqa The wise are mightier than the strong\\f*",
+          "raw_sha256": "d5d3ceab87ffdce18e77e925792af60531990bb82c0aff3cb169a582857a14c2"
+        }
+      ]
+    },
+    "25": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 25:7 \\ft Or \\fqa Even the one\\f*",
+          "raw_sha256": "af840491b6e4acdd45ff8a955fdae2e9263c61ededa44577818479fac2cfa11b"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 25:20 \\ft Or \\fqa on soda\\f*",
+          "raw_sha256": "3301ffeb079feadbaea9104ef622031728b9547e17699f4afdddbaf5e581ebba"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 25:22 \\ft LXX; Hebrew \\fqa For you will heap burning coals on his head\\ft ; cited in \\ref Romans 12:20|ROM 12:20\\ref*\\f*",
+          "raw_sha256": "1c359dc445fbfd774a7805ae9ff63193b6ae2c2ed5540573fa1c0865d4fde025"
+        }
+      ]
+    },
+    "26": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 26:11 \\ft Cited in \\ref 2 Peter 2:22|2PE 2:22\\ref*\\f*",
+          "raw_sha256": "6ddb436c051c709c95b590174b058f60624b710d736babd813d1eabe3f387cf7"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 26:23 \\ft Hebrew; LXX \\fqa smooth\\f*",
+          "raw_sha256": "8134b631047143448116db03a83ac96c6ea4161a66dd1ce196a41286e267faec"
+        }
+      ]
+    },
+    "27": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 27:13 \\ft Or \\fqa a wayward woman\\f*",
+          "raw_sha256": "5418e7906401b9c110b78b8d974292ac93b86a9efd2245d0a648302cf311d36a"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 27:17 \\ft Hebrew \\fqa sharpens the face of another \\ft or \\fqa sharpens the countenance of a friend\\f*",
+          "raw_sha256": "c15d57bf5a7c267d5941ce726e717fafb1636ce1c685bb3c205e5ec1e882e814"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 27:20 \\ft Or \\fqa Death and Destruction\\f*",
+          "raw_sha256": "dd2b71cfbd12ab4c3076bacb2268675819cc8af2fd195a98b35f97ff48bcb7df"
+        }
+      ]
+    },
+    "28": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 28:14 \\ft Or \\fqa always fears the LORD\\ft ; Hebrew does not include \\fqa the LORD\\ft .\\f*",
+          "raw_sha256": "aa93c2a7779916ee23ca0590ebf44e2c38c894e5a92fe6d92fab28c699e6ea13"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 28:17 \\ft Or \\fqa will be a fugitive until death\\f*",
+          "raw_sha256": "44265742e80f57fc98090ecb192d0ed8cac518874b553f91d8428b0f31f62754"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 28:22 \\ft Hebrew \\fqa A man whose eye is evil\\f*",
+          "raw_sha256": "2419d3cdf0fa5b69cacce886afd228de30c4fe0d10221d46a5d1d5eeb64b78db"
+        }
+      ]
+    },
+    "29": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 29:4 \\ft Or \\fqa who taxes heavily \\ft or \\fqa who takes bribes\\f*",
+          "raw_sha256": "1d1ef509246ae9037933b288cc3ec1811e6722da9ecb6e683c8b8b8f69c93c66"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 29:10 \\ft Or \\fqa but the upright seek his soul\\f*",
+          "raw_sha256": "c6700ed0b90475dd8495b6b73f9eb2adfe995766c7c8991ecdec04ad01953804"
+        }
+      ]
+    },
+    "30": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 30:1 \\ft Or \\fqa declared to Ithiel: “I am weary, O God, but I can prevail. \\ft (revocalizations); Hebrew \\fqa declared to Ithiel—to Ithiel and Ucal:\\f*",
+          "raw_sha256": "0c4ab585b999839ae13efc4ffb91f47eba1e932c2696cd279a5a306fb825165a"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 30:26 \\ft Or \\fqa the coneys \\ft or \\fqa the hyraxes\\f*",
+          "raw_sha256": "dffb21b2401310b0d4c5f55742b7bbc1e71cd347dc5efbaecfdfc8dcb41b51d7"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 30:31 \\ft Or \\fqa a king against whom there is no rising up\\f*",
+          "raw_sha256": "31e7e2a77eabd2a64109384e9f56cf13441df26397ebbad0ff388123dae64323"
+        }
+      ]
+    },
+    "31": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 31:2 \\ft Or \\fqa What \\ft or \\fqa What are you doing\\f*",
+          "raw_sha256": "3a02143e78356c8127e32d38ac724ca3a8ae2c8dd2aec7e267ebf5712e05b0a0"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 31:10 \\ft Verses 10–31 are an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "7dd4b9c516e2ade7d50d285037fb6414b536be3656afd061207a297229884209"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 31:17 \\ft Hebrew \\fqa She girds her loins\\f*",
+          "raw_sha256": "b3e165df81baa99f8cc941d3786442b496fcfe16e2797b963a6c76b8988daa31"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 31:21 \\ft Or \\fqa doubly clothed\\f*",
+          "raw_sha256": "b87886a443becb7d2af8c7303618f2957ba0001e92dd8b28483e3c7b57a55a5d"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

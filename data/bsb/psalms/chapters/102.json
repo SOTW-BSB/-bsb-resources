@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 102,
+  "verses": [
+    {
+      "id": "PSA.102.1",
+      "edition_verse_id": "BSB:PSA.102.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD. Hear my prayer, O LORD; let my cry for help come before You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.102.2",
+      "edition_verse_id": "BSB:PSA.102.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Do not hide Your face from me in my day of distress. Incline Your ear to me; answer me quickly when I call.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.3",
+      "edition_verse_id": "BSB:PSA.102.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For my days vanish like smoke, and my bones burn like glowing embers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.4",
+      "edition_verse_id": "BSB:PSA.102.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "My heart is afflicted, and withered like grass; I even forget to eat my bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.5",
+      "edition_verse_id": "BSB:PSA.102.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Through my loud groaning my skin hangs on my bones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.6",
+      "edition_verse_id": "BSB:PSA.102.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I am like a desert owl, like an owl among the ruins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.7",
+      "edition_verse_id": "BSB:PSA.102.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I lie awake; I am like a lone bird on a housetop.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.8",
+      "edition_verse_id": "BSB:PSA.102.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All day long my enemies taunt me; they ridicule me and curse me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.9",
+      "edition_verse_id": "BSB:PSA.102.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For I have eaten ashes like bread and mixed my drink with tears",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.10",
+      "edition_verse_id": "BSB:PSA.102.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "because of Your indignation and wrath, for You have picked me up and cast me aside.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.11",
+      "edition_verse_id": "BSB:PSA.102.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My days are like lengthening shadows, and I wither away like grass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.12",
+      "edition_verse_id": "BSB:PSA.102.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But You, O LORD, sit enthroned forever; Your renown endures to all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.13",
+      "edition_verse_id": "BSB:PSA.102.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You will rise up and have compassion on Zion, for it is time to show her favor — the appointed time has come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.14",
+      "edition_verse_id": "BSB:PSA.102.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For Your servants delight in her stones and take pity on her dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.15",
+      "edition_verse_id": "BSB:PSA.102.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the nations will fear the name of the LORD, and all the kings of the earth will fear Your glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.16",
+      "edition_verse_id": "BSB:PSA.102.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For the LORD will rebuild Zion; He has appeared in His glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.17",
+      "edition_verse_id": "BSB:PSA.102.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He will turn toward the prayer of the destitute; He will not despise their prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.18",
+      "edition_verse_id": "BSB:PSA.102.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Let this be written for the generation to come, so that a people not yet created may praise the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.19",
+      "edition_verse_id": "BSB:PSA.102.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For He looked down from the heights of His sanctuary; the LORD gazed out from heaven to earth",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.20",
+      "edition_verse_id": "BSB:PSA.102.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "to hear a prisoner’s groaning, to release those condemned to death,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.21",
+      "edition_verse_id": "BSB:PSA.102.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "that they may proclaim the name of the LORD in Zion and praise Him in Jerusalem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.22",
+      "edition_verse_id": "BSB:PSA.102.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "when peoples and kingdoms assemble to serve the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.23",
+      "edition_verse_id": "BSB:PSA.102.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He has broken my strength on the way; He has cut short my days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.24",
+      "edition_verse_id": "BSB:PSA.102.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "I say: “O my God, do not take me in the midst of my days! Your years go on through all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.25",
+      "edition_verse_id": "BSB:PSA.102.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In the beginning You laid the foundations of the earth, and the heavens are the work of Your hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.26",
+      "edition_verse_id": "BSB:PSA.102.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They will perish, but You remain; they will all wear out like a garment. Like clothing You will change them, and they will be passed on.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.27",
+      "edition_verse_id": "BSB:PSA.102.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But You remain the same, and Your years will never end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.102.28",
+      "edition_verse_id": "BSB:PSA.102.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The children of Your servants will dwell securely, and their descendants will be established before You.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

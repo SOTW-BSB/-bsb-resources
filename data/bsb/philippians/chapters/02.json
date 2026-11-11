@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PHP",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "PHP.2.1",
+      "edition_verse_id": "BSB:PHP.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Therefore if you have any encouragement in Christ, if any comfort from His love, if any fellowship with the Spirit, if any affection and compassion,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.2",
+      "edition_verse_id": "BSB:PHP.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "then make my joy complete by being like-minded, having the same love, being united in spirit and purpose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.3",
+      "edition_verse_id": "BSB:PHP.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.4",
+      "edition_verse_id": "BSB:PHP.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Each of you should look not only to your own interests, but also to the interests of others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.5",
+      "edition_verse_id": "BSB:PHP.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Let this mind be in you which was also in Christ Jesus:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.6",
+      "edition_verse_id": "BSB:PHP.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Who, existing in the form of God, did not consider equality with God something to be grasped,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.7",
+      "edition_verse_id": "BSB:PHP.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "but emptied Himself, taking the form of a servant, being made in human likeness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.8",
+      "edition_verse_id": "BSB:PHP.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And being found in appearance as a man, He humbled Himself and became obedient to death — even death on a cross.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.9",
+      "edition_verse_id": "BSB:PHP.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Therefore God exalted Him to the highest place and gave Him the name above all names,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.10",
+      "edition_verse_id": "BSB:PHP.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.11",
+      "edition_verse_id": "BSB:PHP.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.12",
+      "edition_verse_id": "BSB:PHP.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore, my beloved, just as you have always obeyed, not only in my presence, but now even more in my absence, continue to work out your salvation with fear and trembling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.13",
+      "edition_verse_id": "BSB:PHP.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For it is God who works in you to will and to act on behalf of His good purpose.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.14",
+      "edition_verse_id": "BSB:PHP.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Do everything without complaining or arguing,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.15",
+      "edition_verse_id": "BSB:PHP.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "so that you may be blameless and pure, children of God without fault in a crooked and perverse generation, in which you shine as lights in the world",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.16",
+      "edition_verse_id": "BSB:PHP.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "as you hold forth the word of life, in order that I may boast on the day of Christ that I did not run or labor in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.17",
+      "edition_verse_id": "BSB:PHP.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But even if I am being poured out like a drink offering on the sacrifice and service of your faith, I am glad and rejoice with all of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.18",
+      "edition_verse_id": "BSB:PHP.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So you too should be glad and rejoice with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.19",
+      "edition_verse_id": "BSB:PHP.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Now I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered when I learn how you are doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.20",
+      "edition_verse_id": "BSB:PHP.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I have nobody else like him who will genuinely care for your needs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.21",
+      "edition_verse_id": "BSB:PHP.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For all the others look after their own interests, not those of Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.22",
+      "edition_verse_id": "BSB:PHP.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But you know Timothy’s proven worth, that as a child with his father he has served with me to advance the gospel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.23",
+      "edition_verse_id": "BSB:PHP.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So I hope to send him as soon as I see what happens with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.24",
+      "edition_verse_id": "BSB:PHP.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And I trust in the Lord that I myself will come soon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.25",
+      "edition_verse_id": "BSB:PHP.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But I thought it necessary to send back to you Epaphroditus, my brother, fellow worker, and fellow soldier, who is also your messenger and minister to my needs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.26",
+      "edition_verse_id": "BSB:PHP.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For he has been longing for all of you and is distressed because you heard he was ill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.27",
+      "edition_verse_id": "BSB:PHP.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He was sick indeed, nearly unto death. But God had mercy on him, and not only on him but also on me, to spare me sorrow upon sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.28",
+      "edition_verse_id": "BSB:PHP.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Therefore I am all the more eager to send him, so that when you see him again you may rejoice, and I may be less anxious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PHP.2.29",
+      "edition_verse_id": "BSB:PHP.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Welcome him in the Lord with great joy, and honor men like him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PHP.2.30",
+      "edition_verse_id": "BSB:PHP.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "because he nearly died for the work of Christ, risking his life to make up for your deficit of service to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PRO",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "PRO.26.1",
+      "edition_verse_id": "BSB:PRO.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Like snow in summer and rain at harvest, honor does not befit a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PRO.26.2",
+      "edition_verse_id": "BSB:PRO.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Like a fluttering sparrow or darting swallow, an undeserved curse does not come to rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.3",
+      "edition_verse_id": "BSB:PRO.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "A whip for the horse, a bridle for the donkey, and a rod for the backs of fools!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.4",
+      "edition_verse_id": "BSB:PRO.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do not answer a fool according to his folly, or you yourself will be like him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.5",
+      "edition_verse_id": "BSB:PRO.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Answer a fool according to his folly, lest he become wise in his own eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.6",
+      "edition_verse_id": "BSB:PRO.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Like cutting off one’s own feet or drinking violence is the sending of a message by the hand of a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.7",
+      "edition_verse_id": "BSB:PRO.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Like lame legs hanging limp is a proverb in the mouth of a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.8",
+      "edition_verse_id": "BSB:PRO.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Like binding a stone into a sling is the giving of honor to a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.9",
+      "edition_verse_id": "BSB:PRO.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Like a thorn that goes into the hand of a drunkard is a proverb in the mouth of a fool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.10",
+      "edition_verse_id": "BSB:PRO.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Like an archer who wounds at random is he who hires a fool or passerby.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.11",
+      "edition_verse_id": "BSB:PRO.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "As a dog returns to its vomit, so a fool repeats his folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.12",
+      "edition_verse_id": "BSB:PRO.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Do you see a man who is wise in his own eyes? There is more hope for a fool than for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.13",
+      "edition_verse_id": "BSB:PRO.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The slacker says, “A lion is in the road! A fierce lion roams the public square!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.14",
+      "edition_verse_id": "BSB:PRO.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As a door turns on its hinges, so the slacker turns on his bed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.15",
+      "edition_verse_id": "BSB:PRO.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The slacker buries his hand in the dish; it wearies him to bring it back to his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.16",
+      "edition_verse_id": "BSB:PRO.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The slacker is wiser in his own eyes than seven men who answer discreetly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.17",
+      "edition_verse_id": "BSB:PRO.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Like one who grabs a dog by the ears is a passerby who meddles in a quarrel not his own.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.18",
+      "edition_verse_id": "BSB:PRO.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Like a madman shooting firebrands and deadly arrows,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.19",
+      "edition_verse_id": "BSB:PRO.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "so is the man who deceives his neighbor and says, “I was only joking!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.20",
+      "edition_verse_id": "BSB:PRO.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Without wood, a fire goes out; without gossip, a conflict ceases.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.21",
+      "edition_verse_id": "BSB:PRO.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Like charcoal for embers and wood for fire, so is a quarrelsome man for kindling strife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.22",
+      "edition_verse_id": "BSB:PRO.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The words of a gossip are like choice morsels that go down into the inmost being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.23",
+      "edition_verse_id": "BSB:PRO.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Like glaze covering an earthen vessel are burning lips and a wicked heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.24",
+      "edition_verse_id": "BSB:PRO.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "A hateful man disguises himself with his speech, but he lays up deceit in his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.25",
+      "edition_verse_id": "BSB:PRO.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When he speaks graciously, do not believe him, for seven abominations fill his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.26",
+      "edition_verse_id": "BSB:PRO.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Though his hatred is concealed by deception, his wickedness will be exposed in the assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.27",
+      "edition_verse_id": "BSB:PRO.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He who digs a pit will fall into it, and he who rolls a stone will have it roll back on him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PRO.26.28",
+      "edition_verse_id": "BSB:PRO.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "A lying tongue hates those it crushes, and a flattering mouth causes ruin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

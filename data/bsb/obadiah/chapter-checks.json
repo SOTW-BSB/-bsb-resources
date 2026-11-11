@@ -1,0 +1,14 @@
+{
+  "edition_id": "BSB",
+  "book_code": "OBA",
+  "chapter_count": 1,
+  "verse_count": 21,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "c48de2a54a513f232d1952a18db3570daa92e1767cec4dcac7a12f76e7e6cef8"
+    }
+  ]
+}

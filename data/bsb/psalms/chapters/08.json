@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "PSA.8.1",
+      "edition_verse_id": "BSB:PSA.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. According to Gittith. A Psalm of David. O LORD, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.8.2",
+      "edition_verse_id": "BSB:PSA.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "From the mouths of children and infants You have ordained praise on account of Your adversaries, to silence the enemy and avenger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.3",
+      "edition_verse_id": "BSB:PSA.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When I behold Your heavens, the work of Your fingers, the moon and the stars, which You have set in place —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.4",
+      "edition_verse_id": "BSB:PSA.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "what is man that You are mindful of him, or the son of man that You care for him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.5",
+      "edition_verse_id": "BSB:PSA.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You made him a little lower than the angels; You crowned him with glory and honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.6",
+      "edition_verse_id": "BSB:PSA.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You made him ruler of the works of Your hands; You have placed everything under his feet:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.7",
+      "edition_verse_id": "BSB:PSA.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "all sheep and oxen, and even the beasts of the field,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.8",
+      "edition_verse_id": "BSB:PSA.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "the birds of the air and the fish of the sea, all that swim the paths of the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.8.9",
+      "edition_verse_id": "BSB:PSA.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "O LORD, our Lord, how majestic is Your name in all the earth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

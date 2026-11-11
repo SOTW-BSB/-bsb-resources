@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 101,
+  "verses": [
+    {
+      "id": "PSA.101.1",
+      "edition_verse_id": "BSB:PSA.101.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of David. I will sing of Your loving devotion and justice; to You, O LORD, I will sing praises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.101.2",
+      "edition_verse_id": "BSB:PSA.101.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will ponder the way that is blameless — when will You come to me? I will walk in my house with integrity of heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.3",
+      "edition_verse_id": "BSB:PSA.101.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I will set no worthless thing before my eyes. I hate the work of those who fall away; it shall not cling to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.4",
+      "edition_verse_id": "BSB:PSA.101.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "A perverse heart shall depart from me; I will know nothing of evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.5",
+      "edition_verse_id": "BSB:PSA.101.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Whoever slanders his neighbor in secret, I will put to silence; the one with haughty eyes and a proud heart, I will not endure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.6",
+      "edition_verse_id": "BSB:PSA.101.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My eyes favor the faithful of the land, that they may dwell with me; he who walks in the way of integrity shall minister to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.7",
+      "edition_verse_id": "BSB:PSA.101.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "No one who practices deceit shall dwell in my house; no one who tells lies shall stand in my presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.101.8",
+      "edition_verse_id": "BSB:PSA.101.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Every morning I will remove all the wicked of the land, that I may cut off every evildoer from the city of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

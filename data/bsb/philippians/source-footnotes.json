@@ -1,0 +1,81 @@
+{
+  "edition_id": "BSB",
+  "book_code": "PHP",
+  "chapters": {
+    "1": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Or \\fqa all the Praetorium\\f*",
+          "raw_sha256": "a9d317e5b01dfdeb938ef6dc50a7f2595e7efa63d4f27a664dba96852af5b53a"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft NE and WH \\fqa the word of God\\f*",
+          "raw_sha256": "7a26f71dfe5694d72eee203a1b98acb09d95c9c885a5e1fc3643a01b44018e8c"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 1:16 \\ft BYZ and TR reverse the order of verses 16 and 17.\\f*",
+          "raw_sha256": "bd6275aff22c49346c4ea4c78c87a456a56863355337517776770780d8c8b828"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 1:18 \\ft Literally \\fqa What then?\\f*",
+          "raw_sha256": "763ebb585bac9696e460116cda6541b4c6804018a5581227c7544573595bf57b"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 1:27 \\ft Or \\fqa striving together with one mind\\f*",
+          "raw_sha256": "3db81f1e19ecc1b343d83f654ac85f4bd83029f9d137194457d9c0f0e6e95274"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Or \\fqa something to be exploited\\f*",
+          "raw_sha256": "f66806f5d8c8ac51f587558e648e30c2d39397b94008748091ff70a6073e1d1f"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 2:15 \\ft \\ref Deuteronomy 32:5|DEU 32:5\\ref*\\f*",
+          "raw_sha256": "3001c089e6833449b5a560940ad657bab65daa5a91c6858ebb38b1fbe708c99e"
+        }
+      ]
+    },
+    "3": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\ft Or \\fqa through the faithfulness of Christ\\f*",
+          "raw_sha256": "b04aa868cdf4badb5529ae6fd65825a566cc3c90f724de798c58d92fed71727d"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft Or \\fqa I ask you, loyal Syzygus\\f*",
+          "raw_sha256": "fc2542c9c92c2bbe097d65b8d15804059fba6876a0713252a43a8a308330e9a6"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 4:13 \\ft NA, SBL, NE, and WH \\fqa in the One who gives me strength. \\ft BYZ and TR \\fqa in Christ who gives me strength.\\f*",
+          "raw_sha256": "65b7a995f226d9b1fb1190510f5eae439e049761dd3201012e711b4a3991fa26"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 4:23 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "b3fb9e877705f331a943846ed3a56c2af9633a2035ff2067dc4a3b8b43952264"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}
