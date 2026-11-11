@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1SA",
+  "chapter": 30,
+  "verses": [
+    {
+      "id": "1SA.30.1",
+      "edition_verse_id": "BSB:1SA.30.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On the third day David and his men arrived in Ziklag, and the Amalekites had raided the Negev, attacked Ziklag, and burned it down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.2",
+      "edition_verse_id": "BSB:1SA.30.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "They had taken captive the women and all who were there, both young and old. They had not killed anyone, but had carried them off as they went on their way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.3",
+      "edition_verse_id": "BSB:1SA.30.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When David and his men came to the city, they found it burned down and their wives and sons and daughters taken captive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.4",
+      "edition_verse_id": "BSB:1SA.30.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So David and the troops with him lifted up their voices and wept until they had no strength left to weep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.5",
+      "edition_verse_id": "BSB:1SA.30.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "David’s two wives, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel, had been taken captive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.6",
+      "edition_verse_id": "BSB:1SA.30.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And David was greatly distressed because the people spoke of stoning him, because the soul of every man grieved for his sons and daughters. But David found strength in the LORD his God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.7",
+      "edition_verse_id": "BSB:1SA.30.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then David said to Abiathar the priest, the son of Ahimelech, “Bring me the ephod.” So Abiathar brought it to him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.8",
+      "edition_verse_id": "BSB:1SA.30.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and David inquired of the LORD: “Should I pursue these raiders? Will I overtake them?” “Pursue them,” the LORD replied, “for you will surely overtake them and rescue the captives.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.9",
+      "edition_verse_id": "BSB:1SA.30.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So David and his six hundred men went to the Brook of Besor, where some stayed behind",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.10",
+      "edition_verse_id": "BSB:1SA.30.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "because two hundred men were too exhausted to cross the brook. But David and four hundred men continued in pursuit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.11",
+      "edition_verse_id": "BSB:1SA.30.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now his men found an Egyptian in the field and brought him to David. They gave the man water to drink and food to eat —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.12",
+      "edition_verse_id": "BSB:1SA.30.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "a piece of a fig cake and two clusters of raisins. So he ate and was revived, for he had not had any food or water for three days and three nights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.13",
+      "edition_verse_id": "BSB:1SA.30.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then David asked him, “To whom do you belong, and where are you from?” “I am an Egyptian,” he replied, “the slave of an Amalekite. My master abandoned me three days ago when I fell ill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.14",
+      "edition_verse_id": "BSB:1SA.30.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "We raided the Negev of the Cherethites, the territory of Judah, and the Negev of Caleb, and we burned down Ziklag.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.15",
+      "edition_verse_id": "BSB:1SA.30.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Will you lead me to these raiders?” David asked. And the man replied, “Swear to me by God that you will not kill me or deliver me into the hand of my master, and I will lead you to them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.16",
+      "edition_verse_id": "BSB:1SA.30.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So he led David down, and there were the Amalekites spread out over all the land, eating, drinking, and celebrating the great amount of plunder they had taken from the land of the Philistines and the land of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.17",
+      "edition_verse_id": "BSB:1SA.30.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And David struck them down from twilight until the evening of the next day. Not a man escaped, except four hundred young men who fled, riding off on camels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.18",
+      "edition_verse_id": "BSB:1SA.30.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So David recovered everything the Amalekites had taken, including his two wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.19",
+      "edition_verse_id": "BSB:1SA.30.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Nothing was missing, young or old, son or daughter, or any of the plunder the Amalekites had taken. David brought everything back.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.20",
+      "edition_verse_id": "BSB:1SA.30.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he took all the flocks and herds, which his men drove ahead of the other livestock, calling out, “This is David’s plunder!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.21",
+      "edition_verse_id": "BSB:1SA.30.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When David came to the two hundred men who had been too exhausted to follow him and who were left behind at the Brook of Besor, they came out to meet him and the troops with him. As David approached the men, he greeted them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.22",
+      "edition_verse_id": "BSB:1SA.30.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "but all the wicked and worthless men among those who had gone with David said, “Because they did not go with us, we will not share with them the plunder we recovered, except for each man’s wife and children. They may take them and go.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.23",
+      "edition_verse_id": "BSB:1SA.30.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But David said, “My brothers, you must not do this with what the LORD has given us. He has protected us and delivered into our hands the raiders who came against us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.24",
+      "edition_verse_id": "BSB:1SA.30.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Who will listen to your proposal? The share of the one who went to battle will match the share of the one who stayed with the supplies. They will share alike.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.25",
+      "edition_verse_id": "BSB:1SA.30.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And so it has been from that day forward. David established this statute and ordinance for Israel to this very day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.26",
+      "edition_verse_id": "BSB:1SA.30.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When David arrived in Ziklag, he sent some of the plunder to his friends, the elders of Judah, saying, “Here is a gift for you from the plunder of the LORD’s enemies.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.30.27",
+      "edition_verse_id": "BSB:1SA.30.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He sent gifts to those in Bethel, Ramoth Negev, and Jattir;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.28",
+      "edition_verse_id": "BSB:1SA.30.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "to those in Aroer, Siphmoth, and Eshtemoa;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.29",
+      "edition_verse_id": "BSB:1SA.30.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "to those in Racal and in the cities of the Jerahmeelites and Kenites;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.30",
+      "edition_verse_id": "BSB:1SA.30.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "to those in Hormah, Bor-ashan, and Athach;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.30.31",
+      "edition_verse_id": "BSB:1SA.30.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and to those in Hebron and in all the places where David and his men had roamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

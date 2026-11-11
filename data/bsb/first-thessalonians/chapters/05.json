@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1TH",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1TH.5.1",
+      "edition_verse_id": "BSB:1TH.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now about the times and seasons, brothers, we do not need to write to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.2",
+      "edition_verse_id": "BSB:1TH.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For you are fully aware that the Day of the Lord will come like a thief in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.3",
+      "edition_verse_id": "BSB:1TH.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "While people are saying, “Peace and security,” destruction will come upon them suddenly, like labor pains on a pregnant woman, and they will not escape.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.4",
+      "edition_verse_id": "BSB:1TH.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But you, brothers, are not in the darkness so that this day should overtake you like a thief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.5",
+      "edition_verse_id": "BSB:1TH.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For you are all sons of the light and sons of the day; we do not belong to the night or to the darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.6",
+      "edition_verse_id": "BSB:1TH.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So then, let us not sleep as the others do, but let us remain awake and sober.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.7",
+      "edition_verse_id": "BSB:1TH.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For those who sleep, sleep at night, and those who get drunk, get drunk at night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.8",
+      "edition_verse_id": "BSB:1TH.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But since we belong to the day, let us be sober, putting on the breastplate of faith and love, and the helmet of our hope of salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.9",
+      "edition_verse_id": "BSB:1TH.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For God has not appointed us to suffer wrath, but to obtain salvation through our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.10",
+      "edition_verse_id": "BSB:1TH.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He died for us so that, whether we are awake or asleep, we may live together with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.11",
+      "edition_verse_id": "BSB:1TH.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Therefore encourage and build one another up, just as you are already doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.12",
+      "edition_verse_id": "BSB:1TH.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But we ask you, brothers, to acknowledge those who work diligently among you, who care for you in the Lord and who admonish you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.13",
+      "edition_verse_id": "BSB:1TH.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "In love, hold them in highest regard because of their work. Live in peace with one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.14",
+      "edition_verse_id": "BSB:1TH.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And we urge you, brothers, to admonish the unruly, encourage the fainthearted, help the weak, and be patient with everyone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.15",
+      "edition_verse_id": "BSB:1TH.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Make sure that no one repays evil for evil. Always pursue what is good for one another and for all people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.16",
+      "edition_verse_id": "BSB:1TH.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Rejoice at all times.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.17",
+      "edition_verse_id": "BSB:1TH.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Pray without ceasing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.18",
+      "edition_verse_id": "BSB:1TH.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Give thanks in every circumstance, for this is God’s will for you in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.19",
+      "edition_verse_id": "BSB:1TH.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Do not extinguish the Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.20",
+      "edition_verse_id": "BSB:1TH.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Do not treat prophecies with contempt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.21",
+      "edition_verse_id": "BSB:1TH.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "but test all things. Hold fast to what is good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.22",
+      "edition_verse_id": "BSB:1TH.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Abstain from every form of evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.23",
+      "edition_verse_id": "BSB:1TH.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now may the God of peace Himself sanctify you completely, and may your entire spirit, soul, and body be kept blameless at the coming of our Lord Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.24",
+      "edition_verse_id": "BSB:1TH.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The One who calls you is faithful, and He will do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.5.25",
+      "edition_verse_id": "BSB:1TH.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Brothers, pray for us as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.26",
+      "edition_verse_id": "BSB:1TH.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Greet all the brothers with a holy kiss.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.27",
+      "edition_verse_id": "BSB:1TH.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "I charge you before the Lord to have this letter read to all the brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.5.28",
+      "edition_verse_id": "BSB:1TH.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The grace of our Lord Jesus Christ be with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

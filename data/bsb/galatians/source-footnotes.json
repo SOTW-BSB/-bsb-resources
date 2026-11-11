@@ -1,0 +1,145 @@
+{
+  "edition_id": "BSB",
+  "book_code": "GAL",
+  "chapters": {
+    "1": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 1:3 \\ft SBL, BYZ, and TR \\fqa God the Father and our Lord Jesus Christ\\f*",
+          "raw_sha256": "fbb5ce63fd4cdd4f875e495157c1400ccafc1626c8033fd5b45b7fe2e5b1da3e"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 1:11 \\ft Literally \\fqa not according to man\\f*",
+          "raw_sha256": "243fed43ba96e2756718575d4e6984f68d13c103de8b29ceb2ae26b1e02c0705"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 1:18 \\ft That is, Peter\\f*",
+          "raw_sha256": "5103f04ea3e06fbb05200020971f9a63a4ff1c4e742b67db2c1a1cf06e75cee2"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Literally \\fqa God does not accept the face of man\\f*",
+          "raw_sha256": "e77ba2941aaf13381c4fea5142bd269e2b104d48b8026105348414b095c10e15"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 2:9 \\ft That is, Peter; also in verses 11 and 14\\f*",
+          "raw_sha256": "beef73825944191748a61d52fe17f40f213e52549aa47ea182d5900cdb24d7a5"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 2:14 \\ft Some translators close this quotation after verse 16 or 21.\\f*",
+          "raw_sha256": "dc875f7a297786444c149ed890fe1958620f8b27cef0994e85a831b6f110905c"
+        }
+      ]
+    },
+    "3": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft \\ref Genesis 15:6|GEN 15:6\\ref*\\f*",
+          "raw_sha256": "a075ff1174ba9c98977b0989f2e5fd31e88108cb74b0f7026b853b0745920001"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft See \\ref Genesis 12:3|GEN 12:3\\ref*, Genesis 18:18, and Genesis 22:18.\\f*",
+          "raw_sha256": "84bff3163499dac4319f9662b72c9e3f3a7e70ae4af0dbde8d6db0a287231159"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 3:10 \\ft \\ref Deuteronomy 27:26|DEU 27:26\\ref* (see also LXX)\\f*",
+          "raw_sha256": "2bd486d430e9edcc0aceaf4f3ffb70e8b21530f4a7a75e6dac280979a51cc816"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft \\ref Habakkuk 2:4|HAB 2:4\\ref*\\f*",
+          "raw_sha256": "513ba3a2eeb7d089423ab52440e4fac920305c40bb61ba098d5888ff38332503"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft \\ref Leviticus 18:5|LEV 18:5\\ref*; see also Ezekiel 20:11, 13, and 21.\\f*",
+          "raw_sha256": "fab59da3ec1d2101b06122ea1a61f95d2044326b764273c7466a435e90e563c1"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 3:13 \\ft \\ref Deuteronomy 21:23|DEU 21:23\\ref* (see also LXX)\\f*",
+          "raw_sha256": "980ae5bbc1449afe09af0fe943c578f264a501840e316ec410c2404c133fb875"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 3:14 \\ft Literally \\fqa the blessing of Abraham\\f*",
+          "raw_sha256": "93052e4daa65dc9ab6287eaac2f224b8b1c38bcbaab1db155d60ca475d54919e"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft \\ref Genesis 12:7|GEN 12:7\\ref*; Genesis 13:15\\f*",
+          "raw_sha256": "d990978491a149f8f13d15149bf35f0d8f116af00995cd1414b43f5b9946a0a4"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft Or \\fqa elemental forces\\ft ; similarly in verse 9\\f*",
+          "raw_sha256": "64fded08c9096164097b03401fb3ba65d7564348296bd3d214f4aa63fea9c4c8"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 4:22 \\ft See \\ref Genesis 16:15|GEN 16:15\\ref* and Genesis 21:2–3.\\f*",
+          "raw_sha256": "24714d000654701a16973b5b1f3111082d0ca36c9bcfe93c19d97a9bf382c217"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 4:27 \\ft \\ref Isaiah 54:1|ISA 54:1\\ref*\\f*",
+          "raw_sha256": "75cbe3f0c0e2476a037f5089ce51a72ffda35e6224b76cce3caa7590bff4c73c"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 4:28 \\ft WH, BYZ, and TR \\fqa we\\f*",
+          "raw_sha256": "b29d3d4b3890038d1fa52a61ba65269299bbd88eabc2be0175234b0354c7add5"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 4:30 \\ft \\ref Genesis 21:10|GEN 21:10\\ref*\\f*",
+          "raw_sha256": "cebf92fb4644511cb5b46a4f32f4ab7b2096dc29562954fe3cc1dad0faa61d85"
+        }
+      ]
+    },
+    "5": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 5:14 \\ft \\ref Leviticus 19:18|LEV 19:18\\ref*\\f*",
+          "raw_sha256": "6f088310cd2340f21f231b40f46bcfa16afa53c41ebbd79b0d7514f8eb10096d"
+        }
+      ]
+    },
+    "6": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 6:14 \\ft Or \\fqa through whom\\f*",
+          "raw_sha256": "d05dd225dcac12f2ac52e7ee8a1bd2c098c2957a4c4871cc89a9a7a1fc76c76d"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

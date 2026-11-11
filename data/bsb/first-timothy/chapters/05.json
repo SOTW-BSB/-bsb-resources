@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1TI",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1TI.5.1",
+      "edition_verse_id": "BSB:1TI.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Do not rebuke an older man, but appeal to him as to a father. Treat younger men as brothers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.2",
+      "edition_verse_id": "BSB:1TI.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "older women as mothers, and younger women as sisters, with absolute purity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.3",
+      "edition_verse_id": "BSB:1TI.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Honor the widows who are truly widows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.4",
+      "edition_verse_id": "BSB:1TI.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But if a widow has children or grandchildren, they must first learn to show godliness to their own family and repay their parents, for this is pleasing in the sight of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.5",
+      "edition_verse_id": "BSB:1TI.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The widow who is truly in need and left all alone puts her hope in God and continues night and day in her petitions and prayers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.6",
+      "edition_verse_id": "BSB:1TI.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But she who lives for pleasure is dead even while she is still alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.7",
+      "edition_verse_id": "BSB:1TI.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Give these instructions to the believers, so that they will be above reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.8",
+      "edition_verse_id": "BSB:1TI.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If anyone does not provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.9",
+      "edition_verse_id": "BSB:1TI.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A widow should be enrolled if she is at least sixty years old, faithful to her husband,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.10",
+      "edition_verse_id": "BSB:1TI.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and well known for good deeds such as bringing up children, entertaining strangers, washing the feet of the saints, imparting relief to the afflicted, and devoting herself to every good work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.11",
+      "edition_verse_id": "BSB:1TI.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But refuse to enroll younger widows. For when their passions draw them away from Christ, they will want to marry,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.12",
+      "edition_verse_id": "BSB:1TI.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and thus will incur judgment because they are setting aside their first faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.13",
+      "edition_verse_id": "BSB:1TI.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "At the same time they will also learn to be idle, going from house to house and being not only idle, but also gossips and busybodies, discussing things they should not mention.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.14",
+      "edition_verse_id": "BSB:1TI.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So I advise the younger widows to marry, have children, and manage their households, denying the adversary occasion for slander.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.15",
+      "edition_verse_id": "BSB:1TI.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For some have already turned aside to follow Satan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.16",
+      "edition_verse_id": "BSB:1TI.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If any believing woman has dependent widows, she must assist them and not allow the church to be burdened, so that it can help the widows who are truly in need.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.17",
+      "edition_verse_id": "BSB:1TI.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Elders who lead effectively are worthy of double honor, especially those who work hard at preaching and teaching.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.18",
+      "edition_verse_id": "BSB:1TI.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For the Scripture says, “Do not muzzle an ox while it is treading out the grain,” and, “The worker is worthy of his wages.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.19",
+      "edition_verse_id": "BSB:1TI.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Do not entertain an accusation against an elder, except on the testimony of two or three witnesses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.20",
+      "edition_verse_id": "BSB:1TI.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But those who persist in sin should be rebuked in front of everyone, so that the others will stand in fear of sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.5.21",
+      "edition_verse_id": "BSB:1TI.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I solemnly charge you before God and Christ Jesus and the elect angels to maintain these principles without bias, and to do nothing out of partiality.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.22",
+      "edition_verse_id": "BSB:1TI.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Do not be too quick in the laying on of hands and thereby share in the sins of others. Keep yourself pure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.23",
+      "edition_verse_id": "BSB:1TI.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Stop drinking only water and use a little wine instead, because of your stomach and your frequent ailments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.24",
+      "edition_verse_id": "BSB:1TI.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The sins of some men are obvious, going ahead of them to judgment; but the sins of others do not surface until later.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.5.25",
+      "edition_verse_id": "BSB:1TI.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "In the same way, good deeds are obvious, and even the ones that are inconspicuous cannot remain hidden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

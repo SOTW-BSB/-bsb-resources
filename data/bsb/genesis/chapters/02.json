@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "GEN.2.1",
+      "edition_verse_id": "BSB:GEN.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Thus the heavens and the earth were completed in all their vast array.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.2",
+      "edition_verse_id": "BSB:GEN.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And by the seventh day God had finished the work He had been doing; so on that day He rested from all His work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.3",
+      "edition_verse_id": "BSB:GEN.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then God blessed the seventh day and sanctified it, because on that day He rested from all the work of creation that He had accomplished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.4",
+      "edition_verse_id": "BSB:GEN.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This is the account of the heavens and the earth when they were created, in the day that the LORD God made them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.5",
+      "edition_verse_id": "BSB:GEN.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now no shrub of the field had yet appeared on the earth, nor had any plant of the field sprouted, for the LORD God had not yet sent rain upon the earth, and there was no man to cultivate the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.6",
+      "edition_verse_id": "BSB:GEN.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But springs welled up from the earth and watered the whole surface of the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.7",
+      "edition_verse_id": "BSB:GEN.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.8",
+      "edition_verse_id": "BSB:GEN.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.9",
+      "edition_verse_id": "BSB:GEN.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.10",
+      "edition_verse_id": "BSB:GEN.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now a river flowed out of Eden to water the garden, and from there it branched into four headwaters:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.11",
+      "edition_verse_id": "BSB:GEN.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The name of the first river is the Pishon; it winds through the whole land of Havilah, where there is gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.12",
+      "edition_verse_id": "BSB:GEN.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the gold of that land is pure, and bdellium and onyx are found there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.13",
+      "edition_verse_id": "BSB:GEN.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The name of the second river is the Gihon; it winds through the whole land of Cush.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.14",
+      "edition_verse_id": "BSB:GEN.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The name of the third river is the Tigris; it runs along the east side of Assyria. And the fourth river is the Euphrates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.15",
+      "edition_verse_id": "BSB:GEN.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the LORD God took the man and placed him in the Garden of Eden to cultivate and keep it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.16",
+      "edition_verse_id": "BSB:GEN.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the LORD God commanded him, “You may eat freely from every tree of the garden,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.17",
+      "edition_verse_id": "BSB:GEN.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.18",
+      "edition_verse_id": "BSB:GEN.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The LORD God also said, “It is not good for the man to be alone. I will make for him a suitable helper.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.19",
+      "edition_verse_id": "BSB:GEN.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And out of the ground the LORD God formed every beast of the field and every bird of the air, and He brought them to the man to see what he would name each one. And whatever the man called each living creature, that was its name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.20",
+      "edition_verse_id": "BSB:GEN.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.21",
+      "edition_verse_id": "BSB:GEN.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So the LORD God caused the man to fall into a deep sleep, and while he slept, He took one of the man’s ribs and closed up the area with flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.22",
+      "edition_verse_id": "BSB:GEN.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And from the rib that the LORD God had taken from the man, He made a woman and brought her to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.23",
+      "edition_verse_id": "BSB:GEN.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the man said: “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.2.24",
+      "edition_verse_id": "BSB:GEN.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.2.25",
+      "edition_verse_id": "BSB:GEN.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the man and his wife were both naked, and they were not ashamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

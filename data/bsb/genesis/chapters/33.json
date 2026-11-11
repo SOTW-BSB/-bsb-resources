@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 33,
+  "verses": [
+    {
+      "id": "GEN.33.1",
+      "edition_verse_id": "BSB:GEN.33.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Jacob looked up and saw Esau coming toward him with four hundred men. So he divided the children among Leah, Rachel, and the two maidservants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.2",
+      "edition_verse_id": "BSB:GEN.33.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He put the maidservants and their children in front, Leah and her children next, and Rachel and Joseph at the rear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.33.3",
+      "edition_verse_id": "BSB:GEN.33.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But Jacob himself went on ahead and bowed to the ground seven times as he approached his brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.33.4",
+      "edition_verse_id": "BSB:GEN.33.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.5",
+      "edition_verse_id": "BSB:GEN.33.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When Esau looked up and saw the women and children, he asked, “Who are these with you?” Jacob answered, “These are the children God has graciously given your servant.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.6",
+      "edition_verse_id": "BSB:GEN.33.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the maidservants and their children approached and bowed down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.7",
+      "edition_verse_id": "BSB:GEN.33.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Leah and her children also approached and bowed down, and then Joseph and Rachel approached and bowed down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.33.8",
+      "edition_verse_id": "BSB:GEN.33.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“What do you mean by sending this whole company to meet me?” asked Esau. “To find favor in your sight, my lord,” Jacob answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.9",
+      "edition_verse_id": "BSB:GEN.33.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“I already have plenty, my brother,” Esau replied. “Keep what belongs to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.10",
+      "edition_verse_id": "BSB:GEN.33.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But Jacob insisted, “No, please! If I have found favor in your sight, then receive this gift from my hand. For indeed, I have seen your face, and it is like seeing the face of God, since you have received me favorably.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.11",
+      "edition_verse_id": "BSB:GEN.33.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Please accept my gift that was brought to you, because God has been gracious to me and I have all I need.” So Jacob pressed him until he accepted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.33.12",
+      "edition_verse_id": "BSB:GEN.33.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then Esau said, “Let us be on our way, and I will go ahead of you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.13",
+      "edition_verse_id": "BSB:GEN.33.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But Jacob replied, “My lord knows that the children are frail, and I must care for sheep and cattle that are nursing their young. If they are driven hard for even a day, all the animals will die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.14",
+      "edition_verse_id": "BSB:GEN.33.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Please let my lord go ahead of his servant. I will continue on slowly, at a comfortable pace for the livestock and children, until I come to my lord at Seir.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.33.15",
+      "edition_verse_id": "BSB:GEN.33.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Let me leave some of my people with you,” Esau said. But Jacob replied, “Why do that? Let me find favor in the sight of my lord.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.16",
+      "edition_verse_id": "BSB:GEN.33.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So that day Esau started on his way back to Seir,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.17",
+      "edition_verse_id": "BSB:GEN.33.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "but Jacob went on to Succoth, where he built a house for himself and shelters for his livestock; that is why the place was called Succoth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.33.18",
+      "edition_verse_id": "BSB:GEN.33.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "After Jacob had come from Paddan-aram, he arrived safely at the city of Shechem in the land of Canaan, and he camped just outside the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.33.19",
+      "edition_verse_id": "BSB:GEN.33.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the plot of ground where he pitched his tent, he purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.33.20",
+      "edition_verse_id": "BSB:GEN.33.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "There he set up an altar and called it El-Elohe-Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

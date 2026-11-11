@@ -1,0 +1,44 @@
+{
+  "edition_id": "BSB",
+  "book_code": "GAL",
+  "chapter_count": 6,
+  "verse_count": 149,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 24,
+      "omitted_from_main_text": [],
+      "sha256": "dc51a89c5e62b885d54b234da309972a8369871c98613b0ab676237e83c5ae08"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "7240f91b4bbfabe332bab4be9f9cac8ba286fe86402ff37767fceb30181f6bfe"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 29,
+      "omitted_from_main_text": [],
+      "sha256": "e882e272b75629f3241937b03b842efbff4a8d567ca7b57649b02ea8e3d105f5"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 31,
+      "omitted_from_main_text": [],
+      "sha256": "faa518f094adfd3a40cc98806992c40e592264a5511a212022f3188bc738f356"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 26,
+      "omitted_from_main_text": [],
+      "sha256": "571cfd811d1b7345469fb561069e574444149ca3d621637e372a3dd395e32091"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "e9738d1638969fc96c144483c8b2f560882461b8e426014e4edcfbb792952d46"
+    }
+  ]
+}

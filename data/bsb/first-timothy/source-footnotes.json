@@ -1,0 +1,111 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1TI",
+  "chapters": {
+    "1": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft Literally \\fqa rather than the stewardship of God in faith\\f*",
+          "raw_sha256": "60d89417668c6af059f309440c4fdef9a571ffa3a05cb3b3f7b97789ffeda318"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\ft Or \\fqa for kidnappers\\f*",
+          "raw_sha256": "72a0a4834a5b54946a19942c493b702f76370c487d7934c4ed89eed88d02d842"
+        }
+      ]
+    },
+    "2": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 2:8 \\ft Or \\fqa in every place (of worship)\\f*",
+          "raw_sha256": "e3b8ed49300432a49ba5386f36c90b0400e98e534d8e4ec1a942c0453385b1e7"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 2:11 \\ft Or \\fqa wife\\ft ; also in verse 12\\f*",
+          "raw_sha256": "5d578c709ab8815be8b403942f13862b57674fa1deb8a1ae938a18edf1ac9cdf"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 2:12 \\ft Or \\fqa over her husband\\f*",
+          "raw_sha256": "39722f91e3c255ed1ac2649115e6ae515710b82d5c29a212737297d6128035d2"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 2:15 \\ft Literally \\fqa She, however, will be saved\\f*",
+          "raw_sha256": "4acbe817715de78a75c0f290384d7c52d1025fe4c103ef050f5c79f80904c4e1"
+        }
+      ]
+    },
+    "3": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\ft Or \\fqa faithful to his wife\\ft ; also in verse 12\\f*",
+          "raw_sha256": "db8d1207000c86e7af3cc25c3715dae434b6e4823ee6db25ad491149fcb39b8e"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft Or \\fqa their wives\\f*",
+          "raw_sha256": "e1554d1314139dc54ac4c5036041f2936777dd968813c7e1b732926f8d630ba7"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft Literally \\fqa He who appeared\\ft ; BYZ and TR \\fqa God appeared\\f*",
+          "raw_sha256": "0f3a2dcb68a0d960e98de240c89f4c23484c49fdf3c01bdb43051f6409a1e2e8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft Or \\fqa vindicated in spirit\\f*",
+          "raw_sha256": "e3b5f66e0ce7669dbd1dd31f583391f27f231b6239e0c0c9e697465198d44f15"
+        }
+      ]
+    },
+    "4": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 4:10 \\ft SBL, BYZ, and TR \\fqa and suffer reproach\\f*",
+          "raw_sha256": "17fae6b6bb19b30307ee670910a7e808a0462e489f24365ad78b285ff7fef5ef"
+        }
+      ]
+    },
+    "5": {
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 5:18 \\ft \\ref Deuteronomy 25:4|DEU 25:4\\ref*\\f*",
+          "raw_sha256": "fad45edaae1c3f68ec55d6a23713c3e58b879348adbe096807aa6471dafd87b4"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:18 \\ft \\ref Luke 10:7|LUK 10:7\\ref*; see also Leviticus 19:13 and Deuteronomy 24:14–15.\\f*",
+          "raw_sha256": "6ec8f4721aad0f873d0c4b2891aabe6a3fa6fbd19bed55914164a175e9be0a28"
+        }
+      ]
+    },
+    "6": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 6:5 \\ft BYZ and TR include \\fqa Withdraw yourself from such.\\f*",
+          "raw_sha256": "6b8f9e38c95ffe5c64c1c75e2a3c32947a683c9d141dbdfd9cf810403d92fea6"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 6:7 \\ft BYZ and TR \\fqa so certainly\\f*",
+          "raw_sha256": "90733b65db0e2fc5110877f2341d3ed8a36eb80c10d0c4b720fdb5d1e6542548"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 6:21 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "57c8fd572e736390a2700d39d0773ed7c8773671278db700466e8fc3064cac4b"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

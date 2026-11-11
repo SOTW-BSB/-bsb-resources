@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "GEN.8.1",
+      "edition_verse_id": "BSB:GEN.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "But God remembered Noah and all the animals and livestock that were with him in the ark. And God sent a wind over the earth, and the waters began to subside.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.2",
+      "edition_verse_id": "BSB:GEN.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The springs of the deep and the floodgates of the heavens were closed, and the rain from the sky was restrained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.3",
+      "edition_verse_id": "BSB:GEN.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The waters receded steadily from the earth, and after 150 days the waters had gone down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.4",
+      "edition_verse_id": "BSB:GEN.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "On the seventeenth day of the seventh month, the ark came to rest on the mountains of Ararat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.5",
+      "edition_verse_id": "BSB:GEN.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.6",
+      "edition_verse_id": "BSB:GEN.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "After forty days Noah opened the window he had made in the ark",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.7",
+      "edition_verse_id": "BSB:GEN.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and sent out a raven. It kept flying back and forth until the waters had dried up from the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.8",
+      "edition_verse_id": "BSB:GEN.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Noah sent out a dove to see if the waters had receded from the surface of the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.9",
+      "edition_verse_id": "BSB:GEN.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But the dove found no place to rest her foot, and she returned to him in the ark, because the waters were still covering the surface of all the earth. So he reached out his hand and brought her back inside the ark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.10",
+      "edition_verse_id": "BSB:GEN.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Noah waited seven more days and again sent out the dove from the ark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.11",
+      "edition_verse_id": "BSB:GEN.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And behold, the dove returned to him in the evening with a freshly plucked olive leaf in her beak. So Noah knew that the waters had receded from the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.12",
+      "edition_verse_id": "BSB:GEN.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Noah waited seven more days and sent out the dove again, but this time she did not return to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.13",
+      "edition_verse_id": "BSB:GEN.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "In Noah’s six hundred and first year, on the first day of the first month, the waters had dried up from the earth. So Noah removed the covering from the ark and saw that the surface of the ground was dry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.14",
+      "edition_verse_id": "BSB:GEN.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "By the twenty-seventh day of the second month, the earth was fully dry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.15",
+      "edition_verse_id": "BSB:GEN.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then God said to Noah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.16",
+      "edition_verse_id": "BSB:GEN.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“Come out of the ark, you and your wife, along with your sons and their wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.17",
+      "edition_verse_id": "BSB:GEN.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Bring out all the living creatures that are with you— birds, livestock, and everything that crawls upon the ground— so that they can spread out over the earth and be fruitful and multiply upon it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.18",
+      "edition_verse_id": "BSB:GEN.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So Noah came out, along with his sons and his wife and his sons’ wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.19",
+      "edition_verse_id": "BSB:GEN.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Every living creature, every creeping thing, and every bird — everything that moves upon the earth — came out of the ark, kind by kind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.20",
+      "edition_verse_id": "BSB:GEN.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Noah built an altar to the LORD. And taking from every kind of clean animal and clean bird, he offered burnt offerings on the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.8.21",
+      "edition_verse_id": "BSB:GEN.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When the LORD smelled the pleasing aroma, He said in His heart, “Never again will I curse the ground because of man, even though every inclination of his heart is evil from his youth. And never again will I destroy all living creatures as I have done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.8.22",
+      "edition_verse_id": "BSB:GEN.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night shall never cease.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

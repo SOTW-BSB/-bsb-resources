@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "GEN.32.1",
+      "edition_verse_id": "BSB:GEN.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Jacob also went on his way, and the angels of God met him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.2",
+      "edition_verse_id": "BSB:GEN.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When Jacob saw them, he said, “This is the camp of God.” So he named that place Mahanaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.3",
+      "edition_verse_id": "BSB:GEN.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.4",
+      "edition_verse_id": "BSB:GEN.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He instructed them, “You are to say to my master Esau, ‘Your servant Jacob says: I have been staying with Laban and have remained there until now.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.5",
+      "edition_verse_id": "BSB:GEN.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I have oxen, donkeys, flocks, menservants, and maidservants. I have sent this message to inform my master, so that I may find favor in your sight.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.6",
+      "edition_verse_id": "BSB:GEN.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When the messengers returned to Jacob, they said, “We went to your brother Esau, and now he is coming to meet you— he and four hundred men with him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.7",
+      "edition_verse_id": "BSB:GEN.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In great fear and distress, Jacob divided his people into two camps, as well as the flocks and herds and camels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.8",
+      "edition_verse_id": "BSB:GEN.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He thought, “If Esau comes and attacks one camp, then the other camp can escape.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.9",
+      "edition_verse_id": "BSB:GEN.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Jacob declared, “O God of my father Abraham, God of my father Isaac, the LORD who told me, ‘Go back to your country and to your kindred, and I will make you prosper,’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.10",
+      "edition_verse_id": "BSB:GEN.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I am unworthy of all the kindness and faithfulness You have shown Your servant. Indeed, with only my staff I came across the Jordan, but now I have become two camps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.11",
+      "edition_verse_id": "BSB:GEN.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Please deliver me from the hand of my brother Esau, for I am afraid that he may come and attack me and the mothers and children with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.12",
+      "edition_verse_id": "BSB:GEN.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But You have said, ‘I will surely make you prosper, and I will make your offspring like the sand of the sea, too numerous to count.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.13",
+      "edition_verse_id": "BSB:GEN.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jacob spent the night there, and from what he had brought with him, he selected a gift for his brother Esau:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.14",
+      "edition_verse_id": "BSB:GEN.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "200 female goats, 20 male goats, 200 ewes, 20 rams,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.15",
+      "edition_verse_id": "BSB:GEN.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "30 milk camels with their young, 40 cows, 10 bulls, 20 female donkeys, and 10 male donkeys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.16",
+      "edition_verse_id": "BSB:GEN.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He entrusted them to his servants in separate herds and told them, “Go on ahead of me, and keep some distance between the herds.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.17",
+      "edition_verse_id": "BSB:GEN.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He instructed the one in the lead, “When my brother Esau meets you and asks, ‘To whom do you belong, where are you going, and whose animals are these before you?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.18",
+      "edition_verse_id": "BSB:GEN.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "then you are to say, ‘They belong to your servant Jacob. They are a gift, sent to my lord Esau. And behold, Jacob is behind us.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.19",
+      "edition_verse_id": "BSB:GEN.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He also instructed the second, the third, and all those following behind the herds: “When you meet Esau, you are to say the same thing to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.20",
+      "edition_verse_id": "BSB:GEN.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You are also to say, ‘Look, your servant Jacob is right behind us.’” For he thought, “I will appease Esau with the gift that is going before me. After that I can face him, and perhaps he will accept me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.21",
+      "edition_verse_id": "BSB:GEN.32.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So Jacob’s gifts went on before him, while he spent the night in the camp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.22",
+      "edition_verse_id": "BSB:GEN.32.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "During the night Jacob got up and took his two wives, his two maidservants, and his eleven sons, and crossed the ford of the Jabbok.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.23",
+      "edition_verse_id": "BSB:GEN.32.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He took them and sent them across the stream, along with all his possessions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.24",
+      "edition_verse_id": "BSB:GEN.32.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So Jacob was left all alone, and there a man wrestled with him until daybreak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.25",
+      "edition_verse_id": "BSB:GEN.32.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When the man saw that he could not overpower Jacob, he struck the socket of Jacob’s hip and dislocated it as they wrestled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.26",
+      "edition_verse_id": "BSB:GEN.32.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then the man said, “Let me go, for it is daybreak.” But Jacob replied, “I will not let you go unless you bless me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.32.27",
+      "edition_verse_id": "BSB:GEN.32.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "“What is your name?” the man asked. “Jacob,” he replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.28",
+      "edition_verse_id": "BSB:GEN.32.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then the man said, “Your name will no longer be Jacob, but Israel, because you have struggled with God and with men, and you have prevailed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.29",
+      "edition_verse_id": "BSB:GEN.32.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Jacob requested, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed Jacob there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.30",
+      "edition_verse_id": "BSB:GEN.32.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So Jacob named the place Peniel, saying, “Indeed, I have seen God face to face, and yet my life was spared.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.31",
+      "edition_verse_id": "BSB:GEN.32.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The sun rose above him as he passed by Penuel, and he was limping because of his hip.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.32.32",
+      "edition_verse_id": "BSB:GEN.32.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was struck near that tendon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

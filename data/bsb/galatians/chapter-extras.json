@@ -1,0 +1,47 @@
+{
+  "edition_id": "BSB",
+  "book_code": "GAL",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Paul’s Greeting to the Galatians",
+        "\\s1 No Other Gospel",
+        "\\s1 Paul Preaches the Gospel"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Council at Jerusalem",
+        "\\s1 Paul Confronts Cephas"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Faith and Belief",
+        "\\s1 Christ Has Redeemed Us",
+        "\\s1 The Purpose of the Law",
+        "\\s1 Sons through Faith in Christ"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Sons and Heirs",
+        "\\s1 Paul’s Concern for the Galatians",
+        "\\s1 Hagar and Sarah"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Freedom in Christ",
+        "\\s1 Walking by the Spirit"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Carry One Another’s Burdens",
+        "\\s1 Final Warnings and Blessings"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

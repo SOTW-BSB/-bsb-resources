@@ -1,0 +1,692 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 41,
+  "verses": [
+    {
+      "id": "GEN.41.1",
+      "edition_verse_id": "BSB:GEN.41.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After two full years had passed, Pharaoh had a dream: He was standing beside the Nile,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.2",
+      "edition_verse_id": "BSB:GEN.41.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "when seven cows, sleek and well-fed, came up from the river and began to graze among the reeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.3",
+      "edition_verse_id": "BSB:GEN.41.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "After them, seven other cows, sickly and thin, came up from the Nile and stood beside the well-fed cows on the bank of the river.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.4",
+      "edition_verse_id": "BSB:GEN.41.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the cows that were sickly and thin devoured the seven sleek, well-fed cows. Then Pharaoh woke up,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.5",
+      "edition_verse_id": "BSB:GEN.41.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "but he fell back asleep and dreamed a second time: Seven heads of grain, plump and ripe, came up on one stalk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.6",
+      "edition_verse_id": "BSB:GEN.41.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "After them, seven other heads of grain sprouted, thin and scorched by the east wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.7",
+      "edition_verse_id": "BSB:GEN.41.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the thin heads of grain swallowed up the seven plump, ripe ones. Then Pharaoh awoke and realized it was a dream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.8",
+      "edition_verse_id": "BSB:GEN.41.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In the morning his spirit was troubled, so he summoned all the magicians and wise men of Egypt. Pharaoh told them his dreams, but no one could interpret them for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.9",
+      "edition_verse_id": "BSB:GEN.41.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then the chief cupbearer said to Pharaoh, “Today I recall my failures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.10",
+      "edition_verse_id": "BSB:GEN.41.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Pharaoh was once angry with his servants, and he put me and the chief baker in the custody of the captain of the guard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.11",
+      "edition_verse_id": "BSB:GEN.41.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "One night both the chief baker and I had dreams, and each dream had its own meaning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.12",
+      "edition_verse_id": "BSB:GEN.41.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now a young Hebrew was there with us, a servant of the captain of the guard. We told him our dreams and he interpreted them for us individually.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.13",
+      "edition_verse_id": "BSB:GEN.41.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And it happened to us just as he had interpreted: I was restored to my position, and the other man was hanged.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.14",
+      "edition_verse_id": "BSB:GEN.41.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Pharaoh sent for Joseph, who was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.15",
+      "edition_verse_id": "BSB:GEN.41.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Pharaoh said to Joseph, “I had a dream, and no one can interpret it. But I have heard it said of you that when you hear a dream you can interpret it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.16",
+      "edition_verse_id": "BSB:GEN.41.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“I myself cannot do it,” Joseph replied, “but God will give Pharaoh a sound answer.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.17",
+      "edition_verse_id": "BSB:GEN.41.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Pharaoh said to Joseph: “In my dream I was standing on the bank of the Nile,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.18",
+      "edition_verse_id": "BSB:GEN.41.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "when seven cows, well-fed and sleek, came up from the river and began to graze among the reeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.19",
+      "edition_verse_id": "BSB:GEN.41.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "After them, seven other cows— sickly, ugly, and thin— came up. I have never seen such ugly cows in all the land of Egypt!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.20",
+      "edition_verse_id": "BSB:GEN.41.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then the thin, ugly cows devoured the seven well-fed cows that were there first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.21",
+      "edition_verse_id": "BSB:GEN.41.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When they had devoured them, however, no one could tell that they had done so; their appearance was as ugly as it had been before. Then I awoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.22",
+      "edition_verse_id": "BSB:GEN.41.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In my dream I also saw seven heads of grain, plump and ripe, growing on a single stalk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.23",
+      "edition_verse_id": "BSB:GEN.41.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "After them, seven other heads of grain sprouted— withered, thin, and scorched by the east wind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.24",
+      "edition_verse_id": "BSB:GEN.41.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the thin heads of grain swallowed the seven plump ones. I told this dream to the magicians, but no one could explain it to me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.25",
+      "edition_verse_id": "BSB:GEN.41.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "At this, Joseph said to Pharaoh, “The dreams of Pharaoh are one and the same. God has revealed to Pharaoh what He is about to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.26",
+      "edition_verse_id": "BSB:GEN.41.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The seven good cows are seven years, and the seven ripe heads of grain are seven years. The dreams have the same meaning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.27",
+      "edition_verse_id": "BSB:GEN.41.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Moreover, the seven thin, ugly cows that came up after them are seven years, and so are the seven worthless heads of grain scorched by the east wind — they are seven years of famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.28",
+      "edition_verse_id": "BSB:GEN.41.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "It is just as I said to Pharaoh: God has shown Pharaoh what He is about to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.29",
+      "edition_verse_id": "BSB:GEN.41.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Behold, seven years of great abundance are coming throughout the land of Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.30",
+      "edition_verse_id": "BSB:GEN.41.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "but seven years of famine will follow them. Then all the abundance in the land of Egypt will be forgotten, and the famine will devastate the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.31",
+      "edition_verse_id": "BSB:GEN.41.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The abundance in the land will not be remembered, since the famine that follows it will be so severe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.32",
+      "edition_verse_id": "BSB:GEN.41.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Moreover, because the dream was given to Pharaoh in two versions, the matter has been decreed by God, and He will carry it out shortly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.33",
+      "edition_verse_id": "BSB:GEN.41.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Now, therefore, Pharaoh should look for a discerning and wise man and set him over the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.34",
+      "edition_verse_id": "BSB:GEN.41.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let Pharaoh take action and appoint commissioners over the land to take a fifth of the harvest of Egypt during the seven years of abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.35",
+      "edition_verse_id": "BSB:GEN.41.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Under the authority of Pharaoh, let them collect all the excess food from these good years, that they may come and lay up the grain to be preserved as food in the cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.36",
+      "edition_verse_id": "BSB:GEN.41.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "This food will be a reserve for the land during the seven years of famine to come upon the land of Egypt. Then the country will not perish in the famine.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.37",
+      "edition_verse_id": "BSB:GEN.41.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "This proposal pleased Pharaoh and all his officials.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.38",
+      "edition_verse_id": "BSB:GEN.41.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "So Pharaoh asked them, “Can we find anyone like this man, in whom the Spirit of God abides?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.39",
+      "edition_verse_id": "BSB:GEN.41.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Then Pharaoh said to Joseph, “Since God has made all this known to you, there is no one as discerning and wise as you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.40",
+      "edition_verse_id": "BSB:GEN.41.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "You shall be in charge of my house, and all my people are to obey your commands. Only with regard to the throne will I be greater than you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.41",
+      "edition_verse_id": "BSB:GEN.41.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Pharaoh also told Joseph, “I hereby place you over all the land of Egypt.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.42",
+      "edition_verse_id": "BSB:GEN.41.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Then Pharaoh removed the signet ring from his finger, put it on Joseph’s finger, clothed him in garments of fine linen, and placed a gold chain around his neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.43",
+      "edition_verse_id": "BSB:GEN.41.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "He had Joseph ride in his second chariot, with men calling out before him, “Bow the knee!” So he placed him over all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.44",
+      "edition_verse_id": "BSB:GEN.41.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And Pharaoh declared to Joseph, “I am Pharaoh, but without your permission, no one in all the land of Egypt shall lift his hand or foot.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.45",
+      "edition_verse_id": "BSB:GEN.41.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Pharaoh gave Joseph the name Zaphenath-paneah, and he gave him Asenath daughter of Potiphera, priest of On, to be his wife. And Joseph took charge of all the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.46",
+      "edition_verse_id": "BSB:GEN.41.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Now Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph left Pharaoh’s presence and traveled throughout the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.47",
+      "edition_verse_id": "BSB:GEN.41.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "During the seven years of abundance, the land brought forth bountifully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.48",
+      "edition_verse_id": "BSB:GEN.41.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "During those seven years, Joseph collected all the excess food in the land of Egypt and stored it in the cities. In every city he laid up the food from the fields around it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.49",
+      "edition_verse_id": "BSB:GEN.41.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "So Joseph stored up grain in such abundance, like the sand of the sea, that he stopped keeping track of it; for it was beyond measure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.50",
+      "edition_verse_id": "BSB:GEN.41.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Before the years of famine arrived, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.51",
+      "edition_verse_id": "BSB:GEN.41.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Joseph named the firstborn Manasseh, saying, “God has made me forget all my hardship and all my father’s household.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.52",
+      "edition_verse_id": "BSB:GEN.41.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And the second son he named Ephraim, saying, “God has made me fruitful in the land of my affliction.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.53",
+      "edition_verse_id": "BSB:GEN.41.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "When the seven years of abundance in the land of Egypt came to an end,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.54",
+      "edition_verse_id": "BSB:GEN.41.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "the seven years of famine began, just as Joseph had said. And although there was famine in every country, there was food throughout the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.55",
+      "edition_verse_id": "BSB:GEN.41.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "When extreme hunger came to all the land of Egypt and the people cried out to Pharaoh for food, he told all the Egyptians, “Go to Joseph and do whatever he tells you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.41.56",
+      "edition_verse_id": "BSB:GEN.41.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "When the famine had spread over all the land, Joseph opened up all the storehouses and sold grain to the Egyptians; for the famine was severe in the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.41.57",
+      "edition_verse_id": "BSB:GEN.41.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

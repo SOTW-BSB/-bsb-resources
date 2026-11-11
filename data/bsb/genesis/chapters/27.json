@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 27,
+  "verses": [
+    {
+      "id": "GEN.27.1",
+      "edition_verse_id": "BSB:GEN.27.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him, “My son.” “Here I am,” Esau replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.2",
+      "edition_verse_id": "BSB:GEN.27.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Look,” said Isaac, “I am now old, and I do not know the day of my death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.3",
+      "edition_verse_id": "BSB:GEN.27.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Take your weapons — your quiver and bow — and go out into the field to hunt some game for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.4",
+      "edition_verse_id": "BSB:GEN.27.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then prepare a tasty dish that I love and bring it to me to eat, so that I may bless you before I die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.5",
+      "edition_verse_id": "BSB:GEN.27.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now Rebekah was listening to what Isaac told his son Esau. So when Esau went into the field to hunt game and bring it back,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.6",
+      "edition_verse_id": "BSB:GEN.27.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Rebekah said to her son Jacob, “Behold, I overheard your father saying to your brother Esau,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.7",
+      "edition_verse_id": "BSB:GEN.27.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.8",
+      "edition_verse_id": "BSB:GEN.27.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now, my son, listen to my voice and do exactly as I tell you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.9",
+      "edition_verse_id": "BSB:GEN.27.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Go out to the flock and bring me two choice young goats, so that I can make them into a tasty dish for your father— the kind he loves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.10",
+      "edition_verse_id": "BSB:GEN.27.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then take it to your father to eat, so that he may bless you before he dies.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.11",
+      "edition_verse_id": "BSB:GEN.27.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jacob answered his mother Rebekah, “Look, my brother Esau is a hairy man, but I am smooth-skinned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.12",
+      "edition_verse_id": "BSB:GEN.27.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "What if my father touches me? Then I would be revealed to him as a deceiver, and I would bring upon myself a curse rather than a blessing.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.13",
+      "edition_verse_id": "BSB:GEN.27.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "His mother replied, “Your curse be on me, my son. Just obey my voice and go get them for me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.14",
+      "edition_verse_id": "BSB:GEN.27.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Jacob went and got two goats and brought them to his mother, who made the tasty food his father loved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.15",
+      "edition_verse_id": "BSB:GEN.27.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Rebekah took the finest clothes in the house that belonged to her older son Esau, and she put them on her younger son Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.16",
+      "edition_verse_id": "BSB:GEN.27.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "She also put the skins of the young goats on his hands and on the smooth part of his neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.17",
+      "edition_verse_id": "BSB:GEN.27.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then she handed her son Jacob the tasty food and bread she had made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.18",
+      "edition_verse_id": "BSB:GEN.27.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So Jacob went to his father and said, “My father.” “Here I am!” he answered. “Which one are you, my son?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.19",
+      "edition_verse_id": "BSB:GEN.27.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Jacob said to his father, “I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.20",
+      "edition_verse_id": "BSB:GEN.27.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But Isaac asked his son, “How did you ever find it so quickly, my son?” “Because the LORD your God brought it to me,” he replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.21",
+      "edition_verse_id": "BSB:GEN.27.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then Isaac said to Jacob, “Please come closer so I can touch you, my son. Are you really my son Esau, or not?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.22",
+      "edition_verse_id": "BSB:GEN.27.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So Jacob came close to his father Isaac, who touched him and said, “The voice is the voice of Jacob, but the hands are the hands of Esau.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.23",
+      "edition_verse_id": "BSB:GEN.27.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Isaac did not recognize him, because his hands were hairy like those of his brother Esau; so he blessed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.24",
+      "edition_verse_id": "BSB:GEN.27.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Again he asked, “Are you really my son Esau?” And he replied, “I am.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.25",
+      "edition_verse_id": "BSB:GEN.27.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "“Serve me,” said Isaac, “and let me eat some of my son’s game, so that I may bless you.” Jacob brought it to him, and he ate; then he brought him wine, and he drank.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.26",
+      "edition_verse_id": "BSB:GEN.27.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then his father Isaac said to him, “Please come near and kiss me, my son.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.27",
+      "edition_verse_id": "BSB:GEN.27.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So he came near and kissed him. When Isaac smelled his clothing, he blessed him and said: “Ah, the smell of my son is like the smell of a field that the LORD has blessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.28",
+      "edition_verse_id": "BSB:GEN.27.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "May God give to you the dew of heaven and the richness of the earth — an abundance of grain and new wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.29",
+      "edition_verse_id": "BSB:GEN.27.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "May peoples serve you and nations bow down to you. May you be the master of your brothers, and may the sons of your mother bow down to you. May those who curse you be cursed, and those who bless you be blessed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.30",
+      "edition_verse_id": "BSB:GEN.27.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "As soon as Isaac had finished blessing him and Jacob had left his father’s presence, his brother Esau returned from the hunt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.31",
+      "edition_verse_id": "BSB:GEN.27.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He too made some tasty food, brought it to his father, and said to him, “My father, sit up and eat of your son’s game, so that you may bless me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.32",
+      "edition_verse_id": "BSB:GEN.27.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But his father Isaac replied, “Who are you?” “I am Esau, your firstborn son,” he answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.33",
+      "edition_verse_id": "BSB:GEN.27.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Isaac began to tremble violently and said, “Who was it, then, who hunted the game and brought it to me? Before you came in, I ate it all and blessed him — and indeed, he will be blessed!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.34",
+      "edition_verse_id": "BSB:GEN.27.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When Esau heard his father’s words, he let out a loud and bitter cry and said to his father, “Bless me too, O my father!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.35",
+      "edition_verse_id": "BSB:GEN.27.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But Isaac replied, “Your brother came deceitfully and took your blessing.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.36",
+      "edition_verse_id": "BSB:GEN.27.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "So Esau declared, “Is he not rightly named Jacob? For he has cheated me twice. He took my birthright, and now he has taken my blessing.” Then he asked, “Haven’t you saved a blessing for me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.37",
+      "edition_verse_id": "BSB:GEN.27.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "But Isaac answered Esau: “Look, I have made him your master and given him all his relatives as servants; I have sustained him with grain and new wine. What is left that I can do for you, my son?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.38",
+      "edition_verse_id": "BSB:GEN.27.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Esau said to his father, “Do you have only one blessing, my father? Bless me too, O my father!” Then Esau wept aloud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.39",
+      "edition_verse_id": "BSB:GEN.27.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "His father Isaac answered him: “Behold, your dwelling place shall be away from the richness of the land, away from the dew of heaven above.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.40",
+      "edition_verse_id": "BSB:GEN.27.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "You shall live by the sword and serve your brother. But when you rebel, you will tear his yoke from your neck.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.41",
+      "edition_verse_id": "BSB:GEN.27.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Esau held a grudge against Jacob because of the blessing his father had given him. And Esau said in his heart, “The days of mourning for my father are at hand; then I will kill my brother Jacob.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.42",
+      "edition_verse_id": "BSB:GEN.27.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "When the words of her older son Esau were relayed to Rebekah, she sent for her younger son Jacob and told him, “Look, your brother Esau is consoling himself by plotting to kill you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.27.43",
+      "edition_verse_id": "BSB:GEN.27.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "So now, my son, obey my voice and flee at once to my brother Laban in Haran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.44",
+      "edition_verse_id": "BSB:GEN.27.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Stay with him for a while, until your brother’s fury subsides—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.45",
+      "edition_verse_id": "BSB:GEN.27.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "until your brother’s rage against you wanes and he forgets what you have done to him. Then I will send for you and bring you back from there. Why should I lose both of you in one day?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.27.46",
+      "edition_verse_id": "BSB:GEN.27.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Then Rebekah said to Isaac, “I am weary of my life because of these Hittite women. If Jacob takes a Hittite wife from among them, what good is my life?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

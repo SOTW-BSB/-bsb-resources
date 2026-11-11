@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "GEN.26.1",
+      "edition_verse_id": "BSB:GEN.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.2",
+      "edition_verse_id": "BSB:GEN.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the land where I tell you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.3",
+      "edition_verse_id": "BSB:GEN.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.4",
+      "edition_verse_id": "BSB:GEN.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will make your descendants as numerous as the stars in the sky, and I will give them all these lands, and through your offspring all nations of the earth will be blessed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.5",
+      "edition_verse_id": "BSB:GEN.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.6",
+      "edition_verse_id": "BSB:GEN.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So Isaac settled in Gerar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.7",
+      "edition_verse_id": "BSB:GEN.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But when the men of that place asked about his wife, he said, “She is my sister.” For he was afraid to say, “She is my wife,” since he thought to himself, “The men of this place will kill me on account of Rebekah, because she is so beautiful.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.8",
+      "edition_verse_id": "BSB:GEN.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.9",
+      "edition_verse_id": "BSB:GEN.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Abimelech sent for Isaac and said, “So she is really your wife! How could you say, ‘She is my sister’?” Isaac replied, “Because I thought I might die on account of her.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.10",
+      "edition_verse_id": "BSB:GEN.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“What is this you have done to us?” asked Abimelech. “One of the people could easily have slept with your wife, and you would have brought guilt upon us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.11",
+      "edition_verse_id": "BSB:GEN.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Abimelech warned all the people, saying, “Whoever harms this man or his wife will surely be put to death.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.12",
+      "edition_verse_id": "BSB:GEN.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now Isaac sowed seed in the land, and that very year he reaped a hundredfold. And the LORD blessed him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.13",
+      "edition_verse_id": "BSB:GEN.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and he became richer and richer, until he was exceedingly wealthy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.14",
+      "edition_verse_id": "BSB:GEN.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He owned so many flocks and herds and servants that the Philistines envied him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.15",
+      "edition_verse_id": "BSB:GEN.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.16",
+      "edition_verse_id": "BSB:GEN.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then Abimelech said to Isaac, “Depart from us, for you are much too powerful for us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.17",
+      "edition_verse_id": "BSB:GEN.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So Isaac left that place and encamped in the Valley of Gerar and settled there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.18",
+      "edition_verse_id": "BSB:GEN.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Isaac reopened the wells that had been dug in the days of his father Abraham, which the Philistines had stopped up after Abraham died. And he gave these wells the same names his father had given them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.19",
+      "edition_verse_id": "BSB:GEN.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then Isaac’s servants dug in the valley and found a well of fresh water there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.20",
+      "edition_verse_id": "BSB:GEN.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But the herdsmen of Gerar quarreled with Isaac’s herdsmen and said, “The water is ours!” So he named the well Esek, because they contended with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.21",
+      "edition_verse_id": "BSB:GEN.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then they dug another well and quarreled over that one also; so he named it Sitnah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.22",
+      "edition_verse_id": "BSB:GEN.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, “At last the LORD has made room for us, and we will be fruitful in the land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.23",
+      "edition_verse_id": "BSB:GEN.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "From there Isaac went up to Beersheba,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.24",
+      "edition_verse_id": "BSB:GEN.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and that night the LORD appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.25",
+      "edition_verse_id": "BSB:GEN.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So Isaac built an altar there and called on the name of the LORD, and he pitched his tent there. His servants also dug a well there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.26",
+      "edition_verse_id": "BSB:GEN.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol the commander of his army.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.27",
+      "edition_verse_id": "BSB:GEN.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "“Why have you come to me?” Isaac asked them. “You hated me and sent me away.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.28",
+      "edition_verse_id": "BSB:GEN.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "“We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.29",
+      "edition_verse_id": "BSB:GEN.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.30",
+      "edition_verse_id": "BSB:GEN.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So Isaac prepared a feast for them, and they ate and drank.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.31",
+      "edition_verse_id": "BSB:GEN.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.32",
+      "edition_verse_id": "BSB:GEN.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "On that same day, Isaac’s servants came and told him about the well they had dug. “We have found water!” they told him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.33",
+      "edition_verse_id": "BSB:GEN.26.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So he called it Shibah, and to this day the name of the city is Beersheba.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.26.34",
+      "edition_verse_id": "BSB:GEN.26.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When Esau was forty years old, he took as his wives Judith daughter of Beeri the Hittite and Basemath daughter of Elon the Hittite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.26.35",
+      "edition_verse_id": "BSB:GEN.26.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And they brought grief to Isaac and Rebekah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

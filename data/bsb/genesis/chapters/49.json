@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 49,
+  "verses": [
+    {
+      "id": "GEN.49.1",
+      "edition_verse_id": "BSB:GEN.49.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Jacob called for his sons and said, “Gather around so that I can tell you what will happen to you in the days to come:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.2",
+      "edition_verse_id": "BSB:GEN.49.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Come together and listen, O sons of Jacob; listen to your father Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.3",
+      "edition_verse_id": "BSB:GEN.49.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Reuben, you are my firstborn, my might, and the beginning of my strength, excelling in honor, excelling in power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.4",
+      "edition_verse_id": "BSB:GEN.49.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Uncontrolled as the waters, you will no longer excel, because you went up to your father’s bed, onto my couch, and defiled it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.5",
+      "edition_verse_id": "BSB:GEN.49.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Simeon and Levi are brothers; their swords are weapons of violence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.6",
+      "edition_verse_id": "BSB:GEN.49.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "May I never enter their council; may I never join their assembly. For they kill men in their anger, and hamstring oxen on a whim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.7",
+      "edition_verse_id": "BSB:GEN.49.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Cursed be their anger, for it is strong, and their wrath, for it is cruel! I will disperse them in Jacob and scatter them in Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.8",
+      "edition_verse_id": "BSB:GEN.49.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Judah, your brothers shall praise you. Your hand shall be on the necks of your enemies; your father’s sons shall bow down to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.9",
+      "edition_verse_id": "BSB:GEN.49.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Judah is a young lion— my son, you return from the prey. Like a lion he crouches and lies down; like a lioness, who dares to rouse him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.10",
+      "edition_verse_id": "BSB:GEN.49.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The scepter will not depart from Judah, nor the staff from between his feet, until Shiloh comes and the allegiance of the nations is his.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.11",
+      "edition_verse_id": "BSB:GEN.49.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He ties his donkey to the vine, his colt to the choicest branch. He washes his garments in wine, his robes in the blood of grapes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.12",
+      "edition_verse_id": "BSB:GEN.49.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His eyes are darker than wine, and his teeth are whiter than milk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.13",
+      "edition_verse_id": "BSB:GEN.49.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Zebulun shall dwell by the seashore and become a harbor for ships; his border shall extend to Sidon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.14",
+      "edition_verse_id": "BSB:GEN.49.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Issachar is a strong donkey, lying down between the sheepfolds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.15",
+      "edition_verse_id": "BSB:GEN.49.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He saw that his resting place was good and that his land was pleasant, so he bent his shoulder to the burden and submitted to labor as a servant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.16",
+      "edition_verse_id": "BSB:GEN.49.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Dan shall provide justice for his people as one of the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.17",
+      "edition_verse_id": "BSB:GEN.49.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He will be a snake by the road, a viper in the path that bites the horse’s heels so that its rider tumbles backward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.18",
+      "edition_verse_id": "BSB:GEN.49.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I await Your salvation, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.19",
+      "edition_verse_id": "BSB:GEN.49.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Gad will be attacked by raiders, but he will attack their heels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.20",
+      "edition_verse_id": "BSB:GEN.49.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Asher’s food will be rich; he shall provide royal delicacies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.21",
+      "edition_verse_id": "BSB:GEN.49.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Naphtali is a doe set free that bears beautiful fawns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.22",
+      "edition_verse_id": "BSB:GEN.49.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Joseph is a fruitful vine— a fruitful vine by a spring, whose branches scale the wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.23",
+      "edition_verse_id": "BSB:GEN.49.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The archers attacked him with bitterness; they aimed at him in hostility.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.24",
+      "edition_verse_id": "BSB:GEN.49.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Yet he steadied his bow, and his strong arms were tempered by the hands of the Mighty One of Jacob, in the name of the Shepherd, the Rock of Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.25",
+      "edition_verse_id": "BSB:GEN.49.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "by the God of your father who helps you, and by the Almighty who blesses you, with blessings of the heavens above, with blessings of the depths below, with blessings of the breasts and womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.26",
+      "edition_verse_id": "BSB:GEN.49.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The blessings of your father have surpassed the blessings of the ancient mountains and the bounty of the everlasting hills. May they rest on the head of Joseph, on the brow of the prince of his brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.27",
+      "edition_verse_id": "BSB:GEN.49.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Benjamin is a ravenous wolf; in the morning he devours the prey, in the evening he divides the plunder.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.28",
+      "edition_verse_id": "BSB:GEN.49.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "These are the tribes of Israel, twelve in all, and this was what their father said to them. He blessed them, and he blessed each one with a suitable blessing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.29",
+      "edition_verse_id": "BSB:GEN.49.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then Jacob instructed them, “I am about to be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.49.30",
+      "edition_verse_id": "BSB:GEN.49.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The cave is in the field of Machpelah near Mamre, in the land of Canaan. This is the field Abraham purchased from Ephron the Hittite as a burial site.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.31",
+      "edition_verse_id": "BSB:GEN.49.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "There Abraham and his wife Sarah are buried, there Isaac and his wife Rebekah are buried, and there I buried Leah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.32",
+      "edition_verse_id": "BSB:GEN.49.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The field and the cave that is in it were purchased from the Hittites.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.49.33",
+      "edition_verse_id": "BSB:GEN.49.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When Jacob had finished instructing his sons, he pulled his feet into the bed and breathed his last, and he was gathered to his people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

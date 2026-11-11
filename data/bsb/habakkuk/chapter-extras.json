@@ -1,0 +1,27 @@
+{
+  "edition_id": "BSB",
+  "book_code": "HAB",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Habakkuk’s First Complaint",
+        "\\s1 The LORD’s Answer",
+        "\\s1 Habakkuk’s Second Complaint"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The LORD Answers Again",
+        "\\s1 Woe to the Chaldeans"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Habakkuk’s Prayer",
+        "\\s1 Habakkuk Rejoices",
+        "\\mr For the choirmaster. With stringed instruments."
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

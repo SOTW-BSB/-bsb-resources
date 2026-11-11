@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1TH",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "1TH.3.1",
+      "edition_verse_id": "BSB:1TH.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So when we could bear it no longer, we were willing to be left on our own in Athens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.3.2",
+      "edition_verse_id": "BSB:1TH.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "We sent Timothy, our brother and fellow worker for God in the gospel of Christ, to strengthen and encourage you in your faith,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.3.3",
+      "edition_verse_id": "BSB:1TH.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "so that none of you would be shaken by these trials. For you know that we are destined for this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.3.4",
+      "edition_verse_id": "BSB:1TH.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Indeed, when we were with you, we kept warning you that we would suffer persecution; and as you know, it has come to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.3.5",
+      "edition_verse_id": "BSB:1TH.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For this reason, when I could bear it no longer, I sent to find out about your faith, for fear that the tempter had somehow tempted you and that our labor might have been in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.3.6",
+      "edition_verse_id": "BSB:1TH.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But just now, Timothy has returned from his visit with the good news about your faith, your love, and the fond memories you have preserved, longing to see us just as we long to see you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.3.7",
+      "edition_verse_id": "BSB:1TH.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For this reason, brothers, in all our distress and persecution, we have been reassured about you, because of your faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.3.8",
+      "edition_verse_id": "BSB:1TH.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For now we can go on living, as long as you are standing firm in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.3.9",
+      "edition_verse_id": "BSB:1TH.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "How can we adequately thank God for you in return for our great joy over you in His presence?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.3.10",
+      "edition_verse_id": "BSB:1TH.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Night and day we pray most earnestly that we may see you face to face and supply what is lacking in your faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.3.11",
+      "edition_verse_id": "BSB:1TH.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now may our God and Father Himself, and our Lord Jesus, direct our way to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.3.12",
+      "edition_verse_id": "BSB:1TH.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And may the Lord cause you to increase and overflow with love for one another and for everyone else, just as our love for you overflows,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.3.13",
+      "edition_verse_id": "BSB:1TH.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "so that He may establish your hearts in blamelessness and holiness before our God and Father at the coming of our Lord Jesus with all His saints. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

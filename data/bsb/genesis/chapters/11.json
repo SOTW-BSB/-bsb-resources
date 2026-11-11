@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "GEN.11.1",
+      "edition_verse_id": "BSB:GEN.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the whole world had one language and a common form of speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.2",
+      "edition_verse_id": "BSB:GEN.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And as people journeyed eastward, they found a plain in the land of Shinar and settled there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.3",
+      "edition_verse_id": "BSB:GEN.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they said to one another, “Come, let us make bricks and bake them thoroughly.” So they used brick instead of stone, and tar instead of mortar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.4",
+      "edition_verse_id": "BSB:GEN.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Come,” they said, “let us build for ourselves a city with a tower that reaches to the heavens, that we may make a name for ourselves and not be scattered over the face of all the earth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.5",
+      "edition_verse_id": "BSB:GEN.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then the LORD came down to see the city and the tower that the sons of men were building.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.6",
+      "edition_verse_id": "BSB:GEN.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the LORD said, “If they have begun to do this as one people speaking the same language, then nothing they devise will be beyond them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.7",
+      "edition_verse_id": "BSB:GEN.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Come, let Us go down and confuse their language, so that they will not understand one another’s speech.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.8",
+      "edition_verse_id": "BSB:GEN.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So the LORD scattered them from there over the face of all the earth, and they stopped building the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.9",
+      "edition_verse_id": "BSB:GEN.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "That is why it is called Babel, for there the LORD confused the language of the whole world, and from that place the LORD scattered them over the face of all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.10",
+      "edition_verse_id": "BSB:GEN.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "This is the account of Shem. Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.11",
+      "edition_verse_id": "BSB:GEN.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And after he had become the father of Arphaxad, Shem lived 500 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.12",
+      "edition_verse_id": "BSB:GEN.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When Arphaxad was 35 years old, he became the father of Shelah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.13",
+      "edition_verse_id": "BSB:GEN.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And after he had become the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.14",
+      "edition_verse_id": "BSB:GEN.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When Shelah was 30 years old, he became the father of Eber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.15",
+      "edition_verse_id": "BSB:GEN.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And after he had become the father of Eber, Shelah lived 403 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.16",
+      "edition_verse_id": "BSB:GEN.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When Eber was 34 years old, he became the father of Peleg.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.17",
+      "edition_verse_id": "BSB:GEN.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And after he had become the father of Peleg, Eber lived 430 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.18",
+      "edition_verse_id": "BSB:GEN.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When Peleg was 30 years old, he became the father of Reu.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.19",
+      "edition_verse_id": "BSB:GEN.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And after he had become the father of Reu, Peleg lived 209 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.20",
+      "edition_verse_id": "BSB:GEN.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When Reu was 32 years old, he became the father of Serug.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.21",
+      "edition_verse_id": "BSB:GEN.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And after he had become the father of Serug, Reu lived 207 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.22",
+      "edition_verse_id": "BSB:GEN.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When Serug was 30 years old, he became the father of Nahor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.23",
+      "edition_verse_id": "BSB:GEN.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And after he had become the father of Nahor, Serug lived 200 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.24",
+      "edition_verse_id": "BSB:GEN.11.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When Nahor was 29 years old, he became the father of Terah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.25",
+      "edition_verse_id": "BSB:GEN.11.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And after he had become the father of Terah, Nahor lived 119 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.26",
+      "edition_verse_id": "BSB:GEN.11.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When Terah was 70 years old, he became the father of Abram, Nahor, and Haran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.27",
+      "edition_verse_id": "BSB:GEN.11.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "This is the account of Terah. Terah became the father of Abram, Nahor, and Haran. And Haran became the father of Lot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.28",
+      "edition_verse_id": "BSB:GEN.11.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "During his father Terah’s lifetime, Haran died in his native land, in Ur of the Chaldeans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.29",
+      "edition_verse_id": "BSB:GEN.11.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, and Nahor’s wife was named Milcah; she was the daughter of Haran, who was the father of both Milcah and Iscah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.30",
+      "edition_verse_id": "BSB:GEN.11.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "But Sarai was barren; she had no children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.11.31",
+      "edition_verse_id": "BSB:GEN.11.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in-law Sarai the wife of Abram, and they set out from Ur of the Chaldeans for the land of Canaan. But when they arrived in Haran, they settled there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.11.32",
+      "edition_verse_id": "BSB:GEN.11.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Terah lived 205 years, and he died in Haran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 47,
+  "verses": [
+    {
+      "id": "GEN.47.1",
+      "edition_verse_id": "BSB:GEN.47.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So Joseph went and told Pharaoh: “My father and my brothers, with their flocks and herds and all they own, have come from the land of Canaan and are now in Goshen.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.2",
+      "edition_verse_id": "BSB:GEN.47.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he chose five of his brothers and presented them before Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.3",
+      "edition_verse_id": "BSB:GEN.47.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“What is your occupation?” Pharaoh asked Joseph’s brothers. “Your servants are shepherds,” they replied, “both we and our fathers.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.4",
+      "edition_verse_id": "BSB:GEN.47.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then they said to Pharaoh, “We have come to live in the land for a time, because there is no pasture for the flocks of your servants, since the famine in the land of Canaan has been severe. So now, please allow your servants to settle in the land of Goshen.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.5",
+      "edition_verse_id": "BSB:GEN.47.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Pharaoh said to Joseph, “Now that your father and brothers have come to you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.6",
+      "edition_verse_id": "BSB:GEN.47.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "the land of Egypt is before you; settle your father and brothers in the best part of the land. They may dwell in the land of Goshen. And if you know of any talented men among them, put them in charge of my own livestock.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.7",
+      "edition_verse_id": "BSB:GEN.47.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Joseph brought in his father Jacob and presented him before Pharaoh, and Jacob blessed Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.8",
+      "edition_verse_id": "BSB:GEN.47.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“How many years have you lived?” Pharaoh asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.9",
+      "edition_verse_id": "BSB:GEN.47.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.10",
+      "edition_verse_id": "BSB:GEN.47.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Jacob blessed Pharaoh and departed from his presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.11",
+      "edition_verse_id": "BSB:GEN.47.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Joseph settled his father and brothers in the land of Egypt and gave them property in the best part of the land, the district of Rameses, as Pharaoh had commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.12",
+      "edition_verse_id": "BSB:GEN.47.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Joseph also provided his father and brothers and all his father’s household with food for their families.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.13",
+      "edition_verse_id": "BSB:GEN.47.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "There was no food, however, in all that region, because the famine was so severe; the lands of Egypt and Canaan had been exhausted by the famine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.14",
+      "edition_verse_id": "BSB:GEN.47.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Joseph collected all the money to be found in the land of Egypt and the land of Canaan in exchange for the grain they were buying, and he brought it into Pharaoh’s palace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.15",
+      "edition_verse_id": "BSB:GEN.47.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When the money from the lands of Egypt and Canaan was gone, all the Egyptians came to Joseph and said, “Give us food. Why should we die before your eyes? For our funds have run out!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.16",
+      "edition_verse_id": "BSB:GEN.47.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“Then bring me your livestock,” said Joseph. “Since the money is gone, I will sell you food in exchange for your livestock.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.17",
+      "edition_verse_id": "BSB:GEN.47.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So they brought their livestock to Joseph, and he gave them food in exchange for their horses, their flocks and herds, and their donkeys. Throughout that year he provided them with food in exchange for all their livestock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.18",
+      "edition_verse_id": "BSB:GEN.47.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When that year was over, they came to him the second year and said, “We cannot hide from our lord that our money is gone and all our livestock belongs to you. There is nothing left for our lord except our bodies and our land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.19",
+      "edition_verse_id": "BSB:GEN.47.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Why should we perish before your eyes— we and our land as well? Purchase us and our land in exchange for food. Then we, along with our land, will be slaves to Pharaoh. Give us seed that we may live and not die, and that the land may not become desolate.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.20",
+      "edition_verse_id": "BSB:GEN.47.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Joseph acquired for Pharaoh all the land in Egypt; the Egyptians, one and all, sold their fields because the famine was so severe upon them. The land became Pharaoh’s,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.21",
+      "edition_verse_id": "BSB:GEN.47.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and Joseph reduced the people to servitude from one end of Egypt to the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.22",
+      "edition_verse_id": "BSB:GEN.47.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "However, he did not acquire the priests’ portion of the land, for it had been given to them by Pharaoh. They ate the rations that Pharaoh supplied; so they did not sell their land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.23",
+      "edition_verse_id": "BSB:GEN.47.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then Joseph said to the people, “Now that I have acquired you and your land for Pharaoh this day, here is seed for you to sow in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.24",
+      "edition_verse_id": "BSB:GEN.47.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "At harvest time, you are to give a fifth of it to Pharaoh, and four-fifths will be yours as seed for the field and food for yourselves and your households and children.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.25",
+      "edition_verse_id": "BSB:GEN.47.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "“You have saved our lives,” they said. “We have found favor in our lord’s eyes, and we will be Pharaoh’s servants.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.26",
+      "edition_verse_id": "BSB:GEN.47.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "So Joseph established a law that a fifth of the produce belongs to Pharaoh, and it is in effect in the land of Egypt to this day. Only the priests’ land does not belong to Pharaoh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.27",
+      "edition_verse_id": "BSB:GEN.47.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Now the Israelites settled in the land of Egypt, in the region of Goshen. They acquired property there and became fruitful and increased greatly in number.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.28",
+      "edition_verse_id": "BSB:GEN.47.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Jacob lived in the land of Egypt seventeen years, and the length of his life was 147 years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.29",
+      "edition_verse_id": "BSB:GEN.47.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When the time drew near for Israel to die, he called his son Joseph and said to him, “If I have found favor in your eyes, put your hand under my thigh and promise to show me kindness and faithfulness. Do not bury me in Egypt,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.47.30",
+      "edition_verse_id": "BSB:GEN.47.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "but when I lie down with my fathers, carry me out of Egypt and bury me with them.” Joseph answered, “I will do as you have requested.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.47.31",
+      "edition_verse_id": "BSB:GEN.47.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "“Swear to me,” Jacob said. So Joseph swore to him, and Israel bowed in worship at the head of his bed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

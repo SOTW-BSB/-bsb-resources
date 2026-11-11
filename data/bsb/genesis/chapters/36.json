@@ -1,0 +1,524 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "GEN.36.1",
+      "edition_verse_id": "BSB:GEN.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the account of Esau (that is, Edom).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.2",
+      "edition_verse_id": "BSB:GEN.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Esau took his wives from the daughters of Canaan: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.3",
+      "edition_verse_id": "BSB:GEN.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and Basemath daughter of Ishmael and sister of Nebaioth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.4",
+      "edition_verse_id": "BSB:GEN.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Adah bore Eliphaz to Esau, Basemath gave birth to Reuel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.5",
+      "edition_verse_id": "BSB:GEN.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and Oholibamah gave birth to Jeush, Jalam, and Korah. These were the sons of Esau, who were born to him in the land of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.6",
+      "edition_verse_id": "BSB:GEN.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Later, Esau took his wives and sons and daughters and all the people of his household, along with his livestock, all his other animals, and all the property he had acquired in Canaan, and he moved to a land far away from his brother Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.7",
+      "edition_verse_id": "BSB:GEN.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For their possessions were too great for them to dwell together; the land where they stayed could not support them because of their livestock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.8",
+      "edition_verse_id": "BSB:GEN.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So Esau (that is, Edom) settled in the area of Mount Seir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.9",
+      "edition_verse_id": "BSB:GEN.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "This is the account of Esau, the father of the Edomites, in the area of Mount Seir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.10",
+      "edition_verse_id": "BSB:GEN.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "These are the names of Esau’s sons: Eliphaz son of Esau’s wife Adah, and Reuel son of Esau’s wife Basemath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.11",
+      "edition_verse_id": "BSB:GEN.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.12",
+      "edition_verse_id": "BSB:GEN.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Additionally, Timna, a concubine of Esau’s son Eliphaz, gave birth to Amalek. These are the grandsons of Esau’s wife Adah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.13",
+      "edition_verse_id": "BSB:GEN.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. They are the grandsons of Esau’s wife Basemath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.14",
+      "edition_verse_id": "BSB:GEN.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "These are the sons of Esau’s wife Oholibamah (daughter of Anah and granddaughter of Zibeon) whom she bore to Esau: Jeush, Jalam, and Korah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.15",
+      "edition_verse_id": "BSB:GEN.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "These are the chiefs among the sons of Esau. The sons of Eliphaz the firstborn of Esau: Chiefs Teman, Omar, Zepho, Kenaz,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.16",
+      "edition_verse_id": "BSB:GEN.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Korah, Gatam, and Amalek. They are the chiefs of Eliphaz in the land of Edom, and they are the grandsons of Adah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.17",
+      "edition_verse_id": "BSB:GEN.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "These are the sons of Esau’s son Reuel: Chiefs Nahath, Zerah, Shammah, and Mizzah. They are the chiefs descended from Reuel in the land of Edom, and they are the grandsons of Esau’s wife Basemath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.18",
+      "edition_verse_id": "BSB:GEN.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "These are the sons of Esau’s wife Oholibamah: Chiefs Jeush, Jalam, and Korah. They are the chiefs descended from Esau’s wife Oholibamah, the daughter of Anah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.19",
+      "edition_verse_id": "BSB:GEN.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All these are the sons of Esau (that is, Edom), and they were their chiefs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.20",
+      "edition_verse_id": "BSB:GEN.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "These are the sons of Seir the Horite, who were living in the land: Lotan, Shobal, Zibeon, Anah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.21",
+      "edition_verse_id": "BSB:GEN.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Dishon, Ezer, and Dishan. They are the chiefs of the Horites, the descendants of Seir in the land of Edom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.22",
+      "edition_verse_id": "BSB:GEN.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The sons of Lotan were Hori and Hemam. Timna was Lotan’s sister.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.23",
+      "edition_verse_id": "BSB:GEN.36.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.24",
+      "edition_verse_id": "BSB:GEN.36.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "These are the sons of Zibeon: Aiah and Anah. (This is the Anah who found the hot springs in the wilderness as he was pasturing the donkeys of his father Zibeon.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.25",
+      "edition_verse_id": "BSB:GEN.36.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "These are the children of Anah: Dishon and Oholibamah daughter of Anah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.26",
+      "edition_verse_id": "BSB:GEN.36.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.27",
+      "edition_verse_id": "BSB:GEN.36.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "These are the sons of Ezer: Bilhan, Zaavan, and Akan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.28",
+      "edition_verse_id": "BSB:GEN.36.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "These are the sons of Dishan: Uz and Aran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.29",
+      "edition_verse_id": "BSB:GEN.36.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "These are the chiefs of the Horites: Chiefs Lotan, Shobal, Zibeon, Anah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.30",
+      "edition_verse_id": "BSB:GEN.36.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Dishon, Ezer, and Dishan. They are the chiefs of the Horites, according to their divisions in the land of Seir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.31",
+      "edition_verse_id": "BSB:GEN.36.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "These are the kings who reigned in the land of Edom before any king reigned over the Israelites:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.32",
+      "edition_verse_id": "BSB:GEN.36.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Bela son of Beor reigned in Edom; the name of his city was Dinhabah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.33",
+      "edition_verse_id": "BSB:GEN.36.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When Bela died, Jobab son of Zerah from Bozrah reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.34",
+      "edition_verse_id": "BSB:GEN.36.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When Jobab died, Husham from the land of the Temanites reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.35",
+      "edition_verse_id": "BSB:GEN.36.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, reigned in his place. And the name of his city was Avith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.36",
+      "edition_verse_id": "BSB:GEN.36.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "When Hadad died, Samlah from Masrekah reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.37",
+      "edition_verse_id": "BSB:GEN.36.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "When Samlah died, Shaul from Rehoboth on the Euphrates reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.38",
+      "edition_verse_id": "BSB:GEN.36.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "When Shaul died, Baal-hanan son of Achbor reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.39",
+      "edition_verse_id": "BSB:GEN.36.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "When Baal-hanan son of Achbor died, Hadad reigned in his place. His city was named Pau, and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-zahab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.40",
+      "edition_verse_id": "BSB:GEN.36.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "These are the names of Esau’s chiefs, according to their families and regions, by their names: Chiefs Timna, Alvah, Jetheth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.36.41",
+      "edition_verse_id": "BSB:GEN.36.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Oholibamah, Elah, Pinon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.42",
+      "edition_verse_id": "BSB:GEN.36.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Kenaz, Teman, Mibzar,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.36.43",
+      "edition_verse_id": "BSB:GEN.36.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Magdiel, and Iram. These were the chiefs of Edom, according to their settlements in the land they possessed. Esau was the father of the Edomites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

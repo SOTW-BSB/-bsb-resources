@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 42,
+  "verses": [
+    {
+      "id": "GEN.42.1",
+      "edition_verse_id": "BSB:GEN.42.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Jacob learned that there was grain in Egypt, he said to his sons, “Why are you staring at one another?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.2",
+      "edition_verse_id": "BSB:GEN.42.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Look,” he added, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.3",
+      "edition_verse_id": "BSB:GEN.42.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So ten of Joseph’s brothers went down to buy grain from Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.4",
+      "edition_verse_id": "BSB:GEN.42.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But Jacob did not send Joseph’s brother Benjamin with his brothers, for he said, “I am afraid that harm might befall him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.5",
+      "edition_verse_id": "BSB:GEN.42.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the sons of Israel were among those who came to buy grain, since the famine had also spread to the land of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.6",
+      "edition_verse_id": "BSB:GEN.42.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now Joseph was the ruler of the land; he was the one who sold grain to all its people. So when his brothers arrived, they bowed down before him with their faces to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.7",
+      "edition_verse_id": "BSB:GEN.42.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. “Where have you come from?” he asked. “From the land of Canaan,” they replied. “We are here to buy food.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.8",
+      "edition_verse_id": "BSB:GEN.42.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Although Joseph recognized his brothers, they did not recognize him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.9",
+      "edition_verse_id": "BSB:GEN.42.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Joseph remembered his dreams about them and said, “You are spies! You have come to see if our land is vulnerable.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.10",
+      "edition_verse_id": "BSB:GEN.42.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“Not so, my lord,” they replied. “Your servants have come to buy food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.11",
+      "edition_verse_id": "BSB:GEN.42.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "We are all sons of one man. Your servants are honest men, not spies.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.12",
+      "edition_verse_id": "BSB:GEN.42.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“No,” he told them. “You have come to see if our land is vulnerable.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.13",
+      "edition_verse_id": "BSB:GEN.42.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But they answered, “Your servants are twelve brothers, the sons of one man in the land of Canaan. The youngest is now with our father, and one is no more.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.14",
+      "edition_verse_id": "BSB:GEN.42.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Joseph declared, “Just as I said, you are spies!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.15",
+      "edition_verse_id": "BSB:GEN.42.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And this is how you will be tested: As surely as Pharaoh lives, you shall not leave this place unless your youngest brother comes here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.16",
+      "edition_verse_id": "BSB:GEN.42.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Send one of your number to get your brother; the rest of you will be confined so that the truth of your words may be tested. If they are untrue, then as surely as Pharaoh lives, you are spies!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.17",
+      "edition_verse_id": "BSB:GEN.42.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So Joseph imprisoned them for three days,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.18",
+      "edition_verse_id": "BSB:GEN.42.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and on the third day he said to them, “I fear God. So do this and you will live:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.19",
+      "edition_verse_id": "BSB:GEN.42.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If you are honest, leave one of your brothers in custody while the rest of you go and take back grain to relieve the hunger of your households.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.20",
+      "edition_verse_id": "BSB:GEN.42.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then bring your youngest brother to me so that your words can be verified, that you may not die.” And to this they consented.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.21",
+      "edition_verse_id": "BSB:GEN.42.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then they said to one another, “Surely we are being punished because of our brother. We saw his anguish when he pleaded with us, but we would not listen. That is why this distress has come upon us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.22",
+      "edition_verse_id": "BSB:GEN.42.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Reuben responded, “Didn’t I tell you not to sin against the boy? But you would not listen. Now we must account for his blood!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.23",
+      "edition_verse_id": "BSB:GEN.42.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "They did not realize that Joseph understood them, since there was an interpreter between them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.24",
+      "edition_verse_id": "BSB:GEN.42.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he turned away from them and wept. When he turned back and spoke to them, he took Simeon from them and had him bound before their eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.25",
+      "edition_verse_id": "BSB:GEN.42.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Joseph gave orders to fill their bags with grain, to return each man’s silver to his sack, and to give them provisions for their journey. This order was carried out,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.26",
+      "edition_verse_id": "BSB:GEN.42.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and they loaded the grain on their donkeys and departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.27",
+      "edition_verse_id": "BSB:GEN.42.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "At the place where they lodged for the night, one of them opened his sack to get feed for his donkey, and he saw his silver in the mouth of the sack.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.28",
+      "edition_verse_id": "BSB:GEN.42.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "“My silver has been returned!” he said to his brothers. “It is here in my sack.” Their hearts sank, and trembling, they turned to one another and said, “What is this that God has done to us?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.29",
+      "edition_verse_id": "BSB:GEN.42.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When they reached their father Jacob in the land of Canaan, they described to him all that had happened to them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.30",
+      "edition_verse_id": "BSB:GEN.42.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "“The man who is lord of the land spoke harshly to us and accused us of spying on the country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.31",
+      "edition_verse_id": "BSB:GEN.42.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But we told him, ‘We are honest men, not spies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.32",
+      "edition_verse_id": "BSB:GEN.42.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "We are twelve brothers, sons of one father. One is no more, and the youngest is now with our father in the land of Canaan.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.33",
+      "edition_verse_id": "BSB:GEN.42.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then the man who is lord of the land said to us, ‘This is how I will know whether you are honest: Leave one brother with me, take food to relieve the hunger of your households, and go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.34",
+      "edition_verse_id": "BSB:GEN.42.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "But bring your youngest brother back to me so I will know that you are not spies but honest men. Then I will give your brother back to you, and you can trade in the land.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.42.35",
+      "edition_verse_id": "BSB:GEN.42.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "As they began emptying their sacks, there in each man’s sack was his bag of silver! And when they and their father saw the bags of silver, they were dismayed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.36",
+      "edition_verse_id": "BSB:GEN.42.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Their father Jacob said to them, “You have deprived me of my sons. Joseph is gone and Simeon is no more. Now you want to take Benjamin. Everything is going against me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.37",
+      "edition_verse_id": "BSB:GEN.42.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Then Reuben said to his father, “You may kill my two sons if I fail to bring him back to you. Put him in my care, and I will return him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.42.38",
+      "edition_verse_id": "BSB:GEN.42.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But Jacob replied, “My son will not go down there with you, for his brother is dead, and he alone is left. If any harm comes to him on your journey, you will bring my gray hair down to Sheol in sorrow.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

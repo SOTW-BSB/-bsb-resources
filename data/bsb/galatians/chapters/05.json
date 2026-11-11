@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GAL",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "GAL.5.1",
+      "edition_verse_id": "BSB:GAL.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "It is for freedom that Christ has set us free. Stand firm, then, and do not be encumbered once more by a yoke of slavery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.2",
+      "edition_verse_id": "BSB:GAL.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Take notice: I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.3",
+      "edition_verse_id": "BSB:GAL.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Again I testify to every man who gets himself circumcised that he is obligated to obey the whole law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.4",
+      "edition_verse_id": "BSB:GAL.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You who are trying to be justified by the law have been severed from Christ; you have fallen away from grace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.5",
+      "edition_verse_id": "BSB:GAL.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But by faith we eagerly await through the Spirit the hope of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.6",
+      "edition_verse_id": "BSB:GAL.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For in Christ Jesus neither circumcision nor uncircumcision has any value. What matters is faith expressing itself through love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.7",
+      "edition_verse_id": "BSB:GAL.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You were running so well. Who has obstructed you from obeying the truth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.8",
+      "edition_verse_id": "BSB:GAL.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Such persuasion does not come from the One who calls you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.9",
+      "edition_verse_id": "BSB:GAL.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A little leaven works through the whole batch of dough.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.10",
+      "edition_verse_id": "BSB:GAL.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I am confident in the Lord that you will take no other view. The one who is troubling you will bear the judgment, whoever he may be.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.11",
+      "edition_verse_id": "BSB:GAL.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now, brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.12",
+      "edition_verse_id": "BSB:GAL.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As for those who are agitating you, I wish they would proceed to emasculate themselves!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.13",
+      "edition_verse_id": "BSB:GAL.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For you, brothers, were called to freedom; but do not use your freedom as an opportunity for the flesh. Rather, serve one another in love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.14",
+      "edition_verse_id": "BSB:GAL.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The entire law is fulfilled in a single decree: “Love your neighbor as yourself.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.15",
+      "edition_verse_id": "BSB:GAL.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But if you keep on biting and devouring one another, watch out, or you will be consumed by one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.16",
+      "edition_verse_id": "BSB:GAL.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So I say, walk by the Spirit, and you will not gratify the desires of the flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.17",
+      "edition_verse_id": "BSB:GAL.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the flesh craves what is contrary to the Spirit, and the Spirit what is contrary to the flesh. They are opposed to each other, so that you do not do what you want.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.18",
+      "edition_verse_id": "BSB:GAL.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But if you are led by the Spirit, you are not under the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.19",
+      "edition_verse_id": "BSB:GAL.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The acts of the flesh are obvious: sexual immorality, impurity, and debauchery;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.20",
+      "edition_verse_id": "BSB:GAL.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "idolatry and sorcery; hatred, discord, jealousy, and rage; rivalries, divisions, factions,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.21",
+      "edition_verse_id": "BSB:GAL.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.22",
+      "edition_verse_id": "BSB:GAL.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.23",
+      "edition_verse_id": "BSB:GAL.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "gentleness, and self-control. Against such things there is no law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.24",
+      "edition_verse_id": "BSB:GAL.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.5.25",
+      "edition_verse_id": "BSB:GAL.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Since we live by the Spirit, let us walk in step with the Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.5.26",
+      "edition_verse_id": "BSB:GAL.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Let us not become conceited, provoking and envying one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

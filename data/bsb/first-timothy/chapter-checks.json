@@ -1,0 +1,44 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1TI",
+  "chapter_count": 6,
+  "verse_count": 113,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "050270d66fdf429995c0e54b328329aa16bbda39eb472cfc064c64900bac04f6"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "ec940678bd8738469b392e30585cfe11a3041b56566207bd15d0c922c6745aaf"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 16,
+      "omitted_from_main_text": [],
+      "sha256": "50193e92be1a52158908355186664aa4b149fb0e026aeaea6f6c60eeb520e412"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 16,
+      "omitted_from_main_text": [],
+      "sha256": "e467e4c0647f9c748656ffcbbfcead25379977e95446031ca9e48abbc0e4a83b"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 25,
+      "omitted_from_main_text": [],
+      "sha256": "0d49da255fafad81e8aef2e833e5c1c8a9576b8f81a413540a6e5cef4d41bc3e"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "106daaaea9889531b899e625671b259c208150a6039f0e3b48d26ab5664016f6"
+    }
+  ]
+}

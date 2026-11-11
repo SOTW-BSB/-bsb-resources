@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "GEN.3.1",
+      "edition_verse_id": "BSB:GEN.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.2",
+      "edition_verse_id": "BSB:GEN.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The woman answered the serpent, “We may eat the fruit of the trees of the garden,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.3",
+      "edition_verse_id": "BSB:GEN.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.4",
+      "edition_verse_id": "BSB:GEN.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“You will not surely die,” the serpent told the woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.5",
+      "edition_verse_id": "BSB:GEN.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.6",
+      "edition_verse_id": "BSB:GEN.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.7",
+      "edition_verse_id": "BSB:GEN.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.8",
+      "edition_verse_id": "BSB:GEN.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the man and his wife heard the voice of the LORD God walking in the garden in the breeze of the day, and they hid themselves from the presence of the LORD God among the trees of the garden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.9",
+      "edition_verse_id": "BSB:GEN.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But the LORD God called out to the man, “Where are you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.10",
+      "edition_verse_id": "BSB:GEN.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“I heard Your voice in the garden,” he replied, “and I was afraid because I was naked; so I hid myself.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.11",
+      "edition_verse_id": "BSB:GEN.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“Who told you that you were naked?” asked the LORD God. “Have you eaten from the tree of which I commanded you not to eat?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.12",
+      "edition_verse_id": "BSB:GEN.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the man answered, “The woman whom You gave me, she gave me fruit from the tree, and I ate it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.13",
+      "edition_verse_id": "BSB:GEN.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the LORD God said to the woman, “What is this you have done?” “The serpent deceived me,” she replied, “and I ate.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.14",
+      "edition_verse_id": "BSB:GEN.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So the LORD God said to the serpent: “Because you have done this, cursed are you above all livestock and every beast of the field! On your belly will you go, and dust you will eat, all the days of your life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.15",
+      "edition_verse_id": "BSB:GEN.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.16",
+      "edition_verse_id": "BSB:GEN.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "To the woman He said: “I will sharply increase your pain in childbirth; in pain you will bring forth children. Your desire will be for your husband, and he will rule over you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.17",
+      "edition_verse_id": "BSB:GEN.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And to Adam He said: “Because you have listened to the voice of your wife and have eaten from the tree of which I commanded you not to eat, cursed is the ground because of you; through toil you will eat of it all the days of your life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.18",
+      "edition_verse_id": "BSB:GEN.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Both thorns and thistles it will yield for you, and you will eat the plants of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.19",
+      "edition_verse_id": "BSB:GEN.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "By the sweat of your brow you will eat your bread, until you return to the ground — because out of it were you taken. For dust you are, and to dust you shall return.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.3.20",
+      "edition_verse_id": "BSB:GEN.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Adam named his wife Eve, because she would be the mother of all the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.21",
+      "edition_verse_id": "BSB:GEN.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the LORD God made garments of skin for Adam and his wife, and He clothed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.22",
+      "edition_verse_id": "BSB:GEN.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.23",
+      "edition_verse_id": "BSB:GEN.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.3.24",
+      "edition_verse_id": "BSB:GEN.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

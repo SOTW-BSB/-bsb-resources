@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "GEN.5.1",
+      "edition_verse_id": "BSB:GEN.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.2",
+      "edition_verse_id": "BSB:GEN.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Male and female He created them, and He blessed them. And in the day they were created, He called them “man.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.3",
+      "edition_verse_id": "BSB:GEN.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When Adam was 130 years old, he had a son in his own likeness, after his own image; and he named him Seth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.4",
+      "edition_verse_id": "BSB:GEN.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And after he had become the father of Seth, Adam lived 800 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.5",
+      "edition_verse_id": "BSB:GEN.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So Adam lived a total of 930 years, and then he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.6",
+      "edition_verse_id": "BSB:GEN.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When Seth was 105 years old, he became the father of Enosh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.7",
+      "edition_verse_id": "BSB:GEN.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And after he had become the father of Enosh, Seth lived 807 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.8",
+      "edition_verse_id": "BSB:GEN.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So Seth lived a total of 912 years, and then he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.9",
+      "edition_verse_id": "BSB:GEN.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When Enosh was 90 years old, he became the father of Kenan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.10",
+      "edition_verse_id": "BSB:GEN.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.11",
+      "edition_verse_id": "BSB:GEN.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Enosh lived a total of 905 years, and then he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.12",
+      "edition_verse_id": "BSB:GEN.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When Kenan was 70 years old, he became the father of Mahalalel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.13",
+      "edition_verse_id": "BSB:GEN.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.14",
+      "edition_verse_id": "BSB:GEN.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Kenan lived a total of 910 years, and then he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.15",
+      "edition_verse_id": "BSB:GEN.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When Mahalalel was 65 years old, he became the father of Jared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.16",
+      "edition_verse_id": "BSB:GEN.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And after he had become the father of Jared, Mahalalel lived 830 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.17",
+      "edition_verse_id": "BSB:GEN.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So Mahalalel lived a total of 895 years, and then he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.18",
+      "edition_verse_id": "BSB:GEN.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When Jared was 162 years old, he became the father of Enoch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.19",
+      "edition_verse_id": "BSB:GEN.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And after he had become the father of Enoch, Jared lived 800 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.20",
+      "edition_verse_id": "BSB:GEN.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Jared lived a total of 962 years, and then he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.21",
+      "edition_verse_id": "BSB:GEN.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When Enoch was 65 years old, he became the father of Methuselah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.22",
+      "edition_verse_id": "BSB:GEN.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.23",
+      "edition_verse_id": "BSB:GEN.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So Enoch lived a total of 365 years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.24",
+      "edition_verse_id": "BSB:GEN.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Enoch walked with God, and then he was no more, because God had taken him away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.25",
+      "edition_verse_id": "BSB:GEN.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When Methuselah was 187 years old, he became the father of Lamech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.26",
+      "edition_verse_id": "BSB:GEN.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And after he had become the father of Lamech, Methuselah lived 782 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.27",
+      "edition_verse_id": "BSB:GEN.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So Methuselah lived a total of 969 years, and then he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.28",
+      "edition_verse_id": "BSB:GEN.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When Lamech was 182 years old, he had a son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.5.29",
+      "edition_verse_id": "BSB:GEN.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And he named him Noah, saying, “May this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.30",
+      "edition_verse_id": "BSB:GEN.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And after he had become the father of Noah, Lamech lived 595 years and had other sons and daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.31",
+      "edition_verse_id": "BSB:GEN.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "So Lamech lived a total of 777 years, and then he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.5.32",
+      "edition_verse_id": "BSB:GEN.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "GEN.15.1",
+      "edition_verse_id": "BSB:GEN.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After these events, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.2",
+      "edition_verse_id": "BSB:GEN.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But Abram replied, “O Lord GOD, what can You give me, since I remain childless, and the heir of my house is Eliezer of Damascus?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.3",
+      "edition_verse_id": "BSB:GEN.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Abram continued, “Behold, You have given me no offspring, so a servant in my household will be my heir.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.4",
+      "edition_verse_id": "BSB:GEN.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.5",
+      "edition_verse_id": "BSB:GEN.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.6",
+      "edition_verse_id": "BSB:GEN.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Abram believed the LORD, and it was credited to him as righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.7",
+      "edition_verse_id": "BSB:GEN.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The LORD also told him, “I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to possess.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.8",
+      "edition_verse_id": "BSB:GEN.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Abram replied, “Lord GOD, how can I know that I will possess it?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.9",
+      "edition_verse_id": "BSB:GEN.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD said to him, “Bring Me a heifer, a goat, and a ram, each three years old, along with a turtledove and a young pigeon.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.10",
+      "edition_verse_id": "BSB:GEN.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So Abram brought all these to Him, split each of them down the middle, and laid the halves opposite each other. The birds, however, he did not cut in half.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.11",
+      "edition_verse_id": "BSB:GEN.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the birds of prey descended on the carcasses, but Abram drove them away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.12",
+      "edition_verse_id": "BSB:GEN.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "As the sun was setting, Abram fell into a deep sleep, and suddenly great terror and darkness overwhelmed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.13",
+      "edition_verse_id": "BSB:GEN.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the LORD said to Abram, “Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.14",
+      "edition_verse_id": "BSB:GEN.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But I will judge the nation they serve as slaves, and afterward they will depart with many possessions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.15",
+      "edition_verse_id": "BSB:GEN.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You, however, will go to your fathers in peace and be buried at a ripe old age.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.16",
+      "edition_verse_id": "BSB:GEN.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In the fourth generation your descendants will return here, for the iniquity of the Amorites is not yet complete.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.17",
+      "edition_verse_id": "BSB:GEN.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "When the sun had set and darkness had fallen, behold, a smoking firepot and a flaming torch appeared and passed between the halves of the carcasses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.15.18",
+      "edition_verse_id": "BSB:GEN.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "On that day the LORD made a covenant with Abram, saying, “To your descendants I have given this land — from the river of Egypt to the great River Euphrates —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.19",
+      "edition_verse_id": "BSB:GEN.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "the land of the Kenites, Kenizzites, Kadmonites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.20",
+      "edition_verse_id": "BSB:GEN.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Hittites, Perizzites, Rephaites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.15.21",
+      "edition_verse_id": "BSB:GEN.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Amorites, Canaanites, Girgashites, and Jebusites.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

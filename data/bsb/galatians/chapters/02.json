@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GAL",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "GAL.2.1",
+      "edition_verse_id": "BSB:GAL.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Fourteen years later I went up again to Jerusalem, accompanied by Barnabas. I took Titus along also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.2",
+      "edition_verse_id": "BSB:GAL.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I went in response to a revelation and set before them the gospel that I preach among the Gentiles. But I spoke privately to those recognized as leaders, for fear that I was running or had already run in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.3",
+      "edition_verse_id": "BSB:GAL.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Yet not even Titus, who was with me, was compelled to be circumcised, even though he was a Greek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.4",
+      "edition_verse_id": "BSB:GAL.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This issue arose because some false brothers had come in under false pretenses to spy on our freedom in Christ Jesus, in order to enslave us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.5",
+      "edition_verse_id": "BSB:GAL.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "We did not give in to them for a moment, so that the truth of the gospel would remain with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.6",
+      "edition_verse_id": "BSB:GAL.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But as for the highly esteemed— whatever they were makes no difference to me; God does not show favoritism— those leaders added nothing to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.7",
+      "edition_verse_id": "BSB:GAL.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "On the contrary, they saw that I had been entrusted to preach the gospel to the uncircumcised, just as Peter had been to the circumcised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.8",
+      "edition_verse_id": "BSB:GAL.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For the One who was at work in Peter’s apostleship to the circumcised was also at work in my apostleship to the Gentiles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.9",
+      "edition_verse_id": "BSB:GAL.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And recognizing the grace that I had been given, James, Cephas, and John — those reputed to be pillars — gave me and Barnabas the right hand of fellowship, so that we should go to the Gentiles, and they to the circumcised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.10",
+      "edition_verse_id": "BSB:GAL.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They only asked us to remember the poor, the very thing I was eager to do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.11",
+      "edition_verse_id": "BSB:GAL.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When Cephas came to Antioch, however, I opposed him to his face, because he stood condemned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.12",
+      "edition_verse_id": "BSB:GAL.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For before certain men came from James, he used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself, for fear of those in the circumcision group.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.13",
+      "edition_verse_id": "BSB:GAL.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The other Jews joined him in his hypocrisy, so that by their hypocrisy even Barnabas was led astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.14",
+      "edition_verse_id": "BSB:GAL.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When I saw that they were not walking in line with the truth of the gospel, I said to Cephas in front of them all, “If you, who are a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.15",
+      "edition_verse_id": "BSB:GAL.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "We who are Jews by birth and not Gentile “sinners”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.16",
+      "edition_verse_id": "BSB:GAL.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "know that a man is not justified by works of the law, but by faith in Jesus Christ. So we, too, have believed in Christ Jesus, that we may be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.17",
+      "edition_verse_id": "BSB:GAL.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But if, while we seek to be justified in Christ, we ourselves are found to be sinners, does that make Christ a minister of sin? Certainly not!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.18",
+      "edition_verse_id": "BSB:GAL.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If I rebuild what I have already torn down, I prove myself to be a lawbreaker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.19",
+      "edition_verse_id": "BSB:GAL.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For through the law I died to the law so that I might live to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.2.20",
+      "edition_verse_id": "BSB:GAL.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I have been crucified with Christ, and I no longer live, but Christ lives in me. The life I live in the body, I live by faith in the Son of God, who loved me and gave Himself up for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.2.21",
+      "edition_verse_id": "BSB:GAL.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I do not set aside the grace of God. For if righteousness comes through the law, then Christ died for nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

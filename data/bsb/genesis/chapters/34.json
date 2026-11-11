@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 34,
+  "verses": [
+    {
+      "id": "GEN.34.1",
+      "edition_verse_id": "BSB:GEN.34.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.2",
+      "edition_verse_id": "BSB:GEN.34.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When Shechem son of Hamor the Hivite, the prince of the region, saw her, he took her and lay with her by force.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.3",
+      "edition_verse_id": "BSB:GEN.34.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And his soul was drawn to Dinah, the daughter of Jacob. He loved the young girl and spoke to her tenderly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.4",
+      "edition_verse_id": "BSB:GEN.34.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So Shechem told his father Hamor, “Get me this girl as a wife.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.5",
+      "edition_verse_id": "BSB:GEN.34.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jacob heard that Shechem had defiled his daughter Dinah, but since his sons were with his livestock in the field, he remained silent about it until they returned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.6",
+      "edition_verse_id": "BSB:GEN.34.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Meanwhile, Shechem’s father Hamor came to speak with Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.7",
+      "edition_verse_id": "BSB:GEN.34.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When Jacob’s sons heard what had happened, they returned from the field. They were filled with grief and fury, because Shechem had committed an outrage in Israel by lying with Jacob’s daughter — a thing that should not be done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.8",
+      "edition_verse_id": "BSB:GEN.34.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Hamor said to them, “My son Shechem longs for your daughter. Please give her to him as his wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.9",
+      "edition_verse_id": "BSB:GEN.34.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Intermarry with us; give us your daughters and take our daughters for yourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.10",
+      "edition_verse_id": "BSB:GEN.34.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.11",
+      "edition_verse_id": "BSB:GEN.34.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Shechem said to Dinah’s father and brothers, “Grant me this favor, and I will give you whatever you ask.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.12",
+      "edition_verse_id": "BSB:GEN.34.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Demand a high dowry and an expensive gift, and I will give you whatever you ask. Only give me the girl as my wife!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.13",
+      "edition_verse_id": "BSB:GEN.34.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But because Shechem had defiled their sister Dinah, Jacob’s sons answered him and his father Hamor deceitfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.14",
+      "edition_verse_id": "BSB:GEN.34.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“We cannot do such a thing,” they said. “To give our sister to an uncircumcised man would be a disgrace to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.15",
+      "edition_verse_id": "BSB:GEN.34.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "We will consent to this on one condition, that you become circumcised like us — every one of your males.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.16",
+      "edition_verse_id": "BSB:GEN.34.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then we will give you our daughters and take your daughters for ourselves. We will dwell among you and become one people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.17",
+      "edition_verse_id": "BSB:GEN.34.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But if you will not agree to be circumcised, then we will take our sister and go.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.18",
+      "edition_verse_id": "BSB:GEN.34.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Their offer seemed good to Hamor and his son Shechem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.19",
+      "edition_verse_id": "BSB:GEN.34.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The young man, who was the most respected of all his father’s household, did not hesitate to fulfill this request, because he was delighted with Jacob’s daughter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.20",
+      "edition_verse_id": "BSB:GEN.34.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Hamor and his son Shechem went to the gate of their city and addressed the men of their city:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.21",
+      "edition_verse_id": "BSB:GEN.34.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“These men are at peace with us. Let them live and trade in our land; indeed, it is large enough for them. Let us take their daughters in marriage and give our daughters to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.22",
+      "edition_verse_id": "BSB:GEN.34.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But only on this condition will the men agree to dwell with us and be one people: if all our men are circumcised as they are.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.23",
+      "edition_verse_id": "BSB:GEN.34.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Will not their livestock, their possessions, and all their animals become ours? Only let us consent to them, and they will dwell among us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.24",
+      "edition_verse_id": "BSB:GEN.34.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "All the men who went out of the city gate listened to Hamor and his son Shechem, and every male of the city was circumcised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.25",
+      "edition_verse_id": "BSB:GEN.34.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Three days later, while they were still in pain, two of Jacob’s sons (Dinah’s brothers Simeon and Levi) took their swords, went into the unsuspecting city, and slaughtered every male.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.26",
+      "edition_verse_id": "BSB:GEN.34.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "They killed Hamor and his son Shechem with their swords, took Dinah out of Shechem’s house, and went away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.27",
+      "edition_verse_id": "BSB:GEN.34.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Jacob’s other sons came upon the slaughter and looted the city, because their sister had been defiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.28",
+      "edition_verse_id": "BSB:GEN.34.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "They took their flocks and herds and donkeys, and everything else in the city or in the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.29",
+      "edition_verse_id": "BSB:GEN.34.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "They carried off all their possessions and women and children, and they plundered everything in their houses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.34.30",
+      "edition_verse_id": "BSB:GEN.34.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then Jacob said to Simeon and Levi, “You have brought trouble upon me by making me a stench to the Canaanites and Perizzites, the people of this land. We are few in number; if they unite against me and attack me, I and my household will be destroyed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.34.31",
+      "edition_verse_id": "BSB:GEN.34.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But they replied, “Should he have treated our sister like a prostitute?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

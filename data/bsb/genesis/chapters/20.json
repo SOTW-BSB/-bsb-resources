@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "GEN.20.1",
+      "edition_verse_id": "BSB:GEN.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.2",
+      "edition_verse_id": "BSB:GEN.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Abraham said of his wife Sarah, “She is my sister.” So Abimelech king of Gerar had Sarah brought to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.3",
+      "edition_verse_id": "BSB:GEN.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "One night, however, God came to Abimelech in a dream and told him, “You are as good as dead because of the woman you have taken, for she is a married woman.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.4",
+      "edition_verse_id": "BSB:GEN.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now Abimelech had not gone near her, so he replied, “Lord, would You destroy a nation even though it is innocent?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.5",
+      "edition_verse_id": "BSB:GEN.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Didn’t Abraham tell me, ‘She is my sister’? And she herself said, ‘He is my brother.’ I have done this in the integrity of my heart and the innocence of my hands.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.6",
+      "edition_verse_id": "BSB:GEN.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then God said to Abimelech in the dream, “Yes, I know that you did this with a clear conscience, and so I have kept you from sinning against Me. That is why I did not let you touch her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.7",
+      "edition_verse_id": "BSB:GEN.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now return the man’s wife, for he is a prophet; he will pray for you and you will live. But if you do not restore her, be aware that you will surely die — you and all who belong to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.8",
+      "edition_verse_id": "BSB:GEN.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Early the next morning Abimelech got up and summoned all his servants; and when he described to them all that had happened, the men were terrified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.9",
+      "edition_verse_id": "BSB:GEN.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Abimelech called Abraham and asked, “What have you done to us? How have I sinned against you, that you have brought such tremendous guilt upon me and my kingdom? You have done things to me that should not be done.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.10",
+      "edition_verse_id": "BSB:GEN.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Abimelech also asked Abraham, “What prompted you to do such a thing?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.11",
+      "edition_verse_id": "BSB:GEN.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Abraham replied, “I thought to myself, ‘Surely there is no fear of God in this place. They will kill me on account of my wife.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.12",
+      "edition_verse_id": "BSB:GEN.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Besides, she really is my sister, the daughter of my father — though not the daughter of my mother — and she became my wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.13",
+      "edition_verse_id": "BSB:GEN.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So when God had me journey from my father’s house, I said to Sarah, ‘This is how you can show your loyalty to me: Wherever we go, say of me, “He is my brother.”’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.14",
+      "edition_verse_id": "BSB:GEN.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So Abimelech brought sheep and cattle, menservants and maidservants, and he gave them to Abraham and restored his wife Sarah to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.15",
+      "edition_verse_id": "BSB:GEN.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Abimelech said, “Look, my land is before you. Settle wherever you please.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.16",
+      "edition_verse_id": "BSB:GEN.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And he said to Sarah, “See, I am giving your brother a thousand pieces of silver. It is your vindication before all who are with you; you are completely cleared.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.20.17",
+      "edition_verse_id": "BSB:GEN.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Abraham prayed to God, and God healed Abimelech and his wife and his maidservants, so that they could again bear children —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.20.18",
+      "edition_verse_id": "BSB:GEN.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "for on account of Abraham’s wife Sarah, the LORD had completely closed all the wombs in Abimelech’s household.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

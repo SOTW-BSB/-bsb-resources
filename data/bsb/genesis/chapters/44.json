@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 44,
+  "verses": [
+    {
+      "id": "GEN.44.1",
+      "edition_verse_id": "BSB:GEN.44.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Joseph instructed his steward: “Fill the men’s sacks with as much food as they can carry, and put each one’s silver in the mouth of his sack.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.2",
+      "edition_verse_id": "BSB:GEN.44.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Put my cup, the silver one, in the mouth of the youngest one’s sack, along with the silver for his grain.” So the steward did as Joseph had instructed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.3",
+      "edition_verse_id": "BSB:GEN.44.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "At daybreak, the men were sent on their way with their donkeys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.4",
+      "edition_verse_id": "BSB:GEN.44.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They had not gone far from the city when Joseph told his steward, “Pursue the men at once, and when you overtake them, ask, ‘Why have you repaid good with evil?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.5",
+      "edition_verse_id": "BSB:GEN.44.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Is this not the cup my master drinks from and uses for divination? What you have done is wicked!’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.6",
+      "edition_verse_id": "BSB:GEN.44.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When the steward overtook them, he relayed these words to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.7",
+      "edition_verse_id": "BSB:GEN.44.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Why does my lord say these things?” they asked. “Your servants could not possibly do such a thing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.8",
+      "edition_verse_id": "BSB:GEN.44.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "We even brought back to you from the land of Canaan the silver we found in the mouths of our sacks. Why would we steal silver or gold from your master’s house?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.9",
+      "edition_verse_id": "BSB:GEN.44.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "If any of your servants is found to have it, he must die, and the rest will become slaves of my lord.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.10",
+      "edition_verse_id": "BSB:GEN.44.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“As you say,” replied the steward. “But only the one who is found with the cup will be my slave, and the rest of you shall be free of blame.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.11",
+      "edition_verse_id": "BSB:GEN.44.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So each one quickly lowered his sack to the ground and opened it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.12",
+      "edition_verse_id": "BSB:GEN.44.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The steward searched, beginning with the oldest and ending with the youngest — and the cup was found in Benjamin’s sack.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.13",
+      "edition_verse_id": "BSB:GEN.44.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then they all tore their clothes, loaded their donkeys, and returned to the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.14",
+      "edition_verse_id": "BSB:GEN.44.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When Judah and his brothers arrived at Joseph’s house, he was still there, and they fell to the ground before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.15",
+      "edition_verse_id": "BSB:GEN.44.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“What is this deed you have done?” Joseph declared. “Do you not know that a man like me can surely divine the truth?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.16",
+      "edition_verse_id": "BSB:GEN.44.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“What can we say to my lord?” Judah replied. “How can we plead? How can we justify ourselves? God has exposed the iniquity of your servants. We are now my lord’s slaves— both we and the one who was found with the cup.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.17",
+      "edition_verse_id": "BSB:GEN.44.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But Joseph replied, “Far be it from me to do this. The man who was found with the cup will be my slave. The rest of you may return to your father in peace.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.18",
+      "edition_verse_id": "BSB:GEN.44.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then Judah approached Joseph and said, “Sir, please let your servant speak personally to my lord. Do not be angry with your servant, for you are equal to Pharaoh himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.19",
+      "edition_verse_id": "BSB:GEN.44.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My lord asked his servants, ‘Do you have a father or a brother?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.20",
+      "edition_verse_id": "BSB:GEN.44.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And we answered, ‘We have an elderly father and a younger brother, the child of his old age. The boy’s brother is dead. He is the only one of his mother’s sons left, and his father loves him.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.21",
+      "edition_verse_id": "BSB:GEN.44.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then you told your servants, ‘Bring him down to me so that I can see him for myself.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.22",
+      "edition_verse_id": "BSB:GEN.44.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So we said to my lord, ‘The boy cannot leave his father. If he were to leave, his father would die.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.23",
+      "edition_verse_id": "BSB:GEN.44.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But you said to your servants, ‘Unless your younger brother comes down with you, you will not see my face again.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.24",
+      "edition_verse_id": "BSB:GEN.44.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Now when we returned to your servant my father, we relayed your words to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.25",
+      "edition_verse_id": "BSB:GEN.44.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then our father said, ‘Go back and buy us some food.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.26",
+      "edition_verse_id": "BSB:GEN.44.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But we answered, ‘We cannot go down there unless our younger brother goes with us. So if our younger brother is not with us, we cannot see the man.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.27",
+      "edition_verse_id": "BSB:GEN.44.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And your servant my father said to us, ‘You know that my wife bore me two sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.28",
+      "edition_verse_id": "BSB:GEN.44.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "When one of them was gone, I said: “Surely he has been torn to pieces.” And I have not seen him since.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.29",
+      "edition_verse_id": "BSB:GEN.44.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Now if you also take this one from me and harm comes to him, you will bring my gray hair down to Sheol in sorrow.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.30",
+      "edition_verse_id": "BSB:GEN.44.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So if the boy is not with us when I return to your servant, and if my father, whose life is wrapped up in the boy’s life,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.31",
+      "edition_verse_id": "BSB:GEN.44.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "sees that the boy is not with us, he will die. Then your servants will have brought the gray hair of your servant our father down to Sheol in sorrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.32",
+      "edition_verse_id": "BSB:GEN.44.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Indeed, your servant guaranteed the boy’s safety to my father, saying, ‘If I do not return him to you, I will bear the guilt before you, my father, all my life.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.44.33",
+      "edition_verse_id": "BSB:GEN.44.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Now please let your servant stay here as my lord’s slave in place of the boy. Let him return with his brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.44.34",
+      "edition_verse_id": "BSB:GEN.44.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "For how can I go back to my father without the boy? I could not bear to see the misery that would overwhelm him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

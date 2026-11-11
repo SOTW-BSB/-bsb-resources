@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "GEN.7.1",
+      "edition_verse_id": "BSB:GEN.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Noah, “Go into the ark, you and all your family, because I have found you righteous in this generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.7.2",
+      "edition_verse_id": "BSB:GEN.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "You are to take with you seven pairs of every kind of clean animal, a male and its mate; a pair of every kind of unclean animal, a male and its mate;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.3",
+      "edition_verse_id": "BSB:GEN.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and seven pairs of every kind of bird of the air, male and female, to preserve their offspring on the face of all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.4",
+      "edition_verse_id": "BSB:GEN.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living thing I have made.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.5",
+      "edition_verse_id": "BSB:GEN.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And Noah did all that the LORD had commanded him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.7.6",
+      "edition_verse_id": "BSB:GEN.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now Noah was 600 years old when the floodwaters came upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.7.7",
+      "edition_verse_id": "BSB:GEN.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Noah and his wife, with his sons and their wives, entered the ark to escape the waters of the flood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.8",
+      "edition_verse_id": "BSB:GEN.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The clean and unclean animals, the birds, and everything that crawls along the ground",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.9",
+      "edition_verse_id": "BSB:GEN.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "came to Noah to enter the ark, two by two, male and female, as God had commanded Noah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.10",
+      "edition_verse_id": "BSB:GEN.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And after seven days the floodwaters came upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.7.11",
+      "edition_verse_id": "BSB:GEN.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "In the six hundredth year of Noah’s life, on the seventeenth day of the second month, all the fountains of the great deep burst forth, and the floodgates of the heavens were opened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.12",
+      "edition_verse_id": "BSB:GEN.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the rain fell upon the earth for forty days and forty nights.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.13",
+      "edition_verse_id": "BSB:GEN.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "On that very day Noah entered the ark, along with his sons Shem, Ham, and Japheth, and his wife, and the three wives of his sons —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.7.14",
+      "edition_verse_id": "BSB:GEN.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "they and every kind of wild animal, livestock, crawling creature, bird, and winged creature.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.15",
+      "edition_verse_id": "BSB:GEN.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They came to Noah to enter the ark, two by two of every creature with the breath of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.16",
+      "edition_verse_id": "BSB:GEN.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And they entered, the male and female of every living thing, as God had commanded Noah. Then the LORD shut him in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.17",
+      "edition_verse_id": "BSB:GEN.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For forty days the flood kept coming on the earth, and the waters rose and lifted the ark high above the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.7.18",
+      "edition_verse_id": "BSB:GEN.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So the waters continued to surge and rise greatly on the earth, and the ark floated on the surface of the waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.19",
+      "edition_verse_id": "BSB:GEN.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Finally, the waters completely prevailed upon the earth, so that all the high mountains under all the heavens were covered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.20",
+      "edition_verse_id": "BSB:GEN.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The waters rose and covered the mountaintops to a depth of fifteen cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.7.21",
+      "edition_verse_id": "BSB:GEN.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And every living thing that moved upon the earth perished — birds, livestock, animals, every creature that swarms upon the earth, and all mankind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.22",
+      "edition_verse_id": "BSB:GEN.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Of all that was on dry land, everything that had the breath of life in its nostrils died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.23",
+      "edition_verse_id": "BSB:GEN.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And every living thing on the face of the earth was destroyed — man and livestock, crawling creatures and birds of the air; they were blotted out from the earth, and only Noah and those with him in the ark remained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.7.24",
+      "edition_verse_id": "BSB:GEN.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the waters prevailed upon the earth for 150 days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "GEN.1.1",
+      "edition_verse_id": "BSB:GEN.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the beginning God created the heavens and the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.2",
+      "edition_verse_id": "BSB:GEN.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.3",
+      "edition_verse_id": "BSB:GEN.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And God said, “Let there be light,” and there was light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.4",
+      "edition_verse_id": "BSB:GEN.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And God saw that the light was good, and He separated the light from the darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.5",
+      "edition_verse_id": "BSB:GEN.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "God called the light “day,” and the darkness He called “night.” And there was evening, and there was morning — the first day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.6",
+      "edition_verse_id": "BSB:GEN.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And God said, “Let there be an expanse between the waters, to separate the waters from the waters.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.7",
+      "edition_verse_id": "BSB:GEN.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So God made the expanse and separated the waters beneath it from the waters above. And it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.8",
+      "edition_verse_id": "BSB:GEN.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "God called the expanse “sky.” And there was evening, and there was morning — the second day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.9",
+      "edition_verse_id": "BSB:GEN.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And God said, “Let the waters under the sky be gathered into one place, so that the dry land may appear.” And it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.10",
+      "edition_verse_id": "BSB:GEN.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "God called the dry land “earth,” and the gathering of waters He called “seas.” And God saw that it was good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.11",
+      "edition_verse_id": "BSB:GEN.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then God said, “Let the earth bring forth vegetation: seed-bearing plants and fruit trees, each bearing fruit with seed according to its kind.” And it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.12",
+      "edition_verse_id": "BSB:GEN.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed according to their kinds. And God saw that it was good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.13",
+      "edition_verse_id": "BSB:GEN.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And there was evening, and there was morning — the third day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.14",
+      "edition_verse_id": "BSB:GEN.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And God said, “Let there be lights in the expanse of the sky to distinguish between the day and the night, and let them be signs to mark the seasons and days and years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.15",
+      "edition_verse_id": "BSB:GEN.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And let them serve as lights in the expanse of the sky to shine upon the earth.” And it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.16",
+      "edition_verse_id": "BSB:GEN.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "God made two great lights: the greater light to rule the day and the lesser light to rule the night. And He made the stars as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.17",
+      "edition_verse_id": "BSB:GEN.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "God set these lights in the expanse of the sky to shine upon the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.18",
+      "edition_verse_id": "BSB:GEN.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "to preside over the day and the night, and to separate the light from the darkness. And God saw that it was good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.19",
+      "edition_verse_id": "BSB:GEN.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And there was evening, and there was morning — the fourth day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.20",
+      "edition_verse_id": "BSB:GEN.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And God said, “Let the waters teem with living creatures, and let birds fly above the earth in the open expanse of the sky.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.21",
+      "edition_verse_id": "BSB:GEN.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So God created the great sea creatures and every living thing that moves, with which the waters teemed according to their kinds, and every winged bird after its kind. And God saw that it was good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.22",
+      "edition_verse_id": "BSB:GEN.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Then God blessed them and said, “Be fruitful and multiply and fill the waters of the seas, and let birds multiply on the earth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.23",
+      "edition_verse_id": "BSB:GEN.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And there was evening, and there was morning — the fifth day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.24",
+      "edition_verse_id": "BSB:GEN.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And God said, “Let the earth bring forth living creatures according to their kinds: livestock, land crawlers, and beasts of the earth according to their kinds.” And it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.25",
+      "edition_verse_id": "BSB:GEN.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "God made the beasts of the earth according to their kinds, the livestock according to their kinds, and everything that crawls upon the earth according to its kind. And God saw that it was good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.26",
+      "edition_verse_id": "BSB:GEN.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then God said, “Let Us make man in Our image, after Our likeness, to rule over the fish of the sea and the birds of the air, over the livestock, and over all the earth itself and every creature that crawls upon it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.27",
+      "edition_verse_id": "BSB:GEN.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "So God created man in His own image; in the image of God He created him; male and female He created them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.28",
+      "edition_verse_id": "BSB:GEN.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "God blessed them and said to them, “Be fruitful and multiply, and fill the earth and subdue it; rule over the fish of the sea and the birds of the air and every creature that crawls upon the earth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.29",
+      "edition_verse_id": "BSB:GEN.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then God said, “Behold, I have given you every seed-bearing plant on the face of all the earth, and every tree whose fruit contains seed. They will be yours for food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.1.30",
+      "edition_verse_id": "BSB:GEN.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And to every beast of the earth and every bird of the air and every creature that crawls upon the earth — everything that has the breath of life in it — I have given every green plant for food.” And it was so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.1.31",
+      "edition_verse_id": "BSB:GEN.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And God looked upon all that He had made, and indeed, it was very good. And there was evening, and there was morning — the sixth day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1SA",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "1SA.21.1",
+      "edition_verse_id": "BSB:1SA.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then David came to Nob, to Ahimelech the priest. And when Ahimelech met David, he trembled and asked him, “Why are you alone? Why is no one with you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.2",
+      "edition_verse_id": "BSB:1SA.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“The king has given me a mission,” David replied. “He told me no one is to know about the mission on which I am sending you. And I have directed my young men to meet me at a certain place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.3",
+      "edition_verse_id": "BSB:1SA.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now then, what do you have on hand? Give me five loaves of bread, or whatever can be found.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.4",
+      "edition_verse_id": "BSB:1SA.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“There is no common bread on hand,” the priest replied, “but there is some consecrated bread — provided that the young men have kept themselves from women.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.5",
+      "edition_verse_id": "BSB:1SA.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "David answered, “Women have indeed been kept from us, as is usual when I set out. And the bodies of the young men are holy even on common missions. How much more so today!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.6",
+      "edition_verse_id": "BSB:1SA.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So the priest gave him the consecrated bread, since there was no bread there but the Bread of the Presence, which had been removed from before the LORD and replaced with hot bread on the day it was taken away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.7",
+      "edition_verse_id": "BSB:1SA.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now one of Saul’s servants was there that day, detained before the LORD. And his name was Doeg the Edomite, the chief shepherd for Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.8",
+      "edition_verse_id": "BSB:1SA.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then David asked Ahimelech, “Is there not a spear or sword on hand here? For I have brought neither my sword nor my weapons with me, because the king’s mission was urgent.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.9",
+      "edition_verse_id": "BSB:1SA.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The priest replied, “The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want, you may take it. For there is no other but this one here.” And David said, “There is none like it; give it to me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.10",
+      "edition_verse_id": "BSB:1SA.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "That day David fled from Saul and went to Achish king of Gath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.11",
+      "edition_verse_id": "BSB:1SA.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But the servants of Achish said to him, “Is this not David, the king of the land? Did they not sing about him in their dances, saying: ‘Saul has slain his thousands, and David his tens of thousands’?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.12",
+      "edition_verse_id": "BSB:1SA.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now David took these words to heart and was very much afraid of Achish the king of Gath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.13",
+      "edition_verse_id": "BSB:1SA.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So he changed his behavior before them and feigned madness in their hands; he scratched on the doors of the gate and let his saliva run down his beard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.21.14",
+      "edition_verse_id": "BSB:1SA.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Achish said to his servants, “Look, you can see that the man is insane! Why have you brought him to me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.21.15",
+      "edition_verse_id": "BSB:1SA.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Am I in need of madmen, that you have brought this man to rave in my presence? Must this man come into my house?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

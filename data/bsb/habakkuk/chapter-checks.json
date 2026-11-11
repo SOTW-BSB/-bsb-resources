@@ -1,0 +1,26 @@
+{
+  "edition_id": "BSB",
+  "book_code": "HAB",
+  "chapter_count": 3,
+  "verse_count": 56,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "6011d74f2a835ca5ffdfa9e10184b1e84e9fc4d1bcf78db0d7e3728564a004fc"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "df6db61e3e894090c6b474a77478abe3e05ea5536ab62f2521510b14c9da1ce4"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 19,
+      "omitted_from_main_text": [],
+      "sha256": "e2cb152307209ed8167c4d4f1c83a31c9b754c2087eb338a1e0942a97e75385b"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1TI",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1TI.2.1",
+      "edition_verse_id": "BSB:1TI.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "First of all, then, I urge that petitions, prayers, intercessions, and thanksgiving be offered for everyone—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.2.2",
+      "edition_verse_id": "BSB:1TI.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "for kings and all those in authority— so that we may lead tranquil and quiet lives in all godliness and dignity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.3",
+      "edition_verse_id": "BSB:1TI.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This is good and pleasing in the sight of God our Savior,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.4",
+      "edition_verse_id": "BSB:1TI.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "who wants everyone to be saved and to come to the knowledge of the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.5",
+      "edition_verse_id": "BSB:1TI.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For there is one God, and there is one mediator between God and men, the man Christ Jesus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.2.6",
+      "edition_verse_id": "BSB:1TI.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "who gave Himself as a ransom for all — the testimony that was given at just the right time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.7",
+      "edition_verse_id": "BSB:1TI.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For this reason I was appointed as a preacher, an apostle, and a faithful and true teacher of the Gentiles. I am telling the truth; I am not lying about anything.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.2.8",
+      "edition_verse_id": "BSB:1TI.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Therefore I want the men everywhere to pray, lifting up holy hands, without anger or dissension.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.9",
+      "edition_verse_id": "BSB:1TI.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Likewise, I want the women to adorn themselves with respectable apparel, with modesty, and with self-control, not with braided hair or gold or pearls or expensive clothes,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.2.10",
+      "edition_verse_id": "BSB:1TI.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but with good deeds, as is proper for women who profess to worship God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.11",
+      "edition_verse_id": "BSB:1TI.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "A woman must learn in quietness and full submissiveness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TI.2.12",
+      "edition_verse_id": "BSB:1TI.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I do not permit a woman to teach or to exercise authority over a man; she is to remain quiet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.13",
+      "edition_verse_id": "BSB:1TI.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For Adam was formed first, and then Eve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.14",
+      "edition_verse_id": "BSB:1TI.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And it was not Adam who was deceived, but the woman who was deceived and fell into transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TI.2.15",
+      "edition_verse_id": "BSB:1TI.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Women, however, will be saved through childbearing, if they continue in faith, love, and holiness, with self-control.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

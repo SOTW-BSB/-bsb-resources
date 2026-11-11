@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 46,
+  "verses": [
+    {
+      "id": "GEN.46.1",
+      "edition_verse_id": "BSB:GEN.46.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.2",
+      "edition_verse_id": "BSB:GEN.46.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said. “Here I am,” replied Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.3",
+      "edition_verse_id": "BSB:GEN.46.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.4",
+      "edition_verse_id": "BSB:GEN.46.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will go down with you to Egypt, and I will surely bring you back. And Joseph’s own hands will close your eyes.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.5",
+      "edition_verse_id": "BSB:GEN.46.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then Jacob departed from Beersheba, and the sons of Israel took their father Jacob in the wagons Pharaoh had sent to carry him, along with their children and wives.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.6",
+      "edition_verse_id": "BSB:GEN.46.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They also took the livestock and possessions they had acquired in the land of Canaan, and Jacob and all his offspring went to Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.7",
+      "edition_verse_id": "BSB:GEN.46.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jacob took with him to Egypt his sons and grandsons, and his daughters and granddaughters — all his offspring.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.8",
+      "edition_verse_id": "BSB:GEN.46.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now these are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben, Jacob’s firstborn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.9",
+      "edition_verse_id": "BSB:GEN.46.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.10",
+      "edition_verse_id": "BSB:GEN.46.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.11",
+      "edition_verse_id": "BSB:GEN.46.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The sons of Levi: Gershon, Kohath, and Merari.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.12",
+      "edition_verse_id": "BSB:GEN.46.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of Canaan. The sons of Perez: Hezron and Hamul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.13",
+      "edition_verse_id": "BSB:GEN.46.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The sons of Issachar: Tola, Puvah, Job, and Shimron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.14",
+      "edition_verse_id": "BSB:GEN.46.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The sons of Zebulun: Sered, Elon, and Jahleel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.15",
+      "edition_verse_id": "BSB:GEN.46.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "These are the sons of Leah born to Jacob in Paddan-aram, in addition to his daughter Dinah. The total number of sons and daughters was thirty-three.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.16",
+      "edition_verse_id": "BSB:GEN.46.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.17",
+      "edition_verse_id": "BSB:GEN.46.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The children of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah. The sons of Beriah: Heber and Malchiel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.18",
+      "edition_verse_id": "BSB:GEN.46.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "These are the sons of Jacob born to Zilpah — whom Laban gave to his daughter Leah — sixteen in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.19",
+      "edition_verse_id": "BSB:GEN.46.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The sons of Jacob’s wife Rachel: Joseph and Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.20",
+      "edition_verse_id": "BSB:GEN.46.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.21",
+      "edition_verse_id": "BSB:GEN.46.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.22",
+      "edition_verse_id": "BSB:GEN.46.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "These are the sons of Rachel born to Jacob — fourteen in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.23",
+      "edition_verse_id": "BSB:GEN.46.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The son of Dan: Hushim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.24",
+      "edition_verse_id": "BSB:GEN.46.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.25",
+      "edition_verse_id": "BSB:GEN.46.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel — seven in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.26",
+      "edition_verse_id": "BSB:GEN.46.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "All those belonging to Jacob who came to Egypt— his direct descendants, besides the wives of Jacob’s sons— numbered sixty-six persons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.27",
+      "edition_verse_id": "BSB:GEN.46.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And with the two sons who had been born to Joseph in Egypt, the members of Jacob’s family who went to Egypt were seventy in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.28",
+      "edition_verse_id": "BSB:GEN.46.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Now Jacob had sent Judah ahead of him to Joseph to get directions to Goshen. When Jacob’s family arrived in the land of Goshen,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.29",
+      "edition_verse_id": "BSB:GEN.46.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Joseph prepared his chariot and went there to meet his father Israel. Joseph presented himself to him, embraced him, and wept profusely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.30",
+      "edition_verse_id": "BSB:GEN.46.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then Israel said to Joseph, “Finally I can die, now that I have seen your face and know that you are still alive!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.31",
+      "edition_verse_id": "BSB:GEN.46.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Joseph said to his brothers and to his father’s household, “I will go up and inform Pharaoh: ‘My brothers and my father’s household from the land of Canaan have come to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.32",
+      "edition_verse_id": "BSB:GEN.46.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The men are shepherds; they raise livestock, and they have brought their flocks and herds and all that they own.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.46.33",
+      "edition_verse_id": "BSB:GEN.46.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "When Pharaoh summons you and asks, ‘What is your occupation?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.46.34",
+      "edition_verse_id": "BSB:GEN.46.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "you are to say, ‘Your servants have raised livestock ever since our youth — both we and our fathers.’ Then you will be allowed to settle in the land of Goshen, since all shepherds are detestable to the Egyptians.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

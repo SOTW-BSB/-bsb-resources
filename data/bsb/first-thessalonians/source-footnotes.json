@@ -1,0 +1,81 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1TH",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft That is, Silas\\f*",
+          "raw_sha256": "d9747d53fc590a825ec877dc1d497058e1967dda00954f861073af9871f5d24d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft BYZ and TR include \\fqa from God our Father and the Lord Jesus Christ\\ft .\\f*",
+          "raw_sha256": "49615c6068bbf18f490f32e96acbfe62c1e8f6db1c35664ffa03ef069012a7d5"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Or \\fqa although as apostles of Christ we could have been a burden to you\\ft ; SBL, NE, and WH include this phrase with verse 7.\\f*",
+          "raw_sha256": "0c1792879e094034cd78b339e1cf7169659c8260d0c3b881f39dff0239b45c9f"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft WH and NA \\fqa we were like young children among you\\f*",
+          "raw_sha256": "cc4c5f57178f3425836c9ef9ff555fb47aefef510309c6a48a550a1da815ea1e"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Or \\fqa at last the wrath (of God) has come upon them.\\f*",
+          "raw_sha256": "75a4c77baab82e669dbdc91fc2f5316619839ef8440807b36b80942afb5220ce"
+        }
+      ]
+    },
+    "3": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\ft Or \\fqa our brother and God’s fellow worker\\ft ; NE, WH, BYZ, and TR \\fqa our brother and minister of God\\f*",
+          "raw_sha256": "95aeb2874bc51ae7284af3030ab5061943702ac681278b1310bd7745527b7e4b"
+        }
+      ]
+    },
+    "4": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 4:4 \\ft Literally \\fqa know how to possess his own vessel\\f*",
+          "raw_sha256": "ad668a19edfc5ec6165a1fb061635f8c311b84c57ddec82a94d5015fd35aa442"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft Or \\fqa no one should ever harm or cheat his brother in this matter\\f*",
+          "raw_sha256": "a388f798036c8629b22aadcd4ce91cf0e2038856874318746f68d62d1c6f1817"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 4:13 \\ft Literally \\fqa those who have fallen asleep\\ft , as in verses 14 and 15\\f*",
+          "raw_sha256": "d9de60aea227350f2d1162db7d4448af3aad66a4e1f9fe5ff2ccdc9cd56ac6ca"
+        }
+      ]
+    },
+    "5": {
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 5:23 \\ft Or \\fqa may your spirit, soul, and body be kept entirely blameless\\f*",
+          "raw_sha256": "dc9f15f30797333eeeb59d3c1ac43c596a0a180354244c5260cf4279c7d40bf6"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 5:28 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "6ab296d920f939af01dc71787280761cd234741efcd5f6b080bf799b86879e9f"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

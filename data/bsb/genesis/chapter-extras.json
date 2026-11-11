@@ -1,0 +1,355 @@
+{
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Creation",
+        "\\s2 The First Day",
+        "\\s2 The Second Day",
+        "\\s2 The Third Day",
+        "\\s2 The Fourth Day",
+        "\\s2 The Fifth Day",
+        "\\s2 The Sixth Day"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Seventh Day",
+        "\\s1 Man and Woman in the Garden"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Serpent’s Deception",
+        "\\s1 God Arraigns Adam and Eve",
+        "\\s1 The Fate of the Serpent",
+        "\\s1 The Punishment of Mankind",
+        "\\s1 The Expulsion from Paradise"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Cain and Abel",
+        "\\s1 The Descendants of Cain",
+        "\\s1 Seth and Enosh"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Descendants of Adam",
+        "\\s1 God Takes Up Enoch",
+        "\\s1 From Methuselah to Noah"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Corruption on the Earth",
+        "\\s1 Noah’s Favor with God",
+        "\\s1 Preparing the Ark"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 The Great Flood"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Ark Rests on Ararat",
+        "\\s1 Noah Sends a Raven and a Dove",
+        "\\s1 Exiting the Ark",
+        "\\s1 Noah Builds an Altar"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Covenant of the Rainbow",
+        "\\s1 Noah’s Shame and Canaan’s Curse",
+        "\\s1 Shem’s Blessing and Noah’s Death"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 The Table of Nations",
+        "\\s2 The Japhethites",
+        "\\s2 The Hamites",
+        "\\s2 The Semites"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Tower of Babel",
+        "\\s1 Genealogy from Shem to Abram",
+        "\\s1 Terah’s Descendants"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Call of Abram",
+        "\\s1 Abram and Sarai in Egypt"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Abram and Lot Part Ways",
+        "\\s1 Lot Proceeds toward Sodom",
+        "\\s1 God Renews the Promise to Abram"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 The War of the Kings",
+        "\\s1 Abram Rescues Lot",
+        "\\s1 Melchizedek Blesses Abram"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 God’s Covenant with Abram",
+        "\\s1 God Confirms His Promise"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Hagar and Ishmael"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 Abraham to Father Many Nations",
+        "\\s1 The Covenant of Circumcision"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 The Three Visitors",
+        "\\s1 Sarah Laughs at the Promise",
+        "\\s1 Abraham Intercedes for Sodom"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 Lot Welcomes the Angels",
+        "\\s1 Lot Flees to Zoar",
+        "\\s1 The Destruction of Sodom and Gomorrah",
+        "\\s1 Lot and His Daughters"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Abraham, Sarah, and Abimelech"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 The Birth of Isaac",
+        "\\s1 Sarah Turns against Hagar",
+        "\\s1 The Covenant at Beersheba"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 The Offering of Isaac",
+        "\\s1 The LORD Provides the Sacrifice",
+        "\\s1 The Sons of Nahor"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 The Death and Burial of Sarah"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 A Wife for Isaac",
+        "\\s1 Rebekah Is Chosen",
+        "\\s1 Isaac Marries Rebekah"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 Abraham and Keturah",
+        "\\s1 The Death of Abraham",
+        "\\s1 The Descendants of Ishmael",
+        "\\s1 Jacob and Esau",
+        "\\s1 Esau Sells His Birthright"
+      ]
+    },
+    "26": {
+      "source_headings": [
+        "\\s1 God’s Promise to Isaac",
+        "\\s1 Isaac Deceives Abimelech",
+        "\\s1 Isaac’s Prosperity",
+        "\\s1 Isaac’s Covenant with Abimelech",
+        "\\s1 Esau’s Wives"
+      ]
+    },
+    "27": {
+      "source_headings": [
+        "\\s1 Isaac Blesses Jacob",
+        "\\s1 Esau’s Lost Hope"
+      ]
+    },
+    "28": {
+      "source_headings": [
+        "\\s1 Jacob’s Departure",
+        "\\s1 Esau Marries Mahalath",
+        "\\s1 Jacob’s Ladder",
+        "\\s1 The Stone of Bethel"
+      ]
+    },
+    "29": {
+      "source_headings": [
+        "\\s1 Jacob Meets Rachel",
+        "\\s1 Jacob Marries Leah and Rachel",
+        "\\s1 Reuben, Simeon, Levi, and Judah"
+      ]
+    },
+    "30": {
+      "source_headings": [
+        "\\s1 Dan and Naphtali",
+        "\\s1 Gad and Asher",
+        "\\s1 Issachar, Zebulun, and Dinah",
+        "\\s1 Joseph",
+        "\\s1 Jacob Prospers"
+      ]
+    },
+    "31": {
+      "source_headings": [
+        "\\s1 Jacob Flees from Laban",
+        "\\s1 Laban Pursues Jacob",
+        "\\s1 Jacob’s Covenant with Laban"
+      ]
+    },
+    "32": {
+      "source_headings": [
+        "\\s1 Jacob Prepares to Meet Esau",
+        "\\s1 Jacob Wrestles with God"
+      ]
+    },
+    "33": {
+      "source_headings": [
+        "\\s1 Jacob Meets Esau",
+        "\\s1 Jacob Settles in Shechem"
+      ]
+    },
+    "34": {
+      "source_headings": [
+        "\\s1 The Defiling of Dinah",
+        "\\s1 The Revenge of Dinah’s Brothers"
+      ]
+    },
+    "35": {
+      "source_headings": [
+        "\\s1 Jacob Returns to Bethel",
+        "\\s1 Benjamin Born, Rachel Dies",
+        "\\s1 The Sons of Jacob",
+        "\\s1 The Death of Isaac"
+      ]
+    },
+    "36": {
+      "source_headings": [
+        "\\s1 The Descendants of Esau",
+        "\\s1 The Descendants of Seir",
+        "\\s1 The Kings of Edom"
+      ]
+    },
+    "37": {
+      "source_headings": [
+        "\\s1 Joseph’s Dreams",
+        "\\s1 Joseph Sold into Egypt",
+        "\\s1 Jacob Mourns Joseph"
+      ]
+    },
+    "38": {
+      "source_headings": [
+        "\\s1 Judah and Tamar",
+        "\\s1 The Birth of Perez and Zerah"
+      ]
+    },
+    "39": {
+      "source_headings": [
+        "\\s1 Joseph and Potiphar’s Wife",
+        "\\s1 Joseph Falsely Imprisoned"
+      ]
+    },
+    "40": {
+      "source_headings": [
+        "\\s1 The Cupbearer and the Baker"
+      ]
+    },
+    "41": {
+      "source_headings": [
+        "\\s1 The Dreams of Pharaoh",
+        "\\s1 Joseph Interprets Pharaoh’s Dreams",
+        "\\s1 Joseph Given Charge of Egypt",
+        "\\s1 The Seven Years of Plenty",
+        "\\s1 The Famine Begins"
+      ]
+    },
+    "42": {
+      "source_headings": [
+        "\\s1 Joseph’s Brothers Sent to Egypt",
+        "\\s1 Joseph’s Brothers Return to Canaan"
+      ]
+    },
+    "43": {
+      "source_headings": [
+        "\\s1 The Return to Egypt with Benjamin",
+        "\\s1 Joseph’s Hospitality to His Brothers"
+      ]
+    },
+    "44": {
+      "source_headings": [
+        "\\s1 Benjamin and the Silver Cup",
+        "\\s1 Judah Pleads for Benjamin"
+      ]
+    },
+    "45": {
+      "source_headings": [
+        "\\s1 Joseph Reveals His Identity",
+        "\\s1 Joseph Sends for His Father",
+        "\\s1 Pharaoh Invites Jacob to Egypt",
+        "\\s1 The Revival of Jacob"
+      ]
+    },
+    "46": {
+      "source_headings": [
+        "\\s1 Jacob’s Journey to Egypt",
+        "\\s1 Those Who Went to Egypt",
+        "\\s2 The Children of Leah",
+        "\\s2 The Children of Zilpah",
+        "\\s2 The Children of Rachel",
+        "\\s2 The Children of Bilhah",
+        "\\s1 Jacob Arrives in Egypt"
+      ]
+    },
+    "47": {
+      "source_headings": [
+        "\\s1 Jacob Settles in Goshen",
+        "\\s1 The Famine Continues",
+        "\\s1 The Israelites Prosper in Goshen"
+      ]
+    },
+    "48": {
+      "source_headings": [
+        "\\s1 Jacob Blesses Ephraim and Manasseh"
+      ]
+    },
+    "49": {
+      "source_headings": [
+        "\\s1 Jacob Blesses His Sons",
+        "\\s1 The Death of Jacob"
+      ]
+    },
+    "50": {
+      "source_headings": [
+        "\\s1 Mourning and Burial for Jacob",
+        "\\s1 Joseph Comforts His Brothers",
+        "\\s1 The Death of Joseph"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

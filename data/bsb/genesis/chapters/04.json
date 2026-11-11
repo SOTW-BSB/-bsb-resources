@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "GEN.4.1",
+      "edition_verse_id": "BSB:GEN.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Adam had relations with his wife Eve, and she conceived and gave birth to Cain. “With the help of the LORD I have brought forth a man,” she said.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.2",
+      "edition_verse_id": "BSB:GEN.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Later she gave birth to Cain’s brother Abel. Now Abel was a keeper of sheep, while Cain was a tiller of the soil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.3",
+      "edition_verse_id": "BSB:GEN.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So in the course of time, Cain brought some of the fruit of the soil as an offering to the LORD,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.4",
+      "edition_verse_id": "BSB:GEN.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "while Abel brought the best portions of the firstborn of his flock. And the LORD looked with favor on Abel and his offering,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.5",
+      "edition_verse_id": "BSB:GEN.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "but He had no regard for Cain and his offering. So Cain became very angry, and his countenance fell.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.6",
+      "edition_verse_id": "BSB:GEN.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Why are you angry,” said the LORD to Cain, “and why has your countenance fallen?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.7",
+      "edition_verse_id": "BSB:GEN.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If you do what is right, will you not be accepted? But if you refuse to do what is right, sin is crouching at your door; it desires you, but you must master it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.8",
+      "edition_verse_id": "BSB:GEN.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Cain said to his brother Abel, “Let us go out to the field.” And while they were in the field, Cain rose up against his brother Abel and killed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.9",
+      "edition_verse_id": "BSB:GEN.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD said to Cain, “Where is your brother Abel?” “I do not know!” he answered. “Am I my brother’s keeper?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.10",
+      "edition_verse_id": "BSB:GEN.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“What have you done?” replied the LORD. “The voice of your brother’s blood cries out to Me from the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.11",
+      "edition_verse_id": "BSB:GEN.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now you are cursed and banished from the ground, which has opened its mouth to receive your brother’s blood from your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.12",
+      "edition_verse_id": "BSB:GEN.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When you till the ground, it will no longer yield its produce to you. You will be a fugitive and a wanderer on the earth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.13",
+      "edition_verse_id": "BSB:GEN.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But Cain said to the LORD, “My punishment is greater than I can bear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.14",
+      "edition_verse_id": "BSB:GEN.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Behold, this day You have driven me from the face of the earth, and from Your face I will be hidden; I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.15",
+      "edition_verse_id": "BSB:GEN.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Not so!” replied the LORD. “If anyone slays Cain, then Cain will be avenged sevenfold.” And the LORD placed a mark on Cain, so that no one who found him would kill him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.16",
+      "edition_verse_id": "BSB:GEN.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.17",
+      "edition_verse_id": "BSB:GEN.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And Cain had relations with his wife, and she conceived and gave birth to Enoch. Then Cain built a city and named it after his son Enoch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.18",
+      "edition_verse_id": "BSB:GEN.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Now to Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methusael, and Methusael was the father of Lamech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.19",
+      "edition_verse_id": "BSB:GEN.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And Lamech married two women, one named Adah and the other Zillah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.20",
+      "edition_verse_id": "BSB:GEN.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Adah gave birth to Jabal; he was the father of those who dwell in tents and raise livestock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.21",
+      "edition_verse_id": "BSB:GEN.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And his brother’s name was Jubal; he was the father of all who play the harp and flute.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.22",
+      "edition_verse_id": "BSB:GEN.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Zillah gave birth to Tubal-cain, a forger of every implement of bronze and iron. And the sister of Tubal-cain was Naamah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.23",
+      "edition_verse_id": "BSB:GEN.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamech, listen to my speech. For I have slain a man for wounding me, a young man for striking me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.24",
+      "edition_verse_id": "BSB:GEN.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "If Cain is avenged sevenfold, then Lamech seventy-sevenfold.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.4.25",
+      "edition_verse_id": "BSB:GEN.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And Adam again had relations with his wife, and she gave birth to a son and named him Seth, saying, “God has granted me another seed in place of Abel, since Cain killed him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.4.26",
+      "edition_verse_id": "BSB:GEN.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And to Seth also a son was born, and he called him Enosh. At that time men began to call upon the name of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

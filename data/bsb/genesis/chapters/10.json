@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "GEN.10.1",
+      "edition_verse_id": "BSB:GEN.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.2",
+      "edition_verse_id": "BSB:GEN.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.3",
+      "edition_verse_id": "BSB:GEN.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.4",
+      "edition_verse_id": "BSB:GEN.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the sons of Javan: Elishah, Tarshish, the Kittites, and the Rodanites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.5",
+      "edition_verse_id": "BSB:GEN.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "From these, the maritime peoples separated into their territories, according to their languages, by clans within their nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.6",
+      "edition_verse_id": "BSB:GEN.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The sons of Ham: Cush, Mizraim, Put, and Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.7",
+      "edition_verse_id": "BSB:GEN.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. And the sons of Raamah: Sheba and Dedan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.8",
+      "edition_verse_id": "BSB:GEN.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Cush was the father of Nimrod, who began to be a mighty one on the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.9",
+      "edition_verse_id": "BSB:GEN.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty hunter before the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.10",
+      "edition_verse_id": "BSB:GEN.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.11",
+      "edition_verse_id": "BSB:GEN.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "From that land he went forth into Assyria, where he built Nineveh, Rehoboth-Ir, Calah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.12",
+      "edition_verse_id": "BSB:GEN.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and Resen, which is between Nineveh and the great city of Calah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.13",
+      "edition_verse_id": "BSB:GEN.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.14",
+      "edition_verse_id": "BSB:GEN.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "the Pathrusites, the Casluhites (from whom the Philistines came), and the Caphtorites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.15",
+      "edition_verse_id": "BSB:GEN.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Canaan was the father of Sidon his firstborn, and of the Hittites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.16",
+      "edition_verse_id": "BSB:GEN.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the Jebusites, the Amorites, the Girgashites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.17",
+      "edition_verse_id": "BSB:GEN.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the Hivites, the Arkites, the Sinites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.18",
+      "edition_verse_id": "BSB:GEN.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the Arvadites, the Zemarites, and the Hamathites. Later the Canaanite clans were scattered,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.19",
+      "edition_verse_id": "BSB:GEN.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and the borders of Canaan extended from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.20",
+      "edition_verse_id": "BSB:GEN.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "These are the sons of Ham according to their clans, languages, lands, and nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.21",
+      "edition_verse_id": "BSB:GEN.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And sons were also born to Shem, the older brother of Japheth; Shem was the forefather of all the sons of Eber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.22",
+      "edition_verse_id": "BSB:GEN.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.23",
+      "edition_verse_id": "BSB:GEN.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The sons of Aram: Uz, Hul, Gether, and Mash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.24",
+      "edition_verse_id": "BSB:GEN.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Arphaxad was the father of Shelah, and Shelah was the father of Eber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.25",
+      "edition_verse_id": "BSB:GEN.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Two sons were born to Eber: One was named Peleg, because in his days the earth was divided, and his brother was named Joktan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.26",
+      "edition_verse_id": "BSB:GEN.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.27",
+      "edition_verse_id": "BSB:GEN.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Hadoram, Uzal, Diklah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.28",
+      "edition_verse_id": "BSB:GEN.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Obal, Abimael, Sheba,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.29",
+      "edition_verse_id": "BSB:GEN.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Ophir, Havilah, and Jobab. All these were sons of Joktan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.30",
+      "edition_verse_id": "BSB:GEN.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Their territory extended from Mesha to Sephar, in the eastern hill country.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.10.31",
+      "edition_verse_id": "BSB:GEN.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "These are the sons of Shem, according to their clans, languages, lands, and nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.10.32",
+      "edition_verse_id": "BSB:GEN.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

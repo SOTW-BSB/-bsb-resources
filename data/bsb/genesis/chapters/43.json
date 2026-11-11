@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 43,
+  "verses": [
+    {
+      "id": "GEN.43.1",
+      "edition_verse_id": "BSB:GEN.43.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the famine was still severe in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.2",
+      "edition_verse_id": "BSB:GEN.43.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So when Jacob’s sons had eaten all the grain they had brought from Egypt, their father said to them, “Go back and buy us a little more food.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.3",
+      "edition_verse_id": "BSB:GEN.43.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But Judah replied, “The man solemnly warned us, ‘You will not see my face again unless your brother is with you.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.4",
+      "edition_verse_id": "BSB:GEN.43.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If you will send our brother with us, we will go down and buy food for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.5",
+      "edition_verse_id": "BSB:GEN.43.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But if you will not send him, we will not go; for the man told us, ‘You will not see my face again unless your brother is with you.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.6",
+      "edition_verse_id": "BSB:GEN.43.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Why did you bring this trouble upon me?” Israel asked. “Why did you tell the man you had another brother?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.7",
+      "edition_verse_id": "BSB:GEN.43.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They replied, “The man questioned us in detail about ourselves and our family: ‘Is your father still alive? Do you have another brother?’ And we answered him accordingly. How could we possibly know that he would say, ‘Bring your brother here’?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.8",
+      "edition_verse_id": "BSB:GEN.43.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Judah said to his father Israel, “Send the boy with me, and we will go at once, so that we may live and not die— neither we, nor you, nor our children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.9",
+      "edition_verse_id": "BSB:GEN.43.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I will guarantee his safety. You may hold me personally responsible. If I do not bring him back and set him before you, then may I bear the guilt before you all my life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.10",
+      "edition_verse_id": "BSB:GEN.43.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If we had not delayed, we could have come and gone twice by now.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.11",
+      "edition_verse_id": "BSB:GEN.43.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then their father Israel said to them, “If it must be so, then do this: Put some of the best products of the land in your packs and carry them down as a gift for the man — a little balm and a little honey, spices and myrrh, pistachios and almonds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.12",
+      "edition_verse_id": "BSB:GEN.43.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Take double the silver with you so that you may return the silver that was put back into the mouths of your sacks. Perhaps it was a mistake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.13",
+      "edition_verse_id": "BSB:GEN.43.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Take your brother as well, and return to the man at once.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.14",
+      "edition_verse_id": "BSB:GEN.43.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "May God Almighty grant you mercy before the man, that he may release your other brother along with Benjamin. As for me, if I am bereaved, I am bereaved.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.15",
+      "edition_verse_id": "BSB:GEN.43.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the men took these gifts, along with double the amount of silver, and Benjamin as well. Then they hurried down to Egypt and stood before Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.16",
+      "edition_verse_id": "BSB:GEN.43.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When Joseph saw Benjamin with his brothers, he said to the steward of his house, “Take these men to my house. Slaughter an animal and prepare it, for they shall dine with me at noon.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.17",
+      "edition_verse_id": "BSB:GEN.43.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The man did as Joseph had commanded and took the brothers to Joseph’s house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.18",
+      "edition_verse_id": "BSB:GEN.43.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But the brothers were frightened that they had been taken to Joseph’s house. “We have been brought here because of the silver that was returned in our bags the first time,” they said. “They intend to overpower us and take us as slaves, along with our donkeys.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.19",
+      "edition_verse_id": "BSB:GEN.43.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So they approached Joseph’s steward and spoke to him at the entrance to the house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.20",
+      "edition_verse_id": "BSB:GEN.43.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“Please, sir,” they said, “we really did come down here the first time to buy food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.21",
+      "edition_verse_id": "BSB:GEN.43.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But when we came to the place we lodged for the night, we opened our sacks and, behold, each of us found his silver in the mouth of his sack! It was the full amount of our silver, and we have brought it back with us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.22",
+      "edition_verse_id": "BSB:GEN.43.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "We have brought additional silver with us to buy food. We do not know who put our silver in our sacks.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.23",
+      "edition_verse_id": "BSB:GEN.43.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“It is fine,” said the steward. “Do not be afraid. Your God, the God of your father, gave you the treasure that was in your sacks. I received your silver.” Then he brought Simeon out to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.24",
+      "edition_verse_id": "BSB:GEN.43.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And the steward took the men into Joseph’s house, gave them water to wash their feet, and provided food for their donkeys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.25",
+      "edition_verse_id": "BSB:GEN.43.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Since the brothers had been told that they were going to eat a meal there, they prepared their gift for Joseph’s arrival at noon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.26",
+      "edition_verse_id": "BSB:GEN.43.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When Joseph came home, they presented him with the gifts they had brought, and they bowed to the ground before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.27",
+      "edition_verse_id": "BSB:GEN.43.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He asked if they were well, and then he asked, “How is your elderly father you told me about? Is he still alive?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.28",
+      "edition_verse_id": "BSB:GEN.43.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "“Your servant our father is well,” they answered. “He is still alive.” And they bowed down to honor him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.29",
+      "edition_verse_id": "BSB:GEN.43.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When Joseph looked up and saw his brother Benjamin, his own mother’s son, he asked, “Is this your youngest brother, the one you told me about?” Then he declared, “May God be gracious to you, my son.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.30",
+      "edition_verse_id": "BSB:GEN.43.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Joseph hurried out because he was moved to tears for his brother, and he went to a private room to weep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.31",
+      "edition_verse_id": "BSB:GEN.43.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Then he washed his face and came back out. Regaining his composure, he said, “Serve the meal.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.32",
+      "edition_verse_id": "BSB:GEN.43.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "They separately served Joseph, his brothers, and the Egyptians. They ate separately because the Egyptians would not eat with the Hebrews, since that was detestable to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.43.33",
+      "edition_verse_id": "BSB:GEN.43.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "They were seated before Joseph in order by age, from the firstborn to the youngest, and the men looked at one another in astonishment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.43.34",
+      "edition_verse_id": "BSB:GEN.43.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When the portions were served to them from Joseph’s table, Benjamin’s portion was five times larger than any of the others. So they feasted and drank freely with Joseph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

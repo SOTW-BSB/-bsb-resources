@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1TH",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1TH.2.1",
+      "edition_verse_id": "BSB:1TH.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "You yourselves know, brothers, that our visit to you was not in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.2",
+      "edition_verse_id": "BSB:1TH.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As you are aware, we had already endured suffering and shameful treatment in Philippi. But in the face of strong opposition, we were bold in our God to speak to you the gospel of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.3",
+      "edition_verse_id": "BSB:1TH.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For our appeal does not arise from deceit or ulterior motives or trickery.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.4",
+      "edition_verse_id": "BSB:1TH.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Instead, we speak as those approved by God to be entrusted with the gospel, not in order to please men but God, who examines our hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.5",
+      "edition_verse_id": "BSB:1TH.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As you know, we never used words of flattery or any pretext for greed. God is our witness!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.6",
+      "edition_verse_id": "BSB:1TH.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Nor did we seek praise from you or from anyone else, although as apostles of Christ we had authority to demand it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.7",
+      "edition_verse_id": "BSB:1TH.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "On the contrary, we were gentle among you, like a nursing mother caring for her children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.8",
+      "edition_verse_id": "BSB:1TH.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "We cared so deeply that we were delighted to share with you not only the gospel of God, but our own lives as well. That is how beloved you have become to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.9",
+      "edition_verse_id": "BSB:1TH.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Surely you recall, brothers, our labor and toil. We worked night and day so that we would not be a burden to anyone while we proclaimed to you the gospel of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.10",
+      "edition_verse_id": "BSB:1TH.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You are witnesses, and so is God, of how holy, righteous, and blameless our conduct was among you who believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.11",
+      "edition_verse_id": "BSB:1TH.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For you know that we treated each of you as a father treats his own children—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.12",
+      "edition_verse_id": "BSB:1TH.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "encouraging you, comforting you, and urging you to walk in a manner worthy of God, who calls you into His own kingdom and glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.13",
+      "edition_verse_id": "BSB:1TH.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And we continually thank God because, when you received the word of God that you heard from us, you accepted it not as the word of men, but as it truly is, the word of God, which is also now at work in you who believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.14",
+      "edition_verse_id": "BSB:1TH.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For you, brothers, became imitators of the churches of God in Judea that are in Christ Jesus. You suffered from your own countrymen the very things they suffered from the Jews,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.15",
+      "edition_verse_id": "BSB:1TH.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "who killed both the Lord Jesus and their own prophets and drove us out as well. They are displeasing to God and hostile to all men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.16",
+      "edition_verse_id": "BSB:1TH.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "hindering us from telling the Gentiles how they may be saved. As a result, they continue to heap up their sins to full capacity; the utmost wrath has come upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.17",
+      "edition_verse_id": "BSB:1TH.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Brothers, although we were torn away from you for a short time (in person, not in heart), our desire to see you face to face was even more intense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1TH.2.18",
+      "edition_verse_id": "BSB:1TH.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For we wanted to come to you — indeed I, Paul, tried again and again — but Satan obstructed us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.19",
+      "edition_verse_id": "BSB:1TH.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "After all, who is our hope, our joy, our crown of boasting, if it is not you yourselves in the presence of our Lord Jesus at His coming?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1TH.2.20",
+      "edition_verse_id": "BSB:1TH.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You are indeed our glory and our joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

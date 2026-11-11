@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "GEN.16.1",
+      "edition_verse_id": "BSB:GEN.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.2",
+      "edition_verse_id": "BSB:GEN.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So Sarai said to Abram, “Look now, the LORD has prevented me from bearing children. Please go to my maidservant; perhaps I can build a family by her.” And Abram listened to the voice of Sarai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.16.3",
+      "edition_verse_id": "BSB:GEN.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So after he had lived in Canaan for ten years, his wife Sarai took her Egyptian maidservant Hagar and gave her to Abram to be his wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.4",
+      "edition_verse_id": "BSB:GEN.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.16.5",
+      "edition_verse_id": "BSB:GEN.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then Sarai said to Abram, “May the wrong done to me be upon you! I delivered my servant into your arms, and ever since she saw that she was pregnant, she has treated me with contempt. May the LORD judge between you and me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.6",
+      "edition_verse_id": "BSB:GEN.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Here,” said Abram, “your servant is in your hands. Do whatever you want with her.” Then Sarai treated Hagar so harshly that she fled from her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.7",
+      "edition_verse_id": "BSB:GEN.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now the angel of the LORD found Hagar by a spring of water in the desert — the spring along the road to Shur.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.8",
+      "edition_verse_id": "BSB:GEN.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Hagar, servant of Sarai,” he said, “where have you come from, and where are you going?” “I am running away from my mistress Sarai,” she replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.16.9",
+      "edition_verse_id": "BSB:GEN.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So the angel of the LORD told her, “Return to your mistress and submit to her authority.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.10",
+      "edition_verse_id": "BSB:GEN.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then the angel added, “I will greatly multiply your offspring so that they will be too numerous to count.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.16.11",
+      "edition_verse_id": "BSB:GEN.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The angel of the LORD proceeded: “Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.12",
+      "edition_verse_id": "BSB:GEN.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He will be a wild donkey of a man, and his hand will be against everyone, and everyone’s hand against him; he will live in hostility toward all his brothers.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.16.13",
+      "edition_verse_id": "BSB:GEN.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So Hagar gave this name to the LORD who had spoken to her: “You are the God who sees me,” for she said, “Here I have seen the One who sees me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.14",
+      "edition_verse_id": "BSB:GEN.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore the well was called Beer-lahai-roi. It is located between Kadesh and Bered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.16.15",
+      "edition_verse_id": "BSB:GEN.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.16.16",
+      "edition_verse_id": "BSB:GEN.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Abram was eighty-six years old when Hagar bore Ishmael to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

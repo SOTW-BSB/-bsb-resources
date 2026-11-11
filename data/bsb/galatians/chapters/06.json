@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GAL",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "GAL.6.1",
+      "edition_verse_id": "BSB:GAL.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Brothers, if someone is caught in a trespass, you who are spiritual should restore him with a spirit of gentleness. But watch yourself, or you also may be tempted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.2",
+      "edition_verse_id": "BSB:GAL.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Carry one another’s burdens, and in this way you will fulfill the law of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.3",
+      "edition_verse_id": "BSB:GAL.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If anyone thinks he is something when he is nothing, he deceives himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.4",
+      "edition_verse_id": "BSB:GAL.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Each one should test his own work. Then he will have reason to boast in himself alone, and not in someone else.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.5",
+      "edition_verse_id": "BSB:GAL.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For each one should carry his own load.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.6",
+      "edition_verse_id": "BSB:GAL.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Nevertheless, the one who receives instruction in the word must share in all good things with his instructor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.7",
+      "edition_verse_id": "BSB:GAL.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Do not be deceived: God is not to be mocked. Whatever a man sows, he will reap in return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.8",
+      "edition_verse_id": "BSB:GAL.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The one who sows to please his flesh, from the flesh will reap destruction; but the one who sows to please the Spirit, from the Spirit will reap eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.9",
+      "edition_verse_id": "BSB:GAL.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Let us not grow weary in well-doing, for in due time we will reap a harvest if we do not give up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.10",
+      "edition_verse_id": "BSB:GAL.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore, as we have opportunity, let us do good to everyone, and especially to the family of faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.11",
+      "edition_verse_id": "BSB:GAL.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "See what large letters I am using to write to you with my own hand!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.12",
+      "edition_verse_id": "BSB:GAL.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Those who want to make a good impression outwardly are trying to compel you to be circumcised. They only do this to avoid persecution for the cross of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.13",
+      "edition_verse_id": "BSB:GAL.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For the circumcised do not even keep the law themselves, yet they want you to be circumcised that they may boast in your flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.14",
+      "edition_verse_id": "BSB:GAL.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But as for me, may I never boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.15",
+      "edition_verse_id": "BSB:GAL.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For neither circumcision nor uncircumcision means anything. What counts is a new creation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GAL.6.16",
+      "edition_verse_id": "BSB:GAL.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Peace and mercy to all who walk by this rule, even to the Israel of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.17",
+      "edition_verse_id": "BSB:GAL.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "From now on let no one cause me trouble, for I bear on my body the marks of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GAL.6.18",
+      "edition_verse_id": "BSB:GAL.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

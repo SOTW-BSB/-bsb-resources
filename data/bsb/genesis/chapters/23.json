@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "GEN.23.1",
+      "edition_verse_id": "BSB:GEN.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Sarah lived to be 127 years old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.2",
+      "edition_verse_id": "BSB:GEN.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "She died in Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went out to mourn and to weep for her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.3",
+      "edition_verse_id": "BSB:GEN.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Abraham got up from beside his dead wife and said to the Hittites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.4",
+      "edition_verse_id": "BSB:GEN.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“I am a foreigner and an outsider among you. Give me a burial site among you so that I can bury my dead.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.5",
+      "edition_verse_id": "BSB:GEN.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The Hittites replied to Abraham,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.6",
+      "edition_verse_id": "BSB:GEN.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“Listen to us, sir. You are God’s chosen one among us. Bury your dead in the finest of our tombs. None of us will withhold his tomb for burying your dead.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.7",
+      "edition_verse_id": "BSB:GEN.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Abraham rose and bowed down before the people of the land, the Hittites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.8",
+      "edition_verse_id": "BSB:GEN.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“If you are willing for me to bury my dead,” he said to them, “listen to me, and approach Ephron son of Zohar on my behalf",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.9",
+      "edition_verse_id": "BSB:GEN.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "to sell me the cave of Machpelah that belongs to him; it is at the end of his field. Let him sell it to me in your presence for full price, so that I may have a burial site.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.10",
+      "edition_verse_id": "BSB:GEN.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now Ephron was sitting among the sons of Heth. So in the presence of all the Hittites who had come to the gate of his city, Ephron the Hittite answered Abraham,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.11",
+      "edition_verse_id": "BSB:GEN.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“No, my lord. Listen to me. I give you the field, and I give you the cave that is in it. I give it to you in the presence of my people. Bury your dead.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.12",
+      "edition_verse_id": "BSB:GEN.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Again Abraham bowed down before the people of the land",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.13",
+      "edition_verse_id": "BSB:GEN.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and said to Ephron in their presence, “If you will please listen to me, I will pay you the price of the field. Accept it from me, so that I may bury my dead there.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.14",
+      "edition_verse_id": "BSB:GEN.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ephron answered Abraham,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.15",
+      "edition_verse_id": "BSB:GEN.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Listen to me, my lord. The land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.16",
+      "edition_verse_id": "BSB:GEN.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard of the merchants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.17",
+      "edition_verse_id": "BSB:GEN.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So Ephron’s field at Machpelah near Mamre, the cave that was in it, and all the trees within the boundaries of the field were deeded over",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.23.18",
+      "edition_verse_id": "BSB:GEN.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "to Abraham’s possession in the presence of all the Hittites who had come to the gate of his city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.19",
+      "edition_verse_id": "BSB:GEN.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "After this, Abraham buried his wife Sarah in the cave of the field at Machpelah near Mamre (that is, Hebron) in the land of Canaan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.23.20",
+      "edition_verse_id": "BSB:GEN.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So the field and its cave were deeded by the Hittites to Abraham as a burial site.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

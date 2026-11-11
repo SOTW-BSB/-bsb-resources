@@ -1,0 +1,671 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1SA",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Or \\fqa from Ramathaim, a Zuphite\\ft ; see LXX and \\ref 1 Chronicles 6:26|1CH 6:26\\ref* and 35.\\f*",
+          "raw_sha256": "479a84d413f8415f8daf45bebe3c4a2f5f422ce509cbf0a9b639e98e22c0a614"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\fqa Elihu \\ft is also called \\fqa Eliab \\ft and \\fqa Eliel\\ft ; see \\ref 1 Chronicles 6:27|1CH 6:27\\ref* and 34.\\f*",
+          "raw_sha256": "6a1583c571407327dd5a9dc8298f49489bc1e182acedb4852240c5706456aaee"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft Or \\fqa a choice portion\\f*",
+          "raw_sha256": "2be5eaf727cdb7bc0d7238a63a3f668dee24e1ed8f7c286d6f24b2f63525951c"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 1:20 \\fqa Samuel \\ft sounds like the Hebrew for \\fqa heard of God\\ft .\\f*",
+          "raw_sha256": "8d16e6088264962bf9707526e0d15ae4a886736c65b180aa741beaa4741cd456"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 1:22 \\ft MT; DSS include \\fqa I will offer him as a Nazirite for all time.\\f*",
+          "raw_sha256": "b642fd47a89110535e5dc67421290484f7afab112649d4dc12bdf2ce65feb5ac"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 1:23 \\ft MT; DSS, LXX, and Syriac \\fqa your word\\f*",
+          "raw_sha256": "41b6d62dbacb3914a0cac969607038ac9155f6417bd26fea69951508bdfe5f05"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 1:24 \\ft DSS, LXX, and Syriac; MT \\fqa three bulls\\f*",
+          "raw_sha256": "4cffd1d064550cd703efbd9ad0985c50e46317a4f91e24add77e1d2d9534efe2"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:24 \\fqa An ephah \\ft is approximately 20 dry quarts or 22 liters (probably about 25.5 pounds or 11.6 kilograms of flour).\\f*",
+          "raw_sha256": "378643ee78245a5c9a4d7fc2d840d6920017defae20a2a5c0f4572438b7b9cb6"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 1:28 \\ft One DSS manuscript; MT \\fqa he worshiped\\f*",
+          "raw_sha256": "4de56e1ccfac3d872693a0bd816f3b9364cb063ea6f599d9182edbe6d31db4c7"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Or \\fqa strength\\ft ; also in verse 10\\f*",
+          "raw_sha256": "0fbb934f288ff4065a27258d05a3cd6d75ce6c5c7df2622f0c2038eec60a5a4b"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\ft DSS and LXX; MT \\fqa men\\f*",
+          "raw_sha256": "3bdc78ff78eeffcd8e2d64a982f381b35be33a9d6bc3bee169720e21d6069262"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 2:20 \\ft DSS; MT \\fqa in place of the one requested from the LORD\\f*",
+          "raw_sha256": "ef5bf5ede0b7826b4fe72ff23c013bddb7841604a396096b318f4d1692e57455"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 2:25 \\ft Or \\fqa the judges\\f*",
+          "raw_sha256": "2490858e55258ff94bb0900be77d3a6c8449513b643db93c03fb34e4b0d11bb9"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 2:29 \\ft Or \\fqa scorn\\f*",
+          "raw_sha256": "51845c62af88560639e5e8d543b4c8ae1333c405ed3d75f472bccea55c9b55ac"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 2:33 \\ft Hebrew; LXX \\fqa his eyes will fail and his heart will grieve\\f*",
+          "raw_sha256": "32a9c4c033f6fb0834688e5a27b0b3a3b3ad4f55bf75fdd0bf9085532a2dfc47"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:33 \\ft Or \\fqa increase \\ft \\f*",
+          "raw_sha256": "ffdc1eb948c66d9def5881777a759acafad89db9cc79df9144b50e88302a8255"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:33 \\ft DSS and LXX; MT \\fqa will die as mortals \\ft or \\fqa will die in the prime of life\\f*",
+          "raw_sha256": "fb82636b3db62ce219a4830b0fb90164a6211c1f64d860f1dd22e88422642af5"
+        }
+      ]
+    },
+    "3": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 3:13 \\ft LXX; Hebrew \\fqa made themselves contemptible\\f*",
+          "raw_sha256": "39844d8dbdcfbcacb81f5f53cdb379dc42bab4117825a399e316680aad98e0d1"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft Or \\fqa He may go\\f*",
+          "raw_sha256": "e191d963268895620054c8e24730db5c3e6616da7fbe9f2033e8058a1a5d918f"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft Or \\fqa A god has entered\\f*",
+          "raw_sha256": "bf6771dcabf549a8de1137b3336c5dd5ecdbf2b9761fb18c7587176eafa902c1"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 4:18 \\ft Or \\fqa governed \\ft or \\fqa led\\f*",
+          "raw_sha256": "a8e7405c211778c5614ebcff12b618abbf0acad45ebce7370528f7e5dc4f6e1c"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 4:21 \\fqa Ichabod \\ft means \\fqa no glory\\ft .\\f*",
+          "raw_sha256": "2129d50b32b3ce35b8904051cbc3f20891838d5ab52ab9be3d56d3ab75b94606"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:21 \\ft Or \\fqa gone into exile\\ft ; also in verse 22\\f*",
+          "raw_sha256": "aefb6472a0087b3ff55303d77c2afd65b7c4332dfedcfa0a68bd4313e2a0affd"
+        }
+      ]
+    },
+    "5": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft Literally \\fqa set it beside Dagon\\f*",
+          "raw_sha256": "baf62fbcf229484357f99f254d277d71fae4f86f5d09271912d0d5b2c8b5cb88"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 5:6 \\ft Hebrew; LXX and Vulgate include \\fqa And rats appeared in their land, and death and destruction were throughout the city.\\f*",
+          "raw_sha256": "7fb30e5535382a1fdd0c3dc6461ca36d89b0f3dcd32d5f2647d5ecba1d0a7d9d"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 5:11 \\ft Or \\fqa He will not\\f*",
+          "raw_sha256": "f2a3577697c1f3d615c5e46e0d858d87bfaf352c796d2afbc03fdfc46894125b"
+        }
+      ]
+    },
+    "6": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\ft Or \\fqa make heavy\\ft ; similarly again in this verse\\f*",
+          "raw_sha256": "e140f722b0ef092e78d3df743737f0767c3e9dbbf8a4ea0ab29939478f8abd24"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 6:18 \\ft Or \\fqa great meadow\\ft ; Hebrew \\fqa Abel-haggedolah\\f*",
+          "raw_sha256": "6e78460b1fef08383c4e8027b9c4472a48a9a0c71fceac83a5032c42f3e7d42a"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 6:19 \\ft A few late Hebrew manuscripts and Josephus; most Hebrew manuscripts \\fqa 70 men and 50,000 men\\ft ; LXX \\fqa 70 men and 50,000 men of the people\\ft ; Syriac and Arabic \\fqa 70 men and 5,000 men\\ft ; alternately, possibly \\fqa 70 men and 50 oxen\\f*",
+          "raw_sha256": "5a89464411a6d5b0114567827dee3312ae21a989f3ea3715897498194ab9f287"
+        }
+      ]
+    },
+    "7": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 7:6 \\ft Or \\fqa governed \\ft or \\fqa led\\ft ; similarly in verses 15, 16, and 17\\f*",
+          "raw_sha256": "5ce8818014c88ef3792bb90bbd5e5ef750363fb435446bd0965288a6cf3732c0"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 7:12 \\ft Hebrew; LXX and Syriac \\fqa Jeshanah\\f*",
+          "raw_sha256": "fb9ad040ccd18b60fc203590c4779e0fa79fcb4d3abcae0141499452531b7152"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:12 \\fqa Ebenezer \\ft means \\fqa stone of help\\ft .\\f*",
+          "raw_sha256": "091efa49a3e53c1ebf327d31e3bcf4684492c326ea567b3c35c259a84a439b88"
+        }
+      ]
+    },
+    "8": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 8:1 \\ft Or \\fqa governors \\ft or \\fqa leaders\\ft ; similarly in verses 2, 5, 6, and 20\\f*",
+          "raw_sha256": "6cfff41e1202fcf89c6616c792443f3e352e5ca7ef385b1422e2aa3b7a9e73f5"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 8:16 \\ft LXX; Hebrew \\fqa your best young men\\f*",
+          "raw_sha256": "157b3590b0c50ce6d026f3ebf5dc3f1b073046d875ada5ac9e5740513707e9bf"
+        }
+      ]
+    },
+    "9": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 9:8 \\fqa A quarter shekel \\ft is approximately 0.1 ounces or 2.85 grams of silver.\\f*",
+          "raw_sha256": "3c1126cddb1bef7d8c6ef1d238d7b40e5db8ed193d889acde01d7f8715d19070"
+        }
+      ]
+    },
+    "10": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 10:1 \\ft Hebrew; LXX \\fqa “Has not the LORD anointed you ruler over Israel? And you will rule over the LORD’s people and save them from their enemies around them. This will be the sign to you that the LORD has appointed you to be leader over His inheritance.\\f*",
+          "raw_sha256": "65106b18a4a2623c7769a91063119345b47afd1947114f8d92d5eaf9ff5df831"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 10:3 \\ft Or \\fqa Terebinth \\ft or \\fqa Great Tree\\f*",
+          "raw_sha256": "d3815129d5d73c9bf88c748b85d30e9cc6661e189dc78047212ec5dca667ca2c"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 10:5 \\ft Hebrew \\fqa Gibeath-Elohim\\ft , meaning \\fqa the hill of God\\f*",
+          "raw_sha256": "25d0184588c76e50e1500a49cfee344a0f0179f7b1478412b7a48dc25be5639a"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 10:10 \\fqa Gibeah \\ft means \\fqa the hill\\ft .\\f*",
+          "raw_sha256": "aa9f9adfd3b5943931c5acb63e1a4b3af3be84dd655cc84b4e7efda52d1ae61e"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 10:21 \\ft LXX includes \\fqa And he brought the family of the Matrites near, man by man.\\f*",
+          "raw_sha256": "28d7fa99f6638f99f3340495fc135508ad0e5b6422ff33f216466e15d0fe047f"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 10:27 \\ft MT and LXX; one DSS manuscript includes \\fqa Nahash, king of the Ammonites, had viciously oppressed the people of Gad and Reuben, gouging out the right eye of each Israelite dwelling there. He would not allow anyone to rescue them, and there was no Israelite east of the Jordan whose right eye had not been gouged out. But 7,000 men had escaped from the Ammonites and settled in Jabesh-gilead.\\f*",
+          "raw_sha256": "81cf9f56d6a0c3c4e2ae8c0106a4f06f28bc22765f1b3d6e692b783bc421f20d"
+        }
+      ]
+    },
+    "11": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 11:1 \\ft DSS and LXX \\fqa About a month later Nahash\\f*",
+          "raw_sha256": "c11da19116e3a3de442119b5031265718b38a0eaa41dc77c67ce885fdda5aa88"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:1 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft .\\f*",
+          "raw_sha256": "3876f97dccdde8b38e5cc9b43ce9033efaa1d9044cd44e1b45555774ae0547d8"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 11:8 \\ft DSS and LXX \\fqa 70,000\\f*",
+          "raw_sha256": "70e1e8acfeb76427fe112f13beccbbea03e0783c5b291a419a16047c8167d516"
+        }
+      ]
+    },
+    "12": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft Hebrew \\fqa And I will restore it\\ft ; LXX \\fqa Testify against me, and I will restore it\\f*",
+          "raw_sha256": "8791a91f9a5b25584dfcc5cfa1f137c3bc93e6e9da4a4caef94fa1e019c5d59c"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 12:6 \\ft Hebrew; LXX \\fqa The LORD is the witness who\\f*",
+          "raw_sha256": "c50842ddafdd72d83e4a833a2bca91fa82afafeab74c3f6c6933a91947ce847a"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 12:8 \\ft Hebrew; LXX includes \\fqa and the Egyptians oppressed them\\f*",
+          "raw_sha256": "26c6232d74ed9b5352ccb50d3d1157cea4d276919101808c914bd5294a389e97"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 12:9 \\ft LXX \\fqa the army of Jabin king of Hazor\\f*",
+          "raw_sha256": "5603e0fad54b86fedadb999d68015fb96e188f45003f12e96de5e2ec80fc3c61"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 12:11 \\fqa Jerubbaal \\ft is another name for \\fqa Gideon \\ft and probably means \\fqa let Baal contend\\ft ; see \\ref Judges 6:32|JDG 6:32\\ref*.\\f*",
+          "raw_sha256": "5b51c40c9c9ab05d1f5059ea9cba731a44c02df4e6f9317e8d989b652e3479d6"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:11 \\ft LXX and Syriac; Hebrew \\fqa Bedan\\f*",
+          "raw_sha256": "529108b3d49289d25a36fb5af2f6b9e286e13b4ed0dc7593b0826190b20601a0"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:11 \\ft LXX and Syriac \\fqa Samson\\f*",
+          "raw_sha256": "965632cd62dba1d94fc9d6d95454bec1101a4e80bab7396da2386a6eb03f660f"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 12:14 \\fqa then all will be well \\ft is implied; Literally \\fqa If you fear the LORD and serve Him and obey His voice, and if you do not rebel against the command of the LORD, (then) both you and the king who reigns over you will follow the LORD your God.\\f*",
+          "raw_sha256": "ac2e7525e6caca9c306c3664b22888d1b1f8ca8cda2575267b064dcea4c4515a"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 12:15 \\ft Hebrew; LXX \\fqa against your king\\f*",
+          "raw_sha256": "a555b894d94f46087234d6bbcfadd6b9269b2038c1d38304ee92123b26de6e0e"
+        }
+      ]
+    },
+    "13": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 13:1 \\ft A few late LXX manuscripts; MT \\fqa Saul was a son of a year\\f*",
+          "raw_sha256": "b506955062c352bf92dabee6cf7013b918fac986d17c06abc4e2d373fd32d3f7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:1 \\ft Or \\fqa over Israel forty years\\ft (see \\ref Acts 13:21|ACT 13:21\\ref*); MT \\fqa over Israel two years\\f*",
+          "raw_sha256": "727c6cddbff15db1e8b8d20a42cab962fff5e5433818c11b8b4870f9fbebb4c6"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 13:5 \\ft Some LXX manuscripts and Syriac; Hebrew \\fqa thirty thousand\\f*",
+          "raw_sha256": "4972686da204321ce4ea1b34739d2b477e33917419550aeffef1068fa8e76f93"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 13:15 \\ft LXX \\fqa Then Samuel set out, and the rest of the people went up after Saul to meet the army; they went up from Gilgal to Gibeah of Benjamin.\\f*",
+          "raw_sha256": "3d1cc1110e75d477e9819944a82ce55a12c21ecb600a3db761a501822925572c"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 13:20 \\ft LXX; Hebrew \\fqa and plowshares\\ft ; (so plowshare appears twice in the Hebrew).\\f*",
+          "raw_sha256": "db7ac84b4b3066c5c0096f952e7671ff1c51de345c1db91904bd0b7061c48c0e"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 13:21 \\fqa A pim \\ft possibly refers to a polished stone weighing approximately 0.25 ounces or 7 grams found in excavations. This is equivalent to about two-thirds of a shekel and likely refers to the price charged by the Philistines for the services listed.\\f*",
+          "raw_sha256": "3b823da9a5524de6ac58907305ceea9bbda2fbb2dd777430336e387e00fed1fa"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:21 \\ft Hebrew does not include the currency unit \\fqa of a shekel \\ft charged for sharpening a pitchfork, an axe, or an oxgoad; alternatively, possibly \\fqa a third of a pim \\ft for each.\\f*",
+          "raw_sha256": "389d15958b822eaa06e73f514279118a9eb3c9b9f939ba82c7d83df72f89a7dd"
+        }
+      ]
+    },
+    "14": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 14:2 \\ft Or \\fqa around the rock of Rimmon \\ft or \\fqa in the pomegranate cave\\ft ; see \\ref Judges 20:45|JDG 20:45\\ref*, Judges 20:47, and Judges 21:13.\\f*",
+          "raw_sha256": "5f10404fe6c49c42f80db52ff003128cdf2cda5be70b5d34f9a0ec3995138de9"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 14:14 \\ft Hebrew \\fqa half a yoke\\ft . A \\fqa yoke \\ft was the amount of land plowed by a pair of yoked oxen in one day.\\f*",
+          "raw_sha256": "ca7b32d2b3dfc4b7dbb98e1eeb309b3f4b0252564f115770cbba47ffc649d462"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 14:15 \\ft Or \\fqa and a terrible panic spread\\f*",
+          "raw_sha256": "5b024172b61d5854f20ecb8a269380a9e0f0c56019cf9b858d8caabe0356aa0f"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 14:16 \\ft Or \\fqa melting away and going here and there\\f*",
+          "raw_sha256": "3b55633ea26b006c75a827e27756a004a919686fa365404ff9ec98c52e9115e8"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 14:18 \\ft Hebrew; LXX \\fqa “Bring the ephod.” For at that time he wore the ephod before the Israelites.\\f*",
+          "raw_sha256": "102ead385fbb2af59122e75eb376129f331c1fc3f6a75000fb507b8586557d81"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 14:27 \\ft Or \\fqa his strength was renewed\\ft ; similarly in verse 29\\f*",
+          "raw_sha256": "3ef416dba1a6ca6251d3b8b5095d8da3253d09573778d5177b35b15a40cf965f"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 14:41 \\ft LXX and Vulgate; MT contains only the short quotation, \\fqa “Give a perfect (lot).”\\f*",
+          "raw_sha256": "3f74c28a98265fd68597f1d69672b86a541de0ce07f4bdd131f3b1647674c736"
+        }
+      ],
+      "47": [
+        {
+          "source_usfm": "\\f + \\fr 14:47 \\ft MT; DSS and LXX \\fqa king\\f*",
+          "raw_sha256": "6e16a915e42b595e6aaf38efce483c1d1c2c8bb2ca28eaebda76f62697615041"
+        },
+        {
+          "source_usfm": "\\f + \\fr 14:47 \\ft Or \\fqa he inflicted punishment on them \\ft from Hebrew; LXX \\fqa he was victorious\\f*",
+          "raw_sha256": "f22f358fd77fceec04c700cd5db2e00e93db1e5a0952f183473a3857ab1b8047"
+        }
+      ]
+    },
+    "15": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 15:3 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also in verses 8, 9, 15, 18, 20, and 21.\\f*",
+          "raw_sha256": "45952c0cac58b83773f4a4a465698d4b9ff00467e83b08803ca246da9ca8ab0e"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 15:9 \\ft Or \\fqa the grown bulls\\f*",
+          "raw_sha256": "7f6a56935d51cd6ad4cdbc30dfb5ad3c6b9699e8de8a3b0c3009bf49c118e347"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 15:32 \\ft Or \\fqa cautiously \\ft or \\fqa in chains\\ft ; see DSS and LXX.\\f*",
+          "raw_sha256": "9dcf3276efb0e188177d60bf652b606f6878b075c1f314331f059d82d6103e90"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:32 \\ft Or \\fqa “Surely this is the bitterness of death.” \\ft See DSS and LXX.\\f*",
+          "raw_sha256": "99d580d12b54d31b45f68a4c3a12d4e3e5ba9dc1dfb27129974a33d6755db0d4"
+        }
+      ]
+    },
+    "16": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 16:9 \\fqa Shammah \\ft is a variant of \\fqa Shimeah\\ft , \\fqa Shimea\\ft , and \\fqa Shimei\\ft ; see \\ref 2 Samuel 13:3|2SA 13:3\\ref*, 2 Samuel 21:21, and 1 Chronicles 2:13.\\f*",
+          "raw_sha256": "d2281502f82c7a659951ec3f757ff34db6f212c639be73eccd47be17221fa9b5"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 16:14 \\ft Or \\fqa a harmful spirit\\ft ; similarly in verses 15, 16, and 23\\f*",
+          "raw_sha256": "fd7bbe7333a710720cc94c62d1f9b13506463cb01dc92e0565257233e126eb39"
+        }
+      ]
+    },
+    "17": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 17:4 \\ft Goliath was approximately 9 feet 9 inches or 297 centimeters tall; LXX, DSS, and Josephus \\fqa four cubits and a span in height \\ft (approximately 6 feet 9 inches or 206 centimeters tall).\\f*",
+          "raw_sha256": "64f5e9974e7fb392ae83ec1e107c5c7d714fa33f1bfa5215679c81ab09fdfd6f"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 17:5 \\fqa 5,000 shekels \\ft is approximately 125.6 pounds or 57 kilograms.\\f*",
+          "raw_sha256": "9722b1206b35a61c8b7b197e70bd51dc0bd19da746b9c870f8a5d3877dd0d5bc"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 17:7 \\fqa 600 shekels \\ft is approximately 15.1 pounds or 6.8 kilograms.\\f*",
+          "raw_sha256": "78f147d978a717efa9b1e9158f594f147a8770e75e0700c5882f26b2c464859c"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 17:12 \\ft LXX and Syriac; Hebrew \\fqa he had become advanced among men\\f*",
+          "raw_sha256": "3f770f8c5a18ffaeb82d722051f6b14cd5c4edc7e5467143dfee2c12d6e68db5"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 17:17 \\fqa An ephah \\ft is approximately 20 dry quarts or 22 liters of roasted grain.\\f*",
+          "raw_sha256": "abf2d86c6c01e6592ac0fd3771fb2ec84e86b21f69dba99c4028aede0f8e2d9b"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 17:18 \\ft Or \\fqa some token from them \\ft or \\fqa some pledge from them\\f*",
+          "raw_sha256": "bef006069ee73e6e1eb87ff0804b7559cf90b73fa2318df307abd54a1882e73f"
+        }
+      ],
+      "52": [
+        {
+          "source_usfm": "\\f + \\fr 17:52 \\ft LXX; Hebrew \\fqa of Gai\\ft ; that is, \\fqa of the valley\\f*",
+          "raw_sha256": "20bc936dd8ef77fc27356c5382005d3f23fc4643da5802a9d267da6b9eea61ef"
+        }
+      ]
+    },
+    "18": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 18:6 \\ft Possibly \\fqa three-stringed instruments \\ft or \\fqa cymbals \\ft or \\fqa lutes \\ft or \\fqa lyres \\ft \\f*",
+          "raw_sha256": "8f05ef507255df392caa5bd307964c1ce497c70a192736aaccdb205a3795ff00"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 18:10 \\ft Or \\fqa a harmful spirit\\f*",
+          "raw_sha256": "37902efadca8f9f1669f93df024baec1f6aec0017fedd761a72f7a4fb0ffaa20"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 18:19 \\ft Or \\fqa But when it was time\\f*",
+          "raw_sha256": "50ade4c07916b7d42445578fdc581d010fc5624e77ab4aeb40ec79cb8aeac821"
+        }
+      ]
+    },
+    "19": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 19:9 \\ft Or \\fqa a harmful spirit\\f*",
+          "raw_sha256": "57ad55ee3f7aa5deac49dbb4f19e5fc8b8cb852a89071a02c109a16425fadd52"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 19:13 \\ft Or \\fqa a household god\\ft ; Hebrew \\fqa teraphim\\ft ; also in verse 16\\f*",
+          "raw_sha256": "b81ebf0fb655008eadcac4abe565188a9b6c8c25f1df7b7aaec58aa8be12c71a"
+        }
+      ]
+    },
+    "20": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 20:5 \\ft That is, the New Moon feast; also in verses 18, 24, and 27\\f*",
+          "raw_sha256": "eedb4946ac8bff752a03a2175897a35a65af6b051aa6bb7a2615c0fd665c5183"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 20:14 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "4926f893ee79bf70822776cfee443cafb0567d86259032864a3c12ee949f74d0"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 20:19 \\fqa Ezel \\ft means \\fqa departure\\ft .\\f*",
+          "raw_sha256": "89317c2a88b55e11581a38c23fa111a94cda2943e0216e2cdbb133a53e1c6b88"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 20:25 \\ft LXX; Hebrew \\fqa by the wall. Jonathan arose and Abner sat down by Saul’s side,\\f*",
+          "raw_sha256": "2f33c95f9163b2d7ef3e61a6a96ec7a6a48e0ff1d912284338b4fbef0c414c2d"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 20:41 \\ft Hebrew \\fqa from the south side\\ft ; LXX \\fqa from beside the stone\\f*",
+          "raw_sha256": "cc4441f8dfb61cb01b0b729bea3067d6f33aa2e6b1cd8608cf35a7a43384c05f"
+        }
+      ]
+    },
+    "22": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 22:3 \\ft Syriac and Vulgate; Hebrew \\fqa go forth\\f*",
+          "raw_sha256": "88112804889af49cbaccd9b6ea4d77950d5dbac13af04adf646dde01c8794bee"
+        }
+      ]
+    },
+    "23": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 23:11 \\ft Some manuscripts omit this question.\\f*",
+          "raw_sha256": "0850cfd640178925712a00f94fe03ad2c1893ae6a918dd0a44b6815a03d75d25"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 23:28 \\fqa Sela-hammahlekoth \\ft means \\fqa Rock of Escape\\ft .\\f*",
+          "raw_sha256": "2fae2b3d40055805cf6580b73d24bc7aadfebe2889977768603a81f04cdff8c0"
+        }
+      ]
+    },
+    "24": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 24:3 \\ft Literally \\fqa cover his feet\\ft , a euphemism for relieving oneself\\f*",
+          "raw_sha256": "4e183d61a6c6c459364cd3e6fbad5f546056b1c7b038cebcd7341e193c769851"
+        }
+      ]
+    },
+    "25": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 25:1 \\ft Hebrew and some LXX manuscripts; other LXX manuscripts \\fqa Maon\\f*",
+          "raw_sha256": "56a5120c0eadb7435cc875089f7334f403b78b2556929de0a3a8327ba2f4529f"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 25:18 \\fqa 5 seahs \\ft is approximately 33 dry quarts or 36.5 liters of roasted grain.\\f*",
+          "raw_sha256": "ff94db8eb4535a0652a4c0eacb7d82cbe0fa8191297dc67fca1dd38b84cc2863"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 25:22 \\ft Some LXX manuscripts; MT \\fqa David’s enemies\\f*",
+          "raw_sha256": "581fe46ab50a2cd70033c8ed0ff9ac5b25ec3a0b5d26821a8af237403ee853c6"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 25:25 \\fqa Nabal \\ft means \\fqa fool\\ft .\\f*",
+          "raw_sha256": "64c64b7fed724d7fa0c75cdf5adf6ba265563a5e55fcfa5a165feee1fcc1a7b3"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 25:29 \\ft Literally \\fqa fling away the souls of your enemies as from the pocket of a sling\\f*",
+          "raw_sha256": "aedc490a38c4e89a60bc0a71a0ee09fe87f29f32a3c439b316c6910468d58a62"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 25:44 \\fqa Palti \\ft is a variant of \\fqa Paltiel\\ft ; see \\ref 2 Samuel 3:15|2SA 3:15\\ref*.\\f*",
+          "raw_sha256": "32528e1ced060c54b84ce09571b5b3e01160a25d6eed23dccf9349c23dc4afad"
+        }
+      ]
+    },
+    "27": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 27:2 \\fqa Maoch \\ft is a variant of \\fqa Maacah\\ft ; see \\ref 1 Kings 2:39|1KI 2:39\\ref*.\\f*",
+          "raw_sha256": "3c6c2fe1264d20b8f45af3f845a34415ffcd56cc068bf8e5cc18d3802de30cdb"
+        }
+      ]
+    },
+    "28": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 28:6 \\ft Literally \\fqa Lights\\f*",
+          "raw_sha256": "01f7f562e9daa529f6904849011290b3c2a9998481a77e1ed6afe5b69a38c27c"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 28:13 \\ft Or \\fqa I see a spirit \\ft or \\fqa I see a divine being\\f*",
+          "raw_sha256": "a939a046894de1622beb45b47f239124b2af0bdc08f69a82b9d3bd128ac904cb"
+        }
+      ]
+    },
+    "30": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 30:2 \\ft LXX; Hebrew does not include \\fqa and all\\ft .\\f*",
+          "raw_sha256": "63f922ef47c9f49b823e6912a4c13ae87b3c83f10247a027e638f6af9a305d98"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

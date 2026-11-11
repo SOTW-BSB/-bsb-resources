@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "GEN.28.1",
+      "edition_verse_id": "BSB:GEN.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So Isaac called for Jacob and blessed him. “Do not take a wife from the Canaanite women,” he commanded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.2",
+      "edition_verse_id": "BSB:GEN.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Go at once to Paddan-aram, to the house of your mother’s father Bethuel, and take a wife from among the daughters of Laban, your mother’s brother.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.3",
+      "edition_verse_id": "BSB:GEN.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "May God Almighty bless you and make you fruitful and multiply you, so that you may become a company of peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.4",
+      "edition_verse_id": "BSB:GEN.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And may He give the blessing of Abraham to you and your descendants, so that you may possess the land where you dwell as a foreigner, the land God gave to Abraham.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.5",
+      "edition_verse_id": "BSB:GEN.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.6",
+      "edition_verse_id": "BSB:GEN.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram to take a wife there, commanding him, “Do not marry a Canaanite woman,”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.7",
+      "edition_verse_id": "BSB:GEN.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and that Jacob had obeyed his father and mother and gone to Paddan-aram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.8",
+      "edition_verse_id": "BSB:GEN.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And seeing that his father Isaac disapproved of the Canaanite women,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.9",
+      "edition_verse_id": "BSB:GEN.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Abraham’s son Ishmael, in addition to the wives he already had.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.10",
+      "edition_verse_id": "BSB:GEN.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Meanwhile Jacob left Beersheba and set out for Haran.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.11",
+      "edition_verse_id": "BSB:GEN.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "On reaching a certain place, he spent the night there because the sun had set. And taking one of the stones from that place, he put it under his head and lay down to sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.12",
+      "edition_verse_id": "BSB:GEN.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And Jacob had a dream about a ladder that rested on the earth with its top reaching up to heaven, and God’s angels were going up and down the ladder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.13",
+      "edition_verse_id": "BSB:GEN.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.14",
+      "edition_verse_id": "BSB:GEN.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.15",
+      "edition_verse_id": "BSB:GEN.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Look, I am with you, and I will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.16",
+      "edition_verse_id": "BSB:GEN.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When Jacob woke up, he said, “Surely the LORD is in this place, and I was unaware of it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.17",
+      "edition_verse_id": "BSB:GEN.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.18",
+      "edition_verse_id": "BSB:GEN.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Early the next morning, Jacob took the stone that he had placed under his head, and he set it up as a pillar. He poured oil on top of it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.19",
+      "edition_verse_id": "BSB:GEN.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and he called that place Bethel, though previously the city had been named Luz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.20",
+      "edition_verse_id": "BSB:GEN.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.28.21",
+      "edition_verse_id": "BSB:GEN.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "so that I may return safely to my father’s house, then the LORD will be my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.28.22",
+      "edition_verse_id": "BSB:GEN.28.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GEN",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "GEN.22.1",
+      "edition_verse_id": "BSB:GEN.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.2",
+      "edition_verse_id": "BSB:GEN.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.3",
+      "edition_verse_id": "BSB:GEN.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So Abraham got up early the next morning, saddled his donkey, and took along two of his servants and his son Isaac. He split the wood for a burnt offering and set out for the place God had designated.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.4",
+      "edition_verse_id": "BSB:GEN.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "On the third day Abraham looked up and saw the place in the distance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.5",
+      "edition_verse_id": "BSB:GEN.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Stay here with the donkey,” Abraham told his servants. “The boy and I will go over there to worship, and then we will return to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.22.6",
+      "edition_verse_id": "BSB:GEN.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.7",
+      "edition_verse_id": "BSB:GEN.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then Isaac said to his father Abraham, “My father!” “Here I am, my son,” he replied. “The fire and the wood are here,” said Isaac, “but where is the lamb for the burnt offering?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.8",
+      "edition_verse_id": "BSB:GEN.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Abraham answered, “God Himself will provide the lamb for the burnt offering, my son.” And the two walked on together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.9",
+      "edition_verse_id": "BSB:GEN.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When they arrived at the place God had designated, Abraham built the altar there and arranged the wood. He bound his son Isaac and placed him on the altar, atop the wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.10",
+      "edition_verse_id": "BSB:GEN.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Abraham reached out his hand and took the knife to slaughter his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.22.11",
+      "edition_verse_id": "BSB:GEN.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Just then the angel of the LORD called out to him from heaven, “Abraham, Abraham!” “Here I am,” he replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.12",
+      "edition_verse_id": "BSB:GEN.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Do not lay a hand on the boy or do anything to him,” said the angel, “for now I know that you fear God, since you have not withheld your only son from me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.13",
+      "edition_verse_id": "BSB:GEN.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.14",
+      "edition_verse_id": "BSB:GEN.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Abraham called that place The LORD Will Provide. So to this day it is said, “On the mountain of the LORD it will be provided.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.22.15",
+      "edition_verse_id": "BSB:GEN.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the angel of the LORD called to Abraham from heaven a second time,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.16",
+      "edition_verse_id": "BSB:GEN.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "saying, “By Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.22.17",
+      "edition_verse_id": "BSB:GEN.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.22.18",
+      "edition_verse_id": "BSB:GEN.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.22.19",
+      "edition_verse_id": "BSB:GEN.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Abraham went back to his servants, and they got up and set out together for Beersheba. And Abraham settled in Beersheba.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.20",
+      "edition_verse_id": "BSB:GEN.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Some time later, Abraham was told, “Milcah has also borne sons to your brother Nahor:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.21",
+      "edition_verse_id": "BSB:GEN.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Uz the firstborn, his brother Buz, Kemuel (the father of Aram),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.22.22",
+      "edition_verse_id": "BSB:GEN.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Chesed, Hazo, Pildash, Jidlaph, and Bethuel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "GEN.22.23",
+      "edition_verse_id": "BSB:GEN.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And Bethuel became the father of Rebekah. Milcah bore these eight sons to Abraham’s brother Nahor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "GEN.22.24",
+      "edition_verse_id": "BSB:GEN.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Moreover, Nahor’s concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, and Maacah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
