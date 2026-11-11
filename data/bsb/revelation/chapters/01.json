@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "REV.1.1",
+      "edition_verse_id": "BSB:REV.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the revelation of Jesus Christ, which God gave Him to show His servants what must soon come to pass. He made it known by sending His angel to His servant John,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.2",
+      "edition_verse_id": "BSB:REV.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "who testifies to everything he saw. This is the word of God and the testimony of Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.1.3",
+      "edition_verse_id": "BSB:REV.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear and obey what is written in it, because the time is near.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.4",
+      "edition_verse_id": "BSB:REV.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "John, To the seven churches in the province of Asia: Grace and peace to you from Him who is and was and is to come, and from the seven spirits before His throne,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.5",
+      "edition_verse_id": "BSB:REV.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and from Jesus Christ, the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To Him who loves us and has released us from our sins by His blood,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.6",
+      "edition_verse_id": "BSB:REV.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "who has made us to be a kingdom, priests to His God and Father — to Him be the glory and power forever and ever! Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.7",
+      "edition_verse_id": "BSB:REV.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, He is coming with the clouds, and every eye will see Him — even those who pierced Him. And all the tribes of the earth will mourn because of Him. So shall it be! Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.8",
+      "edition_verse_id": "BSB:REV.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“I am the Alpha and the Omega,” says the Lord God, who is and was and is to come — the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.9",
+      "edition_verse_id": "BSB:REV.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I, John, your brother and partner in the tribulation and kingdom and perseverance that are in Jesus, was on the island of Patmos because of the word of God and my testimony about Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.10",
+      "edition_verse_id": "BSB:REV.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "On the Lord’s day I was in the Spirit, and I heard behind me a loud voice like a trumpet,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.1.11",
+      "edition_verse_id": "BSB:REV.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "saying, “Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.1.12",
+      "edition_verse_id": "BSB:REV.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then I turned to see the voice that was speaking with me. And having turned, I saw seven golden lampstands,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.13",
+      "edition_verse_id": "BSB:REV.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and among the lampstands was One like the Son of Man, dressed in a long robe, with a golden sash around His chest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.1.14",
+      "edition_verse_id": "BSB:REV.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The hair of His head was white like wool, as white as snow, and His eyes were like a blazing fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.1.15",
+      "edition_verse_id": "BSB:REV.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "His feet were like polished bronze refined in a furnace, and His voice was like the roar of many waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.1.16",
+      "edition_verse_id": "BSB:REV.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He held in His right hand seven stars, and a sharp double-edged sword came from His mouth. His face was like the sun shining at its brightest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.1.17",
+      "edition_verse_id": "BSB:REV.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "When I saw Him, I fell at His feet like a dead man. But He placed His right hand on me and said, “Do not be afraid. I am the First and the Last,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.18",
+      "edition_verse_id": "BSB:REV.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the Living One. I was dead, and behold, now I am alive forever and ever! And I hold the keys of Death and of Hades.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.1.19",
+      "edition_verse_id": "BSB:REV.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Therefore write down the things you have seen, the things that are, and the things that will happen after this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.1.20",
+      "edition_verse_id": "BSB:REV.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "This is the mystery of the seven stars you saw in My right hand and of the seven golden lampstands: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

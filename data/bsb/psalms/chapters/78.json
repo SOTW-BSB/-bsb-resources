@@ -1,0 +1,872 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 78,
+  "verses": [
+    {
+      "id": "PSA.78.1",
+      "edition_verse_id": "BSB:PSA.78.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Maskil of Asaph. Give ear, O my people, to my instruction; listen to the words of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.78.2",
+      "edition_verse_id": "BSB:PSA.78.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will open my mouth in parables; I will utter things hidden from the beginning,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.3",
+      "edition_verse_id": "BSB:PSA.78.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "that we have heard and known and our fathers have relayed to us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.4",
+      "edition_verse_id": "BSB:PSA.78.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We will not hide them from their children but will declare to the next generation the praises of the LORD and His might and the wonders He has performed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.5",
+      "edition_verse_id": "BSB:PSA.78.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For He established a testimony in Jacob and appointed a law in Israel, which He commanded our fathers to teach to their children,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.6",
+      "edition_verse_id": "BSB:PSA.78.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "that the coming generation would know them— even children yet to be born— to arise and tell their own children",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.7",
+      "edition_verse_id": "BSB:PSA.78.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "that they should put their confidence in God, not forgetting His works, but keeping His commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.8",
+      "edition_verse_id": "BSB:PSA.78.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then they will not be like their fathers, a stubborn and rebellious generation, whose heart was not loyal, whose spirit was not faithful to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.9",
+      "edition_verse_id": "BSB:PSA.78.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The archers of Ephraim turned back on the day of battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.10",
+      "edition_verse_id": "BSB:PSA.78.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They failed to keep God’s covenant and refused to live by His law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.11",
+      "edition_verse_id": "BSB:PSA.78.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They forgot what He had done, the wonders He had shown them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.12",
+      "edition_verse_id": "BSB:PSA.78.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He worked wonders before their fathers in the land of Egypt, in the region of Zoan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.13",
+      "edition_verse_id": "BSB:PSA.78.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He split the sea and brought them through; He set the waters upright like a wall.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.14",
+      "edition_verse_id": "BSB:PSA.78.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He led them with a cloud by day and with a light of fire all night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.15",
+      "edition_verse_id": "BSB:PSA.78.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He split the rocks in the wilderness and gave them drink as abundant as the seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.16",
+      "edition_verse_id": "BSB:PSA.78.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He brought streams from the stone and made water flow down like rivers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.17",
+      "edition_verse_id": "BSB:PSA.78.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But they continued to sin against Him, rebelling in the desert against the Most High.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.18",
+      "edition_verse_id": "BSB:PSA.78.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They willfully tested God by demanding the food they craved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.19",
+      "edition_verse_id": "BSB:PSA.78.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They spoke against God, saying, “Can God really prepare a table in the wilderness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.20",
+      "edition_verse_id": "BSB:PSA.78.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When He struck the rock, water gushed out and torrents raged. But can He also give bread or supply His people with meat?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.21",
+      "edition_verse_id": "BSB:PSA.78.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Therefore the LORD heard and was filled with wrath; so a fire was kindled against Jacob, and His anger flared against Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.22",
+      "edition_verse_id": "BSB:PSA.78.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "because they did not believe God or rely on His salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.23",
+      "edition_verse_id": "BSB:PSA.78.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Yet He commanded the clouds above and opened the doors of the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.24",
+      "edition_verse_id": "BSB:PSA.78.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He rained down manna for them to eat; He gave them grain from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.25",
+      "edition_verse_id": "BSB:PSA.78.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Man ate the bread of angels; He sent them food in abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.26",
+      "edition_verse_id": "BSB:PSA.78.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He stirred the east wind from the heavens and drove the south wind by His might.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.27",
+      "edition_verse_id": "BSB:PSA.78.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He rained meat on them like dust, and winged birds like the sand of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.28",
+      "edition_verse_id": "BSB:PSA.78.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He felled them in the midst of their camp, all around their dwellings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.29",
+      "edition_verse_id": "BSB:PSA.78.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So they ate and were well filled, for He gave them what they craved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.30",
+      "edition_verse_id": "BSB:PSA.78.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Yet before they had filled their desire, with the food still in their mouths,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.31",
+      "edition_verse_id": "BSB:PSA.78.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "God’s anger flared against them, and He put to death their strongest and subdued the young men of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.32",
+      "edition_verse_id": "BSB:PSA.78.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "In spite of all this, they kept on sinning; despite His wonderful works, they did not believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.33",
+      "edition_verse_id": "BSB:PSA.78.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So He ended their days in futility, and their years in sudden terror.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.34",
+      "edition_verse_id": "BSB:PSA.78.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "When He slew them, they would seek Him; they repented and searched for God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.35",
+      "edition_verse_id": "BSB:PSA.78.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "And they remembered that God was their Rock, that God Most High was their Redeemer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.36",
+      "edition_verse_id": "BSB:PSA.78.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But they deceived Him with their mouths, and lied to Him with their tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.37",
+      "edition_verse_id": "BSB:PSA.78.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Their hearts were disloyal to Him, and they were unfaithful to His covenant.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.38",
+      "edition_verse_id": "BSB:PSA.78.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And yet He was compassionate; He forgave their iniquity and did not destroy them. He often restrained His anger and did not unleash His full wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.39",
+      "edition_verse_id": "BSB:PSA.78.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "He remembered that they were but flesh, a passing breeze that does not return.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.40",
+      "edition_verse_id": "BSB:PSA.78.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "How often they disobeyed Him in the wilderness and grieved Him in the desert!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.41",
+      "edition_verse_id": "BSB:PSA.78.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Again and again they tested God and provoked the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.42",
+      "edition_verse_id": "BSB:PSA.78.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "They did not remember His power — the day He redeemed them from the adversary,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.43",
+      "edition_verse_id": "BSB:PSA.78.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "when He performed His signs in Egypt and His wonders in the fields of Zoan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.44",
+      "edition_verse_id": "BSB:PSA.78.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "He turned their rivers to blood, and from their streams they could not drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.45",
+      "edition_verse_id": "BSB:PSA.78.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "He sent swarms of flies that devoured them, and frogs that devastated them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.46",
+      "edition_verse_id": "BSB:PSA.78.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "He gave their crops to the grasshopper, the fruit of their labor to the locust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.47",
+      "edition_verse_id": "BSB:PSA.78.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "He killed their vines with hailstones and their sycamore-figs with sleet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.48",
+      "edition_verse_id": "BSB:PSA.78.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "He abandoned their cattle to the hail and their livestock to bolts of lightning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.49",
+      "edition_verse_id": "BSB:PSA.78.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "He unleashed His fury against them, wrath, indignation, and calamity— a band of destroying angels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.50",
+      "edition_verse_id": "BSB:PSA.78.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "He cleared a path for His anger; He did not spare them from death but delivered their lives to the plague.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.51",
+      "edition_verse_id": "BSB:PSA.78.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "He struck all the firstborn of Egypt, the virility in the tents of Ham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.52",
+      "edition_verse_id": "BSB:PSA.78.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "He led out His people like sheep and guided them like a flock in the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.53",
+      "edition_verse_id": "BSB:PSA.78.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "He led them safely, so they did not fear, but the sea engulfed their enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.54",
+      "edition_verse_id": "BSB:PSA.78.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "He brought them to His holy land, to the mountain His right hand had acquired.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.55",
+      "edition_verse_id": "BSB:PSA.78.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "He drove out nations before them and apportioned their inheritance; He settled the tribes of Israel in their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.56",
+      "edition_verse_id": "BSB:PSA.78.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "But they tested and disobeyed God Most High, for they did not keep His decrees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.57",
+      "edition_verse_id": "BSB:PSA.78.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "They turned back and were faithless like their fathers, twisted like a faulty bow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.58",
+      "edition_verse_id": "BSB:PSA.78.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "They enraged Him with their high places and provoked His jealousy with their idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.59",
+      "edition_verse_id": "BSB:PSA.78.59",
+      "verse": 59,
+      "spans": [
+        {
+          "text": "On hearing it, God was furious and rejected Israel completely.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.60",
+      "edition_verse_id": "BSB:PSA.78.60",
+      "verse": 60,
+      "spans": [
+        {
+          "text": "He abandoned the tabernacle of Shiloh, the tent He had pitched among men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.61",
+      "edition_verse_id": "BSB:PSA.78.61",
+      "verse": 61,
+      "spans": [
+        {
+          "text": "He delivered His strength to captivity, and His splendor to the hand of the adversary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.62",
+      "edition_verse_id": "BSB:PSA.78.62",
+      "verse": 62,
+      "spans": [
+        {
+          "text": "He surrendered His people to the sword because He was enraged by His heritage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.63",
+      "edition_verse_id": "BSB:PSA.78.63",
+      "verse": 63,
+      "spans": [
+        {
+          "text": "Fire consumed His young men, and their maidens were left without wedding songs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.64",
+      "edition_verse_id": "BSB:PSA.78.64",
+      "verse": 64,
+      "spans": [
+        {
+          "text": "His priests fell by the sword, but their widows could not lament.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.65",
+      "edition_verse_id": "BSB:PSA.78.65",
+      "verse": 65,
+      "spans": [
+        {
+          "text": "Then the Lord awoke as from sleep, like a mighty warrior overcome by wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.66",
+      "edition_verse_id": "BSB:PSA.78.66",
+      "verse": 66,
+      "spans": [
+        {
+          "text": "He beat back His foes; He put them to everlasting shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.67",
+      "edition_verse_id": "BSB:PSA.78.67",
+      "verse": 67,
+      "spans": [
+        {
+          "text": "He rejected the tent of Joseph and refused the tribe of Ephraim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.68",
+      "edition_verse_id": "BSB:PSA.78.68",
+      "verse": 68,
+      "spans": [
+        {
+          "text": "But He chose the tribe of Judah, Mount Zion, which He loved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.69",
+      "edition_verse_id": "BSB:PSA.78.69",
+      "verse": 69,
+      "spans": [
+        {
+          "text": "He built His sanctuary like the heights, like the earth He has established forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.70",
+      "edition_verse_id": "BSB:PSA.78.70",
+      "verse": 70,
+      "spans": [
+        {
+          "text": "He chose David His servant and took him from the sheepfolds;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.71",
+      "edition_verse_id": "BSB:PSA.78.71",
+      "verse": 71,
+      "spans": [
+        {
+          "text": "from tending the ewes He brought him to be shepherd of His people Jacob, of Israel His inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.78.72",
+      "edition_verse_id": "BSB:PSA.78.72",
+      "verse": 72,
+      "spans": [
+        {
+          "text": "So David shepherded them with integrity of heart and guided them with skillful hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "edition_id": "BSB",
+  "book_code": "RUT",
+  "chapter_count": 4,
+  "verse_count": 85,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "576b270bd5ecbbf798a8368934d1d1e330543462d3a5ab7c58092263d0001a7c"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "omitted_from_main_text": [],
+      "sha256": "ceefa0e76003f0d0490b14770cc6ad21221c2d3d61321f0fff8fce7a848c4c84"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "4ba4e0bde27ccaba55bf186ac5d46f3257dcb5f8bdd3edeec78a03b4352096b8"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "31cfc44e48476ec8cc1c413f7a8ed4d3f1e9afddbefff59f8ff7edbf277d4b60"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 79,
+  "verses": [
+    {
+      "id": "PSA.79.1",
+      "edition_verse_id": "BSB:PSA.79.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of Asaph. The nations, O God, have invaded Your inheritance; they have defiled Your holy temple and reduced Jerusalem to rubble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.79.2",
+      "edition_verse_id": "BSB:PSA.79.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "They have given the corpses of Your servants as food to the birds of the air, the flesh of Your saints to the beasts of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.3",
+      "edition_verse_id": "BSB:PSA.79.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They have poured out their blood like water all around Jerusalem, and there is no one to bury the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.4",
+      "edition_verse_id": "BSB:PSA.79.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We have become a reproach to our neighbors, a scorn and derision to those around us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.5",
+      "edition_verse_id": "BSB:PSA.79.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "How long, O LORD? Will You be angry forever? Will Your jealousy burn like fire?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.6",
+      "edition_verse_id": "BSB:PSA.79.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Pour out Your wrath on the nations that do not acknowledge You, on the kingdoms that refuse to call on Your name,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.7",
+      "edition_verse_id": "BSB:PSA.79.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "for they have devoured Jacob and devastated his homeland.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.8",
+      "edition_verse_id": "BSB:PSA.79.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Do not hold past sins against us; let Your compassion come quickly, for we are brought low.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.9",
+      "edition_verse_id": "BSB:PSA.79.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Help us, O God of our salvation, for the glory of Your name; deliver us and atone for our sins, for the sake of Your name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.10",
+      "edition_verse_id": "BSB:PSA.79.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Why should the nations ask, “Where is their God?” Before our eyes, make known among the nations Your vengeance for the bloodshed of Your servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.11",
+      "edition_verse_id": "BSB:PSA.79.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "May the groans of the captives reach You; by the strength of Your arm preserve those condemned to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.12",
+      "edition_verse_id": "BSB:PSA.79.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Pay back into the laps of our neighbors sevenfold the reproach they hurled at You, O Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.79.13",
+      "edition_verse_id": "BSB:PSA.79.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then we Your people, the sheep of Your pasture, will thank You forever; from generation to generation we will declare Your praise.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

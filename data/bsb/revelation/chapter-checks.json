@@ -1,0 +1,140 @@
+{
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapter_count": 22,
+  "verse_count": 404,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "229396cbd5ad87b07dbc23214a7d95a5582132c42b4aa38688af44e1b594a6fc"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 29,
+      "omitted_from_main_text": [],
+      "sha256": "a840b75db70e5f02134cf0b88e9f6de34c2e983b3a82eb124be6feaccdf29189"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "e300b36449aa35f10dd73e05401e442c813902910ac30e9d1c60c60582ffb9e5"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 11,
+      "omitted_from_main_text": [],
+      "sha256": "8da9ede5bd409e9de1ccf46bca4b48543a79ef76788c1dd63d052213e9d52095"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "539944f883d16af278ad4aed56baf155f4e5b58816eb72be8de104a0f3398b64"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "9150cd053f17df152e17cba068579dbe45cc606a32c597ca5995a91cf6905295"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "6dc0d5c1bc7f1589ac1c1fd68be46dfa8ee9e2203b8063d716c6280ce7e88aa0"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 13,
+      "omitted_from_main_text": [],
+      "sha256": "1d8ece7128dbb9e3b80f0fb354a87b11ec091bac9b358cc9d7d1f08962690b9a"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "972f8f8a649cd92a4b48c37558538b3c37b1ff3704fb2ee6a615f237d225d9ca"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 11,
+      "omitted_from_main_text": [],
+      "sha256": "8cd3de12f5450b514b6efdd89b2c7b66d88b0c48bca8bad9df6541d232044eb3"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 19,
+      "omitted_from_main_text": [],
+      "sha256": "ea5187a7bc928b57a91accc84b2670c47f70439894b82111f5e789701de6abbb"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "898d792141dce48fdca7fce09a27e416bac081a0ee1ce81285a6eb8c5d701a98"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "38372c082525e30a2cadaac0cc9212acb83aa49b3f46bceaaeb11ed081d8d7ab"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "db473d94ce9dad0c9974f628d8de6b90f6b93f1cf3327600fe2ca8fa4ba09ab0"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 8,
+      "omitted_from_main_text": [],
+      "sha256": "cad6aa6b13584e68cbd796f3e49c2926c676867eea2e4f4133b2034b6959e67c"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "fd66472aee49aecd28f4864cea427c0068827eea1f76159484d05bcef9a8ff38"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "9ac81fdc6c4de8ae43536a783041d75b58a0cdc9f2fcdbd569376a5602011a3e"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 24,
+      "omitted_from_main_text": [],
+      "sha256": "8d17c09be6f42212435a45eaa03fca79a65a07201e1b2ae34ff874105e34749a"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "fca9ae92981e5546ce11b1a9cd0ffafd05ac9951f4fc1e496d06b661bf3ba8db"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 15,
+      "omitted_from_main_text": [],
+      "sha256": "d6373656f23b389d65fc7572d8a2ebaa5349f773bec991bbabe5df5a78aaf562"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 27,
+      "omitted_from_main_text": [],
+      "sha256": "243f784fd5fcca5d649a41b15789ac2595c3c025f14ea4fcf8d3e4004c520a8d"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "d05c874d1b758d0f54ca524ca81823bcd65f9814083f0ace5860dc70b3cea81d"
+    }
+  ]
+}

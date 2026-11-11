@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 99,
+  "verses": [
+    {
+      "id": "PSA.99.1",
+      "edition_verse_id": "BSB:PSA.99.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD reigns; let the nations tremble! He is enthroned above the cherubim; let the earth quake!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.99.2",
+      "edition_verse_id": "BSB:PSA.99.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Great is the LORD in Zion; He is exalted above all the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.3",
+      "edition_verse_id": "BSB:PSA.99.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let them praise Your great and awesome name — He is holy!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.4",
+      "edition_verse_id": "BSB:PSA.99.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The mighty King loves justice. You have established equity; You have exercised justice and righteousness in Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.5",
+      "edition_verse_id": "BSB:PSA.99.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Exalt the LORD our God, and worship at His footstool; He is holy!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.6",
+      "edition_verse_id": "BSB:PSA.99.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Moses and Aaron were among His priests; Samuel was among those who called on His name. They called to the LORD and He answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.7",
+      "edition_verse_id": "BSB:PSA.99.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He spoke to them from the pillar of cloud; they kept His decrees and the statutes He gave them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.8",
+      "edition_verse_id": "BSB:PSA.99.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O LORD our God, You answered them. You were a forgiving God to them, yet an avenger of their misdeeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.99.9",
+      "edition_verse_id": "BSB:PSA.99.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Exalt the LORD our God and worship at His holy mountain, for the LORD our God is holy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 65,
+  "verses": [
+    {
+      "id": "PSA.65.1",
+      "edition_verse_id": "BSB:PSA.65.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. A song. Praise awaits You, O God, in Zion; to You our vows will be fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.65.2",
+      "edition_verse_id": "BSB:PSA.65.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O You who listen to prayer, all people will come to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.3",
+      "edition_verse_id": "BSB:PSA.65.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When iniquities prevail against me, You atone for our transgressions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.4",
+      "edition_verse_id": "BSB:PSA.65.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Blessed is the one You choose and bring near to dwell in Your courts! We are filled with the goodness of Your house, the holiness of Your temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.5",
+      "edition_verse_id": "BSB:PSA.65.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "With awesome deeds of righteousness You answer us, O God of our salvation, the hope of all the ends of the earth and of the farthest seas.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.6",
+      "edition_verse_id": "BSB:PSA.65.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You formed the mountains by Your power, having girded Yourself with might.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.7",
+      "edition_verse_id": "BSB:PSA.65.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You stilled the roaring of the seas, the pounding of their waves, and the tumult of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.8",
+      "edition_verse_id": "BSB:PSA.65.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Those who live far away fear Your wonders; You make the dawn and sunset shout for joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.9",
+      "edition_verse_id": "BSB:PSA.65.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You attend to the earth and water it; with abundance You enrich it. The streams of God are full of water, for You prepare our grain by providing for the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.10",
+      "edition_verse_id": "BSB:PSA.65.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You soak its furrows and level its ridges; You soften it with showers and bless its growth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.11",
+      "edition_verse_id": "BSB:PSA.65.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You crown the year with Your bounty, and Your paths overflow with plenty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.12",
+      "edition_verse_id": "BSB:PSA.65.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The pastures of the wilderness overflow; the hills are robed with joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.65.13",
+      "edition_verse_id": "BSB:PSA.65.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The pastures are clothed with flocks, and the valleys are decked with grain. They shout in triumph; indeed, they sing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

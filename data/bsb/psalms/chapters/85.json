@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 85,
+  "verses": [
+    {
+      "id": "PSA.85.1",
+      "edition_verse_id": "BSB:PSA.85.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of the sons of Korah. You showed favor to Your land, O LORD; You restored Jacob from captivity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.85.2",
+      "edition_verse_id": "BSB:PSA.85.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "You forgave the iniquity of Your people; You covered all their sin. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.3",
+      "edition_verse_id": "BSB:PSA.85.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You withheld all Your fury; You turned from Your burning anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.4",
+      "edition_verse_id": "BSB:PSA.85.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Restore us, O God of our salvation, and put away Your displeasure toward us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.5",
+      "edition_verse_id": "BSB:PSA.85.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Will You be angry with us forever? Will You draw out Your anger to all generations?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.6",
+      "edition_verse_id": "BSB:PSA.85.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Will You not revive us again, that Your people may rejoice in You?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.7",
+      "edition_verse_id": "BSB:PSA.85.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Show us Your loving devotion, O LORD, and grant us Your salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.8",
+      "edition_verse_id": "BSB:PSA.85.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will listen to what God the LORD will say; for He will surely speak peace to His people and His saints; He will not let them return to folly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.9",
+      "edition_verse_id": "BSB:PSA.85.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Surely His salvation is near to those who fear Him, that His glory may dwell in our land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.10",
+      "edition_verse_id": "BSB:PSA.85.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Loving devotion and faithfulness have joined together; righteousness and peace have kissed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.11",
+      "edition_verse_id": "BSB:PSA.85.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Faithfulness sprouts from the earth, and righteousness looks down from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.12",
+      "edition_verse_id": "BSB:PSA.85.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The LORD will indeed provide what is good, and our land will yield its increase.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.85.13",
+      "edition_verse_id": "BSB:PSA.85.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Righteousness will go before Him to prepare the way for His steps.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

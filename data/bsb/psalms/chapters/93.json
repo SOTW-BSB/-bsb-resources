@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 93,
+  "verses": [
+    {
+      "id": "PSA.93.1",
+      "edition_verse_id": "BSB:PSA.93.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.93.2",
+      "edition_verse_id": "BSB:PSA.93.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Your throne was established long ago; You are from all eternity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.93.3",
+      "edition_verse_id": "BSB:PSA.93.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The floodwaters have risen, O LORD; the rivers have raised their voice; the seas lift up their pounding waves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.93.4",
+      "edition_verse_id": "BSB:PSA.93.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Above the roar of many waters— the mighty breakers of the sea— the LORD on high is majestic.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.93.5",
+      "edition_verse_id": "BSB:PSA.93.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Your testimonies are fully confirmed; holiness adorns Your house, O LORD, for all the days to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

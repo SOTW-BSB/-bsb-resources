@@ -1,0 +1,632 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 89,
+  "verses": [
+    {
+      "id": "PSA.89.1",
+      "edition_verse_id": "BSB:PSA.89.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Maskil of Ethan the Ezrahite. I will sing of the loving devotion of the LORD forever; with my mouth I will proclaim Your faithfulness to all generations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.89.2",
+      "edition_verse_id": "BSB:PSA.89.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For I have said, “Loving devotion is built up forever; in the heavens You establish Your faithfulness.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.3",
+      "edition_verse_id": "BSB:PSA.89.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You said, “I have made a covenant with My chosen one, I have sworn to David My servant:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.4",
+      "edition_verse_id": "BSB:PSA.89.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "‘I will establish your offspring forever and build up your throne for all generations.’” Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.5",
+      "edition_verse_id": "BSB:PSA.89.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The heavens praise Your wonders, O LORD — Your faithfulness as well — in the assembly of the holy ones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.6",
+      "edition_verse_id": "BSB:PSA.89.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For who in the skies can compare with the LORD? Who among the heavenly beings is like the LORD?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.7",
+      "edition_verse_id": "BSB:PSA.89.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In the council of the holy ones, God is greatly feared, and awesome above all who surround Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.8",
+      "edition_verse_id": "BSB:PSA.89.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O LORD God of Hosts, who is like You? O mighty LORD, Your faithfulness surrounds You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.9",
+      "edition_verse_id": "BSB:PSA.89.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You rule the raging sea; when its waves mount up, You still them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.10",
+      "edition_verse_id": "BSB:PSA.89.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "You crushed Rahab like a carcass; You scattered Your enemies with Your mighty arm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.11",
+      "edition_verse_id": "BSB:PSA.89.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The heavens are Yours, and also the earth. The earth and its fullness You founded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.12",
+      "edition_verse_id": "BSB:PSA.89.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "North and south You created; Tabor and Hermon shout for joy at Your name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.13",
+      "edition_verse_id": "BSB:PSA.89.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Mighty is Your arm; strong is Your hand. Your right hand is exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.14",
+      "edition_verse_id": "BSB:PSA.89.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Righteousness and justice are the foundation of Your throne; loving devotion and faithfulness go before You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.15",
+      "edition_verse_id": "BSB:PSA.89.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Blessed are those who know the joyful sound, who walk, O LORD, in the light of Your presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.16",
+      "edition_verse_id": "BSB:PSA.89.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They rejoice in Your name all day long, and in Your righteousness they exult.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.17",
+      "edition_verse_id": "BSB:PSA.89.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For You are the glory of their strength, and by Your favor our horn is exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.18",
+      "edition_verse_id": "BSB:PSA.89.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Surely our shield belongs to the LORD, and our king to the Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.19",
+      "edition_verse_id": "BSB:PSA.89.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You once spoke in a vision; to Your godly ones You said, “I have bestowed help on a warrior; I have exalted one chosen from the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.20",
+      "edition_verse_id": "BSB:PSA.89.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I have found My servant David; with My sacred oil I have anointed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.21",
+      "edition_verse_id": "BSB:PSA.89.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "My hand will sustain him; surely My arm will strengthen him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.22",
+      "edition_verse_id": "BSB:PSA.89.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "No enemy will exact tribute; no wicked man will oppress him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.23",
+      "edition_verse_id": "BSB:PSA.89.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I will crush his foes before him and strike down those who hate him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.24",
+      "edition_verse_id": "BSB:PSA.89.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "My faithfulness and loving devotion will be with him, and through My name his horn will be exalted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.25",
+      "edition_verse_id": "BSB:PSA.89.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I will set his hand over the sea, and his right hand upon the rivers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.26",
+      "edition_verse_id": "BSB:PSA.89.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He will call to Me, ‘You are my Father, my God, the Rock of my salvation.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.27",
+      "edition_verse_id": "BSB:PSA.89.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "I will indeed appoint him as My firstborn, the highest of the kings of the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.28",
+      "edition_verse_id": "BSB:PSA.89.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I will forever preserve My loving devotion for him, and My covenant with him will stand fast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.29",
+      "edition_verse_id": "BSB:PSA.89.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "I will establish his line forever, his throne as long as the heavens endure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.30",
+      "edition_verse_id": "BSB:PSA.89.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "If his sons forsake My law and do not walk in My judgments,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.31",
+      "edition_verse_id": "BSB:PSA.89.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "if they violate My statutes and fail to keep My commandments,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.32",
+      "edition_verse_id": "BSB:PSA.89.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "I will attend to their transgression with the rod, and to their iniquity with stripes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.33",
+      "edition_verse_id": "BSB:PSA.89.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But I will not withdraw My loving devotion from him, nor ever betray My faithfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.34",
+      "edition_verse_id": "BSB:PSA.89.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "I will not violate My covenant or alter the utterance of My lips.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.35",
+      "edition_verse_id": "BSB:PSA.89.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Once and for all I have sworn by My holiness — I will not lie to David —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.36",
+      "edition_verse_id": "BSB:PSA.89.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "his offspring shall endure forever, and his throne before Me like the sun,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.37",
+      "edition_verse_id": "BSB:PSA.89.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "like the moon, established forever, a faithful witness in the sky.” Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.38",
+      "edition_verse_id": "BSB:PSA.89.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Now, however, You have spurned and rejected him; You are enraged by Your anointed one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.39",
+      "edition_verse_id": "BSB:PSA.89.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "You have renounced the covenant with Your servant and sullied his crown in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.40",
+      "edition_verse_id": "BSB:PSA.89.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "You have broken down all his walls; You have reduced his strongholds to rubble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.41",
+      "edition_verse_id": "BSB:PSA.89.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "All who pass by plunder him; he has become a reproach to his neighbors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.42",
+      "edition_verse_id": "BSB:PSA.89.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "You have exalted the right hand of his foes; You have made all his enemies rejoice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.43",
+      "edition_verse_id": "BSB:PSA.89.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "You have bent the edge of his sword and have not sustained him in battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.44",
+      "edition_verse_id": "BSB:PSA.89.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "You have ended his splendor and cast his throne to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.45",
+      "edition_verse_id": "BSB:PSA.89.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "You have cut short the days of his youth; You have covered him with shame. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.46",
+      "edition_verse_id": "BSB:PSA.89.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "How long, O LORD? Will You hide Yourself forever? Will Your wrath keep burning like fire?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.47",
+      "edition_verse_id": "BSB:PSA.89.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "Remember the briefness of my lifespan! For what futility You have created all men!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.48",
+      "edition_verse_id": "BSB:PSA.89.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "What man can live and never see death? Can he deliver his soul from the power of Sheol? Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.49",
+      "edition_verse_id": "BSB:PSA.89.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "Where, O Lord, is Your loving devotion of old, which You faithfully swore to David?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.50",
+      "edition_verse_id": "BSB:PSA.89.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Remember, O Lord, the reproach of Your servants, which I bear in my heart from so many people —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.51",
+      "edition_verse_id": "BSB:PSA.89.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "how Your enemies have taunted, O LORD, and have mocked every step of Your anointed one!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.89.52",
+      "edition_verse_id": "BSB:PSA.89.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "Blessed be the LORD forever! Amen and amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

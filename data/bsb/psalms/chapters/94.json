@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 94,
+  "verses": [
+    {
+      "id": "PSA.94.1",
+      "edition_verse_id": "BSB:PSA.94.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "O LORD, God of vengeance, O God of vengeance, shine forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.94.2",
+      "edition_verse_id": "BSB:PSA.94.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Rise up, O Judge of the earth; render a reward to the proud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.3",
+      "edition_verse_id": "BSB:PSA.94.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "How long will the wicked, O LORD, how long will the wicked exult?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.4",
+      "edition_verse_id": "BSB:PSA.94.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They pour out arrogant words; all workers of iniquity boast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.5",
+      "edition_verse_id": "BSB:PSA.94.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They crush Your people, O LORD; they oppress Your heritage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.6",
+      "edition_verse_id": "BSB:PSA.94.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They kill the widow and the foreigner; they murder the fatherless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.7",
+      "edition_verse_id": "BSB:PSA.94.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They say, “The LORD does not see; the God of Jacob pays no heed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.8",
+      "edition_verse_id": "BSB:PSA.94.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Take notice, O senseless among the people! O fools, when will you be wise?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.9",
+      "edition_verse_id": "BSB:PSA.94.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He who affixed the ear, can He not hear? He who formed the eye, can He not see?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.10",
+      "edition_verse_id": "BSB:PSA.94.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He who admonishes the nations, does He not discipline? He who teaches man, does He lack knowledge?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.11",
+      "edition_verse_id": "BSB:PSA.94.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD knows the thoughts of man, that they are futile.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.12",
+      "edition_verse_id": "BSB:PSA.94.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Blessed is the man You discipline, O LORD, and teach from Your law,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.13",
+      "edition_verse_id": "BSB:PSA.94.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "to grant him relief from days of trouble, until a pit is dug for the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.14",
+      "edition_verse_id": "BSB:PSA.94.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the LORD will not forsake His people; He will never abandon His heritage.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.15",
+      "edition_verse_id": "BSB:PSA.94.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Surely judgment will again be righteous, and all the upright in heart will follow it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.16",
+      "edition_verse_id": "BSB:PSA.94.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Who will rise up for me against the wicked? Who will stand for me against the workers of iniquity?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.17",
+      "edition_verse_id": "BSB:PSA.94.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Unless the LORD had been my helper, I would soon have dwelt in the abode of silence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.18",
+      "edition_verse_id": "BSB:PSA.94.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If I say, “My foot is slipping,” Your loving devotion, O LORD, supports me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.19",
+      "edition_verse_id": "BSB:PSA.94.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "When anxiety overwhelms me, Your consolation delights my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.20",
+      "edition_verse_id": "BSB:PSA.94.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Can a corrupt throne be Your ally — one devising mischief by decree?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.21",
+      "edition_verse_id": "BSB:PSA.94.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They band together against the righteous and condemn the innocent to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.22",
+      "edition_verse_id": "BSB:PSA.94.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the LORD has been my stronghold, and my God is my rock of refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.94.23",
+      "edition_verse_id": "BSB:PSA.94.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He will bring upon them their own iniquity and destroy them for their wickedness. The LORD our God will destroy them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

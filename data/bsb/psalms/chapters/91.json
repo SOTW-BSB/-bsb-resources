@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 91,
+  "verses": [
+    {
+      "id": "PSA.91.1",
+      "edition_verse_id": "BSB:PSA.91.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.91.2",
+      "edition_verse_id": "BSB:PSA.91.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will say to the LORD, “You are my refuge and my fortress, my God, in whom I trust.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.3",
+      "edition_verse_id": "BSB:PSA.91.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Surely He will deliver you from the snare of the fowler, and from the deadly plague.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.4",
+      "edition_verse_id": "BSB:PSA.91.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He will cover you with His feathers; under His wings you will find refuge; His faithfulness is a shield and rampart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.5",
+      "edition_verse_id": "BSB:PSA.91.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You will not fear the terror of the night, nor the arrow that flies by day,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.6",
+      "edition_verse_id": "BSB:PSA.91.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "nor the pestilence that stalks in the darkness, nor the calamity that destroys at noon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.7",
+      "edition_verse_id": "BSB:PSA.91.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Though a thousand may fall at your side, and ten thousand at your right hand, no harm will come near you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.8",
+      "edition_verse_id": "BSB:PSA.91.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You will only see it with your eyes and witness the punishment of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.9",
+      "edition_verse_id": "BSB:PSA.91.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Because you have made the LORD your dwelling— my refuge, the Most High—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.10",
+      "edition_verse_id": "BSB:PSA.91.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "no evil will befall you, no plague will approach your tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.11",
+      "edition_verse_id": "BSB:PSA.91.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For He will command His angels concerning you to guard you in all your ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.12",
+      "edition_verse_id": "BSB:PSA.91.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They will lift you up in their hands, so that you will not strike your foot against a stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.13",
+      "edition_verse_id": "BSB:PSA.91.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "You will tread on the lion and cobra; you will trample the young lion and serpent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.14",
+      "edition_verse_id": "BSB:PSA.91.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“Because he loves Me, I will deliver him; because he knows My name, I will protect him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.15",
+      "edition_verse_id": "BSB:PSA.91.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When he calls out to Me, I will answer him; I will be with him in trouble. I will deliver him and honor him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.91.16",
+      "edition_verse_id": "BSB:PSA.91.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "With long life I will satisfy him and show him My salvation.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

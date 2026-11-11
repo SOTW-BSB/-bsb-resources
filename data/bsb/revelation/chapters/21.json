@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "REV.21.1",
+      "edition_verse_id": "BSB:REV.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then I saw a new heaven and a new earth, for the first heaven and earth had passed away, and the sea was no more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.2",
+      "edition_verse_id": "BSB:REV.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.3",
+      "edition_verse_id": "BSB:REV.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.4",
+      "edition_verse_id": "BSB:REV.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "‘He will wipe away every tear from their eyes,’ and there will be no more death or mourning or crying or pain, for the former things have passed away.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.5",
+      "edition_verse_id": "BSB:REV.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the One seated on the throne said, “Behold, I make all things new.” Then He said, “Write this down, for these words are faithful and true.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.6",
+      "edition_verse_id": "BSB:REV.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And He told me, “It is done! I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give freely from the spring of the water of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.7",
+      "edition_verse_id": "BSB:REV.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The one who overcomes will inherit all things, and I will be his God, and he will be My son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.8",
+      "edition_verse_id": "BSB:REV.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But to the cowardly and unbelieving and abominable and murderers and sexually immoral and sorcerers and idolaters and all liars, their place will be in the lake that burns with fire and sulfur. This is the second death.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.9",
+      "edition_verse_id": "BSB:REV.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then one of the seven angels with the seven bowls full of the seven final plagues came and said to me, “Come, I will show you the bride, the wife of the Lamb.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.10",
+      "edition_verse_id": "BSB:REV.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And he carried me away in the Spirit to a mountain great and high, and showed me the holy city of Jerusalem coming down out of heaven from God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.11",
+      "edition_verse_id": "BSB:REV.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "shining with the glory of God. Its radiance was like a most precious jewel, like a jasper, as clear as crystal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.12",
+      "edition_verse_id": "BSB:REV.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The city had a great and high wall with twelve gates inscribed with the names of the twelve tribes of Israel, and twelve angels at the gates.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.13",
+      "edition_verse_id": "BSB:REV.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "There were three gates on the east, three on the north, three on the south, and three on the west.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.14",
+      "edition_verse_id": "BSB:REV.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The wall of the city had twelve foundations bearing the names of the twelve apostles of the Lamb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.15",
+      "edition_verse_id": "BSB:REV.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The angel who spoke with me had a golden measuring rod to measure the city and its gates and walls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.16",
+      "edition_verse_id": "BSB:REV.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The city lies foursquare, with its width the same as its length. And he measured the city with the rod, and all its dimensions were equal — 12,000 stadia in length and width and height.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.17",
+      "edition_verse_id": "BSB:REV.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And he measured its wall to be 144 cubits, by the human measure the angel was using.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.18",
+      "edition_verse_id": "BSB:REV.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The wall was made of jasper, and the city itself of pure gold, as pure as glass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.19",
+      "edition_verse_id": "BSB:REV.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The foundations of the city walls were adorned with every kind of precious stone: The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.20",
+      "edition_verse_id": "BSB:REV.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, and the twelfth amethyst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.21",
+      "edition_verse_id": "BSB:REV.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And the twelve gates were twelve pearls, with each gate consisting of a single pearl. The main street of the city was pure gold, as clear as glass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.22",
+      "edition_verse_id": "BSB:REV.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But I saw no temple in the city, because the Lord God Almighty and the Lamb are its temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.23",
+      "edition_verse_id": "BSB:REV.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the city has no need of sun or moon to shine on it, because the glory of God illuminates the city, and the Lamb is its lamp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.24",
+      "edition_verse_id": "BSB:REV.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "By its light the nations will walk, and into it the kings of the earth will bring their glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.25",
+      "edition_verse_id": "BSB:REV.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Its gates will never be shut at the end of the day, because there will be no night there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.21.26",
+      "edition_verse_id": "BSB:REV.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And into the city will be brought the glory and honor of the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.21.27",
+      "edition_verse_id": "BSB:REV.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But nothing unclean will ever enter it, nor anyone who practices an abomination or a lie, but only those whose names are written in the Lamb’s Book of Life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

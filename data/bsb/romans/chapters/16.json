@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "ROM.16.1",
+      "edition_verse_id": "BSB:ROM.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I commend to you our sister Phoebe, a servant of the church in Cenchrea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.2",
+      "edition_verse_id": "BSB:ROM.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Welcome her in the Lord in a manner worthy of the saints, and assist her with anything she may need from you. For she has been a great help to many people, including me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.3",
+      "edition_verse_id": "BSB:ROM.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Greet Prisca and Aquila, my fellow workers in Christ Jesus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.4",
+      "edition_verse_id": "BSB:ROM.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "who have risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.5",
+      "edition_verse_id": "BSB:ROM.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Greet also the church that meets at their house. Greet my beloved Epenetus, who was the first convert to Christ in the province of Asia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.6",
+      "edition_verse_id": "BSB:ROM.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Greet Mary, who has worked very hard for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.7",
+      "edition_verse_id": "BSB:ROM.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Greet Andronicus and Junia, my fellow countrymen and fellow prisoners. They are outstanding among the apostles, and they were in Christ before I was.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.8",
+      "edition_verse_id": "BSB:ROM.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Greet Ampliatus, my beloved in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.9",
+      "edition_verse_id": "BSB:ROM.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Greet Urbanus, our fellow worker in Christ, and my beloved Stachys.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.10",
+      "edition_verse_id": "BSB:ROM.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Greet Apelles, who is approved in Christ. Greet those who belong to the household of Aristobulus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.11",
+      "edition_verse_id": "BSB:ROM.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Greet Herodion, my fellow countryman. Greet those from the household of Narcissus who are in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.12",
+      "edition_verse_id": "BSB:ROM.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Greet Tryphena and Tryphosa, women who have worked hard in the Lord. Greet my beloved Persis, who has worked very hard in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.13",
+      "edition_verse_id": "BSB:ROM.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.14",
+      "edition_verse_id": "BSB:ROM.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.15",
+      "edition_verse_id": "BSB:ROM.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Greet Philologus and Julia, Nereus and his sister, and Olympas and all the saints with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.16",
+      "edition_verse_id": "BSB:ROM.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Greet one another with a holy kiss. All the churches of Christ send you greetings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.17",
+      "edition_verse_id": "BSB:ROM.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now I urge you, brothers, to watch out for those who create divisions and obstacles that are contrary to the teaching you have learned. Turn away from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.18",
+      "edition_verse_id": "BSB:ROM.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the hearts of the naive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.19",
+      "edition_verse_id": "BSB:ROM.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Everyone has heard about your obedience, so I rejoice over you. But I want you to be wise about what is good and innocent about what is evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.20",
+      "edition_verse_id": "BSB:ROM.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.21",
+      "edition_verse_id": "BSB:ROM.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Timothy, my fellow worker, sends you greetings, as do Lucius, Jason, and Sosipater, my fellow countrymen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.22",
+      "edition_verse_id": "BSB:ROM.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "I, Tertius, who wrote down this letter, greet you in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.23",
+      "edition_verse_id": "BSB:ROM.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Gaius, who has hosted me and all the church, sends you greetings. Erastus, the city treasurer, sends you greetings, as does our brother Quartus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.25",
+      "edition_verse_id": "BSB:ROM.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now to Him who is able to strengthen you by my gospel and by the proclamation of Jesus Christ, according to the revelation of the mystery concealed for ages past",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.16.26",
+      "edition_verse_id": "BSB:ROM.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "but now revealed and made known through the writings of the prophets by the command of the eternal God, in order to lead all nations to the obedience that comes from faith —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.16.27",
+      "edition_verse_id": "BSB:ROM.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "to the only wise God be glory forever through Jesus Christ! Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

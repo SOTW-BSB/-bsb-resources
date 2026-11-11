@@ -1,0 +1,635 @@
+{
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "chapters": {
+    "1": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft Or \\fqa in my spirit\\f*",
+          "raw_sha256": "a8b8c73c447d1d423c96ef00e0215ee548911f90ddd7b832570425b8baf65ec5"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Literally \\fqa but have been prevented\\f*",
+          "raw_sha256": "fb9451360db5cf8a5ffba2b0d52afce4b0b501241e9686e22f6eb639672c2e76"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Literally \\fqa to Greeks and barbarians\\f*",
+          "raw_sha256": "fab60e0a395315ebaca3c7eaa1ea643d12531c175e5c70f307c77d258c1897d0"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\ft Literally \\fqa For in it is revealed the righteousness of God from faith to faith\\f*",
+          "raw_sha256": "ea35d30c70a31223e7b26e964e1ef21c9fc68a978c3d6888045efc7835271220"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\ft \\ref Habakkuk 2:4|HAB 2:4\\ref*\\f*",
+          "raw_sha256": "943e5f1d841f49ab8e57e7de618f8f3c5d11d524e3f33b034533bb9739a24ca0"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 1:25 \\ft Or \\fqa forever blessed\\f*",
+          "raw_sha256": "1f228a577fd69628dc8ab19d822c6eef0969c3e3ef54d598e89141feff64dac0"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft \\ref Psalm 62:12|PSA 62:12\\ref*\\f*",
+          "raw_sha256": "ae0501ecd0129dd1f74a6f01bd2a017fb1aa38d03809b7c3765cedde8084b53d"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft BYZ and TR \\fqa through Jesus Christ\\f*",
+          "raw_sha256": "5abc83294729452d359b3e75f7ac9c291f87cb84ab19a740b608527e6e173d4e"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 2:24 \\ft \\ref Isaiah 52:5|ISA 52:5\\ref* (see also LXX)\\f*",
+          "raw_sha256": "929a36fe3299cbce0d05fe4346b50c65a5cd473235d6c610c50321586cfddd20"
+        }
+      ]
+    },
+    "3": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\ft Or \\fqa the oracles\\f*",
+          "raw_sha256": "8fc64730c39b6b6a34978e291941605cacb81fcb7f3d99af21f0d77c99d02452"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 3:4 \\ft Or \\fqa when You are judged\\ft ; \\ref Psalm 51:4|PSA 51:4\\ref* (see also LXX)\\f*",
+          "raw_sha256": "e64e64793ecc3a5f13c001d5c7b81c485b181506fd3e195b9f570a7d9cc05acc"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft \\ref Psalm 14:1–3|PSA 14:1-3\\ref* and Psalm 53:1–3 (see also LXX)\\f*",
+          "raw_sha256": "28c0d16e4a5300648b61c341096f5b39d92d30f2bfe01d284362ea2825c44145"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 3:13 \\ft \\ref Psalm 5:9|PSA 5:9\\ref*\\f*",
+          "raw_sha256": "cf4f76732c7ec176e3da2bfb5f555e7473e1a66cfcb320595ee58991b99e82ce"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:13 \\ft \\ref Psalm 140:3|PSA 140:3\\ref*\\f*",
+          "raw_sha256": "ac7df7be54c624ee5aa786eae430f1abdad77a0a4db4d3c318f37dcd75113add"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 3:14 \\ft \\ref Psalm 10:7|PSA 10:7\\ref* (see also LXX)\\f*",
+          "raw_sha256": "b6532fb083fef8947212196b9167588e754cd51b19258e1a31424686891d49db"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 3:17 \\ft \\ref Isaiah 59:7–8|ISA 59:7-8\\ref* (see also LXX)\\f*",
+          "raw_sha256": "1b8b66e452660c2ffb98aa4be4f1e4842ecfb51e27279aa74e57a59657afbb1d"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 3:18 \\ft \\ref Psalm 36:1|PSA 36:1\\ref*\\f*",
+          "raw_sha256": "32b5bdd448d56bfd35173c865bb4c5afd9401e32c37451bcf60d1d028d098a40"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 3:25 \\ft Or \\fqa as a propitiation\\f*",
+          "raw_sha256": "1a85c1d8adf45d9283fc12b51d58bafe8fbb67c4fe92428c7803d402a25cb680"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft \\ref Genesis 15:6|GEN 15:6\\ref*\\f*",
+          "raw_sha256": "c6837f89a3a7d432ab6573884324d87f8c51f2c9de102b821f4fbc2482470f44"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 4:8 \\ft \\ref Psalm 32:1–2|PSA 32:1-2\\ref* (see also LXX)\\f*",
+          "raw_sha256": "3759ac319804130ee75243a645d6e0d615f5a083286be6d0eb91772dc2680803"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 4:10 \\ft Literally \\fqa How then was it reckoned—being in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.\\f*",
+          "raw_sha256": "feb15ac2a4674750704592be3ef128140d62ef75fef940c916afb085fb8bbf31"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 4:17 \\ft \\ref Genesis 17:5|GEN 17:5\\ref*\\f*",
+          "raw_sha256": "8b29c7ed93519a954b7375b6b05e807ab9bacbce17e13673ff814bcf4f634c30"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 4:18 \\ft \\ref Genesis 15:5|GEN 15:5\\ref*\\f*",
+          "raw_sha256": "eaac41daeb2094d30a56cbc803a6c84f87bf63b72de8c5885ebc554425048ba8"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 4:22 \\ft \\ref Genesis 15:6|GEN 15:6\\ref*\\f*",
+          "raw_sha256": "535e5de40281753edcd206b554de355b595caa981ce05e3f8e65317978f28cd7"
+        }
+      ]
+    },
+    "5": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 5:1 \\ft Or \\fqa let us have\\f*",
+          "raw_sha256": "7dc80756baed1a2040582d038c85109f16ea4aa194fa4c49b404343d2ccfe197"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft Or \\fqa exult\\ft ; also in verses 3 and 11\\f*",
+          "raw_sha256": "c98c6a1d9c67bba610632f9fca39e82c42a598cc829cbdab19402bbdd46ede40"
+        }
+      ]
+    },
+    "7": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 7:7 \\ft \\ref Exodus 20:17|EXO 20:17\\ref*; Deuteronomy 5:21\\f*",
+          "raw_sha256": "d7b9d770453214fd43578e5b45b4f0d0303e08a4dde2f39b7f568e843b304b20"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 7:23 \\ft Literally \\fqa captive to the law of sin being in my members.\\f*",
+          "raw_sha256": "d11a7db062710321275dbf1ffd54e41588b77b9f2b2b61620e0d9d90d3b83684"
+        }
+      ]
+    },
+    "8": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 8:1 \\ft BYZ and TR \\fqa in Christ Jesus, who do not walk according to the flesh but according to the Spirit.\\f*",
+          "raw_sha256": "37104a03b62409d434991b0d8cef8995054c809fd484d39c7f4fe6825e626243"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 8:2 \\ft BYZ and TR \\fqa me\\f*",
+          "raw_sha256": "8d51dbec138f0e8d91fdbf440bc0932b40026e412392a7b2fd547cc885bb54f9"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 8:3 \\ft Literally \\fqa in the likeness of sinful flesh and for sin\\f*",
+          "raw_sha256": "3f71173e14df764cb14349b32d831b8d27542ced27922bef0c29d251cdd26714"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 8:8 \\ft Literally \\fqa Those being in the flesh\\ft ; similarly in verse 9\\f*",
+          "raw_sha256": "3a72958e5f8ba452cdccb31ec2753f020d79d317dd18ba462ff42b11edd1e484"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 8:10 \\ft Or \\fqa yet the Spirit is life\\f*",
+          "raw_sha256": "6e3c0269e58007fc3cd85a5f0f9ad1f78b221f485c0b3fc891139037899b927c"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 8:11 \\ft NA, BYZ, and TR \\fqa raised Christ from the dead\\f*",
+          "raw_sha256": "08f45556a7befbbcce4678f0f82b59e7ba8a55aa4bdaaea4739a6f0304f95fa5"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 8:36 \\ft \\ref Psalm 44:22|PSA 44:22\\ref*\\f*",
+          "raw_sha256": "8a97ecba46337a4e6fbb8a26d28074d499b03020167022b4f01a4f350cc799d4"
+        }
+      ]
+    },
+    "9": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 9:5 \\ft Or \\fqa forever blessed\\f*",
+          "raw_sha256": "a6f2da2e21ec583001d44800f2513816afc93a7cdc75c9b3a33eceab7ce9a520"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 9:7 \\ft \\ref Genesis 21:12|GEN 21:12\\ref*\\f*",
+          "raw_sha256": "0b1e24b3cd296a9560822cc7bff3ae01dae5b182f51919aa2eb82f9b67031f82"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 9:9 \\ft \\ref Genesis 18:14|GEN 18:14\\ref*\\f*",
+          "raw_sha256": "868ab1278f21250ab1467702de8c9f9baf44f6a0a65c8b576b955aacfa7bbbe4"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 9:12 \\ft \\ref Genesis 25:23|GEN 25:23\\ref*\\f*",
+          "raw_sha256": "64f7932cf78e004733c5b7952d558ebf3cd44da2e6d270cc42fe4f335a8adef1"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 9:13 \\ft \\ref Malachi 1:2–3|MAL 1:2-3\\ref*\\f*",
+          "raw_sha256": "d7c34c654c749aa1b108c68d7bec6b2dda316e31db6c033bbdb58007034e570a"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 9:15 \\ft \\ref Exodus 33:19|EXO 33:19\\ref*\\f*",
+          "raw_sha256": "7d7174b4012ce781b3654c322a93bb22189cb2b4bf38384726c0989d217e0432"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 9:17 \\ft \\ref Exodus 9:16|EXO 9:16\\ref* (see also LXX)\\f*",
+          "raw_sha256": "2923a14dc6bdb286ab50eae81b3dd0c1d20cf92bbce3f761da7da96c11060e8a"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 9:20 \\ft \\ref Isaiah 29:16|ISA 29:16\\ref*; Isaiah 45:9\\f*",
+          "raw_sha256": "499cb6ea14deed8ff5868a60e6c751c2bec4b8d5dee87d287101e9914d9e576e"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 9:25 \\ft \\ref Hosea 2:23|HOS 2:23\\ref*\\f*",
+          "raw_sha256": "2e752d8adf5f962fac0459afd116bcfc66bb9c96d2980ea6d8699382bef5c722"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 9:26 \\ft \\ref Hosea 1:10|HOS 1:10\\ref*\\f*",
+          "raw_sha256": "6bf2a9fa05191445502003b6e52c99f7cbde8788cdd72194604917e340cc22a1"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 9:28 \\ft \\ref Isaiah 10:22–23|ISA 10:22-23\\ref* (see also LXX)\\f*",
+          "raw_sha256": "44928044b4f9e1214c93a8145905d6ffd685beef5a4680ce5f5b25f97b63d22b"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 9:29 \\ft \\ref Isaiah 1:9|ISA 1:9\\ref* (see also LXX)\\f*",
+          "raw_sha256": "fb7bc7757b830c423d9f7621b5ad425aad7975c46e0eec56d60535591df97b26"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 9:33 \\ft \\ref Isaiah 8:14|ISA 8:14\\ref*\\f*",
+          "raw_sha256": "2aa251e278bae1a693c598ad0621c7625b421686dc2a5780c8642e58389412de"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:33 \\ft \\ref Isaiah 28:16|ISA 28:16\\ref* (see also LXX)\\f*",
+          "raw_sha256": "b9e0951ceec07d1ce2e6a730531f3a6ab4ac9d54b3cf30aa6138d92976e2d359"
+        }
+      ]
+    },
+    "10": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 10:5 \\ft \\ref Leviticus 18:5|LEV 18:5\\ref*; see also Ezekiel 20:11, 13, and 21.\\f*",
+          "raw_sha256": "5f337a04b980ca6585cb641d0f80cdf627d2c4eced84a9e99b9b2ff72d7508aa"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 10:6 \\ft \\ref Deuteronomy 30:12|DEU 30:12\\ref*\\f*",
+          "raw_sha256": "a4c4d963c49fba09a973b0fb5892e2e21b545c4375d3a9b39abf7fd025f906be"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 10:7 \\ft See \\ref Deuteronomy 30:13|DEU 30:13\\ref*.\\f*",
+          "raw_sha256": "deffc25ecb4df8770fc6231bfc7f3f365d23c4e59146e9ff28cdeba2f4700c89"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 10:8 \\ft \\ref Deuteronomy 30:14|DEU 30:14\\ref*\\f*",
+          "raw_sha256": "971f1b222c9eb6d1699ad6b0be58365c4fcef259b372e1b694631385f085da4b"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 10:11 \\ft \\ref Isaiah 28:16|ISA 28:16\\ref* (see also LXX)\\f*",
+          "raw_sha256": "3d3026844d7809a52be230314812890da5a41d5459863aa2f80826ed735ab452"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 10:13 \\ft \\ref Joel 2:32|JOL 2:32\\ref*\\f*",
+          "raw_sha256": "055b92e55728306a4161a9559299d590c89375565095d3f707cbb49ad058e027"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 10:15 \\ft Literally \\fqa good news of good things\\ft ; BYZ and TR \\fqa How beautiful are the feet of those who bring good news of peace, who bring good news of good things\\ft ; \\ref Isaiah 52:7|ISA 52:7\\ref*\\f*",
+          "raw_sha256": "8b9f049c3150b12cf7b7f14749236da22c919266c88a5499d9742837da1ec373"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 10:16 \\ft \\ref Isaiah 53:1|ISA 53:1\\ref*\\f*",
+          "raw_sha256": "415c6543a696819b7f4317de1c978f5276b7d5f107a2b88435aa0a23fdf1cea8"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 10:18 \\ft \\ref Psalm 19:4|PSA 19:4\\ref* (see also LXX)\\f*",
+          "raw_sha256": "db43b83cc01a9f7363c7f43ab648bd017908d73cbca8356c9c021ada930d6266"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 10:19 \\ft \\ref Deuteronomy 32:21|DEU 32:21\\ref* (see also LXX)\\f*",
+          "raw_sha256": "ea1a8ece99c8b3608e5ef77bf885d53298cfa9509dc7b44e5d183b4457c53209"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 10:20 \\ft \\ref Isaiah 65:1|ISA 65:1\\ref*\\f*",
+          "raw_sha256": "46522dd97743f7880653e1de70a00b9ad21a9cd5156c3bb5990458b070ad61d7"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 10:21 \\ft \\ref Isaiah 65:2|ISA 65:2\\ref* (see also LXX)\\f*",
+          "raw_sha256": "8bf21572ae6a61fdcd7db1497f445ab86bad864cf1d118c46998fb95d4f785d3"
+        }
+      ]
+    },
+    "11": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 11:3 \\ft \\ref 1 Kings 19:10|1KI 19:10\\ref*, 14\\f*",
+          "raw_sha256": "ddcf69d445491baa0e8d0e36b29ece3861b87bfc283d8cdb3adb1f67dcb1c008"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 11:4 \\ft \\ref 1 Kings 19:18|1KI 19:18\\ref*\\f*",
+          "raw_sha256": "f5eb6bedebe855eba55dc04d7eb577cd5ffa71396403e5c65898eb8b6bed5de6"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 11:6 \\ft BYZ and TR include \\fqa But if it is by works, then it is no longer grace; otherwise work is no longer work.\\f*",
+          "raw_sha256": "241a01d7982fd528df1fd106a551cdf3c13df668fa0fda0048c124ac2b8a4337"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 11:8 \\ft See \\ref Deuteronomy 29:4|DEU 29:4\\ref* and Isaiah 29:10.\\f*",
+          "raw_sha256": "34b6aa5d5fb14b5b372526adc469b1ffd845e04eeb4f6be1aad151101b2d3aec"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 11:10 \\ft \\ref Psalm 69:22–23|PSA 69:22-23\\ref* (see also LXX)\\f*",
+          "raw_sha256": "09c953d3203fb57378c22d91d82c971a1b63cb57598fce27732a2eff6b085680"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 11:11 \\ft Or \\fqa did they stumble so as to lose their share? \\ft Literally \\fqa did they stumble that they might fall?\\f*",
+          "raw_sha256": "8fedc9960d8f7f95a9b84fa47d89c650de74260e9e7dc9c696a1763ac17b545c"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 11:21 \\ft Or \\fqa He will perhaps not\\ft ; SBL, NE, and WH \\fqa He will not\\f*",
+          "raw_sha256": "caa7b55f6ed1aac70d7bbe45838389b4eb7e114398ef4bf73be319b50c2b7d72"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 11:27 \\ft \\ref Isaiah 27:9|ISA 27:9\\ref* and Isaiah 59:20–21; see also LXX\\f*",
+          "raw_sha256": "01d3e70fda3bec30e6128da5dd089913ab1f4e97c7f42a12560d354fbeac4069"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 11:31 \\ft Literally \\fqa may now receive mercy through your mercy\\ft ; BYZ and TR \\fqa may receive mercy through your mercy\\f*",
+          "raw_sha256": "5aa0ceb489e947d652c421a79cc3302632e24cc6db54a579218f5ca0f0cf6682"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 11:34 \\ft \\ref Isaiah 40:13|ISA 40:13\\ref* (see also LXX)\\f*",
+          "raw_sha256": "3491b9a5eb1029c25a6077c2be017ce37cc5e7b7e9a3b98dca2fef32e4d75140"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 11:35 \\ft \\ref Job 41:11|JOB 41:11\\ref*\\f*",
+          "raw_sha256": "e40be1e4f8f98ec538f0f8ba4f5ac914c96b675a0cb8dbbb1204809cb8393ade"
+        }
+      ]
+    },
+    "12": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 12:1 \\ft Or \\fqa your reasonable service\\f*",
+          "raw_sha256": "5bf96ccbefef6f1bdc6cb6c5234b4cbf8753d30d5660981744b7dcfa5651f5b6"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 12:19 \\ft \\ref Deuteronomy 32:35|DEU 32:35\\ref* (see also LXX)\\f*",
+          "raw_sha256": "fb7842ab1ebd77b2537441143fe0010ff0df0a774a65f6068db2ffd663b8b180"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 12:20 \\ft \\ref Proverbs 25:21–22|PRO 25:21-22\\ref* (see also LXX)\\f*",
+          "raw_sha256": "61730c7402d6741cdff825f7d7693aa2711bba24f6e4daa32501f483e3a75ce4"
+        }
+      ]
+    },
+    "13": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 13:9 \\ft \\ref Exodus 20:13–17|EXO 20:13-17\\ref*; Deuteronomy 5:17–21\\f*",
+          "raw_sha256": "8de96d93170a12d7e20ca86738afd9561645d6821e4f777d585d491dd8683739"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:9 \\ft \\ref Leviticus 19:18|LEV 19:18\\ref*\\f*",
+          "raw_sha256": "ce69c9c1c44afa9c283c41f861de81cb0786bd10895a2aa360547c40a7bb3644"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 13:14 \\ft Or \\fqa put on\\ft ; see verse 12.\\f*",
+          "raw_sha256": "9322ac45e1398d6162aa0f4041a7ff8fcaddd20febb633223ae0c49ba477418f"
+        }
+      ]
+    },
+    "14": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 14:1 \\ft Or \\fqa without quarreling over disputable matters\\f*",
+          "raw_sha256": "72c7f3db201df16422484d5e09e0f6a64581cf3dfd4c9c4be29d3a332a87f6d8"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 14:6 \\ft BYZ and TR include \\fqa he who does not regard the day, to the Lord he does not regard it;\\f*",
+          "raw_sha256": "64f97e54aaf9a654f39f76c5657a45ead2b01c27fbeb43f0620df88b90e190d0"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 14:11 \\ft Or \\fqa will give praise to God \\ft or \\fqa will acknowledge God\\ft ; \\ref Isaiah 45:23|ISA 45:23\\ref* (see also LXX)\\f*",
+          "raw_sha256": "f4397895182d88910eaa5c58d6af02608010daabf454975de8f0b368198d280d"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 14:21 \\ft SBL, BYZ, and TR include \\fqa or to be hindered or weakened\\ft .\\f*",
+          "raw_sha256": "2651b4d35e3ea0acbe1042c3ecd94240d77b27614fa0a249232c7790327439a3"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 14:22 \\ft Literally \\fqa Keep the faith that you have to yourself before God\\f*",
+          "raw_sha256": "6c5be31280bbba2d3330b9d5aedb1be3247b82826e3dd07453acd4c684671a26"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 14:23 \\ft Some manuscripts place the text of \\ref Romans 16:25–27|ROM 16:25-27\\ref* here.\\f*",
+          "raw_sha256": "3c524d3911ac92eecfff2adc0bdf45cf7f8bfd9bcc709be8a6c6307df39367ba"
+        }
+      ]
+    },
+    "15": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 15:3 \\ft \\ref Psalm 69:9|PSA 69:9\\ref*\\f*",
+          "raw_sha256": "72e41161dfc23e6b13ca23091cddd903c99ae666373820f9cf269c1a76d2da64"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 15:9 \\ft \\ref 2 Samuel 22:50|2SA 22:50\\ref*; Psalm 18:49\\f*",
+          "raw_sha256": "f4df235976532b61c530321dde9133de6056c31ef4c526ba417291f78f54334f"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 15:10 \\ft \\ref Deuteronomy 32:43|DEU 32:43\\ref*\\f*",
+          "raw_sha256": "01764c5bc7380b981ccb2e63f0a77739441aab30a4366d74ff4cede9fa82fc74"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 15:11 \\ft \\ref Psalm 117:1|PSA 117:1\\ref*\\f*",
+          "raw_sha256": "5f48e324bf1d47d8c5c474b0ad23e53a8b173b737356846d71b99e1488b847a7"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 15:12 \\ft \\ref Isaiah 11:10|ISA 11:10\\ref* (see also LXX)\\f*",
+          "raw_sha256": "3a6c32a9eec5d85032708d4624574e448981babdf8f6fcaa4d02bad5ada4d564"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 15:19 \\ft SBL \\fqa the power of the Spirit\\ft ; NE and WH \\fqa the power of the Holy Spirit\\f*",
+          "raw_sha256": "447bd34ae777d89960506f371ce25084e3b4163d6c67242e617a9669afbfc1de"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 15:21 \\ft \\ref Isaiah 52:15|ISA 52:15\\ref* (see also LXX)\\f*",
+          "raw_sha256": "46120c022b532e97c888be5ffb55ff548ff1e091d909a5f85334ea960dd1eeab"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 15:29 \\ft TR and BYZ include \\fqa of the gospel\\ft .\\f*",
+          "raw_sha256": "0fb29b80408e81c44b1eac987520c41ebb39427c428a8f08d5c93f1fcf2cbc71"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 15:33 \\ft Some manuscripts do not include \\fqa Amen.\\ft One early manuscript places the text of \\ref Romans 16:25–27|ROM 16:25-27\\ref* here.\\f*",
+          "raw_sha256": "925f262f5295ca53402f68e1e8e679e0a20d32ef061bb65284b9b0cb979da69d"
+        }
+      ]
+    },
+    "16": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 16:1 \\ft Or \\fqa deaconess\\f*",
+          "raw_sha256": "ef1e88f3e7a707164ea4b5928b31967b4d3ca573e533a6e23686faec195488a5"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 16:3 \\fqa Prisca \\ft is a variant of \\fqa Priscilla\\ft ; see \\ref Acts 18:2|ACT 18:2\\ref*.\\f*",
+          "raw_sha256": "b279367d1562c9584ca31bcd704f5bf70b2434ac4c5f5116d60b1bf47cde46ad"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 16:5 \\ft Literally \\fqa in Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "4db1c25a05455eda8db9117849f3de0434a3d8a2faec1d5b20c2c097eef91ad2"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 16:7 \\ft Some translators \\fqa Junias\\f*",
+          "raw_sha256": "0bb60c752e533114182a5984ef4c815fd93124a7dee441d24e4070a828267629"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 16:20 \\ft NA, NE, and WH \\fqa Lord Jesus\\f*",
+          "raw_sha256": "1fd6b4cb818c9c91143d626ec63479a8b9af9fac1a8a244a6af6e3c68b5fc8d3"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 16:23 \\ft SBL, BYZ, and TR include \\fqa \\fv 24\\fv*May the grace of our Lord Jesus Christ be with you all. Amen.\\f*",
+          "raw_sha256": "d65723d4b73cc1c701b7b4942329a144fc38a63fd117405ab384f2799ff77204"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 16:26 \\ft Literally \\fqa the obedience of faith\\f*",
+          "raw_sha256": "1df8210d20447ead0ddd45f551455043e1e66f93c276e72f8ab41701f1f7b26a"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 16:27 \\ft Some manuscripts place the text of verses 25–27 after \\ref Romans 14:23|ROM 14:23\\ref* or after Romans 15:33.\\f*",
+          "raw_sha256": "ba156c5ea610088438bd349a162f2e039d3332d5527a2df68c194c5d94d7fdee"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

@@ -1,0 +1,440 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 69,
+  "verses": [
+    {
+      "id": "PSA.69.1",
+      "edition_verse_id": "BSB:PSA.69.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. To the tune of “Lilies.” Of David. Save me, O God, for the waters are up to my neck.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.69.2",
+      "edition_verse_id": "BSB:PSA.69.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I have sunk into the miry depths, where there is no footing; I have drifted into deep waters, where the flood engulfs me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.3",
+      "edition_verse_id": "BSB:PSA.69.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I am weary from my crying; my throat is parched. My eyes fail, looking for my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.4",
+      "edition_verse_id": "BSB:PSA.69.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Those who hate me without cause outnumber the hairs of my head; many are those who would destroy me — my enemies for no reason. Though I did not steal, I must repay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.5",
+      "edition_verse_id": "BSB:PSA.69.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "You know my folly, O God, and my guilt is not hidden from You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.6",
+      "edition_verse_id": "BSB:PSA.69.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "May those who hope in You not be ashamed through me, O Lord GOD of Hosts; may those who seek You not be dishonored through me, O God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.7",
+      "edition_verse_id": "BSB:PSA.69.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For I have endured scorn for Your sake, and shame has covered my face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.8",
+      "edition_verse_id": "BSB:PSA.69.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I have become a stranger to my brothers and a foreigner to my mother’s sons,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.9",
+      "edition_verse_id": "BSB:PSA.69.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "because zeal for Your house has consumed me, and the insults of those who insult You have fallen on me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.10",
+      "edition_verse_id": "BSB:PSA.69.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I wept and fasted, but it brought me reproach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.11",
+      "edition_verse_id": "BSB:PSA.69.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I made sackcloth my clothing, and I was sport to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.12",
+      "edition_verse_id": "BSB:PSA.69.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Those who sit at the gate mock me, and I am the song of drunkards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.13",
+      "edition_verse_id": "BSB:PSA.69.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But my prayer to You, O LORD, is for a time of favor. In Your abundant loving devotion, O God, answer me with Your sure salvation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.14",
+      "edition_verse_id": "BSB:PSA.69.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Rescue me from the mire and do not let me sink; deliver me from my foes and out of the deep waters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.15",
+      "edition_verse_id": "BSB:PSA.69.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Do not let the floods engulf me or the depths swallow me up; let not the Pit close its mouth over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.16",
+      "edition_verse_id": "BSB:PSA.69.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Answer me, O LORD, for Your loving devotion is good; turn to me in keeping with Your great compassion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.17",
+      "edition_verse_id": "BSB:PSA.69.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Hide not Your face from Your servant, for I am in distress. Answer me quickly!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.18",
+      "edition_verse_id": "BSB:PSA.69.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Draw near to my soul and redeem me; ransom me because of my foes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.19",
+      "edition_verse_id": "BSB:PSA.69.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "You know my reproach, my shame and disgrace. All my adversaries are before You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.20",
+      "edition_verse_id": "BSB:PSA.69.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Insults have broken my heart, and I am in despair. I looked for sympathy, but there was none, for comforters, but I found no one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.21",
+      "edition_verse_id": "BSB:PSA.69.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They poisoned my food with gall and gave me vinegar to quench my thirst.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.22",
+      "edition_verse_id": "BSB:PSA.69.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "May their table become a snare; may it be a retribution and a trap.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.23",
+      "edition_verse_id": "BSB:PSA.69.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "May their eyes be darkened so they cannot see, and their backs be bent forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.24",
+      "edition_verse_id": "BSB:PSA.69.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Pour out Your wrath upon them, and let Your burning anger overtake them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.25",
+      "edition_verse_id": "BSB:PSA.69.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "May their place be deserted; let there be no one to dwell in their tents.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.26",
+      "edition_verse_id": "BSB:PSA.69.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For they persecute the one You struck and recount the pain of those You wounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.27",
+      "edition_verse_id": "BSB:PSA.69.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Add iniquity to their iniquity; let them not share in Your righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.28",
+      "edition_verse_id": "BSB:PSA.69.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "May they be blotted out of the Book of Life and not listed with the righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.29",
+      "edition_verse_id": "BSB:PSA.69.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "But I am in pain and distress; let Your salvation protect me, O God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.30",
+      "edition_verse_id": "BSB:PSA.69.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will praise God’s name in song and exalt Him with thanksgiving.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.31",
+      "edition_verse_id": "BSB:PSA.69.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And this will please the LORD more than an ox, more than a bull with horns and hooves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.32",
+      "edition_verse_id": "BSB:PSA.69.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "The humble will see and rejoice. You who seek God, let your hearts be revived!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.33",
+      "edition_verse_id": "BSB:PSA.69.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "For the LORD listens to the needy and does not despise His captive people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.34",
+      "edition_verse_id": "BSB:PSA.69.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Let heaven and earth praise Him, the seas and everything that moves in them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.35",
+      "edition_verse_id": "BSB:PSA.69.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "For God will save Zion and rebuild the cities of Judah, that they may dwell there and possess it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.69.36",
+      "edition_verse_id": "BSB:PSA.69.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "The descendants of His servants will inherit it, and those who love His name will settle in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

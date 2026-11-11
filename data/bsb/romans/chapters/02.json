@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "ROM.2.1",
+      "edition_verse_id": "BSB:ROM.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "You, therefore, have no excuse, you who pass judgment on another. For on whatever grounds you judge the other, you are condemning yourself, because you who pass judgment do the same things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.2",
+      "edition_verse_id": "BSB:ROM.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And we know that God’s judgment against those who do such things is based on truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.3",
+      "edition_verse_id": "BSB:ROM.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So when you, O man, pass judgment on others, yet do the same things, do you think you will escape God’s judgment?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.4",
+      "edition_verse_id": "BSB:ROM.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Or do you disregard the riches of His kindness, tolerance, and patience, not realizing that God’s kindness leads you to repentance?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.5",
+      "edition_verse_id": "BSB:ROM.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But because of your hard and unrepentant heart, you are storing up wrath against yourself for the day of wrath, when God’s righteous judgment will be revealed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.6",
+      "edition_verse_id": "BSB:ROM.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "God “will repay each one according to his deeds.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.7",
+      "edition_verse_id": "BSB:ROM.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "To those who by perseverance in doing good seek glory, honor, and immortality, He will give eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.8",
+      "edition_verse_id": "BSB:ROM.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But for those who are self-seeking and who reject the truth and follow wickedness, there will be wrath and anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.9",
+      "edition_verse_id": "BSB:ROM.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "There will be trouble and distress for every human being who does evil, first for the Jew, then for the Greek;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.10",
+      "edition_verse_id": "BSB:ROM.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but glory, honor, and peace for everyone who does good, first for the Jew, then for the Greek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.11",
+      "edition_verse_id": "BSB:ROM.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For God does not show favoritism.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.12",
+      "edition_verse_id": "BSB:ROM.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "All who sin apart from the law will also perish apart from the law, and all who sin under the law will be judged by the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.13",
+      "edition_verse_id": "BSB:ROM.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For it is not the hearers of the law who are righteous before God, but it is the doers of the law who will be declared righteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.14",
+      "edition_verse_id": "BSB:ROM.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Indeed, when Gentiles, who do not have the law, do by nature what the law requires, they are a law to themselves, even though they do not have the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.15",
+      "edition_verse_id": "BSB:ROM.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So they show that the work of the law is written on their hearts, their consciences also bearing witness, and their thoughts either accusing or defending them",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.16",
+      "edition_verse_id": "BSB:ROM.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "on the day when God will judge men’s secrets through Christ Jesus, as proclaimed by my gospel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.17",
+      "edition_verse_id": "BSB:ROM.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now you, if you call yourself a Jew; if you rely on the law and boast in God;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.18",
+      "edition_verse_id": "BSB:ROM.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "if you know His will and approve of what is superior because you are instructed by the law;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.19",
+      "edition_verse_id": "BSB:ROM.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "if you are convinced that you are a guide for the blind, a light for those in darkness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.20",
+      "edition_verse_id": "BSB:ROM.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "an instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.21",
+      "edition_verse_id": "BSB:ROM.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.22",
+      "edition_verse_id": "BSB:ROM.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "You who forbid adultery, do you commit adultery? You who abhor idols, do you rob temples?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.23",
+      "edition_verse_id": "BSB:ROM.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "You who boast in the law, do you dishonor God by breaking the law?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.24",
+      "edition_verse_id": "BSB:ROM.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "As it is written: “God’s name is blasphemed among the Gentiles because of you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.25",
+      "edition_verse_id": "BSB:ROM.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Circumcision has value if you observe the law, but if you break the law, your circumcision has become uncircumcision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.26",
+      "edition_verse_id": "BSB:ROM.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If a man who is not circumcised keeps the requirements of the law, will not his uncircumcision be regarded as circumcision?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.27",
+      "edition_verse_id": "BSB:ROM.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The one who is physically uncircumcised yet keeps the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.2.28",
+      "edition_verse_id": "BSB:ROM.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "A man is not a Jew because he is one outwardly, nor is circumcision only outward and physical.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.2.29",
+      "edition_verse_id": "BSB:ROM.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "No, a man is a Jew because he is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the written code. Such a man’s praise does not come from men, but from God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

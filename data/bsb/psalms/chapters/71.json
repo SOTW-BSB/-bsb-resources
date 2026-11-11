@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 71,
+  "verses": [
+    {
+      "id": "PSA.71.1",
+      "edition_verse_id": "BSB:PSA.71.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In You, O LORD, I have taken refuge; let me never be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.71.2",
+      "edition_verse_id": "BSB:PSA.71.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In Your justice, rescue and deliver me; incline Your ear and save me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.3",
+      "edition_verse_id": "BSB:PSA.71.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Be my rock of refuge, where I can always go. Give the command to save me, for You are my rock and my fortress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.4",
+      "edition_verse_id": "BSB:PSA.71.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Deliver me, O my God, from the hand of the wicked, from the grasp of the unjust and ruthless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.5",
+      "edition_verse_id": "BSB:PSA.71.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For You are my hope, O Lord GOD, my confidence from my youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.6",
+      "edition_verse_id": "BSB:PSA.71.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I have leaned on You since birth; You pulled me from my mother’s womb. My praise is always for You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.7",
+      "edition_verse_id": "BSB:PSA.71.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I have become a portent to many, but You are my strong refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.8",
+      "edition_verse_id": "BSB:PSA.71.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "My mouth is filled with Your praise and with Your splendor all day long.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.9",
+      "edition_verse_id": "BSB:PSA.71.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do not discard me in my old age; do not forsake me when my strength fails.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.10",
+      "edition_verse_id": "BSB:PSA.71.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For my enemies speak against me, and those who lie in wait for my life conspire,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.11",
+      "edition_verse_id": "BSB:PSA.71.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "saying, “God has forsaken him; pursue him and seize him, for there is no one to rescue him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.12",
+      "edition_verse_id": "BSB:PSA.71.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Be not far from me, O God. Hurry, O my God, to help me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.13",
+      "edition_verse_id": "BSB:PSA.71.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "May the accusers of my soul be ashamed and consumed; may those who seek my harm be covered with scorn and disgrace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.14",
+      "edition_verse_id": "BSB:PSA.71.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But I will always hope and will praise You more and more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.15",
+      "edition_verse_id": "BSB:PSA.71.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My mouth will declare Your righteousness and Your salvation all day long, though I cannot know their full measure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.16",
+      "edition_verse_id": "BSB:PSA.71.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I will come in the strength of the Lord GOD; I will proclaim Your righteousness — Yours alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.17",
+      "edition_verse_id": "BSB:PSA.71.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "O God, You have taught me from my youth, and to this day I proclaim Your marvelous deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.18",
+      "edition_verse_id": "BSB:PSA.71.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Even when I am old and gray, do not forsake me, O God, until I proclaim Your power to the next generation, Your might to all who are to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.19",
+      "edition_verse_id": "BSB:PSA.71.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Your righteousness reaches to the heavens, O God, You who have done great things. Who, O God, is like You?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.20",
+      "edition_verse_id": "BSB:PSA.71.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Though You have shown me many troubles and misfortunes, You will revive me once again. Even from the depths of the earth You will bring me back up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.21",
+      "edition_verse_id": "BSB:PSA.71.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "You will increase my honor and comfort me once again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.22",
+      "edition_verse_id": "BSB:PSA.71.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So I will praise You with the harp for Your faithfulness, O my God; I will sing praise to You with the lyre, O Holy One of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.23",
+      "edition_verse_id": "BSB:PSA.71.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When I sing praise to You my lips will shout for joy, along with my soul, which You have redeemed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.71.24",
+      "edition_verse_id": "BSB:PSA.71.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "My tongue will indeed proclaim Your righteousness all day long, for those who seek my harm are disgraced and confounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Prologue",
+        "\\s1 John Greets the Seven Churches",
+        "\\s1 John’s Vision on Patmos"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 To the Church in Ephesus",
+        "\\s1 To the Church in Smyrna",
+        "\\s1 To the Church in Pergamum",
+        "\\s1 To the Church in Thyatira"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 To the Church in Sardis",
+        "\\s1 To the Church in Philadelphia",
+        "\\s1 To the Church in Laodicea"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Throne in Heaven",
+        "\\s1 Worship of the Creator"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Lamb Takes the Scroll",
+        "\\s1 The Lamb Exalted"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The First Seal: The White Horse",
+        "\\s1 The Second Seal: War",
+        "\\s1 The Third Seal: Famine",
+        "\\s1 The Fourth Seal: Death",
+        "\\s1 The Fifth Seal: The Martyrs",
+        "\\s1 The Sixth Seal: Terror"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 144,000 Sealed",
+        "\\s1 Praise from the Great Multitude"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Seventh Seal",
+        "\\s1 The First Four Trumpets"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Fifth Trumpet",
+        "\\s1 The Sixth Trumpet"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 The Angel and the Small Scroll"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Two Witnesses",
+        "\\s1 The Witnesses Killed and Raised",
+        "\\s1 The Seventh Trumpet"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The Woman and the Dragon",
+        "\\s1 The War in Heaven",
+        "\\s1 The Woman Persecuted"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 The Beast from the Sea",
+        "\\s1 The Beast from the Earth",
+        "\\s1 The Mark of the Beast"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 The Lamb and the 144,000",
+        "\\s1 The Three Angels and Babylon’s Fall",
+        "\\s1 The Harvest of the Earth"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 The Song of Moses and the Lamb",
+        "\\s1 Preparation for Judgment"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 The First Six Bowls of Wrath",
+        "\\s1 The Seventh Bowl of Wrath"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 The Woman on the Beast",
+        "\\s1 The Mystery Explained",
+        "\\s1 The Victory of the Lamb"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 Babylon Is Fallen",
+        "\\s1 Lament over Babylon",
+        "\\s1 The Doom of Babylon"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 Rejoicing in Heaven",
+        "\\s1 The Marriage of the Lamb",
+        "\\s1 The Rider on the White Horse",
+        "\\s1 Defeat of the Beast and False Prophet"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Satan Bound",
+        "\\s1 Satan Cast into the Lake of Fire",
+        "\\s1 Judgment before the Great White Throne"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 A New Heaven and a New Earth",
+        "\\s1 The New Jerusalem"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 The River of Life",
+        "\\s1 Jesus Is Coming",
+        "\\s1 Nothing May Be Added or Removed"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 64,
+  "verses": [
+    {
+      "id": "PSA.64.1",
+      "edition_verse_id": "BSB:PSA.64.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. Hear, O God, my voice of complaint; preserve my life from dread of the enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.64.2",
+      "edition_verse_id": "BSB:PSA.64.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hide me from the scheming of the wicked, from the mob of workers of iniquity,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.3",
+      "edition_verse_id": "BSB:PSA.64.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "who sharpen their tongues like swords and aim their bitter words like arrows,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.4",
+      "edition_verse_id": "BSB:PSA.64.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "ambushing the innocent in seclusion, shooting suddenly, without fear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.5",
+      "edition_verse_id": "BSB:PSA.64.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They hold fast to their evil purpose; they speak of hiding their snares. “Who will see them?” they say.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.6",
+      "edition_verse_id": "BSB:PSA.64.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They devise injustice and say, “We have perfected a secret plan.” For the inner man and the heart are mysterious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.7",
+      "edition_verse_id": "BSB:PSA.64.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But God will shoot them with arrows; suddenly they will be wounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.8",
+      "edition_verse_id": "BSB:PSA.64.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They will be made to stumble, their own tongues turned against them. All who see will shake their heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.9",
+      "edition_verse_id": "BSB:PSA.64.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then all mankind will fear and proclaim the work of God; so they will ponder what He has done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.64.10",
+      "edition_verse_id": "BSB:PSA.64.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Let the righteous rejoice in the LORD and take refuge in Him; let all the upright in heart exult.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

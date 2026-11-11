@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 96,
+  "verses": [
+    {
+      "id": "PSA.96.1",
+      "edition_verse_id": "BSB:PSA.96.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Sing to the LORD a new song; sing to the LORD, all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.96.2",
+      "edition_verse_id": "BSB:PSA.96.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sing to the LORD, bless His name; proclaim His salvation day after day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.3",
+      "edition_verse_id": "BSB:PSA.96.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Declare His glory among the nations, His wonders among all peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.4",
+      "edition_verse_id": "BSB:PSA.96.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For great is the LORD, and greatly to be praised; He is to be feared above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.5",
+      "edition_verse_id": "BSB:PSA.96.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For all the gods of the nations are idols, but it is the LORD who made the heavens.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.6",
+      "edition_verse_id": "BSB:PSA.96.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Splendor and majesty are before Him; strength and beauty fill His sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.7",
+      "edition_verse_id": "BSB:PSA.96.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.8",
+      "edition_verse_id": "BSB:PSA.96.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Ascribe to the LORD the glory due His name; bring an offering and enter His courts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.9",
+      "edition_verse_id": "BSB:PSA.96.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Worship the LORD in the splendor of His holiness; tremble before Him, all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.10",
+      "edition_verse_id": "BSB:PSA.96.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Declare among the nations: “The LORD reigns!” The world is firmly established; it cannot be moved; He will judge the peoples with equity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.11",
+      "edition_verse_id": "BSB:PSA.96.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Let the heavens be glad and the earth rejoice; let the sea resound, and all that fills it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.12",
+      "edition_verse_id": "BSB:PSA.96.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let the fields exult, and all that is in them. Then all the trees of the forest will sing for joy",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.96.13",
+      "edition_verse_id": "BSB:PSA.96.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "before the LORD, for He is coming— He is coming to judge the earth. He will judge the world in righteousness and the peoples in His faithfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

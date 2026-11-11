@@ -1,0 +1,427 @@
+{
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Or \\fqa suddenly \\ft or \\fqa quickly\\f*",
+          "raw_sha256": "98aa26d31c678c2034a7ce7bc783c3ab4988e6a1c7224140621de71e5db4eebe"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft Literally \\fqa in Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "edb2cc771bc740780eab3caa696c5f45d3cca9f8026252b5672e53c8e9bfe01c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft Or \\fqa the sevenfold Spirit\\f*",
+          "raw_sha256": "2b6d1a7b539bbb269aa60271109ea87fc0f0c3e6dfee184c8e4cd361741e8edd"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft TR \\fqa the Alpha and the Omega, the Beginning and the End\\f*",
+          "raw_sha256": "b72eb08f632be283797403af8e691b2d37657e897b631b9e1b7d023bb3fbd215"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 1:11 \\ft TR \\fqa saying, “I am the Alpha and the Omega, the First and the Last,” and, \\f*",
+          "raw_sha256": "65139b404b6ad8f73027a2b6fbb2346b6c628a51ac7aaac875b42419157656e3"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Or \\fqa one like a son of man\\ft ; see \\ref Daniel 7:13|DAN 7:13\\ref*.\\f*",
+          "raw_sha256": "9aa0115872a4a9a87c4091204fa2a027e0cc286236cc6c0fe1cd8b07959e8406"
+        }
+      ]
+    },
+    "2": {
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 2:27 \\ft \\ref Psalm 2:9|PSA 2:9\\ref* (see also LXX)\\f*",
+          "raw_sha256": "45ecfa30fab9915ca113fbfaf4da7d22ff42fbb7425fad4d8cc0432c4852838d"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft Or \\fqa the sevenfold Spirit\\f*",
+          "raw_sha256": "c15d27644b6a9820859835f6bf26b22ff9c34287d1a4979241fe01a25ce6beec"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\ft Or \\fqa scrape off\\f*",
+          "raw_sha256": "4b2e785aca81eaf64f0149e1f9bae14f37b07f7a1fd20d93e33ebb84d3cbd707"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 3:7 \\ft See \\ref Isaiah 22:22|ISA 22:22\\ref*.\\f*",
+          "raw_sha256": "7ac785fd3eebc78ab2d438b0291898a9f6610be69fb33331df5505a2f04e9a21"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\ft Or \\fqa suddenly \\ft or \\fqa quickly\\f*",
+          "raw_sha256": "b56b9e4cc98b6a39478466be73913df14805cf80a6dd27c6a5b86671901636be"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 3:14 \\ft Or \\fqa Beginning \\ft or \\fqa Ruler\\f*",
+          "raw_sha256": "6b5d44210a0f91370d3d95afe47d34fbec990206e62edb190920382c32295d4b"
+        }
+      ]
+    },
+    "4": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 4:5 \\ft Or \\fqa This is the sevenfold Spirit\\f*",
+          "raw_sha256": "fadc963a147b6ded335a89cc024e98f6a5f7868beeefa0305552a51c90490576"
+        }
+      ]
+    },
+    "5": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 5:6 \\ft Or \\fqa the sevenfold Spirit\\f*",
+          "raw_sha256": "60e35b68ecb4c4fd7c44800c6fb04172bd96c108cecdbfa855118bc882843d82"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft Or \\fqa they will reign over\\ft ; WH \\fqa they reign upon\\f*",
+          "raw_sha256": "862afd6766446b8b93b2dfbf266002bf042fededa63c6f58598a8375aa0bd266"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 5:14 \\ft TR includes \\fqa Him who lives for ever and ever\\ft .\\f*",
+          "raw_sha256": "e97e475c7865da536aed4387e8ca386ccf53fc3991a33fbf1c38fd0c6579fa22"
+        }
+      ]
+    },
+    "6": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\ft Greek \\fqa A choenix of wheat for a denarius.\\ft A choenix was a Greek dry measure equivalent to 1.92 pints or 0.91 liters. A denarius was customarily a day’s wage for a laborer; see \\ref Matthew 20:2|MAT 20:2\\ref*.\\f*",
+          "raw_sha256": "1ef29b948153e4606ebc150ffd42bc4deb8684577266364e2d6d80df18f6e8f8"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 6:16 \\ft See \\ref Hosea 10:8|HOS 10:8\\ref*.\\f*",
+          "raw_sha256": "ef17d557bcc66854f10c3c0b1d6ba4863b5f3942b4fb46911aebb51c9c3fbc45"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 6:17 \\ft BYZ and TR \\fqa His\\f*",
+          "raw_sha256": "ee31e5f6b42ecf1c7dfe756dd8121258fc785cb65a3814f69c8dc03b93f072c5"
+        }
+      ]
+    },
+    "7": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 7:16 \\ft \\ref Isaiah 49:10|ISA 49:10\\ref*\\f*",
+          "raw_sha256": "117c47816b1d2c660bad9ca39a36aed29c70803e6145eb81482c0f246d2907ba"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 7:17 \\ft See \\ref Psalm 23:1|PSA 23:1\\ref*.\\f*",
+          "raw_sha256": "50ee41c45163f0c0670d3d4aeb8b772cbc90eed07510a3c91b74306fd60bd948"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:17 \\ft \\ref Isaiah 49:10|ISA 49:10\\ref*\\f*",
+          "raw_sha256": "8801e6df7fc8fefb1e6e8b41d8359aa33d706fedfd5554232bc849c041ca66c3"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:17 \\ft \\ref Isaiah 25:8|ISA 25:8\\ref*\\f*",
+          "raw_sha256": "c0c1b86a047fcf8b07d7009fa0e0317261402b50867f0c1759e3752643be17d0"
+        }
+      ]
+    },
+    "8": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 8:11 \\ft Literally \\fqa became wormwood\\f*",
+          "raw_sha256": "416151b86ef5748d73eb081dc9c486bfed527559722520baf43a30a9a1b8b4a8"
+        }
+      ]
+    },
+    "9": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 9:11 \\fqa Abaddon \\ft means \\fqa Destruction\\ft .\\f*",
+          "raw_sha256": "98a670102807530568838eed226517a4193ebbcde35fa22eaca47ddef3106f1f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:11 \\fqa Apollyon \\ft means \\fqa Destroyer\\ft .\\f*",
+          "raw_sha256": "af826900578922b6d883865e56d23f70b0adca03abe582d7c7ee604b43773493"
+        }
+      ]
+    },
+    "10": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 10:9 \\ft See \\ref Numbers 5:24|NUM 5:24\\ref* and Ezekiel 3:3.\\f*",
+          "raw_sha256": "48c16381a6c653838bcafa29645ea695ed60bafe58d1ec0c14bb8db28aa158a6"
+        }
+      ]
+    },
+    "11": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 11:4 \\ft See \\ref Zechariah 4:14|ZEC 4:14\\ref*.\\f*",
+          "raw_sha256": "2b8257b7acd3997d0f223014f0d43f25a3fa0745d78b2ab66fd5f8dd75608bc5"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 11:17 \\ft TR includes \\fqa and who is to come\\ft .\\f*",
+          "raw_sha256": "1060585dd60695baf142e75ce777ae5f2c53c727f111c266c20a719460e30f25"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 11:18 \\ft See \\ref Psalm 2:1|PSA 2:1\\ref*.\\f*",
+          "raw_sha256": "918696375c92890527ccb46ce16a41716a1f5277426031f8a89bd43d94ab8f09"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:18 \\ft See \\ref Daniel 12:2|DAN 12:2\\ref*.\\f*",
+          "raw_sha256": "8083662460c192696b758f9205633ff85ee44c204ed5a6bab92586f6d2400bda"
+        }
+      ]
+    },
+    "12": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 12:5 \\ft See \\ref Psalm 2:9|PSA 2:9\\ref* (see also LXX).\\f*",
+          "raw_sha256": "e1b3ecefa95bcd222878398aea958b75fdfa6769d22046823d12ef12ea6ab8aa"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 12:17 \\ft Literally \\fqa And he stood on the sand of the sea. \\ft BYZ and TR \\fqa And I stood on the sand of the sea.\\ft Some texts number this sentence as verse 18; others include it with \\ref Revelation 13:1|REV 13:1\\ref*.\\f*",
+          "raw_sha256": "7817ac8ae54f0bed79d34f1bf20a93e9db6fb07d5b8d12fda70cb002f686a835"
+        }
+      ]
+    },
+    "13": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 13:8 \\ft Or \\fqa written in the Book of Life belonging to the Lamb who was slain from the foundation of the world.\\f*",
+          "raw_sha256": "3f262e854a72a2df9c3d22c5fbedfccda72fa9d75c4b0f2b1f30acb38194778f"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 13:10 \\ft NE, WH, and BYZ \\fqa if anyone kills\\f*",
+          "raw_sha256": "467b0879fb14efc9142d078328bccdae9a21bc898446e71b2c07ca50c3e548ad"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:10 \\ft See \\ref Jeremiah 15:2|JER 15:2\\ref*.\\f*",
+          "raw_sha256": "4bb2ae691f80f5764417fc4a93e28804efb4b9182b3512ee167eaf8ff0284713"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 13:18 \\ft Some manuscripts \\fqa 616\\f*",
+          "raw_sha256": "a438b3c9b4f62a8d21663102bc7751d8c77b244f790613a63bf5e25fb0fe8086"
+        }
+      ]
+    },
+    "14": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 14:5 \\ft TR includes \\fqa before the throne of God\\ft .\\f*",
+          "raw_sha256": "99b868ea1a488d141e32fa4b69842c7e23722af0552d6187959413e54f0a6cbb"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 14:8 \\ft See \\ref Isaiah 21:9|ISA 21:9\\ref* and Revelation 18:2.\\f*",
+          "raw_sha256": "5ed1dc8c317d5e2a14f97808d7374325608112f6ef33b0d41a9a9e82657f4e7b"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 14:14 \\ft Or \\fqa one like a son of man\\ft ; see \\ref Daniel 7:13|DAN 7:13\\ref*.\\f*",
+          "raw_sha256": "91d0ea52ca06e9d35c270e2b6681f67784a3b27c89ee8e16568058f12346249d"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 14:20 \\fqa 1,600 stadia \\ft is approximately 184 miles or 296 kilometers.\\f*",
+          "raw_sha256": "81d084400dcb857194ef2e7042b61f7e6ea84172c7414d824e4c82f0a01f9d02"
+        }
+      ]
+    },
+    "15": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 15:3 \\ft SBL and WH \\fqa King of the ages\\ft ; TR \\fqa King of the saints\\f*",
+          "raw_sha256": "1e1396fd523bddad06a244f597ecfaff01c9037c99209c1067c16e9ff77257f4"
+        }
+      ]
+    },
+    "16": {
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 16:21 \\ft Greek \\fqa great hail as of a talent\\ft ; that is, hailstones weighing approximately 75.4 pounds or 34.2 kilograms each\\f*",
+          "raw_sha256": "0da63d962fc932ba2714fb9d52205443df1b156ef29cf09c6b8622bf4a4b5882"
+        }
+      ]
+    },
+    "18": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 18:2 \\ft See \\ref Isaiah 21:9|ISA 21:9\\ref* and Revelation 14:8.\\f*",
+          "raw_sha256": "fd0e1437945480902f245ac282b97d9c1cfdcc3e309aab46b71124c32ea36da5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 18:2 \\ft NE, WH, BYZ, and TR \\fqa a haunt for every unclean spirit and every unclean and detestable bird.\\f*",
+          "raw_sha256": "e3b6087cf921711504542422ec99a99bce65db8e83895130d4df8c1bf3bdba53"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 18:3 \\ft SBL and WH \\fqa have fallen by\\f*",
+          "raw_sha256": "8293ea85e8b292ec5ebc71f3fd1c7c9ae5d7f6f7e7684f9a2b8802d017b98aa3"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 18:4 \\ft See \\ref Jeremiah 51:45|JER 51:45\\ref*.\\f*",
+          "raw_sha256": "8b16c5b15272e5ca0ca61715b43e63658ee38f9c4ae46736bfa02bbb7d3c196a"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 18:9 \\ft Literally \\fqa when they see the smoke of her burning\\ft ; also in verse 18\\f*",
+          "raw_sha256": "ae83e717814fc4b71547f278ca4adeac38ebdbeaf63c3b56994b7e2e0dc3d29b"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 18:14 \\ft Literally \\fqa And:\\f*",
+          "raw_sha256": "81e62591bea9cffccadf86432943f26fb9209ee293cd8002b5208e8811eba3c2"
+        }
+      ]
+    },
+    "19": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 19:1 \\fqa Hallelujah \\ft is a transliteration of the Hebrew \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verses 3, 4, and 6.\\f*",
+          "raw_sha256": "d2fa5f67a4e3b0fcdd47d36a29c8d5fbaaa928af9eb9b3d70fa7836e180350ee"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 19:6 \\ft SBL, BYZ, and TR \\fqa the Lord God\\f*",
+          "raw_sha256": "875247bc576387de8f4273e0510b6f74fb84ffcd1fd440ce06e92057c4ff5cdb"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 19:13 \\ft WH \\fqa sprinkled with blood\\f*",
+          "raw_sha256": "cf71fda53fb64a65b50422666bbe2f2aa2e280daff26865ef9899be064b826f8"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 19:15 \\ft See \\ref Psalm 2:9|PSA 2:9\\ref* (see also LXX).\\f*",
+          "raw_sha256": "ad3ade582c1209fd029806d0980708fad8e93cefa285d35c1c5b5d14b0e21bda"
+        }
+      ]
+    },
+    "20": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 20:9 \\ft BYZ and TR \\fqa came down from God out of heaven\\f*",
+          "raw_sha256": "c5fdc9e5f081e20b52f60ba39dd082b7f768be600edba6cd7c796291c2842365"
+        }
+      ]
+    },
+    "21": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 21:1 \\ft See \\ref Isaiah 65:17|ISA 65:17\\ref* and Isaiah 66:22 (see also LXX).\\f*",
+          "raw_sha256": "3de771077c14a61b5843191ff78c245cfe97098a021e1de82e14451c22ee347b"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 21:3 \\ft SBL, NE, WH, and BYZ \\fqa God Himself will be with them.\\f*",
+          "raw_sha256": "8ed424b3bdb7391b150b938c5743dca4fad083fdadca32977e95c064d1870664"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 21:4 \\ft \\ref Isaiah 25:8|ISA 25:8\\ref*.\\f*",
+          "raw_sha256": "de0aac860bae5dce82541df791d98575685354b54bc76814dd0d508ca8d4a0d0"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 21:16 \\fqa 12,000 stadia \\ft is approximately 1,380 miles or 2,220 kilometers.\\f*",
+          "raw_sha256": "7b2f0fcbfb7acb96313bee07e0ac154775880203b2d674e5abdc7c37d65d37ab"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 21:17 \\fqa 144 cubits \\ft is approximately 216 feet or 65.8 meters. The measure could indicate either height or thickness.\\f*",
+          "raw_sha256": "c7c02ec7d38395327a0b48615cca3b32c0503f874de453f3ee56580735752580"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 21:24 \\ft BYZ and TR include \\fqa and honor\\ft .\\f*",
+          "raw_sha256": "1fe53f8a349802357bbcb267919868c3722986ef585c52b9fb1262fa3805ff5f"
+        }
+      ]
+    },
+    "22": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 22:6 \\ft Or \\fqa suddenly \\ft or \\fqa quickly\\ft ; similarly in verses 7, 12, and 20\\f*",
+          "raw_sha256": "1f55e90e8770be621b75a51f747ae672c4d0f9a10f491e360d215c7d5ca8b03e"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 22:7 \\ft Or \\fqa scroll\\ft ; also in verses 9, 10, 18, 19\\f*",
+          "raw_sha256": "f751da77e8c8e8dc27330cb0c2521ab230a3cb0348b69ebaa09497ace2c2061a"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 22:14 \\ft BYZ and TR \\fqa Blessed are those who do His commandments\\f*",
+          "raw_sha256": "2c14af0b88a0c256a8670b1192796e7ec78816df243e49fe59d238d738f57a68"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 22:21 \\ft WH and BYZ \\fqa the Lord Jesus Christ\\ft ; TR \\fqa our Lord Jesus Christ\\f*",
+          "raw_sha256": "06081018b52f20e3fb604bfb4c87710399992165b767dadbc859a8ed705dd721"
+        },
+        {
+          "source_usfm": "\\f + \\fr 22:21 \\ft SBL, WH, NE, and TR do not include \\fqa the saints\\ft .\\f*",
+          "raw_sha256": "48ffa300d9b37630f92990953584364b5864f55e200bb480f0f5f8a3e22d2739"
+        },
+        {
+          "source_usfm": "\\f + \\fr 22:21 \\ft SBL, WH, NE, and NA do not include \\fqa Amen.\\f*",
+          "raw_sha256": "4fe24b8810865671790c2f2df6f6e9f1423e6785b6f9e947daafe3c91e16b30a"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

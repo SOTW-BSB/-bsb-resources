@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 98,
+  "verses": [
+    {
+      "id": "PSA.98.1",
+      "edition_verse_id": "BSB:PSA.98.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm. Sing to the LORD a new song, for He has done wonders; His right hand and holy arm have gained Him the victory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.98.2",
+      "edition_verse_id": "BSB:PSA.98.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The LORD has proclaimed His salvation and revealed His righteousness to the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.98.3",
+      "edition_verse_id": "BSB:PSA.98.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "He has remembered His love and faithfulness to the house of Israel; all the ends of the earth have seen the salvation of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.98.4",
+      "edition_verse_id": "BSB:PSA.98.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Make a joyful noise to the LORD, all the earth; break forth — let your cry ring out, and sing praises!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.98.5",
+      "edition_verse_id": "BSB:PSA.98.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Sing praises to the LORD with the lyre, in melodious song with the harp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.98.6",
+      "edition_verse_id": "BSB:PSA.98.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "With trumpets and the blast of the ram’s horn shout for joy before the LORD, the King.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.98.7",
+      "edition_verse_id": "BSB:PSA.98.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let the sea resound, and all that fills it, the world, and all who dwell in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.98.8",
+      "edition_verse_id": "BSB:PSA.98.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Let the rivers clap their hands, let the mountains sing together for joy",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.98.9",
+      "edition_verse_id": "BSB:PSA.98.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "before the LORD, for He comes to judge the earth. He will judge the world with righteousness and the peoples with equity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "REV.20.1",
+      "edition_verse_id": "BSB:REV.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then I saw an angel coming down from heaven with the key to the Abyss, holding in his hand a great chain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.20.2",
+      "edition_verse_id": "BSB:REV.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He seized the dragon, that ancient serpent who is the devil and Satan, and bound him for a thousand years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.20.3",
+      "edition_verse_id": "BSB:REV.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he threw him into the Abyss, shut it, and sealed it over him, so that he could not deceive the nations until the thousand years were complete. After that, he must be released for a brief period of time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.20.4",
+      "edition_verse_id": "BSB:REV.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then I saw the thrones, and those seated on them had been given authority to judge. And I saw the souls of those who had been beheaded for their testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or hands. And they came to life and reigned with Christ for a thousand years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.20.5",
+      "edition_verse_id": "BSB:REV.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The rest of the dead did not come back to life until the thousand years were complete. This is the first resurrection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.20.6",
+      "edition_verse_id": "BSB:REV.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Blessed and holy are those who share in the first resurrection! The second death has no power over them, but they will be priests of God and of Christ and will reign with Him for a thousand years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.20.7",
+      "edition_verse_id": "BSB:REV.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When the thousand years are complete, Satan will be released from his prison,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.20.8",
+      "edition_verse_id": "BSB:REV.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and will go out to deceive the nations in the four corners of the earth — Gog and Magog — to assemble them for battle. Their number is like the sand of the seashore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.20.9",
+      "edition_verse_id": "BSB:REV.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they marched across the broad expanse of the earth and surrounded the camp of the saints and the beloved city. But fire came down from heaven and consumed them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.20.10",
+      "edition_verse_id": "BSB:REV.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the devil who had deceived them was thrown into the lake of fire and sulfur, into which the beast and the false prophet had already been thrown. There they will be tormented day and night forever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.20.11",
+      "edition_verse_id": "BSB:REV.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then I saw a great white throne and the One seated on it. Earth and heaven fled from His presence, and no place was found for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.20.12",
+      "edition_verse_id": "BSB:REV.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And I saw the dead, great and small, standing before the throne. And books were opened, and one of them was the Book of Life. And the dead were judged according to their deeds, as recorded in the books.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.20.13",
+      "edition_verse_id": "BSB:REV.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The sea gave up its dead, and Death and Hades gave up their dead, and each one was judged according to his deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.20.14",
+      "edition_verse_id": "BSB:REV.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Death and Hades were thrown into the lake of fire. This is the second death — the lake of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.20.15",
+      "edition_verse_id": "BSB:REV.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And if anyone was found whose name was not written in the Book of Life, he was thrown into the lake of fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

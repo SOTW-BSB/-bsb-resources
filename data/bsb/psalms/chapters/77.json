@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 77,
+  "verses": [
+    {
+      "id": "PSA.77.1",
+      "edition_verse_id": "BSB:PSA.77.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. According to Jeduthun. A Psalm of Asaph. I cried out to God; I cried aloud to God to hear me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.77.2",
+      "edition_verse_id": "BSB:PSA.77.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.3",
+      "edition_verse_id": "BSB:PSA.77.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.4",
+      "edition_verse_id": "BSB:PSA.77.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You have kept my eyes from closing; I am too troubled to speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.5",
+      "edition_verse_id": "BSB:PSA.77.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I considered the days of old, the years long in the past.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.6",
+      "edition_verse_id": "BSB:PSA.77.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "At night I remembered my song; in my heart I mused, and my spirit pondered:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.7",
+      "edition_verse_id": "BSB:PSA.77.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Will the Lord spurn us forever and never show His favor again?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.8",
+      "edition_verse_id": "BSB:PSA.77.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Is His loving devotion gone forever? Has His promise failed for all time?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.9",
+      "edition_verse_id": "BSB:PSA.77.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.10",
+      "edition_verse_id": "BSB:PSA.77.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So I said, “I am grieved that the right hand of the Most High has changed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.11",
+      "edition_verse_id": "BSB:PSA.77.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I will remember the works of the LORD; yes, I will remember Your wonders of old.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.12",
+      "edition_verse_id": "BSB:PSA.77.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I will reflect on all You have done and ponder Your mighty deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.13",
+      "edition_verse_id": "BSB:PSA.77.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Your way, O God, is holy. What god is so great as our God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.14",
+      "edition_verse_id": "BSB:PSA.77.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You are the God who works wonders; You display Your strength among the peoples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.15",
+      "edition_verse_id": "BSB:PSA.77.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "With power You redeemed Your people, the sons of Jacob and Joseph. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.16",
+      "edition_verse_id": "BSB:PSA.77.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The waters saw You, O God; the waters saw You and swirled; even the depths were shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.17",
+      "edition_verse_id": "BSB:PSA.77.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.18",
+      "edition_verse_id": "BSB:PSA.77.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Your thunder resounded in the whirlwind; the lightning lit up the world; the earth trembled and quaked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.19",
+      "edition_verse_id": "BSB:PSA.77.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Your path led through the sea, Your way through the mighty waters, but Your footprints were not to be found.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.77.20",
+      "edition_verse_id": "BSB:PSA.77.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "You led Your people like a flock by the hand of Moses and Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "REV.2.1",
+      "edition_verse_id": "BSB:REV.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.2",
+      "edition_verse_id": "BSB:REV.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I know your deeds, your labor, and your perseverance. I know that you cannot tolerate those who are evil, and you have tested and exposed as liars those who falsely claim to be apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.3",
+      "edition_verse_id": "BSB:REV.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Without growing weary, you have persevered and endured many things for the sake of My name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.4",
+      "edition_verse_id": "BSB:REV.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But I have this against you: You have abandoned your first love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.5",
+      "edition_verse_id": "BSB:REV.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Therefore, keep in mind how far you have fallen. Repent and perform the deeds you did at first. But if you do not repent, I will come to you and remove your lampstand from its place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.6",
+      "edition_verse_id": "BSB:REV.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But you have this to your credit: You hate the works of the Nicolaitans, which I also hate.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.7",
+      "edition_verse_id": "BSB:REV.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will grant the right to eat from the tree of life in the Paradise of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.8",
+      "edition_verse_id": "BSB:REV.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "To the angel of the church in Smyrna write: These are the words of the First and the Last, who died and returned to life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.9",
+      "edition_verse_id": "BSB:REV.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I know your affliction and your poverty — though you are rich! And I am aware of the slander of those who falsely claim to be Jews, but are in fact a synagogue of Satan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.10",
+      "edition_verse_id": "BSB:REV.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison to test you, and you will suffer tribulation for ten days. Be faithful even unto death, and I will give you the crown of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.11",
+      "edition_verse_id": "BSB:REV.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He who has an ear, let him hear what the Spirit says to the churches. The one who overcomes will not be harmed by the second death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.12",
+      "edition_verse_id": "BSB:REV.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "To the angel of the church in Pergamum write: These are the words of the One who holds the sharp, double-edged sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.13",
+      "edition_verse_id": "BSB:REV.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I know where you live, where the throne of Satan sits, yet you hold fast to My name. You did not deny your faith in Me, even in the days of My faithful witness Antipas, who was killed among you where Satan dwells.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.14",
+      "edition_verse_id": "BSB:REV.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But I have a few things against you, because some of you hold to the teaching of Balaam, who taught Balak to place a stumbling block before the Israelites so they would eat food sacrificed to idols and commit sexual immorality.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.15",
+      "edition_verse_id": "BSB:REV.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In the same way, some of you also hold to the teaching of the Nicolaitans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.16",
+      "edition_verse_id": "BSB:REV.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore repent! Otherwise I will come to you shortly and wage war against them with the sword of My mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.17",
+      "edition_verse_id": "BSB:REV.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will give the hidden manna. I will also give him a white stone inscribed with a new name, known only to the one who receives it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.18",
+      "edition_verse_id": "BSB:REV.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like a blazing fire and whose feet are like polished bronze.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.19",
+      "edition_verse_id": "BSB:REV.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I know your deeds — your love, your faith, your service, your perseverance — and your latest deeds are greater than your first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.20",
+      "edition_verse_id": "BSB:REV.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads My servants to be sexually immoral and to eat food sacrificed to idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.21",
+      "edition_verse_id": "BSB:REV.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Even though I have given her time to repent of her immorality, she is unwilling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.22",
+      "edition_verse_id": "BSB:REV.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Behold, I will cast her onto a bed of sickness, and those who commit adultery with her will suffer great tribulation unless they repent of her deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.23",
+      "edition_verse_id": "BSB:REV.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then I will strike her children dead, and all the churches will know that I am the One who searches minds and hearts, and I will repay each of you according to your deeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.24",
+      "edition_verse_id": "BSB:REV.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But I say to the rest of you in Thyatira, who do not hold to her teaching and have not learned the so-called deep things of Satan: I will place no further burden upon you",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.2.25",
+      "edition_verse_id": "BSB:REV.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "than to hold fast to what you have until I come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.26",
+      "edition_verse_id": "BSB:REV.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And to the one who overcomes and continues in My work until the end, I will give authority over the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.27",
+      "edition_verse_id": "BSB:REV.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He will rule them with an iron scepter and shatter them like pottery — just as I have received authority from My Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.28",
+      "edition_verse_id": "BSB:REV.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And I will give him the morning star.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.2.29",
+      "edition_verse_id": "BSB:REV.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He who has an ear, let him hear what the Spirit says to the churches.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

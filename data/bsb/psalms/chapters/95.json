@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 95,
+  "verses": [
+    {
+      "id": "PSA.95.1",
+      "edition_verse_id": "BSB:PSA.95.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Come, let us sing for joy to the LORD; let us shout to the Rock of our salvation!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.95.2",
+      "edition_verse_id": "BSB:PSA.95.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let us enter His presence with thanksgiving; let us make a joyful noise to Him in song.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.3",
+      "edition_verse_id": "BSB:PSA.95.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the LORD is a great God, a great King above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.4",
+      "edition_verse_id": "BSB:PSA.95.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In His hand are the depths of the earth, and the mountain peaks belong to Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.5",
+      "edition_verse_id": "BSB:PSA.95.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sea is His, for He made it, and His hands formed the dry land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.6",
+      "edition_verse_id": "BSB:PSA.95.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "O come, let us worship and bow down; let us kneel before the LORD our Maker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.7",
+      "edition_verse_id": "BSB:PSA.95.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For He is our God, and we are the people of His pasture, the sheep under His care. Today, if you hear His voice,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.8",
+      "edition_verse_id": "BSB:PSA.95.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "do not harden your hearts as you did at Meribah, in the day at Massah in the wilderness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.9",
+      "edition_verse_id": "BSB:PSA.95.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "where your fathers tested and tried Me, though they had seen My work.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.10",
+      "edition_verse_id": "BSB:PSA.95.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For forty years I was angry with that generation, and I said, “They are a people whose hearts go astray, and they have not known My ways.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.95.11",
+      "edition_verse_id": "BSB:PSA.95.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So I swore on oath in My anger, “They shall never enter My rest.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

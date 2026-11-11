@@ -1,0 +1,1977 @@
+{
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapters": {
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Or \\fqa noisily assemble\\ft ; see \\ref Revelation 11:18|REV 11:18\\ref*.\\f*",
+          "raw_sha256": "552ae9c9ea485d36cc3c64ae5ee5aed9ee07867b5197e681c5c40c9cd28f1d76"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 2:2 \\ft Cited in \\ref Acts 4:25–26|ACT 4:25-26\\ref*\\f*",
+          "raw_sha256": "65b5bafe252556046183a181b082f3c59dff087882d88dd3758df1feba8d8b8e"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft Literally \\fqa today I have begotten You\\ft ; cited in \\ref Acts 13:33|ACT 13:33\\ref*, Hebrews 1:5, and Hebrews 5:5\\f*",
+          "raw_sha256": "5d3078e49aedf5a33f0890936f9f43fcbee586c769abf255f0c926d06edede3a"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 2:9 \\ft LXX \\fqa You will rule them \\ft or \\fqa You will shepherd them\\f*",
+          "raw_sha256": "96fe53566abf611c439fc91693211801cd63cac4b06bfdcb3a6c2ee69dd8434b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:9 \\ft Cited in \\ref Revelation 2:27|REV 2:27\\ref*; see also Revelation 12:5 and Revelation 19:15.\\f*",
+          "raw_sha256": "3d60d00a767b44890dfb58e5d5b63bd4e776776e5c482aa78c787d829cc738e0"
+        }
+      ]
+    },
+    "3": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\fqa Selah \\ft or \\fqa Interlude \\ft is probably a musical or literary term; here and throughout the Psalms.\\f*",
+          "raw_sha256": "22a3345edfa8a15a6a73604161eb45db80fbe6a2ae00e950c077711d2b87567e"
+        }
+      ]
+    },
+    "4": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 4:2 \\ft Or \\fqa false gods\\f*",
+          "raw_sha256": "d6ea1d21882d27081b5fa4bea72fffa43e0061fd847aa416bcaee267979d9d83"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 4:4 \\ft Or \\fqa In your anger do not sin \\ft or \\fqa Tremble and do not sin\\ft ; cited in \\ref Ephesians 4:26|EPH 4:26\\ref*\\f*",
+          "raw_sha256": "f31157cc633796cdacf07c1297062298358300c7d1067cd66532b8435cd34416"
+        }
+      ]
+    },
+    "5": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 5:7 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "ae61b3fff0d43f23fd2bf40377a0cc379dac0b62494baa8f552a17dded59b849"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 5:9 \\ft Or \\fqa flattery\\ft ; cited in \\ref Romans 3:13|ROM 3:13\\ref*\\f*",
+          "raw_sha256": "a0513b9422e827e5018fef7abcab5c43965f8b5dc2f26625d62ac00f3af3683c"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\fqa Sheminith\\ft is probably a musical term; here and in \\ref 1 Chronicles 15:21|1CH 15:21\\ref* and Psalm 12:1.\\f*",
+          "raw_sha256": "514b6aac80e3bf504358702a77e89fdc3e8e14a3222a18656d913c41973f5abb"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\fqa Shiggaion \\ft is probably a musical or liturgical term.\\f*",
+          "raw_sha256": "3ddbab746c57334d346629c3e0deda3110eb0e009facbd410b43a82519b2c028"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 7:4 \\ft Hebrew \\fqa the one at peace with me\\f*",
+          "raw_sha256": "c0294143f075289a1fb5ccf2ae171a168c684cdaeb0dffb0e6b9079dd1409fa1"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 7:9 \\ft Hebrew \\fqa hearts and kidneys\\f*",
+          "raw_sha256": "b248effaf84f53945561dc06aed303c732e208a8ff737d1ee3813e5356d74e05"
+        }
+      ]
+    },
+    "8": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 8:1 \\fqa Gittith \\ft is probably a musical or liturgical term; here and in Psalms 81 and 84.\\f*",
+          "raw_sha256": "4755a4772518773551dda90516dcda27d736b62cf62834911877ab2cf39199b3"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 8:2 \\ft Literally \\fqa You have ordained strength\\ft ; LXX \\fqa You have prepared praise\\ft ; cited in \\ref Matthew 21:16|MAT 21:16\\ref*\\f*",
+          "raw_sha256": "4b3a9be71f4a812bc88d0fa9bbe92c5461eac1c7ec041b1c8a5cb31bf2977143"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 8:5 \\ft Or \\fqa than God \\ft or \\fqa than the heavenly beings\\ft ; see also LXX.\\f*",
+          "raw_sha256": "46445178e3f26618aaa99dde7f91c146317f47d076335bec951314b7ac7ae2ec"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 8:6 \\ft Cited in \\ref 1 Corinthians 15:27|1CO 15:27\\ref* and Hebrews 2:6–8\\f*",
+          "raw_sha256": "fe36007c5c2d86544efca2666e925256a5845381b0ca06db856667a389dd42cb"
+        }
+      ]
+    },
+    "9": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 9:1 \\ft Psalms 9 and 10 together follow an acrostic pattern, each stanza beginning with the successive letters of the Hebrew alphabet. In the LXX they form one psalm.\\f*",
+          "raw_sha256": "09dec9d0f7c12f653c4e3d99b46b2e99dabf4355e1ef3490476802820e1003a6"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 9:16 \\fqa Higgaion Selah \\ft or \\fqa quiet interlude \\ft is probably a musical or liturgical term.\\f*",
+          "raw_sha256": "ffcd9d127ed6dd9dd40fe02e7879981358bff44141db775f855eb84cffe8891a"
+        }
+      ]
+    },
+    "10": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 10:7 \\ft LXX \\fqa bitterness\\ft ; cited in \\ref Romans 3:14|ROM 3:14\\ref*\\f*",
+          "raw_sha256": "4cc3ae8987809a6ddae60c01e51d73e1fb5d47f229f16b87f5454620580f58c2"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 10:10 \\ft Or \\fqa He crouches and lies low\\f*",
+          "raw_sha256": "782b6037deca8b4536eb7e1ab52ce7a3972859c1c45025271543f63b00a5c60a"
+        }
+      ]
+    },
+    "12": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 12:1 \\fqa Sheminith\\ft is probably a musical term; here and in \\ref 1 Chronicles 15:21|1CH 15:21\\ref* and Psalm 6:1.\\f*",
+          "raw_sha256": "b4c7e58188b5efe35974494071286ede081a8f1068862d586c8988cf69bfc761"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 12:6 \\ft Probable reading; MT \\fqa like silver refined in a furnace of clay, purified sevenfold\\f*",
+          "raw_sha256": "ca2258ad304d3f7bde93033b434f369d68e621bb24e7fce3a676c1921366d0cb"
+        }
+      ]
+    },
+    "14": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 14:1 \\ft The Hebrew words rendered \\fqa fool \\ft throughout the Psalms denote one who is morally deficient.\\f*",
+          "raw_sha256": "fcb2bae1a61e1d08fbd1d23f4e2ab318579f8ff0f7e981e0a446d22b8f402fdf"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 14:3 \\ft LXX \\fqa worthless\\f*",
+          "raw_sha256": "5ff9cdd78096db396fa1158c3efb417fa911a4feff9ae7c901550af33e7d2780"
+        },
+        {
+          "source_usfm": "\\f + \\fr 14:3 \\ft Cited in \\ref Romans 3:10–12|ROM 3:10-12\\ref*\\f*",
+          "raw_sha256": "6fad5b38a392b501b6f1cb84d12e80cff75409459663a2ff69e6cd790141d6ed"
+        }
+      ]
+    },
+    "16": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 16:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalm 16 and Psalms 56–60.\\f*",
+          "raw_sha256": "bb7fd297a232c52bf37c6bd09c01e9ccd2fbdb3e9f664b678a1aec052e728ea2"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 16:7 \\ft Or \\fqa my heart instructs me\\ft ; Hebrew \\fqa my kidneys instruct me\\f*",
+          "raw_sha256": "9083c2a42b3e2f8dbda1045d0f9662fa3159df1143ff2a588c7387c42796e425"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 16:8 \\ft LXX \\fqa I foresaw\\f*",
+          "raw_sha256": "f29d841f047abd81a23fa297872234649750c060bfadc2769b11268b32b698f3"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 16:9 \\ft LXX \\fqa will dwell in hope\\f*",
+          "raw_sha256": "78c5c953ff5d095aee911217a1d07d644411bc22387c04e467da2fa6bced6274"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 16:10 \\ft Cited in \\ref Acts 13:35|ACT 13:35\\ref*\\f*",
+          "raw_sha256": "0b26dd39d780bbef0d5f58ebfe3408c23f0a6429c481093036dd07c0bf3488d2"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 16:11 \\ft Cited in \\ref Acts 2:25–28|ACT 2:25-28\\ref*\\f*",
+          "raw_sha256": "48b0ecc5507249beb6a6bcf3f4178a9dec4db58a93d8834bbbc0e919fbe3578e"
+        }
+      ]
+    },
+    "17": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 17:8 \\ft Literally \\fqa as the pupil, the daughter of\\f*",
+          "raw_sha256": "a9f96dff527b9b7cf8e3ccb676a45264420b75e527894f4b65ffc592073a36bc"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 17:14 \\ft Or \\fqa May what You have stored up for the wicked fill their bellies\\f*",
+          "raw_sha256": "694b10b262398018f9591da4d740d592420fa09da21dc17b7bf68252875ca4af"
+        }
+      ]
+    },
+    "18": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 18:12 \\ft Or \\fqa bolts of lightning\\ft ; also in verse 13\\f*",
+          "raw_sha256": "61b24319982e2c94b447b992c74d7ef358d9321f80149c8f888f72da1bc2d317"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 18:13 \\ft Most Hebrew manuscripts; some Hebrew manuscripts and LXX do not include \\fqa —hailstones and coals of fire\\ft ; see \\ref 2 Samuel 22:14|2SA 22:14\\ref*.\\f*",
+          "raw_sha256": "0a4cfde0f6d63f022950305539fdc17ca61d4976e7b5b7e53dccb0451436d8c3"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 18:35 \\ft Or \\fqa and Your help exalts me \\ft or \\fqa and You stoop down to make me great\\f*",
+          "raw_sha256": "61f05e4de3f902fd05aad2081b39bb087ae73fb5f426210712933a5a65140a70"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 18:42 \\ft Some Hebrew manuscripts, LXX, and Syriac (see also \\ref 2 Samuel 22:43|2SA 22:43\\ref*); MT \\fqa I poured them out\\f*",
+          "raw_sha256": "4e4f57e9fb30ce19ef455c88a64773cdf1242baf3c92f60abdb07a624bfd1598"
+        }
+      ],
+      "49": [
+        {
+          "source_usfm": "\\f + \\fr 18:49 \\ft Cited in \\ref Romans 15:9|ROM 15:9\\ref*\\f*",
+          "raw_sha256": "7dc5cdda64a90134ae6d3f90377854aae96f332738f639f66c1d4e167a9dbbf4"
+        }
+      ]
+    },
+    "19": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 19:3 \\ft Or \\fqa There is no speech or language where their voice is not heard\\f*",
+          "raw_sha256": "77cb17feb033e78a82c155a67105f8ca365af8df0f2acf1c9e7bd4d49e0318fd"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 19:4 \\ft LXX, Syriac, and Vulgate; Hebrew \\fqa their measuring line\\f*",
+          "raw_sha256": "566c226c59d7c98a2a0c12ce16684d35f9b8ad14c70fa13aca61456e8c674e24"
+        },
+        {
+          "source_usfm": "\\f + \\fr 19:4 \\ft Cited in \\ref Romans 10:18|ROM 10:18\\ref*\\f*",
+          "raw_sha256": "bb9dc20d939664a951016995577d90e2cee9a97b8a8b90dc747c249730ff7458"
+        }
+      ]
+    },
+    "20": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 20:9 \\ft Or \\fqa give victory to\\f*",
+          "raw_sha256": "bded8930f6a2524d0807b47c4cbda777b474e50deab82b4d592790cef535cd30"
+        }
+      ]
+    },
+    "22": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 22:1 \\ft Cited in \\ref Matthew 27:46|MAT 27:46\\ref* and Mark 15:34\\f*",
+          "raw_sha256": "4962eac947d0d3c134b38c743554fcb33e8163e08555a12a90332d58dd10f992"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 22:8 \\ft Cited in \\ref Matthew 27:43|MAT 27:43\\ref*\\f*",
+          "raw_sha256": "5929abe0406e6e62d0b802bc158b0d8fbca04bad22b4cbdc6740c360282a9048"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 22:15 \\ft MT; or \\fqa My mouth\\ft , a possible reading of the original Hebrew text \\f*",
+          "raw_sha256": "e47f86111a274e1edc6979c352cdb1e3369cb8b065e91412a1b137fe032b7219"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 22:16 \\ft DSS, LXX, Vulgate, and Syriac; most MT \\fqa like a lion at my hands and feet\\f*",
+          "raw_sha256": "85aaf2ae04dd7d0b1f3c5a3794f72edf2f7441693d955107d39664e18aeb745e"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 22:18 \\ft Cited in \\ref John 19:24|JHN 19:24\\ref*; see also Matthew 27:35, Mark 15:24, and Luke 23:34\\f*",
+          "raw_sha256": "1edfa25810508d075b514afc446455835502cc8c88916612d9c5103a468802de"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 22:22 \\ft LXX \\fqa I will sing Your praises in the assembly\\ft ; cited in \\ref Hebrews 2:12|HEB 2:12\\ref*.\\f*",
+          "raw_sha256": "53b884ba06a1d4200aad26b118ee80d1e472efb3743d7ef9527d22572d146965"
+        }
+      ]
+    },
+    "23": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 23:1 \\ft See \\ref Revelation 7:17|REV 7:17\\ref*.\\f*",
+          "raw_sha256": "1427485f4bfdcaa0f07f6d0d9642057111d7b10b35a6d033abe1bb0e9a742b74"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 23:4 \\ft Or \\fqa the valley of deep darkness\\f*",
+          "raw_sha256": "64be45300253342c65cd44fd29f869b00e1a89a8d09cb9500b388d907c12df14"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 23:6 \\ft Literally \\fqa for a length of days\\f*",
+          "raw_sha256": "095870844380a5a9d2ab770b643acead5ca355aca381b2cc49b69fee5f3e1cf9"
+        }
+      ]
+    },
+    "24": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 24:1 \\ft Cited in \\ref 1 Corinthians 10:26|1CO 10:26\\ref*\\f*",
+          "raw_sha256": "7ad6eade8f7343f4e080129850cff0dd3a50f30fb9ec07876b4928486d0ed7c8"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 24:4 \\ft Or \\fqa to falsehood \\ft or \\fqa to vanity\\f*",
+          "raw_sha256": "3a43becc490f5b97726343e6e0f191a0eba81033482f9c896dbed2a82c2eef23"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 24:6 \\ft LXX, Syriac, and two Hebrew manuscripts; MT \\fqa who seek your face, O Jacob\\f*",
+          "raw_sha256": "51ae04f6a736c6b6e1892387ecbbbdea76c3d9eee430cb54f2bed6dc0e588672"
+        }
+      ]
+    },
+    "25": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 25:1 \\ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "6407f197f5707ea3861d8d8454ae513eddb40782646125df3f8cab0953fcdbc6"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 25:21 \\ft Or \\fqa because my hope is in You\\ft ; LXX \\fqa because I wait for You, O Lord\\f*",
+          "raw_sha256": "b830012923cda05dbc3230e4be782562f6bd7b1bfb8e61f344ded7356d6c1143"
+        }
+      ]
+    },
+    "26": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 26:2 \\ft Hebrew \\fqa my kidneys\\f*",
+          "raw_sha256": "1c95f2b7bb295d37354c635fffd6289b029d509efe208f4762d837e90f920da7"
+        }
+      ]
+    },
+    "28": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 28:2 \\ft Or \\fqa Your innermost sanctuary \\ft or \\fqa Your Most Holy Place\\f*",
+          "raw_sha256": "764b3578b8d1abe8121aa57ce44630996dd697f4ac962af48f3e61a614432777"
+        }
+      ]
+    },
+    "29": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 29:1 \\ft Or \\fqa sons of God \\ft or \\fqa sons of might\\f*",
+          "raw_sha256": "9bcee52927583ad072210f00b4f7cf94753e2c9f323beaf08f7a8b9aff132f59"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 29:2 \\ft Or \\fqa in holy attire\\f*",
+          "raw_sha256": "37333acaab1b5974703c658b274477421a07b4c30c1e8cf061262800d49f8b6a"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 29:6 \\ft That is, Mount Hermon\\f*",
+          "raw_sha256": "89021c2370a935def435097c45682d3723eb5ce68da73baa931b659cadd93533"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 29:9 \\ft Or \\fqa LORD makes the deer to calve\\f*",
+          "raw_sha256": "c77887fb969192ac37eea6a1c9df5a7eb49dd81e0f2249acc3b9ac4bab6f86ef"
+        }
+      ]
+    },
+    "30": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 30:4 \\ft Or \\fqa and praise the memorial of His holiness\\ft ; see \\ref Exodus 3:15|EXO 3:15\\ref*.\\f*",
+          "raw_sha256": "f944a9d284e30f5dac089b2b467aed32cdcd8e9436167582ba374c5fd32616ee"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 30:9 \\ft Or \\fqa in my destruction\\f*",
+          "raw_sha256": "7a27af35671e76921f7af828ed21baea5bc1eb827cae01ad2fa0f10a46610819"
+        },
+        {
+          "source_usfm": "\\f + \\fr 30:9 \\ft Or \\fqa to corruption\\f*",
+          "raw_sha256": "62bac5a29c5ab894bd4661e814badea993002561cce4073fa28b418c6f51df5c"
+        }
+      ]
+    },
+    "31": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 31:5 \\ft Cited in \\ref Luke 23:46|LUK 23:46\\ref*\\f*",
+          "raw_sha256": "4068901880dac0cd6c7a9db816b917cacdb0e62b41b5b8e286341436e9d064b5"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 31:6 \\ft MT; one Hebrew manuscript, LXX, and Syriac \\fqa You hate\\f*",
+          "raw_sha256": "c88dbf1ea702c22e315dc55fc9dd5ff368ef09e16e55398e4b291e54e59e2f4d"
+        }
+      ]
+    },
+    "32": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 32:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "44e6f8830b8446e93c95e2056025dcb16a237665ae22a355dd19c88c46db6f9c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 32:1 \\ft LXX \\fqa Blessed is he whose lawless acts are forgiven, whose sins are covered\\ft ; cited in \\ref Romans 4:7|ROM 4:7\\ref*\\f*",
+          "raw_sha256": "f2ba54768410d7c4cf92a7cc368933f957484e6dc67492974712ea8f5a1b892d"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 32:2 \\ft LXX \\fqa Blessed is the man whose sin the LORD does not count against him\\ft ; cited in \\ref Romans 4:8|ROM 4:8\\ref*\\f*",
+          "raw_sha256": "ca79cdf88735779995af7cb56204fd6fb5c80a0b62eaf2344f617075a718afbc"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 32:4 \\ft Or \\fqa my vitality was turned\\f*",
+          "raw_sha256": "0ef63e6bd0dc1bb925be9016820d889a64f4c8b4708861aaaa33bd63cbe73308"
+        }
+      ]
+    },
+    "34": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 34:1 \\fqa Abimelech \\ft is another name for \\fqa Achish\\ft ; see 1 Samuel 21–29 and \\ref 1 Kings 2:39|1KI 2:39\\ref*.\\f*",
+          "raw_sha256": "334e6925289bf1578389e322dcb1fd34f2b0af204c66a12880609cfa312b4899"
+        },
+        {
+          "source_usfm": "\\f + \\fr 34:1 \\ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "c26bff3eb4c5c738a8ca0a49854ada85c7631d4ad69ddb529e9fb9674f910054"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 34:15 \\ft LXX \\fqa to their prayer\\f*",
+          "raw_sha256": "2d32b6744c4f0ea64936cb217b63c78b762507b962671dc3f25914f3cf25887a"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 34:16 \\ft Cited in \\ref 1 Peter 3:10–12|1PE 3:10-12\\ref*\\f*",
+          "raw_sha256": "0fa64902194bf8608029eb3f87dfb0aea4fea5d0c22c2e6e9c01af59b750fbf2"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 34:20 \\ft Cited in \\ref John 19:36|JHN 19:36\\ref*\\f*",
+          "raw_sha256": "dbc0414a83074e9053476e2b0ce97d6c1a713fb7e2276dcd7ad4ae7c941f3f21"
+        }
+      ]
+    },
+    "35": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 35:3 \\ft Or \\fqa and close the way\\f*",
+          "raw_sha256": "1b8aee6c684d17d347b949b8d711ae5b41eaff0ad37a8629533ee4d9ad6b7556"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 35:13 \\ft Literally \\fqa returned to my bosom\\f*",
+          "raw_sha256": "eda642a52bf079cc88e3912463ea080479d4a37bb04c152867535337330f3974"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 35:16 \\ft Or \\fqa Like a godless circle of mockers,\\f*",
+          "raw_sha256": "447a48641d7da52b7fba28a401f8bd05189827fc2ffad8cec3643c5056544616"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 35:19 \\ft See \\ref John 15:25|JHN 15:25\\ref*.\\f*",
+          "raw_sha256": "d82a1884f0064c8893b8d1f66ec14542763f1d254eeb8598d48f2cfab4a63459"
+        }
+      ]
+    },
+    "36": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 36:1 \\ft Cited in \\ref Romans 3:18|ROM 3:18\\ref*\\f*",
+          "raw_sha256": "7f7ebc5adc15b2d8db1f55faa2aace3a69eb4cc28d1a2db8613c91f08aa1b0f6"
+        }
+      ]
+    },
+    "37": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 37:1 \\ft This psalm is an acrostic poem, each stanza beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "97908ee3d34d91a068aeaf0a7abb1ffe2c01993b34ca06022303c178b2c07ccc"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 37:11 \\ft Or \\fqa the earth\\ft ; see \\ref Matthew 5:5|MAT 5:5\\ref*.\\f*",
+          "raw_sha256": "870ed39e4b9802e89289e54aced8f9fff33036dbead7f5a4855deb86f11ddfcd"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 37:24 \\ft Or \\fqa upholds him with His hand\\f*",
+          "raw_sha256": "6b0999a20cd74aecdd6c831cb2537c65ccbd53ccb6320102fcff0b4c2bd035ea"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 37:37 \\ft Or \\fqa for there is a future for the man of peace\\f*",
+          "raw_sha256": "ea3b89259774a0029299b90fc5db34fb998c791bc18d5a5f6cfb7bb1a2e624ca"
+        }
+      ]
+    },
+    "38": {
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 38:19 \\ft One DSS manuscript; MT \\fqa My enemies are vigorous and strong\\f*",
+          "raw_sha256": "4c4b0ccb45271724172c9bff8e3177bde1c463bcd2457dccc212786446bdf661"
+        },
+        {
+          "source_usfm": "\\f + \\fr 38:19 \\ft See \\ref John 15:25|JHN 15:25\\ref*\\f*",
+          "raw_sha256": "52364255ac0a3499a64beb69d7daefcf71ba403d639bfe9fdc21ad2cc000c72e"
+        }
+      ]
+    },
+    "40": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 40:4 \\ft Or \\fqa who turn aside to false gods \\ft or \\fqa who run after lies\\f*",
+          "raw_sha256": "018bb3263cbede34c9860a9907919f2ee07c42cf346e050e1a438713ed666a97"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 40:6 \\ft Hebrew; some LXX manuscripts \\fqa but a body You prepared for me\\f*",
+          "raw_sha256": "6545dc2cb0ef025aa3408a3c609fe8466db40546d3da8d535b869037466ee418"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 40:8 \\ft Cited in \\ref Hebrews 10:5–7|HEB 10:5-7\\ref*\\f*",
+          "raw_sha256": "cac5110b3b69855b6409cf85bfbdc0f7c586609eb03227bc2a9fb3e42ef238d3"
+        }
+      ]
+    },
+    "41": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 41:9 \\ft Cited in \\ref John 13:18|JHN 13:18\\ref*\\f*",
+          "raw_sha256": "f34f7b919dac3194eb814a59f8f4df5e362f5a293ee46b493fd7f4ca4b4829a8"
+        }
+      ]
+    },
+    "42": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 42:1 \\ft In many Hebrew manuscripts Psalms 42 and 43 constitute one psalm. \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "330bd23435060f5b5ae80df9c04bd9bdf52dd37cfa930b22f5b482c2c48d82e1"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 42:2 \\ft Or \\fqa and see the face of God?\\f*",
+          "raw_sha256": "308bdbd0cf8bcb960ae51a1b89a19d7fceee0fc887282f061cdef52f5e2a3e13"
+        }
+      ]
+    },
+    "44": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 44:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "b6164286a4187cc7757eedc14030e8b753c4dbf801c18dbe7d2dedf1a93641f4"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 44:6 \\ft Or \\fqa give me victory\\ft ; similarly in verse 7\\f*",
+          "raw_sha256": "d637cc24c720ff870148ff6d843a34a7ec2997aba232ba0dea05d33ce427d604"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 44:14 \\ft Literally \\fqa a shaking of the head\\f*",
+          "raw_sha256": "5193a47bbe575d33481c64e912d38422389c08dacc5b5b0e0c6be4daefe6f8d4"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 44:19 \\ft Or \\fqa serpents \\ft or \\fqa dragons\\f*",
+          "raw_sha256": "d61c5b84650204f8fbd2947f1983573ee1a3825c8d14f0919d3490294128386a"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 44:22 \\ft Cited in \\ref Romans 8:36|ROM 8:36\\ref*\\f*",
+          "raw_sha256": "84f40effaeb9b986f4f7e8ccf8308fc47c87981fc2b1281f3b6f3d8381e1957f"
+        }
+      ]
+    },
+    "45": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 45:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "354897bb9ba56602afea4d990e8d0c8c35a2d683db1fdef291e615a4af7d07a7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 45:1 \\ft Or \\fqa King\\ft ; here and throughout Psalm 45\\f*",
+          "raw_sha256": "f65c6b01d2db03343e5ff0b721b2d8a2fd7528c01d687b101b09a79a3bc3ff1f"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 45:7 \\ft Cited in \\ref Hebrews 1:8–9|HEB 1:8-9\\ref*\\f*",
+          "raw_sha256": "d05ecad092962cd629c47348110119fdbe15b62d23cf006a8a4f6521d8ed152b"
+        }
+      ]
+    },
+    "46": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 46:1 \\fqa Alamoth\\ft is probably a musical or liturgical term; here and in \\ref 1 Chronicles 15:20|1CH 15:20\\ref*.\\f*",
+          "raw_sha256": "3c5a9ddac9259b4796d812d181e727b416a541b089bf762562c518589392ac55"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 46:9 \\ft Or \\fqa chariots\\f*",
+          "raw_sha256": "970cb324caaa0de4087c71c8b799a286e8d4f40405c13d166724d741a568b6e1"
+        }
+      ]
+    },
+    "47": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 47:7 \\ft Or \\fqa sing a Maskil of praise \\ft or \\fqa sing praises with understanding\\f*",
+          "raw_sha256": "c87c9cdfd8436c3807973fb63852aef16845cd370fecd55a00bc816248558086"
+        }
+      ]
+    },
+    "48": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 48:2 \\ft Or \\fqa in the far north\\ft ; the most sacred mountain of the Canaanites was \\fqa Zaphon \\ft \\f*",
+          "raw_sha256": "e3551669a219d3f254392f64ea389f8a77461a24c9e91de4872e55ce0757d10e"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 48:7 \\ft Or \\fqa a fleet of trading ships\\f*",
+          "raw_sha256": "fe9816bd2afe4f71470ffa04cc5f29fc719e31548577cc94d8845b979057c1f1"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 48:11 \\ft Or \\fqa the villages\\f*",
+          "raw_sha256": "5a8cc9f77a334dd31b8c25e7f8f8015d4f8723f534e3f919cbb3e24df4c70072"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 48:14 \\ft Or \\fqa He will guide us beyond death\\f*",
+          "raw_sha256": "126492ec38f932598c2abda2694a545f476c4769642443b529b04e93763abc5f"
+        }
+      ]
+    },
+    "49": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 49:7 \\ft Or \\fqa redeem another\\f*",
+          "raw_sha256": "67c29702895fc4c6fd7d079ba8623326ebacdffd28997f7c9e128f0f411878e5"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 49:11 \\ft LXX, Syriac, and Aramaic Targum; Hebrew \\fqa Their inward thoughts\\f*",
+          "raw_sha256": "feec912d79e8c849edf3a580be75535abb5011440c879830f2ef055b4265ec7f"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 49:13 \\ft Or \\fqa the way of the foolish\\f*",
+          "raw_sha256": "3928618d7dd863ddb540506e1d33226be344a86559298670bcf124563dda3009"
+        }
+      ]
+    },
+    "50": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 50:6 \\ft Or \\fqa He is a God of justice\\f*",
+          "raw_sha256": "b41b8aacce641dd0ad92de9e66a20edc5809f22479437c6af5436e808312e472"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 50:21 \\ft Or \\fqa you thought the ‘I AM’ was\\f*",
+          "raw_sha256": "5386be7a96b7bd094756da202f65d10b7ba8caa26c2279652f8a2cd068713171"
+        },
+        {
+          "source_usfm": "\\f + \\fr 50:21 \\ft Literally \\fqa and I set it in order before your eyes\\f*",
+          "raw_sha256": "782d789ed48405cc51a91a3ede48e08ed2bec290db09ceaf30432907297b16ba"
+        }
+      ]
+    },
+    "51": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 51:1 \\ft Or \\fqa Be gracious to me\\f*",
+          "raw_sha256": "9cb49a2fbb31c445f28debfde4f5d49ee7494a28f36231e3bd8b16a6cd504df0"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 51:4 \\ft LXX \\fqa and victorious when You judge\\ft ; cited in \\ref Romans 3:4|ROM 3:4\\ref*\\f*",
+          "raw_sha256": "f6f80775b0042a1ac9c5eb64f494ddaa4b1b8ffca72b4c24386481822f8b6463"
+        }
+      ]
+    },
+    "52": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 52:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "43f084c1708106a0f32b31b2a32cb599293449f5e92030f4a1ab8c407df811c6"
+        }
+      ]
+    },
+    "53": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 53:1 \\fqa Mahalath\\ft is probably a musical or liturgical term; see also \\ref Psalm 88:1|PSA 88:1\\ref*.\\f*",
+          "raw_sha256": "8952879ede36516b322762f7d434b256249c83da0587a747371a51057363bc86"
+        },
+        {
+          "source_usfm": "\\f + \\fr 53:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "b0e18c9c66ccdfafa45a13763eeb8973a7038cf107b7b92b4fc41339d5d16bd2"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 53:3 \\ft LXX \\fqa worthless\\f*",
+          "raw_sha256": "642174497c8f23d67d6a74a4d25e9c0b8a928c63f84a6873d7ffd29810212135"
+        },
+        {
+          "source_usfm": "\\f + \\fr 53:3 \\ft Cited in \\ref Romans 3:10–12|ROM 3:10-12\\ref*\\f*",
+          "raw_sha256": "24a783a4255b6174b02212fc63b4492675e3763d361e949762d660736968f430"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 53:6 \\ft Or \\fqa the fortunes of His people\\f*",
+          "raw_sha256": "80ecfa90d9a26dcb123b4c956cb4fafdfce74567aa2d7ef8079eaab20df02ce7"
+        }
+      ]
+    },
+    "54": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 54:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "5eda5cb6d379d4bb46037df930e983d3b72f3019c74f5047f5261b31ec3ea0ee"
+        }
+      ]
+    },
+    "55": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 55:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "7075a9be22eb63f310eef310adbd54872281cdc94547b096b9ed964256627185"
+        }
+      ]
+    },
+    "56": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 56:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f*",
+          "raw_sha256": "fbf710c7ddd516ae3040f0202739960e6167eaafceb8938f294eb12b293cebee"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 56:7 \\ft Or \\fqa do not let them escape\\ft ; MT does not include \\fqa do not\\ft .\\f*",
+          "raw_sha256": "57af5106f4075ba7bc5fa35a23bf4bf614b03db14905e699a85427c324c414ca"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 56:8 \\ft Or \\fqa sorrows\\f*",
+          "raw_sha256": "4787e2121fac310b8506f8cef1d06044921f59e387e8df39f4f319e148b793da"
+        }
+      ]
+    },
+    "57": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 57:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f*",
+          "raw_sha256": "b23e70d41dcb4a669ee536cc38d41e5a8e911c472e36d5e38ddabe15ac0d5da9"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 57:2 \\ft Hebrew \\fqa Elohim-Elyon\\f*",
+          "raw_sha256": "907c39693871e18808526201ff18835018c09ace0dd0e6813b55fe707a3aa888"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 57:8 \\ft Or \\fqa Awake, my soul!\\f*",
+          "raw_sha256": "2e4e6602062dcf33663cde4508891e254d7ab1c81f14f7cd112d6ef20a25f9b2"
+        }
+      ]
+    },
+    "58": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 58:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f*",
+          "raw_sha256": "408e1664055ff8ac16444f2289d8d90cb1baf0dd9a3d9db3a0d6655249ee0a9c"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 58:7 \\ft Or \\fqa when they are trodden down, may they wither like grass\\f*",
+          "raw_sha256": "6222b6fdbb3841fd092aae177058f6f36bab61fb540a8f9daaeafbbc1d1149ce"
+        }
+      ]
+    },
+    "59": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 59:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f*",
+          "raw_sha256": "7536a2c30418f2c6ef5a8cb2e47d6aeb58d6ac1bc453e7539efc6aa471dd57d1"
+        }
+      ]
+    },
+    "60": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 60:1 \\fqa Miktam \\ft is probably a musical or liturgical term; used for Psalms 16 and 56–60.\\f*",
+          "raw_sha256": "005bebf561c7528c4927a66a9e2580c21133995a4e34704091ca8fcb50302685"
+        },
+        {
+          "source_usfm": "\\f + \\fr 60:1 \\ft That is, Mesopotamia; \\fqa Aram-naharaim \\ft means \\fqa Aram of the two rivers\\ft , likely the region between the Euphrates and Balih Rivers in northwestern Mesopotamia.\\f*",
+          "raw_sha256": "4c4f66ed7bd957e9efdf0d47ff365d2156aa7082a6bfea6221fe79936bd493ae"
+        },
+        {
+          "source_usfm": "\\f + \\fr 60:1 \\ft That is, the land northeast of Damascus\\f*",
+          "raw_sha256": "c382366b697f41b489f4a0026cb5b1ba688ba90b46e3a00b95d919d7eb0e88eb"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 60:4 \\ft Or \\fqa that it may be displayed because of truth\\f*",
+          "raw_sha256": "69dc1742ba40453c5d96b4839fdf3616a6a69d7da7987ab10f063aa0d7afa18b"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 60:6 \\ft Or \\fqa in His holiness\\f*",
+          "raw_sha256": "abc32771b4163b5a2bfc40b4414e08f5d43c734cd71f1734ee9c1febb3009650"
+        }
+      ]
+    },
+    "62": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 62:12 \\ft Cited in \\ref Romans 2:6|ROM 2:6\\ref*\\f*",
+          "raw_sha256": "c2c550f4884155a5848c1ea9ae068724816261c1ab0b2b1be647e71b69140bf8"
+        }
+      ]
+    },
+    "65": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 65:8 \\ft Or \\fqa where morning dawns and evening fades You call forth songs of joy.\\f*",
+          "raw_sha256": "9e724bf2be27b0e5bc5a710593d536dc0425d1f31c5ddd821c163480d88d7e17"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 65:9 \\ft Or \\fqa and make it overflow\\f*",
+          "raw_sha256": "b4a0fad8cc47d5afd9049378813da67bcab0f4b3b26ecaadacef1e7691ef1586"
+        },
+        {
+          "source_usfm": "\\f + \\fr 65:9 \\ft Or \\fqa to provide the people with grain, for so You have ordained it\\f*",
+          "raw_sha256": "7fd2c4ec3f515730eeace829bf954bee2cb6ab74e3d921875d11ec6a56f0c176"
+        }
+      ]
+    },
+    "66": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 66:17 \\ft Or \\fqa and His praise was on my tongue\\f*",
+          "raw_sha256": "b64b3a312f01e5b9cc8b25cefa6d265ea5eb0b965b96382799655550a2635a12"
+        }
+      ]
+    },
+    "68": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 68:4 \\ft Or \\fqa rides through the deserts\\f*",
+          "raw_sha256": "7aa4373afaa85a9fed64e16ddfdef8948ca904878f4b2e1893119623eb4da261"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 68:14 \\ft Hebrew \\fqa Shaddai\\f*",
+          "raw_sha256": "2e37174e737a63b7233659db57f16f98b4b900b77acd07547cdebcab92fc4746"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 68:17 \\ft Or \\fqa the Lord has come from Sinai in His holiness\\f*",
+          "raw_sha256": "82acb81f7df9d589f5d6432480587288ac5f8474e25be5e083db022a594ec8a3"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 68:18 \\ft Cited in \\ref Ephesians 4:8|EPH 4:8\\ref*\\f*",
+          "raw_sha256": "eaf38faccd2417bec7d91b469c63d47b76e88d2b32128e8b60ec1171f2e19d1a"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 68:28 \\ft LXX and Syriac; most Hebrew manuscripts \\fqa Your God has summoned your power\\f*",
+          "raw_sha256": "24c6392e8722795131721e91b4ad6993e2a2c3768542a8bad15f91fc1f8b724b"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 68:31 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "4ed750571114d66bcb227d51e70192300a56053060e000cdc25a9daa3cabaf26"
+        }
+      ]
+    },
+    "69": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 69:4 \\ft See \\ref John 15:25|JHN 15:25\\ref*\\f*",
+          "raw_sha256": "2a20eed9ed9d83962157cbd1cabccd4df5f71e2ee2b5a4e57302d1d391ee7a8c"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 69:9 \\ft Cited in \\ref John 2:17|JHN 2:17\\ref*\\f*",
+          "raw_sha256": "206f4040f1ed8c3936149a6733c9330210ee2c2b5fac8ca9187e8c3cb0a21f82"
+        },
+        {
+          "source_usfm": "\\f + \\fr 69:9 \\ft Cited in \\ref Romans 15:3|ROM 15:3\\ref*\\f*",
+          "raw_sha256": "83a17977bc14879eebf2004a4c6dccdac98320c41d373e90d58bec21e1f60592"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 69:22 \\ft A slight revocalization of the Hebrew (see also LXX, Syriac, and Vulgate); literally \\fqa may their prosperity be a trap\\ft ; cited in \\ref Romans 11:9|ROM 11:9\\ref*\\f*",
+          "raw_sha256": "41033c2dde92fb4829ab4253114e7a40ca2171912ebccea0a55412e94f48258d"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 69:23 \\ft LXX; Hebrew \\fqa and may their loins tremble continually\\ft ; cited in \\ref Romans 11:10|ROM 11:10\\ref*\\f*",
+          "raw_sha256": "46341d137c85f078b982826f5a50edf17cdfb86553390bc4ec6d1a3f68f42e54"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 69:25 \\ft Cited in \\ref Acts 1:20|ACT 1:20\\ref*\\f*",
+          "raw_sha256": "70af49b5f25ac2289bb7d2a6d0cc1cf0960bd887cab5b78572024cccc1ba50c2"
+        }
+      ]
+    },
+    "72": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 72:5 \\ft LXX \\fqa He shall endure\\f*",
+          "raw_sha256": "d2dc34bac4df74f9e1c286d6b0437c4b9f225a32de38c8b0136ba6f2972590b2"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 72:8 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "39c7a8be41470b39577c356c1c03229fbfa8361d315d2fbf1134854ee7f76d6b"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 72:17 \\ft Or \\fqa increase\\f*",
+          "raw_sha256": "095cab44a7153aeeaed0aba38d8233fea488dd5d19797a82ccca7506b7c1f5cf"
+        }
+      ]
+    },
+    "73": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 73:7 \\ft Literally \\fqa Their eye bulges with fatness\\ft ; Syriac \\fqa From their callous heart proceeds iniquity\\f*",
+          "raw_sha256": "433e5b62130c1e9003b1a6806a93ddf427aa497d0b310ba79eef778825598302"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 73:10 \\ft Or \\fqa His people\\f*",
+          "raw_sha256": "bf6109d88427b9d54bb95d53628d9b923fd8a18fc4e9e40cbdb4796748ddb3ca"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 73:26 \\ft Hebrew \\fqa rock\\f*",
+          "raw_sha256": "0f4e018332ec9c2abbfde5e4d8296e733f4c5fc2fdd569a8f615ec28a7a04bd1"
+        }
+      ]
+    },
+    "74": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 74:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "e553d9155b53b58bf8e963f187f7f6a3ab95ffdeb833ba8ce318e5146dff979b"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 74:11 \\ft Literally \\fqa From the midst of Your bosom destroy them! \\ft or \\fqa From the midst of Your bosom remove it!\\f*",
+          "raw_sha256": "81d66c18cbcabdd9aa72b1db4cd9b8fa87aae948cebc8db66d890d5746e390cc"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 74:16 \\ft Literally \\fqa the light\\f*",
+          "raw_sha256": "5e6ab0904bf75881fbe986d9ce78ecb43f1d2980a8116b7d7b2f50050506dcfe"
+        }
+      ]
+    },
+    "75": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 75:9 \\ft Or \\fqa proclaim it\\f*",
+          "raw_sha256": "94a8c6128810ff01a1b0f3efd1275f41c480c5f60803f355ec9471c8ea4900f0"
+        }
+      ]
+    },
+    "76": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 76:2 \\ft That is, Jerusalem\\f*",
+          "raw_sha256": "1015fec8bad47eac5d4b959beac7de558deef7fab0043495f4219d7076287a0c"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 76:10 \\ft Or \\fqa Surely Your wrath against men brings You praise, and the survivors of Your wrath will be restrained.\\f*",
+          "raw_sha256": "2237eb43ba94d0aec934282ec46283c9339f79a9501ab9f35bf4fcdd4224e33b"
+        }
+      ]
+    },
+    "77": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 77:10 \\ft Or \\fqa “To this I will appeal: to the years of the right hand of the Most High.”\\f*",
+          "raw_sha256": "352e1532b495d57930f7b8eaacc046132f77e51bd421f9fb541e39bd9d8b0bfe"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 77:19 \\ft Or \\fqa were unknown\\f*",
+          "raw_sha256": "ccf48878e8887f50678b692db1bffec93c244ffde514ea8d216ed3fdc4a7c7ec"
+        }
+      ]
+    },
+    "78": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 78:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "a94f06dfcaafcdcc356cec6d58e9aff8b5f1534d256537b32ad421423f6242b9"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 78:2 \\ft Or \\fqa from ancient times\\ft ; see also LXX; cited in \\ref Matthew 13:35|MAT 13:35\\ref*\\f*",
+          "raw_sha256": "9fc771946c23df7b5b4903e9a1318dee508f16e7a45d60b80d7bfb84b665474a"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 78:24 \\ft Cited in \\ref John 6:31|JHN 6:31\\ref*\\f*",
+          "raw_sha256": "2a84612936a38628b9a28bf35ac05d271eafe204c3d286b63af41d0f148b7ff3"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 78:33 \\ft Or \\fqa in vapor\\f*",
+          "raw_sha256": "f0872ee031e4e97f8a2f8d1933e3f4a769a3fbb947194020456625e0fdda4661"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 78:35 \\ft Hebrew \\fqa El-Elyon\\f*",
+          "raw_sha256": "f457ce46b040dcd5bc287f4117051eb8c42dcff7509bedf06e3fc9b05f456e73"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 78:42 \\ft Or \\fqa His hand\\f*",
+          "raw_sha256": "61cb4e81c09faec2dd50bf70789783b0eabec48b285b44947e99acae2f946867"
+        }
+      ],
+      "47": [
+        {
+          "source_usfm": "\\f + \\fr 78:47 \\ft Or \\fqa frost \\ft or \\fqa driving rain\\f*",
+          "raw_sha256": "58b239d6eda493e0669a4913b4159fe0f3d0fec9b5d2b80c99f6edbd7141a760"
+        }
+      ]
+    },
+    "80": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 80:11 \\ft That is, the Mediterranean Sea, also called the Great Sea\\f*",
+          "raw_sha256": "52782fcba65661a057b9e580d0f7483541f34a04a275596a1d3d453396a34177"
+        },
+        {
+          "source_usfm": "\\f + \\fr 80:11 \\ft That is, the Euphrates\\f*",
+          "raw_sha256": "ff34613e66f8e8e9562ce93711e2e8b10920e07317203ce46b7fa4fdca0ac1d2"
+        }
+      ]
+    },
+    "81": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 81:1 \\fqa Gittith \\ft is probably a musical or liturgical term; here and in Psalms 8 and 84.\\f*",
+          "raw_sha256": "8c3d9a1824a477001ada84f8ccda7c680488dd1962d5b57c531eea960e851353"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 81:5 \\ft Or \\fqa in Joseph\\f*",
+          "raw_sha256": "021928fd6afb0cf3121e9c191d82160589be70d7f92bca2a6b1891a6f393cbf2"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 81:7 \\fqa Meribah \\ft means \\fqa quarreling\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*.\\f*",
+          "raw_sha256": "adc7dd23b181828a99ce49e87b5f47533805a91147bcec2f7609809585650b59"
+        }
+      ]
+    },
+    "82": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 82:2 \\ft Or \\fqa How long will you defend the unjust\\f*",
+          "raw_sha256": "17853dfc86b0380347945b8a61ee935d4905860a4b44e390ff17a1666e740c3f"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 82:6 \\ft Cited in \\ref John 10:34|JHN 10:34\\ref*\\f*",
+          "raw_sha256": "48f2e980adfabb2258ce80eaf2815c7879c4551b05b0cfc418f4bca45b0ad9c4"
+        }
+      ]
+    },
+    "83": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 83:1 \\ft Or \\fqa deaf\\f*",
+          "raw_sha256": "a415fd73d349c002d7f016d026b301e5bd35088d4980a6a2b13d48e06343ea5c"
+        }
+      ]
+    },
+    "84": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 84:1 \\fqa Gittith \\ft is probably a musical or liturgical term; here and in Psalms 8 and 81.\\f*",
+          "raw_sha256": "2dd17b5320ea4e6bbfde3eecec5f89c90ea24172c799525ad1adc0a2de119b4d"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 84:6 \\ft Or \\fqa Valley of Poplars\\f*",
+          "raw_sha256": "deb162dfda96fc98aa9173f66f763460a7e76993e17988f89f41678cdf8dcb4e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 84:6 \\ft Or \\fqa with blessings\\f*",
+          "raw_sha256": "92da94f96db4e99a2562be79bc1cfe9b9227bac308af149863ba254ee121aeed"
+        }
+      ]
+    },
+    "85": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 85:1 \\ft Or \\fqa restored the fortunes of Jacob\\f*",
+          "raw_sha256": "e0f1cd04278ea231a4d37e83279064f8e3bf4bd54dae8c3f940e462475f407da"
+        }
+      ]
+    },
+    "87": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 87:1 \\ft Literally \\fqa His foundation is on the holy mountains\\f*",
+          "raw_sha256": "31f1d15b71f02e25e403f55a35e058b37b5fa6152d6f127349db2de7b837b1f7"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 87:4 \\fqa Rahab \\ft is a poetic name for Egypt.\\f*",
+          "raw_sha256": "c752eec7907a0422c871b6e861d2377a98b28b7f3304f88b0578f4f2c1d84a32"
+        },
+        {
+          "source_usfm": "\\f + \\fr 87:4 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "f52c280e545cb10e65f52c1d5eb64578a571821c1955dfbb060e2dbff163c2f8"
+        }
+      ]
+    },
+    "88": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 88:1 \\fqa Mahalath Leannoth\\ft is probably a musical or liturgical term; see also \\ref Psalm 53:1|PSA 53:1\\ref*.\\f*",
+          "raw_sha256": "1b5e0d4d077a791b5f3a00b2b4189b067c740368588dfa2424264d7b069dce4d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 88:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "26ff2dcebd4e1747edf13b0e602e9758ce019b1b490db94ce87b4588164a1415"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 88:11 \\fqa Abaddon \\ft means \\fqa Destruction\\ft .\\f*",
+          "raw_sha256": "cd4d03800b2815a62af9e3b2beb4dd36d5ed624496b5d392a078eb784b06c4be"
+        }
+      ]
+    },
+    "89": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 89:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "e1c68d9b2a0c95a2bc323c70bb2e3654c849cae87308478fa331300dc0b725e7"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 89:6 \\ft Or \\fqa the sons of God \\ft or \\fqa the sons of might\\f*",
+          "raw_sha256": "37063f217ae219644fe0ac0ec3e585b7a18f1e8f4168cf3937bd405b2102e6dd"
+        }
+      ]
+    },
+    "90": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 90:4 \\ft See \\ref 2 Peter 3:8|2PE 3:8\\ref*.\\f*",
+          "raw_sha256": "3c269b6c082f32a49d157081003fb6b76abf36c4fb944578602744f1df8e9d8d"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 90:17 \\ft Or \\fqa beauty\\f*",
+          "raw_sha256": "6c8871ac06bf645a8ab5752f78d515d292cb59505480693fe556a09ab6c4e7a4"
+        }
+      ]
+    },
+    "91": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 91:1 \\ft Hebrew \\fqa Shaddai\\f*",
+          "raw_sha256": "360f4414f1d6b3b4fece0259f9ec1b85e8a5dadac993c516c2e76954ea968903"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 91:12 \\ft Cited in \\ref Matthew 4:6|MAT 4:6\\ref* and Luke 4:10–11\\f*",
+          "raw_sha256": "d4ef8cd1d106cd8dc3b38ca7d78885feb6c7f52e54f72a7e7406b01bce02c7b5"
+        }
+      ]
+    },
+    "92": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 92:11 \\ft Or \\fqa my ears hear evildoers when they rise against me\\f*",
+          "raw_sha256": "c737da8a30b1ae47ca42b0179d6bbdcf7eb1790896a509af2c0b07b4917e4355"
+        }
+      ]
+    },
+    "94": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 94:11 \\ft Cited in \\ref 1 Corinthians 3:20|1CO 3:20\\ref*\\f*",
+          "raw_sha256": "03d5470f50dd7b5459d036873c3bed74390bb48944cfe9eb43843572add9dac1"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 94:21 \\ft Or \\fqa condemn innocent blood\\f*",
+          "raw_sha256": "1cc1e46c0768fa0a5ff034f54e52b72ace04eba72803aa89259c38376da9aa1a"
+        }
+      ]
+    },
+    "95": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 95:8 \\ft LXX \\fqa as you did in the rebellion\\ft ; \\fqa Meribah \\ft means \\fqa quarreling\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*; cited in Hebrews 3:15 and Hebrews 4:7.\\f*",
+          "raw_sha256": "b2fea53fe0ae7286f51e029ceb1023d7a9094c9cd2a887eecfb56b8fbc6ffa1d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 95:8 \\ft LXX \\fqa in the day of testing in the wilderness\\ft ; \\fqa Massah \\ft means \\fqa testing\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*.\\f*",
+          "raw_sha256": "6e4a28dff2c64c763dbdbf57f01b809c96558a38712304fd9563aaa32aa3b22b"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 95:10 \\ft LXX \\fqa They always go astray in the heart\\f*",
+          "raw_sha256": "beac27f15403d5aba856991541db95fbcd49187956df46606878eefef507600c"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 95:11 \\ft Cited in \\ref Hebrews 3:7–11|HEB 3:7-11\\ref*, Hebrews 4:3, and Hebrews 4:5\\f*",
+          "raw_sha256": "a3d4c96fccfe4e241869ff0ead96b5a4deb575c6c26f63bc80ca3241c7464742"
+        }
+      ]
+    },
+    "97": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 97:11 \\ft One Hebrew manuscript, LXX, Syriac, and Vulgate; most Hebrew manuscripts \\fqa Light is sown\\f*",
+          "raw_sha256": "7bc27f667009b1245618a4540cd3de849d2861a00f3993bf1d2238e4e7df7e34"
+        }
+      ]
+    },
+    "99": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 99:3 \\ft Or \\fqa it is holy!\\f*",
+          "raw_sha256": "4639a86735478d1b16ed6b64a88f5ff08e60aebb1af78e06270337b4b52c93ea"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 99:4 \\ft Or \\fqa The might of the King loves justice.\\f*",
+          "raw_sha256": "1428364724eef93c906415605c9302ec93ba786bcb723a47e2c79ac14ab3157d"
+        }
+      ]
+    },
+    "100": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 100:3 \\ft Or \\fqa and not we ourselves\\f*",
+          "raw_sha256": "253af1c27b79d6e0e14b1432af2adbbb5fdb7f1ec6cae3c1d895bb16c8e0c692"
+        }
+      ]
+    },
+    "102": {
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 102:27 \\ft Cited in \\ref Hebrews 1:10–12|HEB 1:10-12\\ref*\\f*",
+          "raw_sha256": "40f0b175231e57f8784df385ca713f9d9113d24e7ed76062548aa5557a665868"
+        }
+      ]
+    },
+    "104": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 104:4 \\ft LXX \\fqa He makes His angels winds, His servants flames of fire.\\ft Cited in \\ref Hebrews 1:7|HEB 1:7\\ref*\\f*",
+          "raw_sha256": "c2992f63908dcb7c7a16478eaf66ad22ee40dc09e9526930fb1592c5ba8a0db5"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 104:17 \\ft Or \\fqa pines \\ft or \\fqa junipers \\ft or \\fqa firs\\f*",
+          "raw_sha256": "9e273ee5ff2565917eb32a8c97d04643b95142b43e8fdd12c64d2336f803d479"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 104:18 \\ft Or \\fqa the coneys \\ft or \\fqa the hyraxes\\f*",
+          "raw_sha256": "939fc7a713e7d504d8080f462c8750577c6ce084685c2f3e2184850e106fc30b"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 104:30 \\ft Or \\fqa breath\\f*",
+          "raw_sha256": "46cd4f104e978ca776fd1434e86a2f518ad475bdf3b9d4fa793393180dff6554"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 104:35 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\f*",
+          "raw_sha256": "c16b0edb1dc342f2ef36f930d87c9dd9e07231d774ccad6811d9bfea73049930"
+        }
+      ]
+    },
+    "105": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 105:16 \\ft Hebrew \\fqa staff\\f*",
+          "raw_sha256": "e0dffd86e40934a3a7cc0d9467232566d8c67d6d7b20ade58a7667eb3cf0cf73"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 105:22 \\ft LXX and Syriac; MT \\fqa to bind\\f*",
+          "raw_sha256": "43f722c7a9482daa8464464851ff468b00ea81ae264ef93e928b7d19bb352324"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 105:28 \\ft LXX and Syriac; Hebrew \\fqa for had they not defied His words?\\f*",
+          "raw_sha256": "50b01698facf0c79ff8a4bf1a46a7cf06d201df571b47bc8dbf1870188c4b152"
+        }
+      ],
+      "45": [
+        {
+          "source_usfm": "\\f + \\fr 105:45 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\f*",
+          "raw_sha256": "3b2ea317e21ce13a04d2a94059c07e883f4861efef9f197c9cc94746c44fe34f"
+        }
+      ]
+    },
+    "106": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 106:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verse 48\\f*",
+          "raw_sha256": "50c16c5fea0e52b9496b30d301cd628e552861297f6d9784d13312b802099c20"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 106:7 \\ft Or \\fqa the Sea of Reeds\\ft ; also in verses 9 and 22\\f*",
+          "raw_sha256": "e5b0351ed191268feb09ff0155ab25af1989e7a419832f4734277a7b936b7de1"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 106:19 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "fa040692426efc2a239fc55a6226e524144a2f3b1a1152c3478e6e6aa5382804"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 106:20 \\ft Or \\fqa their glorious God\\f*",
+          "raw_sha256": "58bf412b2459bdb80d2cca45b049cadd213630e6d2d5b9b9cbdcc647bcaea14c"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 106:27 \\ft Or \\fqa cast down \\ft or \\fqa cause to fall\\f*",
+          "raw_sha256": "b79d9fc896287c66f6712c22cea3c4251491215289e5927f0d5f6fa4b08979f7"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 106:32 \\fqa Meribah \\ft means \\fqa quarreling\\ft ; see \\ref Exodus 17:7|EXO 17:7\\ref*.\\f*",
+          "raw_sha256": "e9fb40ca90796fa5cf6cd7557e40782f1e82894afd3045dd2c369ddcd4ef4ff2"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 106:33 \\ft Or \\fqa they provoked His Spirit\\f*",
+          "raw_sha256": "4e55ca64bf2702538fa39181d2b0b9602c44bf6a98ab792fd567406b73ec1dd2"
+        }
+      ]
+    },
+    "107": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 107:3 \\ft Hebrew \\fqa north and the sea\\f*",
+          "raw_sha256": "34cdf58b1211929674c5d916bbd90b646a8ef12d95fe8264d4c2c5d9c8143879"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 107:27 \\ft Or \\fqa and all their wisdom was swallowed up \\ft or \\fqa and they were at their wits’ end\\f*",
+          "raw_sha256": "6618c1142d23efa80255090763a6341472744fcec67945fd60a01a9d679616c8"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 107:29 \\ft DSS; MT \\fqa their waves\\f*",
+          "raw_sha256": "2a55d38a84b228320bd255b910bf3ceb84e960a4799f62ed1e128f7602bba4f9"
+        }
+      ]
+    },
+    "108": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 108:1 \\ft Or \\fqa with my glory\\f*",
+          "raw_sha256": "16f88254133aede08e8d2b5b507561602ba4c4b2b2493593c4b9dddbaaa83891"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 108:7 \\ft Or \\fqa in His holiness\\f*",
+          "raw_sha256": "e7c17b5027ba0472e570656524281cb3aeff4e420b426d75f2b52495dedc7c9f"
+        }
+      ]
+    },
+    "109": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 109:8 \\ft Cited in \\ref Acts 1:20|ACT 1:20\\ref*\\f*",
+          "raw_sha256": "f76c52e2b360add7565ff46d0241e98030af562225831a494b41d75282e0f624"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 109:10 \\ft Hebrew; LXX \\fqa may they be driven\\f*",
+          "raw_sha256": "da18b627c900fba84daa590c59ce5c955ed54ea585c2381fd737b4e8f53962b6"
+        }
+      ]
+    },
+    "110": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 110:1 \\ft Cited in \\ref Matthew 22:44|MAT 22:44\\ref*, Mark 12:36, Luke 20:42–43, Acts 2:34–35, and Hebrews 1:13\\f*",
+          "raw_sha256": "b3cbfcac43ade93a119b8c7c78ef8efa8c0eb9308b4670a960a442fff2308b68"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 110:4 \\ft Cited in \\ref Hebrews 5:6|HEB 5:6\\ref*, Hebrews 7:17, and Hebrews 7:21\\f*",
+          "raw_sha256": "743fef1976750bcc3ec436f608cd4f06e8457d3bead7c64d1ce94a30ef1747f0"
+        }
+      ]
+    },
+    "111": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 111:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft . This psalm is an acrostic poem, each line beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "bd0e3568c14e4e341cd21c7131fe77536f70ebca339bb53c3a461017b8924228"
+        }
+      ]
+    },
+    "112": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 112:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft . This psalm is an acrostic poem, each line beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "5dcab861dd962854e209f5f82aaeba9cfa7f9b2aac2952e053d021f73c8354f8"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 112:9 \\ft Cited in \\ref 2 Corinthians 9:9|2CO 9:9\\ref*\\f*",
+          "raw_sha256": "872cc65a218b9ef89082fe358b0dca6c301dff558290bf2f31f182a9da62438a"
+        }
+      ]
+    },
+    "113": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 113:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verse 9\\f*",
+          "raw_sha256": "76670a91dacad1fc7afa477ae1852d7ac287d03e3e2d37b6650b4ce0f0364b97"
+        }
+      ]
+    },
+    "115": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 115:7 \\ft Literally \\fqa they cannot utter with their throat\\f*",
+          "raw_sha256": "34b9d3b41b830a2ca19baee88a316080afe910870aa2f5024e98da9f56d8e381"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 115:9 \\ft MT; many Hebrew manuscripts, LXX, and Syriac \\fqa O house of Israel\\f*",
+          "raw_sha256": "c71a6ae15cf562f7c2939b286fa6594741207d8ccc2603d34aa0184d636f5484"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 115:18 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\f*",
+          "raw_sha256": "3c6c0c941079babcc95f77b0cfd4270f39286fac33ce01306f4b3b6697f2dd74"
+        }
+      ]
+    },
+    "116": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 116:10 \\ft LXX \\fqa therefore I have spoken\\ft ; cited in \\ref 2 Corinthians 4:13|2CO 4:13\\ref*\\f*",
+          "raw_sha256": "ae0ed79f75605661daa6073ac0c88a7cf1b66d6bb8e4f14cff198c49e5524d9a"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 116:19 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\f*",
+          "raw_sha256": "cdcbfc3dc57d616186e89837f3a2337ba23291ba4fc6b4e2622aa15a5bfb3623"
+        }
+      ]
+    },
+    "117": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 117:1 \\ft Cited in \\ref Romans 15:11|ROM 15:11\\ref*\\f*",
+          "raw_sha256": "d918aa444a3471e540a22e9fd2be713072c72fc6072a3586d81af34a372eb6d1"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 117:2 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\f*",
+          "raw_sha256": "b4033f9ca0c1aff0781f27d20e19db1029dcb1423f9d9949231876ed72838f25"
+        }
+      ]
+    },
+    "118": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 118:2 \\ft LXX \\fqa the house of Israel\\f*",
+          "raw_sha256": "2903e2a809cefdca87f5e4188b7f6cbe24ec28479ffdaf24e20c600df30b31b2"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 118:6 \\ft Or \\fqa The LORD is with me\\ft ; also in verse 7; LXX \\fqa The Lord is my helper\\f*",
+          "raw_sha256": "9ab41da409b087f9cfa82892d1b24a69d664b3f6b997ed946ba8b55b60cb424a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 118:6 \\ft Cited in \\ref Hebrews 13:6|HEB 13:6\\ref*\\f*",
+          "raw_sha256": "d17cf926369db10b8a3f18be41eddd8fd0576724bb18c1515526a50d664a8fff"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 118:22 \\ft Hebrew \\fqa the head of the corner\\ft ; cited in \\ref Matthew 21:42|MAT 21:42\\ref*, Mark 12:10, Luke 20:17, Acts 4:11, and 1 Peter 2:7\\f*",
+          "raw_sha256": "2686fb36e8c3ec103247d6d554b3da461c8b83385075b1397b19411f97125d3d"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 118:23 \\ft Cited in \\ref Matthew 21:42|MAT 21:42\\ref* and Mark 12:11\\f*",
+          "raw_sha256": "57236e171e117b49d237f17fdb08647a9966393c0b27dbe9251db57ff904a85d"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 118:25 \\ft Hebrew \\fqa hosia-na\\ft , meaning \\fqa save, we pray \\ft or \\fqa save now\\ft ; see \\ref Matthew 21:9|MAT 21:9\\ref*, Matthew 21:15, Mark 11:9, and John 12:13.\\f*",
+          "raw_sha256": "45666278f748e65d91f992df5b4a40cfa44afaa60c761d57ff613dc81355aa68"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 118:26 \\ft Cited in \\ref Matthew 21:9|MAT 21:9\\ref*, Matthew 23:39, Mark 11:9, Luke 13:35, Luke 19:38, and John 12:13\\f*",
+          "raw_sha256": "f80dd8304b47a7267ee480519c79affc3f4a8f1dbe8b08d72307557caf79b2e3"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 118:27 \\ft Or \\fqa Join in the festal procession with boughs in hand, up to the horns of the altar.\\f*",
+          "raw_sha256": "2569930cb46fcaddd372507370d0d45a28a48aba117059402203394b86b1a3f4"
+        }
+      ]
+    },
+    "119": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 119:1 \\ft This psalm is an acrostic poem of twenty-two stanzas, following the letters of the Hebrew alphabet; within a stanza, each verse begins with the same Hebrew letter.\\f*",
+          "raw_sha256": "d7c514aebd8e4d2427df8b947db2b4825cc22820fa77b26f9bcd9e7416227835"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 119:33 \\ft Or \\fqa keep them as my reward\\f*",
+          "raw_sha256": "1117f31c718440bd5d6321508415759c3ac0ddc7437d8b5a4b2f6c64ee8d0eaa"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 119:37 \\ft Two MT manuscripts and DSS; most MT manuscripts \\fqa in Your way\\f*",
+          "raw_sha256": "bcf6085ced0324980561e3741a3d08bacd71ad8a2a4dc7d4be94db56d67c6c37"
+        }
+      ],
+      "70": [
+        {
+          "source_usfm": "\\f + \\fr 119:70 \\ft Or \\fqa fat\\f*",
+          "raw_sha256": "6d7694cb1c5e2a94f03616912180447961ad7713682bec18d3ec9fa2da1936fb"
+        }
+      ],
+      "84": [
+        {
+          "source_usfm": "\\f + \\fr 119:84 \\ft Or \\fqa How many are the days of Your servant?\\f*",
+          "raw_sha256": "b511ce4914123110c7d1808bd9b67265bd542f68307dfe6d3cb655316e32e284"
+        }
+      ],
+      "91": [
+        {
+          "source_usfm": "\\f + \\fr 119:91 \\ft Or \\fqa They stand this day according to Your ordinances\\f*",
+          "raw_sha256": "02ff05ee5003b5713ddaca3d87d551943a2273dc327273e5472acb31780a90fa"
+        }
+      ]
+    },
+    "122": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 122:6 \\ft Or \\fqa be secure\\f*",
+          "raw_sha256": "2e57337057fde96e572a9e078c8345b8c71a0ef1b62e20884d9d1b673f71955e"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 122:7 \\ft Or \\fqa security\\f*",
+          "raw_sha256": "aeb0b28a22129588ea0218e2d85170bca1842e85f5b7073f663f3ff4939ece17"
+        }
+      ]
+    },
+    "126": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 126:1 \\ft Or \\fqa brought back the captives to Zion \\ft or \\fqa restored the fortunes of Zion \\ft \\f*",
+          "raw_sha256": "95647532fe156713788ec1eee9f545cbf7297ae67631f0d12dc980f32a81a486"
+        },
+        {
+          "source_usfm": "\\f + \\fr 126:1 \\ft Or \\fqa like those restored to health\\f*",
+          "raw_sha256": "44e68affb6975a154130bebce610200439bfaea1cd09f9716bc9f86e1622fa70"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 126:4 \\ft Or \\fqa Restore our fortunes\\f*",
+          "raw_sha256": "8184ad4b99ddde10bbbcb8951b188d4f1798491c6d8146d392d74e4140558e9e"
+        }
+      ]
+    },
+    "132": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 132:5 \\ft LXX \\fqa for the God of Jacob\\ft ; see \\ref Acts 7:46|ACT 7:46\\ref*.\\f*",
+          "raw_sha256": "d7d310bce02831af3beb1f02746954d75a45e212e9aaf22f6e828453d8303257"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 132:6 \\ft Literally \\fqa Behold, we heard of it in Ephrathah\\f*",
+          "raw_sha256": "d9a307286f6998f00243c376b12f4465a7c4011c45febb5024722dd3dc471af2"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 132:11 \\ft Literally \\fqa “From the fruit of your body I will set (one) on your throne.\\ft Cited in \\ref Acts 2:30|ACT 2:30\\ref*\\f*",
+          "raw_sha256": "ab62e7258f6792e17b1a5b1ac455f7e83bcf5a60b6ce28f44d603269bd6e19fd"
+        }
+      ]
+    },
+    "135": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 135:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verses 3 and 21\\f*",
+          "raw_sha256": "924a378c806ccee43e6fdbef1bd77a6bcd250d39b793f0354a825585bc57bc42"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 135:14 \\ft Or \\fqa will judge His people\\ft ; see also LXX; cited in \\ref Hebrews 10:30|HEB 10:30\\ref*.\\f*",
+          "raw_sha256": "b18a0de0b04b329e390ce6e4a5b8d2ce30d168567a459cb5304c8a719d95d7e8"
+        }
+      ]
+    },
+    "136": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 136:13 \\ft Or \\fqa the Sea of Reeds\\ft ; also in verse 15\\f*",
+          "raw_sha256": "b8fdd908fc9577ab74ef6fdaef4c1372b44903e52072ee2a32c199872a13e377"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 136:15 \\ft Hebrew \\fqa shook off\\f*",
+          "raw_sha256": "5c6a4007481cffc2f666753275c57313d4b33b7bdac3c6e8aebb98706b32b964"
+        }
+      ]
+    },
+    "137": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 137:2 \\ft Or \\fqa poplars\\f*",
+          "raw_sha256": "f9afb3fcb22761b1f5e135d2948884ea1445a7763e5d1beefd8633eaed5fdd38"
+        }
+      ]
+    },
+    "138": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 138:3 \\ft Or \\fqa You emboldened me with strength in my soul\\f*",
+          "raw_sha256": "30fff4f32b3cfba55c9728c75d4840d3537e7a88d9540c86b1c2f1df2088ef42"
+        }
+      ]
+    },
+    "139": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 139:13 \\ft Hebrew \\fqa my kidneys\\f*",
+          "raw_sha256": "862ffb6aa2212a0d7cdc2bcc578b0f2f89cedd1d047d3d6ba7cb143ae211c6a7"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 139:17 \\ft Or \\fqa How amazing are Your thoughts concerning me\\f*",
+          "raw_sha256": "5ae29b46e2480aa4fdfca449f6be651570f4ed082a216d8f60d1edf80ad6fcbe"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 139:20 \\ft Hebrew \\fqa Your enemies take in vain \\ft or \\fqa Your enemies bear up in vain\\ft ; LXX \\fqa Your enemies take Your cities in vain\\f*",
+          "raw_sha256": "d98d12c82a6bcc9c3e90b1179890620d295ce2d74a491a233f869dceeb35bd41"
+        }
+      ]
+    },
+    "140": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 140:3 \\ft Cited in \\ref Romans 3:13|ROM 3:13\\ref*\\f*",
+          "raw_sha256": "d72b44ca68310adecee151e435a1e7cbd704413837a1ddcac26db84ade72fc56"
+        }
+      ]
+    },
+    "141": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 141:8 \\ft Or \\fqa do not pour out my life \\ft or \\fqa do not give me over to death\\f*",
+          "raw_sha256": "450482aebf554a985efd90fdc8b1284286672d5bb221056602756dd31ba99b2f"
+        }
+      ]
+    },
+    "142": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 142:1 \\fqa Maskil \\ft is probably a musical or liturgical term; used for Psalms 32, 42, 44–45, 52–55, 74, 78, 88–89, and 142.\\f*",
+          "raw_sha256": "a4ba5596b633ad497f46a0b3e132d6272cf00e2b211904aeccca2fd1ae3f30c3"
+        }
+      ]
+    },
+    "143": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 143:9 \\ft LXX and one Hebrew manuscript; most Hebrew manuscripts \\fqa in You I take cover\\f*",
+          "raw_sha256": "285231ada7095589092d8b0d1303354e84a6957a229f535b28f7cfbee476a45b"
+        }
+      ]
+    },
+    "144": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 144:2 \\ft Many Hebrew manuscripts, DSS, Syriac; most Hebrew manuscripts \\fqa subdues my people\\f*",
+          "raw_sha256": "2751111cf2ada227bdf4f082a435e6ff493aa59f1d544806d653f3ff0b8f2972"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 144:14 \\ft Or \\fqa Our chieftains will be firmly established\\f*",
+          "raw_sha256": "b99fbc724bf06a44542c742ab866e054b1859754230b6b1b52b117948e0b7dcb"
+        }
+      ]
+    },
+    "145": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 145:1 \\ft This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet.\\f*",
+          "raw_sha256": "d31f680612994c42e708414e98cb3ab9966b00e35d1297107b1dcf81dbd39c9a"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 145:13 \\ft The final two lines are supplied by one MT manuscript, LXX, Syriac, and DSS.\\f*",
+          "raw_sha256": "a9cc4f494b60c5207d8029e895a08b45cf78bc9fa38845f9020739e388e7ab9c"
+        }
+      ]
+    },
+    "146": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 146:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verse 10\\f*",
+          "raw_sha256": "a1df99a1a2bab3944cc42de8a07bdf4fa00f0278b1fdfca16855d6c2e5ce51b9"
+        }
+      ]
+    },
+    "147": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 147:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verse 20\\f*",
+          "raw_sha256": "d7b9704b4c54339f4d6ab8b5f49c270e77fab63cd8412f8186861917f8d693a2"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 147:17 \\ft Or \\fqa like crumbs \\ft or \\fqa like morsels\\f*",
+          "raw_sha256": "fa2d9c03c26669b7c8a1548ccffdc752628ec506293810b269a8340f308ec99d"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 147:20 \\ft MT; DSS and LXX \\fqa He has not made known to them His judgments\\f*",
+          "raw_sha256": "d6695d76e35f8b920a029926483cd98504163fce24d81d3ec13d73f3feb2276f"
+        }
+      ]
+    },
+    "148": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 148:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verse 14\\f*",
+          "raw_sha256": "891d73380a4d1363cd50b6bc5b541f9b3d31548e8923f07c77e1c6c3b61238ce"
+        },
+        {
+          "source_usfm": "\\f + \\fr 148:1 \\ft See \\ref Matthew 21:9|MAT 21:9\\ref*, Mark 11:10, and Luke 19:38.\\f*",
+          "raw_sha256": "b09613ad460c47f15baa7bbd0a6d7589311d5e878f1e1419c766c1c951e7695c"
+        }
+      ]
+    },
+    "149": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 149:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verse 9\\f*",
+          "raw_sha256": "95f1b15f872a5145222c2da3e4823881948ebf4fa3a0d609896c854fbda4bd92"
+        }
+      ]
+    },
+    "150": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 150:1 \\ft Or \\fqa Hallelu YAH\\ft , meaning \\fqa Praise the LORD\\ft ; also in verse 6\\f*",
+          "raw_sha256": "775479020b81ac33403fcc9c1e57e59e229c63306df8c3fccb53dd4cba331e3c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 150:1 \\ft Or \\fqa in the expanse of His might \\ft or \\fqa in the firmament of His might\\ft ; see also \\ref Genesis 1:6–8|GEN 1:6-8\\ref*.\\f*",
+          "raw_sha256": "d909ad1ed742887da2c2d3603132c69af5d8ac72f6d529738654dd4601c38766"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

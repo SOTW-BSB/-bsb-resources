@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 70,
+  "verses": [
+    {
+      "id": "PSA.70.1",
+      "edition_verse_id": "BSB:PSA.70.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. Of David. To bring remembrance. Make haste, O God, to deliver me! Hurry, O LORD, to help me!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.70.2",
+      "edition_verse_id": "BSB:PSA.70.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "May those who seek my life be ashamed and confounded; may those who wish me harm be repelled and humiliated.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.70.3",
+      "edition_verse_id": "BSB:PSA.70.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "May those who say, “Aha, aha!” retreat because of their shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.70.4",
+      "edition_verse_id": "BSB:PSA.70.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “Let God be magnified!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.70.5",
+      "edition_verse_id": "BSB:PSA.70.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But I am poor and needy; hurry to me, O God. You are my help and my deliverer; O LORD, do not delay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

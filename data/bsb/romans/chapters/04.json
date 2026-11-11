@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "ROM.4.1",
+      "edition_verse_id": "BSB:ROM.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "What then shall we say that Abraham, our forefather according to the flesh, has discovered?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.2",
+      "edition_verse_id": "BSB:ROM.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If Abraham was indeed justified by works, he had something to boast about, but not before God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.3",
+      "edition_verse_id": "BSB:ROM.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For what does the Scripture say? “Abraham believed God, and it was credited to him as righteousness.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.4",
+      "edition_verse_id": "BSB:ROM.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now the wages of the worker are not credited as a gift, but as an obligation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.5",
+      "edition_verse_id": "BSB:ROM.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "However, to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.6",
+      "edition_verse_id": "BSB:ROM.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And David speaks likewise of the blessedness of the man to whom God credits righteousness apart from works:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.7",
+      "edition_verse_id": "BSB:ROM.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Blessed are they whose lawless acts are forgiven, whose sins are covered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.8",
+      "edition_verse_id": "BSB:ROM.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Blessed is the man whose sin the Lord will never count against him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.9",
+      "edition_verse_id": "BSB:ROM.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Is this blessing only on the circumcised, or also on the uncircumcised? We have been saying that Abraham’s faith was credited to him as righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.10",
+      "edition_verse_id": "BSB:ROM.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In what context was it credited? Was it after his circumcision, or before? It was not after, but before.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.11",
+      "edition_verse_id": "BSB:ROM.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And he received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised. So then, he is the father of all who believe but are not circumcised, in order that righteousness might be credited to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.12",
+      "edition_verse_id": "BSB:ROM.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And he is also the father of the circumcised who not only are circumcised, but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.13",
+      "edition_verse_id": "BSB:ROM.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For the promise to Abraham and his offspring that he would be heir of the world was not given through the law, but through the righteousness that comes by faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.14",
+      "edition_verse_id": "BSB:ROM.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For if those who live by the law are heirs, faith is useless and the promise is worthless,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.15",
+      "edition_verse_id": "BSB:ROM.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "because the law brings wrath. And where there is no law, there is no transgression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.16",
+      "edition_verse_id": "BSB:ROM.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore, the promise comes by faith, so that it may rest on grace and may be guaranteed to all Abraham’s offspring — not only to those who are of the law, but also to those who are of the faith of Abraham. He is the father of us all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.17",
+      "edition_verse_id": "BSB:ROM.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "As it is written: “I have made you a father of many nations.” He is our father in the presence of God, in whom he believed, the God who gives life to the dead and calls into being what does not yet exist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.18",
+      "edition_verse_id": "BSB:ROM.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.19",
+      "edition_verse_id": "BSB:ROM.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.20",
+      "edition_verse_id": "BSB:ROM.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.21",
+      "edition_verse_id": "BSB:ROM.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "being fully persuaded that God was able to do what He had promised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.22",
+      "edition_verse_id": "BSB:ROM.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "This is why “it was credited to him as righteousness.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.23",
+      "edition_verse_id": "BSB:ROM.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Now the words “it was credited to him” were written not only for Abraham,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.4.24",
+      "edition_verse_id": "BSB:ROM.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "but also for us, to whom righteousness will be credited— for us who believe in Him who raised Jesus our Lord from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.4.25",
+      "edition_verse_id": "BSB:ROM.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He was delivered over to death for our trespasses and was raised to life for our justification.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

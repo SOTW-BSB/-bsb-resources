@@ -1,0 +1,31 @@
+{
+  "edition_id": "BSB",
+  "book_code": "RUT",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Naomi Becomes a Widow",
+        "\\s1 Ruth’s Loyalty to Naomi",
+        "\\s1 The Return to Bethlehem"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Boaz Meets Ruth"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Ruth’s Redemption Assured"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Boaz Redeems Ruth",
+        "\\s1 Boaz Marries Ruth",
+        "\\s1 The Line of David"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

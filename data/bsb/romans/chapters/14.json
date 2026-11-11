@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "ROM.14.1",
+      "edition_verse_id": "BSB:ROM.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Accept him whose faith is weak, without passing judgment on his opinions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.2",
+      "edition_verse_id": "BSB:ROM.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For one person has faith to eat all things, while another, who is weak, eats only vegetables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.3",
+      "edition_verse_id": "BSB:ROM.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The one who eats everything must not belittle the one who does not, and the one who does not eat everything must not judge the one who does, for God has accepted him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.4",
+      "edition_verse_id": "BSB:ROM.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who are you to judge someone else’s servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.5",
+      "edition_verse_id": "BSB:ROM.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "One person regards a certain day above the others, while someone else considers every day alike. Each one should be fully convinced in his own mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.6",
+      "edition_verse_id": "BSB:ROM.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He who observes a special day does so to the Lord; he who eats does so to the Lord, for he gives thanks to God; and he who abstains does so to the Lord and gives thanks to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.7",
+      "edition_verse_id": "BSB:ROM.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For none of us lives to himself alone, and none of us dies to himself alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.8",
+      "edition_verse_id": "BSB:ROM.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If we live, we live to the Lord, and if we die, we die to the Lord. So whether we live or die, we belong to the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.9",
+      "edition_verse_id": "BSB:ROM.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For this reason Christ died and returned to life, that He might be the Lord of both the dead and the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.10",
+      "edition_verse_id": "BSB:ROM.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Why, then, do you judge your brother? Or why do you belittle your brother? For we will all stand before God’s judgment seat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.11",
+      "edition_verse_id": "BSB:ROM.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "It is written: “As surely as I live, says the Lord, every knee will bow before Me; every tongue will confess to God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.12",
+      "edition_verse_id": "BSB:ROM.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So then, each of us will give an account of himself to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.13",
+      "edition_verse_id": "BSB:ROM.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore let us stop judging one another. Instead, make up your mind not to put any stumbling block or obstacle in your brother’s way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.14",
+      "edition_verse_id": "BSB:ROM.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I am convinced and fully persuaded in the Lord Jesus that nothing is unclean in itself. But if anyone regards something as unclean, then for him it is unclean.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.15",
+      "edition_verse_id": "BSB:ROM.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If your brother is distressed by what you eat, you are no longer acting in love. Do not by your eating destroy your brother, for whom Christ died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.16",
+      "edition_verse_id": "BSB:ROM.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Do not allow what you consider good, then, to be spoken of as evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.17",
+      "edition_verse_id": "BSB:ROM.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace, and joy in the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.18",
+      "edition_verse_id": "BSB:ROM.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For whoever serves Christ in this way is pleasing to God and approved by men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.19",
+      "edition_verse_id": "BSB:ROM.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So then, let us pursue what leads to peace and to mutual edification.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.20",
+      "edition_verse_id": "BSB:ROM.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a man to let his eating be a stumbling block.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.21",
+      "edition_verse_id": "BSB:ROM.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "It is better not to eat meat or drink wine or to do anything to cause your brother to stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.14.22",
+      "edition_verse_id": "BSB:ROM.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Keep your belief about such matters between yourself and God. Blessed is the one who does not condemn himself by what he approves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.14.23",
+      "edition_verse_id": "BSB:ROM.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But the one who has doubts is condemned if he eats, because his eating is not from faith; and everything that is not from faith is sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

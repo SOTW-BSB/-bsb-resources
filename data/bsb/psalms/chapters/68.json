@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 68,
+  "verses": [
+    {
+      "id": "PSA.68.1",
+      "edition_verse_id": "BSB:PSA.68.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A Psalm of David. A song. God arises. His enemies are scattered, and those who hate Him flee His presence.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.68.2",
+      "edition_verse_id": "BSB:PSA.68.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As smoke is blown away, You will drive them out; as wax melts before the fire, the wicked will perish in the presence of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.3",
+      "edition_verse_id": "BSB:PSA.68.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But the righteous will be glad and rejoice before God; they will celebrate with joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.4",
+      "edition_verse_id": "BSB:PSA.68.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Sing to God! Sing praises to His name. Exalt Him who rides on the clouds— His name is the LORD— and rejoice before Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.5",
+      "edition_verse_id": "BSB:PSA.68.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "A father of the fatherless and a defender of widows is God in His holy habitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.6",
+      "edition_verse_id": "BSB:PSA.68.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "God settles the lonely in families; He leads the prisoners out to prosperity, but the rebellious dwell in a sun-scorched land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.7",
+      "edition_verse_id": "BSB:PSA.68.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "O God, when You went out before Your people, when You marched through the wasteland, Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.8",
+      "edition_verse_id": "BSB:PSA.68.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "the earth shook and the heavens poured down rain before God, the One on Sinai, before God, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.9",
+      "edition_verse_id": "BSB:PSA.68.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You sent abundant rain, O God; You refreshed Your weary inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.10",
+      "edition_verse_id": "BSB:PSA.68.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Your flock settled therein; O God, from Your bounty You provided for the poor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.11",
+      "edition_verse_id": "BSB:PSA.68.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The Lord gives the command; a great company of women proclaim it:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.12",
+      "edition_verse_id": "BSB:PSA.68.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Kings and their armies flee in haste; she who waits at home divides the plunder.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.13",
+      "edition_verse_id": "BSB:PSA.68.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Though you lie down among the sheepfolds, the wings of the dove are covered with silver, and her feathers with shimmering gold.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.14",
+      "edition_verse_id": "BSB:PSA.68.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When the Almighty scattered the kings in the land, it was like the snow falling on Zalmon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.15",
+      "edition_verse_id": "BSB:PSA.68.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "A mountain of God is Mount Bashan; a mountain of many peaks is Mount Bashan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.16",
+      "edition_verse_id": "BSB:PSA.68.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Why do you gaze in envy, O mountains of many peaks? This is the mountain God chose for His dwelling, where the LORD will surely dwell forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.17",
+      "edition_verse_id": "BSB:PSA.68.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The chariots of God are tens of thousands — thousands of thousands are they; the Lord is in His sanctuary as He was at Sinai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.18",
+      "edition_verse_id": "BSB:PSA.68.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "You have ascended on high; You have led captives away. You have received gifts from men, even from the rebellious, that the LORD God may dwell there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.19",
+      "edition_verse_id": "BSB:PSA.68.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Blessed be the Lord, who daily bears our burden, the God of our salvation. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.20",
+      "edition_verse_id": "BSB:PSA.68.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Our God is a God of deliverance; the Lord GOD is our rescuer from death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.21",
+      "edition_verse_id": "BSB:PSA.68.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Surely God will crush the heads of His enemies, the hairy crowns of those who persist in guilty ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.22",
+      "edition_verse_id": "BSB:PSA.68.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The Lord said, “I will retrieve them from Bashan, I will bring them up from the depths of the sea,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.23",
+      "edition_verse_id": "BSB:PSA.68.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "that your foot may be dipped in the blood of your foes— the tongues of your dogs in the same.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.24",
+      "edition_verse_id": "BSB:PSA.68.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "They have seen Your procession, O God — the march of my God and King into the sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.25",
+      "edition_verse_id": "BSB:PSA.68.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The singers lead the way, the musicians follow after, among the maidens playing tambourines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.26",
+      "edition_verse_id": "BSB:PSA.68.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Bless God in the great congregation; bless the LORD from the fountain of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.27",
+      "edition_verse_id": "BSB:PSA.68.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "There is Benjamin, the youngest, ruling them, the princes of Judah in their company, the princes of Zebulun and of Naphtali.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.28",
+      "edition_verse_id": "BSB:PSA.68.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Summon Your power, O God; show Your strength, O God, which You have exerted on our behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.29",
+      "edition_verse_id": "BSB:PSA.68.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Because of Your temple at Jerusalem kings will bring You gifts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.30",
+      "edition_verse_id": "BSB:PSA.68.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Rebuke the beast in the reeds, the herd of bulls among the calves of the nations, until it submits, bringing bars of silver. Scatter the nations who delight in war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.31",
+      "edition_verse_id": "BSB:PSA.68.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Envoys will arrive from Egypt; Cush will stretch out her hands to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.32",
+      "edition_verse_id": "BSB:PSA.68.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Sing to God, O kingdoms of the earth; sing praises to the Lord— Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.33",
+      "edition_verse_id": "BSB:PSA.68.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "to Him who rides upon the highest heavens of old; behold, His mighty voice resounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.34",
+      "edition_verse_id": "BSB:PSA.68.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Ascribe the power to God, whose majesty is over Israel, whose strength is in the skies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.68.35",
+      "edition_verse_id": "BSB:PSA.68.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "O God, You are awesome in Your sanctuary; the God of Israel Himself gives strength and power to His people. Blessed be God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

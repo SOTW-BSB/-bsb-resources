@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "REV.13.1",
+      "edition_verse_id": "BSB:REV.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.2",
+      "edition_verse_id": "BSB:REV.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The beast I saw was like a leopard, with the feet of a bear and the mouth of a lion. And the dragon gave the beast his power and his throne and great authority.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.3",
+      "edition_verse_id": "BSB:REV.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "One of the heads of the beast appeared to have been mortally wounded. But the mortal wound was healed, and the whole world marveled and followed the beast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.4",
+      "edition_verse_id": "BSB:REV.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They worshiped the dragon who had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.5",
+      "edition_verse_id": "BSB:REV.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.6",
+      "edition_verse_id": "BSB:REV.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle — those who dwell in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.7",
+      "edition_verse_id": "BSB:REV.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.8",
+      "edition_verse_id": "BSB:REV.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And all who dwell on the earth will worship the beast — all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.9",
+      "edition_verse_id": "BSB:REV.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He who has an ear, let him hear:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.10",
+      "edition_verse_id": "BSB:REV.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“If anyone is destined for captivity, into captivity he will go; if anyone is to die by the sword, by the sword he must be killed.” Here is a call for the perseverance and faith of the saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.11",
+      "edition_verse_id": "BSB:REV.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then I saw another beast rising out of the earth. This beast had two horns like a lamb, but spoke like a dragon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.12",
+      "edition_verse_id": "BSB:REV.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And this beast exercised all the authority of the first beast and caused the earth and those who dwell in it to worship the first beast, whose mortal wound had been healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.13",
+      "edition_verse_id": "BSB:REV.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the second beast performed great signs, even causing fire from heaven to come down to earth in the presence of the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.14",
+      "edition_verse_id": "BSB:REV.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Because of the signs it was given to perform on behalf of the first beast, it deceived those who dwell on the earth, telling them to make an image to the beast that had been wounded by the sword and yet had lived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.15",
+      "edition_verse_id": "BSB:REV.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The second beast was permitted to give breath to the image of the first beast, so that the image could speak and cause all who refused to worship it to be killed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.16",
+      "edition_verse_id": "BSB:REV.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And the second beast required all people, small and great, rich and poor, free and slave, to receive a mark on their right hand or on their forehead,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.13.17",
+      "edition_verse_id": "BSB:REV.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "so that no one could buy or sell unless he had the mark — the name of the beast or the number of its name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.13.18",
+      "edition_verse_id": "BSB:REV.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man, and that number is 666.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "edition_id": "BSB",
+  "book_code": "RUT",
+  "chapters": {
+    "1": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "12239b69f00f800afb1af8e8cfa28065bd6457852cd9d7e086b67b5238b0c472"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 1:20 \\fqa Naomi \\ft means \\fqa pleasant\\ft .\\f*",
+          "raw_sha256": "fc5595448c3d0179ec41c5a40ab13bc479161843595b3b1eca86c47ef8e6c558"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:20 \\fqa Mara \\ft means \\fqa bitter\\ft .\\f*",
+          "raw_sha256": "b20bd795e23d295dcc5e1de93a6ff06b8b891cac5234e6a6972aeb7d2e9e941c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:20 \\ft Hebrew \\fqa Shaddai\\ft ; also in verse 21\\f*",
+          "raw_sha256": "20c314f18d7a3a1d2bcfe35ebfd423d799afc2f8fb0a1e3246bce891cc6985f3"
+        }
+      ]
+    },
+    "2": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\fqa An ephah \\ft is approximately 20 dry quarts or 22 liters (probably about 29 pounds or 13.2 kilograms of barley).\\f*",
+          "raw_sha256": "703e01e207559d18500a7c237115c201c9617ad64f620695ea65fc6b4a1f283c"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 2:20 \\ft The Hebrew word for \\fqa kinsman-redeemer \\ft or \\fqa guardian-redeemer\\ft is a legal term for the kinsman who redeems or vindicates a relative; see \\ref Leviticus 25:25–55|LEV 25:25-55\\ref*.\\f*",
+          "raw_sha256": "fa0f4b9ddc42b605f3b30d5c6947914595a98977a640507a1b4f4e3c40c720e7"
+        }
+      ]
+    },
+    "3": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\ft Or \\fqa Spread your wing\\ft ; the word for \\fqa wing \\ft can also mean \\fqa corner of a garment\\ft ; see \\ref Ruth 2:12|RUT 2:12\\ref*.\\f*",
+          "raw_sha256": "5674598af48b6673b74b64da945ceb4ab03a89e37bd6555f57d0ae9a37a06cbf"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\ft The Hebrew word for \\fqa kinsman-redeemer \\ft or \\fqa guardian-redeemer\\ft is a legal term for the kinsman who redeems or vindicates a relative; similarly in verses 12 and 13; see \\ref Leviticus 25:25–55|LEV 25:25-55\\ref*.\\f*",
+          "raw_sha256": "019890665f1f79463c3c125fbd10b0846151e3c85393e11e788397a39cbf9d5e"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft That is, more closely related\\f*",
+          "raw_sha256": "c67a42fabe41597620c886575727103d6dc45ee7804473ea0aa12142b52f4dcb"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\ft Possibly six seahs (two ephahs), or approximately 39.6 dry quarts or 43.8 liters (about 58 pounds or 26.3 kilograms of barley) \\f*",
+          "raw_sha256": "8a6f46f454e3fb9c7dad4b189d652936c23dacf5f1389d58d8059a0bde8fc70c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\ft Most Hebrew manuscripts; many Hebrew manuscripts, Vulgate, and Syriac \\fqa she went\\f*",
+          "raw_sha256": "fd023c12e50e4651ad720ee20057feae7939680be1848d600bb7ab1ba1ab3659"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 4:1 \\ft The Hebrew word for \\fqa kinsman-redeemer \\ft or \\fqa guardian-redeemer\\ft is a legal term for the kinsman who redeems or vindicates a relative; also in verses 3, 6, 8, and 14; see \\ref Leviticus 25:25–55|LEV 25:25-55\\ref*.\\f*",
+          "raw_sha256": "32eb5c95507980d4e8b94ac3a35383868b155638ebe3e02f2b8ddf47b0d10c80"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 4:4 \\ft Many Hebrew manuscripts, LXX, Vulgate, and Syriac; most Hebrew manuscripts \\fqa he\\f*",
+          "raw_sha256": "975f37bcc5ac7086876a5504b72a601f9b872a6d35b72a34e9429978fb111011"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 4:20 \\ft A few Hebrew manuscripts, some LXX manuscripts, and Vulgate (see also verse 21 and LXX of \\ref 1 Chronicles 2:11|1CH 2:11\\ref*); most Hebrew manuscripts \\fqa Salma\\f*",
+          "raw_sha256": "683200f89b1e1608143d44c4b5dca9dc412aa4ed6c001ceb5f3e529814511cc2"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

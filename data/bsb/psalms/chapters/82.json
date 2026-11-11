@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 82,
+  "verses": [
+    {
+      "id": "PSA.82.1",
+      "edition_verse_id": "BSB:PSA.82.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm of Asaph. God presides in the divine assembly; He renders judgment among the gods:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.82.2",
+      "edition_verse_id": "BSB:PSA.82.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“How long will you judge unjustly and show partiality to the wicked? Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.3",
+      "edition_verse_id": "BSB:PSA.82.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Defend the cause of the weak and fatherless; uphold the rights of the afflicted and oppressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.4",
+      "edition_verse_id": "BSB:PSA.82.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Rescue the weak and needy; save them from the hand of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.5",
+      "edition_verse_id": "BSB:PSA.82.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "They do not know or understand; they wander in the darkness; all the foundations of the earth are shaken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.6",
+      "edition_verse_id": "BSB:PSA.82.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I have said, ‘You are gods; you are all sons of the Most High.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.7",
+      "edition_verse_id": "BSB:PSA.82.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But like mortals you will die, and like rulers you will fall.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.82.8",
+      "edition_verse_id": "BSB:PSA.82.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Arise, O God, judge the earth, for all the nations are Your inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

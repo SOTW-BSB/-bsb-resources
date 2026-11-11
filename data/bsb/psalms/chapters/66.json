@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 66,
+  "verses": [
+    {
+      "id": "PSA.66.1",
+      "edition_verse_id": "BSB:PSA.66.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. A song. A Psalm. Make a joyful noise to God, all the earth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.66.2",
+      "edition_verse_id": "BSB:PSA.66.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sing the glory of His name; make His praise glorious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.3",
+      "edition_verse_id": "BSB:PSA.66.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Say to God, “How awesome are Your deeds! So great is Your power that Your enemies cower before You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.4",
+      "edition_verse_id": "BSB:PSA.66.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "All the earth bows down to You; they sing praise to You; they sing praise to Your name.” Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.5",
+      "edition_verse_id": "BSB:PSA.66.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Come and see the works of God; how awesome are His deeds toward mankind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.6",
+      "edition_verse_id": "BSB:PSA.66.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He turned the sea into dry land; they passed through the waters on foot; there we rejoiced in Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.7",
+      "edition_verse_id": "BSB:PSA.66.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He rules forever by His power; His eyes watch the nations. Do not let the rebellious exalt themselves. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.8",
+      "edition_verse_id": "BSB:PSA.66.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Bless our God, O peoples; let the sound of His praise be heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.9",
+      "edition_verse_id": "BSB:PSA.66.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He preserves our lives and keeps our feet from slipping.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.10",
+      "edition_verse_id": "BSB:PSA.66.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For You , O God, have tested us; You have refined us like silver.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.11",
+      "edition_verse_id": "BSB:PSA.66.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "You led us into the net; You laid burdens on our backs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.12",
+      "edition_verse_id": "BSB:PSA.66.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You let men ride over our heads; we went through fire and water, but You brought us into abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.13",
+      "edition_verse_id": "BSB:PSA.66.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I will enter Your house with burnt offerings; I will fulfill my vows to You —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.14",
+      "edition_verse_id": "BSB:PSA.66.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "the vows that my lips promised and my mouth spoke in my distress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.15",
+      "edition_verse_id": "BSB:PSA.66.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I will offer bulls and goats. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.16",
+      "edition_verse_id": "BSB:PSA.66.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Come and listen, all you who fear God, and I will declare what He has done for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.17",
+      "edition_verse_id": "BSB:PSA.66.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I cried out to Him with my mouth and praised Him with my tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.18",
+      "edition_verse_id": "BSB:PSA.66.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If I had cherished iniquity in my heart, the Lord would not have listened.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.19",
+      "edition_verse_id": "BSB:PSA.66.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But God has surely heard; He has attended to the sound of my prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.66.20",
+      "edition_verse_id": "BSB:PSA.66.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Blessed be God, who has not rejected my prayer or withheld from me His loving devotion!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 81,
+  "verses": [
+    {
+      "id": "PSA.81.1",
+      "edition_verse_id": "BSB:PSA.81.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster. According to Gittith. Of Asaph. Sing for joy to God our strength; make a joyful noise to the God of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.81.2",
+      "edition_verse_id": "BSB:PSA.81.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Lift up a song, strike the tambourine, play the sweet-sounding harp and lyre.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.3",
+      "edition_verse_id": "BSB:PSA.81.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Sound the ram’s horn at the New Moon, and at the full moon on the day of our Feast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.4",
+      "edition_verse_id": "BSB:PSA.81.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For this is a statute for Israel, an ordinance of the God of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.5",
+      "edition_verse_id": "BSB:PSA.81.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He ordained it as a testimony for Joseph when he went out over the land of Egypt, where I heard an unfamiliar language:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.6",
+      "edition_verse_id": "BSB:PSA.81.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "“I relieved his shoulder of the burden; his hands were freed from the basket.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.7",
+      "edition_verse_id": "BSB:PSA.81.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You called out in distress, and I rescued you; I answered you from the cloud of thunder; I tested you at the waters of Meribah. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.8",
+      "edition_verse_id": "BSB:PSA.81.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Hear, O My people, and I will warn you: O Israel, if only you would listen to Me!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.9",
+      "edition_verse_id": "BSB:PSA.81.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "There must be no strange god among you, nor shall you bow to a foreign god.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.10",
+      "edition_verse_id": "BSB:PSA.81.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "I am the LORD your God, who brought you up out of Egypt. Open wide your mouth, and I will fill it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.11",
+      "edition_verse_id": "BSB:PSA.81.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But My people would not listen to Me, and Israel would not obey Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.12",
+      "edition_verse_id": "BSB:PSA.81.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So I gave them up to their stubborn hearts to follow their own devices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.13",
+      "edition_verse_id": "BSB:PSA.81.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If only My people would listen to Me, if Israel would follow My ways,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.14",
+      "edition_verse_id": "BSB:PSA.81.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "how soon I would subdue their enemies and turn My hand against their foes!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.15",
+      "edition_verse_id": "BSB:PSA.81.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Those who hate the LORD would feign obedience, and their doom would last forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.81.16",
+      "edition_verse_id": "BSB:PSA.81.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But I would feed you the finest wheat; with honey from the rock I would satisfy you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

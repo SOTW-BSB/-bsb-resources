@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "REV.15.1",
+      "edition_verse_id": "BSB:REV.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, with which the wrath of God is completed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.15.2",
+      "edition_verse_id": "BSB:REV.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And I saw something like a sea of glass mixed with fire, beside which stood those who had conquered the beast and its image and the number of its name. They were holding harps from God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.15.3",
+      "edition_verse_id": "BSB:REV.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and they sang the song of God’s servant Moses and of the Lamb: “Great and wonderful are Your works, O Lord God Almighty! Just and true are Your ways, O King of the nations!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.15.4",
+      "edition_verse_id": "BSB:REV.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Who will not fear You, O Lord, and glorify Your name? For You alone are holy. All nations will come and worship before You, for Your righteous acts have been revealed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.15.5",
+      "edition_verse_id": "BSB:REV.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "After this I looked, and the temple — the tabernacle of the Testimony — was opened in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.15.6",
+      "edition_verse_id": "BSB:REV.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And out of the temple came the seven angels with the seven plagues, dressed in clean and bright linen and girded with golden sashes around their chests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "REV.15.7",
+      "edition_verse_id": "BSB:REV.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "REV.15.8",
+      "edition_verse_id": "BSB:REV.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the temple was filled with smoke from the glory of God and from His power; and no one could enter the temple until the seven plagues of the seven angels were completed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

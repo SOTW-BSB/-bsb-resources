@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "ROM.12.1",
+      "edition_verse_id": "BSB:ROM.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.2",
+      "edition_verse_id": "BSB:ROM.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Do not be conformed to this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what is the good, pleasing, and perfect will of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.3",
+      "edition_verse_id": "BSB:ROM.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but think of yourself with sober judgment, according to the measure of faith God has given you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.4",
+      "edition_verse_id": "BSB:ROM.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Just as each of us has one body with many members, and not all members have the same function,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.5",
+      "edition_verse_id": "BSB:ROM.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "so in Christ we who are many are one body, and each member belongs to one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.6",
+      "edition_verse_id": "BSB:ROM.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We have different gifts according to the grace given us. If one’s gift is prophecy, let him use it in proportion to his faith;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.7",
+      "edition_verse_id": "BSB:ROM.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "if it is serving, let him serve; if it is teaching, let him teach;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.8",
+      "edition_verse_id": "BSB:ROM.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "if it is encouraging, let him encourage; if it is giving, let him give generously; if it is leading, let him lead with diligence; if it is showing mercy, let him do it cheerfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.9",
+      "edition_verse_id": "BSB:ROM.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Love must be sincere. Detest what is evil; cling to what is good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.10",
+      "edition_verse_id": "BSB:ROM.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Be devoted to one another in brotherly love. Outdo yourselves in honoring one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.11",
+      "edition_verse_id": "BSB:ROM.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Do not let your zeal subside; keep your spiritual fervor, serving the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.12",
+      "edition_verse_id": "BSB:ROM.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Be joyful in hope, patient in affliction, persistent in prayer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.13",
+      "edition_verse_id": "BSB:ROM.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Share with the saints who are in need. Practice hospitality.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.14",
+      "edition_verse_id": "BSB:ROM.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Bless those who persecute you. Bless and do not curse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.15",
+      "edition_verse_id": "BSB:ROM.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Rejoice with those who rejoice; weep with those who weep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.16",
+      "edition_verse_id": "BSB:ROM.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Live in harmony with one another. Do not be proud, but associate with the lowly. Do not be conceited.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.17",
+      "edition_verse_id": "BSB:ROM.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Do not repay anyone evil for evil. Carefully consider what is right in the eyes of everybody.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.18",
+      "edition_verse_id": "BSB:ROM.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If it is possible on your part, live at peace with everyone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.12.19",
+      "edition_verse_id": "BSB:ROM.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.20",
+      "edition_verse_id": "BSB:ROM.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "On the contrary, “If your enemy is hungry, feed him; if he is thirsty, give him a drink. For in so doing, you will heap burning coals on his head.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.12.21",
+      "edition_verse_id": "BSB:ROM.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Do not be overcome by evil, but overcome evil with good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

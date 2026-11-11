@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 97,
+  "verses": [
+    {
+      "id": "PSA.97.1",
+      "edition_verse_id": "BSB:PSA.97.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The LORD reigns, let the earth rejoice; let the distant shores be glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.97.2",
+      "edition_verse_id": "BSB:PSA.97.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Clouds and darkness surround Him; righteousness and justice are His throne’s foundation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.3",
+      "edition_verse_id": "BSB:PSA.97.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Fire goes before Him and consumes His foes on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.4",
+      "edition_verse_id": "BSB:PSA.97.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "His lightning illuminates the world; the earth sees and trembles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.5",
+      "edition_verse_id": "BSB:PSA.97.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The mountains melt like wax at the presence of the LORD, before the Lord of all the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.6",
+      "edition_verse_id": "BSB:PSA.97.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The heavens proclaim His righteousness; all the peoples see His glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.7",
+      "edition_verse_id": "BSB:PSA.97.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "All worshipers of images are put to shame — those who boast in idols. Worship Him, all you gods!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.8",
+      "edition_verse_id": "BSB:PSA.97.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Zion hears and rejoices, and the towns of Judah exult because of Your judgments, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.9",
+      "edition_verse_id": "BSB:PSA.97.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For You, O LORD, are Most High over all the earth; You are exalted far above all gods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.10",
+      "edition_verse_id": "BSB:PSA.97.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hate evil, O you who love the LORD! He preserves the souls of His saints; He delivers them from the hand of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.11",
+      "edition_verse_id": "BSB:PSA.97.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Light shines on the righteous, gladness on the upright in heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.97.12",
+      "edition_verse_id": "BSB:PSA.97.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Rejoice in the LORD, you righteous ones, and praise His holy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

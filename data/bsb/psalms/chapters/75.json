@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PSA",
+  "chapter": 75,
+  "verses": [
+    {
+      "id": "PSA.75.1",
+      "edition_verse_id": "BSB:PSA.75.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song. We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.75.2",
+      "edition_verse_id": "BSB:PSA.75.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“When I choose a time, I will judge fairly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.3",
+      "edition_verse_id": "BSB:PSA.75.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When the earth and all its dwellers quake, it is I who bear up its pillars. Selah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.4",
+      "edition_verse_id": "BSB:PSA.75.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I say to the proud, ‘Do not boast,’ and to the wicked, ‘Do not lift up your horn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.5",
+      "edition_verse_id": "BSB:PSA.75.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Do not lift up your horn against heaven or speak with an outstretched neck.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.6",
+      "edition_verse_id": "BSB:PSA.75.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For exaltation comes neither from east nor west, nor out of the desert,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.7",
+      "edition_verse_id": "BSB:PSA.75.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "but it is God who judges; He brings down one and exalts another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.8",
+      "edition_verse_id": "BSB:PSA.75.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For a cup is in the hand of the LORD, full of foaming wine mixed with spices. He pours from His cup, and all the wicked of the earth drink it down to the dregs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.9",
+      "edition_verse_id": "BSB:PSA.75.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But I will proclaim Him forever; I will sing praise to the God of Jacob.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.75.10",
+      "edition_verse_id": "BSB:PSA.75.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“All the horns of the wicked I will cut off, but the horns of the righteous will be exalted.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

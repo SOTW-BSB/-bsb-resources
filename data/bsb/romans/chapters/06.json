@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "ROM.6.1",
+      "edition_verse_id": "BSB:ROM.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "What then shall we say? Shall we continue in sin so that grace may increase?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.2",
+      "edition_verse_id": "BSB:ROM.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Certainly not! How can we who died to sin live in it any longer?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.3",
+      "edition_verse_id": "BSB:ROM.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Or aren’t you aware that all of us who were baptized into Christ Jesus were baptized into His death?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.4",
+      "edition_verse_id": "BSB:ROM.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "We were therefore buried with Him through baptism into death, in order that, just as Christ was raised from the dead through the glory of the Father, we too may walk in newness of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.5",
+      "edition_verse_id": "BSB:ROM.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For if we have been united with Him like this in His death, we will certainly also be united with Him in His resurrection.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.6",
+      "edition_verse_id": "BSB:ROM.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We know that our old self was crucified with Him so that the body of sin might be rendered powerless, that we should no longer be slaves to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.7",
+      "edition_verse_id": "BSB:ROM.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For anyone who has died has been freed from sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.8",
+      "edition_verse_id": "BSB:ROM.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Now if we died with Christ, we believe that we will also live with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.9",
+      "edition_verse_id": "BSB:ROM.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For we know that since Christ was raised from the dead, He cannot die again; death no longer has dominion over Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.10",
+      "edition_verse_id": "BSB:ROM.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The death He died, He died to sin once for all; but the life He lives, He lives to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.11",
+      "edition_verse_id": "BSB:ROM.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So you too must count yourselves dead to sin, but alive to God in Christ Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.12",
+      "edition_verse_id": "BSB:ROM.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Therefore do not let sin reign in your mortal body so that you obey its desires.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.13",
+      "edition_verse_id": "BSB:ROM.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Do not present the parts of your body to sin as instruments of wickedness, but present yourselves to God as those who have been brought from death to life; and present the parts of your body to Him as instruments of righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.14",
+      "edition_verse_id": "BSB:ROM.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For sin shall not be your master, because you are not under law, but under grace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.15",
+      "edition_verse_id": "BSB:ROM.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What then? Shall we sin because we are not under law, but under grace? Certainly not!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.16",
+      "edition_verse_id": "BSB:ROM.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Do you not know that when you offer yourselves as obedient slaves, you are slaves to the one you obey, whether you are slaves to sin leading to death, or to obedience leading to righteousness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.17",
+      "edition_verse_id": "BSB:ROM.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But thanks be to God that, though you once were slaves to sin, you wholeheartedly obeyed the form of teaching to which you were committed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.18",
+      "edition_verse_id": "BSB:ROM.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "You have been set free from sin and have become slaves to righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.19",
+      "edition_verse_id": "BSB:ROM.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "I am speaking in human terms because of the weakness of your flesh. Just as you used to offer the parts of your body in slavery to impurity and to escalating wickedness, so now offer them in slavery to righteousness leading to holiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.20",
+      "edition_verse_id": "BSB:ROM.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For when you were slaves to sin, you were free of obligation to righteousness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.6.21",
+      "edition_verse_id": "BSB:ROM.6.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "What fruit did you reap at that time from the things of which you are now ashamed? The outcome of those things is death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.22",
+      "edition_verse_id": "BSB:ROM.6.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But now that you have been set free from sin and have become slaves to God, the fruit you reap leads to holiness, and the outcome is eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.6.23",
+      "edition_verse_id": "BSB:ROM.6.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

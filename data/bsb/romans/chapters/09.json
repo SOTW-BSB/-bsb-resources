@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ROM",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "ROM.9.1",
+      "edition_verse_id": "BSB:ROM.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.2",
+      "edition_verse_id": "BSB:ROM.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I have deep sorrow and unceasing anguish in my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.3",
+      "edition_verse_id": "BSB:ROM.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I could wish that I myself were cursed and cut off from Christ for the sake of my brothers, my own flesh and blood,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.4",
+      "edition_verse_id": "BSB:ROM.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "the people of Israel. Theirs is the adoption as sons; theirs the divine glory and the covenants; theirs the giving of the law, the temple worship, and the promises.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.5",
+      "edition_verse_id": "BSB:ROM.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Theirs are the patriarchs, and from them proceeds the human descent of Christ, who is God over all, forever worthy of praise! Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.6",
+      "edition_verse_id": "BSB:ROM.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "It is not as though God’s word has failed. For not all who are descended from Israel are Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.7",
+      "edition_verse_id": "BSB:ROM.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.8",
+      "edition_verse_id": "BSB:ROM.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.9",
+      "edition_verse_id": "BSB:ROM.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.10",
+      "edition_verse_id": "BSB:ROM.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Not only that, but Rebecca’s children were conceived by one man, our father Isaac.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.11",
+      "edition_verse_id": "BSB:ROM.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Yet before the twins were born or had done anything good or bad, in order that God’s plan of election might stand,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.12",
+      "edition_verse_id": "BSB:ROM.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "not by works but by Him who calls, she was told, “The older will serve the younger.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.13",
+      "edition_verse_id": "BSB:ROM.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So it is written: “Jacob I loved, but Esau I hated.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.14",
+      "edition_verse_id": "BSB:ROM.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "What then shall we say? Is God unjust? Certainly not!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.15",
+      "edition_verse_id": "BSB:ROM.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For He says to Moses: “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.16",
+      "edition_verse_id": "BSB:ROM.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So then, it does not depend on man’s desire or effort, but on God’s mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.17",
+      "edition_verse_id": "BSB:ROM.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.18",
+      "edition_verse_id": "BSB:ROM.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Therefore God has mercy on whom He wants to have mercy, and He hardens whom He wants to harden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.19",
+      "edition_verse_id": "BSB:ROM.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "One of you will say to me, “Then why does God still find fault? For who can resist His will?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.20",
+      "edition_verse_id": "BSB:ROM.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But who are you, O man, to talk back to God? Shall what is formed say to Him who formed it, “Why did You make me like this?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.21",
+      "edition_verse_id": "BSB:ROM.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Does not the potter have the right to make from the same lump of clay one vessel for special occasions and another for common use?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.22",
+      "edition_verse_id": "BSB:ROM.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "What if God, intending to show His wrath and make His power known, bore with great patience the vessels of His wrath, prepared for destruction?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.23",
+      "edition_verse_id": "BSB:ROM.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "What if He did this to make the riches of His glory known to the vessels of His mercy, whom He prepared in advance for glory —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.24",
+      "edition_verse_id": "BSB:ROM.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "including us, whom He has called not only from the Jews, but also from the Gentiles?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.25",
+      "edition_verse_id": "BSB:ROM.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "As He says in Hosea: “I will call them ‘My People’ who are not My people, and I will call her ‘My Beloved’ who is not My beloved,”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.26",
+      "edition_verse_id": "BSB:ROM.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "and, “It will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.27",
+      "edition_verse_id": "BSB:ROM.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Isaiah cries out concerning Israel: “Though the number of the Israelites is like the sand of the sea, only the remnant will be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.28",
+      "edition_verse_id": "BSB:ROM.9.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "For the Lord will carry out His sentence on the earth thoroughly and decisively.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.29",
+      "edition_verse_id": "BSB:ROM.9.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "It is just as Isaiah foretold: “Unless the Lord of Hosts had left us descendants, we would have become like Sodom, we would have resembled Gomorrah.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.30",
+      "edition_verse_id": "BSB:ROM.9.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ROM.9.31",
+      "edition_verse_id": "BSB:ROM.9.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "but Israel, who pursued a law of righteousness, has not attained it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.32",
+      "edition_verse_id": "BSB:ROM.9.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ROM.9.33",
+      "edition_verse_id": "BSB:ROM.9.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
