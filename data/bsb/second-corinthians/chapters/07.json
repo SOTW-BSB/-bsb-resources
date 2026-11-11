@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CO",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "2CO.7.1",
+      "edition_verse_id": "BSB:2CO.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Therefore, beloved, since we have these promises, let us cleanse ourselves from everything that defiles body and spirit, perfecting holiness in the fear of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.2",
+      "edition_verse_id": "BSB:2CO.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Make room for us in your hearts. We have wronged no one, we have corrupted no one, we have exploited no one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.3",
+      "edition_verse_id": "BSB:2CO.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I do not say this to condemn you. I have said before that you so occupy our hearts that we live and die together with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.4",
+      "edition_verse_id": "BSB:2CO.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Great is my confidence in you; great is my pride in you; I am filled with encouragement; in all our troubles my joy overflows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.5",
+      "edition_verse_id": "BSB:2CO.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For when we arrived in Macedonia, our bodies had no rest, but we were pressed from every direction — conflicts on the outside, fears within.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.6",
+      "edition_verse_id": "BSB:2CO.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "But God, who comforts the downcast, comforted us by the arrival of Titus,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.7",
+      "edition_verse_id": "BSB:2CO.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and not only by his arrival, but also by the comfort he had received from you. He told us about your longing, your mourning, and your zeal for me, so that I rejoiced all the more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.8",
+      "edition_verse_id": "BSB:2CO.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Even if I caused you sorrow by my letter, I do not regret it. Although I did regret it— for I see that my letter caused you sorrow, but only for a short time—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.9",
+      "edition_verse_id": "BSB:2CO.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "yet now I rejoice, not because you were made sorrowful, but because your sorrow led you to repentance. For you felt the sorrow that God had intended, and so were not harmed in any way by us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.10",
+      "edition_verse_id": "BSB:2CO.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Godly sorrow brings repentance that leads to salvation without regret, but worldly sorrow brings death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.11",
+      "edition_verse_id": "BSB:2CO.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Consider what this godly sorrow has produced in you: what earnestness, what eagerness to clear yourselves, what indignation, what alarm, what longing, what zeal, what vindication! In every way you have proved yourselves to be innocent in this matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.12",
+      "edition_verse_id": "BSB:2CO.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So even though I wrote to you, it was not on account of the one who did wrong or the one who was harmed, but rather that your earnestness on our behalf would be made clear to you in the sight of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.13",
+      "edition_verse_id": "BSB:2CO.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "On account of this, we are encouraged. In addition to our own encouragement, we were even more delighted by the joy of Titus. For his spirit has been refreshed by all of you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.14",
+      "edition_verse_id": "BSB:2CO.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Indeed, I was not embarrassed by anything I had boasted to him about you. But just as everything we said to you was true, so our boasting to Titus has proved to be true as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.7.15",
+      "edition_verse_id": "BSB:2CO.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And his affection for you is even greater when he remembers that you were all obedient as you welcomed him with fear and trembling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.7.16",
+      "edition_verse_id": "BSB:2CO.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I rejoice that I can have complete confidence in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

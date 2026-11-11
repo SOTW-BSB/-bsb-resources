@@ -1,0 +1,1083 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2CH",
+  "chapters": {
+    "1": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft LXX, Vulgate, and some Hebrew manuscripts \\fqa was there before\\ft ; MT \\fqa he placed before\\f*",
+          "raw_sha256": "8993d2bb9a823268304cf72d3b86cb3ee5ba19b0ee4c7912ef0c3aa954208ac1"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "12239b69f00f800afb1af8e8cfa28065bd6457852cd9d7e086b67b5238b0c472"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\ft Literally \\fqa so that I may go out before this people and come in\\f*",
+          "raw_sha256": "803a17b8436c0ad80126defd8a0a8b793d973405be54d5eae49e57386d835729"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Literally \\fqa Solomon accumulated chariots and horses; he had\\f*",
+          "raw_sha256": "10658810ad08b4594e5188f3d05e8e0de3d3cd52d0f4143d5db168d8b872331c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Or \\fqa horsemen \\ft or \\fqa charioteers\\f*",
+          "raw_sha256": "6c001852e4900ea1d1919b63518d7df480a3d15d872d99c9a6340f425195ace1"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 1:15 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "18f870ea11afc5ba9f9f66259eba7c1de46bdac872e739850b5471081d42708a"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 1:16 \\ft Probably an area in Cilicia, a province in the southeast of Asia Minor\\f*",
+          "raw_sha256": "4c6b551e830686aae7dc91be9641174f2a33201de3386f0a15739e6167873ebb"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\fqa 600 shekels \\ft is approximately 15.1 pounds or 6.8 kilograms of silver.\\f*",
+          "raw_sha256": "81fce148b997ac05c10bc33b9f3d36569acd7af2f6c53cb71559b27d640f23b7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\fqa 150 shekels \\ft is approximately 3.8 pounds or 1.7 kilograms of silver.\\f*",
+          "raw_sha256": "ae5e19ea72420bc6c0aa5493092b0d700124dbd947ed5dd5b1c396dbacc15764"
+        }
+      ]
+    },
+    "2": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 2:3 \\ft Hebrew \\fqa Huram\\ft , a variant of \\fqa Hiram\\ft ; also in verses 11 and 12\\f*",
+          "raw_sha256": "246b4331537eb7a19b9c9544a3d6b9763efa5e764c3e0f02e8a40cce382d66a7"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 2:8 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\f*",
+          "raw_sha256": "3e501f791a62c0d5ad9f9acb3f443f99141858b9d65a0c28e144216bee307b05"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:8 \\fqa Algum \\ft is probably a variant of \\fqa almug\\ft ; see \\ref 1 Kings 10:11|1KI 10:11\\ref*.\\f*",
+          "raw_sha256": "06342b2bc26905506dd8ae03a2015994b4d21534a8e1ed4270eddf340b460a8c"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\fqa 20,000 cors \\ft is approximately 124,800 bushels or 4.4 million liters (probably about 3,800 tons or 3,400 metric tons of wheat).\\f*",
+          "raw_sha256": "3ea2c7c6ff16626b6e8b6e3c9874a392af112b209ff98a8523bed94f0906a440"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\fqa 20,000 cors \\ft is approximately 124,800 bushels or 4.4 million liters (probably about 2,910 tons or 2,700 metric tons of barley).\\f*",
+          "raw_sha256": "65d97322c761224d2e3c1b9db9988bf56f14603197f0ec39b4b7b7c63a3f009c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\fqa 20,000 baths \\ft is approximately 116,000 gallons or 440,000 liters of wine.\\f*",
+          "raw_sha256": "3ea2e619b6dd1bd6f41f8da4fca8cabbb83d80c22b39956d24d50ecce6fa7b2d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\ft Or \\fqa 20,000 baths of oil\\ft ; that is, approximately 116,000 gallons or 440,000 liters\\f*",
+          "raw_sha256": "65ff87e959344977b21be1085cc15d23f501d5e9584f46a46c675e6a131aec1a"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 2:13 \\ft Or \\fqa understanding\\f*",
+          "raw_sha256": "0e733e3b3b38c5d6a404cbfef46075fe3006e08c1b72afad0656ee02cd93f6af"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft See LXX; Hebrew \\fqa where He had appeared\\f*",
+          "raw_sha256": "e3f6d7caa202322cd5a1aeba2a15f300e97f1866606bcc46548043c9edebafc1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\fqa Ornan \\ft is a variant of \\fqa Araunah\\ft ; see \\ref 2 Samuel 24:16|2SA 24:16\\ref*.\\f*",
+          "raw_sha256": "505a893539757ad300b4ffd9b7cda7e06c36862b5c43d2c4e44792bd198d21c5"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft The foundation was approximately 90 feet long and 30 feet wide (27.4 meters long and 9.1 meters wide).\\f*",
+          "raw_sha256": "def4aa7b2dc6e3fa847f3b396b9f39cd0d276959001ceb956b689cfaab684c00"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft The old standard of measurement was a cubit equal to 18 inches or 45.7 centimeters. The new standard, a cubit of approximately 21 inches or 53.3 centimeters (the long cubit) is the basic unit of length throughout Ezekiel 40 to 48.\\f*",
+          "raw_sha256": "19720de3ae05e70e00fd9c16c7d40cf557f9225876cf6cb62aeda38f2060eda7"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 3:4 \\fqa 20 cubits \\ft is approximately 30 feet or 9.1 meters; also in verses 8, 11, and 13.\\f*",
+          "raw_sha256": "b15e289cad75d2613788bf7e1cb4fc0e6eb8f3fff005e8c02e05b234f72b9951"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:4 \\ft Some LXX and Syriac manuscripts; Hebrew \\fqa 120 cubits high \\ft (approximately 180 feet or 54.9 meters)\\f*",
+          "raw_sha256": "86de5e7d81546545f4578cd4a90c8086bb4e23bf5f2502627a996fc786bde94b"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\f*",
+          "raw_sha256": "a913c1a050a07362d0d36bb248e56203819d9bb422754d00c5b2594016ede85a"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft Or \\fqa the Holy of Holies\\ft ; also in verse 10\\f*",
+          "raw_sha256": "85e6cd5b187a0bdbf02dfe20e680433f48758b5856c176f3dff56e55e7c0bc5d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\fqa 600 talents \\ft is approximately 22.6 tons or 20.5 metric tons of gold.\\f*",
+          "raw_sha256": "b9d707f1811a35399db865f8f442cb0cd17e3a95b8ea2766b7b205e82725e315"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 3:9 \\fqa 50 shekels \\ft is approximately 1.26 pounds or 569.8 grams of gold.\\f*",
+          "raw_sha256": "6694e0a36ce8c57ac7e21f359c39f91b4733f59b6eb01e52ae1e11837c50c547"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\fqa 5 cubits \\ft is approximately 7.5 feet or 2.3 meters; also in verse 15.\\f*",
+          "raw_sha256": "04d66d3ae9e87b28c1a9a5e5228f6551211b006859ca88fcc91e5c52ac68d546"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\fqa 35 cubits \\ft is approximately 52.5 feet or 16 meters.\\f*",
+          "raw_sha256": "e3207296f9707a87f7447431b273ecc0adaf6a05e3f8a09d74847cf715a3c2cd"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft Or \\fqa He made chains in the inner sanctuary\\f*",
+          "raw_sha256": "055542bc0ffc74067636195ffb481ab51f0a22e9f77d84954de693c27506611d"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 3:17 \\fqa Jachin \\ft probably means \\fqa He establishes\\ft .\\f*",
+          "raw_sha256": "fddcd62cb7035f117d4b144479be442e3aea623eea97a1ca9d66bc872f50d936"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:17 \\fqa Boaz \\ft probably means \\fqa in Him is strength\\ft .\\f*",
+          "raw_sha256": "63e255591fff5dcac9d18531b479709c1557a37db0757cf62b1a61bcd2f0542f"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 4:1 \\ft The altar was approximately 30 feet in length and width and 15 feet high (9.1 meters in length and width and 4.6 meters high).\\f*",
+          "raw_sha256": "362638497767c83653abd4b217bc5ab0131fd8c9a155fe7df9c2acc6c83cf899"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 4:2 \\ft The Sea was approximately 15 feet from rim to rim, 7.5 feet in height, and 45 feet in circumference (4.6 meters from rim to rim, 2.3 meters in height, and 13.7 meters in circumference).\\f*",
+          "raw_sha256": "5afd8fe273b6c8cb3e209134f088689bed5d517359b25e18df12ec6fd22e3295"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 4:5 \\fqa A handbreadth \\ft is approximately 2.9 inches or 7.4 centimeters.\\f*",
+          "raw_sha256": "f6412711c6d148cdb70b1c5bdee34123bba25997903ae82f61dac2f4c72934aa"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:5 \\fqa 3,000 baths \\ft is approximately 17,400 gallons or 66,000 liters.\\f*",
+          "raw_sha256": "5e0f128e215129de9da66e23b4ce4140008877f403efa31462505c8e779761b9"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 4:17 \\fqa Zeredah \\ft is a variant of \\fqa Zarethan\\ft ; see \\ref 1 Kings 7:46|1KI 7:46\\ref*.\\f*",
+          "raw_sha256": "522bf3bf65db781ced00bcd3435c54f06b3b3e78cb05290c05d6a0e3c5ec92f1"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 4:22 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "6436c689a5832a019872fd626f9f240d2182d5e50dcf5c70ee7e94b3f6515286"
+        }
+      ]
+    },
+    "5": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 5:3 \\ft That is, the Feast of Tabernacles (or Booths or Shelters); see \\ref Leviticus 23:33–36|LEV 23:33-36\\ref*.\\f*",
+          "raw_sha256": "1f1d3fb386a8f0560f92c849d957f9d6b22d9d8e9c90066fb32698ada5f94947"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 5:7 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "2245a9f7373385acb8d49b2d90aae81608648ce69f4c6b03061995a197df117c"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 5:9 \\ft Some Hebrew manuscripts and LXX \\fqa The poles extended far enough that their ends were visible from the Holy Place in front of the inner sanctuary\\ft ; see \\ref 1 Kings 8:8|1KI 8:8\\ref*.\\f*",
+          "raw_sha256": "fc142b0bba22bf87972ff6fba40bd7d8891078b8d9bf49994bd6ee625dbeea08"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:9 \\ft Literally \\fqa not from outside\\f*",
+          "raw_sha256": "8a61d5505c924b4b8b58da4dce35a04e83b83f6f0365ed9654359b10e4c97f12"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "f7b7a2f4edb20a6031cb2e65cb5bc37df449f88d89b410e7c661ec01e56d5686"
+        }
+      ]
+    },
+    "6": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 6:13 \\ft The platform was approximately 7.5 feet in length and width, and 4.5 feet high (2.3 meters in length and width, and 1.4 meters high).\\f*",
+          "raw_sha256": "8a29bd61ec794dda8a33b874eecbcfb55d58c8c0824c39a046c17564e42921eb"
+        }
+      ]
+    },
+    "7": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 7:8 \\ft That is, the Feast of Tabernacles (or Booths or Shelters); see \\ref Leviticus 23:33–36|LEV 23:33-36\\ref*.\\f*",
+          "raw_sha256": "ab04a51a8b097a860444cbe069a038c54aa15d2b608c98e02684e7fe36e89aa5"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 7:21 \\ft Some LXX manuscripts, Syriac, and Arabic; Hebrew \\fqa And though this temple is now exalted\\ft ; see also \\ref 1 Kings 9:8|1KI 9:8\\ref*.\\f*",
+          "raw_sha256": "ded4cebd71f760a8c4f766d1cdf8fdfa155c9957e7fe4319d51e337061098824"
+        }
+      ]
+    },
+    "8": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 8:2 \\ft Hebrew \\fqa Huram\\ft , a variant of \\fqa Hiram\\ft ; also in verse 18\\f*",
+          "raw_sha256": "6b0fa94ca0769628b08711d30176a321eb5b20f33128beec9317d5e23eb387ea"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 8:6 \\ft Or \\fqa horsemen \\ft or \\fqa charioteers\\f*",
+          "raw_sha256": "985a3ee71ec2431ccc748ccfc9b51a6ad7723cc0a2503b8bc952da07469042c8"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 8:13 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "305c9aff67de8d2a4c6dddd8225612fce4ccd2aa4c6f216571f8135f65afc8e7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:13 \\ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as \\fqa the Feast of Harvest\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref*) or \\fqa the Feast of Pentecost\\ft (see \\ref Acts 2:1|ACT 2:1\\ref*).\\f*",
+          "raw_sha256": "ecf9102f8034db6feaf28f174c35e8f3c211cc28358e1a40acfd055b4158cc5d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:13 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as \\fqa the Feast of Booths \\ft or \\fqa the Feast of Shelters \\ft and originally called \\fqa the Feast of Ingathering\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref* and Exodus 34:22).\\f*",
+          "raw_sha256": "72d36fc7cfd403d9ae03d4d917469a8cc3f5dcb5ba445c86ee4edcc7caa3e03c"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 8:17 \\fqa Eloth \\ft is a variant of \\fqa Elath\\ft ; see LXX, \\ref 2 Kings 14:22|2KI 14:22\\ref*, and 2 Kings 16:6.\\f*",
+          "raw_sha256": "bfbcbe1bb8ce02c639d2ff14329740896bea4171835bba638c9a62486561fb2b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:17 \\ft That is, along the shore of the Red Sea in the land of Edom\\f*",
+          "raw_sha256": "55cff7a5ff48aafe10a19704fa87c994d84d796de02df0d54ad3fa674709a79c"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 8:18 \\fqa 450 talents \\ft is approximately 17 tons or 15.4 metric tons of gold.\\f*",
+          "raw_sha256": "a5d0478e5a2ada77dd899d7be5a0680febc76da2178d987f981e6b796df96d41"
+        }
+      ]
+    },
+    "9": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 9:4 \\ft LXX and Syriac (see also \\ref 1 Kings 10:5|1KI 10:5\\ref*); Hebrew \\fqa and his stairway by which he went up\\f*",
+          "raw_sha256": "87afcf821a4ca76c04d99861ea48e102c487153e85d782d48344ac5a6026a302"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 9:5 \\ft Or \\fqa your achievements\\f*",
+          "raw_sha256": "8250e31ad40679bf1fbb97fcc5179e0cbde2b157ddd7c98fbbeb83bb215637fd"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 9:9 \\fqa 120 talents \\ft is approximately 4.52 tons or 4.1 metric tons of gold.\\f*",
+          "raw_sha256": "d51eab7844403a75a6543f48812b473260332223f44f984ad267baedda56ac69"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 9:10 \\fqa Algum \\ft is probably a variant of \\fqa almug\\ft ; also in verse 11; see \\ref 1 Kings 10:11|1KI 10:11\\ref*.\\f*",
+          "raw_sha256": "9aa98cfa01e4251d6b06f3b025e4bdefb0f199c4018e6249078c981ff936e1d2"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 9:11 \\ft Or \\fqa gateways\\f*",
+          "raw_sha256": "ac8abfeb9a3219beacf1246244d57a7be970d38bc5383f64e93a6669e1f420ee"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 9:13 \\fqa 666 talents \\ft is approximately 25.1 tons or 22.8 metric tons of gold.\\f*",
+          "raw_sha256": "10dc0644139903ee3c17ad8d244ed79251c36376d4a0fe4087a385759147d1d3"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 9:15 \\fqa 600 shekels \\ft is approximately 15.1 pounds or 6.8 kilograms of gold.\\f*",
+          "raw_sha256": "fd1323f830b0a11ae9e8a93711402333c1262a718600ca83ba4d813f6d9e4124"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 9:16 \\fqa 300 shekels \\ft is approximately 7.5 pounds or 3.4 kilograms of gold.\\f*",
+          "raw_sha256": "c71b1ae7bee929ffb3318bd99e12d5cdb296763b449bfd28c1b9672fe2a92957"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 9:21 \\ft Or \\fqa a fleet of trading ships\\ft ; twice in this verse\\f*",
+          "raw_sha256": "c55deb5d67f866518ae04309a500b0a3806d2d6480d423ea80616194c5fe9646"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:21 \\ft Hebrew \\fqa Huram’s\\ft , a variant of \\fqa Hiram’s\\f*",
+          "raw_sha256": "f9bd09094973ee50a853f1ccb3933ddb0f047ff671c00fe9ada23be02e8127ab"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:21 \\ft Or \\fqa baboons\\f*",
+          "raw_sha256": "d588c4549e17d44855832b6f44da637b511d16a2fa117f3ca7d9d948835d770c"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 9:25 \\ft Or \\fqa horsemen \\ft or \\fqa charioteers\\f*",
+          "raw_sha256": "0654012e247349ca38993686bcf6c860b9e98cb943112a0d15d00baa125338a3"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 9:26 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "4d8e9bae3bc4e22f21c488494205d302ec4f183daeac0d7762ff65c9d7c3aaa6"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 9:27 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "46673bfeb70ad9b69a9934916417dcd7fd7b10d202dada8b10a931aee1c2fc50"
+        }
+      ]
+    },
+    "10": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 10:14 \\ft LXX and many Hebrew manuscripts (see also \\ref 1 Kings 12:14|1KI 12:14\\ref*); MT \\fqa Whereas I made your yoke heavy\\f*",
+          "raw_sha256": "5852e04749d99c1d877bfd2cbb1192f2c62744009bbdb998c9d91c1b8606186e"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 10:16 \\ft Syriac, Vulgate, and many Hebrew manuscripts; MT \\fqa And all Israel, since the king had refused to listen to them, answered\\ft .\\f*",
+          "raw_sha256": "0f6bdf9e09241be2eba38683e245178f898827acef2053201b79e03120392293"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 10:18 \\fqa Hadoram \\ft is a variant of \\fqa Adoram \\ft and \\fqa Adoniram\\ft ; see \\ref 2 Samuel 20:24|2SA 20:24\\ref* and 1 Kings 4:6.\\f*",
+          "raw_sha256": "193a5bbffc7c3bf4726ece5d42acc4efdbb7b20c6c30f826cbc834460c0afcb5"
+        }
+      ]
+    },
+    "12": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 12:1 \\ft That is, Judah; in 2 Chronicles, Judah is occasionally called Israel, as representative of the true Israel.\\f*",
+          "raw_sha256": "729fece1749f2a739f01110679724a223ebbd875d5681557059980c8e6dd8430"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft Or \\fqa charioteers\\f*",
+          "raw_sha256": "0bc4a0b1f014963d32148f0999cb9c2134f9384e38df7f07393a3d61a144f566"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft That is, people from the upper Nile region\\f*",
+          "raw_sha256": "4f455d6112f37a6ada5de9a097f002486662a33da64f50e817b485d0cc724cd2"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 12:16 \\fqa Abijah \\ft is a variant of \\fqa Abijam\\ft ; see \\ref 1 Kings 14:31|1KI 14:31\\ref*.\\f*",
+          "raw_sha256": "f29650e6016ba6ba9c504698c33c05bb02989f1965048261dda6382932d2c442"
+        }
+      ]
+    },
+    "13": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 13:1 \\fqa Abijah \\ft is a variant of \\fqa Abijam\\ft ; see \\ref 1 Kings 14:31|1KI 14:31\\ref*.\\f*",
+          "raw_sha256": "51134c215039710dcea4b978543ecda0ad28410ba5ef2c2206eee0d8975b7c40"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 13:2 \\ft Hebrew; most LXX manuscripts and Syriac \\fqa Maacah\\ft ; see \\ref 2 Chronicles 11:20|2CH 11:20\\ref* and 1 Kings 15:2.\\f*",
+          "raw_sha256": "7d442856ed1587130a3d82cea7c35309c7768bfc9b677307e94554d99cb691ed"
+        },
+        {
+          "source_usfm": "\\f + \\fr 13:2 \\ft Or \\fqa granddaughter\\f*",
+          "raw_sha256": "4441a0078f950e43d7ccf4a718ea8e1b04d8a0c12e4e64b06b1ad2eb00199ed2"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 13:5 \\ft That is, a perpetual covenant\\f*",
+          "raw_sha256": "fd7850cf6318fe1309ab649c910b0ee704f4ed13d4d9c5df7288c5a00ffd4752"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 13:22 \\ft Or \\fqa Exposition \\ft or \\fqa Study\\f*",
+          "raw_sha256": "0acf18f310467e14e9da14a6754b77d004cc01d3290564330abe0c27bd0eb25f"
+        }
+      ]
+    },
+    "14": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 14:9 \\ft Or \\fqa an army of thousands and thousands\\ft ; Hebrew \\fqa an army of a thousand thousands\\f*",
+          "raw_sha256": "97b44ad8157279762ca84785e06aed5b66150a3178616246232d792d7e44f0ac"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 14:10 \\ft Or \\fqa the valley north of Mareshah\\f*",
+          "raw_sha256": "60a9742587e3af85db61dbf271521f1e678644075919468ef8542a2ac826b54b"
+        }
+      ]
+    },
+    "15": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 15:8 \\ft Vulgate and Syriac (see also verse 1 and LXX); Hebrew does not include \\fqa Azariah son of\\ft .\\f*",
+          "raw_sha256": "18095bee86809b86e879e6b8d09b41fd39ebc5ff97d93c136234eec6de1b55df"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 15:16 \\ft Hebrew \\fqa his mother\\f*",
+          "raw_sha256": "7c15b388df13c90c8962801a8bd151820117acb93be74ddfe6946631ac7b524e"
+        }
+      ]
+    },
+    "16": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 16:3 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft ; twice in this verse.\\f*",
+          "raw_sha256": "97d2fe4182fff22586578040716f97841a28928cac07361a00af5d712e840448"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 16:4 \\fqa Abel-maim \\ft was also known as \\fqa Abel-beth-maacah\\ft ; see \\ref 1 Kings 15:20|1KI 15:20\\ref*.\\f*",
+          "raw_sha256": "360813ae8ac0134be7c52bf0459dd53229e2290d9bd066161ac4a05648e64fb1"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 16:8 \\ft That is, people from the upper Nile region\\f*",
+          "raw_sha256": "7017cbf41d2f6c49c3612f6bb074acd5c9530e966423bdc62f514f339b4785c8"
+        }
+      ]
+    },
+    "17": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 17:3 \\ft Or \\fqa in his early years he walked in the ways\\f*",
+          "raw_sha256": "638c82bc365f6113057e355fd10ef3a28b29914fdb1bd82e1ab4d100715c6781"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 17:6 \\ft Or \\fqa was exalted \\ft or \\fqa was courageous\\f*",
+          "raw_sha256": "4bb165bb7c62388a62103153069fb8dab59550a0f98b6e099bd655f962f17872"
+        }
+      ]
+    },
+    "18": {
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 18:33 \\ft Literally \\fqa Turn your hand\\f*",
+          "raw_sha256": "bf0506c22a685fee8d3b05161adbec9268602632c3841068370073ffbfad3add"
+        }
+      ]
+    },
+    "20": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 20:1 \\ft Some LXX manuscripts (see also \\ref 2 Chronicles 26:7|2CH 26:7\\ref*); Hebrew \\fqa together with some other Ammonites \\ft or \\fqa together with some besides the Ammonites\\f*",
+          "raw_sha256": "53f5e0b3ac7a72e02e4f11798118195396cc7458d0f49108bfe3a1141c101b3b"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 20:2 \\ft One Hebrew manuscript; most Hebrew manuscripts, LXX, and Vulgate \\fqa Aram\\f*",
+          "raw_sha256": "d45030524fcf98195ba73224f122f4a4d4177bce7ca8c86995a72ccc962cae80"
+        },
+        {
+          "source_usfm": "\\f + \\fr 20:2 \\ft That is, the Dead Sea\\f*",
+          "raw_sha256": "2034b377823ffac7907ca4713b8ea135d7470e170766e7f034ddd4805bf78574"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 20:9 \\ft Or \\fqa the sword of judgment\\f*",
+          "raw_sha256": "b3e9c1b49a022919221e9a2d044582bcdb2c341797778878bd59759e0e1ff800"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 20:23 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "f34e60c54913384c926dc477d17f61d4b11f3ecaf416b4a5e765b4cb09a7db2f"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 20:25 \\ft Some Hebrew manuscripts and Vulgate \\fqa they found among them an abundance of goods and clothing and valuables\\f*",
+          "raw_sha256": "bd86a679cbcd4e180f42210ca1f5e59fb017762e0c0ed4e5eb513535e71d285b"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 20:26 \\fqa Beracah \\ft means \\fqa blessing\\ft .\\f*",
+          "raw_sha256": "656dbf529c9b2f6f84277c730d44389331938220657ccaa9955c90273fcd9083"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 20:35 \\ft Or \\fqa who made him act wickedly \\ft or \\fqa by which he acted wickedly\\f*",
+          "raw_sha256": "c05df83c35f961ca76b6d29c2880d33ef4fac27f9e59fc462f2304e789181cda"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 20:36 \\ft Or \\fqa a fleet of trading ships\\f*",
+          "raw_sha256": "546e8477c5cef0029552894b088f000f8996a6ea16629499463f72d6c681ab60"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 20:37 \\ft Or \\fqa set sail to trade\\f*",
+          "raw_sha256": "fb464ff401d65a937e5a2df00cfa729539e085afde78d9aff2b804b757be5e36"
+        }
+      ]
+    },
+    "21": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 21:2 \\ft That is, Judah; in 2 Chronicles, Judah is occasionally called Israel, as representative of the true Israel.\\f*",
+          "raw_sha256": "3cc362438db9e011e04d0eff1a29a790549008a4b4c8f74afff670855d405ff7"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 21:9 \\ft Or \\fqa he went out and escaped\\f*",
+          "raw_sha256": "07c599feb4e9d9fde8b044ed89cbb3250df98a35c0f6c82b044c0b3496281949"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 21:17 \\fqa Jehoahaz \\ft is a variant of \\fqa Ahaziah\\ft ; see \\ref 2 Chronicles 22:1|2CH 22:1\\ref*.\\f*",
+          "raw_sha256": "9aadd037e2b2bde26bc266739df48308369263aa78ad1eaae0a0ff9c97389419"
+        }
+      ]
+    },
+    "22": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 22:1 \\ft Or \\fqa since the marauding bands of Arabs\\f*",
+          "raw_sha256": "0203856b797c952eeb36504d848e77536c2266dc54d06123b3c87c80f25d1956"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 22:2 \\ft Some LXX manuscripts and Syriac (see also \\ref 2 Kings 8:26|2KI 8:26\\ref*); Hebrew \\fqa forty-two\\f*",
+          "raw_sha256": "fdc0cb84239551246943961d7f7db37ef960428dbae64d36c2ecdbd8c25e2022"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 22:5 \\ft Some LXX manuscripts \\fqa the archers\\f*",
+          "raw_sha256": "128534b6cb3360645ca59538d4bde41752a7bbaf4bbe153aa19f62107ef66468"
+        },
+        {
+          "source_usfm": "\\f + \\fr 22:5 \\ft Hebrew \\fqa Jehoram\\ft , a variant of \\fqa Joram\\ft ; also in verses 6 and 7\\f*",
+          "raw_sha256": "15011fbe54df32d57337a640ed81a699a40cb4e61322a9ee4ea7c8bfadc9217d"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 22:6 \\fqa Ramah \\ft is a variant of \\fqa Ramoth\\ft ; see verse 5.\\f*",
+          "raw_sha256": "0a82336feacdd815c00d31c08f5c6f38ce0444a2c4ac1f907e7e01de9d927ec9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 22:6 \\ft Some Hebrew manuscripts, LXX, Vulgate, and Syriac (see also \\ref 2 Kings 8:29|2KI 8:29\\ref*); most Hebrew manuscripts \\fqa Azariah\\f*",
+          "raw_sha256": "7bce3619b61f1ad04834d5a9ea4f76e8f0623dbb89e148fdd40f4bf7b62c51d2"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 22:7 \\ft Or \\fqa grandson\\ft ; see \\ref 2 Kings 9:14|2KI 9:14\\ref*.\\f*",
+          "raw_sha256": "91fe4dc468618ddcd3f76f0bddbef65d3e7e30c246c7c844f9e1b865480e60b3"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 22:11 \\fqa Jehoshabeath \\ft is a variant of \\fqa Jehosheba\\ft ; twice in this verse; see \\ref 2 Kings 11:2|2KI 11:2\\ref*.\\f*",
+          "raw_sha256": "d934fa4d6d7aa1d75eec89f3534bc586bc5802727aa52683f8f88f2433e13954"
+        }
+      ]
+    },
+    "23": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 23:14 \\ft Or \\fqa out from the precincts\\f*",
+          "raw_sha256": "3c2d56e44f50c8c3cc6b6c75ead831753bb7a37359fd6d3caf79279a3d37cd57"
+        }
+      ]
+    },
+    "24": {
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 24:23 \\ft Literally \\fqa At the turn of the year\\f*",
+          "raw_sha256": "60ed21d48a7e81bb8c7266bde2ad12c345cc47cedaeccb5cd74629d48b80c618"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 24:25 \\ft LXX and Vulgate; Hebrew \\fqa of the sons\\f*",
+          "raw_sha256": "85222f28f2028fe0deea90c28f4ff70a3e4f5b96e8c38ae8acddd230665cc604"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 24:26 \\fqa Zabad \\ft is a variant of \\fqa Jozabad\\ft ; see \\ref 2 Kings 12:21|2KI 12:21\\ref*.\\f*",
+          "raw_sha256": "f61ba01783a3096057c407b239a878bb8b9e123b2d558f6e1ed719987fc620f1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 24:26 \\fqa Shimrith \\ft is a variant of \\fqa Shomer\\ft ; see \\ref 2 Kings 12:21|2KI 12:21\\ref*.\\f*",
+          "raw_sha256": "a486caf3d63957564b5affb153399d863bcf0accff3157b7c3cea03a6011a6b6"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 24:27 \\ft Or \\fqa founding\\f*",
+          "raw_sha256": "2b5dc4b5914bf537aac31e022d0c9e478ed41db233e3289617ccf328365ac0e1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 24:27 \\ft Or \\fqa Exposition \\ft or \\fqa Study\\f*",
+          "raw_sha256": "8a48ba93b8309017bef995cb597f948e4ea84d76f0cc2e83b17e96913407b2f3"
+        }
+      ]
+    },
+    "25": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 25:4 \\ft \\ref Deuteronomy 24:16|DEU 24:16\\ref*\\f*",
+          "raw_sha256": "762f2668c367b4dc3477a42706ad926c704ebad50b9c325701a7ddc644cfdd5d"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 25:6 \\fqa 100 talents \\ft is approximately 3.77 tons or 3.42 metric tons of silver; also in verse 9.\\f*",
+          "raw_sha256": "dac3296e0cd2a9d2f137c07c5f13f73dd92bc740bce4cb62165e91110b5e6baa"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 25:17 \\fqa Jehoash \\ft is a variant of \\fqa Joash\\ft ; also in verses 18, 21, 23, and 25.\\f*",
+          "raw_sha256": "1ec30eb0307f81d45ae1ffc651169aeada61987e93ff258c3594f352ebe7caa6"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 25:23 \\fqa Jehoahaz \\ft is a variant of \\fqa Ahaziah\\ft .\\f*",
+          "raw_sha256": "c421d3938c4b53ea5e751a78f807db8fac6330a54cfabf494fa7a9e8a155e1ac"
+        },
+        {
+          "source_usfm": "\\f + \\fr 25:23 \\fqa 400 cubits \\ft is approximately 600 feet or 182.9 meters.\\f*",
+          "raw_sha256": "dd1870cf9185c8de5d93668de73c471ff31e41167b2a83cb0d1b1ebde560b361"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 25:28 \\ft Most Hebrew manuscripts; some Hebrew manuscripts, LXX, Vulgate, and Syriac \\fqa City of David\\ft ; see \\ref 2 Kings 14:20|2KI 14:20\\ref*.\\f*",
+          "raw_sha256": "430bffe0199d772dfe5116b34875cee5a9f653a5c9d03b6b818cd37c50cbde5f"
+        }
+      ]
+    },
+    "26": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 26:1 \\fqa Uzziah \\ft is also called \\fqa Azariah\\ft ; throughout this chapter; see \\ref 2 Kings 14:21|2KI 14:21\\ref*.\\f*",
+          "raw_sha256": "0a91e835494d47aadccd137075ce8efb24bf171379f66a41ede55d4302efa03c"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 26:2 \\fqa Eloth \\ft is a variant of \\fqa Elath\\ft ; see LXX, \\ref 2 Kings 14:22|2KI 14:22\\ref*, and 2 Kings 16:6.\\f*",
+          "raw_sha256": "dc86d816485d8e77ec23448f664f956b0619d3c26114d641ea3c53044d0beeb9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 26:2 \\ft Literally \\fqa after the king\\f*",
+          "raw_sha256": "ef04e1b79fec91e0ffd6ee4420146814a82ac458c54c21058a1c264c340f4b0e"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 26:5 \\ft Many Hebrew manuscripts, LXX, and Syriac; other Hebrew manuscripts \\fqa through the vision\\f*",
+          "raw_sha256": "b768212e4786408b2f963a42c27d5c77e08d389a1a24d3d1469341787640e315"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 26:10 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "fdf90d4a65bbe830ee654c3163fcc4ce8720e997299cd1331aa1a2a34121d674"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 26:15 \\ft Or \\fqa to protect those who shoot\\f*",
+          "raw_sha256": "22da6efd517948d48b01bf816cbd475a32762c6e24b3df4637defe504f7c75d2"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 26:19 \\fqa Leprosy \\ft was a term used for various skin diseases; see Leviticus 13.\\f*",
+          "raw_sha256": "755678775d6050feb78bbffb8343360478307adbc54677fd3608ee853276d352"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 26:23 \\ft Literally \\fqa with his fathers\\f*",
+          "raw_sha256": "39edb5f45c8403f9cc9f17f04abc0fffcaaca4895dc880a56d28c7cd064bb922"
+        }
+      ]
+    },
+    "27": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 27:1 \\fqa Jerushah \\ft is a variant of \\fqa Jerusha\\ft ; see \\ref 2 Kings 15:33|2KI 15:33\\ref*.\\f*",
+          "raw_sha256": "22aeef2b2a5265ae0d36500ae8a997a0093a95bc3315000fb7c7c733dd1cd71c"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 27:2 \\fqa Uzziah \\ft is also called \\fqa Azariah\\ft ; see \\ref 2 Kings 14:21|2KI 14:21\\ref*.\\f*",
+          "raw_sha256": "dc0bc553849c535cfcf963c1e6d956c64af4f99bf8db1b36ff911c5988ccaeea"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 27:5 \\fqa 100 talents \\ft is approximately 3.77 tons or 3.42 metric tons of silver.\\f*",
+          "raw_sha256": "a2c35ace7144589915c7f5a7d602c3c19816ad88f50d55bd4736d912f28afcf1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:5 \\fqa 10,000 cors \\ft is approximately 62,400 bushels or 2.2 million liters (probably about 1,920 tons or 1,740 metric tons of wheat).\\f*",
+          "raw_sha256": "e2efd5e9f64722f54b8991f16847e4db18b88e7aeaae2f116ad8ba188dd40230"
+        },
+        {
+          "source_usfm": "\\f + \\fr 27:5 \\fqa 10,000 cors \\ft is approximately 62,400 bushels or 2.2 million liters (probably about 1,450 tons or 1,315 metric tons of barley).\\f*",
+          "raw_sha256": "394082b67676c0b9a614b8b99f4e1c5c8a3c5a3cdf7c0b2ee6a3ec848e95f526"
+        }
+      ]
+    },
+    "28": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 28:3 \\ft Literally \\fqa passed his sons through the fire\\f*",
+          "raw_sha256": "e1493ad37bb0fcf68d2c2482f57e187ef5d483794a1e06338d53f3a124b4c530"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 28:12 \\ft That is, the leaders of the northern kingdom of Israel\\f*",
+          "raw_sha256": "807031ed1ff58994a8e472713a22d2e72a16a4364ae7e1256600464bd4a9b5d8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 28:12 \\fqa Meshillemoth \\ft is a variant of \\fqa Meshillemith\\ft ; see \\ref 1 Chronicles 9:12|1CH 9:12\\ref*.\\f*",
+          "raw_sha256": "2ae620a7fa14295b60f96f257dcde43de96faf41a131c64f9582a154ae4be3d8"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 28:16 \\ft LXX, Syriac, and Vulgate (see also \\ref 2 Kings 16:7|2KI 16:7\\ref*); Hebrew \\fqa kings\\f*",
+          "raw_sha256": "1ee9f218f4fc44a569a33f40be8677895d83b84d3efabfc91927591b3e0d6a70"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 28:18 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "eb08d3abbb4098e5d8f26fbbf6c29b4d5bd99d7a705f898048e6628c76058a29"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 28:19 \\ft That is, Judah; in 2 Chronicles, Judah is occasionally called Israel, as representative of the true Israel.\\f*",
+          "raw_sha256": "268474d42c81ac10ecf68ef702ddcef7b5a410409050210546a81bc2bdbaac15"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 28:20 \\ft Hebrew \\fqa Tilgath-pilneser\\ft , a variant spelling of \\fqa Tiglath-pileser\\f*",
+          "raw_sha256": "bc109107e14355cf5ce5b56f3921d983d47949fb215f3507054e305adfbf1b00"
+        }
+      ]
+    },
+    "29": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 29:1 \\fqa Abijah \\ft is a variant of \\fqa Abi\\ft ; see \\ref 2 Kings 18:2|2KI 18:2\\ref*.\\f*",
+          "raw_sha256": "30e429cc891b04cbcdf9d7cb0d91639ad66c1d9d16999e6cbec76b3c069ec31e"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 29:31 \\ft Or \\fqa filled your hand for the LORD\\f*",
+          "raw_sha256": "08e9750b22fe34ccb9a217953e7eaf487b05555d16b3b9db42fdc26a7c19c848"
+        }
+      ]
+    },
+    "30": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 30:2 \\ft See \\ref Numbers 9:9–12|NUM 9:9-12\\ref*.\\f*",
+          "raw_sha256": "76e33fa05c56cd6ca3e3f9b3c7abbf0d74f3e6ae58f06b9104e13317720dea27"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 30:13 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "171fd943646f5674f1bed384fb16b4507151ce10087cf2423769e3d7abe56820"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 30:21 \\ft Or \\fqa day after day, with all their strength to the LORD. \\ft Literally \\fqa day after day, with loud instruments to the LORD.\\f*",
+          "raw_sha256": "9800b6fa3dc4c545200b41f4d7d4352abdedf126d9b66269dea053680629ecee"
+        }
+      ]
+    },
+    "31": {
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 31:15 \\ft Or \\fqa whether large or small\\f*",
+          "raw_sha256": "46d69624107316e9207a10785ff015eaa47d7498a42005ce572941d917a32bee"
+        }
+      ]
+    },
+    "32": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 32:4 \\ft Hebrew; LXX and Syriac \\fqa king\\f*",
+          "raw_sha256": "cb5a5d915e93f9823eea54b0d90b1975c1fda8bb6ab57ed7d9c0247fe7a6ecb8"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 32:5 \\ft Hebrew \\fqa the Millo\\f*",
+          "raw_sha256": "b8c41461990480da64a8ea9ad7b64192b202ce1b22fef9511d650fb290a30816"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 32:8 \\ft Or \\fqa He has only the strength of his own flesh\\f*",
+          "raw_sha256": "b3a85ec1fd896156dbaf0357b00c62b9d9bc24d510afed84bf16edd3a6d43385"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 32:14 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "4a9b41a65f6d774dcbf68be34b5aea9816ee8ec24641e4953c6872b6cc3e0576"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 32:18 \\ft Or \\fqa in the dialect of Judah\\f*",
+          "raw_sha256": "c97d1b136fc63b5079ebf29b08c48084f0062f44bff95b5297857cef3bd23e05"
+        }
+      ]
+    },
+    "33": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 33:6 \\ft Literally \\fqa made his sons pass through the fire\\f*",
+          "raw_sha256": "079711c5898953441d038065d143529ccb8f804f6d3dd285e2d014d35c6c619e"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 33:15 \\ft Literally \\fqa the mountain of the house of the LORD\\f*",
+          "raw_sha256": "da0c1c5cdb336997d9dd836b8300131c8254471ebd83fd806db4179a1bf6b375"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 33:18 \\ft That is, Judah; in 2 Chronicles, Judah is occasionally called Israel, as representative of the true Israel.\\f*",
+          "raw_sha256": "145f3df9d943514bf28e84a0459977a8520e1245ea0aee6c8a43de3eb4769a07"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 33:19 \\ft Or \\fqa the Records of the Hozai \\ft or \\fqa the Annals of the Prophets\\f*",
+          "raw_sha256": "aec6b2dc41e02ffc2cdcf4eeabedb52fd4d72555ca4b7918768e8294d1517b2a"
+        }
+      ]
+    },
+    "34": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 34:6 \\ft Or \\fqa in the regions\\f*",
+          "raw_sha256": "42c98d7be0dfc2ec2914c65d71f62c9afc4dca17c9ab9b64d7c2104ec60214c7"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 34:14 \\ft Hebrew \\fqa the Law of the LORD by the hand of\\f*",
+          "raw_sha256": "8418bff9e04e8d4d4449ff8d012a60fae66eb259d16e6f1127b64664da18702c"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 34:20 \\fqa Abdon \\ft is a variant of \\fqa Achbor\\ft ; see \\ref 2 Kings 22:12|2KI 22:12\\ref*.\\f*",
+          "raw_sha256": "8d40e88177342810aaf45a93e2962b3e68c80f561bb07ae5f3dbc23564128eab"
+        },
+        {
+          "source_usfm": "\\f + \\fr 34:20 \\fqa Micah \\ft is a variant of \\fqa Micaiah\\ft ; see \\ref 2 Kings 22:12|2KI 22:12\\ref*.\\f*",
+          "raw_sha256": "05ca94453978a6801caab79393e82cbb495876a115efd4b6caee4d1797c829d2"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 34:22 \\ft One Hebrew manuscript, Vulgate, and Syriac; most Hebrew manuscripts \\fqa and those the king had told went to Huldah\\f*",
+          "raw_sha256": "18e9323ab5486eb11abc89c36283181d6f8e4388f3ef32b044dbe4dfb81bfea9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 34:22 \\fqa Tokhath \\ft is a variant of \\fqa Tikvah\\ft ; see \\ref 2 Kings 22:14|2KI 22:14\\ref*.\\f*",
+          "raw_sha256": "05b680df0616731265013bb2ab4806376106e15d002ce7d64990c8fd90c57221"
+        },
+        {
+          "source_usfm": "\\f + \\fr 34:22 \\fqa Hasrah \\ft is a variant of \\fqa Harhas\\ft ; see \\ref 2 Kings 22:14|2KI 22:14\\ref*.\\f*",
+          "raw_sha256": "432c29c628cd1c2a1a511524191e72bf035953b776f78005082f04ab9b234c95"
+        },
+        {
+          "source_usfm": "\\f + \\fr 34:22 \\ft Or \\fqa the Second Quarter\\ft , a newer section of Jerusalem; Hebrew \\fqa the Mishneh\\f*",
+          "raw_sha256": "de7a04698d0e4a193108ba012830165976bcf5e28fbcaa25ae2481e5b17d52da"
+        }
+      ]
+    },
+    "35": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 35:6 \\ft Hebrew \\fqa the word of the LORD by the hand of\\f*",
+          "raw_sha256": "159ca1e07445fd776aec3547f0ba7e03764f2b38890676671f9a6596660a7638"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 35:17 \\ft That is, the seven-day period after the Passover during which no leaven may be eaten; see \\ref Exodus 12:14–20|EXO 12:14-20\\ref*.\\f*",
+          "raw_sha256": "0f16192820f9b21f91c1d6b3c95e841514d5caf1f86403b523f5397f75236c47"
+        }
+      ]
+    },
+    "36": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 36:2 \\ft Hebrew \\fqa Joahaz\\ft , a variant of \\fqa Jehoahaz\\ft ; also in verse 4\\f*",
+          "raw_sha256": "dd4f6782eef042733bcdc16faaf63189294b8d0ecf85149104ac1179e302ff75"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 36:3 \\fqa 100 talents \\ft is approximately 3.77 tons or 3.42 metric tons of silver.\\f*",
+          "raw_sha256": "d1305ad810f4c883e5c6614fb5cf9bcb503f3572b30ae2198840a39aad3817d8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 36:3 \\fqa A talent \\ft is approximately 75.4 pounds or 34.2 kilograms of gold.\\f*",
+          "raw_sha256": "4f09fe2b5b752daa00bf726e34d09ec1df97ad5e5f1daf2775e77366c3a961ad"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 36:7 \\ft Or \\fqa palace\\f*",
+          "raw_sha256": "fe4dffbe3f780aed718c1fd799aa31e21768b0eb16d9f4db359c7f3b54298b4e"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 36:9 \\ft One Hebrew manuscript, some LXX manuscripts, and Syriac (see also \\ref 2 Kings 24:8|2KI 24:8\\ref*); most Hebrew manuscripts \\fqa eight\\f*",
+          "raw_sha256": "f5fa9226bb2b5996730f41cc8e9326258bb14c745a8e87d39fc67e84d0f8a247"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 36:10 \\ft Literally \\fqa At the turn of the year\\f*",
+          "raw_sha256": "c7b4973f7381bc43a22d1fccf9355c855eae31b2d5c1386a6c943556fddd703a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 36:10 \\ft Or \\fqa brother \\ft or \\fqa uncle\\f*",
+          "raw_sha256": "030467d79fb42934b042241d428ee44babb07e005a25208602d804a8478be9a6"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 36:13 \\ft Or \\fqa made strong \\ft or \\fqa made courageous\\f*",
+          "raw_sha256": "0c25e9edde8bb62bf0499eb4b2265bc69a5af562bfbbfd776f99509bf3f26917"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 36:15 \\ft Literally \\fqa Rising up early and sending (it),\\f*",
+          "raw_sha256": "e7a4225e5b607f34fc770a6bcecc9fed869958709f61b307f46b26d6f8f4063b"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 36:17 \\ft That is, the Babylonians; also clarified in verse 19\\f*",
+          "raw_sha256": "01dec60dfa692fa9dde43e10628fac8d13334255850cdb6ea7a1684d4ee7181b"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 36:21 \\ft See \\ref Jeremiah 25:12|JER 25:12\\ref* and Jeremiah 29:10.\\f*",
+          "raw_sha256": "2947ee10deeea05d1a5b7466b3a063a152537a8e0ad71d83e45803dac1031b40"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

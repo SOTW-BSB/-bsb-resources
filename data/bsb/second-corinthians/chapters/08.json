@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CO",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "2CO.8.1",
+      "edition_verse_id": "BSB:2CO.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now, brothers, we want you to know about the grace that God has given the churches of Macedonia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.2",
+      "edition_verse_id": "BSB:2CO.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In the terrible ordeal they suffered, their abundant joy and deep poverty overflowed into rich generosity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.3",
+      "edition_verse_id": "BSB:2CO.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For I testify that they gave according to their ability and even beyond it. Of their own accord,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.4",
+      "edition_verse_id": "BSB:2CO.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "they earnestly pleaded with us for the privilege of sharing in this service to the saints.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.5",
+      "edition_verse_id": "BSB:2CO.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And not only did they do as we expected, but they gave themselves first to the Lord and then to us, through the will of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.6",
+      "edition_verse_id": "BSB:2CO.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So we urged Titus to help complete your act of grace, just as he had started it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.7",
+      "edition_verse_id": "BSB:2CO.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But just as you excel in everything — in faith, in speech, in knowledge, in complete earnestness, and in the love we inspired in you — see that you also excel in this grace of giving.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.8",
+      "edition_verse_id": "BSB:2CO.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I am not giving a command, but I am testing the sincerity of your love through the earnestness of others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.9",
+      "edition_verse_id": "BSB:2CO.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sake He became poor, so that you through His poverty might become rich.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.10",
+      "edition_verse_id": "BSB:2CO.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And this is my opinion about what is helpful for you in this matter: Last year you were the first not only to give, but even to have such a desire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.11",
+      "edition_verse_id": "BSB:2CO.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now finish the work, so that you may complete it with the same eager desire, according to your means.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.12",
+      "edition_verse_id": "BSB:2CO.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "For if the eagerness is there, the gift is acceptable according to what one has, not according to what he does not have.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.13",
+      "edition_verse_id": "BSB:2CO.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "It is not our intention that others may be relieved while you are burdened, but that there may be equality.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.14",
+      "edition_verse_id": "BSB:2CO.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "At the present time, your surplus will meet their need, so that in turn their surplus will meet your need. This way there will be equality.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.15",
+      "edition_verse_id": "BSB:2CO.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As it is written: “He who gathered much had no excess, and he who gathered little had no shortfall.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.16",
+      "edition_verse_id": "BSB:2CO.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But thanks be to God, who put into the heart of Titus the same devotion I have for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.17",
+      "edition_verse_id": "BSB:2CO.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For not only did he welcome our appeal, but he is eagerly coming to you of his own volition.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.18",
+      "edition_verse_id": "BSB:2CO.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Along with Titus we are sending the brother who is praised by all the churches for his work in the gospel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.19",
+      "edition_verse_id": "BSB:2CO.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "More than that, this brother was chosen by the churches to accompany us with the gracious offering we administer to honor the Lord Himself and to show our eagerness to help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.20",
+      "edition_verse_id": "BSB:2CO.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "We want to avoid any criticism of the way we administer this generous gift.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.21",
+      "edition_verse_id": "BSB:2CO.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For we are taking great care to do what is right, not only in the eyes of the Lord, but also in the eyes of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.22",
+      "edition_verse_id": "BSB:2CO.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And we are sending along with them our brother who has proven his earnestness to us many times and in many ways, and now even more so by his great confidence in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.8.23",
+      "edition_verse_id": "BSB:2CO.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "As for Titus, he is my partner and fellow worker among you. As for our brothers, they are messengers of the churches, the glory of Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.8.24",
+      "edition_verse_id": "BSB:2CO.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "In full view of the churches, then, show these men the proof of your love and the reason for our boasting about you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CH",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "2CH.17.1",
+      "edition_verse_id": "BSB:2CH.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Asa’s son Jehoshaphat reigned in his place, and he strengthened himself against Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.17.2",
+      "edition_verse_id": "BSB:2CH.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He stationed troops in every fortified city of Judah and put garrisons in the land of Judah and in the cities of Ephraim that his father Asa had captured.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.3",
+      "edition_verse_id": "BSB:2CH.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Now the LORD was with Jehoshaphat because he walked in the earlier ways of his father David. He did not seek the Baals,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.17.4",
+      "edition_verse_id": "BSB:2CH.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "but he sought the God of his father and walked by His commandments rather than the practices of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.5",
+      "edition_verse_id": "BSB:2CH.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the LORD established the kingdom in his hand, and all Judah brought him tribute, so that he had an abundance of riches and honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.6",
+      "edition_verse_id": "BSB:2CH.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And his heart took delight in the ways of the LORD; furthermore, he removed the high places and Asherah poles from Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.7",
+      "edition_verse_id": "BSB:2CH.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "In the third year of his reign, Jehoshaphat sent his officials Ben-hail, Obadiah, Zechariah, Nethanel, and Micaiah to teach in the cities of Judah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.17.8",
+      "edition_verse_id": "BSB:2CH.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "accompanied by certain Levites — Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah, and Tob-adonijah — along with the priests Elishama and Jehoram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.9",
+      "edition_verse_id": "BSB:2CH.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They taught throughout Judah, taking with them the Book of the Law of the LORD. They went throughout the towns of Judah and taught the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.10",
+      "edition_verse_id": "BSB:2CH.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the dread of the LORD fell upon all the kingdoms of the lands that surrounded Judah, so that they did not make war against Jehoshaphat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.17.11",
+      "edition_verse_id": "BSB:2CH.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Some Philistines also brought gifts and silver as tribute to Jehoshaphat, and the Arabs brought him 7,700 rams and 7,700 goats from their flocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.12",
+      "edition_verse_id": "BSB:2CH.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Jehoshaphat grew stronger and stronger, and he built fortresses and store cities in Judah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.17.13",
+      "edition_verse_id": "BSB:2CH.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "and kept vast supplies in the cities of Judah. He also had warriors in Jerusalem who were mighty men of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.14",
+      "edition_verse_id": "BSB:2CH.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "These are their numbers according to the houses of their fathers: From Judah, the commanders of thousands: Adnah the commander, and with him 300,000 mighty men of valor;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.15",
+      "edition_verse_id": "BSB:2CH.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "next to him, Jehohanan the commander, and with him 280,000;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.16",
+      "edition_verse_id": "BSB:2CH.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and next to him, Amasiah son of Zichri, the volunteer for the LORD, and with him 200,000 mighty men of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.17",
+      "edition_verse_id": "BSB:2CH.17.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "From Benjamin: Eliada, a mighty man of valor, and with him 200,000 armed with bows and shields;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.18",
+      "edition_verse_id": "BSB:2CH.17.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and next to him, Jehozabad, and with him 180,000 armed for battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.17.19",
+      "edition_verse_id": "BSB:2CH.17.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "These were the men who served the king, besides those he stationed in the fortified cities throughout Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

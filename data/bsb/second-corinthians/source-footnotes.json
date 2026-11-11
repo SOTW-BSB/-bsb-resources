@@ -1,0 +1,213 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2CO",
+  "chapters": {
+    "1": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft Literally \\fqa in Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "8285a38badaee14fa675e515dbc7acb0ab1cc627fe140eeeaf17a7a306bcebc0"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft Literally \\fqa fleshly\\f*",
+          "raw_sha256": "76c14910e89251ed0e8a7d7f68da525d539476edeb8e7eecb52750d23bc3992d"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft BYZ and TR \\fqa the Lord Jesus\\f*",
+          "raw_sha256": "2aece089b5fff0c50c93589462a044e13fa1dca6949610695fc79825df16089b"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 1:19 \\ft That is, Silas\\f*",
+          "raw_sha256": "10e8ae93077386a0dbdf1e2867a6c93378fca50b7aa9cd2de832dc1fe30f427f"
+        }
+      ]
+    },
+    "2": {
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft Literally \\fqa To the one, indeed, an aroma from death to death; but to the other, an aroma from life to life.\\f*",
+          "raw_sha256": "373329649001c140bae86379efe7a9e1bcf712d30360a3c7144d87a96357405e"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 4:1 \\ft Literally \\fqa Therefore, having this ministry, as we have received mercy,\\f*",
+          "raw_sha256": "d9e24ec701233a3329bf9fe7154cb5bb758c81790ac7d7ab2945165b18cb608c"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft \\ref Genesis 1:3|GEN 1:3\\ref*\\f*",
+          "raw_sha256": "0f61179bee84a54c124b98a729f8b913340b20c85a6b00c0c4b434498faa9a9b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft SBL, NE, and WH \\fqa in the face of Christ\\f*",
+          "raw_sha256": "13e45c92257e8003a4683165cd4d14816032c110327ee13217c0dc501af84130"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 4:13 \\ft \\ref Psalm 116:10|PSA 116:10\\ref* (see also LXX)\\f*",
+          "raw_sha256": "b5ed36ddcb8b7a277ce48733f52490fac04234983ea0a2f2d766deae6face0ed"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 4:14 \\ft SBL \\fqa who raised Jesus\\f*",
+          "raw_sha256": "7e3deb0ed8f1c26d50c30d64b4e505968cccdc4fe3960d4a07ababf183cbb622"
+        }
+      ]
+    },
+    "5": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 5:17 \\ft Or \\fqa a new creature\\f*",
+          "raw_sha256": "d9f53335fdf660ac6cfd8466a07ae0418c7ca528b7611a9c1383a6cb4348ad5c"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 5:21 \\ft Or \\fqa a sin offering\\f*",
+          "raw_sha256": "289859f38feefa3b000799e2add6faa513394d671d7d4d7ebb676a63993eaf65"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\ft Literally \\fqa Now working together\\f*",
+          "raw_sha256": "3948fae315e1fa2adb61940f6340b7bcd58bc14e024a4c74cd95595ca7389df1"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 6:2 \\ft \\ref Isaiah 49:8|ISA 49:8\\ref* (see also LXX)\\f*",
+          "raw_sha256": "bcd6081a5133da316831077695a3a83932dc53272d76ffcb05cba181b4d6ff4d"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 6:15 \\ft Scrivener’s TR and PT; many Greek sources \\fqa Beliar\\f*",
+          "raw_sha256": "b5fbe91417cee4c43afa3e12cbce3f9feafaa0a19b845a7497f2f31fcc3547b3"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 6:16 \\ft \\ref Leviticus 26:12|LEV 26:12\\ref*; Jeremiah 32:38; Ezekiel 37:27\\f*",
+          "raw_sha256": "606c80fb7880b58f33789f5d29b360ef80071e309cefad6871ba624a6c35c590"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 6:17 \\ft \\ref Isaiah 52:11|ISA 52:11\\ref*; see also Ezekiel 20:34, including LXX.\\f*",
+          "raw_sha256": "5ed3a0b1516051f55eac6853580c13b413ae5944ad3fb331e8b06fb6b91a7427"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 6:18 \\ft See \\ref 2 Samuel 7:14|2SA 7:14\\ref*.\\f*",
+          "raw_sha256": "3650254bc17ff570deaf39f68a6acce9f3c86c2e79290398d6796d67e01b0d1d"
+        }
+      ]
+    },
+    "8": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 8:7 \\ft Or \\fqa in your love for us\\f*",
+          "raw_sha256": "63fad3ee2299e1cb26198cb5fe8dc054c6cfaa028c359e72d217172fcc10a240"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 8:15 \\ft \\ref Exodus 16:18|EXO 16:18\\ref*\\f*",
+          "raw_sha256": "b85c37afd67371fe82dc0c39242e5e0425a7b0d5f07ec32efd626bf77b310a27"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 8:19 \\ft See \\ref 1 Corinthians 16:3–4|1CO 16:3-4\\ref*.\\f*",
+          "raw_sha256": "ec7960771f64caed96c7369f22f8466eb7d738097c43ba8439d59acfd889a5d1"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 8:23 \\ft Or \\fqa apostles\\f*",
+          "raw_sha256": "768bafdbe7da9eaf957996a9447cd35d3c26f8baf57c2d7cb667192b373f0a6a"
+        }
+      ]
+    },
+    "9": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 9:7 \\ft See \\ref Proverbs 22:8|PRO 22:8\\ref*, LXX addition.\\f*",
+          "raw_sha256": "25244d2ca22dcf0554ef8e490ed001c7eabaaf3636f1f91fe8ac6ea44e940b91"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 9:9 \\ft \\ref Psalm 112:9|PSA 112:9\\ref*\\f*",
+          "raw_sha256": "9e5c8a17cf18441d44af209f812e9f5a230080c2a93e03e553fa4c1b1dc9bcbc"
+        }
+      ]
+    },
+    "10": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 10:17 \\ft \\ref Jeremiah 9:24|JER 9:24\\ref*\\f*",
+          "raw_sha256": "3c3cf0dcff47e9c17ca07b0fd11a61cbec5acbce0cd010267b5dc572cbf143d4"
+        }
+      ]
+    },
+    "11": {
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 11:31 \\ft Or \\fqa forever blessed\\f*",
+          "raw_sha256": "c639db67376efc33d356458379eb411e5ad48a284d5c4ffa5fb6370f1952e065"
+        }
+      ]
+    },
+    "12": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 12:7 \\ft Some translators end the previous paragraph after verse 6, and begin verse 7 with \\fqa So to keep me from becoming conceited because of these surpassingly great revelations,\\f*",
+          "raw_sha256": "58589f9982390979c243d286e445998eb01ef35451804feac319873ebbb70f12"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 12:18 \\ft Literally \\fqa Did we not walk in the same Spirit? Not in the same footsteps?\\f*",
+          "raw_sha256": "d2daf1c304e40fd7ec8fcde63564bb881823436aa82051044ed180d2e89abdc1"
+        }
+      ]
+    },
+    "13": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 13:1 \\ft \\ref Deuteronomy 19:15|DEU 19:15\\ref*\\f*",
+          "raw_sha256": "9497a5220043ccde10ece4570f2c8c043596aa981787a1b736047021d42e5dc4"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 13:11 \\ft Or \\fqa listen to my appeal\\f*",
+          "raw_sha256": "0e9449dd212cbd76209afeb0a5c2504a7b974af223ddc93b1d43e4d0973f913e"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 13:14 \\ft Texts vary in verse numbering for the last three verses of this chapter. BYZ ends with \\fqa Amen\\ft .\\f*",
+          "raw_sha256": "5a4ae70cb01d779db764dadd2a0aef840566cb9dd229170e692baeadce3151ff"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

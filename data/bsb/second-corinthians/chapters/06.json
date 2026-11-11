@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CO",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "2CO.6.1",
+      "edition_verse_id": "BSB:2CO.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "As God’s fellow workers, then, we urge you not to receive God’s grace in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.6.2",
+      "edition_verse_id": "BSB:2CO.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "For He says: “In the time of favor I heard you, and in the day of salvation I helped you.” Behold, now is the time of favor; now is the day of salvation!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.3",
+      "edition_verse_id": "BSB:2CO.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "We put no obstacle in anyone’s way, so that no one can discredit our ministry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.6.4",
+      "edition_verse_id": "BSB:2CO.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Rather, as servants of God we commend ourselves in every way: in great endurance; in troubles, hardships, and calamities;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.6.5",
+      "edition_verse_id": "BSB:2CO.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "in beatings, imprisonments, and riots; in labor, sleepless nights, and hunger;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.6",
+      "edition_verse_id": "BSB:2CO.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "in purity, knowledge, patience, and kindness; in the Holy Spirit and in sincere love;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.7",
+      "edition_verse_id": "BSB:2CO.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "in truthful speech and in the power of God; with the weapons of righteousness in the right hand and in the left;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.8",
+      "edition_verse_id": "BSB:2CO.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "through glory and dishonor, slander and praise; viewed as imposters, yet genuine;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.9",
+      "edition_verse_id": "BSB:2CO.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "unknown, yet well-known; dying, and yet we live on; punished, yet not killed;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.10",
+      "edition_verse_id": "BSB:2CO.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "sorrowful, yet always rejoicing; poor, yet making many rich; having nothing, and yet possessing everything.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.11",
+      "edition_verse_id": "BSB:2CO.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "We have spoken freely to you, Corinthians. Our hearts are open wide.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.6.12",
+      "edition_verse_id": "BSB:2CO.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "It is not our affection, but yours, that is restrained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.13",
+      "edition_verse_id": "BSB:2CO.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "As a fair exchange— I speak as to my children— open wide your hearts also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.14",
+      "edition_verse_id": "BSB:2CO.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Do not be unequally yoked with unbelievers. For what partnership can righteousness have with wickedness? Or what fellowship does light have with darkness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CO.6.15",
+      "edition_verse_id": "BSB:2CO.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "What harmony is there between Christ and Belial? Or what does a believer have in common with an unbeliever?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.16",
+      "edition_verse_id": "BSB:2CO.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "What agreement can exist between the temple of God and idols? For we are the temple of the living God. As God has said: “I will dwell with them and walk among them, and I will be their God, and they will be My people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.17",
+      "edition_verse_id": "BSB:2CO.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CO.6.18",
+      "edition_verse_id": "BSB:2CO.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And: “I will be a Father to you, and you will be My sons and daughters, says the Lord Almighty.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

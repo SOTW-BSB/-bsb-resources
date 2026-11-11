@@ -1,0 +1,167 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2SA",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Saul’s Death Reported to David",
+        "\\s1 David’s Song for Saul and Jonathan"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 David Anointed King of Judah",
+        "\\s1 Ish-bosheth Made King of Israel",
+        "\\s1 The Battle of Gibeon"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The House of David Strengthened",
+        "\\s1 Abner Joins David",
+        "\\s1 Joab Murders Abner",
+        "\\s1 David Mourns for Abner"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Murder of Ish-bosheth",
+        "\\s1 The Execution of Rechab and Baanah"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 David Anointed King of All Israel",
+        "\\s1 David Conquers Jerusalem",
+        "\\s1 David’s Family Grows",
+        "\\s1 Two Victories over the Philistines"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 David Fetches the Ark",
+        "\\s1 Uzzah Touches the Ark",
+        "\\s1 The Ark Brought to Jerusalem",
+        "\\s1 Michal’s Contempt for David"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 God’s Covenant with David",
+        "\\s1 David’s Prayer of Thanksgiving"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 David’s Triumphs",
+        "\\s1 David’s Officers"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 David and Mephibosheth"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 David’s Messengers Disgraced",
+        "\\s1 David Defeats Ammon and Aram"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 David and Bathsheba",
+        "\\s1 David Arranges Uriah’s Death",
+        "\\s1 David Marries Bathsheba"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Nathan Rebukes David",
+        "\\s1 David’s Loss and Repentance",
+        "\\s1 Solomon’s Birth",
+        "\\s1 The Capture of Rabbah"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Amnon and Tamar",
+        "\\s1 Absalom’s Revenge on Amnon",
+        "\\s1 Absalom Flees to Geshur"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Absalom’s Return to Jerusalem",
+        "\\s1 Absalom Reconciled to David"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Absalom’s Conspiracy",
+        "\\s1 David Flees Jerusalem",
+        "\\s1 David Weeps at the Mount of Olives"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 David and Ziba",
+        "\\s1 Shimei Curses David",
+        "\\s1 The Counsel of Ahithophel and Hushai"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 Hushai Counters Ahithophel’s Advice",
+        "\\s1 Hushai’s Warning Saves David"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 Absalom Killed",
+        "\\s1 David Mourns for Absalom"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 Joab Reproves David",
+        "\\s1 David Restored as King",
+        "\\s1 Shimei Pardoned",
+        "\\s1 Mephibosheth Excused",
+        "\\s1 David’s Kindness to Barzillai",
+        "\\s1 Contention over the King"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Sheba’s Rebellion"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 David Avenges the Gibeonites",
+        "\\s1 Four Battles against the Philistines"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 David’s Song of Deliverance"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 David’s Last Song",
+        "\\s1 David’s Mighty Men"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 David’s Military Census",
+        "\\s1 Judgment for David’s Sin",
+        "\\s1 A Plague on Israel",
+        "\\s1 David Builds an Altar"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

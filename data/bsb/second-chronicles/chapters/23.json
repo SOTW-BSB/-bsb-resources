@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CH",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "2CH.23.1",
+      "edition_verse_id": "BSB:2CH.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds — with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.2",
+      "edition_verse_id": "BSB:2CH.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So they went throughout Judah and gathered the Levites from all the cities of Judah and the heads of the families of Israel. And when they came to Jerusalem,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.3",
+      "edition_verse_id": "BSB:2CH.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "the whole assembly made a covenant with the king in the house of God. “Behold, the king’s son!” said Jehoiada. “He must reign, just as the LORD promised concerning the descendants of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.4",
+      "edition_verse_id": "BSB:2CH.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "This is what you are to do: A third of you priests and Levites who come on duty on the Sabbath shall keep watch at the doors,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.5",
+      "edition_verse_id": "BSB:2CH.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "a third shall be at the royal palace, and a third at the Foundation Gate, while all the others are to be in the courtyards of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.6",
+      "edition_verse_id": "BSB:2CH.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "No one is to enter the house of the LORD except the priests and those Levites who serve; they may enter because they are consecrated, but all the people are to obey the requirement of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.7",
+      "edition_verse_id": "BSB:2CH.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The Levites must surround the king with weapons in hand, and anyone who enters the temple must be put to death. You must stay close to the king wherever he goes.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.8",
+      "edition_verse_id": "BSB:2CH.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So the Levites and all Judah did everything that Jehoiada the priest had ordered. Each of them took his men— those coming on duty on the Sabbath and those going off duty— for Jehoiada the priest had not released any of the divisions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.9",
+      "edition_verse_id": "BSB:2CH.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then Jehoiada the priest gave to the commanders of hundreds the spears and the large and small shields of King David that were in the house of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.10",
+      "edition_verse_id": "BSB:2CH.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He stationed all the troops, with their weapons in hand, surrounding the king by the altar and the temple, from the south side to the north side of the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.11",
+      "edition_verse_id": "BSB:2CH.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Jehoiada and his sons brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him and shouted, “Long live the king!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.12",
+      "edition_verse_id": "BSB:2CH.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When Athaliah heard the noise of the people running and cheering the king, she went out to them in the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.13",
+      "edition_verse_id": "BSB:2CH.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And she looked and saw the king standing by his pillar at the entrance. The officers and trumpeters were beside the king, and all the people of the land were rejoicing and blowing trumpets, while the singers with musical instruments were leading the praises. Then Athaliah tore her clothes and screamed, “Treason, treason!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.14",
+      "edition_verse_id": "BSB:2CH.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Jehoiada the priest sent out the commanders of hundreds in charge of the army, saying, “Bring her out between the ranks, and put to the sword anyone who follows her.” For the priest had said, “She must not be put to death in the house of the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.15",
+      "edition_verse_id": "BSB:2CH.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So they seized Athaliah as she reached the entrance of the Horse Gate on the palace grounds, and there they put her to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.16",
+      "edition_verse_id": "BSB:2CH.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then Jehoiada made a covenant between himself and the king and the people that they would be the LORD’s people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.17",
+      "edition_verse_id": "BSB:2CH.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So all the people went to the temple of Baal and tore it down. They smashed the altars and idols to pieces and killed Mattan the priest of Baal in front of the altars.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.18",
+      "edition_verse_id": "BSB:2CH.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Moreover , Jehoiada put the oversight of the house of the LORD into the hands of the Levitical priests, whom David had appointed over the house of the LORD, to offer burnt offerings to the LORD as written in the Law of Moses, with rejoicing and song, as ordained by David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.19",
+      "edition_verse_id": "BSB:2CH.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He stationed gatekeepers at the gates of the house of the LORD, so that no one who was in any way unclean could enter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.23.20",
+      "edition_verse_id": "BSB:2CH.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he took with him the commanders of hundreds, the nobles, the rulers of the people, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace through the Upper Gate. They seated King Joash on the royal throne,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.23.21",
+      "edition_verse_id": "BSB:2CH.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "and all the people of the land rejoiced. And the city was quiet, because Athaliah had been put to the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

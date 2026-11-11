@@ -1,0 +1,27 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2JN",
+  "chapters": {
+    "1": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 1:8 \\ft NE and WH \\fqa what you have worked for\\f*",
+          "raw_sha256": "7824610067db64201b117e1cdb9a479eebd800e47f586f42e8a4f5fe739219c3"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft Literally \\fqa mouth to mouth\\f*",
+          "raw_sha256": "88d85722adbf66678e019cd61a8282073c040ec0a6525dc73549b1b2daa6e0b9"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "4d82a4314e82f765bfdf7a9daa40f099d509306cb81aedbc3e38d4499ee1a899"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

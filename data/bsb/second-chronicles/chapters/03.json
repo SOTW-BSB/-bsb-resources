@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CH",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "2CH.3.1",
+      "edition_verse_id": "BSB:2CH.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. This was the place that David had prepared on the threshing floor of Ornan the Jebusite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.3.2",
+      "edition_verse_id": "BSB:2CH.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Solomon began construction on the second day of the second month in the fourth year of his reign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.3.3",
+      "edition_verse_id": "BSB:2CH.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The foundation that Solomon laid for the house of God was sixty cubits long and twenty cubits wide, according to the old standard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.3.4",
+      "edition_verse_id": "BSB:2CH.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The portico at the front, extending across the width of the temple, was twenty cubits long and twenty cubits high. He overlaid the inside with pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.3.5",
+      "edition_verse_id": "BSB:2CH.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He paneled the main room with cypress, which he overlaid with fine gold and decorated with palm trees and chains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.3.6",
+      "edition_verse_id": "BSB:2CH.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He adorned the temple with precious stones for beauty, and its gold was from Parvaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.3.7",
+      "edition_verse_id": "BSB:2CH.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He overlaid its beams, thresholds, walls, and doors with gold, and he carved cherubim on the walls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.3.8",
+      "edition_verse_id": "BSB:2CH.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then he made the Most Holy Place; its length corresponded to the width of the temple— twenty cubits long and twenty cubits wide. And he overlaid the inside with six hundred talents of fine gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.3.9",
+      "edition_verse_id": "BSB:2CH.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The weight of the nails was fifty shekels of gold. He also overlaid the upper rooms with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.3.10",
+      "edition_verse_id": "BSB:2CH.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "In the Most Holy Place he made two cherubim of sculptured work, and he overlaid them with gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.3.11",
+      "edition_verse_id": "BSB:2CH.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The total wingspan of the cherubim was twenty cubits. One wing of the first cherub was five cubits long and touched the wall of the temple, and its other wing was five cubits long and touched the wing of the other cherub.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.3.12",
+      "edition_verse_id": "BSB:2CH.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The wing of the second cherub also measured five cubits and touched the wall of the temple, while its other wing measured five cubits and touched the wing of the first cherub.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.3.13",
+      "edition_verse_id": "BSB:2CH.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So the total wingspan of these cherubim was twenty cubits. They stood on their feet, facing the main room.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.3.14",
+      "edition_verse_id": "BSB:2CH.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He made the veil of blue, purple, and crimson yarn and fine linen, with cherubim woven into it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.3.15",
+      "edition_verse_id": "BSB:2CH.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In front of the temple he made two pillars, which together were thirty-five cubits high, each with a capital on top measuring five cubits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.3.16",
+      "edition_verse_id": "BSB:2CH.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He made interwoven chains and put them on top of the pillars. He made a hundred pomegranates and fastened them into the chainwork.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.3.17",
+      "edition_verse_id": "BSB:2CH.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then he set up the pillars in front of the temple, one on the south and one on the north. The pillar on the south he named Jachin, and the pillar on the north he named Boaz.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

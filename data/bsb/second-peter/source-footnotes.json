@@ -1,0 +1,121 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2PE",
+  "chapters": {
+    "1": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 1:3 \\ft Or \\fqa to His own\\f*",
+          "raw_sha256": "5b3d09d0442d1a6893fdf88acf931a7c56bd5ea547e631d7b5436686a46c8f9f"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Literally \\fqa as long as I am in this tent\\f*",
+          "raw_sha256": "347a014540ce80c57666ea1fa5cd16e219f138370813c4403a75ce0859b14790"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\ft \\ref Matthew 17:5|MAT 17:5\\ref*; see also Mark 9:7 and Luke 9:35.\\f*",
+          "raw_sha256": "4030fe01f3a7ce4c0064b15b176e8674e831315c0c6eacb1790da983e8d3955c"
+        }
+      ]
+    },
+    "2": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 2:4 \\ft Greek \\fqa cast them into Tartarus\\ft ; see the First Book of Enoch (\\ref 1 Enoch 13:1–11|13:1-11\\ref* and 1 Enoch 20:1–4).\\f*",
+          "raw_sha256": "fc791d56873a8e337b43cda4d1b5f4917cdbaa4ec3b862978ea4e4bd2772de88"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft WH does not include \\fqa to destruction\\ft .\\f*",
+          "raw_sha256": "f299b8a3f61e93699e1e4761903033bf7a0e193b2a93a36f0b6ae44538450e7c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Or \\fqa on future generations of the ungodly\\f*",
+          "raw_sha256": "240ba673ceab3b7a2fbbaf6f109333a9723790bf5edebfade81836b0bc165ec7"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\ft Or \\fqa to blaspheme angelic majesties\\f*",
+          "raw_sha256": "aba5813097bf535b307503810f267c3a98cb93a61718cb7d669e456a94e3f2a9"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 2:15 \\ft NA, SBL, BYZ, and TR \\fqa Bosor\\f*",
+          "raw_sha256": "61728e95c136c91e6453a05d066e5450b277eaa92ae41243bd8188573c232716"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 2:20 \\ft SBL and WH \\fqa the Lord and Savior Jesus Christ\\f*",
+          "raw_sha256": "cb29ef548b55afd4d00e649f2c213e9923145050508d3d7f95f61eb613050624"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 2:22 \\ft \\ref Proverbs 26:11|PRO 26:11\\ref*\\f*",
+          "raw_sha256": "1dcd15b83e2733301a1025b9d90ea6997851f7c24b8a9f73650270851601963a"
+        }
+      ]
+    },
+    "3": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft See \\ref Jude 1:18|JUD 18\\ref*.\\f*",
+          "raw_sha256": "c46889d205c3295b5407c2bd950019e3da718fbc5c509ba0d8e86c33d9c830b5"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft NA \\fqa through whom\\f*",
+          "raw_sha256": "8c5b6f39485cb55d24962de0714842db319e4a827df94557a95a09ef43c7c6ee"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft See \\ref Psalm 90:4|PSA 90:4\\ref*.\\f*",
+          "raw_sha256": "01e5984d556c2eaa764b65c840c35820735680cd06a56f0245f104daf39eb266"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 3:10 \\ft Or \\fqa dissolved\\ft ; also in verses 11 and 12.\\f*",
+          "raw_sha256": "49891abf75cc1b7481adad40ba6ee600455795f115e25d5fc42f720139c2e200"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:10 \\ft Or \\fqa will not be found\\ft . BYZ and TR \\fqa will be burned up\\ft ; SBL, NE, and WH \\fqa will be found\\ft , i.e., \\fqa will be unable to hide\\ft .\\f*",
+          "raw_sha256": "039c51299ea94bcb5b765a30ac4df910db4888daa5fab9f91056c6880343d474"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 3:14 \\ft Or \\fqa to be found by Him in peace, without spot and without blemish.\\f*",
+          "raw_sha256": "a1af3ce11d9a1d6e86921548adbea41d1876c11fbcaa8415c224ed77da9ebbe0"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft Or \\fqa in all the letters\\f*",
+          "raw_sha256": "d6f107f23c966d7c0cc1f57df73d45ad7efe66cfccc6897eb10b5870074f555b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft NA \\fqa will distort\\f*",
+          "raw_sha256": "a0af9ed8578969e0d30b0a88241bdd45497ad794320874239c61e5f1add70aef"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 3:18 \\ft NE, WH, and NA do not include \\fqa Amen.\\f*",
+          "raw_sha256": "7f24b1ff574a6df2d4c35947edc805984413068c8a3a716324ded3e327b5ae41"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

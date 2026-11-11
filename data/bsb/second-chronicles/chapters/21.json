@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CH",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "2CH.21.1",
+      "edition_verse_id": "BSB:2CH.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.2",
+      "edition_verse_id": "BSB:2CH.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; these were all sons of Jehoshaphat king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.3",
+      "edition_verse_id": "BSB:2CH.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Their father had given them many gifts of silver and gold and precious things, as well as the fortified cities in Judah; but he gave the kingdom to Jehoram because he was the firstborn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.4",
+      "edition_verse_id": "BSB:2CH.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When Jehoram had established himself over his father’s kingdom, he strengthened himself by putting to the sword all his brothers along with some of the princes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.5",
+      "edition_verse_id": "BSB:2CH.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.6",
+      "edition_verse_id": "BSB:2CH.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.7",
+      "edition_verse_id": "BSB:2CH.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Yet the LORD was unwilling to destroy the house of David, because of the covenant He had made with David, and since He had promised to maintain a lamp for David and his descendants forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.8",
+      "edition_verse_id": "BSB:2CH.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In the days of Jehoram, Edom rebelled against the hand of Judah and appointed their own king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.9",
+      "edition_verse_id": "BSB:2CH.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So Jehoram crossed into Edom with his officers and all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked by night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.10",
+      "edition_verse_id": "BSB:2CH.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled against his hand at the same time, because Jehoram had forsaken the LORD, the God of his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.11",
+      "edition_verse_id": "BSB:2CH.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jehoram had also built high places on the hills of Judah; he had caused the people of Jerusalem to prostitute themselves and had led Judah astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.12",
+      "edition_verse_id": "BSB:2CH.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then a letter came to Jehoram from Elijah the prophet, which stated: “This is what the LORD, the God of your father David, says: ‘You have not walked in the ways of your father Jehoshaphat or of Asa king of Judah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.13",
+      "edition_verse_id": "BSB:2CH.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "but you have walked in the ways of the kings of Israel and have caused Judah and the people of Jerusalem to prostitute themselves, just as the house of Ahab prostituted itself. You have also killed your brothers, your father’s family, who were better than you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.14",
+      "edition_verse_id": "BSB:2CH.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So behold, the LORD is about to strike your people, your sons, your wives, and all your possessions with a serious blow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.15",
+      "edition_verse_id": "BSB:2CH.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And day after day you yourself will suffer from a severe illness, a disease of your bowels, until it causes your bowels to come out.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.16",
+      "edition_verse_id": "BSB:2CH.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the LORD stirred against Jehoram the spirit of the Philistines and Arabs who lived near the Cushites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.17",
+      "edition_verse_id": "BSB:2CH.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So they went to war against Judah, invaded it, and carried off all the possessions found in the king’s palace, along with his sons and wives; not a son was left to him except Jehoahaz, his youngest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.18",
+      "edition_verse_id": "BSB:2CH.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "After all this, the LORD afflicted Jehoram with an incurable disease of the bowels.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.21.19",
+      "edition_verse_id": "BSB:2CH.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "This continued day after day until two full years had passed. Finally, his intestines came out because of his disease, and he died in severe pain. And his people did not make a fire in his honor as they had done for his fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.21.20",
+      "edition_verse_id": "BSB:2CH.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He died, to no one’s regret, and was buried in the City of David, but not in the tombs of the kings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

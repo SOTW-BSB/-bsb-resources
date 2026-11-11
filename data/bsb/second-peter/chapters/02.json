@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2PE",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "2PE.2.1",
+      "edition_verse_id": "BSB:2PE.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them — bringing swift destruction on themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.2",
+      "edition_verse_id": "BSB:2PE.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Many will follow in their depravity, and because of them the way of truth will be defamed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.3",
+      "edition_verse_id": "BSB:2PE.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "In their greed, these false teachers will exploit you with deceptive words. The longstanding verdict against them remains in force, and their destruction does not sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.4",
+      "edition_verse_id": "BSB:2PE.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For if God did not spare the angels when they sinned, but cast them deep into hell, placing them in chains of darkness to be held for judgment;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.5",
+      "edition_verse_id": "BSB:2PE.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "if He did not spare the ancient world when He brought the flood on its ungodly people, but preserved Noah, a preacher of righteousness, among the eight;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.6",
+      "edition_verse_id": "BSB:2PE.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes as an example of what is coming on the ungodly;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.7",
+      "edition_verse_id": "BSB:2PE.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and if He rescued Lot, a righteous man distressed by the depraved conduct of the lawless",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.8",
+      "edition_verse_id": "BSB:2PE.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "(for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard )—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.9",
+      "edition_verse_id": "BSB:2PE.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "if all this is so, then the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.10",
+      "edition_verse_id": "BSB:2PE.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Such punishment is specially reserved for those who indulge the corrupt desires of the flesh and despise authority. Bold and self-willed, they are unafraid to slander glorious beings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.11",
+      "edition_verse_id": "BSB:2PE.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Yet not even angels, though greater in strength and power, dare to bring such slanderous charges against them before the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.12",
+      "edition_verse_id": "BSB:2PE.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "These men are like irrational animals, creatures of instinct, born to be captured and destroyed. They blaspheme in matters they do not understand, and like such creatures, they too will be destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.13",
+      "edition_verse_id": "BSB:2PE.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The harm they will suffer is the wages of their wickedness. They consider it a pleasure to carouse in broad daylight. They are blots and blemishes, reveling in their deception as they feast with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.14",
+      "edition_verse_id": "BSB:2PE.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Their eyes are full of adultery; their desire for sin is never satisfied; they seduce the unstable. They are accursed children with hearts trained in greed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.15",
+      "edition_verse_id": "BSB:2PE.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They have left the straight way and wandered off to follow the way of Balaam son of Beor, who loved the wages of wickedness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.16",
+      "edition_verse_id": "BSB:2PE.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But he was rebuked for his transgression by a donkey, otherwise without speech, that spoke with a man’s voice and restrained the prophet’s madness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.17",
+      "edition_verse_id": "BSB:2PE.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "These men are springs without water and mists driven by a storm. Blackest darkness is reserved for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.18",
+      "edition_verse_id": "BSB:2PE.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "With lofty but empty words, they appeal to the sensual passions of the flesh and entice those who are just escaping from others who live in error.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.19",
+      "edition_verse_id": "BSB:2PE.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "They promise them freedom, while they themselves are slaves to depravity. For a man is a slave to whatever has mastered him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.20",
+      "edition_verse_id": "BSB:2PE.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If indeed they have escaped the corruption of the world through the knowledge of our Lord and Savior Jesus Christ, only to be entangled and overcome by it again, their final condition is worse than it was at first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2PE.2.21",
+      "edition_verse_id": "BSB:2PE.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "It would have been better for them not to have known the way of righteousness than to have known it and then to turn away from the holy commandment passed on to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2PE.2.22",
+      "edition_verse_id": "BSB:2PE.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed goes back to her wallowing in the mud.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

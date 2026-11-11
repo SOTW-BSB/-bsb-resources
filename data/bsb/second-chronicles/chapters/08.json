@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CH",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "2CH.8.1",
+      "edition_verse_id": "BSB:2CH.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now at the end of the twenty years during which Solomon had built the house of the LORD and his own palace,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.2",
+      "edition_verse_id": "BSB:2CH.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Solomon rebuilt the cities Hiram had given him and settled Israelites there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.8.3",
+      "edition_verse_id": "BSB:2CH.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Solomon went to Hamath-zobah and captured it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.4",
+      "edition_verse_id": "BSB:2CH.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "He built Tadmor in the wilderness, in addition to all the store cities that he had built in Hamath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.8.5",
+      "edition_verse_id": "BSB:2CH.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He rebuilt Upper and Lower Beth-horon as fortified cities with walls, gates, and bars,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.8.6",
+      "edition_verse_id": "BSB:2CH.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "as well as Baalath, all the store cities that belonged to Solomon, and all the cities for his chariots and horses — whatever he desired to build in Jerusalem, Lebanon, and throughout the land of his dominion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.8.7",
+      "edition_verse_id": "BSB:2CH.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "As for all the people who remained of the Hittites, Amorites, Perizzites, Hivites, and Jebusites (these people were not Israelites) —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.8",
+      "edition_verse_id": "BSB:2CH.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "their descendants who remained in the land, those whom the Israelites had not destroyed — Solomon conscripted these people to be forced laborers, as they are to this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.8.9",
+      "edition_verse_id": "BSB:2CH.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But Solomon did not consign any of the Israelites to slave labor, because they were his men of war, the leaders of his captains, and the commanders of his chariots and cavalry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.10",
+      "edition_verse_id": "BSB:2CH.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They were also the chief officers for King Solomon: 250 supervisors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.8.11",
+      "edition_verse_id": "BSB:2CH.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Solomon brought the daughter of Pharaoh up from the City of David to the palace he had built for her. For he said, “My wife must not live in the house of David king of Israel, because the places the ark of the LORD has entered are holy.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.12",
+      "edition_verse_id": "BSB:2CH.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "At that time Solomon offered burnt offerings to the LORD on the altar of the LORD he had built in front of the portico.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.13",
+      "edition_verse_id": "BSB:2CH.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He observed the daily requirement for offerings according to the commandment of Moses for Sabbaths, New Moons, and the three annual appointed feasts — the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.8.14",
+      "edition_verse_id": "BSB:2CH.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In keeping with the ordinances of his father David, Solomon appointed the divisions of the priests over their service, and the Levites for their duties to offer praise and to minister before the priests according to the daily requirement. He also appointed gatekeepers by their divisions at each gate, for this had been the command of David, the man of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.15",
+      "edition_verse_id": "BSB:2CH.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They did not turn aside from the king’s command regarding the priests or the Levites in any matter, including that of the treasuries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.8.16",
+      "edition_verse_id": "BSB:2CH.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Thus all the work of Solomon was carried out, from the day the foundation was laid for the house of the LORD until it was finished. So the house of the LORD was completed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.17",
+      "edition_verse_id": "BSB:2CH.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Solomon went to Ezion-geber and to Eloth on the coast of Edom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.8.18",
+      "edition_verse_id": "BSB:2CH.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So Hiram sent him ships captained by his servants, along with crews of experienced sailors. They went with Solomon’s servants to Ophir and acquired from there 450 talents of gold, which they delivered to King Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

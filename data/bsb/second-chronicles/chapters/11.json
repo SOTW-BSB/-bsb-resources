@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CH",
+  "chapter": 11,
+  "verses": [
+    {
+      "id": "2CH.11.1",
+      "edition_verse_id": "BSB:2CH.11.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When Rehoboam arrived in Jerusalem, he mobilized the house of Judah and Benjamin — 180,000 chosen warriors — to fight against Israel and restore the kingdom to Rehoboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.2",
+      "edition_verse_id": "BSB:2CH.11.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But the word of the LORD came to Shemaiah the man of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.3",
+      "edition_verse_id": "BSB:2CH.11.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“Tell Rehoboam son of Solomon king of Judah and all the Israelites in Judah and Benjamin",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.4",
+      "edition_verse_id": "BSB:2CH.11.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "that this is what the LORD says: ‘You are not to go up and fight against your brothers. Each of you must return home, for this is My doing.’” So they listened to the words of the LORD and turned back from going against Jeroboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.5",
+      "edition_verse_id": "BSB:2CH.11.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Rehoboam lived in Jerusalem, and he built up cities for defense in Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.6",
+      "edition_verse_id": "BSB:2CH.11.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He built up Bethlehem, Etam, Tekoa,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.7",
+      "edition_verse_id": "BSB:2CH.11.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Beth-zur, Soco, Adullam,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.8",
+      "edition_verse_id": "BSB:2CH.11.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Gath, Mareshah, Ziph,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.9",
+      "edition_verse_id": "BSB:2CH.11.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Adoraim, Lachish, Azekah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.10",
+      "edition_verse_id": "BSB:2CH.11.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Zorah, Aijalon, and Hebron, the fortified cities in Judah and Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.11",
+      "edition_verse_id": "BSB:2CH.11.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He strengthened their fortifications and put officers in them, with supplies of food, oil, and wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.12",
+      "edition_verse_id": "BSB:2CH.11.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "He also put shields and spears in all the cities and strengthened them greatly. So Judah and Benjamin belonged to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.13",
+      "edition_verse_id": "BSB:2CH.11.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Moreover, the priests and Levites from all their districts throughout Israel stood with Rehoboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.14",
+      "edition_verse_id": "BSB:2CH.11.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the Levites left their pasturelands and their possessions and went to Judah and Jerusalem, because Jeroboam and his sons had rejected them as priests of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.15",
+      "edition_verse_id": "BSB:2CH.11.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Jeroboam appointed his own priests for the high places and for the goat demons and calf idols he had made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.16",
+      "edition_verse_id": "BSB:2CH.11.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Those from every tribe of Israel who had set their hearts to seek the LORD their God followed the Levites to Jerusalem to sacrifice to the LORD, the God of their fathers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.17",
+      "edition_verse_id": "BSB:2CH.11.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So they strengthened the kingdom of Judah and supported Rehoboam son of Solomon for three years, because they walked for three years in the way of David and Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.18",
+      "edition_verse_id": "BSB:2CH.11.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Rehoboam married Mahalath, who was the daughter of David’s son Jerimoth and of Abihail, the daughter of Jesse’s son Eliab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.19",
+      "edition_verse_id": "BSB:2CH.11.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "She bore sons to him: Jeush, Shemariah, and Zaham.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.20",
+      "edition_verse_id": "BSB:2CH.11.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "After her, he married Maacah daughter of Absalom, and she bore to him Abijah, Attai, Ziza, and Shelomith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.21",
+      "edition_verse_id": "BSB:2CH.11.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Rehoboam loved Maacah daughter of Absalom more than all his wives and concubines. In all, he had eighteen wives and sixty concubines, and he was the father of twenty-eight sons and sixty daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.11.22",
+      "edition_verse_id": "BSB:2CH.11.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Rehoboam appointed Abijah son of Maacah as chief prince among his brothers, intending to make him king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.11.23",
+      "edition_verse_id": "BSB:2CH.11.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Rehoboam also acted wisely by dispersing some of his sons throughout the districts of Judah and Benjamin, and to all the fortified cities. He gave them abundant provisions and sought many wives for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2KI",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Elijah Denounces Ahaziah",
+        "\\s1 Jehoram Succeeds Ahaziah"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Elijah Taken Up to Heaven",
+        "\\s1 Elisha Succeeds Elijah",
+        "\\s1 Elisha Heals the Waters of Jericho",
+        "\\s1 Elisha Mocked"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Moab’s Rebellion"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Widow’s Oil",
+        "\\s1 The Shunammite Woman",
+        "\\s1 Elisha Raises the Shunammite’s Son",
+        "\\s1 Elisha Purifies the Poisonous Stew",
+        "\\s1 Feeding a Hundred Men"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Naaman Cured of Leprosy",
+        "\\s1 Gehazi’s Greed and Leprosy"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Axe Head Floats",
+        "\\s1 Elisha Captures the Blinded Arameans",
+        "\\s1 The Siege and Famine of Samaria"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Elisha’s Prophecy of Plenty",
+        "\\s1 The Arameans Flee",
+        "\\s1 Elisha’s Prophecy Fulfilled"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Shunammite’s Land Restored",
+        "\\s1 Hazael Murders Ben-hadad",
+        "\\s1 Jehoram Reigns in Judah",
+        "\\s1 Edom and Libnah Rebel",
+        "\\s1 Ahaziah Reigns in Judah"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Jehu Anointed King of Israel",
+        "\\s1 Jehu Kills Joram and Ahaziah",
+        "\\s1 Jezebel’s Violent Death"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Ahab’s Seventy Sons Killed",
+        "\\s1 Jehu Kills the Priests of Baal",
+        "\\s1 Jehu Repeats Jeroboam’s Sins",
+        "\\s1 Jehoahaz Succeeds Jehu in Israel"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Athaliah and Joash",
+        "\\s1 Joash Anointed King of Judah",
+        "\\s1 The Death of Athaliah",
+        "\\s1 Jehoiada Restores the Worship of the LORD"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Joash Repairs the Temple",
+        "\\s1 The Death of Joash"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Jehoahaz Reigns in Israel",
+        "\\s1 Jehoash Reigns in Israel",
+        "\\s1 Elisha’s Final Prophecy"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Amaziah Reigns in Judah",
+        "\\s1 Jehoash Defeats Amaziah",
+        "\\s1 Jeroboam II Succeeds Jehoash in Israel",
+        "\\s1 The Death of Amaziah",
+        "\\s1 Azariah Succeeds Amaziah in Judah",
+        "\\s1 Jeroboam II Reigns in Israel"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Azariah Reigns in Judah",
+        "\\s1 Zechariah Reigns in Israel",
+        "\\s1 Shallum Reigns in Israel",
+        "\\s1 Menahem Reigns in Israel",
+        "\\s1 Pekahiah Reigns in Israel",
+        "\\s1 Pekah Reigns in Israel",
+        "\\s1 Jotham Reigns in Judah"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Ahaz Reigns in Judah",
+        "\\s1 The Idolatry of Ahaz"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 Hoshea the Last King of Israel",
+        "\\s1 Israel Carried Captive to Assyria",
+        "\\s1 Samaria Resettled"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 Hezekiah Destroys Idolatry in Judah",
+        "\\s1 Sennacherib Invades Judah",
+        "\\s1 Sennacherib Threatens Jerusalem"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 Isaiah’s Message of Deliverance",
+        "\\s1 Sennacherib’s Blasphemous Letter",
+        "\\s1 Hezekiah’s Prayer",
+        "\\s1 Sennacherib’s Fall Prophesied",
+        "\\s1 Jerusalem Delivered from the Assyrians"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 Hezekiah’s Illness and Recovery",
+        "\\s1 Hezekiah Shows His Treasures",
+        "\\s1 Manasseh Succeeds Hezekiah"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 Manasseh Reigns in Judah",
+        "\\s1 Manasseh’s Idolatries Rebuked",
+        "\\s1 Amon Reigns in Judah"
+      ]
+    },
+    "22": {
+      "source_headings": [
+        "\\s1 Josiah Reigns in Judah",
+        "\\s1 Funding the Temple Repairs",
+        "\\s1 Hilkiah Finds the Book of the Law",
+        "\\s1 Huldah’s Prophecy"
+      ]
+    },
+    "23": {
+      "source_headings": [
+        "\\s1 Josiah Renews the Covenant",
+        "\\s1 Josiah Destroys Idolatry",
+        "\\s1 Josiah Restores the Passover",
+        "\\s1 The Death of Josiah",
+        "\\s1 Jehoahaz Succeeds Josiah",
+        "\\s1 Jehoiakim Reigns in Judah"
+      ]
+    },
+    "24": {
+      "source_headings": [
+        "\\s1 Babylon Controls Jehoiakim",
+        "\\s1 Jehoiachin Reigns in Judah",
+        "\\s1 The Captivity of Jerusalem",
+        "\\s1 Zedekiah Reigns in Judah"
+      ]
+    },
+    "25": {
+      "source_headings": [
+        "\\s1 Nebuchadnezzar Besieges Jerusalem",
+        "\\s1 The Temple Destroyed",
+        "\\s1 Captives Carried to Babylon",
+        "\\s1 Gedaliah Governs in Judah",
+        "\\s1 The Murder of Gedaliah",
+        "\\s1 Jehoiachin Released from Prison"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

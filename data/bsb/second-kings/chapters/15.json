@@ -1,0 +1,464 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2KI",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "2KI.15.1",
+      "edition_verse_id": "BSB:2KI.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the twenty-seventh year of Jeroboam’s reign over Israel, Azariah son of Amaziah became king of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.2",
+      "edition_verse_id": "BSB:2KI.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jecoliah; she was from Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.3",
+      "edition_verse_id": "BSB:2KI.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And he did what was right in the eyes of the LORD, just as his father Amaziah had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.4",
+      "edition_verse_id": "BSB:2KI.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Nevertheless, the high places were not taken away; the people continued sacrificing and burning incense there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.5",
+      "edition_verse_id": "BSB:2KI.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the LORD afflicted the king with leprosy until the day he died, so that he lived in a separate house while his son Jotham had charge of the palace and governed the people of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.6",
+      "edition_verse_id": "BSB:2KI.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Azariah, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.7",
+      "edition_verse_id": "BSB:2KI.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And Azariah rested with his fathers and was buried near them in the City of David. And his son Jotham reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.8",
+      "edition_verse_id": "BSB:2KI.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In the thirty-eighth year of Azariah’s reign over Judah, Zechariah son of Jeroboam became king of Israel, and he reigned in Samaria six months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.9",
+      "edition_verse_id": "BSB:2KI.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD, as his fathers had done. He did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.10",
+      "edition_verse_id": "BSB:2KI.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Shallum son of Jabesh conspired against Zechariah, struck him down and killed him in front of the people, and reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.11",
+      "edition_verse_id": "BSB:2KI.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Zechariah, they are indeed written in the Book of the Chronicles of the Kings of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.12",
+      "edition_verse_id": "BSB:2KI.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So the word of the LORD spoken to Jehu was fulfilled: “Four generations of your sons will sit on the throne of Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.13",
+      "edition_verse_id": "BSB:2KI.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "In the thirty-ninth year of Uzziah’s reign over Judah, Shallum son of Jabesh became king, and he reigned in Samaria one full month.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.14",
+      "edition_verse_id": "BSB:2KI.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Menahem son of Gadi went up from Tirzah to Samaria, struck down and killed Shallum son of Jabesh, and reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.15",
+      "edition_verse_id": "BSB:2KI.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Shallum, along with the conspiracy he led, they are indeed written in the Book of the Chronicles of the Kings of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.16",
+      "edition_verse_id": "BSB:2KI.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "At that time Menahem, starting from Tirzah, attacked Tiphsah and everyone in its vicinity, because they would not open their gates. So he attacked Tiphsah and ripped open all the pregnant women.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.17",
+      "edition_verse_id": "BSB:2KI.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "In the thirty-ninth year of Azariah’s reign over Judah, Menahem son of Gadi became king of Israel, and he reigned in Samaria ten years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.18",
+      "edition_verse_id": "BSB:2KI.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD, and throughout his reign he did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.19",
+      "edition_verse_id": "BSB:2KI.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then Pul king of Assyria invaded the land, and Menahem gave Pul a thousand talents of silver in order to gain his support and strengthen his own grip on the kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.20",
+      "edition_verse_id": "BSB:2KI.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Menahem exacted this money from each of the wealthy men of Israel — fifty shekels of silver from each man — to give to the king of Assyria. So the king of Assyria withdrew and did not remain in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.21",
+      "edition_verse_id": "BSB:2KI.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Menahem, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.22",
+      "edition_verse_id": "BSB:2KI.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Menahem rested with his fathers, and his son Pekahiah reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.23",
+      "edition_verse_id": "BSB:2KI.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "In the fiftieth year of Azariah’s reign over Judah, Pekahiah son of Menahem became king of Israel and reigned in Samaria two years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.24",
+      "edition_verse_id": "BSB:2KI.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD and did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.25",
+      "edition_verse_id": "BSB:2KI.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then his officer, Pekah son of Remaliah, conspired against him along with Argob, Arieh, and fifty men of Gilead. And at the citadel of the king’s palace in Samaria, Pekah struck down and killed Pekahiah and reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.26",
+      "edition_verse_id": "BSB:2KI.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Pekahiah, along with all his accomplishments, they are indeed written in the Book of the Chronicles of the Kings of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.27",
+      "edition_verse_id": "BSB:2KI.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "In the fifty-second year of Azariah’s reign over Judah, Pekah son of Remaliah became king of Israel, and he reigned in Samaria twenty years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.28",
+      "edition_verse_id": "BSB:2KI.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD and did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.29",
+      "edition_verse_id": "BSB:2KI.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee, including all the land of Naphtali, and he took the people as captives to Assyria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.30",
+      "edition_verse_id": "BSB:2KI.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Then Hoshea son of Elah led a conspiracy against Pekah son of Remaliah. In the twentieth year of Jotham son of Uzziah, Hoshea attacked Pekah, killed him, and reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.31",
+      "edition_verse_id": "BSB:2KI.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Pekah, along with all his accomplishments, they are indeed written in the Book of the Chronicles of the Kings of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.32",
+      "edition_verse_id": "BSB:2KI.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "In the second year of the reign of Pekah son of Remaliah over Israel, Jotham son of Uzziah became king of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.33",
+      "edition_verse_id": "BSB:2KI.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerusha daughter of Zadok.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.34",
+      "edition_verse_id": "BSB:2KI.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And he did what was right in the eyes of the LORD, just as his father Uzziah had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.15.35",
+      "edition_verse_id": "BSB:2KI.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Nevertheless, the high places were not taken away; the people continued sacrificing and burning incense there. Jotham rebuilt the Upper Gate of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.36",
+      "edition_verse_id": "BSB:2KI.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Jotham, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.37",
+      "edition_verse_id": "BSB:2KI.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "(In those days the LORD began to send Rezin king of Aram and Pekah son of Remaliah against Judah.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.15.38",
+      "edition_verse_id": "BSB:2KI.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And Jotham rested with his fathers and was buried with them in the City of David his father. And his son Ahaz reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "edition_id": "BSB",
+  "book_code": "2CO",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Paul Greets the Corinthians",
+        "\\s1 The God of All Comfort",
+        "\\s1 Paul’s Change of Plans"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Reaffirm Your Love",
+        "\\s1 Triumph in Christ"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Ministers of a New Covenant",
+        "\\s1 The Glory of the New Covenant"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 The Light of the Gospel",
+        "\\s1 Treasure in Jars of Clay"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Our Eternal Dwelling",
+        "\\s1 Ambassadors for Christ"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Paul’s Hardships and God’s Grace",
+        "\\s1 Do Not Be Unequally Yoked"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Paul’s Joy in the Corinthians"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Generosity Commended",
+        "\\s1 Titus Commended"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 God Loves a Cheerful Giver"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Paul’s Apostolic Authority"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Paul and the False Apostles",
+        "\\s1 Paul’s Suffering and Service"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Paul’s Revelation",
+        "\\s1 Paul’s Thorn and God’s Grace",
+        "\\s1 Paul’s Concern for the Corinthians"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Examine Yourselves",
+        "\\s1 Benediction and Farewell"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2CH",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "2CH.10.1",
+      "edition_verse_id": "BSB:2CH.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Rehoboam went to Shechem, for all Israel had gone there to make him king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.2",
+      "edition_verse_id": "BSB:2CH.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When Jeroboam son of Nebat heard about this, he returned from Egypt, where he had fled from King Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.3",
+      "edition_verse_id": "BSB:2CH.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So they sent for Jeroboam, and he and all Israel came to Rehoboam and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.4",
+      "edition_verse_id": "BSB:2CH.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.5",
+      "edition_verse_id": "BSB:2CH.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Rehoboam answered, “Come back to me in three days.” So the people departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.6",
+      "edition_verse_id": "BSB:2CH.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.7",
+      "edition_verse_id": "BSB:2CH.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They replied, “If you will be kind to these people and please them by speaking kind words to them, they will be your servants forever.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.8",
+      "edition_verse_id": "BSB:2CH.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Rehoboam rejected the advice of the elders; instead, he consulted the young men who had grown up with him and served him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.9",
+      "edition_verse_id": "BSB:2CH.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’ ?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.10",
+      "edition_verse_id": "BSB:2CH.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you must make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my father’s waist!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.11",
+      "edition_verse_id": "BSB:2CH.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Whereas my father burdened you with a heavy yoke, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.12",
+      "edition_verse_id": "BSB:2CH.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.13",
+      "edition_verse_id": "BSB:2CH.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the king answered them harshly. King Rehoboam rejected the advice of the elders",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.14",
+      "edition_verse_id": "BSB:2CH.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2CH.10.15",
+      "edition_verse_id": "BSB:2CH.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the king did not listen to the people, and indeed this turn of events was from God, in order that the LORD might fulfill the word that He had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.16",
+      "edition_verse_id": "BSB:2CH.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So all the Israelites went home,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.17",
+      "edition_verse_id": "BSB:2CH.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "but Rehoboam still reigned over the Israelites living in the cities of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.18",
+      "edition_verse_id": "BSB:2CH.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then King Rehoboam sent out Hadoram, who was in charge of the forced labor, but the Israelites stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2CH.10.19",
+      "edition_verse_id": "BSB:2CH.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So to this day Israel has been in rebellion against the house of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

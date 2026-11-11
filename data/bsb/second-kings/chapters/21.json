@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2KI",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "2KI.21.1",
+      "edition_verse_id": "BSB:2KI.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother’s name was Hephzibah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.2",
+      "edition_verse_id": "BSB:2KI.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD by following the abominations of the nations that the LORD had driven out before the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.3",
+      "edition_verse_id": "BSB:2KI.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For he rebuilt the high places that his father Hezekiah had destroyed, and he raised up altars for Baal. He made an Asherah pole, as King Ahab of Israel had done, and he worshiped and served all the host of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.4",
+      "edition_verse_id": "BSB:2KI.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Manasseh also built altars in the house of the LORD, of which the LORD had said, “In Jerusalem I will put My Name.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.5",
+      "edition_verse_id": "BSB:2KI.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "In both courtyards of the house of the LORD, he built altars to all the host of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.6",
+      "edition_verse_id": "BSB:2KI.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He sacrificed his own son in the fire, practiced sorcery and divination, and consulted mediums and spiritists. He did great evil in the sight of the LORD, provoking Him to anger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.7",
+      "edition_verse_id": "BSB:2KI.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Manasseh even took the carved Asherah pole he had made and set it up in the temple, of which the LORD had said to David and his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will establish My Name forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.8",
+      "edition_verse_id": "BSB:2KI.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will never again cause the feet of the Israelites to wander from the land that I gave to their fathers, if only they are careful to do all I have commanded them— the whole Law that My servant Moses commanded them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.9",
+      "edition_verse_id": "BSB:2KI.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But the people did not listen and Manasseh led them astray, so that they did greater evil than the nations that the LORD had destroyed before the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.10",
+      "edition_verse_id": "BSB:2KI.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the LORD spoke through His servants the prophets, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.11",
+      "edition_verse_id": "BSB:2KI.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“Since Manasseh king of Judah has committed all these abominations, acting more wickedly than the Amorites who preceded him, and with his idols has caused Judah to sin,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.12",
+      "edition_verse_id": "BSB:2KI.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "this is what the LORD, the God of Israel, says: ‘Behold, I am bringing such calamity upon Jerusalem and Judah that the news will reverberate in the ears of all who hear it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.13",
+      "edition_verse_id": "BSB:2KI.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I will stretch out over Jerusalem the measuring line used against Samaria and the plumb line used against the house of Ahab, and I will wipe out Jerusalem as one wipes out a bowl— wiping it and turning it upside down.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.14",
+      "edition_verse_id": "BSB:2KI.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So I will forsake the remnant of My inheritance and deliver them into the hands of their enemies. And they will become plunder and spoil to all their enemies,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.15",
+      "edition_verse_id": "BSB:2KI.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "because they have done evil in My sight and have provoked Me to anger from the day their fathers came out of Egypt until this day.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.16",
+      "edition_verse_id": "BSB:2KI.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Moreover, Manasseh shed so much innocent blood that he filled Jerusalem from end to end, in addition to the sin that he had caused Judah to commit, doing evil in the sight of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.17",
+      "edition_verse_id": "BSB:2KI.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Manasseh, along with all his accomplishments and the sin that he committed, are they not written in the Book of the Chronicles of the Kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.18",
+      "edition_verse_id": "BSB:2KI.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And Manasseh rested with his fathers and was buried in his palace garden, the garden of Uzza. And his son Amon reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.19",
+      "edition_verse_id": "BSB:2KI.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. His mother’s name was Meshullemeth daughter of Haruz; she was from Jotbah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.20",
+      "edition_verse_id": "BSB:2KI.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD, as his father Manasseh had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.21",
+      "edition_verse_id": "BSB:2KI.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He walked in all the ways of his father, and he served and worshiped the idols his father had served.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.22",
+      "edition_verse_id": "BSB:2KI.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He abandoned the LORD, the God of his fathers, and did not walk in the way of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.23",
+      "edition_verse_id": "BSB:2KI.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Then the servants of Amon conspired against him and killed the king in his palace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.24",
+      "edition_verse_id": "BSB:2KI.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But the people of the land killed all those who had conspired against King Amon, and they made his son Josiah king in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2KI.21.25",
+      "edition_verse_id": "BSB:2KI.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Amon, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2KI.21.26",
+      "edition_verse_id": "BSB:2KI.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And he was buried in his tomb in the garden of Uzza, and his son Josiah reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

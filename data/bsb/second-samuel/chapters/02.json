@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "2SA",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "2SA.2.1",
+      "edition_verse_id": "BSB:2SA.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Some time later, David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.2",
+      "edition_verse_id": "BSB:2SA.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So David went there with his two wives, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.3",
+      "edition_verse_id": "BSB:2SA.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "David also took the men who were with him, each with his household, and they settled in the towns near Hebron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.4",
+      "edition_verse_id": "BSB:2SA.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then the men of Judah came to Hebron, and there they anointed David king over the house of Judah. And they told David, “It was the men of Jabesh-gilead who buried Saul.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.5",
+      "edition_verse_id": "BSB:2SA.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So David sent messengers to the men of Jabesh-gilead to tell them, “The LORD bless you, because you showed this kindness to Saul your lord when you buried him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.6",
+      "edition_verse_id": "BSB:2SA.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now may the LORD show you loving devotion and faithfulness, and I will also show you the same favor because you have done this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.7",
+      "edition_verse_id": "BSB:2SA.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now then, be strong and courageous, for though Saul your lord is dead, the house of Judah has anointed me as their king.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.8",
+      "edition_verse_id": "BSB:2SA.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Meanwhile, Abner son of Ner, the commander of Saul’s army, took Saul’s son Ish-bosheth, moved him to Mahanaim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.9",
+      "edition_verse_id": "BSB:2SA.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and made him king over Gilead, Asher, Jezreel, Ephraim, and Benjamin— over all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.10",
+      "edition_verse_id": "BSB:2SA.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Saul’s son Ish-bosheth was forty years old when he began to reign over Israel, and he reigned for two years. The house of Judah, however, followed David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.11",
+      "edition_verse_id": "BSB:2SA.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And the length of time that David was king in Hebron over the house of Judah was seven years and six months.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.12",
+      "edition_verse_id": "BSB:2SA.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "One day Abner son of Ner and the servants of Ish-bosheth son of Saul marched out from Mahanaim to Gibeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.13",
+      "edition_verse_id": "BSB:2SA.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So Joab son of Zeruiah and the servants of David marched out and met them by the pool of Gibeon. And the two groups took up positions on opposite sides of the pool.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.14",
+      "edition_verse_id": "BSB:2SA.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then Abner said to Joab, “Let us have the young men get up and compete before us.” “Let them get up,” Joab replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.15",
+      "edition_verse_id": "BSB:2SA.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So they got up and were counted off — twelve for Benjamin and Ish-bosheth son of Saul, and twelve for David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.16",
+      "edition_verse_id": "BSB:2SA.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then each man grabbed his opponent by the head and thrust his sword into his opponent’s side, and they all fell together. So this place, which is in Gibeon, is called Helkath-hazzurim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.17",
+      "edition_verse_id": "BSB:2SA.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The battle that day was intense, and Abner and the men of Israel were defeated by the servants of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.18",
+      "edition_verse_id": "BSB:2SA.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The three sons of Zeruiah were there: Joab, Abishai, and Asahel. Now Asahel was fleet of foot like a wild gazelle,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.19",
+      "edition_verse_id": "BSB:2SA.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and he chased Abner, not turning to the right or to the left in his pursuit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.20",
+      "edition_verse_id": "BSB:2SA.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And Abner glanced back and said, “Is that you, Asahel?” “It is,” Asahel replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.21",
+      "edition_verse_id": "BSB:2SA.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So Abner told him, “Turn to your right or to your left, seize one of the young men, and take his equipment for yourself.” But Asahel would not stop chasing him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.22",
+      "edition_verse_id": "BSB:2SA.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Once again, Abner warned Asahel, “Stop chasing me. Why should I strike you to the ground? How could I show my face to your brother Joab?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.23",
+      "edition_verse_id": "BSB:2SA.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But Asahel refused to turn away. So Abner thrust the butt of his spear into his stomach, and it came out his back, and he fell dead on the spot. And every man paused when he came to the place where Asahel had fallen and died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.24",
+      "edition_verse_id": "BSB:2SA.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But Joab and Abishai pursued Abner. By sunset, they had gone as far as the hill of Ammah opposite Giah on the way to the wilderness of Gibeon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.25",
+      "edition_verse_id": "BSB:2SA.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The Benjamites rallied to Abner, formed a single unit, and took their stand atop a hill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.26",
+      "edition_verse_id": "BSB:2SA.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then Abner called out to Joab: “Must the sword devour forever? Do you not realize that this will only end in bitterness? How long before you tell the troops to stop pursuing their brothers?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.27",
+      "edition_verse_id": "BSB:2SA.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "“As surely as God lives,” Joab replied, “if you had not spoken up, the troops would have continued pursuing their brothers until morning.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.28",
+      "edition_verse_id": "BSB:2SA.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So Joab blew the ram’s horn, and all the troops stopped; they no longer pursued Israel or continued to fight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.29",
+      "edition_verse_id": "BSB:2SA.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And all that night Abner and his men marched through the Arabah. They crossed the Jordan, marched all morning, and arrived at Mahanaim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "2SA.2.30",
+      "edition_verse_id": "BSB:2SA.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "When Joab returned from pursuing Abner, he gathered all the troops. In addition to Asahel, nineteen of David’s servants were missing,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.31",
+      "edition_verse_id": "BSB:2SA.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "but they had struck down 360 Benjamites who were with Abner.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "2SA.2.32",
+      "edition_verse_id": "BSB:2SA.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And they took Asahel and buried him in his father’s tomb in Bethlehem. Then Joab and his men marched all night and reached Hebron at daybreak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
