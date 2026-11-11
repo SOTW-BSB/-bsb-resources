@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "LAM",
+  "book_name": "Lamentations",
+  "book_order": 25,
+  "canonical_ids": "LAM.{chapter}.{verse}",
+  "edition_ids": "BSB:LAM.{chapter}.{verse}",
+  "chapter_count": 5,
+  "verse_count": 154,
+  "traditional_verse_positions": 154,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "lamentations/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JER",
+  "successor_book_code": "EZK",
+  "source_provenance": "books/lamentations/SOURCE_INVENTORY.json",
+  "reader": "books/lamentations/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

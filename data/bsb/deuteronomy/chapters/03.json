@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DEU",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "DEU.3.1",
+      "edition_verse_id": "BSB:DEU.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then we turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet us in battle at Edrei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.2",
+      "edition_verse_id": "BSB:DEU.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But the LORD said to me, “Do not fear him, for I have delivered him into your hand, along with all his people and his land. Do to him as you did to Sihon king of the Amorites, who lived in Heshbon.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.3",
+      "edition_verse_id": "BSB:DEU.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So the LORD our God also delivered Og king of Bashan and his whole army into our hands. We struck them down until no survivor was left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.4",
+      "edition_verse_id": "BSB:DEU.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "At that time we captured all sixty of his cities. There was not a single city we failed to take — the entire region of Argob, the kingdom of Og in Bashan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.5",
+      "edition_verse_id": "BSB:DEU.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "All these cities were fortified with high walls and gates and bars, and there were many more unwalled villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.6",
+      "edition_verse_id": "BSB:DEU.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We devoted them to destruction, as we had done to Sihon king of Heshbon, utterly destroying the men, women, and children of every city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.7",
+      "edition_verse_id": "BSB:DEU.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But all the livestock and plunder of the cities we carried off for ourselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.8",
+      "edition_verse_id": "BSB:DEU.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "At that time we took from the two kings of the Amorites the land across the Jordan, from the Arnon Valley as far as Mount Hermon —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.9",
+      "edition_verse_id": "BSB:DEU.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "which the Sidonians call Sirion but the Amorites call Senir —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.10",
+      "edition_verse_id": "BSB:DEU.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "all the cities of the plateau, all of Gilead, and all of Bashan as far as the cities of Salecah and Edrei in the kingdom of Og.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.11",
+      "edition_verse_id": "BSB:DEU.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "(For only Og king of Bashan had remained of the remnant of the Rephaim. His bed of iron, nine cubits long and four cubits wide, is still in Rabbah of the Ammonites.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.12",
+      "edition_verse_id": "BSB:DEU.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So at that time we took possession of this land. To the Reubenites and Gadites I gave the land beyond Aroer along the Arnon Valley, and half the hill country of Gilead, along with its cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.13",
+      "edition_verse_id": "BSB:DEU.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "To the half-tribe of Manasseh I gave the rest of Gilead and all of Bashan, the kingdom of Og. (The entire region of Argob, the whole territory of Bashan, used to be called the land of the Rephaim.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.14",
+      "edition_verse_id": "BSB:DEU.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Jair, a descendant of Manasseh, took the whole region of Argob as far as the border of the Geshurites and Maacathites. He renamed Bashan after himself, Havvoth-jair, by which it is called to this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.15",
+      "edition_verse_id": "BSB:DEU.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "To Machir I gave Gilead,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.16",
+      "edition_verse_id": "BSB:DEU.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and to the Reubenites and Gadites I gave the territory from Gilead to the Arnon Valley (the middle of the valley was the border) and up to the Jabbok River, the border of the Ammonites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.17",
+      "edition_verse_id": "BSB:DEU.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The Jordan River in the Arabah bordered it from Chinnereth to the Sea of the Arabah (the Salt Sea) with the slopes of Pisgah to the east.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.18",
+      "edition_verse_id": "BSB:DEU.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "At that time I commanded you: “The LORD your God has given you this land to possess. All your men of valor are to cross over, armed for battle, ahead of your brothers, the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.19",
+      "edition_verse_id": "BSB:DEU.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But your wives, your children, and your livestock— I know that you have much livestock— may remain in the cities I have given you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.20",
+      "edition_verse_id": "BSB:DEU.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "until the LORD gives rest to your brothers as He has to you, and they too have taken possession of the land that the LORD your God is giving them across the Jordan. Then each of you may return to the possession I have given you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.21",
+      "edition_verse_id": "BSB:DEU.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And at that time I commanded Joshua: “Your own eyes have seen all that the LORD your God has done to these two kings. The LORD will do the same to all the kingdoms you are about to enter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.22",
+      "edition_verse_id": "BSB:DEU.3.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Do not be afraid of them, for the LORD your God Himself will fight for you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.23",
+      "edition_verse_id": "BSB:DEU.3.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "At that time I also pleaded with the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.24",
+      "edition_verse_id": "BSB:DEU.3.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“O Lord GOD, You have begun to show Your greatness and power to Your servant. For what god in heaven or on earth can perform such works and mighty acts as Yours?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.25",
+      "edition_verse_id": "BSB:DEU.3.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Please let me cross over and see the good land beyond the Jordan — that pleasant hill country as well as Lebanon!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.26",
+      "edition_verse_id": "BSB:DEU.3.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But the LORD was angry with me on account of you, and He would not listen to me. “That is enough,” the LORD said to me. “Do not speak to Me again about this matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.3.27",
+      "edition_verse_id": "BSB:DEU.3.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Go to the top of Pisgah and look to the west and north and south and east. See the land with your own eyes, for you will not cross this Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.28",
+      "edition_verse_id": "BSB:DEU.3.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But commission Joshua, encourage him, and strengthen him, for he will cross over ahead of the people and enable them to inherit the land that you will see.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.3.29",
+      "edition_verse_id": "BSB:DEU.3.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So we stayed in the valley opposite Beth-peor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

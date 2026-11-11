@@ -1,0 +1,88 @@
+{
+  "edition_id": "BSB",
+  "book_code": "DAN",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Daniel Removed to Babylon",
+        "\\s1 Daniel’s Faithfulness",
+        "\\s1 Daniel’s Wisdom"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Nebuchadnezzar’s Troubling Dream",
+        "\\s1 The Dream Revealed to Daniel",
+        "\\s1 Daniel Interprets the Dream",
+        "\\s1 Nebuchadnezzar Promotes Daniel"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Nebuchadnezzar’s Golden Statue",
+        "\\s1 Shadrach, Meshach, and Abednego Accused",
+        "\\s1 The Fiery Furnace"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Nebuchadnezzar Confesses God’s Kingdom",
+        "\\s1 Nebuchadnezzar’s Dream of a Great Tree",
+        "\\s1 Daniel Interprets the Second Dream",
+        "\\s1 The Second Dream Fulfilled",
+        "\\s1 Nebuchadnezzar Restored"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Belshazzar’s Feast",
+        "\\s1 The Handwriting on the Wall",
+        "\\s1 Daniel Interprets the Handwriting"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Plot against Daniel",
+        "\\s1 Daniel in the Lions’ Den",
+        "\\s1 Darius Honors God"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Daniel’s Vision of the Four Beasts",
+        "\\s1 Daniel’s Vision of the Ancient of Days",
+        "\\s1 Daniel’s Vision of the Son of Man",
+        "\\s1 Daniel’s Visions Interpreted"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Daniel’s Vision of the Ram and the Goat",
+        "\\s1 Gabriel Interprets Daniel’s Vision"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Daniel’s Prayer for His People",
+        "\\s1 Gabriel’s Prophecy of the Seventy Weeks"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Daniel’s Vision by the Tigris"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Kings of the South and North",
+        "\\s1 The King Who Exalts Himself"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 The End Times"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1TI",
+  "book_name": "1 Timothy",
+  "book_order": 54,
+  "canonical_ids": "1TI.{chapter}.{verse}",
+  "edition_ids": "BSB:1TI.{chapter}.{verse}",
+  "chapter_count": 6,
+  "verse_count": 113,
+  "traditional_verse_positions": 113,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-timothy/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "2TH",
+  "successor_book_code": "2TI",
+  "source_provenance": "books/first-timothy/SOURCE_INVENTORY.json",
+  "reader": "books/first-timothy/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

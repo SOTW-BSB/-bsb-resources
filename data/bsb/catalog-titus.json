@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "TIT",
+  "book_name": "Titus",
+  "book_order": 56,
+  "canonical_ids": "TIT.{chapter}.{verse}",
+  "edition_ids": "BSB:TIT.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 46,
+  "traditional_verse_positions": 46,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "titus/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "2TI",
+  "successor_book_code": "PHM",
+  "source_provenance": "books/titus/SOURCE_INVENTORY.json",
+  "reader": "books/titus/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

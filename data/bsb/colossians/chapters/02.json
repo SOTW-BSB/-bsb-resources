@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "COL",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "COL.2.1",
+      "edition_verse_id": "BSB:COL.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "For I want you to know how much I am struggling for you and for those at Laodicea, and for all who have not met me face to face,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.2",
+      "edition_verse_id": "BSB:COL.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "that they may be encouraged in heart, knit together in love, and filled with the full riches of complete understanding, so that they may know the mystery of God, namely Christ,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.3",
+      "edition_verse_id": "BSB:COL.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "in whom are hidden all the treasures of wisdom and knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.4",
+      "edition_verse_id": "BSB:COL.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I say this so that no one will deceive you by smooth rhetoric.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.5",
+      "edition_verse_id": "BSB:COL.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For although I am absent from you in body, I am present with you in spirit, and I delight to see your orderly condition and firm faith in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.6",
+      "edition_verse_id": "BSB:COL.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore, just as you have received Christ Jesus as Lord, continue to walk in Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.7",
+      "edition_verse_id": "BSB:COL.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "rooted and built up in Him, established in the faith as you were taught, and overflowing with thankfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.8",
+      "edition_verse_id": "BSB:COL.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "See to it that no one takes you captive through philosophy and empty deception, which are based on human tradition and the spiritual forces of the world rather than on Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.9",
+      "edition_verse_id": "BSB:COL.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For in Christ all the fullness of the Deity dwells in bodily form.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.10",
+      "edition_verse_id": "BSB:COL.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And you have been made complete in Christ, who is the head over every ruler and authority.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.11",
+      "edition_verse_id": "BSB:COL.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "In Him you were also circumcised, in the putting off of your sinful nature, with the circumcision performed by Christ and not by human hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.12",
+      "edition_verse_id": "BSB:COL.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And having been buried with Him in baptism, you were raised with Him through your faith in the power of God, who raised Him from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.13",
+      "edition_verse_id": "BSB:COL.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When you were dead in your trespasses and in the uncircumcision of your sinful nature, God made you alive with Christ. He forgave us all our trespasses,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.14",
+      "edition_verse_id": "BSB:COL.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "having canceled the debt ascribed to us in the decrees that stood against us. He took it away, nailing it to the cross!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.15",
+      "edition_verse_id": "BSB:COL.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And having disarmed the powers and authorities, He made a public spectacle of them, triumphing over them by the cross.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.16",
+      "edition_verse_id": "BSB:COL.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore let no one judge you by what you eat or drink, or with regard to a feast, a New Moon, or a Sabbath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.17",
+      "edition_verse_id": "BSB:COL.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "These are a shadow of the things to come, but the body that casts it belongs to Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.18",
+      "edition_verse_id": "BSB:COL.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Do not let anyone who delights in false humility and the worship of angels disqualify you with speculation about what he has seen. Such a person is puffed up without basis by his unspiritual mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.19",
+      "edition_verse_id": "BSB:COL.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He has lost connection to the head, from whom the whole body, supported and knit together by its joints and ligaments, grows as God causes it to grow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.20",
+      "edition_verse_id": "BSB:COL.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "If you have died with Christ to the spiritual forces of the world, why, as though you still belonged to the world, do you submit to its regulations:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.2.21",
+      "edition_verse_id": "BSB:COL.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Do not handle, do not taste, do not touch!”?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.22",
+      "edition_verse_id": "BSB:COL.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "These will all perish with use, because they are based on human commands and teachings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.2.23",
+      "edition_verse_id": "BSB:COL.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Such restrictions indeed have an appearance of wisdom, with their self-prescribed worship, their false humility, and their harsh treatment of the body; but they are of no value against the indulgence of the flesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

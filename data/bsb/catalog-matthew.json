@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "MAT",
+  "book_name": "Matthew",
+  "book_order": 40,
+  "canonical_ids": "MAT.{chapter}.{verse}",
+  "edition_ids": "BSB:MAT.{chapter}.{verse}",
+  "chapter_count": 28,
+  "verse_count": 1068,
+  "traditional_verse_positions": 1071,
+  "omitted_from_main_text": [
+    "MAT.17.21",
+    "MAT.18.11",
+    "MAT.23.14"
+  ],
+  "chapter_path_template": "matthew/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "MAL",
+  "successor_book_code": "MRK",
+  "source_provenance": "books/matthew/SOURCE_INVENTORY.json",
+  "reader": "books/matthew/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

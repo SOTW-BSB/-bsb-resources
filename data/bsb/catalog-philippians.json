@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "PHP",
+  "book_name": "Philippians",
+  "book_order": 50,
+  "canonical_ids": "PHP.{chapter}.{verse}",
+  "edition_ids": "BSB:PHP.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 104,
+  "traditional_verse_positions": 104,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "philippians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "EPH",
+  "successor_book_code": "COL",
+  "source_provenance": "books/philippians/SOURCE_INVENTORY.json",
+  "reader": "books/philippians/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

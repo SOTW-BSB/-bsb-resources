@@ -1,0 +1,80 @@
+{
+  "edition_id": "BSB",
+  "book_code": "DAN",
+  "chapter_count": 12,
+  "verse_count": 357,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "08371c68a060fa27a8d61432fbab6a6a644ca748ed4e5cdf4e326dd12dd0ac7b"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 49,
+      "omitted_from_main_text": [],
+      "sha256": "2dd89d107e518087008b1387741dc8325ba513afc34ae2913f555edf6662ad6f"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 30,
+      "omitted_from_main_text": [],
+      "sha256": "48ceebeadc316aad8df942a7d7bb66deb05df0f2c662309c1dfe94241bdbc65a"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 37,
+      "omitted_from_main_text": [],
+      "sha256": "9fa009e60d07dc94a77b6d4c878be84b26571b7f237bd11cb0d5dc15c8d8cd0c"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 31,
+      "omitted_from_main_text": [],
+      "sha256": "51ef6476a6889c5034856e18e5d0b2b1407d6629687beacca125cb5f2f2a5ef1"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 28,
+      "omitted_from_main_text": [],
+      "sha256": "7d807fa835dff84b51b1d4f029324a76029a891fa3f08da4cc026521eaca5d92"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 28,
+      "omitted_from_main_text": [],
+      "sha256": "8199cfb41c2f378bce0a8ce89ecc156dbb9257b0def31fe362ed0ae8a73b3765"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 27,
+      "omitted_from_main_text": [],
+      "sha256": "1e41debc3ea51276d86f7b4dc982e0616dd035b47108c350c04c53e618da1c0d"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 27,
+      "omitted_from_main_text": [],
+      "sha256": "0fec7280a734c6bc43ecaeeaccf70122957a6d570524f576d5d48b9c700f5b4e"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "86f0daf669147be187e43562e3c9908e088e7b9349d60a519d7017ce1dfaeb27"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 45,
+      "omitted_from_main_text": [],
+      "sha256": "ad3568cd08770b31098da20b11d7cd81a8012dc3dccc4ff1152d160f70b95a24"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 13,
+      "omitted_from_main_text": [],
+      "sha256": "043bdf6541e1999e0713173edbe284a519782b18ef6e1fc201bb6e824d71325a"
+    }
+  ]
+}

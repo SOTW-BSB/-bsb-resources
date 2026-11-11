@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "HAG",
+  "book_name": "Haggai",
+  "book_order": 37,
+  "canonical_ids": "HAG.{chapter}.{verse}",
+  "edition_ids": "BSB:HAG.{chapter}.{verse}",
+  "chapter_count": 2,
+  "verse_count": 38,
+  "traditional_verse_positions": 38,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "haggai/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "ZEP",
+  "successor_book_code": "ZEC",
+  "source_provenance": "books/haggai/SOURCE_INVENTORY.json",
+  "reader": "books/haggai/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

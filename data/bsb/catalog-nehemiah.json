@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "NEH",
+  "book_name": "Nehemiah",
+  "book_order": 16,
+  "canonical_ids": "NEH.{chapter}.{verse}",
+  "edition_ids": "BSB:NEH.{chapter}.{verse}",
+  "chapter_count": 13,
+  "verse_count": 406,
+  "traditional_verse_positions": 406,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "nehemiah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "EZR",
+  "successor_book_code": "EST",
+  "source_provenance": "books/nehemiah/SOURCE_INVENTORY.json",
+  "reader": "books/nehemiah/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

@@ -1,0 +1,35 @@
+{
+  "edition_id": "BSB",
+  "book_code": "COL",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Greetings from Paul and Timothy",
+        "\\s1 Thanksgiving and Prayer",
+        "\\s1 The Supremacy of the Son",
+        "\\s1 Paul’s Suffering for the Church"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Absent in Body, Present in Spirit",
+        "\\s1 Alive with Christ"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Put On the New Self",
+        "\\s1 Christian Households",
+        "\\s1 Serving with Honor"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Prayerful Speech and Actions",
+        "\\s1 Greetings from Paul’s Fellow Workers",
+        "\\s1 Signature and Final Instructions"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

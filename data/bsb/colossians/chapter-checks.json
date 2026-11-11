@@ -1,0 +1,32 @@
+{
+  "edition_id": "BSB",
+  "book_code": "COL",
+  "chapter_count": 4,
+  "verse_count": 95,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 29,
+      "omitted_from_main_text": [],
+      "sha256": "cfd405d1e407fbefaa1e2fab583d993b7e5390fea096d230db75dd4b3790507e"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "omitted_from_main_text": [],
+      "sha256": "a0e1d5885cab6f17938a647426c9aabc2c40c54397f55af22d037a7036211d38"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 25,
+      "omitted_from_main_text": [],
+      "sha256": "6436097d5ea876bed68b678e51929551c4e1bbb38377a3c51e2e2fa2c6078147"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 18,
+      "omitted_from_main_text": [],
+      "sha256": "78519024b20863f1b16ab6c15b64c0f78ef34727a808e0d52c204bb26e9bb148"
+    }
+  ]
+}

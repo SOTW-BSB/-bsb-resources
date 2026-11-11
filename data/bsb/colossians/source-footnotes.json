@@ -1,0 +1,87 @@
+{
+  "edition_id": "BSB",
+  "book_code": "COL",
+  "chapters": {
+    "1": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\ft BYZ and TR \\fqa God our Father and the Lord Jesus Christ\\f*",
+          "raw_sha256": "fd4492d20553d213621e007253962b82e1247203c13530d269591f96de09e80d"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 1:7 \\ft NE, NA, BYZ, and TR \\fqa your\\f*",
+          "raw_sha256": "dfd08afa64a61ed41773b133407b280bd6f6ef35fde821a43800a971a1b3d799"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft BYZ and TR \\fqa us\\f*",
+          "raw_sha256": "b5c6654e943a619c423421ad52697b3bbc1095fcef76ab05082490f1866c96af"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft TR \\fqa redemption through His blood,\\f*",
+          "raw_sha256": "5cb89c24f736dfdd3430acb29763e5c076bb46b46b18d873329c88b86e698d2e"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 1:23 \\ft Or \\fqa in all creation\\f*",
+          "raw_sha256": "40affd6891907d6c410e0136bbca34f51ff9bbb1278cedc9c908184fd3fa26a4"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 1:28 \\ft Or \\fqa fully mature\\f*",
+          "raw_sha256": "59b61dbbdb41c38b35dc4ddfb590fd37d105708a42df66c7e5ff38748d2ed712"
+        }
+      ]
+    },
+    "2": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 2:2 \\ft Literally \\fqa the mystery of God: Christ\\f*",
+          "raw_sha256": "e6a76175339c037d89ffb6462893e759756be566f0eb4c4a39dafbd9e6ac02fe"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 2:11 \\ft Literally \\fqa in the cutting away of the body of the flesh, by the circumcision of Christ\\f*",
+          "raw_sha256": "f7d3f837c94bc4be36cc57fb98b236352ec62178b4a3e91d9f675bb4877c2baf"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\ft Literally \\fqa but the body is of the Christ\\f*",
+          "raw_sha256": "64473b01db5fb96188875e9a68314f1418124b6a169850c8bc2518a29cc26f5e"
+        }
+      ]
+    },
+    "3": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 3:4 \\ft NE, WH, BYZ, and TR \\fqa our\\f*",
+          "raw_sha256": "9b60e6dc5a74c7e132952ded36660397f951de70b594415fa9aa7fcd56de13bd"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft NE, WH, and Tischendorf do not include \\fqa on the sons of disobedience\\ft .\\f*",
+          "raw_sha256": "d7ba4bcecb396d0eeba6b896434d05eb65d2d15cf2c740ba48b0bcc7fa56e8e3"
+        }
+      ]
+    },
+    "4": {
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 4:18 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "a6da7d9ef970a7c49862176bad18ab9c6ee27315d21b493f07a05b232a19b7a5"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

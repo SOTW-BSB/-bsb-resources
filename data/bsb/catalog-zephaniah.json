@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "ZEP",
+  "book_name": "Zephaniah",
+  "book_order": 36,
+  "canonical_ids": "ZEP.{chapter}.{verse}",
+  "edition_ids": "BSB:ZEP.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 53,
+  "traditional_verse_positions": 53,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "zephaniah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "HAB",
+  "successor_book_code": "HAG",
+  "source_provenance": "books/zephaniah/SOURCE_INVENTORY.json",
+  "reader": "books/zephaniah/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DAN",
+  "chapter": 9,
+  "verses": [
+    {
+      "id": "DAN.9.1",
+      "edition_verse_id": "BSB:DAN.9.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the first year of Darius son of Xerxes, a Mede by descent, who was made ruler over the kingdom of the Chaldeans —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.2",
+      "edition_verse_id": "BSB:DAN.9.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.3",
+      "edition_verse_id": "BSB:DAN.9.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.4",
+      "edition_verse_id": "BSB:DAN.9.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And I prayed to the LORD my God and confessed, “O, Lord, the great and awesome God, who keeps His covenant of loving devotion to those who love Him and keep His commandments,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.5",
+      "edition_verse_id": "BSB:DAN.9.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "we have sinned and done wrong. We have acted wickedly and rebelled. We have turned away from Your commandments and ordinances.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.6",
+      "edition_verse_id": "BSB:DAN.9.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "We have not listened to Your servants the prophets, who spoke in Your name to our kings, leaders, fathers, and all the people of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.7",
+      "edition_verse_id": "BSB:DAN.9.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "To You, O Lord, belongs righteousness, but this day we are covered with shame— the men of Judah, the people of Jerusalem, and all Israel near and far, in all the countries to which You have driven us because of our unfaithfulness to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.8",
+      "edition_verse_id": "BSB:DAN.9.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "O LORD, we are covered with shame — our kings, our leaders, and our fathers — because we have sinned against You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.9",
+      "edition_verse_id": "BSB:DAN.9.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "To the Lord our God belong compassion and forgiveness, even though we have rebelled against Him",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.10",
+      "edition_verse_id": "BSB:DAN.9.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and have not obeyed the voice of the LORD our God to walk in His laws, which He set before us through His servants the prophets.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.11",
+      "edition_verse_id": "BSB:DAN.9.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "All Israel has transgressed Your law and turned away, refusing to obey Your voice; so the oath and the curse written in the Law of Moses the servant of God has been poured out on us, because we have sinned against You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.12",
+      "edition_verse_id": "BSB:DAN.9.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "You have carried out the words spoken against us and against our rulers by bringing upon us a great disaster. For under all of heaven, nothing has ever been done like what has been done to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.13",
+      "edition_verse_id": "BSB:DAN.9.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our iniquities and giving attention to Your truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.14",
+      "edition_verse_id": "BSB:DAN.9.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore the LORD has kept the calamity in store and brought it upon us. For the LORD our God is righteous in all He does; yet we have not obeyed His voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.15",
+      "edition_verse_id": "BSB:DAN.9.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now, O Lord our God, who brought Your people out of the land of Egypt with a mighty hand, and who made for Yourself a name renowned to this day, we have sinned; we have acted wickedly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.16",
+      "edition_verse_id": "BSB:DAN.9.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "O Lord, in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people are a reproach to all around us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.17",
+      "edition_verse_id": "BSB:DAN.9.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So now, our God, hear the prayers and petitions of Your servant. For Your sake, O Lord, cause Your face to shine upon Your desolate sanctuary.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.18",
+      "edition_verse_id": "BSB:DAN.9.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Incline Your ear, O my God, and hear; open Your eyes and see the desolation of the city that bears Your name. For we are not presenting our petitions before You because of our righteous acts, but because of Your great compassion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.19",
+      "edition_verse_id": "BSB:DAN.9.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.20",
+      "edition_verse_id": "BSB:DAN.9.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "While I was speaking, praying, confessing my sin and that of my people Israel, and presenting my petition before the LORD my God concerning His holy mountain—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.21",
+      "edition_verse_id": "BSB:DAN.9.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.22",
+      "edition_verse_id": "BSB:DAN.9.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He instructed me and spoke with me, saying: “O Daniel, I have come now to give you insight and understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.23",
+      "edition_verse_id": "BSB:DAN.9.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "At the beginning of your petitions, an answer went out, and I have come to tell you, for you are highly precious. So consider the message and understand the vision:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.9.24",
+      "edition_verse_id": "BSB:DAN.9.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Seventy weeks are decreed for your people and your holy city to stop their transgression, to put an end to sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy Place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.25",
+      "edition_verse_id": "BSB:DAN.9.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah, the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.26",
+      "edition_verse_id": "BSB:DAN.9.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Then after the sixty-two weeks the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.9.27",
+      "edition_verse_id": "BSB:DAN.9.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And he will confirm a covenant with many for one week, but in the middle of the week he will put an end to sacrifice and offering. And on the wing of the temple will come the abomination that causes desolation, until the decreed destruction is poured out upon him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

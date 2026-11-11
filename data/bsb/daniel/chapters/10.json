@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DAN",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "DAN.10.1",
+      "edition_verse_id": "BSB:DAN.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the third year of Cyrus king of Persia, a message was revealed to Daniel, who was called Belteshazzar. The message was true, and it concerned a great conflict. And the understanding of the message was given to him in a vision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.2",
+      "edition_verse_id": "BSB:DAN.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In those days I, Daniel, was mourning for three full weeks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.3",
+      "edition_verse_id": "BSB:DAN.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I ate no rich food, no meat or wine entered my mouth, and I did not anoint myself with oil until the three weeks were completed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.4",
+      "edition_verse_id": "BSB:DAN.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "On the twenty-fourth day of the first month, as I was standing on the bank of the great river, the Tigris,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.5",
+      "edition_verse_id": "BSB:DAN.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I lifted up my eyes, and behold, there was a certain man dressed in linen, with a belt of fine gold from Uphaz around his waist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.6",
+      "edition_verse_id": "BSB:DAN.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "His body was like beryl, his face like the brilliance of lightning, his eyes like flaming torches, his arms and legs like the gleam of polished bronze, and his voice like the sound of a multitude.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.7",
+      "edition_verse_id": "BSB:DAN.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Only I, Daniel, saw the vision; the men with me did not see it, but a great terror fell upon them, and they ran and hid themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.8",
+      "edition_verse_id": "BSB:DAN.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So I was left alone, gazing at this great vision. No strength remained in me; my face grew deathly pale, and I was powerless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.9",
+      "edition_verse_id": "BSB:DAN.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I heard the sound of his words, and as I listened, I fell into a deep sleep, with my face to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.10",
+      "edition_verse_id": "BSB:DAN.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Suddenly, a hand touched me and set me trembling on my hands and knees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.11",
+      "edition_verse_id": "BSB:DAN.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He said to me, “Daniel, you are a man who is highly precious. Consider carefully the words that I am about to say to you. Stand up, for I have now been sent to you.” And when he had said this to me, I stood up trembling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.12",
+      "edition_verse_id": "BSB:DAN.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Do not be afraid, Daniel,” he said, “for from the first day that you purposed to understand and to humble yourself before your God, your words were heard, and I have come in response to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.13",
+      "edition_verse_id": "BSB:DAN.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.14",
+      "edition_verse_id": "BSB:DAN.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now I have come to explain to you what will happen to your people in the latter days, for the vision concerns those days.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.15",
+      "edition_verse_id": "BSB:DAN.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "While he was speaking these words to me, I set my face toward the ground and became speechless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.16",
+      "edition_verse_id": "BSB:DAN.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And suddenly one with the likeness of a man touched my lips, and I opened my mouth and said to the one standing before me, “My lord, because of the vision, I am overcome with anguish, and I have no strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.17",
+      "edition_verse_id": "BSB:DAN.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "How can I, your servant, speak with you, my lord? Now I have no strength, nor is any breath left in me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.18",
+      "edition_verse_id": "BSB:DAN.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Again the one with the likeness of a man touched me and strengthened me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.19",
+      "edition_verse_id": "BSB:DAN.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“Do not be afraid, you who are highly precious,” he said. “Peace be with you! Be strong now; be very strong!” As he spoke with me, I was strengthened and said, “Speak, my lord, for you have strengthened me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.10.20",
+      "edition_verse_id": "BSB:DAN.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“Do you know why I have come to you?” he said. “I must return at once to fight against the prince of Persia, and when I have gone forth, behold, the prince of Greece will come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.10.21",
+      "edition_verse_id": "BSB:DAN.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But first I will tell you what is inscribed in the Book of Truth. Yet no one has the courage to support me against these, except Michael your prince.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "edition_id": "BSB",
+  "book_code": "DAN",
+  "chapters": {
+    "1": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 1:2 \\ft That is, Babylonia\\f*",
+          "raw_sha256": "31d01d02b5cb34926fcae1be4f5f165be04767d42f9b41a6de302817113c153d"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 1:3 \\ft Hebrew \\fqa from the seed of the kingdom\\f*",
+          "raw_sha256": "697fb57cec7a7fd9c403dcc1017dc5df8c775740e37ca3787260377f9a26e77a"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft That is, the Babylonians\\f*",
+          "raw_sha256": "a395fef5a8aa86a22a103fd75bcc05f12184df8b1f2a2b8cb2cd400c9ca90681"
+        }
+      ]
+    },
+    "2": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 2:2 \\ft Or \\fqa Chaldeans\\ft ; also in verses 4, 5, and 10\\f*",
+          "raw_sha256": "0ee66b607dc977bb9a32dcaed6fa713c2b9765372a910c0fcec55bc0b89ccb72"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 2:4 \\ft The original text from this point of \\ref Daniel 2:4|DAN 2:4\\ref* through Daniel 7:28 is in Aramaic.\\f*",
+          "raw_sha256": "df8909b072ed82a43a97e42a08fc1930ce02fc2425ca7fa053a06ea82f4f13f2"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 2:31 \\ft Or \\fqa image\\ft ; here and through the rest of Daniel 2\\f*",
+          "raw_sha256": "8ffce4a50d1e109aaaa67a64368670b46bd9ac4f195da1380c10b8821e7711a4"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 2:34 \\ft LXX \\fqa cut out from a mountain\\f*",
+          "raw_sha256": "d6efa8ff9908324546ede682a5a24a6711ae54efaf5e2b0d3fde32bcdda96566"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 2:43 \\ft Aramaic \\fqa the seed of men\\f*",
+          "raw_sha256": "f0bff3442c1e59235e4cad20c3f31eeaadb642c660d0fb58a2b04029be0dce48"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft Or \\fqa image\\ft ; here and throughout Daniel 3\\f*",
+          "raw_sha256": "e6f232ecf3980c0ef87ab7030e1584d5c4e2e6cb7050e4f3bd2c9f33ed2befe8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft The statue was approximately 90 feet high and 9 feet wide (27.4 meters high and 2.7 meters wide).\\f*",
+          "raw_sha256": "16d9b1488d745fe13f378e707d13f58b8c372e1218ebbbdbc7a85bdd3fcef21b"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\ft The precise identification of some musical instruments in this chapter is uncertain.\\f*",
+          "raw_sha256": "8b9a144b89543c6d91ece643ef259f8ed074bd504a4dd2e2b5733a882957d8da"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft Or \\fqa Chaldeans\\f*",
+          "raw_sha256": "d1226296a1eec551f0e10d458c90d16044851592b82524af493b4709801074fd"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 3:17 \\ft Or \\fqa If this be so, then the God whom we serve is able\\f*",
+          "raw_sha256": "00b296e36e32f6c447553aeda4407287034dad353e2c12ab19efd9af2a33c7b0"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 3:25 \\ft Or \\fqa like the Son of God\\f*",
+          "raw_sha256": "39772a0059a5dcf63aebf52951f910e8c15d6f74169a0ffa54a224f5371d2bed"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 3:28 \\ft Or \\fqa Angel\\f*",
+          "raw_sha256": "7f82624296f9d2037db29033601bb7fbb0705afadb328448906a6571c485abd7"
+        }
+      ]
+    },
+    "4": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft Or \\fqa Chaldeans\\f*",
+          "raw_sha256": "c580f930973175d56a9183e126380db81cf75191e92f6727c163b88d3099c726"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 4:13 \\ft Or \\fqa an angelic watcher \\ft or \\fqa a messenger\\ft ; also in verses 17 and 23\\f*",
+          "raw_sha256": "69799070f5d471de16b71307b23e2050a0e377aab47abd88c79a33a3e6fdd9ae"
+        }
+      ]
+    },
+    "5": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 5:1 \\ft Aramaic does not include \\fqa Later\\ft . Some translators include \\fqa Many years later \\ft to account for the time elapsed, probably about 30 years, since the previous chapter.\\f*",
+          "raw_sha256": "b6964b5fdf1e9bd7f6151380e782b81eb1859a05d5cb41db1c31b14370e5038e"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft Or \\fqa predecessor \\ft or \\fqa grandfather\\ft ; also in verses 11, 13, and 18\\f*",
+          "raw_sha256": "f8aba50da94fc3c825c851c905f4eb58d83aa7a5461beda601596ce348b722ae"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 5:7 \\ft Or \\fqa Chaldeans\\ft ; also in verse 11\\f*",
+          "raw_sha256": "1ac72a5c8200d6a7280f14c7fbab372194542b1ff5dd79e8a8b51b17eb2df755"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft Or \\fqa queen mother\\f*",
+          "raw_sha256": "b032cb88dd927746cd3516af510df767adb6d6a3818bb85ac9f74ec74bad1a9d"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 5:22 \\ft Or \\fqa descendant \\ft or \\fqa successor \\ft or \\fqa grandson\\f*",
+          "raw_sha256": "ff4ef6a921ab821ca286d6cca3a1c3c766b6af07e3dcb1700fd8f686e0ed9d26"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 5:26 \\fqa Mene \\ft sounds like the Aramaic for \\fqa numbered\\ft .\\f*",
+          "raw_sha256": "543b826a13750128a69f6838bb2483048daa8a02a66cdce9d03f20d17972598f"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 5:27 \\fqa Tekel \\ft sounds like the Aramaic for \\fqa weighed\\ft .\\f*",
+          "raw_sha256": "4497725258f47a92d1cd5b7649fbda7a0109af7f81eb0e5c7a15f142cace5d6c"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 5:28 \\fqa Peres \\ft (the singular of \\fqa Parsin\\ft ) sounds like the Aramaic for \\fqa divided \\ft and for \\fqa Persia\\ft .\\f*",
+          "raw_sha256": "cd9597a11e04c74b07caa788e034cc7f8b48ba045f9ee760642a165011c706de"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 5:30 \\ft That is, the Babylonians\\f*",
+          "raw_sha256": "d47f2d3cbbd674d60d15c67066bf4be9f699b96839ce82832423ea4a05983cc5"
+        }
+      ]
+    },
+    "6": {
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 6:28 \\ft Or \\fqa prospered during the reign of Darius, that is, the reign of Cyrus\\f*",
+          "raw_sha256": "cb7f330c189d90ea38713c17a339f23ce5279cc70f343543961cc7602df082d6"
+        }
+      ]
+    },
+    "7": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 7:2 \\ft Perhaps \\fqa the Great Sea\\ft , that is, the Mediterranean Sea\\f*",
+          "raw_sha256": "60ad18ab700b62c6a13b6ddbe64af0750fed3ade428b02215f3d46fe04601b31"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\ft Or \\fqa one like a son of man\\f*",
+          "raw_sha256": "75d545014da2306c4ac75de01d76199ec06e93b91e68646c8d2572473af693c3"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\ft See \\ref Matthew 24:30|MAT 24:30\\ref*, Matthew 26:64, Mark 13:26, Mark 14:62, Luke 21:27, Revelation 1:13, and Revelation 14:14.\\f*",
+          "raw_sha256": "21afc33d524b6fd6da216236c39e3a91432f774d1ad492e4e6c0cfa59d898d13"
+        }
+      ]
+    },
+    "8": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 8:12 \\ft Or \\fqa on account of transgression\\f*",
+          "raw_sha256": "c2fc5d80b7e37af05c316650ffa28ff28f4101170ef9359992602c6dc58741aa"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 8:21 \\ft Hebrew \\fqa of Javan\\f*",
+          "raw_sha256": "2ad65f65444a494b1a54cc1678328dc7919fec1867c4cde3bbfb37fa412c7847"
+        }
+      ]
+    },
+    "9": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 9:1 \\ft Hebrew \\fqa Ahasuerus\\f*",
+          "raw_sha256": "cd7524cdcc23e15d8833217490f0ac85e794853705c09c295201df496072194c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:1 \\ft That is, the Babylonians\\f*",
+          "raw_sha256": "238977dbff35ca4dabef89d752df8ca18d4018511ad53add9df3f1f5399eecac"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 9:2 \\ft See \\ref Jeremiah 25:11–12|JER 25:11-12\\ref* and Jeremiah 29:10.\\f*",
+          "raw_sha256": "f21dca6b5efd3f3ca12cf5f1a014450e8fad6d09fcaf37464bd48ae9b1bc6327"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 9:4 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "5512dc5c671763ce4c8b49a15c9381d8ac69ee0921a4afbb7b2042686af26e1c"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 9:24 \\ft Or \\fqa Seventy sevens\\ft ; also twice in verse 25 and once in verse 26 \\f*",
+          "raw_sha256": "4a37c3f9a8b2b7757f1f10471f44ed312e6dd2dc0ec869e618cd52cb0f21bb6d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:24 \\ft Or \\fqa the Holy of Holies \\ft or \\fqa the Most Holy One\\ft ; literally \\fqa the Most Holy\\f*",
+          "raw_sha256": "623abc47f188b2798e1e5a89c120b6d9fa9d6c71d4056632fb22ae392bd57d0f"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 9:25 \\ft Or \\fqa the Anointed One\\ft ; also in verse 26\\f*",
+          "raw_sha256": "bd2098d7311beacf340349f7fa4af2f64bd120f2e362d0ffc8c80a83d6ac8e38"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 9:26 \\ft Hebrew \\fqa Then after sixty-two sevens\\f*",
+          "raw_sha256": "5f100c918b86b2c91ce2cb8ef70ffb31c437f4e26bea54bf6e0555c3ac8513f6"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 9:27 \\ft Or \\fqa for one seven\\ft ; similarly again in this verse\\f*",
+          "raw_sha256": "4280351a3d1ae8b87a3200b318772e6dbaf8540b66ea6278c52c6e99e3914e03"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:27 \\ft Literally \\fqa And on the wing (will come) the abomination that causes desolation, \\ft or \\fqa And on the wing of abominations (will come) one who causes desolation,\\f*",
+          "raw_sha256": "0d7a7dbd21e94aad71ccf1cea1ba473e6b33d8c50e2c59c8a08c2e3d9cb7642c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:27 \\ft Literally \\fqa until the decreed consummation is poured out upon (him who) is desolate.\\f*",
+          "raw_sha256": "764dc24dd65ed5978af55a6df942e2144c6809617d8e944d321cc1f6d2bee6aa"
+        }
+      ]
+    },
+    "10": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 10:1 \\ft Or \\fqa true and greatly burdensome\\f*",
+          "raw_sha256": "a7fcd5bc04383864298be469472203bbe4687f98e46ab105c04ce4cf0f4be12d"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 10:16 \\ft Most MT manuscripts; literally \\fqa with the likeness of sons of man\\ft ; DSS, LXX, and one MT manuscript \\fqa with the likeness of the hand of a man\\f*",
+          "raw_sha256": "34b965799c045035a5239e221bc27fd1fdc7af86ebe98e0f0b20670ac1a96bb5"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 10:20 \\ft Hebrew \\fqa of Javan\\f*",
+          "raw_sha256": "81124722fa4aa92c54552d2ea1350405849b4dd791d550808e5d3d00b7bc075b"
+        }
+      ]
+    },
+    "11": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 11:2 \\ft Hebrew \\fqa of Javan\\f*",
+          "raw_sha256": "2b13b95aebabf46b92a75f3fbd49479ec3620acae8de11b91a79b84ad5a76fbd"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 11:6 \\ft Or \\fqa offspring\\f*",
+          "raw_sha256": "78d5c1d71ce7e5d25c7d2fc749a31b15b74b55055db69bc12c2e76a10f1ea761"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:6 \\ft Or \\fqa child\\ft ; see Vulgate and Syriac.\\f*",
+          "raw_sha256": "ff669b56cb640ca05c0a60eea0d95fe960c73699e65157d44b693bf65d897137"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 11:7 \\ft Literally \\fqa a branch from her roots\\f*",
+          "raw_sha256": "fef3bd49af329c3f40b64f4051fd4c52cf8c8038a123d99f6f98f1a807975337"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 11:13 \\ft Hebrew \\fqa at the end of the times\\f*",
+          "raw_sha256": "17f343b5c055352521deba1b42de8e782e285ee8e2fcab0781cbf00eb5a3acb0"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 11:17 \\ft Or \\fqa but she will not stand with him or support him\\f*",
+          "raw_sha256": "2da87eff2ffa8be0e6334d4f2b3e4c052150de4c04502457ba48618cbdc517a3"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 11:30 \\ft Or \\fqa western coastlands \\ft or \\fqa Mediterranean islands\\f*",
+          "raw_sha256": "e05bf57fb68d00cbf9979176b63e3bab728306cf4ddc51d8e561b39c72d7ef3f"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 11:39 \\ft Or \\fqa for a reward\\f*",
+          "raw_sha256": "2204c43ca20d57ee78512ca41e08d1d3859978e941397a267b3e71c7d68ca4bd"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 11:40 \\ft Hebrew \\fqa will thrust at him\\f*",
+          "raw_sha256": "296e17b94b1130bc8a4146ba1e95419cd6b3e2f78b6bb2cc2f79ebf618094483"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 11:43 \\ft That is, people from the upper Nile region\\f*",
+          "raw_sha256": "8b46a3c3fba4b117d57b51ce8bf63f0a31bb468461f357a2cfa253e2afe99328"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 11:44 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "9872b065675da62f1aca61a76319843f2a4fef3a90e60d846cf37ea6ef7b43e6"
+        }
+      ]
+    },
+    "12": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 12:2 \\ft See \\ref John 5:29|JHN 5:29\\ref* and Revelation 11:18.\\f*",
+          "raw_sha256": "86f81e510380d533df52b57f8ff2e90cb08e27d713e36ea1eb67224b2c07d365"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft Or \\fqa expanse \\ft or \\fqa firmament\\ft ; see also \\ref Genesis 1:6–8|GEN 1:6-8\\ref*.\\f*",
+          "raw_sha256": "66e68f9ab16cb080b22d91cfb52c259d162bef09da66232ca72ec3f377db76b9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft See \\ref Matthew 13:43|MAT 13:43\\ref*.\\f*",
+          "raw_sha256": "aacd1239d9e4ff77d4faaa82eabf076e67e8f02afd0dd007276e20e2952b3a6f"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

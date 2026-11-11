@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "EZK",
+  "book_name": "Ezekiel",
+  "book_order": 26,
+  "canonical_ids": "EZK.{chapter}.{verse}",
+  "edition_ids": "BSB:EZK.{chapter}.{verse}",
+  "chapter_count": 48,
+  "verse_count": 1273,
+  "traditional_verse_positions": 1273,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "ezekiel/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "LAM",
+  "successor_book_code": "DAN",
+  "source_provenance": "books/ezekiel/SOURCE_INVENTORY.json",
+  "reader": "books/ezekiel/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

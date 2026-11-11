@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1TH",
+  "book_name": "1 Thessalonians",
+  "book_order": 52,
+  "canonical_ids": "1TH.{chapter}.{verse}",
+  "edition_ids": "BSB:1TH.{chapter}.{verse}",
+  "chapter_count": 5,
+  "verse_count": 89,
+  "traditional_verse_positions": 89,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-thessalonians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "COL",
+  "successor_book_code": "2TH",
+  "source_provenance": "books/first-thessalonians/SOURCE_INVENTORY.json",
+  "reader": "books/first-thessalonians/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

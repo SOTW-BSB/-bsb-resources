@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1SA",
+  "book_name": "1 Samuel",
+  "book_order": 9,
+  "canonical_ids": "1SA.{chapter}.{verse}",
+  "edition_ids": "BSB:1SA.{chapter}.{verse}",
+  "chapter_count": 31,
+  "verse_count": 810,
+  "traditional_verse_positions": 810,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-samuel/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "RUT",
+  "successor_book_code": "2SA",
+  "source_provenance": "books/first-samuel/SOURCE_INVENTORY.json",
+  "reader": "books/first-samuel/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

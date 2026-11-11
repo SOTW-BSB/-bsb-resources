@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1PE",
+  "book_name": "1 Peter",
+  "book_order": 60,
+  "canonical_ids": "1PE.{chapter}.{verse}",
+  "edition_ids": "BSB:1PE.{chapter}.{verse}",
+  "chapter_count": 5,
+  "verse_count": 105,
+  "traditional_verse_positions": 105,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "first-peter/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JAS",
+  "successor_book_code": "2PE",
+  "source_provenance": "books/first-peter/SOURCE_INVENTORY.json",
+  "reader": "books/first-peter/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "DAN",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "DAN.5.1",
+      "edition_verse_id": "BSB:DAN.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Later, King Belshazzar held a great feast for a thousand of his nobles, and he drank wine with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.2",
+      "edition_verse_id": "BSB:DAN.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Under the influence of the wine, Belshazzar gave orders to bring in the gold and silver vessels that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king could drink from them, along with his nobles, his wives, and his concubines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.3",
+      "edition_verse_id": "BSB:DAN.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Thus they brought in the gold vessels that had been taken from the temple, the house of God in Jerusalem, and the king drank from them, along with his nobles, his wives, and his concubines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.4",
+      "edition_verse_id": "BSB:DAN.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "As they drank the wine, they praised their gods of gold and silver, bronze and iron, wood and stone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.5",
+      "edition_verse_id": "BSB:DAN.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "At that moment the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. As the king watched the hand that was writing,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.6",
+      "edition_verse_id": "BSB:DAN.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "his face grew pale and his thoughts so alarmed him that his hips gave way and his knees knocked together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.7",
+      "edition_verse_id": "BSB:DAN.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The king called out for the enchanters, astrologers, and diviners to be brought in, and he said to these wise men of Babylon, “Whoever reads this inscription and tells me its interpretation will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.8",
+      "edition_verse_id": "BSB:DAN.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So all the king’s wise men came in, but they could not read the inscription or interpret it for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.9",
+      "edition_verse_id": "BSB:DAN.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Then King Belshazzar became even more terrified, his face grew even more pale, and his nobles were bewildered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.10",
+      "edition_verse_id": "BSB:DAN.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hearing the outcry of the king and his nobles, the queen entered the banquet hall. “O king, may you live forever!” she said. “Do not let your thoughts terrify you, or your face grow pale.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.11",
+      "edition_verse_id": "BSB:DAN.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "There is a man in your kingdom who has the spirit of the holy gods in him. In the days of your father he was found to have insight, intelligence, and wisdom like that of the gods. Your father, King Nebuchadnezzar, appointed him chief of the magicians, enchanters, astrologers, and diviners. Your own father, the king,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.12",
+      "edition_verse_id": "BSB:DAN.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "did this because Daniel, the one he named Belteshazzar, was found to have an extraordinary spirit, as well as knowledge, understanding, and the ability to interpret dreams, explain riddles, and solve difficult problems. Summon Daniel, therefore, and he will give you the interpretation.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.13",
+      "edition_verse_id": "BSB:DAN.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So Daniel was brought before the king, who asked him, “Are you Daniel, one of the exiles my father the king brought from Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.14",
+      "edition_verse_id": "BSB:DAN.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have heard that the spirit of the gods is in you, and that you have insight, intelligence, and extraordinary wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.15",
+      "edition_verse_id": "BSB:DAN.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now the wise men and enchanters were brought before me to read this inscription and interpret it for me, but they could not give its interpretation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.16",
+      "edition_verse_id": "BSB:DAN.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But I have heard about you, that you are able to give interpretations and solve difficult problems. Therefore, if you can read this inscription and give me its interpretation, you will be clothed in purple and have a gold chain placed around your neck, and you will be made the third highest ruler in the kingdom.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.17",
+      "edition_verse_id": "BSB:DAN.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "In response, Daniel said to the king, “You may keep your gifts for yourself and give your rewards to someone else. Nevertheless, I will read the inscription for the king and interpret it for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.18",
+      "edition_verse_id": "BSB:DAN.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As for you, O king, the Most High God gave your father Nebuchadnezzar sovereignty and greatness, glory and honor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.19",
+      "edition_verse_id": "BSB:DAN.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Because of the greatness that He bestowed on him, the people of every nation and language trembled in fear before him. He killed whom he wished and kept alive whom he wished; he exalted whom he wished and humbled whom he wished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.20",
+      "edition_verse_id": "BSB:DAN.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But when his heart became arrogant and his spirit was hardened with pride, he was deposed from his royal throne, and his glory was taken from him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.21",
+      "edition_verse_id": "BSB:DAN.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He was driven away from mankind, and his mind was like that of a beast. He lived with the wild donkeys and ate grass like an ox, and his body was drenched with the dew of heaven until he acknowledged that the Most High God rules over the kingdom of mankind, setting over it whom He wishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.22",
+      "edition_verse_id": "BSB:DAN.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But you his son, O Belshazzar, have not humbled your heart, even though you knew all this.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.23",
+      "edition_verse_id": "BSB:DAN.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Instead, you have exalted yourself against the Lord of heaven. The vessels from His house were brought to you, and as you drank wine from them with your nobles, wives, and concubines, you praised your gods of silver and gold, bronze and iron, wood and stone, which cannot see or hear or understand. But you have failed to glorify the God who holds in His hand your very breath and all your ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.24",
+      "edition_verse_id": "BSB:DAN.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Therefore He sent the hand that wrote the inscription.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.25",
+      "edition_verse_id": "BSB:DAN.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Now this is the inscription that was written: MENE, MENE, TEKEL, PARSIN.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.26",
+      "edition_verse_id": "BSB:DAN.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And this is the interpretation of the message: MENE means that God has numbered the days of your reign and brought it to an end.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.27",
+      "edition_verse_id": "BSB:DAN.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "TEKEL means that you have been weighed on the scales and found deficient.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.28",
+      "edition_verse_id": "BSB:DAN.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "PERES means that your kingdom has been divided and given over to the Medes and Persians.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DAN.5.29",
+      "edition_verse_id": "BSB:DAN.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Then Belshazzar gave the command, and they clothed Daniel in purple, placed a gold chain around his neck, and proclaimed him the third highest ruler in the kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.30",
+      "edition_verse_id": "BSB:DAN.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "That very night Belshazzar king of the Chaldeans was slain,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DAN.5.31",
+      "edition_verse_id": "BSB:DAN.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and Darius the Mede received the kingdom at the age of sixty-two.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

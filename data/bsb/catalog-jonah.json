@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JON",
+  "book_name": "Jonah",
+  "book_order": 32,
+  "canonical_ids": "JON.{chapter}.{verse}",
+  "edition_ids": "BSB:JON.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 48,
+  "traditional_verse_positions": 48,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "jonah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "OBA",
+  "successor_book_code": "MIC",
+  "source_provenance": "books/jonah/SOURCE_INVENTORY.json",
+  "reader": "books/jonah/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

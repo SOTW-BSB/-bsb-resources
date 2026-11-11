@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "GAL",
+  "book_name": "Galatians",
+  "book_order": 48,
+  "canonical_ids": "GAL.{chapter}.{verse}",
+  "edition_ids": "BSB:GAL.{chapter}.{verse}",
+  "chapter_count": 6,
+  "verse_count": 149,
+  "traditional_verse_positions": 149,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "galatians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "2CO",
+  "successor_book_code": "EPH",
+  "source_provenance": "books/galatians/SOURCE_INVENTORY.json",
+  "reader": "books/galatians/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

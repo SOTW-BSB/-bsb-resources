@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "REV",
+  "book_name": "Revelation",
+  "book_order": 66,
+  "canonical_ids": "REV.{chapter}.{verse}",
+  "edition_ids": "BSB:REV.{chapter}.{verse}",
+  "chapter_count": 22,
+  "verse_count": 404,
+  "traditional_verse_positions": 404,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "revelation/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JUD",
+  "successor_book_code": null,
+  "source_provenance": "books/revelation/SOURCE_INVENTORY.json",
+  "reader": "books/revelation/site/index.html",
+  "note": "BSB source-locked verse-only data. Source footnotes and section headings are not public reader content. No embedded Strong’s, lexicons, or historical commentary."
+}

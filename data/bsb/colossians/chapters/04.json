@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "COL",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "COL.4.1",
+      "edition_verse_id": "BSB:COL.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Masters, supply your slaves with what is right and fair, since you know that you also have a Master in heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.2",
+      "edition_verse_id": "BSB:COL.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Devote yourselves to prayer, being watchful and thankful,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.3",
+      "edition_verse_id": "BSB:COL.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "as you pray also for us, that God may open to us a door for the word, so that we may proclaim the mystery of Christ, for which I am in chains.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.4",
+      "edition_verse_id": "BSB:COL.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Pray that I may declare it clearly, as I should.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.5",
+      "edition_verse_id": "BSB:COL.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Act wisely toward outsiders, redeeming the time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.6",
+      "edition_verse_id": "BSB:COL.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Let your speech always be gracious, seasoned with salt, so that you may know how to answer everyone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.7",
+      "edition_verse_id": "BSB:COL.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Tychicus will tell you all the news about me. He is a beloved brother, a faithful minister, and a fellow servant in the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.8",
+      "edition_verse_id": "BSB:COL.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.9",
+      "edition_verse_id": "BSB:COL.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "With him I am sending Onesimus, our faithful and beloved brother, who is one of you. They will tell you about everything here.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.10",
+      "edition_verse_id": "BSB:COL.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "My fellow prisoner Aristarchus sends you greetings, as does Mark the cousin of Barnabas. You have already received instructions about him: If he comes to you, welcome him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.11",
+      "edition_verse_id": "BSB:COL.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jesus, who is called Justus, also sends greetings. These are the only Jews among my fellow workers for the kingdom of God, and they have been a comfort to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.12",
+      "edition_verse_id": "BSB:COL.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Epaphras, who is one of you and a servant of Christ Jesus, sends you greetings. He is always wrestling in prayer for you, so that you may stand mature and fully assured in the full will of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.13",
+      "edition_verse_id": "BSB:COL.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For I testify about him that he goes to great pains for you and for those at Laodicea and Hierapolis.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "COL.4.14",
+      "edition_verse_id": "BSB:COL.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Luke, the beloved physician, and Demas send you greetings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.15",
+      "edition_verse_id": "BSB:COL.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Greet the brothers in Laodicea, as well as Nympha and the church that meets at her house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.16",
+      "edition_verse_id": "BSB:COL.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "After this letter has been read among you, make sure that it is also read in the church of the Laodiceans, and that you in turn read the letter from Laodicea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.17",
+      "edition_verse_id": "BSB:COL.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Tell Archippus: “See to it that you complete the ministry you have received in the Lord.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "COL.4.18",
+      "edition_verse_id": "BSB:COL.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "This greeting is in my own hand — Paul. Remember my chains. Grace be with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
