@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "1KI.22.1",
+      "edition_verse_id": "BSB:1KI.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then three years passed without war between Aram and Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.2",
+      "edition_verse_id": "BSB:1KI.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "However, in the third year, Jehoshaphat king of Judah went down to visit the king of Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.3",
+      "edition_verse_id": "BSB:1KI.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "who said to his servants, “Do you not know that Ramoth-gilead is ours, but we have failed to take it from the hand of the king of Aram?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.4",
+      "edition_verse_id": "BSB:1KI.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So he asked Jehoshaphat, “Will you go with me to fight against Ramoth-gilead?” Jehoshaphat answered the king of Israel, “I am as you are, my people are your people, and my horses are your horses.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.5",
+      "edition_verse_id": "BSB:1KI.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But Jehoshaphat also said to the king of Israel, “Please inquire first for the word of the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.6",
+      "edition_verse_id": "BSB:1KI.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So the king of Israel assembled the prophets, about four hundred men, and asked them, “Should I go to war against Ramoth-gilead, or should I refrain?” “Go up,” they replied, “and the Lord will deliver it into the hand of the king.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.7",
+      "edition_verse_id": "BSB:1KI.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But Jehoshaphat asked, “Is there not still a prophet of the LORD here of whom we can inquire?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.8",
+      "edition_verse_id": "BSB:1KI.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The king of Israel answered, “There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.” “The king should not say that!” Jehoshaphat replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.9",
+      "edition_verse_id": "BSB:1KI.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.10",
+      "edition_verse_id": "BSB:1KI.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Dressed in royal attire, the king of Israel and Jehoshaphat king of Judah were sitting on their thrones at the threshing floor by the entrance of the gate of Samaria, with all the prophets prophesying before them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.11",
+      "edition_verse_id": "BSB:1KI.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “This is what the LORD says: ‘With these you shall gore the Arameans until they are finished off.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.12",
+      "edition_verse_id": "BSB:1KI.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And all the prophets were prophesying the same, saying, “Go up to Ramoth-gilead and triumph, for the LORD will deliver it into the hand of the king.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.13",
+      "edition_verse_id": "BSB:1KI.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then the messenger who had gone to call Micaiah instructed him, “Behold now, with one accord the words of the prophets are favorable to the king. So please let your words be like theirs, and speak favorably.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.14",
+      "edition_verse_id": "BSB:1KI.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But Micaiah said, “As surely as the LORD lives, I will speak whatever the LORD tells me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.15",
+      "edition_verse_id": "BSB:1KI.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When Micaiah arrived, the king asked him, “Micaiah, should we go to war against Ramoth-gilead, or should we refrain?” “Go up and triumph,” Micaiah replied, “for the LORD will deliver it into the hand of the king.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.16",
+      "edition_verse_id": "BSB:1KI.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But the king said to him, “How many times must I make you swear not to tell me anything but the truth in the name of the LORD?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.17",
+      "edition_verse_id": "BSB:1KI.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.18",
+      "edition_verse_id": "BSB:1KI.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the king of Israel said to Jehoshaphat, “Did I not tell you that he never prophesies good for me, but only bad?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.19",
+      "edition_verse_id": "BSB:1KI.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Micaiah continued, “Therefore hear the word of the LORD: I saw the LORD sitting on His throne, and all the host of heaven standing by Him on His right and on His left.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.20",
+      "edition_verse_id": "BSB:1KI.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the LORD said, ‘Who will entice Ahab to march up and fall at Ramoth-gilead?’ And one suggested this, and another that.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.21",
+      "edition_verse_id": "BSB:1KI.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then a spirit came forward, stood before the LORD, and said, ‘I will entice him.’ ‘By what means?’ asked the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.22",
+      "edition_verse_id": "BSB:1KI.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And he replied, ‘I will go out and be a lying spirit in the mouths of all his prophets.’ ‘You will surely entice him and prevail,’ said the LORD. ‘Go and do it.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.23",
+      "edition_verse_id": "BSB:1KI.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So you see, the LORD has put a lying spirit in the mouths of all these prophets of yours, and the LORD has pronounced disaster against you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.24",
+      "edition_verse_id": "BSB:1KI.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded, “Which way did the Spirit of the LORD go when He departed from me to speak with you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.25",
+      "edition_verse_id": "BSB:1KI.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Micaiah replied, “You will soon see, on that day when you go and hide in an inner room.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.26",
+      "edition_verse_id": "BSB:1KI.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "And the king of Israel declared, “Take Micaiah and return him to Amon the governor of the city and to Joash the king’s son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.27",
+      "edition_verse_id": "BSB:1KI.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and tell them that this is what the king says: ‘Put this man in prison and feed him only bread and water until I return safely.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.28",
+      "edition_verse_id": "BSB:1KI.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "But Micaiah replied, “If you ever return safely, the LORD has not spoken through me.” Then he added, “Take heed, all you people!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.29",
+      "edition_verse_id": "BSB:1KI.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So the king of Israel and Jehoshaphat king of Judah went up to Ramoth-gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.30",
+      "edition_verse_id": "BSB:1KI.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And the king of Israel said to Jehoshaphat, “I will disguise myself and go into battle, but you wear your royal robes.” So the king of Israel disguised himself and went into battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.31",
+      "edition_verse_id": "BSB:1KI.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Now the king of Aram had ordered his thirty-two chariot commanders, “Do not fight with anyone, small or great, except the king of Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.32",
+      "edition_verse_id": "BSB:1KI.22.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "When the chariot commanders saw Jehoshaphat, they said, “Surely this is the king of Israel!” So they turned to fight against him, but Jehoshaphat cried out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.33",
+      "edition_verse_id": "BSB:1KI.22.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.34",
+      "edition_verse_id": "BSB:1KI.22.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "However, a certain man drew his bow without taking special aim, and he struck the king of Israel between the joints of his armor. So the king said to his charioteer, “Turn around and take me out of the battle, for I am badly wounded!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.35",
+      "edition_verse_id": "BSB:1KI.22.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The battle raged throughout that day, and the king was propped up in his chariot facing the Arameans. And the blood from his wound ran out onto the floor of the chariot, and that evening he died.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.36",
+      "edition_verse_id": "BSB:1KI.22.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "As the sun was setting, the cry rang out in the army: “Every man to his own city, and every man to his own land!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.37",
+      "edition_verse_id": "BSB:1KI.22.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "So the king died and was brought to Samaria, where they buried him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.38",
+      "edition_verse_id": "BSB:1KI.22.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And the chariot was washed at the pool of Samaria where the prostitutes bathed, and the dogs licked up Ahab’s blood, according to the word that the LORD had spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.39",
+      "edition_verse_id": "BSB:1KI.22.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Ahab, along with all his accomplishments and the ivory palace and all the cities he built, are they not written in the Book of the Chronicles of the Kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.40",
+      "edition_verse_id": "BSB:1KI.22.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "And Ahab rested with his fathers, and his son Ahaziah reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.41",
+      "edition_verse_id": "BSB:1KI.22.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "In the fourth year of Ahab’s reign over Israel, Jehoshaphat son of Asa became king of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.42",
+      "edition_verse_id": "BSB:1KI.22.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years. His mother’s name was Azubah daughter of Shilhi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.43",
+      "edition_verse_id": "BSB:1KI.22.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And Jehoshaphat walked in all the ways of his father Asa; he did not turn away from them, but did what was right in the eyes of the LORD. The high places, however, were not removed; the people still sacrificed and burned incense on the high places.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.44",
+      "edition_verse_id": "BSB:1KI.22.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Jehoshaphat also made peace with the king of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.45",
+      "edition_verse_id": "BSB:1KI.22.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Jehoshaphat, along with the might he exercised and how he waged war, are they not written in the Book of the Chronicles of the Kings of Judah?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.46",
+      "edition_verse_id": "BSB:1KI.22.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "He banished from the land the male shrine prostitutes who remained from the days of his father Asa.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.47",
+      "edition_verse_id": "BSB:1KI.22.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "And there was no king in Edom; a deputy served as king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.48",
+      "edition_verse_id": "BSB:1KI.22.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "Jehoshaphat built ships of Tarshish to go to Ophir for gold, but they never set sail, because they were wrecked at Ezion-geber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.49",
+      "edition_verse_id": "BSB:1KI.22.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "At that time Ahaziah son of Ahab said to Jehoshaphat, “Let my servants sail with your servants,” but Jehoshaphat refused.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.50",
+      "edition_verse_id": "BSB:1KI.22.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And Jehoshaphat rested with his fathers and was buried with them in the city of his father David. And his son Jehoram reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.51",
+      "edition_verse_id": "BSB:1KI.22.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "In the seventeenth year of Jehoshaphat’s reign over Judah, Ahaziah son of Ahab became king of Israel, and he reigned in Samaria two years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.22.52",
+      "edition_verse_id": "BSB:1KI.22.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And he did evil in the sight of the LORD and walked in the ways of his father and mother and of Jeroboam son of Nebat, who had caused Israel to sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.22.53",
+      "edition_verse_id": "BSB:1KI.22.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Ahaziah served and worshiped Baal, provoking the LORD, the God of Israel, to anger, just as his father had done.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

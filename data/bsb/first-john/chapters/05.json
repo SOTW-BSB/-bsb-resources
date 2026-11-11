@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1JN",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1JN.5.1",
+      "edition_verse_id": "BSB:1JN.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves those born of Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.2",
+      "edition_verse_id": "BSB:1JN.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "By this we know that we love the children of God: when we love God and keep His commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.3",
+      "edition_verse_id": "BSB:1JN.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For this is the love of God, that we keep His commandments. And His commandments are not burdensome,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.4",
+      "edition_verse_id": "BSB:1JN.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "because everyone born of God overcomes the world. And this is the victory that has overcome the world: our faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.5",
+      "edition_verse_id": "BSB:1JN.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Who then overcomes the world? Only he who believes that Jesus is the Son of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.6",
+      "edition_verse_id": "BSB:1JN.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "This is the One who came by water and blood, Jesus Christ — not by water alone, but by water and blood. And it is the Spirit who testifies to this, because the Spirit is the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.7",
+      "edition_verse_id": "BSB:1JN.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For there are three that testify:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.8",
+      "edition_verse_id": "BSB:1JN.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "the Spirit, the water, and the blood — and these three are in agreement.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.9",
+      "edition_verse_id": "BSB:1JN.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Even if we accept human testimony, the testimony of God is greater. For this is the testimony that God has given about His Son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.10",
+      "edition_verse_id": "BSB:1JN.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Whoever believes in the Son of God has this testimony within him; whoever does not believe God has made Him out to be a liar, because he has not believed in the testimony that God has given about His Son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.11",
+      "edition_verse_id": "BSB:1JN.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And this is that testimony: God has given us eternal life, and this life is in His Son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.12",
+      "edition_verse_id": "BSB:1JN.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Whoever has the Son has life; whoever does not have the Son of God does not have life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.13",
+      "edition_verse_id": "BSB:1JN.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "I have written these things to you who believe in the name of the Son of God, so that you may know that you have eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.14",
+      "edition_verse_id": "BSB:1JN.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And this is the confidence that we have before Him: If we ask anything according to His will, He hears us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.15",
+      "edition_verse_id": "BSB:1JN.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And if we know that He hears us in whatever we ask, we know that we already possess what we have asked of Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.16",
+      "edition_verse_id": "BSB:1JN.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "If anyone sees his brother committing a sin not leading to death, he should ask God, who will give life to those who commit this kind of sin. There is a sin that leads to death; I am not saying he should ask regarding that sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.17",
+      "edition_verse_id": "BSB:1JN.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "All unrighteousness is sin, yet there is sin that does not lead to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.18",
+      "edition_verse_id": "BSB:1JN.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "We know that anyone born of God does not keep on sinning; the One who was born of God protects him, and the evil one cannot touch him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1JN.5.19",
+      "edition_verse_id": "BSB:1JN.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "We know that we are of God, and that the whole world is under the power of the evil one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.20",
+      "edition_verse_id": "BSB:1JN.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And we know that the Son of God has come and has given us understanding, so that we may know Him who is true; and we are in Him who is true — in His Son Jesus Christ. He is the true God and eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1JN.5.21",
+      "edition_verse_id": "BSB:1JN.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Little children, keep yourselves from idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,1365 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapters": {
+    "1": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft LXX; Hebrew does not include \\fqa The sons of Noah:\\ft ; see \\ref Genesis 5:32|GEN 5:32\\ref*.\\f*",
+          "raw_sha256": "0c2bee11fcf89296e3a8f0e6a7c86b661ad2eda105182bbe92a00b3766f6206f"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 1:6 \\ft Many Hebrew manuscripts and Vulgate (see also LXX and \\ref Genesis 10:3|GEN 10:3\\ref*); most Hebrew manuscripts \\fqa Diphath\\f*",
+          "raw_sha256": "f071ab0c0e7cf72b20381511427704255e96043ec5306da343098251429bf2c7"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\fqa Sabta \\ft is a variant of \\fqa Sabtah\\ft ; see \\ref Genesis 10:7|GEN 10:7\\ref*.\\f*",
+          "raw_sha256": "c0002329773a5a9c8fd0390aae46ebc66396a9f328663a277a05446956c23bd9"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 1:10 \\ft Or \\fqa who established himself as a mighty warrior\\f*",
+          "raw_sha256": "96169c4bb9e41123169e538a0ae62680314a7141c6f8d90a0b9a7f7b594d8273"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft Some translators adjust the Hebrew word order to \\fqa the Casluhites, and the Caphtorites (from whom the Philistines came)\\ft ; see also \\ref Jeremiah 47:4|JER 47:4\\ref* and Amos 9:7.\\f*",
+          "raw_sha256": "c296673fb1917ff75632b12f4c0d802238912ad682bf33f7fcbd2c5780f74c40"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Or \\fqa of the Sidonians, the foremost\\f*",
+          "raw_sha256": "295a34ccecfb83b4581282e28d0faa0feecea58e8ebe0bdefd3960aa67737292"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Hebrew \\fqa and of Heth\\f*",
+          "raw_sha256": "2efd54016cac074fbc2faf73a71ed9cc734c1bcc7dc6dced0f71a6b86fe8d2b3"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\ft One Hebrew manuscript and some LXX manuscripts (see also \\ref Genesis 10:23|GEN 10:23\\ref*); most Hebrew manuscripts do not include \\fqa The sons of Aram\\ft .\\f*",
+          "raw_sha256": "707d6d5b48d41ea25b233c62a5bf6b273cc7c01113e46e25c6d830537316a814"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:17 \\fqa Meshech \\ft is a variant of \\fqa Mash\\ft ; see \\ref Genesis 10:23|GEN 10:23\\ref*.\\f*",
+          "raw_sha256": "6d4972ccf93d34e98619d90cf130d3baca174c194c5b0deb7e68a4f72f7dfd68"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 1:19 \\fqa Peleg \\ft means \\fqa division\\ft .\\f*",
+          "raw_sha256": "89a0e57cb2eeee2003ed0812bce6837aae950a06d9c64bcc989a71ecfdd8fa5d"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 1:22 \\ft LXX and Syriac (see also \\ref Genesis 10:28|GEN 10:28\\ref*); Hebrew \\fqa Ebal\\f*",
+          "raw_sha256": "941d0b9f308d30b0150e2d250de1bfaa7c711e7a6a5c9c684e64fbf1ec76996b"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 1:24 \\ft Literally \\fqa Shem, Arphaxad, Shelah\\ft ; some LXX manuscripts \\fqa Shem, Arphaxad, Cainan, Shelah\\ft ; see also \\ref Genesis 10:24|GEN 10:24\\ref* LXX and Luke 3:35–36.\\f*",
+          "raw_sha256": "e221473facbc6c95a248472907c87e3da22274bc8415aff297a6d8614896a1be"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 1:36 \\ft Many Hebrew manuscripts, some LXX manuscripts, and Syriac (see also \\ref Genesis 36:11|GEN 36:11\\ref*); most Hebrew manuscripts \\fqa Zephi\\f*",
+          "raw_sha256": "ccafba3834f28e268e1a81a0b18c3d1107daa04d9ea722f76c8f5b82a20a373b"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 1:39 \\fqa Homam \\ft is a variant of \\fqa Hemam\\ft ; see \\ref Genesis 36:22|GEN 36:22\\ref*.\\f*",
+          "raw_sha256": "9d841bb9d57d43ba2c13cd28c1a3f53e46e661dcaef62375023b07c05ab4902a"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 1:40 \\ft LXX (see also \\ref Genesis 36:23|GEN 36:23\\ref*); Hebrew \\fqa Alian \\ft \\f*",
+          "raw_sha256": "2c48fbe60528689aadf145f8c56098bd30237923444fa50b800dcfc012866643"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:40 \\ft LXX (see also \\ref Genesis 36:23|GEN 36:23\\ref*); Hebrew \\fqa Shephi\\f*",
+          "raw_sha256": "8a1659ab4a56b09a7cddf777ba116c48404f73e16bbac3e80642a17191a454e0"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 1:41 \\ft Hebrew \\fqa sons \\ft \\f*",
+          "raw_sha256": "905b293bdb32f56e449203c6be23b892e5fd54a4426a9cbae1150812978af337"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:41 \\ft LXX (see also \\ref Genesis 36:26|GEN 36:26\\ref*); Hebrew \\fqa Hamran\\f*",
+          "raw_sha256": "f0dd65b1dfa67ad02b99b92450801d51e36dd3ee2a4ff8159aa9020fda127fd0"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 1:42 \\ft LXX (see also \\ref Genesis 36:27|GEN 36:27\\ref*); Hebrew \\fqa Jaakan\\f*",
+          "raw_sha256": "ca2bf0af1719f58ed392e6f96336103432b61ef6a9a52b1f7d36b52cf993f351"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 1:43 \\ft Or \\fqa before an Israelite king ruled over them\\f*",
+          "raw_sha256": "48e21ed015a6df481f5cd5ef34ee15492cdaddd8f6b274a0b55466dad6c3c8c0"
+        }
+      ],
+      "48": [
+        {
+          "source_usfm": "\\f + \\fr 1:48 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "5b12ea56e1cac13d7ed8d29064f4526ce79edade4ffdd7b125eb61059ebcec88"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 1:50 \\ft Many MT manuscripts, some LXX manuscripts, Vulgate, and Syriac (see also \\ref Genesis 36:39|GEN 36:39\\ref*); most MT manuscripts \\fqa Pai\\f*",
+          "raw_sha256": "b2cab9bdee3e768d2bbecf678a4ffa140a37837bff595a89a808d92b3e5b7077"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\fqa Zimri \\ft is a variant of \\fqa Zabdi\\ft ; see \\ref Joshua 7:1|JOS 7:1\\ref*.\\f*",
+          "raw_sha256": "6842089d5948bd3ac24e13bc3694d4e3aff1be38893bf577547da07b8a0603c1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Most Hebrew manuscripts; many Hebrew manuscripts, some LXX manuscripts, and Syriac (see also \\ref 1 Kings 4:31|1KI 4:31\\ref*) \\fqa Darda\\f*",
+          "raw_sha256": "a2c528670b1c782dddf6ffdf4ecd676729db3d3eb134b0d7206c6e743aad3a31"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft Hebrew \\fqa sons\\f*",
+          "raw_sha256": "5f029212940b8826f5861784c0dea7d777652d3e2b3b814d2c34a090e103d837"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\fqa Achar \\ft means \\fqa troubler\\ft ; also called \\fqa Achan \\ft in Joshua 7 and Joshua 22.\\f*",
+          "raw_sha256": "42f384fabd3a1ae0938187a17aa9a1f98cb7de305d09a80d8a4cb858dd27d7fd"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 2:9 \\ft Hebrew \\fqa Chelubai\\ft , a variant of \\fqa Caleb\\ft ; see verse 18.\\f*",
+          "raw_sha256": "0d607858f095da63f8dd0ce4262d053e7250c63dc9235b259034cccfa2244590"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 2:11 \\ft LXX (see also \\ref Ruth 4:20–21|RUT 4:20-21\\ref*); Hebrew \\fqa Salma\\ft ; twice in this verse\\f*",
+          "raw_sha256": "f69eb149cc53ca37f9927f8438b21e3668d43d40daedcb643ffb73c4f09f303b"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 2:13 \\fqa Shimea \\ft is a variant of \\fqa Shammah\\ft , \\fqa Shimeah\\ft , and \\fqa Shimei\\ft ; see \\ref 1 Samuel 16:9|1SA 16:9\\ref*, 2 Samuel 13:3, and 2 Samuel 21:21.\\f*",
+          "raw_sha256": "5f2ef830d230a144ad1b493431fb05e2014654f32f8a2325f09101f03264e6d0"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\fqa Jether \\ft is a variant of \\fqa Ithra\\ft ; see \\ref 2 Samuel 17:25|2SA 17:25\\ref*.\\f*",
+          "raw_sha256": "ca6a8927c79a5be9f6dbca3d27ad401d7e9454f5dd88b217646cc91d17103cf1"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 2:19 \\fqa Ephrath \\ft is a variant of \\fqa Ephrathah\\ft ; see verse 50.\\f*",
+          "raw_sha256": "88651b85109ed62c49bb6df1a8eb65ada90f4f0b960182d7caa92bf565957def"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 2:23 \\ft Or \\fqa the villages of Jair\\f*",
+          "raw_sha256": "d00ff9a8360a14d6e69b1b7fc855e911d48c2c5e40fe3f7392924ace43171101"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 2:24 \\ft Or \\fqa After Hezron died, Caleb had relations with Ephrathah, the wife of Hezron his father, and she bore\\ft ; see also LXX.\\f*",
+          "raw_sha256": "7fb42f1f6c7c03076ad78a665e1b2f7b2fb248d7fe834d92153fe2317f275c78"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:24 \\ft Or \\fqa the founder\\ft ; also in verses 42, 45, 49, and possibly elsewhere\\f*",
+          "raw_sha256": "a90b945d64d7387ad93c9d637fcd887b1b638c7fd3a2a7ecfbe9b6ca3f294b69"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 2:31 \\ft Hebrew \\fqa sons\\ft ; three times in this verse\\f*",
+          "raw_sha256": "484d91dd25fd38e234b2aea2a9a35db7015522d2c1bfcee176f80a03d8e4e5a4"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 2:42 \\ft Hebrew; LXX \\fqa Mareshah\\f*",
+          "raw_sha256": "3eeb7ede4df8872f6cfe2fcdb538d778c9e8b3952b18ca9069de6bda0a95dfda"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 2:50 \\ft LXX and Vulgate; Hebrew \\fqa son\\f*",
+          "raw_sha256": "97ba05e6e32f3518b15f732228aafa30a986ab160f9b7a6b3b72326a48531127"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:50 \\fqa Ephrathah \\ft is a variant of \\fqa Ephrath\\ft ; see verse 19.\\f*",
+          "raw_sha256": "25ee19fec62c40589b5ef0ba31098ec34c2d3d420511050fc0472b1506286685"
+        }
+      ],
+      "55": [
+        {
+          "source_usfm": "\\f + \\fr 2:55 \\ft Or \\fqa of the Sopherites \\ft \\f*",
+          "raw_sha256": "2294ab21bb40b58381c5f2540999b1b7ade78831765c8900dd09e3d6b9683715"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:55 \\ft Or \\fqa the father of Beth-rekab \\ft or \\fqa the founder of the house of Rechab\\f*",
+          "raw_sha256": "cb00a401ea8a9562ce2cc5061591d1def73e5f9d508efff8d68a812297fabf3a"
+        }
+      ]
+    },
+    "3": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\fqa Shimea \\ft is a variant of \\fqa Shammua\\ft ; see \\ref 2 Samuel 5:14|2SA 5:14\\ref* and 1 Chronicles 14:4.\\f*",
+          "raw_sha256": "27df29878da596c55947c049eaf16c81608250995f32e3630e8af05558e22994"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\ft One Hebrew manuscript and Vulgate (see also LXX and \\ref 2 Samuel 11:3|2SA 11:3\\ref*); most Hebrew manuscripts \\fqa Bath-shua\\f*",
+          "raw_sha256": "642f3cff67e2237dd71d9babbca7fc08b66a723491c69f306114e4236357f5b7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\fqa Ammiel \\ft is a variant of \\fqa Eliam\\ft ; see \\ref 2 Samuel 11:3|2SA 11:3\\ref*.\\f*",
+          "raw_sha256": "ed5f3fc7bbc221552cbbb0b145824b07920486d9a06866d1d9a6455ae7ffbd7f"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft Hebrew does not include \\fqa David’s other sons were\\ft .\\f*",
+          "raw_sha256": "529dbeee1d07c7eaf5c7c6afcaa57a8e2655afde84080bc8217e78508f766b94"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft Two Hebrew manuscripts (see also \\ref 2 Samuel 5:15|2SA 5:15\\ref* and 1 Chronicles 14:5); most Hebrew manuscripts \\fqa Elishama\\f*",
+          "raw_sha256": "7aacf494988cc399a76668bec70065d4f4aa62a3d8cd1baa1c6627d2320dcbf4"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 3:11 \\fqa Joram \\ft is a variant spelling of \\fqa Jehoram\\ft .\\f*",
+          "raw_sha256": "b63bbebac5f670193f635093eb653930f9e8a2ecda474d8f7d97fc11b5991f05"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\fqa Azariah \\ft is also called \\fqa Uzziah\\ft ; see \\ref 2 Chronicles 26:1|2CH 26:1\\ref*.\\f*",
+          "raw_sha256": "392b27a9d8fe7bab920dd7611213604d0d807cf5716371b48be4cbab35974092"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\fqa Shallum \\ft is another name for \\fqa Jehoahaz\\ft .\\f*",
+          "raw_sha256": "cfb9e01b1e687556b4e3cc70a85d665c260d2c55ded104993d963cb37119060d"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\fqa Jeconiah \\ft is a variant of \\fqa Jehoiachin\\ft ; also in verse 17; see \\ref 2 Kings 24:6|2KI 24:6\\ref*.\\f*",
+          "raw_sha256": "a185b05bbc28527daef033b5de256079bc956ef391dfc6a310f884bc03904621"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft LXX (see also Vulgate); Hebrew \\fqa These were of the father\\f*",
+          "raw_sha256": "9b7796c8a375c09934635fa4a0eb8a61651de27b108b9ca94902b002cc1cf1c3"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 4:4 \\ft Or \\fqa the founder\\ft ; also in verses 5, 12, 14, 17, 18, and possibly elsewhere\\f*",
+          "raw_sha256": "74babe50fde7e5128bf2722af452dd4c6ec8de43975a9127a1f5e1138fa85f16"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 4:7 \\ft Alternate MT reading; the other alternate (see also Vulgate) reads \\fqa Izhar\\ft .\\f*",
+          "raw_sha256": "9a08e94c1790f30eb271ba52fe53de638a1b844a870d648257950329ec1a817a"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 4:9 \\fqa Jabez \\ft sounds like the Hebrew for \\fqa pain \\ft or \\fqa distress\\ft .\\f*",
+          "raw_sha256": "55f78d663e8af0e6c0c274a44b4d4cb17005352ec56de69a8313750bc09c6e1b"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 4:13 \\ft Vulgate and some LXX; Hebrew does not include \\fqa and Meonothai\\ft .\\f*",
+          "raw_sha256": "5314f890f6952e082afdd09e2f6bbfb5eb4e8a01c26a56387933d00e444023fb"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 4:14 \\ft Literally \\fqa Ge-harashim, for they were craftsmen\\ft . The Hebrew \\fqa Ge-harashim \\ft means \\fqa valley of craftsmen\\ft .\\f*",
+          "raw_sha256": "adc2868d46424d286f98ecb42259d91f3c4b65639a978b274b751330901663a2"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 4:15 \\ft Hebrew \\fqa sons \\ft \\f*",
+          "raw_sha256": "70780ab56e2f32fa08d4f01d9f881e1a0eb6f2766546955d7ae53046b6d75ee3"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 4:17 \\ft Literally \\fqa she gave birth\\f*",
+          "raw_sha256": "5e96f3d95c2d903c7f6420780597ae4863ee70e768787753d5885f97e2132ea7"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 4:18 \\ft This statement is at the end of verse 18 in the Hebrew.\\f*",
+          "raw_sha256": "c661c3a42dbca550e2d73d06d5b4e1bce804b137f987753a016319d4c42fe76d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:18 \\ft Or \\fqa Judahite\\f*",
+          "raw_sha256": "b6abfcc59ae34aefb67ae3ed3c6160df609acecfb9e3d2620fcbdde97bdbcc1a"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 4:19 \\ft Or \\fqa were the father of Keilah the Garmite, and Eshtemoa the Maacathite\\f*",
+          "raw_sha256": "964d1ea705102022f2bbf80cd1b0cf35f1ab84547727cb75be2372e8bf91d29f"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 4:24 \\fqa Zerah \\ft is a variant of \\fqa Zohar\\ft ; see \\ref Genesis 46:10|GEN 46:10\\ref* and Exodus 6:15.\\f*",
+          "raw_sha256": "fe414555e4706d71d1bbe07afa430c3063fc3a0f0f3cc6df305adaf37fca8734"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 4:33 \\ft Hebrew; some LXX manuscripts (see also \\ref Joshua 19:8|JOS 19:8\\ref*) \\fqa Baalath\\f*",
+          "raw_sha256": "9850f7df1bf75d64fbedf381227c24db286ce31dd31a4bbba9303c22cd0faaee"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 4:41 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "6e410ad2801e4d450ec49bb74a76fa0c997c616d670dff16931063c90d6a8fea"
+        }
+      ]
+    },
+    "5": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 5:6 \\ft Hebrew \\fqa Tilgath-pilneser\\ft , a variant spelling of \\fqa Tiglath-pileser\\ft ; also in verse 26\\f*",
+          "raw_sha256": "4e4e84ffdc7fa9c0e1b6f6972389e1dfd353c5c64206efe90922396ab6556c8e"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 5:23 \\ft Literally \\fqa from Bashan to Baal-hermon and Senir and Mount Hermon.\\f*",
+          "raw_sha256": "d806174366b32064160a606fed92445634c0196c1918b83892e48fa7536366c1"
+        }
+      ]
+    },
+    "6": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 6:14 \\fqa Jehozadak \\ft is a variant of \\fqa Jozadak\\ft ; also in verse 15; see \\ref Ezra 3:2|EZR 3:2\\ref*.\\f*",
+          "raw_sha256": "c34db50c9c1fbd288b56bc9a9be32134ef56ef8c027321b528239d52f00c4d7c"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 6:16 \\fqa Gershom \\ft is a variant of \\fqa Gershon\\ft ; similarly in verses 17, 20, 43, 62, and 71; see verse 1.\\f*",
+          "raw_sha256": "c3838c0b959e6af101edf1002a34ab983991afb6b52ad5546587303179686d55"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 6:23 \\fqa Ebiasaph \\ft is a variant of \\fqa Abiasaph\\ft ; also in verse 37; see \\ref Exodus 6:24|EXO 6:24\\ref*.\\f*",
+          "raw_sha256": "8c2f8ad9848a0bf09291397db67d02c127141bd25d3faf1609a55578da909dc7"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 6:26 \\ft Some Hebrew manuscripts, LXX, and Syriac; most Hebrew manuscripts \\fqa Elkanah. The sons of Elkanah:\\f*",
+          "raw_sha256": "46dbd0706f92e18297f0b65e42f4f390e549c9982b066de9a4fe09b3bb5ed93e"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 6:27 \\fqa Eliab \\ft is also called \\fqa Eliel\\ft ; see verse 34. Both of these are other names for Elihu\\fqa ; see \\ref 1 Samuel 1:1|1SA 1:1\\ref*.\\f*",
+          "raw_sha256": "813d031f0373df2241662125c03b8eb9b585a3800589c9bcc28e69f511b8343b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:27 \\ft Hebrew; some LXX manuscripts include \\fqa and Samuel his son\\ft ; see verses 33–34 and \\ref 1 Samuel 1:19–20|1SA 1:19-20\\ref*.\\f*",
+          "raw_sha256": "34a0382b2e0cefbc6c7f87408e1dd8b4f1e70fbb474787ef674e0e72b3bca1bc"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 6:28 \\ft See Syriac and some LXX manuscripts (also verse 33 and \\ref 1 Samuel 8:2|1SA 8:2\\ref*); Hebrew \\fqa The sons of Samuel: the firstborn Vashni, then Abiah\\ft .\\f*",
+          "raw_sha256": "bae95ccf53eb6dc04dbc9eb84a05a2fe60579e352ff265c7ee89dc9280cc51ea"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 6:34 \\fqa Eliel \\ft is also called \\fqa Eliab\\ft ; see verse 27. Both of these are other names for Elihu\\fqa ; see \\ref 1 Samuel 1:1|1SA 1:1\\ref*.\\f*",
+          "raw_sha256": "1c0f293ad92b24ad755c4c25d4c4772309f998d0cb6766467a9468d7e939cfde"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 6:40 \\ft Most Hebrew manuscripts; some Hebrew manuscripts, one LXX manuscript, and Syriac \\fqa Maaseiah\\f*",
+          "raw_sha256": "a87fdf52422e7f9637b273bf737448322f67e847f306802867db7503dc0a58b1"
+        }
+      ],
+      "49": [
+        {
+          "source_usfm": "\\f + \\fr 6:49 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "3bd3d2d68586fe13c4032787b5a1cb220c2fca039ecf172e5efbb86ee12b05eb"
+        }
+      ],
+      "57": [
+        {
+          "source_usfm": "\\f + \\fr 6:57 \\ft As in the parallel text at \\ref Joshua 21:13|JOS 21:13\\ref*; Hebrew \\fqa were given the cities of refuge: Hebron, Libnah\\f*",
+          "raw_sha256": "3708ce2c5c0dde6c91b0805498511879d073fb30debcff72c91aa332f33354bf"
+        }
+      ],
+      "58": [
+        {
+          "source_usfm": "\\f + \\fr 6:58 \\ft Some Hebrew manuscripts; MT \\fqa Hilez\\ft ; parallel text at \\ref Joshua 21:15|JOS 21:15\\ref* \\fqa Holon\\f*",
+          "raw_sha256": "933acb7c4c38324fc501578c8aa6c1c1b6dc3374a6072bc0b8a1a60ba95d93d9"
+        }
+      ],
+      "59": [
+        {
+          "source_usfm": "\\f + \\fr 6:59 \\fqa Ashan \\ft is a variant of \\fqa Ain\\ft ; see \\ref Joshua 21:16|JOS 21:16\\ref*.\\f*",
+          "raw_sha256": "5c37aff2deefe9a4f6de6c22abfdb9c61d517e97a87f37885a15bfc937386a09"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:59 \\ft Syriac and the parallel text at \\ref Joshua 21:16|JOS 21:16\\ref*; MT does not include \\fqa Juttah,\\f*",
+          "raw_sha256": "cc95073d81c7a5eb12d717b5f302a5b0552da1567d9f378188f2f49931605779"
+        }
+      ],
+      "60": [
+        {
+          "source_usfm": "\\f + \\fr 6:60 \\ft LXX, Syriac, and parallel text at \\ref Joshua 21:17|JOS 21:17\\ref*; MT does not include \\fqa Gibeon,\\f*",
+          "raw_sha256": "9a3a45eb0e06d2a38006e77698ae182d6c2b2f726aedcd61a53e25bf5efb2317"
+        }
+      ],
+      "62": [
+        {
+          "source_usfm": "\\f + \\fr 6:62 \\fqa Gershomites \\ft is a variant of \\fqa Gershonites\\ft ; also in verse 71; see \\ref 1 Chronicles 23:7|1CH 23:7\\ref*.\\f*",
+          "raw_sha256": "499101b3bbf056d9d24a1b374fdfa17ce4f5c6e0f1ea3fe335e2a2485c2c7b0d"
+        }
+      ],
+      "67": [
+        {
+          "source_usfm": "\\f + \\fr 6:67 \\ft As in the parallel text at \\ref Joshua 21:21|JOS 21:21\\ref*; Hebrew \\fqa They were given the cities of refuge: Shechem\\f*",
+          "raw_sha256": "e173d74f5bb9d9f8038115e3e94cdb0f63eab3cdc87544adeae61da93550e978"
+        }
+      ],
+      "77": [
+        {
+          "source_usfm": "\\f + \\fr 6:77 \\ft LXX \\fqa (they were given) Jokneam, Kartah, Rimmono, and Tabor\\ft ; see \\ref Joshua 21:34|JOS 21:34\\ref*.\\f*",
+          "raw_sha256": "b386a212ffb4831ec39cb832556c26698c844481c2c8bd52bad4b377c42e3a0d"
+        }
+      ],
+      "78": [
+        {
+          "source_usfm": "\\f + \\fr 6:78 \\fqa Jahzah \\ft is a variant of \\fqa Jahaz\\ft ; see \\ref Numbers 21:23|NUM 21:23\\ref*.\\f*",
+          "raw_sha256": "2b6c5dfaf7549d6c1ecae3b338e5e2b140fd27ef6f4d0d3fc19944e8dfd68a62"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\fqa Puah \\ft is a variant of \\fqa Puvah\\ft ; see \\ref Genesis 46:13|GEN 46:13\\ref* and Numbers 26:23.\\f*",
+          "raw_sha256": "4b934514b6d0dbb35b4328d631003c8e8c4220d8d28110fdf253a849b0ca060e"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 7:3 \\ft Hebrew \\fqa sons\\ft ; also in verses 10 and 17\\f*",
+          "raw_sha256": "3c71a0bd588f51d1cdd85b16220f20ccaa569fe88c7aa6e8b7968afe2d58d6dd"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\fqa Jahziel \\ft is a variant of \\fqa Jahzeel\\ft ; see \\ref Genesis 46:24|GEN 46:24\\ref*.\\f*",
+          "raw_sha256": "742e1aa301ac25983298695b1b9f5006f8c19154137f3d61f45fba6faa7b080e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\ft Most Hebrew manuscripts; some Hebrew and LXX manuscripts \\fqa Shillem\\ft ; see \\ref Genesis 46:24|GEN 46:24\\ref* and Numbers 26:49.\\f*",
+          "raw_sha256": "d14da37ec0ccc1a091bb4e18c42ddb96f85bc5a6fd3970fc64ef80209767c174"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 7:23 \\fqa Beriah \\ft sounds like the Hebrew for \\fqa tragedy \\ft or \\fqa disaster\\ft .\\f*",
+          "raw_sha256": "d23d9c16ca14405b237b3790556577957832e375c201c2ffe00ab8a219cc86be"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 7:25 \\ft Some LXX manuscripts; Hebrew does not include \\fqa his son\\ft .\\f*",
+          "raw_sha256": "3b0f07a7a7d3dcfa76eda1d29def78fb9efc570465ee67a2e29c2162b554132c"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 7:27 \\ft Or \\fqa Non\\f*",
+          "raw_sha256": "9caafa9968db19e71933607b28e4b43afe4b9272f8802c070d2c9d68a8c814a4"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 7:28 \\fqa Ayyah \\ft is another name for \\fqa Gaza\\ft ; see also LXX.\\f*",
+          "raw_sha256": "2a36b62242a4356f31f4efdbb78e3e11d70538bc6279e0fc8f330d08e2ca78f3"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 7:29 \\fqa Beth-shean \\ft is a variant of \\fqa Beth-shan\\ft ; see \\ref 1 Samuel 31:10|1SA 31:10\\ref* and 2 Samuel 21:12.\\f*",
+          "raw_sha256": "0ae2f876fb645ede00c02b3bc6e8b54b63b6adf975564f492d68634d9fa1e3c5"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 7:34 \\ft Or \\fqa The sons of his brother Shemer: Rohgah\\ft ; note that \\fqa Shemer \\ft is a variant of \\fqa Shomer\\ft ; see verse 32.\\f*",
+          "raw_sha256": "cc1f6da47ec38cd971d8df53521a3e87a49594690f482819ca75afa18d89a2e9"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 7:35 \\fqa Helem \\ft is possibly another name for \\fqa Hotham\\ft ; see verse 32.\\f*",
+          "raw_sha256": "bcaca3f58cb250fae02f6add76524432a9488514ba4503234a22979a6f78e46e"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 7:37 \\fqa Ithran \\ft is possibly a variant of \\fqa Jether\\ft ; see verse 38.\\f*",
+          "raw_sha256": "c1b9eaba0f9e7407286d22ecb0dff8a9dce8991e74e86244270296e1d042d17b"
+        }
+      ]
+    },
+    "8": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 8:3 \\ft Possibly \\fqa Gera the father of Ehud\\ft ; see verse 7.\\f*",
+          "raw_sha256": "f0930cd2f563da2017b7ec73cc6b1cc30d87350ac3239998b577aef3096bde3e"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 8:7 \\ft Or \\fqa and Gera, that is Heglam, who was the father of Uzza and Ahihud.\\f*",
+          "raw_sha256": "17bdfdaa593b3686e8c9fc0768f78e4c97a98a989182ed2aa81ba2c029c7f8c6"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 8:29 \\ft Some LXX manuscripts (see also \\ref 1 Chronicles 9:35|1CH 9:35\\ref*); Hebrew \\fqa The father of Gibeon lived\\f*",
+          "raw_sha256": "6e8d4595d3e0c860d21eeb819e945ffb31e2b736a6d90d447e8c6cbf78da42b9"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 8:30 \\ft Some LXX manuscripts include \\fqa Ner\\ft ; see \\ref 1 Chronicles 9:36|1CH 9:36\\ref*.\\f*",
+          "raw_sha256": "75a5c455ab9c1c714a2c605b95ad19d2d6ea16ec09bf3965cd0479b9286740f6"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 8:31 \\fqa Zecher \\ft is likely a variant of \\fqa Zechariah\\ft ; see \\ref 1 Chronicles 9:37|1CH 9:37\\ref*.\\f*",
+          "raw_sha256": "471e83ce9957d481ae1d55c1942befe98f37e7c86b292525006a91e1f586eb48"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 8:32 \\fqa Shimeah \\ft is a variant of \\fqa Shimeam\\ft ; see \\ref 1 Chronicles 9:38|1CH 9:38\\ref*.\\f*",
+          "raw_sha256": "a31755694c22f10935df9ccc02fcfc107c1cea071405b76670e5b0a548e62287"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 8:33 \\fqa Esh-baal \\ft is also called \\fqa Ish-bosheth\\ft ; see \\ref 2 Samuel 2:8|2SA 2:8\\ref*.\\f*",
+          "raw_sha256": "67db822f4359ef8a0eeb66bf1e890c95208ae6149d563de8694c96fb06837f02"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 8:34 \\fqa Merib-baal \\ft is also called \\fqa Mephibosheth\\ft ; see \\ref 2 Samuel 4:4|2SA 4:4\\ref*.\\f*",
+          "raw_sha256": "8768ed4a4745af419813278860a365e46ca2d6bc1551bc4b8e0cf4ee74092611"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:34 \\fqa Micah \\ft is a variant of \\fqa Mica\\ft ; see \\ref 2 Samuel 9:12|2SA 9:12\\ref*.\\f*",
+          "raw_sha256": "a1164cae32a28ed4a3a080dd714cb2f6a5896e98015c5b251bbe2daf25822823"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 8:35 \\fqa Tarea \\ft is a variant of \\fqa Tahrea\\ft ; see \\ref 1 Chronicles 9:41|1CH 9:41\\ref*.\\f*",
+          "raw_sha256": "f72a4c4265d85dd70b3682ad100b3d10f1bce9b453b1a2e759b414d9d9002541"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 8:36 \\fqa Jehoaddah \\ft is a variant of \\fqa Jarah \\ft or \\fqa Jadah\\ft ; see \\ref 1 Chronicles 9:42|1CH 9:42\\ref*.\\f*",
+          "raw_sha256": "b1cc5294b6f434d0954af9a769da25dd3ccecf1a43e78ebbc1275eca130b8414"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 8:37 \\fqa Raphah \\ft is a variant of \\fqa Rephaiah\\ft ; see \\ref 1 Chronicles 9:43|1CH 9:43\\ref*.\\f*",
+          "raw_sha256": "252b7272d5bd31c590853587be63bde662424c50fc3ac6adf9d26491d1865624"
+        }
+      ]
+    },
+    "9": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 9:2 \\ft Hebrew \\fqa Nethinim\\f*",
+          "raw_sha256": "db0a446e35928c78a1503ee3b8f5ba88e998bdc939b5c21f53518c5a49ef50ca"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 9:12 \\fqa Meshillemith \\ft is a variant of \\fqa Meshillemoth\\ft ; see \\ref Nehemiah 11:13|NEH 11:13\\ref*.\\f*",
+          "raw_sha256": "e627243578e0cfd8b155328f4433d2883fd4f7cff24a922a38b1a0284c8fe59d"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 9:19 \\fqa Ebiasaph \\ft is a variant of \\fqa Abiasaph\\ft ; see \\ref Exodus 6:24|EXO 6:24\\ref*.\\f*",
+          "raw_sha256": "d823cb87a1402a877ffea9dc4dca595b7c32d358171cd746a306d76a6426912b"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 9:35 \\ft Or \\fqa the founder\\f*",
+          "raw_sha256": "3bbc85b0036b26f6cf80e255fa0f5cfa1bb7599bb953d2cf9fe693d16808491b"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 9:38 \\fqa Shimeam \\ft is a variant of \\fqa Shimeah\\ft ; see \\ref 1 Chronicles 8:32|1CH 8:32\\ref*.\\f*",
+          "raw_sha256": "21ea21da789fef71b314ebc414e16431cc75070b3cec01ca00c187a6f7249e7f"
+        }
+      ],
+      "41": [
+        {
+          "source_usfm": "\\f + \\fr 9:41 \\ft Vulgate and Syriac (see also LXX and \\ref 1 Chronicles 8:35|1CH 8:35\\ref*); Hebrew \\fqa Pithon, Melech, and Tahrea\\ft ; note that \\fqa Tahrea \\ft is a variant of \\fqa Tarea\\ft .\\f*",
+          "raw_sha256": "7f72604357bd951e5e6f09f7337da301c9c8a27ba5c08549500237458dec3f39"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 9:42 \\ft Most Hebrew manuscripts; some Hebrew manuscripts and LXX \\fqa Jadah; Jadah\\ft ; note that \\fqa Jarah \\ft and \\fqa Jadah \\ft are variants of \\fqa Jehoaddah\\ft ; see \\ref 1 Chronicles 8:36|1CH 8:36\\ref*.\\f*",
+          "raw_sha256": "60d25550809a5e8d36672ba332405920cc0ceb0429f1ac286818d2887f0d9fb1"
+        }
+      ],
+      "43": [
+        {
+          "source_usfm": "\\f + \\fr 9:43 \\fqa Rephaiah \\ft is a variant of \\fqa Raphah\\ft ; see \\ref 1 Chronicles 8:37|1CH 8:37\\ref*.\\f*",
+          "raw_sha256": "f20241d8d8c4a68546fc13d61bbe52b9d6ee73df48545e50fe53db287a927df1"
+        }
+      ]
+    },
+    "10": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 10:12 \\ft Or \\fqa terebinth \\ft or \\fqa great tree\\f*",
+          "raw_sha256": "ea036778ddd6c2384905baa51fa8ddb819849edf8b3383d05d8ff4da493e3dcf"
+        }
+      ]
+    },
+    "11": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 11:2 \\ft Or \\fqa For some time\\f*",
+          "raw_sha256": "e36b45c0ff65293bfdc8fe0823eefcc2c732a47e3e06f45276127b3896eae425"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 11:8 \\ft Hebrew \\fqa the Millo\\f*",
+          "raw_sha256": "2cb2c84cbc16b3ae37af4f4e9c6b20b865f637bf02866b7e7dccd3c06cbb917a"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 11:11 \\ft Or \\fqa of the Thirty\\ft ; some LXX manuscripts \\fqa of the Three\\ft ; see \\ref 2 Samuel 23:8|2SA 23:8\\ref*.\\f*",
+          "raw_sha256": "6bc736a2f8ee4b9209dd86792a41161b399d15c2d6d0d28f0d294a65e23d0a41"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 11:12 \\fqa Dodo \\ft is a variant of \\fqa Dodai\\ft ; see \\ref 1 Chronicles 27:4|1CH 27:4\\ref*.\\f*",
+          "raw_sha256": "12e84b3d7c6c60869b7546c68bb69edc73a6d61024e215922e96c257ac5c8e30"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 11:14 \\ft Literally \\fqa But they stationed themselves\\f*",
+          "raw_sha256": "93c213f4792dd1c711f817f6163b527520c9dc4ecc41ea9ec29afb393dffdf1b"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 11:20 \\ft Hebrew; Syriac \\fqa the Thirty\\ft ; also in verse 21\\f*",
+          "raw_sha256": "884575338db87fe83e216d1704c195e1b9f312270e8c9d3a96f7b170d726f4d3"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 11:22 \\ft Or \\fqa two sons of Ariel of Moab\\f*",
+          "raw_sha256": "f2750c964432b5ca77d80a0acac56d6b89bc3cd293642c57c618ebfc10621cd9"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 11:23 \\fqa 5 cubits \\ft is approximately 7 feet 6 inches or 229 centimeters tall.\\f*",
+          "raw_sha256": "015c6294d4b0976938edb53c8e0892454be619633973b33886744f97de7f7199"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 11:27 \\fqa Shammoth the Harorite \\ft is a variant of \\fqa Shammah the Harodite\\ft ; see \\ref 2 Samuel 23:25|2SA 23:25\\ref*.\\f*",
+          "raw_sha256": "4f33732751ca89cbc017c7152b8d2cfbe8e4789c2bde880bf3ebca27de25b7c1"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 11:31 \\fqa Ithai \\ft is a variant of \\fqa Ittai\\ft ; see \\ref 2 Samuel 23:29|2SA 23:29\\ref*.\\f*",
+          "raw_sha256": "54ae1b6652a9ea8dfce94d4be1bf22015cd3d08c75a3ae06f6973b9f97c901c3"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 11:32 \\fqa Hurai \\ft is a variant of \\fqa Hiddai\\ft ; see \\ref 2 Samuel 23:30|2SA 23:30\\ref*.\\f*",
+          "raw_sha256": "528dc61921a9bd3febbaa069a4dfa847e497626e99f977083f6a02f33c3c748a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:32 \\ft Or \\fqa from the ravines\\f*",
+          "raw_sha256": "1790f0a1a20c03c4727b3811bbdc2800f7c0d07153ed02db7b367cb662a8ca69"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:32 \\fqa Abiel \\ft is a variant of \\fqa Abi-albon\\ft ; see \\ref 2 Samuel 23:31|2SA 23:31\\ref*.\\f*",
+          "raw_sha256": "c32ae1685698107514f293dfe788c3dbb7f708377434da3fe42d8f26d9a95d3a"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 11:33 \\fqa Baharumite \\ft is a variant of \\fqa Barhumite\\ft ; see \\ref 2 Samuel 23:31|2SA 23:31\\ref*.\\f*",
+          "raw_sha256": "22f7c1b85b3e774d2f6edf4af5c9c764b6afc3bea07ba90ecdf5d63baa3be967"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 11:34 \\fqa Hashem \\ft is a variant of \\fqa Jashen\\ft ; see LXX and \\ref 2 Samuel 23:32|2SA 23:32\\ref*.\\f*",
+          "raw_sha256": "7eea8c922905f93fdaf33bd1aeb6bc0292c9d04d46fcdab167df563fd1da25ea"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 11:35 \\fqa Sachar \\ft is a variant of \\fqa Sharar\\ft ; see \\ref 2 Samuel 23:33|2SA 23:33\\ref*.\\f*",
+          "raw_sha256": "efa44ecd02077b9abe917156b8d65336dbe998c1d43e037b5d675a5e545ae031"
+        }
+      ]
+    },
+    "12": {
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 12:31 \\ft That is, the half-tribe of Manasseh west of the Jordan\\f*",
+          "raw_sha256": "676525c663e353c20e0a7636932a1af4b3b0625ac38d73f7eaa2aa2c01127335"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 12:33 \\ft LXX; Hebrew does not include \\fqa to David\\ft .\\f*",
+          "raw_sha256": "a3200d1903259fcc34579301d693dd436d23dd04d6fb36e0651e81ea934835ee"
+        }
+      ]
+    },
+    "13": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 13:3 \\ft Or \\fqa of it\\f*",
+          "raw_sha256": "a43ed89ef5b8539297dac9c39d443e8b2a7fca83f4560b0028fd7e93802f18cf"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 13:5 \\ft Hebrew \\fqa from the Shihor\\f*",
+          "raw_sha256": "073a989de8d017e751a77120912a45c815b9d232a0538e02cd2c542d92ee5b99"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 13:6 \\ft Or \\fqa the ark of God, which is called by the Name of the LORD who is enthroned between the cherubim\\ft ; or \\fqa the ark of God, the LORD, who is enthroned between the cherubim, where His Name is called\\f*",
+          "raw_sha256": "6ebdc6eaf94dc7ef218e4312a31e7507967beab91f9b10f77129c06452032843"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 13:9 \\fqa Chidon \\ft is a variant of \\fqa Nacon\\ft ; see \\ref 2 Samuel 6:6|2SA 6:6\\ref*.\\f*",
+          "raw_sha256": "89e2d15be9b0a81e4935c880108e557978e4ae8bb235512b13f85d7500829780"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 13:11 \\fqa Perez-uzzah \\ft means \\fqa outbreak against Uzzah\\ft .\\f*",
+          "raw_sha256": "13823da609292404ef2b2d0971e70014132943b79998fab5ded144b4856a8c64"
+        }
+      ]
+    },
+    "14": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 14:4 \\fqa Shammua \\ft is a variant of \\fqa Shimea\\ft ; see \\ref 1 Chronicles 3:5|1CH 3:5\\ref*.\\f*",
+          "raw_sha256": "047a2a248872727f054de165f322a6e90cfda5d35e59077ed7ce546b737fd577"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 14:7 \\fqa Beeliada \\ft is a variant of \\fqa Eliada\\ft ; see \\ref 2 Samuel 5:16|2SA 5:16\\ref*.\\f*",
+          "raw_sha256": "bb6a42e7e281de6df0e9aee9444a09d2f952104b251dbe4ecdde0f8b761e80bb"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 14:11 \\fqa Baal-perazim \\ft means \\fqa The Lord Bursts Out\\ft .\\f*",
+          "raw_sha256": "42818ca12cde9d95c019f155bc13eeed850ad7ada48034ae1ab742b80e8bdfcc"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 14:14 \\ft Or \\fqa aspen trees \\ft or \\fqa poplar trees\\ft ; also in verse 15\\f*",
+          "raw_sha256": "00fddac6177b5c3290c7b4e128f20368717d362ac5ee8d2f88d2fed0961c9e55"
+        }
+      ]
+    },
+    "15": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 15:7 \\fqa Gershomites \\ft is a variant of \\fqa Gershonites\\ft ; see \\ref 1 Chronicles 23:7|1CH 23:7\\ref*.\\f*",
+          "raw_sha256": "74e526083cec55bc8bb165e7c3bb3dce34f628c39a43ee00a598b4645bb9126d"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 15:18 \\ft Several Hebrew manuscripts and most LXX manuscripts (see also verse 20 and \\ref 1 Chronicles 16:5|1CH 16:5\\ref*); most Hebrew manuscripts \\fqa Zechariah son of \\ft or \\fqa Zechariah, Ben, \\ft \\f*",
+          "raw_sha256": "a7c9c71b8519e14a582b8131c1e0a0e265226789b600a8379fe2c6276af69f61"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:18 \\ft Hebrew; some LXX manuscripts \\fqa Obed-edom, Jeiel, and Azaziah \\ft or \\fqa Obed-edom, Jeiel, and Ozias\\f*",
+          "raw_sha256": "feb083a1efb7f921e77dd47baa0085392c603112b8dc9c9e9652c59576b50581"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 15:20 \\fqa Aziel \\ft is a variant of \\fqa Jaaziel\\ft ; see verse 18.\\f*",
+          "raw_sha256": "c897dc6fc4e2bec336392433ecd3961e8033ac2209a49cbb9880eeebfbc57816"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:20 \\fqa Alamoth\\ft is probably a musical or liturgical term; here and in \\ref Psalm 46:1|PSA 46:1\\ref*.\\f*",
+          "raw_sha256": "ab52ff504ef0f60a5005d58b32ba1e6cd26cf889063831846bd9dadf48714a10"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 15:21 \\fqa Sheminith\\ft is probably a musical term; here and in \\ref Psalm 6:1|PSA 6:1\\ref* and Psalm 12:1.\\f*",
+          "raw_sha256": "599a642d1eefe9fc36bd1f5583ec91dadf4a69ed8f4480a9bf3f53fdd5d5f0ce"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 15:23 \\ft Literally \\fqa gatekeepers\\ft ; also in verse 24\\f*",
+          "raw_sha256": "64b70378d8b6df79ad48208c009fd11740f49679eb37ca1652b0bc49231ae743"
+        }
+      ]
+    },
+    "16": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 16:3 \\ft Or \\fqa a portion of meat\\f*",
+          "raw_sha256": "e397ca31ebcfa241449cc59a4c18fe5fec1f68ef379d1c1e245f105557ffbe39"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 16:15 \\ft Hebrew; some LXX manuscripts \\fqa He remembers\\ft ; see \\ref Psalm 105:8|PSA 105:8\\ref*.\\f*",
+          "raw_sha256": "3087839f3d93515a69a96726faf13ca1c7a7799e05dc07a101cc14199a011011"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 16:34 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "402058b7741b7179ca63a6fba9bec2e5e955723e88db1167df13ef4475227222"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 16:42 \\ft Or \\fqa instruments for the sacred music\\f*",
+          "raw_sha256": "59d472ec31d729381dd2f0f86af37c634f665b08a8d08028f5fb0223ffbb48c7"
+        }
+      ]
+    },
+    "17": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 17:5 \\fqa Out of Egypt\\ft is implied, but not included in the Hebrew; see \\ref 2 Samuel 7:6|2SA 7:6\\ref*.\\f*",
+          "raw_sha256": "09a276bdb3d467f08087b2374fd427b5646c069456d92712b34f7f6a5bd4c7c0"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 17:6 \\ft Or \\fqa judges\\ft ; see verse 10.\\f*",
+          "raw_sha256": "98f14ad381f6f685218e46f736c115f4a173fd46d5f7c56e7c67f8180e969273"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 17:17 \\ft Or \\fqa and have shown me future generations\\f*",
+          "raw_sha256": "efd7218a2c9d4a35a3e3502e679bb6fee494cd327e17e1a86ea3972fd6dc6d08"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 17:19 \\ft See \\ref 2 Samuel 7:20|2SA 7:20\\ref*; many translators \\fqa \\fv 18\\fv*...For You know Your servant. \\fv 19\\fv*O LORD,\\f*",
+          "raw_sha256": "3acd00db70d6b033245a0b81e865759ff9cd89a0ef73fe1fe0f6b05601049a53"
+        }
+      ]
+    },
+    "18": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 18:3 \\ft Hebrew \\fqa his hand\\f*",
+          "raw_sha256": "80140b1713a2bf8996dc7181172c8f6755d800b960496d65f8353fb5e5a83b1a"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 18:6 \\ft LXX and Vulgate (see also \\ref 2 Samuel 8:6|2SA 8:6\\ref* and Syriac); Hebrew does not include \\fqa garrisons\\ft .\\f*",
+          "raw_sha256": "22669a34cfe0d4f6abe396ed3762b717463c93fc6f5305b207a283c736076031"
+        },
+        {
+          "source_usfm": "\\f + \\fr 18:6 \\ft Or \\fqa the LORD saved David\\ft ; also in verse 13\\f*",
+          "raw_sha256": "8dbb8c1214066630e1348c8d4e242ac896abf89eff671fd3359a4538fbd21cf5"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 18:8 \\fqa Tibhath \\ft is a variant of \\fqa Tebah\\ft ; see \\ref 2 Samuel 8:8|2SA 8:8\\ref* LXX.\\f*",
+          "raw_sha256": "006b94211fb9658ac1eb8712d418d50f47999f32d8224344bf008e983b375299"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 18:9 \\fqa Tou \\ft is a variant of \\fqa Toi\\ft ; also in verse 10; see \\ref 2 Samuel 8:9|2SA 8:9\\ref*.\\f*",
+          "raw_sha256": "7fd65a1806677827b32c2596058307e87bde4cd6e7a0423823edb177f0a1b7b8"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 18:10 \\fqa Hadoram \\ft is a variant of \\fqa Joram\\ft ; see \\ref 2 Samuel 8:10|2SA 8:10\\ref*.\\f*",
+          "raw_sha256": "9df57dd65b4e5d9bc6dd98eead7ee22e116662b071656b300a2e43fdeb15ea4c"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 18:16 \\ft Some Hebrew manuscripts, Vulgate, and Syriac (see also \\ref 2 Samuel 8:17|2SA 8:17\\ref*); most Hebrew manuscripts \\fqa Abimelech\\f*",
+          "raw_sha256": "880abef48a476df852e0ee5a43602489ccf6abfeb4d4b330d0ec8a640988e18a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 18:16 \\fqa Shavsha \\ft is also called \\fqa Seraiah\\ft , \\fqa Sheva\\ft , and \\fqa Shisha\\ft ; see \\ref 2 Samuel 8:17|2SA 8:17\\ref*, 2 Samuel 20:25, and 1 Kings 4:3.\\f*",
+          "raw_sha256": "1204e3b834dc27967a4635236d484c354b044f052c773fe5d53348d8a411b636"
+        }
+      ]
+    },
+    "19": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 19:6 \\fqa 1,000 talents \\ft is approximately 37.7 tons or 34.2 metric tons of silver.\\f*",
+          "raw_sha256": "597b0145e403ca53a04de252a3cfec81fc08cfa91cec4b77baa5cf5e1cfe6ff3"
+        },
+        {
+          "source_usfm": "\\f + \\fr 19:6 \\ft That is, Mesopotamia; \\fqa Aram-naharaim \\ft means \\fqa Aram of the two rivers\\ft , likely the region between the Euphrates and Balih Rivers in northwestern Mesopotamia.\\f*",
+          "raw_sha256": "49df5200715910647f22ab73d98f330808022d225c89943b344e1d6407fa2242"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 19:16 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "4013f33b5e38628af4d9dd25a1e2a6832e6ee9f684c8feb95659f0758ac659a9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 19:16 \\fqa Shophach \\ft is a variant of \\fqa Shobach\\ft ; also in verse 18; see \\ref 2 Samuel 10:16|2SA 10:16\\ref*.\\f*",
+          "raw_sha256": "0e2114467e7c55b12c7fa9274f12c2af24edb09691497f4b02374a18e3b2e484"
+        }
+      ]
+    },
+    "20": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 20:1 \\ft Literally \\fqa At the turn of the year\\f*",
+          "raw_sha256": "4aa2f218ebaa6b021ed3b94225b66489e7c65f291518bea90fb49272a7082859"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 20:2 \\ft Or \\fqa from the head of Milcom\\ft . Milcom, also called Molech, was god of the Ammonites; see \\ref Leviticus 18:21|LEV 18:21\\ref* and 1 Kings 11:7.\\f*",
+          "raw_sha256": "bc046e465ef47ef8cc56f85e52a6f873c6d3c0cd788fb28e870c39ca71ff05fe"
+        },
+        {
+          "source_usfm": "\\f + \\fr 20:2 \\fqa A talent \\ft is approximately 75.4 pounds or 34.2 kilograms of gold.\\f*",
+          "raw_sha256": "6488b4da97e5276cd4914f2168099bfe573138ee7aa648bd34990c92d561d4ef"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 20:3 \\ft Or \\fqa cut them\\f*",
+          "raw_sha256": "7a1794e96d09cd1dadc68d3c4120623a39acabcf6189f641e42d8bdfafa6f40c"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 20:4 \\fqa Sippai \\ft is a variant of \\fqa Saph\\ft ; see \\ref 2 Samuel 21:18|2SA 21:18\\ref*.\\f*",
+          "raw_sha256": "d5527fb5a7e958b990ef27960cc5a8e05a1fd7f23b0422b0279b6f88aaaca3c0"
+        },
+        {
+          "source_usfm": "\\f + \\fr 20:4 \\ft Or \\fqa the giants\\ft ; see also \\fqa descendants of Rapha \\ft in verses 6 and 8.\\f*",
+          "raw_sha256": "4509573d59360460503624bc22402a65e7c427265478d2e5b3dcd74178012e5a"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 20:5 \\ft Or \\fqa Elhanan son of Jair the Bethlehemite killed the brother\\ft ; see \\ref 2 Samuel 21:19|2SA 21:19\\ref*.\\f*",
+          "raw_sha256": "a7d6c1d9b8338075b5d3c1f92a9bda6b581eb34f2f29cbf054137bfe0d86e4ef"
+        }
+      ]
+    },
+    "21": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 21:1 \\ft That is, \\fqa the Accuser \\ft or \\fqa the Adversary\\f*",
+          "raw_sha256": "e3d99e484127e7b34aca881897b6973ba74ce0c8e1ee18950db8cee5f451ad30"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 21:12 \\ft Hebrew; LXX and Vulgate \\fqa of fleeing\\ft ; see \\ref 2 Samuel 24:13|2SA 24:13\\ref*.\\f*",
+          "raw_sha256": "130480395447cad01fa0c9512b74d87700db6afd8388dbfb7ae7b974d9fc6617"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 21:15 \\fqa Ornan \\ft is a variant of \\fqa Araunah\\ft ; also in verses 18–28; see \\ref 2 Samuel 24:16|2SA 24:16\\ref*.\\f*",
+          "raw_sha256": "634656474a3e08cc87a646fb90e6196237a8c85b3955284d9bdc8380f8311fb1"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 21:17 \\ft Or \\fqa I, the shepherd,\\ft see \\ref 2 Samuel 24:17|2SA 24:17\\ref* DSS and LXX.\\f*",
+          "raw_sha256": "5819c892b7e297552053d8343980669e3df7c54839ba2b79d1d64cec88313580"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 21:25 \\fqa 600 shekels \\ft is approximately 15.1 pounds or 6.8 kilograms of gold.\\f*",
+          "raw_sha256": "2962553132083a7c9aeaffdbf1cf66b8ae0879d9692009c761a3a22bb8963503"
+        }
+      ]
+    },
+    "22": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 22:9 \\fqa Solomon \\ft sounds like and is probably derived from the Hebrew word for \\fqa peace\\ft .\\f*",
+          "raw_sha256": "0b3f05f20f50c258c0bcd4ea17dd9e8d871b8db5b9afab1d26740215df79fc6e"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 22:14 \\fqa 100,000 talents \\ft is approximately 3,770 tons or 3,420 metric tons of gold.\\f*",
+          "raw_sha256": "ab5cf52bd258034e74147d98c966a4eb1d51e7360d6d2568ddf5abbbceb0776c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 22:14 \\fqa 1,000,000 talents \\ft is approximately 37,700 tons or 34,200 metric tons of silver.\\f*",
+          "raw_sha256": "3835a0df685be2fb9a864c9274a41531ee75d0cb8fba3c9c0c92b6f15ceee7b1"
+        }
+      ]
+    },
+    "23": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 23:4 \\ft Hebrew does not include \\fqa said David,\\f*",
+          "raw_sha256": "ad2058dd7c1e519ea6eaf9fc14d96313a7d19b87780aacd1ff1c6b9107427919"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 23:7 \\fqa Ladan \\ft is a variant of \\fqa Libni\\ft ; also in verses 8 and 9; see \\ref 1 Chronicles 6:17|1CH 6:17\\ref*.\\f*",
+          "raw_sha256": "ba85b3cea453ab4045709bb7d05bb776f57f05081c4afa4ff174637313af57c5"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 23:8 \\fqa Jehiel \\ft is a variant of \\fqa Jehieli\\ft ; see \\ref 1 Chronicles 26:21|1CH 26:21\\ref*.\\f*",
+          "raw_sha256": "0ed1ea6be21eecbb9da59bb959169f50bce3854b5e6c33e0bf60a999b83c713c"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 23:10 \\fqa Shimei \\ft was possibly a son or grandson of the \\fqa Shimei \\ft listed in verse 9.\\f*",
+          "raw_sha256": "7c242b316fdacf036baab44b7a3d8811004d56c8a06cacc6122cb46566ce9b3f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 23:10 \\ft Most Hebrew manuscripts; one Hebrew manuscript, LXX, and Vulgate (see also verse 11) \\fqa Zizah\\f*",
+          "raw_sha256": "293450534983ca05060a843622736291103552b0155b021ac5cb688ec29df5c6"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 23:23 \\fqa Jeremoth \\ft is a variant of \\fqa Jerimoth\\ft ; see \\ref 1 Chronicles 24:30|1CH 24:30\\ref*.\\f*",
+          "raw_sha256": "533bd2be25c95695e7aee98bb08cbb3e163c4ae20807bd781aa161597a0a8827"
+        }
+      ]
+    },
+    "24": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 24:20 \\fqa Shubael \\ft (twice in this verse) is a variant of \\fqa Shebuel\\ft ; see \\ref 1 Chronicles 23:16|1CH 23:16\\ref* and 1 Chronicles 26:24.\\f*",
+          "raw_sha256": "9b13099797d8a5e361fb590141a5a61e5db3d50f29062ffcae9b0ddc7eb837fd"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 24:21 \\fqa Isshiah \\ft is a variant of \\fqa Jeshaiah\\ft ; see \\ref 1 Chronicles 26:25|1CH 26:25\\ref*.\\f*",
+          "raw_sha256": "b6ac058c1660a14ccada79e9070c0287231026881e1910cd96e26ee37d3a1ea4"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 24:22 \\fqa Shelomoth \\ft (twice in this verse) is a variant of \\fqa Shelomith\\ft ; see \\ref 1 Chronicles 23:18|1CH 23:18\\ref*.\\f*",
+          "raw_sha256": "2bd84833c65ed0c1f3525ba22eda7794cdaafc042a7da62e9e2661473bb93a59"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 24:23 \\ft Hebrew \\fqa From the sons: Jeriah\\ft ; see \\ref 1 Chronicles 23:19|1CH 23:19\\ref*.\\f*",
+          "raw_sha256": "069d47f7f76e7c2c74c5a2639b4b009cc0c128ef05fade7c987fac1aeba49716"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 24:30 \\fqa Jerimoth \\ft is a variant of \\fqa Jeremoth\\ft ; see \\ref 1 Chronicles 23:23|1CH 23:23\\ref*.\\f*",
+          "raw_sha256": "17e5c36d8e43792f397cd493937654ac0ac9172c971a06e9c5af3a772228c0f7"
+        }
+      ]
+    },
+    "25": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 25:3 \\ft One Hebrew manuscript and some LXX manuscripts (see also verse 17); most Hebrew manuscripts do not include \\fqa Shimei\\ft .\\f*",
+          "raw_sha256": "35f91376f9728903a1aa840be7c1c6bd8a6dcc9f5b0a202c2000cf457b9c45a6"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 25:4 \\fqa Shebuel \\ft is a variant of \\fqa Shubael\\ft ; see verse 20.\\f*",
+          "raw_sha256": "541debd0c6c020e62053d47647e76bee1d0fc551bead6acc3415e5833b267874"
+        },
+        {
+          "source_usfm": "\\f + \\fr 25:4 \\fqa Jerimoth \\ft is a variant of \\fqa Jeremoth\\ft ; see verse 22.\\f*",
+          "raw_sha256": "6358159ae0211f03a0aab7583bd7a125e466d7c8e9f726bdc4271cb9921ac791"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 25:9 \\ft See LXX and the total in verse 7; Hebrew does not include \\fqa his sons, and his brothers—12 in all;\\f*",
+          "raw_sha256": "ac6cbebf70c8f5d019ab75a54297bf24b240050bb4174d9488402c3e6c408dd9"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 25:11 \\fqa Izri \\ft is a variant of \\fqa Zeri\\ft ; see verse 3.\\f*",
+          "raw_sha256": "94014f3fbf46718f99deb536ffdf6a93797dc9b84e22ab9a081dbcbf6677807d"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 25:14 \\fqa Jesarelah \\ft is a variant of \\fqa Asarelah\\ft ; see verse 2.\\f*",
+          "raw_sha256": "f0c5140e0eb151096a47b3760b5c95fb43e594928757e559af6778d422c44ded"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 25:18 \\fqa Azarel \\ft is a variant of \\fqa Uzziel\\ft ; see verse 4.\\f*",
+          "raw_sha256": "2e45e188ee03fff62f853c009456d69e02d0466029c9c1c3a999ff59bb84cb8f"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 25:22 \\fqa Jeremoth \\ft is a variant of \\fqa Jerimoth\\ft ; see verse 4.\\f*",
+          "raw_sha256": "d2f6c95de69f1eb53e6205d473c5ccf60c03d1e49d83becc2498ddb2a986186c"
+        }
+      ]
+    },
+    "26": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 26:14 \\fqa Shelemiah \\ft is a variant of \\fqa Meshelemiah\\ft ; see verse 2.\\f*",
+          "raw_sha256": "30d1af004a191d3b5ef68a79b75dc8f6bc0f4e54cd0088fa4672b54c1c70ca38"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 26:16 \\ft Or \\fqa on the upper road\\f*",
+          "raw_sha256": "1edb23cd4372bba2860edda3119faa27ad7b2812776fe773fc4fb37a4a3fec92"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 26:18 \\ft Hebrew \\fqa parbar\\ft ; twice in this verse\\f*",
+          "raw_sha256": "3d34419573f3789e68ffdcd12529588149adb8fd3e0552181a814ec4eda7650c"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 26:20 \\ft LXX; Hebrew \\fqa As for the Levites, Ahijah was\\f*",
+          "raw_sha256": "e35a35773ec02d1b43849992fcfdadc836fd5ebac4beaaa8a336ee4bf8f02f1e"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 26:21 \\fqa Ladan \\ft is a variant of \\fqa Libni\\ft ; see \\ref 1 Chronicles 6:17|1CH 6:17\\ref*.\\f*",
+          "raw_sha256": "8da14fbc7dba35fd648d317b564b3740c1e167ee116aedff3a4e48ce84222634"
+        },
+        {
+          "source_usfm": "\\f + \\fr 26:21 \\fqa Jehieli \\ft is a variant of \\fqa Jehiel\\ft ; also in verse 22; see \\ref 1 Chronicles 23:8|1CH 23:8\\ref*.\\f*",
+          "raw_sha256": "2d6577dedd19b0a4c7c1f2d9b48fb7bfedb1795932c71e802ff4e502db0a4315"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 26:25 \\fqa Jeshaiah \\ft is a variant of \\fqa Isshiah\\ft ; see \\ref 1 Chronicles 24:21|1CH 24:21\\ref*.\\f*",
+          "raw_sha256": "b22e167e25f5c0ee02a945209e8074b4e54b138ff6ab7de5d85e3c98fdeddd20"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 26:29 \\ft Or \\fqa the duties outside (the temple) \\ft or \\fqa the duties outside (Jerusalem)\\f*",
+          "raw_sha256": "bfaba9cfdde8adf28506808bc6947641f488d3960baf96ec9e69f0dfa561622e"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 26:31 \\fqa Jerijah \\ft is a variant of \\fqa Jeriah\\ft ; see \\ref 1 Chronicles 23:19|1CH 23:19\\ref*.\\f*",
+          "raw_sha256": "5189c53c2390eb056e542bcdbaf95727ede3e871ad9c0c43b95d0d8e38a359b0"
+        }
+      ]
+    },
+    "27": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 27:4 \\fqa Dodai \\ft is a variant of \\fqa Dodo\\ft ; see \\ref 2 Samuel 23:9|2SA 23:9\\ref*.\\f*",
+          "raw_sha256": "df2e4c5d91ea1c41fd9f8a608d16bc7b7d140af594092254f8437d3b4a054b9c"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 27:8 \\fqa Shamhuth \\ft is a variant of \\fqa Shammoth \\ft or \\fqa Shammah\\ft ; see \\ref 1 Chronicles 11:27|1CH 11:27\\ref* and 2 Samuel 23:25.\\f*",
+          "raw_sha256": "23c8ab030e9148e1b6270a14e4af31dbf26038764483acb27bbf54750e2c3624"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 27:15 \\fqa Heldai \\ft is a variant of \\fqa Heled\\ft ; see \\ref 1 Chronicles 11:30|1CH 11:30\\ref* and 2 Samuel 23:29.\\f*",
+          "raw_sha256": "c89f9cf783aad3948aa06bd9cb3332fe8a6736b975adc18d516965923ca3ba2e"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 27:28 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "b89b58501e4d16e3ba4883a778fe11529d88777c2484b02e10503190bd6751ed"
+        }
+      ]
+    },
+    "28": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 28:11 \\ft LXX; Hebrew does not include \\fqa of the temple\\ft .\\f*",
+          "raw_sha256": "74eef341de804d88b5ad92b03867c2163fb07b7f7ed44340d318ae7f51ee1f48"
+        },
+        {
+          "source_usfm": "\\f + \\fr 28:11 \\ft Or \\fqa atonement cover\\f*",
+          "raw_sha256": "ada1c431697d0865a5c6bb4a3086578f6238e53ab6e705d0301c9474adc6a97b"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 28:12 \\ft Or \\fqa had with him by the Spirit\\f*",
+          "raw_sha256": "88647d1a1ede2f4aeeac7422510dac58a61cf9b0f83d47f56e58b2337ff09cf4"
+        }
+      ]
+    },
+    "29": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 29:4 \\fqa 3,000 talents \\ft is approximately 113 tons or 103 metric tons of gold.\\f*",
+          "raw_sha256": "70472dc2094e407c1e2d19ddb914be23e960db33be9117d6a88a4b0e897c4391"
+        },
+        {
+          "source_usfm": "\\f + \\fr 29:4 \\fqa 7,000 talents \\ft is approximately 264 tons or 239.5 metric tons of silver.\\f*",
+          "raw_sha256": "5d822819ca5e90872e50b7b390be3a11bb57ba0087bf58b6062ee57680c21317"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 29:7 \\fqa 5,000 talents \\ft is approximately 188.5 tons or 171 metric tons of gold.\\f*",
+          "raw_sha256": "d80d1d431e2156ddf71a87586b3670a48d7b212c0e1ee2043b93979606143eeb"
+        },
+        {
+          "source_usfm": "\\f + \\fr 29:7 \\ft Or \\fqa 10,000 gold drachmas\\ft ; that is, approximately 185.2 pounds or 84 kilograms of gold coins\\f*",
+          "raw_sha256": "7394138d11149beccb3985e03a59dfa83cae1206191a3e6f3174d59b7214a3c5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 29:7 \\fqa 10,000 talents \\ft is approximately 377 tons or 342 metric tons of silver.\\f*",
+          "raw_sha256": "1a35c6ee9517db644164e6c84953e70909b02abd1be358ef0f244d931b623018"
+        },
+        {
+          "source_usfm": "\\f + \\fr 29:7 \\fqa 18,000 talents \\ft is approximately 678.6 tons or 615.6 metric tons of bronze.\\f*",
+          "raw_sha256": "a5af97482fb346235f255ca7c238b8b26320aee11ba603ec210cd5e814fd7da9"
+        },
+        {
+          "source_usfm": "\\f + \\fr 29:7 \\fqa 100,000 talents \\ft is approximately 3,770 tons or 3,420 metric tons of iron.\\f*",
+          "raw_sha256": "525d0fdf0c3ea683d8150fb6821ccf79e24e67316ccd6132be962ccb3d0e69c4"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 29:8 \\fqa Jehiel \\ft is a variant of \\fqa Jehieli\\ft ; see \\ref 1 Chronicles 26:21|1CH 26:21\\ref*.\\f*",
+          "raw_sha256": "ac3673b1fc9fc7538be389f58334521efb484092e1ae708f2eaa4a1a0674ed9a"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

@@ -1,0 +1,229 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1PE",
+  "chapters": {
+    "1": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 1:1 \\ft Literally \\fqa To the elect sojourners of the Diaspora of Pontus, Galatia, Cappadocia, Asia, and Bithynia\\ft . These provinces were located in what is now Turkey.\\f*",
+          "raw_sha256": "7c37c4fb390bbc4704f1eecca03213b81c5ae00770004442288de3fa564d4de9"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 1:3 \\ft Or \\fqa has caused us to be born again \\ft or \\fqa has begotten us again\\f*",
+          "raw_sha256": "1c3d073f4b7fc5627517e768d49fe37b688d376014ba8ffd369bca4a49b33706"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Literally \\fqa Wherefore gird up the loins of your mind\\f*",
+          "raw_sha256": "f2b688739c0b8446b3040e96c1254ea0eb8eb39f22ca672d87504bf775749450"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 1:16 \\ft \\ref Leviticus 11:44–45|LEV 11:44-45\\ref*; Leviticus 19:2\\f*",
+          "raw_sha256": "4e9d9527ec9656f5918c0846cd5d0ded316855e7c75c746d404d86893e60fa56"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 1:22 \\ft SBL, NE, and WH \\fqa from the heart\\f*",
+          "raw_sha256": "6a4627e5a7d3b0613fd4bdb72ff83f4dfe22d09d75d1cfdd2b67b66bec61e2d7"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 1:25 \\ft \\ref Isaiah 40:6–8|ISA 40:6-8\\ref*\\f*",
+          "raw_sha256": "e1bfd45be36d27bc034c63eec8ff64da784752293232b0146123abd301abd5bc"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft \\ref Isaiah 28:16|ISA 28:16\\ref* (see also LXX)\\f*",
+          "raw_sha256": "7c4861959b3599bf9c7d3d9ea120558cbcaceadfa0c71341b06c9b8b68c09e6e"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft \\ref Psalm 118:22|PSA 118:22\\ref*\\f*",
+          "raw_sha256": "4237b5e12de687af370aa054fbf42753d5c6c87ece09d8f2282601c0ec80d2b6"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 2:8 \\ft \\ref Isaiah 8:14|ISA 8:14\\ref*\\f*",
+          "raw_sha256": "f5e7e8005fec20988c38aa5d26dd27d8e50e98a3e702cde6c58b72771b5b3a6e"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\ft \\ref Hosea 2:23|HOS 2:23\\ref*\\f*",
+          "raw_sha256": "e30814e7b3c1fb03ff81bd4fcfb359714b4c8a1a3ec49d3b19ef974aa919e2d8"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\ft Literally \\fqa Love the brotherhood\\f*",
+          "raw_sha256": "64c8f0b28c2eaae8c21d5c7a5f78703856791c067289cfc4b84a15974170a759"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 2:18 \\ft Or \\fqa in all fear\\f*",
+          "raw_sha256": "859dfe13340b2d8e751f4eb7d8f376e7851d42e7c881f2fdded32a1ea0befa77"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 2:22 \\ft \\ref Isaiah 53:9|ISA 53:9\\ref*\\f*",
+          "raw_sha256": "0b5493f440eb2e57e43f15ed7c2e5c7dde19e9d084170ee9c919e0740eb27396"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 2:24 \\ft \\ref Isaiah 53:4|ISA 53:4\\ref* (see also LXX)\\f*",
+          "raw_sha256": "352fd5b221b304dc8360165cdc7241300fa57949077c2235ea5732aa54ce0ed5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:24 \\ft \\ref Isaiah 53:5|ISA 53:5\\ref*\\f*",
+          "raw_sha256": "cc3934afc72dc28a95f911489c2938c6df6e9d1b33b35784091d2ad5375f6238"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 2:25 \\ft \\ref Isaiah 53:6|ISA 53:6\\ref*\\f*",
+          "raw_sha256": "98dbf29150ebd45e610d5ebc9c63e16262f365cc32e99d658009e3c172b28860"
+        }
+      ]
+    },
+    "3": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 3:12 \\ft \\ref Psalm 34:12–16|PSA 34:12-16\\ref* (see also LXX)\\f*",
+          "raw_sha256": "7d866bf9fe211479b916200de1e56178770357d9b5677a181a295af796140007"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 3:14 \\ft Or \\fqa “Do not fear their threats; do not be shaken.”\\ft \\ref Isaiah 8:12|ISA 8:12\\ref*\\f*",
+          "raw_sha256": "027cc31fd9a21345c5506e671097cfbda5b90e5d008c05e6a6806bf782368a0e"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\ft BYZ and TR \\fqa But sanctify the Lord God in your hearts.\\ft This sentence may also be included with the quotation from the previous verse; see \\ref Isaiah 8:13|ISA 8:13\\ref*.\\f*",
+          "raw_sha256": "22e8283139b412263f979c6144742faee1539950482c5447cd74572792c01c7d"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 3:18 \\ft NE and WH \\fqa died\\f*",
+          "raw_sha256": "717ae39fc4972bf3954a7f4df6d8d5b36feb7d0f4faebd1913bbc89de8fb593d"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 3:19 \\ft Or \\fqa in the spirit, \\fv 19\\fv*in which\\f*",
+          "raw_sha256": "0ee4875995ce57cf52a36823b2512b0608c525dfe9ab455d02597234caedefec"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 3:21 \\ft Or \\fqa appeal for\\f*",
+          "raw_sha256": "b5820ae77457d380715908fa158f7ecc8eb4dff7f6e276f5a602689170d3926f"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 4:1 \\ft BYZ and TR include \\fqa for us\\ft .\\f*",
+          "raw_sha256": "e18230a3e5de8f3098b1bca15ce943881e77b22b5b5ec92da75d5ad9b669bd43"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft Or \\fqa to those who are dead\\f*",
+          "raw_sha256": "f6da18d539985b3b552243df5a0fcdefc0969b86ead58faba0a21d4f9dc39ae2"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 4:8 \\ft See \\ref Proverbs 10:12|PRO 10:12\\ref*\\f*",
+          "raw_sha256": "8245b6a2b10fe88688b4f6323470762840ad674086ff73598f76ca7c08edbafb"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 4:14 \\ft BYZ and TR include \\fqa On their part He is spoken of as evil, but on your part He is glorified.\\f*",
+          "raw_sha256": "81a8e4ca23a00f7c3cca6e3e34aa0fc0acd42eff0ce8d6175a5e4922a191000a"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 4:16 \\ft Literally \\fqa glorify God in that name\\ft ; NA \\fqa glorify God in this matter\\f*",
+          "raw_sha256": "110e9c37c28c467932dbbad97ec3f12fb0fa2743f4dc1abe7107dbdf3106c52e"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 4:18 \\ft \\ref Proverbs 11:31|PRO 11:31\\ref* (see also LXX)\\f*",
+          "raw_sha256": "a7c90de57067ff11a9fb79077180fec5b0c6c453a7e9715530a2dda479bcad83"
+        }
+      ]
+    },
+    "5": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 5:1 \\ft SBL, NE, and WH \\fqa I appeal therefore to the elders\\f*",
+          "raw_sha256": "473ac81909085cb5d7bbda4a123b82fd3070de1dcc356696bcf56939ae918f77"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft NE and WH do not include \\fqa watching over them\\ft .\\f*",
+          "raw_sha256": "9e90b2698c215b3d765f221d409599001c9d3e8f68f1725536a011e62b19fcc7"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft WH, BYZ, and TR \\fqa but willingly\\f*",
+          "raw_sha256": "958a2f776bf5dd7b3447eae03cd9e753927a3ac6e5ec7019df50d3547c720b52"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 5:5 \\ft \\ref Proverbs 3:34|PRO 3:34\\ref* (see also LXX)\\f*",
+          "raw_sha256": "22da3618e4cd3834ad8b2ec3f78db126401c90dd6244dfe3bb652982e4130630"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 5:10 \\ft BYZ and TR \\fqa in Christ Jesus\\f*",
+          "raw_sha256": "cc3a439ff2dbe696289dd8ed086c63610b7525847b341f42c8e283efbedf4ec7"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 5:12 \\ft That is, Silas\\f*",
+          "raw_sha256": "8f7b260bb426f3327e9581f2c571ca9ed7d27d4bc335ab5a6da45a2fdc3280a9"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 5:13 \\ft Literally \\fqa She in Babylon\\f*",
+          "raw_sha256": "27771d4039bdd9b21e7f790c3c4d57a89166b51022c33ca5d0f78c90aca3af18"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 5:14 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "49b78b6d1184b2a42de2065cb191edb619b7839d54354014226482ebf6f3a139"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

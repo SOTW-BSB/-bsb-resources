@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 23,
+  "verses": [
+    {
+      "id": "1CH.23.1",
+      "edition_verse_id": "BSB:1CH.23.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "When David was old and full of years, he installed his son Solomon as king over Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.2",
+      "edition_verse_id": "BSB:1CH.23.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then he gathered all the leaders of Israel, as well as the priests and Levites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.3",
+      "edition_verse_id": "BSB:1CH.23.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The Levites thirty years of age or older were counted, and the total number of men was 38,000.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.4",
+      "edition_verse_id": "BSB:1CH.23.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Of these,” said David, “24,000 are to oversee the work of the house of the LORD, 6,000 are to be officers and judges,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.5",
+      "edition_verse_id": "BSB:1CH.23.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "4,000 are to be gatekeepers, and 4,000 are to praise the LORD with the instruments I have made for giving praise.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.6",
+      "edition_verse_id": "BSB:1CH.23.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then David divided the Levites into divisions according to the sons of Levi: Gershon, Kohath, and Merari.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.7",
+      "edition_verse_id": "BSB:1CH.23.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The Gershonites: Ladan and Shimei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.8",
+      "edition_verse_id": "BSB:1CH.23.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The sons of Ladan: Jehiel the first, Zetham, and Joel— three in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.9",
+      "edition_verse_id": "BSB:1CH.23.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The sons of Shimei: Shelomoth, Haziel, and Haran— three in all. These were the heads of the families of Ladan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.10",
+      "edition_verse_id": "BSB:1CH.23.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the sons of Shimei: Jahath, Zina, Jeush, and Beriah. These were the sons of Shimei— four in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.11",
+      "edition_verse_id": "BSB:1CH.23.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jahath was the first and Zizah was the second; but Jeush and Beriah did not have many sons, so they were counted as one family and received a single assignment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.12",
+      "edition_verse_id": "BSB:1CH.23.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel— four in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.13",
+      "edition_verse_id": "BSB:1CH.23.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The sons of Amram: Aaron and Moses. Aaron and his descendants were set apart forever to consecrate the most holy things, to burn incense before the LORD, to minister before Him, and to pronounce blessings in His name forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.14",
+      "edition_verse_id": "BSB:1CH.23.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As for Moses the man of God, his sons were named among the tribe of Levi.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.15",
+      "edition_verse_id": "BSB:1CH.23.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The sons of Moses: Gershom and Eliezer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.16",
+      "edition_verse_id": "BSB:1CH.23.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The descendants of Gershom: Shebuel was the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.17",
+      "edition_verse_id": "BSB:1CH.23.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The descendants of Eliezer: Rehabiah was the first. Eliezer did not have any other sons, but the sons of Rehabiah were very numerous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.18",
+      "edition_verse_id": "BSB:1CH.23.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "The sons of Izhar: Shelomith was the first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.19",
+      "edition_verse_id": "BSB:1CH.23.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The sons of Hebron: Jeriah was the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.20",
+      "edition_verse_id": "BSB:1CH.23.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The sons of Uzziel: Micah was the first and Isshiah the second.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.21",
+      "edition_verse_id": "BSB:1CH.23.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.22",
+      "edition_verse_id": "BSB:1CH.23.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Eleazar died without having any sons; he had only daughters. Their cousins, the sons of Kish, married them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.23",
+      "edition_verse_id": "BSB:1CH.23.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The sons of Mushi: Mahli, Eder, and Jeremoth— three in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.24",
+      "edition_verse_id": "BSB:1CH.23.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "These were the descendants of Levi by their families— the heads of families, registered individually by name— those twenty years of age or older who worked in the service of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.25",
+      "edition_verse_id": "BSB:1CH.23.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For David had said, “The LORD, the God of Israel, has given rest to His people and has come to dwell in Jerusalem forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.26",
+      "edition_verse_id": "BSB:1CH.23.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "So now the Levites no longer need to carry the tabernacle or any of the articles for its service.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.27",
+      "edition_verse_id": "BSB:1CH.23.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For according to the final instructions of David, the Levites twenty years of age or older were counted,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.28",
+      "edition_verse_id": "BSB:1CH.23.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "but their duty was to assist the descendants of Aaron with the service of the house of the LORD, being responsible for the courts and chambers, the purification of all the holy things, and the work of the service of the house of God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.29",
+      "edition_verse_id": "BSB:1CH.23.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "as well as for the rows of the showbread, the fine flour for the grain offering, the wafers of unleavened bread, the baking, the mixing, and all measurements of quantity and size.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.30",
+      "edition_verse_id": "BSB:1CH.23.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "They were also to stand every morning to give thanks and praise to the LORD, and likewise in the evening.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.23.31",
+      "edition_verse_id": "BSB:1CH.23.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Whenever burnt offerings were presented to the LORD on the Sabbaths, New Moons, and appointed feasts, they were to serve regularly before the LORD in the numbers prescribed for them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.23.32",
+      "edition_verse_id": "BSB:1CH.23.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "So the Levites were to carry out the responsibilities for the Tent of Meeting and the Holy Place, and, under their brothers the descendants of Aaron, the service of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

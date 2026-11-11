@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CO",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "1CO.13.1",
+      "edition_verse_id": "BSB:1CO.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If I speak in the tongues of men and of angels, but have not love, I am only a ringing gong or a clanging cymbal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.13.2",
+      "edition_verse_id": "BSB:1CO.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have absolute faith so as to move mountains, but have not love, I am nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.3",
+      "edition_verse_id": "BSB:1CO.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If I give all I possess to the poor and exult in the surrender of my body, but have not love, I gain nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.4",
+      "edition_verse_id": "BSB:1CO.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.13.5",
+      "edition_verse_id": "BSB:1CO.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "It is not rude, it is not self-seeking, it is not easily angered, it keeps no account of wrongs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.6",
+      "edition_verse_id": "BSB:1CO.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Love takes no pleasure in evil, but rejoices in the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.7",
+      "edition_verse_id": "BSB:1CO.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "It bears all things, believes all things, hopes all things, endures all things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.8",
+      "edition_verse_id": "BSB:1CO.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be restrained; where there is knowledge, it will be dismissed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.13.9",
+      "edition_verse_id": "BSB:1CO.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For we know in part and we prophesy in part,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.10",
+      "edition_verse_id": "BSB:1CO.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "but when the perfect comes, the partial passes away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.11",
+      "edition_verse_id": "BSB:1CO.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I set aside childish ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.13.12",
+      "edition_verse_id": "BSB:1CO.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now we see but a dim reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.13.13",
+      "edition_verse_id": "BSB:1CO.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And now these three remain: faith, hope, and love; but the greatest of these is love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

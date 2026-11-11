@@ -1,0 +1,704 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CO",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "1CO.15.1",
+      "edition_verse_id": "BSB:1CO.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.2",
+      "edition_verse_id": "BSB:1CO.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.3",
+      "edition_verse_id": "BSB:1CO.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.4",
+      "edition_verse_id": "BSB:1CO.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "that He was buried, that He was raised on the third day according to the Scriptures,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.5",
+      "edition_verse_id": "BSB:1CO.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and that He appeared to Cephas and then to the Twelve.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.6",
+      "edition_verse_id": "BSB:1CO.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.7",
+      "edition_verse_id": "BSB:1CO.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then He appeared to James, then to all the apostles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.8",
+      "edition_verse_id": "BSB:1CO.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And last of all He appeared to me also, as to one of untimely birth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.9",
+      "edition_verse_id": "BSB:1CO.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For I am the least of the apostles and am unworthy to be called an apostle, because I persecuted the church of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.10",
+      "edition_verse_id": "BSB:1CO.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them — yet not I, but the grace of God that was with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.11",
+      "edition_verse_id": "BSB:1CO.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Whether, then, it was I or they, this is what we preach, and this is what you believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.12",
+      "edition_verse_id": "BSB:1CO.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.13",
+      "edition_verse_id": "BSB:1CO.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If there is no resurrection of the dead, then not even Christ has been raised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.14",
+      "edition_verse_id": "BSB:1CO.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if Christ has not been raised, our preaching is worthless, and so is your faith.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.15",
+      "edition_verse_id": "BSB:1CO.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.16",
+      "edition_verse_id": "BSB:1CO.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "For if the dead are not raised, then not even Christ has been raised.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.17",
+      "edition_verse_id": "BSB:1CO.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And if Christ has not been raised, your faith is futile; you are still in your sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.18",
+      "edition_verse_id": "BSB:1CO.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then those also who have fallen asleep in Christ have perished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.19",
+      "edition_verse_id": "BSB:1CO.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If our hope in Christ is for this life alone, we are to be pitied more than all men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.20",
+      "edition_verse_id": "BSB:1CO.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.21",
+      "edition_verse_id": "BSB:1CO.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For since death came through a man, the resurrection of the dead comes also through a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.22",
+      "edition_verse_id": "BSB:1CO.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For as in Adam all die, so in Christ all will be made alive.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.23",
+      "edition_verse_id": "BSB:1CO.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But each in his own turn: Christ the firstfruits; then at His coming, those who belong to Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.24",
+      "edition_verse_id": "BSB:1CO.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then the end will come, when He hands over the kingdom to God the Father after He has destroyed all dominion, authority, and power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.25",
+      "edition_verse_id": "BSB:1CO.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For He must reign until He has put all His enemies under His feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.26",
+      "edition_verse_id": "BSB:1CO.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The last enemy to be destroyed is death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.27",
+      "edition_verse_id": "BSB:1CO.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For “God has put everything under His feet.” Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.28",
+      "edition_verse_id": "BSB:1CO.15.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And when all things have been subjected to Him, then the Son Himself will be made subject to Him who put all things under Him, so that God may be all in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.29",
+      "edition_verse_id": "BSB:1CO.15.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "If these things are not so, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.30",
+      "edition_verse_id": "BSB:1CO.15.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And why do we endanger ourselves every hour?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.31",
+      "edition_verse_id": "BSB:1CO.15.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.32",
+      "edition_verse_id": "BSB:1CO.15.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.33",
+      "edition_verse_id": "BSB:1CO.15.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Do not be deceived: “Bad company corrupts good character.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.34",
+      "edition_verse_id": "BSB:1CO.15.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Sober up as you ought, and stop sinning; for some of you are ignorant of God. I say this to your shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.35",
+      "edition_verse_id": "BSB:1CO.15.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "But someone will ask, “How are the dead raised? With what kind of body will they come?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.36",
+      "edition_verse_id": "BSB:1CO.15.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "You fool! What you sow does not come to life unless it dies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.37",
+      "edition_verse_id": "BSB:1CO.15.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And what you sow is not the body that will be, but just a seed, perhaps of wheat or something else.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.38",
+      "edition_verse_id": "BSB:1CO.15.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But God gives it a body as He has designed, and to each kind of seed He gives its own body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.39",
+      "edition_verse_id": "BSB:1CO.15.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Not all flesh is the same: Men have one kind of flesh, animals have another, birds another, and fish another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.40",
+      "edition_verse_id": "BSB:1CO.15.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "There are also heavenly bodies and earthly bodies. But the splendor of the heavenly bodies is of one degree, and the splendor of the earthly bodies is of another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.41",
+      "edition_verse_id": "BSB:1CO.15.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "The sun has one degree of splendor, the moon another, and the stars another; and star differs from star in splendor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.42",
+      "edition_verse_id": "BSB:1CO.15.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "So will it be with the resurrection of the dead: What is sown is perishable; it is raised imperishable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.43",
+      "edition_verse_id": "BSB:1CO.15.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.44",
+      "edition_verse_id": "BSB:1CO.15.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.45",
+      "edition_verse_id": "BSB:1CO.15.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "So it is written: “The first man Adam became a living being”; the last Adam a life-giving spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.46",
+      "edition_verse_id": "BSB:1CO.15.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "The spiritual, however, was not first, but the natural, and then the spiritual.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.47",
+      "edition_verse_id": "BSB:1CO.15.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The first man was of the dust of the earth, the second man from heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.48",
+      "edition_verse_id": "BSB:1CO.15.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "As was the earthly man, so also are those who are of the earth; and as is the heavenly man, so also are those who are of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.49",
+      "edition_verse_id": "BSB:1CO.15.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "And just as we have borne the likeness of the earthly man, so also shall we bear the likeness of the heavenly man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.50",
+      "edition_verse_id": "BSB:1CO.15.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Now I declare to you, brothers, that flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.51",
+      "edition_verse_id": "BSB:1CO.15.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Listen, I tell you a mystery: We will not all sleep, but we will all be changed —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.52",
+      "edition_verse_id": "BSB:1CO.15.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "in an instant, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.53",
+      "edition_verse_id": "BSB:1CO.15.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "For the perishable must be clothed with the imperishable, and the mortal with immortality.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.54",
+      "edition_verse_id": "BSB:1CO.15.54",
+      "verse": 54,
+      "spans": [
+        {
+          "text": "When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.55",
+      "edition_verse_id": "BSB:1CO.15.55",
+      "verse": 55,
+      "spans": [
+        {
+          "text": "“Where, O Death, is your victory? Where, O Death, is your sting?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.56",
+      "edition_verse_id": "BSB:1CO.15.56",
+      "verse": 56,
+      "spans": [
+        {
+          "text": "The sting of death is sin, and the power of sin is the law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.15.57",
+      "edition_verse_id": "BSB:1CO.15.57",
+      "verse": 57,
+      "spans": [
+        {
+          "text": "But thanks be to God, who gives us the victory through our Lord Jesus Christ!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.15.58",
+      "edition_verse_id": "BSB:1CO.15.58",
+      "verse": 58,
+      "spans": [
+        {
+          "text": "Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, because you know that your labor in the Lord is not in vain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "1KI.1.1",
+      "edition_verse_id": "BSB:1KI.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now King David was old and well along in years, and though they covered him with blankets, he could not keep warm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.2",
+      "edition_verse_id": "BSB:1KI.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So his servants said to him, “Let us search for a young virgin for our lord the king, to attend to him and care for him and lie by his side to keep him warm.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.3",
+      "edition_verse_id": "BSB:1KI.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then they searched throughout Israel for a beautiful girl, and they found Abishag the Shunammite and brought her to the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.4",
+      "edition_verse_id": "BSB:1KI.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The girl was unsurpassed in beauty; she cared for the king and served him, but he had no relations with her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.5",
+      "edition_verse_id": "BSB:1KI.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "At that time Adonijah, David’s son by Haggith, began to exalt himself, saying, “I will be king!” And he acquired chariots and horsemen and fifty men to run ahead of him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.6",
+      "edition_verse_id": "BSB:1KI.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "(His father had never once reprimanded him by saying, “Why do you act this way?” Adonijah was also very handsome, born next after Absalom.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.7",
+      "edition_verse_id": "BSB:1KI.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So Adonijah conferred with Joab son of Zeruiah and with Abiathar the priest, who supported him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.8",
+      "edition_verse_id": "BSB:1KI.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei, Rei, and David’s mighty men would not join Adonijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.9",
+      "edition_verse_id": "BSB:1KI.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And Adonijah sacrificed sheep, oxen, and fattened calves near the stone of Zoheleth, which is next to En-rogel. He invited all his royal brothers and all the men of Judah who were servants of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.10",
+      "edition_verse_id": "BSB:1KI.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But he did not invite Nathan the prophet, Benaiah, the mighty men, or his brother Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.11",
+      "edition_verse_id": "BSB:1KI.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then Nathan said to Bathsheba the mother of Solomon, “Have you not heard that Adonijah son of Haggith has become king, and our lord David does not know it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.12",
+      "edition_verse_id": "BSB:1KI.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now please, come and let me advise you. Save your own life and the life of your son Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.13",
+      "edition_verse_id": "BSB:1KI.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Go at once to King David and say, ‘My lord the king, did you not swear to your maidservant, “Surely your son Solomon will reign after me, and he will sit on my throne”? Why then has Adonijah become king?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.14",
+      "edition_verse_id": "BSB:1KI.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then, while you are still there speaking with the king, I will come in after you and confirm your words.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.15",
+      "edition_verse_id": "BSB:1KI.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So Bathsheba went to see the king in his bedroom. Since the king was very old, Abishag the Shunammite was serving him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.16",
+      "edition_verse_id": "BSB:1KI.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Bathsheba bowed down in homage to the king, who asked, “What is your desire?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.17",
+      "edition_verse_id": "BSB:1KI.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“My lord,” she replied, “you yourself swore to your maidservant by the LORD your God: ‘Surely your son Solomon will reign after me, and he will sit on my throne.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.18",
+      "edition_verse_id": "BSB:1KI.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But now, behold, Adonijah has become king, and you, my lord the king, do not know it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.19",
+      "edition_verse_id": "BSB:1KI.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And he has sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the other sons of the king, as well as Abiathar the priest and Joab the commander of the army. But he has not invited your servant Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.20",
+      "edition_verse_id": "BSB:1KI.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And as for you, my lord the king, the eyes of all Israel are upon you to tell them who will sit on the throne of my lord the king after him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.21",
+      "edition_verse_id": "BSB:1KI.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Otherwise, when my lord the king rests with his fathers, I and my son Solomon will be counted as criminals.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.22",
+      "edition_verse_id": "BSB:1KI.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And just then, while Bathsheba was still speaking with the king, Nathan the prophet arrived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.23",
+      "edition_verse_id": "BSB:1KI.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So the king was told, “Nathan the prophet is here.” And Nathan went in and bowed facedown before the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.24",
+      "edition_verse_id": "BSB:1KI.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "“My lord the king,” said Nathan, “did you say, ‘Adonijah will reign after me, and he will sit on my throne’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.25",
+      "edition_verse_id": "BSB:1KI.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For today he has gone down and sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the sons of the king, the commanders of the army, and Abiathar the priest. And behold, they are eating and drinking before him, saying, ‘Long live King Adonijah!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.26",
+      "edition_verse_id": "BSB:1KI.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But me your servant he has not invited, nor Zadok the priest, nor Benaiah son of Jehoiada, nor your servant Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.27",
+      "edition_verse_id": "BSB:1KI.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Has my lord the king let this happen without informing your servant who should sit on the throne after my lord the king?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.28",
+      "edition_verse_id": "BSB:1KI.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then King David said, “Call in Bathsheba for me.” So she came into the king’s presence and stood before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.29",
+      "edition_verse_id": "BSB:1KI.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And the king swore an oath, saying, “As surely as the LORD lives, who has redeemed my life from all distress,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.30",
+      "edition_verse_id": "BSB:1KI.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will carry out this very day exactly what I swore to you by the LORD, the God of Israel: Surely your son Solomon will reign after me, and he will sit on my throne in my place.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.31",
+      "edition_verse_id": "BSB:1KI.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Bathsheba bowed facedown in homage to the king and said, “May my lord King David live forever!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.32",
+      "edition_verse_id": "BSB:1KI.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then King David said, “Call in for me Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada.” So they came before the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.33",
+      "edition_verse_id": "BSB:1KI.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "“Take my servants with you,” said the king. “Set my son Solomon on my own mule and take him down to Gihon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.34",
+      "edition_verse_id": "BSB:1KI.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "There Zadok the priest and Nathan the prophet are to anoint him king over Israel. You are to blow the ram’s horn and declare, ‘Long live King Solomon!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.35",
+      "edition_verse_id": "BSB:1KI.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then you shall go up with him, and he is to come and sit on my throne and reign in my place. For I have appointed him ruler over Israel and Judah.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.36",
+      "edition_verse_id": "BSB:1KI.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "“Amen,” replied Benaiah son of Jehoiada. “May the LORD, the God of my lord the king, so declare it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.37",
+      "edition_verse_id": "BSB:1KI.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Just as the LORD was with my lord the king, so may He be with Solomon and make his throne even greater than that of my lord King David.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.38",
+      "edition_verse_id": "BSB:1KI.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Then Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada, along with the Cherethites and Pelethites, went down and set Solomon on King David’s mule, and they escorted him to Gihon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.39",
+      "edition_verse_id": "BSB:1KI.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Zadok the priest took the horn of oil from the tabernacle and anointed Solomon. Then they blew the ram’s horn, and all the people proclaimed, “Long live King Solomon!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.40",
+      "edition_verse_id": "BSB:1KI.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "All the people followed him, playing flutes and rejoicing with such a great joy that the earth was split by the sound.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.41",
+      "edition_verse_id": "BSB:1KI.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Now Adonijah and all his guests were finishing their feast when they heard the sound of the ram’s horn. “Why is the city in such a loud uproar?” asked Joab.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.42",
+      "edition_verse_id": "BSB:1KI.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "As he was speaking, suddenly Jonathan the son of Abiathar the priest arrived. “Come in,” said Adonijah, “for you are a man of valor. You must be bringing good news.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.43",
+      "edition_verse_id": "BSB:1KI.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "“Not at all,” Jonathan replied. “Our lord King David has made Solomon king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.44",
+      "edition_verse_id": "BSB:1KI.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And with Solomon, the king has sent Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada, along with the Cherethites and Pelethites, and they have set him on the king’s mule.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.45",
+      "edition_verse_id": "BSB:1KI.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Zadok the priest and Nathan the prophet have anointed him king at Gihon, and they have gone up from there with rejoicing that rings out in the city. That is the noise you hear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.46",
+      "edition_verse_id": "BSB:1KI.1.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "Moreover, Solomon has taken his seat on the royal throne.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.47",
+      "edition_verse_id": "BSB:1KI.1.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "The king’s servants have also gone to congratulate our lord King David, saying, ‘May your God make the name of Solomon more famous than your own name, and may He make his throne greater than your throne.’ And the king has bowed in worship on his bed,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.48",
+      "edition_verse_id": "BSB:1KI.1.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "saying, ‘Blessed be the LORD, the God of Israel! Today He has provided one to sit on my throne, and my eyes have seen it.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.49",
+      "edition_verse_id": "BSB:1KI.1.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "At this, all the guests of Adonijah arose in terror and scattered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.50",
+      "edition_verse_id": "BSB:1KI.1.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "But Adonijah, in fear of Solomon, got up and went to take hold of the horns of the altar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.1.51",
+      "edition_verse_id": "BSB:1KI.1.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "It was reported to Solomon: “Behold, Adonijah fears King Solomon, and he has taken hold of the horns of the altar, saying, ‘Let King Solomon first swear to me not to put his servant to the sword.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.52",
+      "edition_verse_id": "BSB:1KI.1.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "And Solomon replied, “If he is a man of character, not a single hair of his will fall to the ground. But if evil is found in him, he will die.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.1.53",
+      "edition_verse_id": "BSB:1KI.1.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "So King Solomon summoned Adonijah down from the altar, and he came and bowed down before King Solomon, who said to him, “Go to your home.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1CO",
+  "chapters": {
+    "1": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 1:12 \\ft That is, Peter\\f*",
+          "raw_sha256": "da54564197e5b25300339841d1feace99883c230dfa176e4ff459a8358f0cb64"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 1:19 \\ft \\ref Isaiah 29:14|ISA 29:14\\ref* (see also LXX)\\f*",
+          "raw_sha256": "219f2f8135ae0e431a230971a1d09c08421b44cf2bc73c36c82709b23cd3902f"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 1:23 \\ft BYZ and TR \\fqa to Greeks\\f*",
+          "raw_sha256": "d6a57200bd2f7f0a7e743a8bd4ff61021286419e04841ecbe7f6d43f0b4e5b22"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 1:25 \\ft Literally \\fqa than men\\ft ; twice in this verse\\f*",
+          "raw_sha256": "37ff055d3761e9eaf7a5dd6aa5bc3eba768950eb63c08cabf704b1ac22471d05"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 1:31 \\ft \\ref Jeremiah 9:24|JER 9:24\\ref*\\f*",
+          "raw_sha256": "e7c474839517220fc41b9b357545516f957470a7043ebb7686f3aea3c5e5cfa3"
+        }
+      ]
+    },
+    "2": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft Or \\fqa we speak God’s wisdom in a mystery\\f*",
+          "raw_sha256": "c22e6377e00ccb3376cb4bbbe69149915641735961c4b186cd6b2adcd1b19384"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 2:9 \\ft \\ref Isaiah 64:4|ISA 64:4\\ref*\\f*",
+          "raw_sha256": "42a1192812b54b8c725b8b99d61d6c8ed71c3ab70a96e41c50a260deb78a78c1"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 2:13 \\ft Or \\fqa to spiritual people\\f*",
+          "raw_sha256": "35b5f63dc518b10f861cf5badb5636250de75baa83ec425ab58349428d59613c"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 2:16 \\ft \\ref Isaiah 40:13|ISA 40:13\\ref* (see also LXX)\\f*",
+          "raw_sha256": "90a28bd6561908dba233e0ffe8d4a9d2d4a50aa9e9f89e9ae8c492c2e7b7efdc"
+        }
+      ]
+    },
+    "3": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft Literally \\fqa are one\\f*",
+          "raw_sha256": "11e20075a4941006c581adde9bdaf8ce729c7d8fb7178e694868165713466002"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft Or \\fqa among\\f*",
+          "raw_sha256": "f3ecd1fe56d8c11f9e65473aa1ad5db83e0fae8888b790600cf2ae9fcabb981d"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 3:19 \\ft \\ref Job 5:13|JOB 5:13\\ref*\\f*",
+          "raw_sha256": "ea512ab4ea378d323dbf255ef2e6fd13e4e5adce246a02d6527c28d8f88a4b29"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 3:20 \\ft \\ref Psalm 94:11|PSA 94:11\\ref*\\f*",
+          "raw_sha256": "5d1966a58b61ccf24c57d0ca6e4adeaffc10d8960da809d0f37a0b3fe464e13e"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 3:22 \\ft That is, Peter\\f*",
+          "raw_sha256": "1f507e6919bf9c76b9783a5ee467e625d9e4db2db6f8c9092812cc52c72df9df"
+        }
+      ]
+    },
+    "4": {
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 4:17 \\ft BYZ and TR \\fqa my way of life in Christ,\\f*",
+          "raw_sha256": "4a45be1d43cce07660a15fa7d81124c34467d594926f1c989bb41b5195e02bb2"
+        }
+      ]
+    },
+    "5": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 5:4 \\ft Or \\fqa In the name of our Lord Jesus, when you are assembled\\f*",
+          "raw_sha256": "4b15b06c95204f96c8a91fa90f47b442c59de6ba386f10cc9f1af26656694a60"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 5:5 \\ft BYZ and TR \\fqa the Lord Jesus\\f*",
+          "raw_sha256": "0f4e91ba18b2b3729d95855f6f18fd123b6cdb218a4affce71609087922d29ac"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 5:13 \\ft Literally \\fqa Expel the evil from among you\\ft ; \\ref Deuteronomy 13:5|DEU 13:5\\ref*, 17:7, 19:19, 21:21, 22:21, 22:24, and 24:7\\f*",
+          "raw_sha256": "18151a71bf41a60e1c91a54ee46bb98c845658b87b54cfad347fdc86018ff020"
+        }
+      ]
+    },
+    "6": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 6:8 \\ft Literally \\fqa do wrong, and this to brothers!\\f*",
+          "raw_sha256": "ac88b2ba7b92fd89b84f3ca6b640b53a0b16df224e9a706b5786565fc09fc800"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 6:16 \\ft \\ref Genesis 2:24|GEN 2:24\\ref* (see also LXX)\\f*",
+          "raw_sha256": "826d028c657d47b067f2516535ad70362e947647b7590b210435d194e2b800e9"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 6:20 \\ft BYZ and TR include \\fqa and with your spirit, which belong to God\\ft .\\f*",
+          "raw_sha256": "a8d103b06cea30a55693b302a9524b5986a6e376ab8de03f189a7601d24ab3ef"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\ft Literally \\fqa It is good for a man not to touch a woman.\\f*",
+          "raw_sha256": "d7d0d89b38151b3d5d218888c1f291cbbe12a1f5c06feb24aeb95684fcead4bc"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 7:15 \\ft SBL, BYZ, and TR \\fqa us\\f*",
+          "raw_sha256": "fe7ecd22bbd705cf4e859d4f543a31690400c4e638f57e405b01060e15d10bb0"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 7:26 \\ft Or \\fqa impending\\f*",
+          "raw_sha256": "a6baf4f7b1088162219deb0e121d4f33a409df8c79df8426ad08ca1f67c44e3e"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 7:36 \\ft Literally \\fqa and it ought to be so\\f*",
+          "raw_sha256": "d70eb6ec5170bafcb290a12b938f84284182ebacb357213a2121b11e34ea4564"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 7:37 \\ft Literally \\fqa in his heart to keep the virgin \\ft or \\fqa in his heart to keep the betrothed\\f*",
+          "raw_sha256": "08ec0e6c8954371caeb706df152e08de1dda0b4bdcaa11c5119bbf65c9be41a2"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 7:39 \\ft Literally \\fqa she is free to be married to whom she wishes, only in the Lord\\f*",
+          "raw_sha256": "e7a8ee4f79fffe2ec18d0976ae0e2229e2ba89421bd43bb9c647d18aadac7546"
+        }
+      ]
+    },
+    "9": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 9:5 \\ft Literally \\fqa take along a sister—a wife—\\f*",
+          "raw_sha256": "1c456e12056457d48817bdb70e1f7e67ced585706aea499c5fe4aaaaa8e54e2f"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:5 \\ft That is, Peter\\f*",
+          "raw_sha256": "f8ab711d2ef00a441a376f1e874fe4052de483b6d211a453fd4cd6c1708ee392"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 9:6 \\ft Literally \\fqa Or is it only Barnabas and I who do not have authority not to work?\\f*",
+          "raw_sha256": "ec1108d4534ac05165e79689a2fc71f7a5058d1baa59d1ab9d5e82c10eea9bb5"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 9:9 \\ft \\ref Deuteronomy 25:4|DEU 25:4\\ref*\\f*",
+          "raw_sha256": "13c80f98f191bedebe12be0186568baf4502f209a86fa404fc3797e269319bfb"
+        }
+      ]
+    },
+    "10": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 10:7 \\ft Or \\fqa to play\\ft ; \\ref Exodus 32:6|EXO 32:6\\ref*\\f*",
+          "raw_sha256": "1b7f9b76882955f7a5f92fbe6fa67a560024e2a9914a692fd099679a785a285b"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 10:9 \\ft WH, NE, and Tischendorf \\fqa test the Lord\\f*",
+          "raw_sha256": "493e6bd15cb994ffb641e1761289b075deadeebe52eab7180bde83c7fe4054d6"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 10:10 \\ft Literally \\fqa the destroyer\\f*",
+          "raw_sha256": "656b425b71937d1f542d7af49363cdfe0126483eefa900110a47c0b8314d611f"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 10:23 \\ft Or \\fqa “All things are lawful,” \\ft twice in this verse\\f*",
+          "raw_sha256": "296e694ee9158417a6f0c981afbee1a2009906a29332037f15bb546963c5d084"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 10:26 \\ft \\ref Psalm 24:1|PSA 24:1\\ref*\\f*",
+          "raw_sha256": "d22b1d123a159a3a66b4bcebdc228fcbab13aaefdac986f3f01b3a930b5326be"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 10:28 \\ft BYZ and TR \\fqa and for the sake of conscience—for the earth is the Lord’s, and the fullness thereof—\\f*",
+          "raw_sha256": "84c903035906808a8f1ee7decf64e3141bd3bc5e4e2c7aef889a2e7a986c21ab"
+        }
+      ]
+    },
+    "11": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 11:10 \\ft Or \\fqa have authority over\\f*",
+          "raw_sha256": "396068c51de9c23e670b0abefc43d0db5ef954d60d11d761b247cea7cc5b868d"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 11:21 \\ft Literally \\fqa each one takes first his own meal.\\f*",
+          "raw_sha256": "67f3e403e616116d492f474bc8d6864b859937a78e318bfb34b676dd6c515037"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 11:24 \\ft BYZ and TR \\fqa which is broken for you\\f*",
+          "raw_sha256": "75af9e0a271973a25b4214dcc3ee1266c493de2d7af71e724d4c554833c9fdc7"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 11:27 \\ft Or \\fqa will be responsible for the\\f*",
+          "raw_sha256": "fda27e825b361929ab4ff1c29c4afc096729b435107e40884be3a95be1a57b6d"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 11:29 \\ft BYZ and TR \\fqa the body of the Lord\\f*",
+          "raw_sha256": "6f73bdd4aa0feb4b25cf6c324e633bf0991e279c00ca4591128fea6040bbdc9c"
+        }
+      ]
+    },
+    "13": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 13:3 \\ft SBL, NE, BYZ, and TR \\fqa surrender my body to be burned\\f*",
+          "raw_sha256": "c56a43b1e8c8561f51fa2b8cb62b7542d508acb9cac7681988a8c2ac5800751c"
+        }
+      ]
+    },
+    "14": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 14:11 \\ft Literally \\fqa a barbarian\\ft ; twice in this verse\\f*",
+          "raw_sha256": "18588b6b16a9919b4538b0e1450a3db29030a4e6bcf286f3b9449de4606a82e6"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 14:16 \\ft Or \\fqa in the Spirit\\f*",
+          "raw_sha256": "af5e4bdd784901064ba9cd60e52299c0cacf18f70d90c226dfcb38d6a3e9e2b6"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 14:21 \\ft \\ref Isaiah 28:11–12|ISA 28:11-12\\ref*\\f*",
+          "raw_sha256": "5e0f1b485e8f69f06d6f95c88426fa9598323ba1957ce78d6eb2d20e5d872012"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 14:33 \\ft Or \\fqa of peace. As in all the churches of the saints: \\ft Thus, some translators begin the new paragraph after \\fqa peace\\ft .\\f*",
+          "raw_sha256": "7ed1248a99da57715258c89f7c8e1f65fa701b19109ef0301407f276b8c1471a"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 14:35 \\ft Some manuscripts place verses 34–35 after verse 40.\\f*",
+          "raw_sha256": "884517db333ccf15eb0a8c69e25009177d197eb5c1225533166e0220f89f84eb"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 14:38 \\ft BYZ and TR \\fqa let him be ignorant\\f*",
+          "raw_sha256": "1acc1614afc44f63ea705144fbac229c5eb341d086207afa1f634b6262357918"
+        }
+      ]
+    },
+    "15": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 15:5 \\ft That is, Peter\\f*",
+          "raw_sha256": "43055bd32f4860bb16a64f518048b8a7415f33b8c36461dcd6bcbb60cd9243fe"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 15:27 \\ft \\ref Psalm 8:6|PSA 8:6\\ref*\\f*",
+          "raw_sha256": "671556a9aa33dd5c0f64d4c83f3bd0641d346ebc4a68bea43405b1ec271b227c"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 15:32 \\ft \\ref Isaiah 22:13|ISA 22:13\\ref*\\f*",
+          "raw_sha256": "3687c664daff8d4d646ee21d3a4afe4a3d101dee3d6e0b4b1dafee52cdba23d7"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 15:33 \\ft Probably a quote from the Greek comedy \\fqa Thais \\ft by Menander\\f*",
+          "raw_sha256": "e91cec8f35e670cfdf3ace04295a64651f1fe122d4f266f1de6d06f2a1ffac2d"
+        }
+      ],
+      "45": [
+        {
+          "source_usfm": "\\f + \\fr 15:45 \\ft \\ref Genesis 2:7|GEN 2:7\\ref*\\f*",
+          "raw_sha256": "2f2e8d43c57972c23487ad547b127ebdc194976d572db60f3b0905de4b9e444a"
+        }
+      ],
+      "53": [
+        {
+          "source_usfm": "\\f + \\fr 15:53 \\ft Or \\fqa clothe itself\\f*",
+          "raw_sha256": "2d74ba24dc5a71a46a968c76dee37f48ff1a8d97625c689d8c13110c2a98aa63"
+        }
+      ],
+      "54": [
+        {
+          "source_usfm": "\\f + \\fr 15:54 \\ft WH does not include \\fqa and the mortal with immortality\\ft .\\f*",
+          "raw_sha256": "5d334b398d4b2583f53169fb6a02254d69e1787322a0eb06534927167e79f718"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:54 \\ft \\ref Isaiah 25:8|ISA 25:8\\ref*\\f*",
+          "raw_sha256": "bae72b20280cfc90a562c7b5ba005426f6ba57363ddd65c9a9b28f700eae6cc9"
+        }
+      ],
+      "55": [
+        {
+          "source_usfm": "\\f + \\fr 15:55 \\ft \\ref Hosea 13:14|HOS 13:14\\ref* (see also LXX); BYZ and TR \\fqa “Where, O Death, is your sting? Where, O Hades, is your victory?”\\f*",
+          "raw_sha256": "50dd948cfe481e72929e26a4ee7e7dd231780d21124cf04fb176d1eb7b54e782"
+        }
+      ]
+    },
+    "16": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 16:8 \\ft That is, Shavuot, the late spring feast of pilgrimage to Jerusalem; it is also known as \\fqa the Feast of Harvest\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref*) or \\fqa the Feast of Weeks\\ft (see \\ref Exodus 34:22|EXO 34:22\\ref*).\\f*",
+          "raw_sha256": "0b9888b9fde9a987416dd617afa1624ea8522556f7c043b79951b07c9952098b"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 16:19 \\ft Literally \\fqa in Asia\\ft ; Asia was a Roman province in what is now western Turkey. \\f*",
+          "raw_sha256": "4e93b6596afe4986bf16943a64e1542083eddd795399e78121099ecb20aabf30"
+        },
+        {
+          "source_usfm": "\\f + \\fr 16:19 \\fqa Prisca \\ft is a variant of \\fqa Priscilla\\ft ; see \\ref Acts 18:2|ACT 18:2\\ref*.\\f*",
+          "raw_sha256": "b82d46aa2d90cb95897ef3d06a5eca75c4c7921c840fc251ea532fb916e8aa60"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 16:22 \\ft Greek \\fqa Marana Tha! \\ft from a transliteration of the Aramaic, an exclamation of approaching divine judgment\\f*",
+          "raw_sha256": "fe185291a03c0cc45a2a6f05929697cc8eb01950fd236d4a541f2c346bfa5e50"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 16:24 \\ft SBL, WH, and NA do not include \\fqa Amen.\\f*",
+          "raw_sha256": "88c2e6282bf406466ef471478166d0977ef9d2d7607927e0c8fd55465b0a5f82"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1SA",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "1SA.13.1",
+      "edition_verse_id": "BSB:1SA.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Saul was thirty years old when he became king, and he reigned over Israel forty-two years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.2",
+      "edition_verse_id": "BSB:1SA.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He chose for himself three thousand men of Israel: Two thousand were with Saul at Michmash and in the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. And the rest of the troops he sent away, each to his own home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.3",
+      "edition_verse_id": "BSB:1SA.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Jonathan attacked the Philistine outpost at Geba, and the Philistines heard about it. So Saul blew the ram’s horn throughout the land, saying, “Let the Hebrews hear!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.4",
+      "edition_verse_id": "BSB:1SA.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And all Israel heard the news: “Saul has attacked an outpost of the Philistines, and now Israel has become a stench to the Philistines!” Then the people were summoned to join Saul at Gilgal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.5",
+      "edition_verse_id": "BSB:1SA.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now the Philistines assembled to fight against Israel with three thousand chariots, six thousand horsemen, and troops as numerous as the sand on the seashore. They went up and camped at Michmash, east of Beth-aven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.6",
+      "edition_verse_id": "BSB:1SA.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Seeing that they were in danger because their troops were hard-pressed, the men of Israel hid in caves and thickets, among the rocks, and in cellars and cisterns.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.7",
+      "edition_verse_id": "BSB:1SA.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Some Hebrews even crossed the Jordan into the land of Gad and Gilead. Saul, however, remained at Gilgal, and all his troops were quaking in fear.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.8",
+      "edition_verse_id": "BSB:1SA.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And Saul waited seven days for the time appointed by Samuel, but Samuel did not come to Gilgal, and the troops began to desert Saul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.9",
+      "edition_verse_id": "BSB:1SA.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So he said, “Bring me the burnt offering and the peace offerings.” And he offered up the burnt offering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.10",
+      "edition_verse_id": "BSB:1SA.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Just as he finished offering the burnt offering, Samuel arrived, and Saul went out to greet him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.11",
+      "edition_verse_id": "BSB:1SA.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“What have you done?” Samuel asked. And Saul replied, “When I saw that the troops were deserting me, and that you did not come at the appointed time and the Philistines were gathering at Michmash,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.12",
+      "edition_verse_id": "BSB:1SA.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I thought, ‘Now the Philistines will descend upon me at Gilgal, and I have not sought the favor of the LORD.’ So I felt compelled to offer the burnt offering.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.13",
+      "edition_verse_id": "BSB:1SA.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "“You have acted foolishly,” Samuel declared. “You have not kept the command that the LORD your God gave you; if you had, the LORD would have established your kingdom over Israel for all time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.14",
+      "edition_verse_id": "BSB:1SA.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But now your kingdom will not endure; the LORD has sought a man after His own heart and appointed him ruler over His people, because you have not kept the command of the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.15",
+      "edition_verse_id": "BSB:1SA.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then Samuel set out from Gilgal and went up to Gibeah in Benjamin. And Saul numbered the troops who were with him, about six hundred men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.16",
+      "edition_verse_id": "BSB:1SA.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now Saul and Jonathan his son and the troops with them were staying in Geba of Benjamin, while the Philistines camped at Michmash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.17",
+      "edition_verse_id": "BSB:1SA.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And raiders went out of the Philistine camp in three divisions. One headed toward Ophrah in the land of Shual,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.18",
+      "edition_verse_id": "BSB:1SA.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "another toward Beth-horon, and the third down the border road overlooking the Valley of Zeboim facing the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.19",
+      "edition_verse_id": "BSB:1SA.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And no blacksmith could be found in all the land of Israel, because the Philistines had said, “The Hebrews must not be allowed to make swords or spears.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.20",
+      "edition_verse_id": "BSB:1SA.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Instead, all the Israelites would go down to the Philistines to sharpen their plowshares, mattocks, axes, and sickles.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.21",
+      "edition_verse_id": "BSB:1SA.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The charge was a pim for sharpening a plowshare or mattock, a third of a shekel for sharpening a pitchfork or an axe, and a third of a shekel for repointing an oxgoad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.13.22",
+      "edition_verse_id": "BSB:1SA.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So on the day of battle not a sword or spear could be found in the hands of the troops with Saul and Jonathan; only Saul and his son Jonathan had weapons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.13.23",
+      "edition_verse_id": "BSB:1SA.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And a garrison of the Philistines had gone out to the pass at Michmash.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

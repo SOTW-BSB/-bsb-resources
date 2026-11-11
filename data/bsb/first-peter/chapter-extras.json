@@ -1,0 +1,42 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1PE",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 A Greeting from Peter",
+        "\\s1 A Living Hope",
+        "\\s1 A Call to Holiness",
+        "\\s1 The Enduring Word"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Living Stone and Chosen People",
+        "\\s1 Submission to Authorities",
+        "\\s1 Christ’s Example of Suffering"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Wives and Husbands",
+        "\\s1 Turning from Evil",
+        "\\s1 Suffering for Righteousness"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Living for God’s Glory",
+        "\\s1 Suffering as Christians"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Instructions to Elders",
+        "\\s1 Cast Your Cares on Him",
+        "\\s1 Benediction and Farewell"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

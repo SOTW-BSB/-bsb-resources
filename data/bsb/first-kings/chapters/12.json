@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "1KI.12.1",
+      "edition_verse_id": "BSB:1KI.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Rehoboam went to Shechem, for all Israel had gone there to make him king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.2",
+      "edition_verse_id": "BSB:1KI.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When Jeroboam son of Nebat heard about this, he was still in Egypt where he had fled from King Solomon and had been living ever since.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.3",
+      "edition_verse_id": "BSB:1KI.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So they sent for Jeroboam, and he and the whole assembly of Israel came to Rehoboam and said,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.4",
+      "edition_verse_id": "BSB:1KI.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.5",
+      "edition_verse_id": "BSB:1KI.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Rehoboam answered, “Go away for three days and then return to me.” So the people departed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.6",
+      "edition_verse_id": "BSB:1KI.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.7",
+      "edition_verse_id": "BSB:1KI.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They replied, “If you will be a servant to these people and serve them this day, and if you will respond by speaking kind words to them, they will be your servants forever.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.8",
+      "edition_verse_id": "BSB:1KI.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But Rehoboam rejected the advice of the elders; instead, he consulted the young men who had grown up with him and served him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.9",
+      "edition_verse_id": "BSB:1KI.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.10",
+      "edition_verse_id": "BSB:1KI.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The young men who had grown up with him replied, “This is how you should answer these people who said to you, ‘Your father made our yoke heavy, but you must make it lighter.’ This is what you should tell them: ‘My little finger is thicker than my father’s waist!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.11",
+      "edition_verse_id": "BSB:1KI.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Whereas my father burdened you with a heavy yoke, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.12",
+      "edition_verse_id": "BSB:1KI.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.13",
+      "edition_verse_id": "BSB:1KI.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And the king answered the people harshly. He rejected the advice of the elders",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.14",
+      "edition_verse_id": "BSB:1KI.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and spoke to them as the young men had advised, saying, “Whereas my father made your yoke heavy, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.15",
+      "edition_verse_id": "BSB:1KI.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.16",
+      "edition_verse_id": "BSB:1KI.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.17",
+      "edition_verse_id": "BSB:1KI.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "but Rehoboam still reigned over the Israelites living in the cities of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.18",
+      "edition_verse_id": "BSB:1KI.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then King Rehoboam sent out Adoram, who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.19",
+      "edition_verse_id": "BSB:1KI.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So to this day Israel has been in rebellion against the house of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.20",
+      "edition_verse_id": "BSB:1KI.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When all Israel heard that Jeroboam had returned, they summoned him to the assembly and made him king over all Israel. Only the tribe of Judah followed the house of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.21",
+      "edition_verse_id": "BSB:1KI.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And when Rehoboam arrived in Jerusalem, he mobilized the whole house of Judah and the tribe of Benjamin — 180,000 chosen warriors — to fight against the house of Israel and restore the kingdom to Rehoboam son of Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.22",
+      "edition_verse_id": "BSB:1KI.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the word of God came to Shemaiah the man of God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.23",
+      "edition_verse_id": "BSB:1KI.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "“Tell Rehoboam son of Solomon king of Judah, all the house of Judah and Benjamin, and the rest of the people",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.24",
+      "edition_verse_id": "BSB:1KI.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "that this is what the LORD says: ‘You are not to go up and fight against your brothers, the Israelites. Each of you must return home, for this is My doing.’” So they listened to the word of the LORD and turned back according to the word of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.25",
+      "edition_verse_id": "BSB:1KI.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Jeroboam built Shechem in the hill country of Ephraim and lived there. And from there he went out and built Penuel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.26",
+      "edition_verse_id": "BSB:1KI.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Jeroboam said in his heart, “Now the kingdom might revert to the house of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.27",
+      "edition_verse_id": "BSB:1KI.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "If these people go up to offer sacrifices in the house of the LORD at Jerusalem, their hearts will return to their lord, Rehoboam king of Judah; then they will kill me and return to Rehoboam king of Judah.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.28",
+      "edition_verse_id": "BSB:1KI.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "After seeking advice, the king made two golden calves and said to the people, “Going up to Jerusalem is too much for you. Here, O Israel, are your gods, who brought you up out of the land of Egypt.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.29",
+      "edition_verse_id": "BSB:1KI.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "One calf he set up in Bethel, and the other in Dan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.30",
+      "edition_verse_id": "BSB:1KI.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And this thing became a sin; the people walked as far as Dan to worship before one of the calves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.31",
+      "edition_verse_id": "BSB:1KI.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Jeroboam also built shrines on the high places and appointed from every class of people priests who were not Levites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.12.32",
+      "edition_verse_id": "BSB:1KI.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And Jeroboam ordained a feast on the fifteenth day of the eighth month, like the feast that was in Judah, and he offered sacrifices on the altar; he made this offering in Bethel to sacrifice to the calves he had set up, and he installed priests in Bethel for the high places he had set up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.12.33",
+      "edition_verse_id": "BSB:1KI.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "On the fifteenth day of the eighth month, a month of his own choosing, Jeroboam offered sacrifices on the altar he had set up in Bethel. So he ordained a feast for the Israelites, offered sacrifices on the altar, and burned incense.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

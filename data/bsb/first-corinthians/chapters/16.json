@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CO",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "1CO.16.1",
+      "edition_verse_id": "BSB:1CO.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now about the collection for the saints, you are to do as I directed the churches of Galatia:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.2",
+      "edition_verse_id": "BSB:1CO.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "On the first day of every week, each of you should set aside a portion of his income, saving it up, so that when I come no collections will be needed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.3",
+      "edition_verse_id": "BSB:1CO.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then, on my arrival, I will send letters with those you recommend to carry your gift to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.4",
+      "edition_verse_id": "BSB:1CO.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And if it is advisable for me to go also, they can travel with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.5",
+      "edition_verse_id": "BSB:1CO.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "After I go through Macedonia, however, I will come to you; for I will be going through Macedonia.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.6",
+      "edition_verse_id": "BSB:1CO.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Perhaps I will stay with you awhile, or even spend the winter, so that you can help me on my journey, wherever I go.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.7",
+      "edition_verse_id": "BSB:1CO.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For I do not want to see you now only in passing; I hope to spend some time with you, if the Lord permits.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.8",
+      "edition_verse_id": "BSB:1CO.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But I will stay in Ephesus until Pentecost,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.9",
+      "edition_verse_id": "BSB:1CO.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "because a great door for effective work has opened to me, even though many oppose me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.10",
+      "edition_verse_id": "BSB:1CO.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If Timothy comes, see to it that he has nothing to fear while he is with you, for he is doing the work of the Lord, just as I am.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.11",
+      "edition_verse_id": "BSB:1CO.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "No one, then, should treat him with contempt. Send him on his way in peace so that he can return to me, for I am expecting him along with the brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.12",
+      "edition_verse_id": "BSB:1CO.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now about our brother Apollos: I strongly urged him to go to you with the brothers. He was not at all inclined to go now, but he will go when he has the opportunity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.13",
+      "edition_verse_id": "BSB:1CO.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Be on the alert. Stand firm in the faith. Be men of courage. Be strong.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.14",
+      "edition_verse_id": "BSB:1CO.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Do everything in love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.15",
+      "edition_verse_id": "BSB:1CO.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "You know that Stephanas and his household were the first converts in Achaia, and they have devoted themselves to the service of the saints. Now I urge you, brothers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.16",
+      "edition_verse_id": "BSB:1CO.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "to submit to such as these, and to every fellow worker and laborer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.17",
+      "edition_verse_id": "BSB:1CO.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I am glad that Stephanas, Fortunatus, and Achaicus have arrived, because they have supplied what was lacking from you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.18",
+      "edition_verse_id": "BSB:1CO.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For they refreshed my spirit and yours as well. Show your appreciation, therefore, to such men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.16.19",
+      "edition_verse_id": "BSB:1CO.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The churches in the province of Asia send you greetings. Aquila and Prisca greet you warmly in the Lord, and so does the church that meets at their house.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.20",
+      "edition_verse_id": "BSB:1CO.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "All the brothers here send you greetings. Greet one another with a holy kiss.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.21",
+      "edition_verse_id": "BSB:1CO.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "This greeting is in my own hand — Paul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.22",
+      "edition_verse_id": "BSB:1CO.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "If anyone does not love the Lord, let him be under a curse. Come, O Lord!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.23",
+      "edition_verse_id": "BSB:1CO.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The grace of the Lord Jesus be with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.16.24",
+      "edition_verse_id": "BSB:1CO.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "My love be with all of you in Christ Jesus. Amen.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

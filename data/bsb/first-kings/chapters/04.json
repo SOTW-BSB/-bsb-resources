@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapter": 4,
+  "verses": [
+    {
+      "id": "1KI.4.1",
+      "edition_verse_id": "BSB:1KI.4.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So King Solomon ruled over Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.2",
+      "edition_verse_id": "BSB:1KI.4.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and these were his chief officials: Azariah son of Zadok was the priest;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.3",
+      "edition_verse_id": "BSB:1KI.4.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Elihoreph and Ahijah, the sons of Shisha, were secretaries; Jehoshaphat son of Ahilud was the recorder;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.4",
+      "edition_verse_id": "BSB:1KI.4.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Benaiah son of Jehoiada was in charge of the army; Zadok and Abiathar were priests;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.5",
+      "edition_verse_id": "BSB:1KI.4.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Azariah son of Nathan was in charge of the governors; Zabud son of Nathan was a priest and adviser to the king;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.6",
+      "edition_verse_id": "BSB:1KI.4.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Ahishar was in charge of the palace; and Adoniram son of Abda was in charge of the forced labor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.7",
+      "edition_verse_id": "BSB:1KI.4.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Solomon had twelve governors over all Israel to provide food for the king and his household. Each one would arrange provisions for one month of the year,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.8",
+      "edition_verse_id": "BSB:1KI.4.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "and these were their names: Ben-hur in the hill country of Ephraim;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.9",
+      "edition_verse_id": "BSB:1KI.4.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Ben-deker in Makaz, in Shaalbim, in Beth-shemesh, and in Elon-beth-hanan;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.10",
+      "edition_verse_id": "BSB:1KI.4.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Ben-hesed in Arubboth (Socoh and all the land of Hepher belonged to him);",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.11",
+      "edition_verse_id": "BSB:1KI.4.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Ben-abinadab in Naphath-dor (Taphath, a daughter of Solomon, was his wife);",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.12",
+      "edition_verse_id": "BSB:1KI.4.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Baana son of Ahilud in Taanach, in Megiddo, and in all of Beth-shean next to Zarethan below Jezreel, from Beth-shean to Abel-meholah and on past Jokmeam;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.13",
+      "edition_verse_id": "BSB:1KI.4.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Ben-geber in Ramoth-gilead (the villages of Jair son of Manasseh in Gilead belonged to him, as well as the region of Argob in Bashan with its sixty great cities with walls and bronze bars);",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.14",
+      "edition_verse_id": "BSB:1KI.4.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ahinadab son of Iddo in Mahanaim;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.15",
+      "edition_verse_id": "BSB:1KI.4.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Ahimaaz in Naphtali (he had married Basemath, a daughter of Solomon) ;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.16",
+      "edition_verse_id": "BSB:1KI.4.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Baana son of Hushai in Asher and in Aloth;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.17",
+      "edition_verse_id": "BSB:1KI.4.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Jehoshaphat son of Paruah in Issachar;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.18",
+      "edition_verse_id": "BSB:1KI.4.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Shimei son of Ela in Benjamin;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.19",
+      "edition_verse_id": "BSB:1KI.4.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Geber son of Uri in the land of Gilead, including the territories of Sihon king of the Amorites and of Og king of Bashan. There was also one governor in the land of Judah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.20",
+      "edition_verse_id": "BSB:1KI.4.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The people of Judah and Israel were as numerous as the sand on the seashore, and they were eating and drinking and rejoicing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.21",
+      "edition_verse_id": "BSB:1KI.4.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "And Solomon reigned over all the kingdoms from the Euphrates to the land of the Philistines, as far as the border of Egypt. These kingdoms offered tribute and served Solomon all the days of his life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.22",
+      "edition_verse_id": "BSB:1KI.4.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Solomon’s provisions for a single day were thirty cors of fine flour, sixty cors of meal,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.23",
+      "edition_verse_id": "BSB:1KI.4.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "ten fat oxen, twenty range oxen, and a hundred sheep, as well as deer, gazelles, roebucks, and fattened poultry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.24",
+      "edition_verse_id": "BSB:1KI.4.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For Solomon had dominion over everything west of the Euphrates — over all the kingdoms from Tiphsah to Gaza — and he had peace on all sides.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.25",
+      "edition_verse_id": "BSB:1KI.4.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Throughout the days of Solomon, Judah and Israel dwelt securely from Dan to Beersheba, each man under his own vine and his own fig tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.26",
+      "edition_verse_id": "BSB:1KI.4.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Solomon had 4,000 stalls for his chariot horses and 12,000 horses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.27",
+      "edition_verse_id": "BSB:1KI.4.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Each month the governors in turn provided food for King Solomon and all who came to his table. They saw to it that nothing was lacking.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.28",
+      "edition_verse_id": "BSB:1KI.4.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Each one also brought to the required place their quotas of barley and straw for the chariot horses and other horses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.29",
+      "edition_verse_id": "BSB:1KI.4.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And God gave Solomon wisdom, exceedingly deep insight, and understanding beyond measure, like the sand on the seashore.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.30",
+      "edition_verse_id": "BSB:1KI.4.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Solomon’s wisdom was greater than that of all the men of the East, greater than all the wisdom of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.31",
+      "edition_verse_id": "BSB:1KI.4.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He was wiser than all men— wiser than Ethan the Ezrahite, and wiser than Heman, Calcol, and Darda, the sons of Mahol. And his fame spread throughout the surrounding nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.32",
+      "edition_verse_id": "BSB:1KI.4.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Solomon composed three thousand proverbs, and his songs numbered a thousand and five.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.4.33",
+      "edition_verse_id": "BSB:1KI.4.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He spoke of trees, from the cedar in Lebanon to the hyssop growing in the wall, and he taught about animals, birds, reptiles, and fish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.4.34",
+      "edition_verse_id": "BSB:1KI.4.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "So men of all nations came to listen to Solomon’s wisdom, sent by all the kings of the earth, who had heard of his wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

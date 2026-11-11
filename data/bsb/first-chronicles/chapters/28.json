@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 28,
+  "verses": [
+    {
+      "id": "1CH.28.1",
+      "edition_verse_id": "BSB:1CH.28.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now David summoned all the leaders of Israel to Jerusalem: the leaders of the tribes, the leaders of the divisions in the king’s service, the commanders of thousands and of hundreds, and the officials in charge of all the property and cattle of the king and his sons, along with the court officials and mighty men— every mighty man of valor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.2",
+      "edition_verse_id": "BSB:1CH.28.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then King David rose to his feet and said, “Listen to me, my brothers and my people. It was in my heart to build a house as a resting place for the ark of the covenant of the LORD and as a footstool for our God. I had made preparations to build it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.3",
+      "edition_verse_id": "BSB:1CH.28.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "but God said to me, ‘You are not to build a house for My Name, because you are a man of war who has shed blood.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.4",
+      "edition_verse_id": "BSB:1CH.28.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Yet the LORD, the God of Israel, chose me out of all my father’s house to be king over Israel forever. For He chose Judah as leader, and from the house of Judah He chose my father’s household, and from my father’s sons He was pleased to make me king over all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.5",
+      "edition_verse_id": "BSB:1CH.28.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And of all my sons— for the LORD has given me many sons— He has chosen Solomon my son to sit on the throne of the kingdom of the LORD over Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.6",
+      "edition_verse_id": "BSB:1CH.28.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And He said to me, ‘Solomon your son is the one who will build My house and My courts, for I have chosen him as My son, and I will be his Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.7",
+      "edition_verse_id": "BSB:1CH.28.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I will establish his kingdom forever, if he resolutely carries out My commandments and ordinances, as is being done this day.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.8",
+      "edition_verse_id": "BSB:1CH.28.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So now in the sight of all Israel, the assembly of the LORD, and in the hearing of our God, keep and seek out all the commandments of the LORD your God, so that you may possess this good land and leave it as an inheritance to your descendants forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.9",
+      "edition_verse_id": "BSB:1CH.28.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As for you, Solomon my son, know the God of your father and serve Him wholeheartedly and with a willing mind, for the LORD searches every heart and understands the intent of every thought. If you seek Him, He will be found by you; but if you forsake Him, He will reject you forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.10",
+      "edition_verse_id": "BSB:1CH.28.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Consider now that the LORD has chosen you to build a house for the sanctuary. Be strong and do it.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.11",
+      "edition_verse_id": "BSB:1CH.28.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then David gave his son Solomon the plans for the portico of the temple, its buildings, storehouses, upper rooms, inner rooms, and the room for the mercy seat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.12",
+      "edition_verse_id": "BSB:1CH.28.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The plans contained everything David had in mind for the courts of the house of the LORD, for all the surrounding rooms, for the treasuries of the house of God and of the dedicated things,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.13",
+      "edition_verse_id": "BSB:1CH.28.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "for the divisions of the priests and Levites, for all the work of service in the house of the LORD, and for all the articles of service in the house of the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.14",
+      "edition_verse_id": "BSB:1CH.28.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "the weight of all the gold articles for every kind of service; the weight of all the silver articles for every kind of service;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.15",
+      "edition_verse_id": "BSB:1CH.28.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "the weight of the gold lampstands and their lamps, including the weight of each lampstand and its lamps; the weight of each silver lampstand and its lamps, according to the use of each lampstand;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.16",
+      "edition_verse_id": "BSB:1CH.28.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the weight of gold for each table of showbread, and of silver for the silver tables;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.17",
+      "edition_verse_id": "BSB:1CH.28.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the weight of the pure gold for the forks, sprinkling bowls, and pitchers; the weight of each gold dish; the weight of each silver bowl;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.18",
+      "edition_verse_id": "BSB:1CH.28.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the weight of the refined gold for the altar of incense; and the plans for the chariot of the gold cherubim that spread their wings and overshadowed the ark of the covenant of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.28.19",
+      "edition_verse_id": "BSB:1CH.28.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "“All this,” said David, “all the details of this plan, the LORD has made clear to me in writing by His hand upon me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.20",
+      "edition_verse_id": "BSB:1CH.28.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "David also said to Solomon his son, “Be strong and courageous, and do it. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will neither fail you nor forsake you before all the work for the service of the house of the LORD is finished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.28.21",
+      "edition_verse_id": "BSB:1CH.28.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The divisions of the priests and Levites are ready for all the service of the house of God, and every willing man of every skill will be at your disposal for the work. The officials and all the people are fully at your command.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

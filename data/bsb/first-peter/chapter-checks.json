@@ -1,0 +1,38 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1PE",
+  "chapter_count": 5,
+  "verse_count": 105,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 25,
+      "omitted_from_main_text": [],
+      "sha256": "fa112a2637bcdb8edf7a8f5068096e39287c3d0aed67605e676414a3043c9dd5"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 25,
+      "omitted_from_main_text": [],
+      "sha256": "916babe4334663d5c75b22dcbca0a3df888250b027d55cb4dbd1ad664395bfae"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 22,
+      "omitted_from_main_text": [],
+      "sha256": "939f707a34827020b05a8457c1fc46d41993d2d032145e0bc81e3a24a11721c0"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 19,
+      "omitted_from_main_text": [],
+      "sha256": "0bc3fd50aef0311f4b7ba9aeda9a4debf10065dc97b1171de4955ffa289f3a6e"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "omitted_from_main_text": [],
+      "sha256": "8a6382ce19b4c7203cef1573393d3953980cdd6e248d7ebf97fecb832b0c99fc"
+    }
+  ]
+}

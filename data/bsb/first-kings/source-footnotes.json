@@ -1,0 +1,887 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapters": {
+    "1": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 1:9 \\ft Or \\fqa the Serpent’s Stone\\f*",
+          "raw_sha256": "8997e5ec1df3fd14acc2bc49fa80d17f3ec20a5e6930fe9f31a10afe500ad9a0"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 1:25 \\ft Hebrew; LXX \\fqa Joab the commander\\f*",
+          "raw_sha256": "199f01e763f3389e737aa635704dfe10327e4747964bbbba698d82df99a00efb"
+        }
+      ],
+      "48": [
+        {
+          "source_usfm": "\\f + \\fr 1:48 \\ft LXX \\fqa one of my offspring\\f*",
+          "raw_sha256": "eca5ee3800bdaefa072c556924abddf9dec1dd9236bee0c843e2e22e0f9eb101"
+        }
+      ]
+    },
+    "2": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 2:5 \\fqa Jether \\ft is a variant of \\fqa Ithra\\ft ; also in verse 32; see \\ref 2 Samuel 17:25|2SA 17:25\\ref*.\\f*",
+          "raw_sha256": "fee9281bf6a3b66305dfb70d870839b0d6641370d62c36b944c872244a2879fb"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:5 \\ft Hebrew; LXX \\fqa He stained with innocent blood the belt around my waist and the sandals on my feet.\\f*",
+          "raw_sha256": "422f288e58e2643288e7ecee30346d2c8b7fa5839f1b3d0e57681d377be25ce1"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 2:7 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "36d0143879b8fe57bece25e9f2f9dd3276b689e27d7e4502d40be4398b885226"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 2:39 \\fqa Maacah \\ft is a variant of \\fqa Maoch\\ft ; see \\ref 1 Samuel 27:2|1SA 27:2\\ref*.\\f*",
+          "raw_sha256": "91c4ecb97b8639171c865447c6f3cc5599772a19ae96cf1646609d709c9ca711"
+        }
+      ]
+    },
+    "3": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 3:10 \\ft Hebrew \\fqa Adonai\\ft ; also in verse 15\\f*",
+          "raw_sha256": "9f76686de7f4a6c5fbca4e17e569d5169b8f532da12850146c1da2ae57d0a768"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\fqa Shisha \\ft is also called \\fqa Seraiah\\ft , \\fqa Sheva\\ft , and \\fqa Shavsha\\ft ; see \\ref 2 Samuel 8:17|2SA 8:17\\ref*, 2 Samuel 20:25, and 1 Chronicles 18:16.\\f*",
+          "raw_sha256": "475ac38ceb7db5a1492234d65e5b22891030187a91e469bc07eee71d5f305413"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\fqa Adoniram \\ft is a variant of \\fqa Adoram \\ft and \\fqa Hadoram\\ft ; see \\ref 2 Samuel 20:24|2SA 20:24\\ref* and 2 Chronicles 10:18.\\f*",
+          "raw_sha256": "4e8e2cd1bddb32e988f08d8ebc9bb5fc7cd2b32579c09b3c2100475a007c2824"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 4:11 \\ft Or \\fqa in all the heights of Dor\\ft ; \\fqa Naphath-dor \\ft is a variant of \\fqa Naphoth-dor\\ft ; see \\ref Joshua 11:2|JOS 11:2\\ref*.\\f*",
+          "raw_sha256": "d4d1c7d5e6c686d9409d72097ddd716f9cda727d683cd707f3240b62032290e5"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 4:19 \\ft Some LXX manuscripts; Hebrew \\fqa And he was the one governor in the land.\\f*",
+          "raw_sha256": "e50fdd5e0d6b9b05ec5a8ea0f888029b32b72268944a87bdc1386196420cf615"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 4:21 \\ft Hebrew \\fqa the River\\ft ; also in verse 24\\f*",
+          "raw_sha256": "b85645928272325aca74db83b32c6258ada80fd4a639a6b99c49d2c6fe1efcb6"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 4:22 \\fqa 30 cors \\ft is approximately 187 bushels or 6,600 liters (probably about 5.5 tons or 5 metric tons of flour).\\f*",
+          "raw_sha256": "e21e7c51921b93af9aae5abc35fc5a7afdf1771b5784878b05b6c80c0c333188"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:22 \\fqa 60 cors \\ft is approximately 375 bushels or 13,200 liters (probably about 11 tons or 10 metric tons of meal).\\f*",
+          "raw_sha256": "1ea22c8b71e3d6e6f1f2366e6424140ba681f54b9973e9432514cd886d1621b6"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 4:24 \\ft Or \\fqa beyond the River\\f*",
+          "raw_sha256": "6804c155e3119b05a3b782a4d85600e9842ebc187c6d948befcff71a15fcd011"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 4:26 \\ft Some LXX manuscripts (see also \\ref 2 Chronicles 9:25|2CH 9:25\\ref*); Hebrew \\fqa 40,000 \\ft \\f*",
+          "raw_sha256": "41725d69bd1f05df56c91aa20e2e0fb9f7a3128fec65893587496417703abe5b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 4:26 \\ft Or \\fqa horsemen \\ft or \\fqa charioteers\\f*",
+          "raw_sha256": "5253607c45d8d467a9853e9781d12baea8f4a9a90d59b95164a53bcc0945c2f8"
+        }
+      ]
+    },
+    "5": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 5:8 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\ft ; also in verse 10\\f*",
+          "raw_sha256": "07a60995cd63e98fc8c33c55c0d7ea47feb2db24cfe4fe16b627939f14f2ffe9"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 5:9 \\ft That is, the Mediterranean Sea, also called the Great Sea\\f*",
+          "raw_sha256": "aef539bce5f15f5827d664f9daf85c31642494c39f3a64952f5a404530f1e70a"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 5:11 \\fqa 20,000 cors \\ft is approximately 124,800 bushels or 4.4 million liters (probably about 3,800 tons or 3,400 metric tons of wheat).\\f*",
+          "raw_sha256": "1059ff5239c692dd33ff2f5b935874d1709395acaa4c05f9d5be4b57c59b1cd1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:11 \\ft LXX (see also \\ref 2 Chronicles 2:10|2CH 2:10\\ref*); \\fqa 20,000 baths \\ft is approximately 116,000 gallons or 440,000 liters of olive oil; Hebrew \\fqa twenty cors of pure oil \\ft or \\fqa twenty cors of pressed oil\\f*",
+          "raw_sha256": "a9962318e0e3e59577fde18e41d7073b7501602d91942843ba8d654c90a523ec"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 5:12 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft .\\f*",
+          "raw_sha256": "96b5dd14ec4f51ee2ef3d6807a530797d06ed8a3aab52b58f32f5bb28b09bbb1"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 5:16 \\ft Hebrew; some LXX manuscripts \\fqa 3,600\\ft ; see \\ref 2 Chronicles 2:18|2CH 2:18\\ref*.\\f*",
+          "raw_sha256": "60a59635ad73a4e49161550b41c69244c92526dab11f5803409d42614d94d48d"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\ft Hebrew; LXX \\fqa four hundred and fortieth\\f*",
+          "raw_sha256": "530936e93e2b8a537870605be289748010dd65fd233bf2ade874184868eda1f1"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:1 \\fqa Ziv \\ft was the second month of the ancient Hebrew lunar calendar, usually occurring within the months of April and May; also in verse 37.\\f*",
+          "raw_sha256": "568b404f6053d32a852ffa87d983cf57c27307620b85dd127b76552419bffc2b"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 6:2 \\ft The house was approximately 90 feet long, 30 feet wide, and 45 feet high (27.4 meters long, 9.1 meters wide, and 13.7 meters high).\\f*",
+          "raw_sha256": "36968efab26142471a005085900398bb08fbcd429f0f5eb159cb40f97656bef6"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 6:3 \\fqa 20 cubits \\ft is approximately 30 feet or 9.1 meters; also in verses 16 and 20.\\f*",
+          "raw_sha256": "f412eaa656aa93bb0a6cc8298a8411b219ad8a2a21b9850cb50d358865d2d576"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:3 \\fqa 10 cubits \\ft is approximately 15 feet or 4.6 meters; also in verses 23–26.\\f*",
+          "raw_sha256": "748ea3370243a9cb93e8200399fb4c2750f3893bea9a50b5d129871b0f2f57f5"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\fqa 5 cubits \\ft is approximately 7.5 feet or 2.3 meters; also in verses 10 and 24.\\f*",
+          "raw_sha256": "b37092bd90b7727808e3915936480ddbfb47a181e187d3773e2fde23bd356d4e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\fqa 6 cubits \\ft is approximately 9 feet or 2.7 meters.\\f*",
+          "raw_sha256": "82a50e817fd715c1eb1a70c83a01bdb9853c412355ed9d5f5c4c081d1e8fe119"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\fqa 7 cubits \\ft is approximately 10.5 feet or 3.2 meters.\\f*",
+          "raw_sha256": "50eaf11eda0db8f75043fa87e96066743012c2c32e577b709892ee72b54f0e4f"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 6:8 \\ft LXX and Targum; Hebrew \\fqa middle\\f*",
+          "raw_sha256": "74b7daac040515a2c28a89a60e8b7dad7404acc917df9c201e6ffb273eff3f11"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 6:15 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\ft ; also in verse 34\\f*",
+          "raw_sha256": "b1f8fa4fef56f22a0257e3df7beab80fed94e0415c114aa91cad4669fac82f61"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 6:16 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "073407fe79a59602dc19ccebbde4689309598d52985f03d1243a3ab421566cde"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 6:17 \\fqa 40 cubits \\ft is approximately 60 feet or 18.3 meters.\\f*",
+          "raw_sha256": "449267d4350098b6a9d1445034120f1265f418836d3d7133940a9200a5b2ea1d"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 6:20 \\ft Or \\fqa with cedar\\f*",
+          "raw_sha256": "37382a6154a5973fd9a7a315581e85ab6c91c1ee871f296de30c43b2ce4a76cc"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 6:21 \\ft Or \\fqa made gold chains to draw (the curtains)\\f*",
+          "raw_sha256": "c767821b667018ea690b08fbe6302a44df5b493856ca88670bef39e1c2a233a7"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 6:38 \\fqa Bul \\ft was the eighth month of the ancient Hebrew lunar calendar, usually occurring within the months of October and November.\\f*",
+          "raw_sha256": "3d5a63ab41446ba5c9687b006f64300dbab9fa1ad355f833e68e88142fe6fcaf"
+        }
+      ]
+    },
+    "7": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 7:2 \\ft The house was approximately 150 feet long, 75 feet wide, and 45 feet high (45.7 meters long, 22.9 meters wide, and 13.7 meters high).\\f*",
+          "raw_sha256": "9b9bceddf18578d19209dd6700d61b23bc14b5fc4f73e633d44a11cec6ca17b9"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 7:5 \\ft Literally \\fqa doorways and doorposts\\f*",
+          "raw_sha256": "5fdaa542a7550a1b8f017cf6550fe96ab4c18eeee770e88e0fff1771c95cdb5b"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 7:6 \\ft The colonnade was approximately 75 feet long and 45 feet wide (22.9 meters long and 13.7 meters wide).\\f*",
+          "raw_sha256": "77f07f6c6ddb1fce21d69123cd29077774c70563459a90a93d2a14b1715381a5"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 7:7 \\ft Syriac and Vulgate; Hebrew \\fqa from floor to floor\\f*",
+          "raw_sha256": "1cc182fbd0379d6b2ed6a177fa24180eef5f5666b07bbab73765bfd34b0efe9a"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 7:10 \\fqa 10 cubits \\ft is approximately 15 feet or 4.6 meters.\\f*",
+          "raw_sha256": "a3523c4c03eecfd78a4887544a40ce1ca954fbd72e35f1582b037d993a4df6f4"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:10 \\fqa 8 cubits \\ft is approximately 12 feet or 3.7 meters.\\f*",
+          "raw_sha256": "49d948ceb490e12676cc49543f205fa21d723ab7d8138f7769a6bc9f6c7df65a"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 7:13 \\ft Hebrew \\fqa Hiram\\ft , a variant of \\fqa Huram\\ft ; also in verses 40 and 45; see \\ref 2 Chronicles 4:11|2CH 4:11\\ref*. Note that this is not Hiram king of Tyre mentioned in 1 Kings 5:1.\\f*",
+          "raw_sha256": "92fe6326dd1f1bb09e5840da98cf5632c40a9b728caa2a7ecf14ac79e8e8ca7c"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 7:15 \\ft Each pillar was approximately 27 feet high and 18 feet in circumference (8.2 meters high and 5.5 meters in circumference).\\f*",
+          "raw_sha256": "26ef078a1ab886fdd81afe75edd5b7fc02d509a36ac10954dd93e12c895fe745"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 7:16 \\fqa 5 cubits \\ft is approximately 7.5 feet or 2.3 meters.\\f*",
+          "raw_sha256": "ab11373e79358caa9999968e0db2ed0d00c015f0085fe0ce87fbff7cab198a82"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 7:17 \\ft Hebrew; LXX \\fqa one for each capital\\f*",
+          "raw_sha256": "5a340f1d12bf2600fb6bde75819fd33d5b71f9c92a35ce96651c1bfa9d05c705"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 7:19 \\fqa 4 cubits \\ft is approximately 6 feet or 1.8 meters; also in verse 38.\\f*",
+          "raw_sha256": "c275196781defda9dcaa1226f9264e34d74eb445f9dbf8c606ea24aea938a947"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 7:21 \\fqa Jachin \\ft probably means \\fqa He establishes\\ft .\\f*",
+          "raw_sha256": "8cc35edb80a500b62fcccdce1ee9d9a12aff44ce9e9ed91e452de20976ff4138"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:21 \\fqa Boaz \\ft probably means \\fqa in Him is strength\\ft .\\f*",
+          "raw_sha256": "ab77a0fc199e369b9a6f9bb90b66b180abf4f71ab3bdaec573b70a0c0c23119d"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 7:23 \\ft The Sea was approximately 15 feet from rim to rim, 7.5 feet in height, and 45 feet in circumference (4.6 meters from rim to rim, 2.3 meters in height, and 13.7 meters in circumference).\\f*",
+          "raw_sha256": "c5419388304b779fb209cb77f8e881fb91fde18e380d795af2b2446cfb907629"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 7:26 \\fqa A handbreadth \\ft is approximately 2.9 inches or 7.4 centimeters.\\f*",
+          "raw_sha256": "5a9a8dcf661d20f36a37321a4ac110175766bbb5d04ddfe79b1d50e6d154d284"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:26 \\fqa 2,000 baths \\ft is approximately 11,600 gallons or 44,000 liters; LXX does not include this sentence.\\f*",
+          "raw_sha256": "2fc25628f3287f4ba3dc0b1fb19e9515ea2764a1d28f06e5a525b5c043309463"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 7:27 \\ft The stands were approximately 6 feet in length and width, and 4.5 feet high (1.8 meters in length and width, and 1.4 meters high).\\f*",
+          "raw_sha256": "479ee78f88f8115289de3421f804808abc51885a4158d7d65e7699fc8a3a1d3e"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 7:31 \\fqa One cubit \\ft is approximately 18 inches or 45.7 centimeters.\\f*",
+          "raw_sha256": "10c639d98e546564893815cdb8f7bc50cdd186e753ec95c65974afc7ff368702"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:31 \\fqa A cubit and a half \\ft is approximately 2.25 feet or 68.6 centimeters wide; similarly in verse 32.\\f*",
+          "raw_sha256": "d7cf4ae3712411d020d8b744a5cd783f95b56db8c5ea1761226ac575a947412b"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 7:35 \\fqa Half a cubit \\ft is approximately 9 inches or 22.9 centimeters high.\\f*",
+          "raw_sha256": "aedfe8533d6a961b5763833ecbebcbd56c21077f503e455ea692edf45cc0d69e"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 7:38 \\fqa 40 baths \\ft is approximately 232 gallons or 880 liters.\\f*",
+          "raw_sha256": "34622e010e209fec665cc048544098d940e6e9ff6311e35ded28c994a48b26c8"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 7:40 \\ft Many Hebrew manuscripts, LXX, Syriac, and Vulgate (see also verse 45 and \\ref 2 Chronicles 4:11|2CH 4:11\\ref*); many other Hebrew manuscripts \\fqa basins\\f*",
+          "raw_sha256": "c015d1b045802d907d883af2d870e84fcbdd2b5b64329671ed45b8a31d1a1945"
+        }
+      ],
+      "46": [
+        {
+          "source_usfm": "\\f + \\fr 7:46 \\fqa Zarethan \\ft is a variant of \\fqa Zeredah\\ft ; see \\ref 2 Chronicles 4:17|2CH 4:17\\ref*.\\f*",
+          "raw_sha256": "1ba3d4d0bf357c5735f7e29b0010d6843d10414cbd10305bd16f7a78571f4fd4"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 7:50 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "0a4cd865eaecaa8f74cc9f75d864d8023f27658b6826f01aaa25d8eff0d9f3d8"
+        }
+      ]
+    },
+    "8": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 8:2 \\ft That is, the Feast of Tabernacles (or Booths or Shelters); similarly in verse 65; see \\ref Leviticus 23:33–36|LEV 23:33-36\\ref*.\\f*",
+          "raw_sha256": "b4060a9914ff434634f899309958ce59af8fe695b7d5395ee6c1d2e3a7a24762"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:2 \\fqa Ethanim \\ft was the seventh month of the ancient Hebrew lunar calendar, usually occurring within the months of September and October.\\f*",
+          "raw_sha256": "5bb3d379c326ab075e734d1e6bb50570c386528db4712056334ed679ef232b5f"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 8:6 \\ft Or \\fqa the Holy of Holies\\f*",
+          "raw_sha256": "c77cf10a5b28fb298ea6462c3ccf3116af6a4efdf52297fdb82e73bab4e2346e"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 8:8 \\ft Literally \\fqa not from outside\\f*",
+          "raw_sha256": "c6e5785c11091c4723242201b7bdf98c3699057031485c2412b7a15e29493081"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 8:9 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "64ebd85a837de51f675df9de5edbf4f50148dd9df3fd6dc9df6a5db8e947dc6c"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 8:12 \\ft Some LXX manuscripts \\fqa The Lord has set the sun in the heavens, but\\f*",
+          "raw_sha256": "0f92f161bcc22be08e824f0556856ea41381b2732a459f8a701912439db63104"
+        }
+      ],
+      "66": [
+        {
+          "source_usfm": "\\f + \\fr 8:66 \\ft Hebrew \\fqa On the eighth day\\ft , probably referring to the day following the seven-day feast; see \\ref 2 Chronicles 7:9–10|2CH 7:9-10\\ref*.\\f*",
+          "raw_sha256": "81005de7910f0992ddcf62e77bd4c0bfc0f21f3ab34bd0c446179c57ded9f9ff"
+        }
+      ]
+    },
+    "9": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 9:8 \\ft Some LXX manuscripts, Syriac, and Arabic; Hebrew \\fqa And though this temple is now exalted\\ft ; see also \\ref 2 Chronicles 7:21|2CH 7:21\\ref*.\\f*",
+          "raw_sha256": "0e11b2632c97e72a77148ab6d9a10a432366f61b04f45f9544a513b0b992c15c"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 9:11 \\ft Or \\fqa pine \\ft or \\fqa juniper \\ft or \\fqa fir\\f*",
+          "raw_sha256": "04646fdb2083fe727191dff86e42a7a4d3dddef59cea393d9b5a38dfc74a7c72"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 9:13 \\fqa Cabul \\ft sounds like the Hebrew for \\fqa good-for-nothing\\ft .\\f*",
+          "raw_sha256": "6ae72faf89c92495f928c69c83c38c7efd3c8f0fd9de32ae019402a713c2027c"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 9:14 \\fqa 120 talents \\ft is approximately 4.52 tons or 4.1 metric tons of gold.\\f*",
+          "raw_sha256": "f2f64f1a3b8f862767787fc78982e8410fc074af86fa716d4ad08538177e0779"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 9:15 \\ft Hebrew \\fqa the Millo\\ft ; also in verse 24\\f*",
+          "raw_sha256": "1f61e1a57337f85e73ab1bfa02e26e1d01cbf6e096654038dd8d4736ea517ee4"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 9:18 \\ft Alternate MT reading; the other alternate reads \\fqa Tadmor\\f*",
+          "raw_sha256": "86603033298d4edb233e9e074977809a82c2ebfe82e0d9ea01151332c3ec9082"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:18 \\ft Hebrew \\fqa in the wilderness in the land\\f*",
+          "raw_sha256": "590e1ec8d2216adc74ac598556ba730a89045863353edf5299c7a7b6e13d982a"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 9:19 \\ft Or \\fqa horsemen \\ft or \\fqa charioteers\\f*",
+          "raw_sha256": "f644addbadb64d07ee92e0595f36dc8657d2ee263b3c374332063bdcb574a189"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 9:21 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "86fca0f4744e9ea76ac4150d8e4d894467b52bf5c31fc0d41a85a6514abb8d30"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 9:26 \\fqa Eloth \\ft is a variant of \\fqa Elath\\ft ; see LXX, \\ref 2 Kings 14:22|2KI 14:22\\ref*, and 2 Kings 16:6.\\f*",
+          "raw_sha256": "680666846151d87ed8a4b1a22dce2cb74a047b439d15b77ede6146af2990797e"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:26 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "18ca203b6160afec36b38985d3b1ff9651fe7b15d6a5ee247747778f596defc5"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 9:28 \\fqa 420 talents \\ft is approximately 15.8 tons or 14.4 metric tons of gold.\\f*",
+          "raw_sha256": "0ea8d23a8bca0e1e4754f7c2515b7d091816ae619abed637ff9d0bdeb5ae63d1"
+        }
+      ]
+    },
+    "10": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 10:8 \\ft LXX, Syriac, and Vulgate \\fqa your wives\\f*",
+          "raw_sha256": "e40a7c58d24bd1310bb8b0026238f35a3f26b8ac29386e850895098e954fd80f"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 10:10 \\fqa 120 talents \\ft is approximately 4.52 tons or 4.1 metric tons of gold.\\f*",
+          "raw_sha256": "57652f560c5884dd8dad47b06e292c1989c6b34c71442630f013626a7c474786"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 10:11 \\fqa Almug \\ft is probably a variant of \\fqa algum\\ft ; also in verse 12; see \\ref 2 Chronicles 2:8|2CH 2:8\\ref*.\\f*",
+          "raw_sha256": "a483da90bf168e77c81c51b58a3eb888d16718623c9324ff594303bb6b72f1fe"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 10:14 \\fqa 666 talents \\ft is approximately 25.1 tons or 22.8 metric tons of gold.\\f*",
+          "raw_sha256": "c7008256b90e3c65fd9c4bc34049af2e5468852cfb59c62ea79512d9c09a00f7"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 10:16 \\fqa 600 shekels \\ft is approximately 15.1 pounds or 6.8 kilograms of gold.\\f*",
+          "raw_sha256": "40cf10eea0b216dbd92ae448354de8d8391b8b038d559d95c69338f35c28b157"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 10:17 \\fqa 3 minas \\ft is approximately 3.77 pounds or 1.71 kilograms of gold; possibly a reference to double minas, that is, approximately 7.54 pounds or 3.42 kilograms.\\f*",
+          "raw_sha256": "0792673e0d290bc32b281bfbfe90fde95d21a42b0165bbedf3afc897dafd594a"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 10:22 \\ft Or \\fqa a fleet of trading ships\\ft ; twice in this verse\\f*",
+          "raw_sha256": "318b8aada3a816e604f4b8be73776f625a6ecb7c9b955321cb12a07191cded25"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:22 \\ft Or \\fqa baboons\\f*",
+          "raw_sha256": "6ebb2263a6c44601c50e2b13f953b6e1b55e6c3c6a2175df0e45f5e2abab6795"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 10:26 \\ft Literally \\fqa Solomon accumulated chariots and horses; he had\\f*",
+          "raw_sha256": "864b7084c32ddb1fd1d2cad3e3db7646a52902703ab9910db00565be66e5048c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:26 \\ft Or \\fqa horsemen \\ft or \\fqa charioteers\\f*",
+          "raw_sha256": "67daa84683817911dd85bb5bb73033fa8296397dc353d4cbfd2f50967c4b074a"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 10:27 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "dd4fd08bcbeac06df3010b43998e9fd17788c5691b76a91a65c164ffac8ba8e5"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 10:28 \\ft Probably an area in Cilicia, a province in the southeast of Asia Minor\\f*",
+          "raw_sha256": "af6db1b461fd47a05d652abd0fb3f9583539df4298f450c373f2d85dc9c79a22"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 10:29 \\fqa 600 shekels \\ft is approximately 15.1 pounds or 6.8 kilograms of silver.\\f*",
+          "raw_sha256": "cb55125fbbbe00fd9a68c114c346a18045a452d7202630a7ac6ea449126b8ef8"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:29 \\fqa 150 shekels \\ft is approximately 3.8 pounds or 1.7 kilograms of silver.\\f*",
+          "raw_sha256": "f4a80e8808444e944baebae52e1e3b08e7f416b3ea8217e1d160859015946748"
+        }
+      ]
+    },
+    "11": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 11:5 \\fqa Milcom \\ft is a variant of \\fqa Molech\\ft ; also in verse 33; see verse 7 and \\ref Leviticus 18:21|LEV 18:21\\ref*.\\f*",
+          "raw_sha256": "8c1f38ad7c6cbec357d6b43825759d496569a3890a0638064e98e9a871ba20f5"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 11:27 \\ft Hebrew \\fqa the Millo\\f*",
+          "raw_sha256": "6e281f91b2c4540dee0254bea2aa61418ffe1c0d3497924b0897d9f611609c65"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 11:33 \\ft Hebrew; LXX, Syriac, and Vulgate \\fqa he has\\ft ; twice in this verse\\f*",
+          "raw_sha256": "cb2fe8947cc753a261801d8e4a0fb7ff10a9dede1445f4e62164c67b877a24e5"
+        }
+      ]
+    },
+    "12": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 12:2 \\ft Or \\fqa he remained\\f*",
+          "raw_sha256": "9ddef399d78328aefe7f0ffdf0d87381dbddeac9e884d171bc8ed1c1c671dd31"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 12:18 \\ft Hebrew; some LXX manuscripts and Syriac \\fqa Adoniram\\ft ; see \\ref 1 Kings 4:6|1KI 4:6\\ref* and 1 Kings 5:14.\\f*",
+          "raw_sha256": "61042268c65672eca1a7ae1dbfd60dd5b3a9e59dc213b5d6d80de9f55b8c27a5"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 12:25 \\fqa Penuel \\ft is a variant of \\fqa Peniel\\ft ; see \\ref Genesis 32:30|GEN 32:30\\ref*.\\f*",
+          "raw_sha256": "7ea2f922a1a37fbd4f99e55aaccabb1d50dab077c60c9c612dab18465baca164"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 12:28 \\ft Hebrew \\fqa to them\\f*",
+          "raw_sha256": "3498d09becb211ef747869be702b3459c63199ed12827d387f50fd4befb77a4b"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 12:30 \\ft Likely reading of the original Hebrew text; MT \\fqa the people walked to the one as far as Dan\\ft ; LXX \\fqa the people went to the one at Bethel and to the other as far as Dan\\f*",
+          "raw_sha256": "09a0da5830e38e2e6089855fb00099313ce2b30d32915c15c171bac469fe021e"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 12:32 \\ft This feast was exactly one month after the annual Feast of Tabernacles in Judah; see \\ref Leviticus 23:34|LEV 23:34\\ref*.\\f*",
+          "raw_sha256": "c557030b6f1c927bc931f2e3abcbad3127937369e1b6459a2aa5d7daa174d98b"
+        }
+      ]
+    },
+    "13": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 13:2 \\ft See \\ref 2 Kings 23:16|2KI 23:16\\ref*.\\f*",
+          "raw_sha256": "22d7f40f444a49119ce611091f5c1d1046ac67d328e509051724f5a06c24f5d2"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 13:11 \\ft LXX, Syriac, and Vulgate; Hebrew \\fqa son\\f*",
+          "raw_sha256": "a062c7d3444d57b4aae39b39e289e534a15a1915e1e99460f48225aedca0b04c"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 13:12 \\ft LXX; Hebrew \\fqa had seen\\f*",
+          "raw_sha256": "28ddefc565e208fcc9cb048adf8985a2e924334252253c79eae7178442759781"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 13:14 \\ft Or \\fqa a terebinth \\ft or \\fqa a great tree\\f*",
+          "raw_sha256": "7735b2af855cec3a12f4bbdeb723398f1ab73c5f22f2a4caf006c403dee4d9a7"
+        }
+      ]
+    },
+    "14": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 14:10 \\ft Literally \\fqa (all) those who urinate against a wall\\f*",
+          "raw_sha256": "96c456bfa7bd96f4c02caba77e0267fa316c6e671d92abef2e8c86c5e577f7c7"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 14:13 \\ft Literally \\fqa who will come to the grave\\f*",
+          "raw_sha256": "529f49189b03be84371c3bf11baa77c3cfb13a690c0f662cee0228a887d3ee43"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 14:15 \\ft Hebrew \\fqa the River\\f*",
+          "raw_sha256": "225f7d65296b11726eea8f37613ba84675fc995d8baa5474bdc5774f7771bf8a"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 14:31 \\fqa Abijam \\ft is a variant of \\fqa Abijah\\ft ; some Hebrew manuscripts and LXX \\fqa Abijah\\ft ; see \\ref 2 Chronicles 12:16|2CH 12:16\\ref*.\\f*",
+          "raw_sha256": "42ce7ea7ee2673220fbf34bea19126f71ac404b8301051903a646de8b722736e"
+        }
+      ]
+    },
+    "15": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 15:1 \\fqa Abijam \\ft is a variant of \\fqa Abijah\\ft ; some Hebrew manuscripts and LXX \\fqa Abijah\\ft ; also in verses 3, 6, 7, and 8; see \\ref 2 Chronicles 12:16|2CH 12:16\\ref*.\\f*",
+          "raw_sha256": "6fae4026f74234065d8a40423d383d26ec7b7ee21cb047e99a304ac61431bd99"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 15:2 \\fqa Abishalom \\ft is a variant of \\fqa Absalom\\ft ; also in verse 10; see \\ref 2 Chronicles 11:20|2CH 11:20\\ref*.\\f*",
+          "raw_sha256": "9ce5ca8ebd21cc196c964beed39f3a172709d5dca1459f73080b85894a3ce1a4"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 15:6 \\ft Literally \\fqa war between Rehoboam \\ft (most Hebrew manuscripts); some Hebrew manuscripts and Syriac \\fqa war between Abijam \\ft (that is, Abijah); most LXX texts do not contain this verse.\\f*",
+          "raw_sha256": "fc40a6157dd6f6b0fe812211ff9f874e63c7fac54efc837fa05746a7e73e73bf"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:6 \\ft Literally \\fqa of his life\\f*",
+          "raw_sha256": "0aae7ef9ef93d2fce329ea4503c3d794fc3b8042f0062a2017d4b266b604a8d9"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 15:10 \\ft Or \\fqa The queen mother’s\\ft ; Hebrew \\fqa His mother’s\\ft ; see verses 2 and 13.\\f*",
+          "raw_sha256": "c436d04af8d0b72b3ec53ac3029c24e3f3649e9ceb834ad9f2c18d14a95b3e9a"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 15:19 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft ; twice in this verse.\\f*",
+          "raw_sha256": "2f4bae2090ea742a25d83406fb8d2135387597acf6c09324d93fbd8dcd98ce7e"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 15:22 \\ft Or \\fqa Then King Asa made a proclamation throughout all Judah\\f*",
+          "raw_sha256": "b769a972e9398c45774b9270e13287d41de2a60159cba6e2d7ddd5a34594adb3"
+        }
+      ]
+    },
+    "16": {
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 16:24 \\fqa 2 talents \\ft is approximately 151 pounds or 68.4 kilograms of silver.\\f*",
+          "raw_sha256": "01421b1181a4c5014118fd313ef5db1f13f1984300b082f434cbb9078e6f4465"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 16:34 \\ft See \\ref Joshua 6:26|JOS 6:26\\ref*.\\f*",
+          "raw_sha256": "342ebcc1978f5524b6e9628550593cc567bfdd18e0c23b2162cf1ee628df9d2a"
+        }
+      ]
+    },
+    "17": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 17:1 \\ft Or \\fqa who was from Tishbe in Gilead\\f*",
+          "raw_sha256": "324bee597038089894a06e0a791c16e533c24624954dda206c723aeefd5781a5"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 17:3 \\ft Or \\fqa the Cherith Ravine, near the Jordan\\ft ; also in verse 5\\f*",
+          "raw_sha256": "8e3400702047c4c3419691749a12b7296c5c7080af80618e460bb7530314a067"
+        }
+      ]
+    },
+    "18": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 18:1 \\ft Literally \\fqa And the days were many, and in the third year,\\f*",
+          "raw_sha256": "6e31d50377768e3fd517ae6af0164250d5f6aa94ec6deac6db101c54cd2d8f88"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 18:32 \\fqa 2 seahs \\ft is approximately 13.2 dry quarts or 14.6 liters (probably about 25.4 pounds or 11.5 kilograms of seed).\\f*",
+          "raw_sha256": "cb045aff112ac0873dab169cafc2ec1ad1ba146ccd48b9e19c17734c4c1c79e9"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 18:34 \\ft Some texts continue verse 33 to this point.\\f*",
+          "raw_sha256": "1631abc76f28258fcd1b81affe543f4ed9f7c84576dd0a9f6e7bc327abae3f27"
+        }
+      ],
+      "46": [
+        {
+          "source_usfm": "\\f + \\fr 18:46 \\ft Hebrew \\fqa he girded up his loins\\f*",
+          "raw_sha256": "7f29b2d2fca106b6da7d58408e1f0caab4d12278415ae16f66c90311ea8b3923"
+        }
+      ]
+    },
+    "19": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 19:8 \\ft That is, Mount Sinai, or possibly a mountain in the range containing Mount Sinai\\f*",
+          "raw_sha256": "b2cae32e8a6509546636597190fe654190c6a2fdc3b097e9896960127b19aafd"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 19:10 \\ft Cited in \\ref Romans 11:3|ROM 11:3\\ref*; here and in verse 14\\f*",
+          "raw_sha256": "ab55d42da10b767d27d07d373ce25584809d452cf52ed8c23507c279e7258d8f"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 19:16 \\ft Or \\fqa grandson\\ft ; see \\ref 2 Kings 9:14|2KI 9:14\\ref*.\\f*",
+          "raw_sha256": "3c1b1183503d576df39c03a79c5a35c1316ab4eb914da88ec0cd6cac5ce60f90"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 19:18 \\ft Cited in \\ref Romans 11:4|ROM 11:4\\ref*\\f*",
+          "raw_sha256": "7dfd2f58202b8238379e3c07d86673d7b7cda4a7c7299242f7f8e5038cccbb12"
+        }
+      ]
+    },
+    "20": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 20:3 \\ft Some texts break verse 2 and begin verse 3 at this point.\\f*",
+          "raw_sha256": "4a73d0b7b6b0b7c5cd3bfaa33724035222fc9e43a0ac80c7daebdc598dc6891d"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 20:12 \\ft Or \\fqa in Succoth\\ft ; also in verse 16\\f*",
+          "raw_sha256": "6380d820f32c98c76428f485b08fa3fc2593127a28348924f6a58d637258f625"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 20:22 \\ft Literally \\fqa at the turn of the year\\ft ; similarly in verse 26\\f*",
+          "raw_sha256": "8e0971e9bc37c3a7a25998064ae1a5b8e766086a264319e4ce0794f8517932d7"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 20:34 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft ; twice in this verse.\\f*",
+          "raw_sha256": "cc7c51f3c9d1da74fc881b1dcf1ee5a077b9400723a2fdfa41dc531219077927"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 20:39 \\fqa A talent \\ft is approximately 75.4 pounds or 34.2 kilograms of silver.\\f*",
+          "raw_sha256": "519e2cf585e55c48e9e65e04c36e2711562f7008981734df59b86389e35cdf76"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 20:42 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "22a4e09c88c91f4be53ee9e8b6d5dabfa73a549386e8b6f494adb35189bcc189"
+        }
+      ]
+    },
+    "21": {
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 21:19 \\ft See \\ref 1 Kings 22:38|1KI 22:38\\ref*\\f*",
+          "raw_sha256": "cd0d5527f36c2c45938e59d494abd7f6f7e16e0e4c4e69b8c5bee7436c05bbfe"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 21:21 \\ft See LXX; the source of the quotation is clarified in verses 17 and 23; Hebrew \\fqa Behold\\ft .\\f*",
+          "raw_sha256": "6669e9a3e3973ae2f54c4bd2029521cc99bd2a9e51ab60b2ed98532e440bdaa5"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 21:23 \\ft Most Hebrew manuscripts; a few Hebrew manuscripts, Vulgate, and Syriac (see also \\ref 2 Kings 9:36|2KI 9:36\\ref*) \\fqa ‘The dogs will devour Jezebel at the plot of ground at Jezreel.’\\f*",
+          "raw_sha256": "cbc3a0586d1b17ed76b9b19ec4d78099b5f21e49d5bb1d81a9fa39bb5d5b8e25"
+        }
+      ]
+    },
+    "22": {
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 22:21 \\ft Some texts break verse 21 and begin verse 22 at this point.\\f*",
+          "raw_sha256": "c527af68d49d5533be8a456b66ac5079ed032fe39ed8552b7caf8021435f9ddc"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 22:34 \\ft Literally \\fqa Turn your hand\\f*",
+          "raw_sha256": "68599630912691611d748780a2de75b5bd0a152d6252c3b9889f3f18b9a42357"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 22:38 \\ft Or \\fqa the pool of Samaria, where they cleaned the weapons\\f*",
+          "raw_sha256": "d2e9c89eb012146f3ebfbaa6e980c3d1f868c0359b0d30cd6f07a6103b6baf23"
+        },
+        {
+          "source_usfm": "\\f + \\fr 22:38 \\ft See \\ref 1 Kings 21:19|1KI 21:19\\ref*.\\f*",
+          "raw_sha256": "b2360c6ab6bace5972cc7454d8b107acced3c3ba21ba3a3e4931004a2e959d4e"
+        }
+      ],
+      "48": [
+        {
+          "source_usfm": "\\f + \\fr 22:48 \\ft Or \\fqa a fleet of trading ships\\f*",
+          "raw_sha256": "53ab5fbaf66cf71164b94eac0352c554240cb97bdbec4c52d5d25e8bae3ced5a"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "1CH.29.1",
+      "edition_verse_id": "BSB:1CH.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then King David said to the whole assembly, “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great because this palace is not for man, but for the LORD God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.2",
+      "edition_verse_id": "BSB:1CH.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now with all my ability I have made provision for the house of my God — gold for the gold articles, silver for the silver, bronze for the bronze, iron for the iron, and wood for the wood, as well as onyx for the settings, turquoise, stones of various colors, all kinds of precious stones, and slabs of marble — all in abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.3",
+      "edition_verse_id": "BSB:1CH.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Moreover, because of my delight in the house of my God, I now give for it my personal treasures of gold and silver, over and above all that I have provided for this holy temple:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.4",
+      "edition_verse_id": "BSB:1CH.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "three thousand talents of gold (the gold of Ophir) and seven thousand talents of refined silver, to overlay the walls of the buildings,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.5",
+      "edition_verse_id": "BSB:1CH.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "for the gold work and the silver work, and for all the work to be done by the craftsmen. Now who is willing to consecrate himself to the LORD today?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.6",
+      "edition_verse_id": "BSB:1CH.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the leaders of the families, the officers of the tribes of Israel, the commanders of thousands and of hundreds, and the officials in charge of the king’s work gave willingly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.7",
+      "edition_verse_id": "BSB:1CH.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Toward the service of God’s house they gave 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze, and 100,000 talents of iron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.8",
+      "edition_verse_id": "BSB:1CH.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Whoever had precious stones gave them to the treasury of the house of the LORD, under the care of Jehiel the Gershonite.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.9",
+      "edition_verse_id": "BSB:1CH.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the people rejoiced at the willing response of their leaders, for they had given to the LORD freely and wholeheartedly. And King David also rejoiced greatly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.10",
+      "edition_verse_id": "BSB:1CH.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then David blessed the LORD in the sight of all the assembly and said: “May You be blessed, O LORD, God of our father Israel, from everlasting to everlasting.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.11",
+      "edition_verse_id": "BSB:1CH.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Yours, O LORD, is the greatness and the power and the glory and the splendor and the majesty, for everything in heaven and on earth belongs to You. Yours, O LORD, is the kingdom, and You are exalted as head over all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.12",
+      "edition_verse_id": "BSB:1CH.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Both riches and honor come from You, and You are the ruler over all. In Your hands are power and might to exalt and give strength to all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.13",
+      "edition_verse_id": "BSB:1CH.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Now therefore, our God, we give You thanks, and we praise Your glorious name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.14",
+      "edition_verse_id": "BSB:1CH.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But who am I, and who are my people, that we should be able to give as generously as this? For everything comes from You, and from Your own hand we have given to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.15",
+      "edition_verse_id": "BSB:1CH.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For we are foreigners and strangers in Your presence, as were all our forefathers. Our days on earth are like a shadow, without hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.16",
+      "edition_verse_id": "BSB:1CH.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "O LORD our God, from Your hand comes all this abundance that we have provided to build You a house for Your holy Name, and all of it belongs to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.17",
+      "edition_verse_id": "BSB:1CH.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I know, my God, that You test the heart and delight in uprightness. All these things I have given willingly and with an upright heart, and now I have seen Your people who are present here giving joyfully and willingly to You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.18",
+      "edition_verse_id": "BSB:1CH.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "O LORD, God of our fathers Abraham, Isaac, and Israel, keep this desire forever in the intentions of the hearts of Your people, and direct their hearts toward You.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.19",
+      "edition_verse_id": "BSB:1CH.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And give my son Solomon a whole heart to keep and carry out all Your commandments, decrees, and statutes, and to build Your palace for which I have made provision.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.20",
+      "edition_verse_id": "BSB:1CH.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Then David said to the whole assembly, “Bless the LORD your God.” So the whole assembly blessed the LORD, the God of their fathers. They bowed down and paid homage to the LORD and to the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.21",
+      "edition_verse_id": "BSB:1CH.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The next day they offered sacrifices and presented burnt offerings to the LORD: a thousand bulls, a thousand rams, and a thousand lambs, along with their drink offerings, and other sacrifices in abundance for all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.22",
+      "edition_verse_id": "BSB:1CH.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "That day they ate and drank with great joy in the presence of the LORD. Then, for a second time, they designated David’s son Solomon as king, anointing him before the LORD as ruler, and Zadok as the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.23",
+      "edition_verse_id": "BSB:1CH.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So Solomon sat on the throne of the LORD as king in place of his father David. He prospered, and all Israel obeyed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.24",
+      "edition_verse_id": "BSB:1CH.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "All the officials and mighty men, as well as all of King David’s sons, pledged their allegiance to King Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.25",
+      "edition_verse_id": "BSB:1CH.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The LORD highly exalted Solomon in the sight of all Israel and bestowed on him royal majesty such as had not been bestowed on any king in Israel before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.26",
+      "edition_verse_id": "BSB:1CH.29.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "David son of Jesse was king over all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.27",
+      "edition_verse_id": "BSB:1CH.29.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The length of David’s reign over Israel was forty years — seven years in Hebron and thirty-three years in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.28",
+      "edition_verse_id": "BSB:1CH.29.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He died at a ripe old age, full of years, riches, and honor, and his son Solomon reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.29.29",
+      "edition_verse_id": "BSB:1CH.29.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Now the acts of King David, from first to last, are indeed written in the Chronicles of Samuel the Seer, the Chronicles of Nathan the Prophet, and the Chronicles of Gad the Seer,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.29.30",
+      "edition_verse_id": "BSB:1CH.29.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "together with all the details of his reign, his might, and the circumstances that came upon him and Israel and all the kingdoms of the lands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

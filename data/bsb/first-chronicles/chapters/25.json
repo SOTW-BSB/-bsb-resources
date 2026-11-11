@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "1CH.25.1",
+      "edition_verse_id": "BSB:1CH.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Additionally, David and the commanders of the army set apart some of the sons of Asaph, Heman, and Jeduthun to prophesy with the accompaniment of lyres, harps, and cymbals. The following is the list of the men who performed this service:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.25.2",
+      "edition_verse_id": "BSB:1CH.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "From the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asarelah. These sons of Asaph were under the direction of Asaph, who prophesied under the direction of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.3",
+      "edition_verse_id": "BSB:1CH.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "From the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah , Shimei, Hashabiah, and Mattithiah — six in all — under the direction of their father Jeduthun, who prophesied with the harp, giving thanks and praise to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.4",
+      "edition_verse_id": "BSB:1CH.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "From the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.5",
+      "edition_verse_id": "BSB:1CH.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "All these sons of Heman the king’s seer were given him through the promises of God to exalt him, for God had given Heman fourteen sons and three daughters.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.6",
+      "edition_verse_id": "BSB:1CH.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "All these were under the direction of their fathers for the music of the house of the LORD with cymbals, harps, and lyres, for the service of the house of God. Asaph, Jeduthun, and Heman were under the direction of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.25.7",
+      "edition_verse_id": "BSB:1CH.25.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Together with their relatives, who were all trained and skillful in the songs of the LORD, they numbered 288.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.25.8",
+      "edition_verse_id": "BSB:1CH.25.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They cast lots for their duties, young and old alike, teacher as well as pupil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.9",
+      "edition_verse_id": "BSB:1CH.25.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The first lot, which was for Asaph, fell to Joseph, his sons, and his brothers—12 in all; the second to Gedaliah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.10",
+      "edition_verse_id": "BSB:1CH.25.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "the third to Zaccur, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.11",
+      "edition_verse_id": "BSB:1CH.25.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "the fourth to Izri, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.12",
+      "edition_verse_id": "BSB:1CH.25.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "the fifth to Nethaniah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.13",
+      "edition_verse_id": "BSB:1CH.25.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "the sixth to Bukkiah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.14",
+      "edition_verse_id": "BSB:1CH.25.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "the seventh to Jesarelah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.15",
+      "edition_verse_id": "BSB:1CH.25.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "the eighth to Jeshaiah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.16",
+      "edition_verse_id": "BSB:1CH.25.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the ninth to Mattaniah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.17",
+      "edition_verse_id": "BSB:1CH.25.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the tenth to Shimei, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.18",
+      "edition_verse_id": "BSB:1CH.25.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the eleventh to Azarel, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.19",
+      "edition_verse_id": "BSB:1CH.25.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "the twelfth to Hashabiah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.20",
+      "edition_verse_id": "BSB:1CH.25.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "the thirteenth to Shubael, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.21",
+      "edition_verse_id": "BSB:1CH.25.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "the fourteenth to Mattithiah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.22",
+      "edition_verse_id": "BSB:1CH.25.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "the fifteenth to Jeremoth, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.23",
+      "edition_verse_id": "BSB:1CH.25.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "the sixteenth to Hananiah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.24",
+      "edition_verse_id": "BSB:1CH.25.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "the seventeenth to Joshbekashah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.25",
+      "edition_verse_id": "BSB:1CH.25.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "the eighteenth to Hanani, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.26",
+      "edition_verse_id": "BSB:1CH.25.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "the nineteenth to Mallothi, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.27",
+      "edition_verse_id": "BSB:1CH.25.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "the twentieth to Eliathah, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.28",
+      "edition_verse_id": "BSB:1CH.25.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "the twenty-first to Hothir, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.29",
+      "edition_verse_id": "BSB:1CH.25.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "the twenty-second to Giddalti, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.30",
+      "edition_verse_id": "BSB:1CH.25.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "the twenty-third to Mahazioth, his sons, and his brothers— 12 in all;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.25.31",
+      "edition_verse_id": "BSB:1CH.25.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "and the twenty-fourth to Romamti-ezer, his sons, and his brothers— 12 in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

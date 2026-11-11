@@ -1,0 +1,116 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1CO",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Greetings from Paul and Sosthenes",
+        "\\s1 Thanksgiving",
+        "\\s1 Unity in the Church",
+        "\\s1 The Message of the Cross",
+        "\\s1 Wisdom from God"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Paul’s Message by the Spirit’s Power",
+        "\\s1 Spiritual Wisdom"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 God’s Fellow Workers",
+        "\\s1 Christ Our Foundation",
+        "\\s1 God’s Temple and God’s Wisdom"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Servants of Christ",
+        "\\s1 Paul’s Fatherly Warning"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 Immorality Rebuked",
+        "\\s1 Expel the Immoral Brother"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 Lawsuits among Believers",
+        "\\s1 Members of Christ",
+        "\\s1 The Temple of the Holy Spirit"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Principles of Marriage",
+        "\\s1 Live Your Calling",
+        "\\s1 The Unmarried and Widowed"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 Food Sacrificed to Idols"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 The Rights of an Apostle",
+        "\\s1 Paul the Servant to All",
+        "\\s1 Run Your Race to Win"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Warnings from Israel’s Past",
+        "\\s1 Flee from Idolatry",
+        "\\s1 All to God’s Glory"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 Roles in Worship",
+        "\\s1 Sharing in the Lord’s Supper"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Spiritual Gifts",
+        "\\s1 The Body of Christ",
+        "\\s1 The Greater Gifts"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Love"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 Prophecy and Tongues",
+        "\\s1 Orderly Worship"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 The Resurrection of Christ",
+        "\\s1 The Resurrection of the Dead",
+        "\\s1 The Order of Resurrection",
+        "\\s1 The Resurrection Body",
+        "\\s1 Where, O Death, Is Your Victory?"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 The Collection for the Saints",
+        "\\s1 Paul’s Travel Plans",
+        "\\s1 Timothy and Apollos",
+        "\\s1 Concluding Exhortations",
+        "\\s1 Signature and Final Greetings"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

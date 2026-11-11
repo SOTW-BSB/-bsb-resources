@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1SA",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "1SA.10.1",
+      "edition_verse_id": "BSB:1SA.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Samuel took a flask of oil, poured it on Saul’s head, kissed him, and said, “Has not the LORD anointed you ruler over His inheritance?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.2",
+      "edition_verse_id": "BSB:1SA.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "When you leave me today, you will find two men at Rachel’s tomb in Zelzah on the border of Benjamin. They will say to you, ‘The donkeys you seek have been found, and now your father has stopped worrying about the donkeys and started worrying about you, asking, “What should I do about my son?”’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.10.3",
+      "edition_verse_id": "BSB:1SA.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then you will go on from there until you come to the Oak of Tabor. Three men going up to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.4",
+      "edition_verse_id": "BSB:1SA.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They will greet you and give you two loaves of bread, which you will accept from their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.10.5",
+      "edition_verse_id": "BSB:1SA.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "After that you will come to Gibeah of God, where the Philistines have an outpost. As you approach the city, you will meet a group of prophets coming down from the high place, preceded by harps, tambourines, flutes, and lyres, and they will be prophesying.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.6",
+      "edition_verse_id": "BSB:1SA.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the Spirit of the LORD will rush upon you, and you will prophesy with them; and you will be transformed into a different person.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.7",
+      "edition_verse_id": "BSB:1SA.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When these signs have come, do as the occasion demands, for God is with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.8",
+      "edition_verse_id": "BSB:1SA.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And you shall go before me to Gilgal, and surely I will come to you to offer burnt offerings and to sacrifice peace offerings. Wait seven days until I come to you and show you what you are to do.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.10.9",
+      "edition_verse_id": "BSB:1SA.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As Saul turned to leave Samuel, God changed Saul’s heart, and all the signs came to pass that day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.10",
+      "edition_verse_id": "BSB:1SA.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When Saul and his servant arrived at Gibeah, a group of prophets met him. Then the Spirit of God rushed upon him, and he prophesied along with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.10.11",
+      "edition_verse_id": "BSB:1SA.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "When all those who had formerly known Saul saw him prophesying with the prophets, they asked one another, “What has happened to the son of Kish? Is Saul also among the prophets?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.12",
+      "edition_verse_id": "BSB:1SA.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then a man who lived there replied, “And who is their father?” So the saying became a proverb: “Is Saul also among the prophets?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.13",
+      "edition_verse_id": "BSB:1SA.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And when Saul had finished prophesying, he went up to the high place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.14",
+      "edition_verse_id": "BSB:1SA.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Now Saul’s uncle asked him and his servant, “Where did you go?” “To look for the donkeys,” Saul replied. “When we saw they were not to be found, we went to Samuel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.15",
+      "edition_verse_id": "BSB:1SA.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Tell me,” Saul’s uncle asked, “what did Samuel say to you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.16",
+      "edition_verse_id": "BSB:1SA.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Saul replied, “He assured us that the donkeys had been found.” But Saul did not tell his uncle what Samuel had said about the kingship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.17",
+      "edition_verse_id": "BSB:1SA.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "After this, Samuel summoned the people to the LORD at Mizpah",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.18",
+      "edition_verse_id": "BSB:1SA.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "and said to the Israelites, “This is what the LORD, the God of Israel, says: ‘I brought Israel up out of Egypt, and I rescued you from the hands of the Egyptians and of all the kingdoms that oppressed you.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.10.19",
+      "edition_verse_id": "BSB:1SA.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "But today you have rejected your God, who saves you from all your troubles and afflictions, and you have said to Him, ‘No, set a king over us.’ Now therefore present yourselves before the LORD by your tribes and clans.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.20",
+      "edition_verse_id": "BSB:1SA.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Thus Samuel had all the tribes of Israel come forward, and the tribe of Benjamin was selected.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.21",
+      "edition_verse_id": "BSB:1SA.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Then he had the tribe of Benjamin come forward by its clans, and the clan of Matri was selected. Finally, Saul son of Kish was selected. But when they looked for him, they could not find him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.10.22",
+      "edition_verse_id": "BSB:1SA.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So again they inquired of the LORD, “Has the man come here yet?” And the LORD replied, “Behold, he has hidden himself among the baggage.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.10.23",
+      "edition_verse_id": "BSB:1SA.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So they ran and brought Saul, and when he stood among the people, he was a head taller than any of the others.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.24",
+      "edition_verse_id": "BSB:1SA.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Samuel said to all the people, “Do you see the one the LORD has chosen? There is no one like him among all the people.” And all the people shouted, “Long live the king!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.10.25",
+      "edition_verse_id": "BSB:1SA.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then Samuel explained to the people the rights of kingship. He wrote them on a scroll and laid it up before the LORD. And Samuel sent all the people away, each to his own home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.26",
+      "edition_verse_id": "BSB:1SA.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Saul also went to his home in Gibeah, and the men of valor whose hearts God had touched went with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.10.27",
+      "edition_verse_id": "BSB:1SA.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But some worthless men said, “How can this man save us?” So they despised him and brought him no gifts; but Saul remained silent about it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

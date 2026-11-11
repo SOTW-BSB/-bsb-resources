@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "1CH.20.1",
+      "edition_verse_id": "BSB:1CH.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the spring, at the time when kings march out to war, Joab led out the army and ravaged the land of the Ammonites. He came to Rabbah and besieged it, but David remained in Jerusalem. And Joab attacked Rabbah and demolished it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.20.2",
+      "edition_verse_id": "BSB:1CH.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Then David took the crown from the head of their king. It was found to weigh a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.20.3",
+      "edition_verse_id": "BSB:1CH.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "David brought out the people who were there and put them to work with saws, iron picks, and axes. And he did the same to all the Ammonite cities. Then David and all his troops returned to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.20.4",
+      "edition_verse_id": "BSB:1CH.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Some time later, war broke out with the Philistines at Gezer. At that time Sibbecai the Hushathite killed Sippai, a descendant of the Rephaim, and the Philistines were subdued.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.20.5",
+      "edition_verse_id": "BSB:1CH.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Once again there was a battle with the Philistines, and Elhanan son of Jair killed Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.20.6",
+      "edition_verse_id": "BSB:1CH.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And there was also a battle at Gath, where there was a man of great stature with six fingers on each hand and six toes on each foot— twenty-four in all. He too was descended from Rapha,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.20.7",
+      "edition_verse_id": "BSB:1CH.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "and when he taunted Israel, Jonathan the son of David’s brother Shimei killed him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.20.8",
+      "edition_verse_id": "BSB:1CH.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So these descendants of Rapha in Gath fell at the hands of David and his servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

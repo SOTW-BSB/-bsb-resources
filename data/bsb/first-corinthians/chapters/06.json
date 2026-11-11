@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CO",
+  "chapter": 6,
+  "verses": [
+    {
+      "id": "1CO.6.1",
+      "edition_verse_id": "BSB:1CO.6.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If any of you has a grievance against another, how dare he go to law before the unrighteous instead of before the saints!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.2",
+      "edition_verse_id": "BSB:1CO.6.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Do you not know that the saints will judge the world? And if you are to judge the world, are you not competent to judge trivial cases?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.3",
+      "edition_verse_id": "BSB:1CO.6.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Do you not know that we will judge angels? How much more the things of this life!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.4",
+      "edition_verse_id": "BSB:1CO.6.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So if you need to settle everyday matters, do you appoint as judges those of no standing in the church?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.5",
+      "edition_verse_id": "BSB:1CO.6.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I say this to your shame. Is there really no one among you wise enough to arbitrate between his brothers?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.6",
+      "edition_verse_id": "BSB:1CO.6.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Instead, one brother goes to law against another, and this in front of unbelievers!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.7",
+      "edition_verse_id": "BSB:1CO.6.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The very fact that you have lawsuits among you means that you are thoroughly defeated already. Why not rather be wronged? Why not rather be cheated?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.8",
+      "edition_verse_id": "BSB:1CO.6.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Instead, you yourselves cheat and do wrong, even against your own brothers!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.9",
+      "edition_verse_id": "BSB:1CO.6.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral, nor idolaters, nor adulterers, nor men who submit to or perform homosexual acts,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.10",
+      "edition_verse_id": "BSB:1CO.6.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "nor thieves, nor the greedy, nor drunkards, nor verbal abusers, nor swindlers, will inherit the kingdom of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.11",
+      "edition_verse_id": "BSB:1CO.6.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And that is what some of you were. But you were washed, you were sanctified, you were justified, in the name of the Lord Jesus Christ and by the Spirit of our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.12",
+      "edition_verse_id": "BSB:1CO.6.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Everything is permissible for me,” but not everything is beneficial. “Everything is permissible for me,” but I will not be mastered by anything.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.13",
+      "edition_verse_id": "BSB:1CO.6.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "“Food for the stomach and the stomach for food,” but God will destroy them both. The body is not intended for sexual immorality, but for the Lord, and the Lord for the body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.14",
+      "edition_verse_id": "BSB:1CO.6.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "By His power God raised the Lord from the dead, and He will raise us also.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.15",
+      "edition_verse_id": "BSB:1CO.6.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and unite them with a prostitute? Never!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.16",
+      "edition_verse_id": "BSB:1CO.6.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Or don’t you know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.17",
+      "edition_verse_id": "BSB:1CO.6.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But he who unites himself with the Lord is one with Him in spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.18",
+      "edition_verse_id": "BSB:1CO.6.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Flee from sexual immorality. Every other sin a man can commit is outside his body, but he who sins sexually sins against his own body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.6.19",
+      "edition_verse_id": "BSB:1CO.6.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Do you not know that your body is a temple of the Holy Spirit who is in you, whom you have received from God? You are not your own;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.6.20",
+      "edition_verse_id": "BSB:1CO.6.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "you were bought at a price. Therefore glorify God with your body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

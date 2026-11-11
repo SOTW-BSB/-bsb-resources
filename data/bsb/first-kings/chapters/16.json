@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "1KI.16.1",
+      "edition_verse_id": "BSB:1KI.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to Jehu son of Hanani against Baasha, saying:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.2",
+      "edition_verse_id": "BSB:1KI.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Even though I lifted you out of the dust and made you ruler over My people Israel, you have walked in the way of Jeroboam and have caused My people Israel to sin and to provoke Me to anger by their sins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.3",
+      "edition_verse_id": "BSB:1KI.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So now I will consume Baasha and his house, and I will make your house like that of Jeroboam son of Nebat:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.4",
+      "edition_verse_id": "BSB:1KI.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Anyone belonging to Baasha who dies in the city will be eaten by dogs, and anyone who dies in the field will be eaten by the birds of the air.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.5",
+      "edition_verse_id": "BSB:1KI.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Baasha, along with his accomplishments and might, are they not written in the Book of the Chronicles of the Kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.6",
+      "edition_verse_id": "BSB:1KI.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And Baasha rested with his fathers and was buried in Tirzah, and his son Elah reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.7",
+      "edition_verse_id": "BSB:1KI.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Moreover, the word of the LORD came through the prophet Jehu son of Hanani against Baasha and his house, because of all the evil he had done in the sight of the LORD, provoking Him to anger with the work of his hands and becoming like the house of Jeroboam, and also because Baasha had struck down the house of Jeroboam.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.8",
+      "edition_verse_id": "BSB:1KI.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "In the twenty-sixth year of Asa’s reign over Judah, Elah son of Baasha became king of Israel, and he reigned in Tirzah two years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.9",
+      "edition_verse_id": "BSB:1KI.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "However, while Elah was in Tirzah getting drunk in the house of Arza the steward of his household there, Elah’s servant Zimri, the commander of half his chariots, conspired against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.10",
+      "edition_verse_id": "BSB:1KI.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So in the twenty-seventh year of Asa’s reign over Judah, Zimri went in, struck Elah down, and killed him. And Zimri reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.11",
+      "edition_verse_id": "BSB:1KI.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "As soon as Zimri began to reign and was seated on the throne, he struck down the entire household of Baasha. He did not leave a single male, whether a kinsman or friend.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.12",
+      "edition_verse_id": "BSB:1KI.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "So Zimri destroyed the entire household of Baasha, according to the word that the LORD had spoken against Baasha through Jehu the prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.13",
+      "edition_verse_id": "BSB:1KI.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "This happened because of all the sins Baasha and his son Elah had committed and had caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.14",
+      "edition_verse_id": "BSB:1KI.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Elah, along with all his accomplishments, are they not written in the Book of the Chronicles of the Kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.15",
+      "edition_verse_id": "BSB:1KI.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In the twenty-seventh year of Asa’s reign over Judah, Zimri reigned in Tirzah for seven days. Now the troops were encamped against Gibbethon of the Philistines,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.16",
+      "edition_verse_id": "BSB:1KI.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "and the people in the camp heard that Zimri had conspired against the king and struck him down. So there in the camp that very day, all Israel proclaimed Omri, the commander of the army, king over Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.17",
+      "edition_verse_id": "BSB:1KI.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Omri and all the Israelites marched up from Gibbethon and besieged Tirzah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.18",
+      "edition_verse_id": "BSB:1KI.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "When Zimri saw that the city was captured, he entered the citadel of the royal palace and burned it down upon himself. So he died",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.19",
+      "edition_verse_id": "BSB:1KI.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "because of the sins he had committed, doing evil in the sight of the LORD and following the example of Jeroboam and the sin he had committed and had caused Israel to commit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.20",
+      "edition_verse_id": "BSB:1KI.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Zimri and the treason he committed, are they not written in the Book of the Chronicles of the Kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.21",
+      "edition_verse_id": "BSB:1KI.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "At that time the people of Israel were divided: Half of the people supported Tibni son of Ginath as king, and half supported Omri.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.22",
+      "edition_verse_id": "BSB:1KI.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But the followers of Omri proved stronger than those of Tibni son of Ginath. So Tibni died and Omri became king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.23",
+      "edition_verse_id": "BSB:1KI.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "In the thirty-first year of Asa’s reign over Judah, Omri became king of Israel, and he reigned twelve years, six of them in Tirzah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.24",
+      "edition_verse_id": "BSB:1KI.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "He bought the hill of Samaria from Shemer for two talents of silver and built a city there, calling it Samaria after the name of Shemer, who had owned the hill.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.25",
+      "edition_verse_id": "BSB:1KI.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But Omri did evil in the sight of the LORD and acted more wickedly than all who were before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.26",
+      "edition_verse_id": "BSB:1KI.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For he walked in all the ways of Jeroboam son of Nebat and in his sins, which he caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.27",
+      "edition_verse_id": "BSB:1KI.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "As for the rest of the acts of Omri, along with his accomplishments and the might he exercised, are they not written in the Book of the Chronicles of the Kings of Israel?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.28",
+      "edition_verse_id": "BSB:1KI.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And Omri rested with his fathers and was buried in Samaria, and his son Ahab reigned in his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.29",
+      "edition_verse_id": "BSB:1KI.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "In the thirty-eighth year of Asa’s reign over Judah, Ahab son of Omri became king of Israel, and he reigned in Samaria twenty-two years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.30",
+      "edition_verse_id": "BSB:1KI.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "However, Ahab son of Omri did evil in the sight of the LORD, more than all who were before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.31",
+      "edition_verse_id": "BSB:1KI.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And as if it were not enough for him to walk in the sins of Jeroboam son of Nebat, he even married Jezebel the daughter of Ethbaal king of the Sidonians, and he then proceeded to serve and worship Baal.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.32",
+      "edition_verse_id": "BSB:1KI.16.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "First, Ahab set up an altar for Baal in the temple of Baal that he had built in Samaria.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.16.33",
+      "edition_verse_id": "BSB:1KI.16.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Then he set up an Asherah pole. Thus Ahab did more to provoke the LORD, the God of Israel, to anger than all the kings of Israel before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.16.34",
+      "edition_verse_id": "BSB:1KI.16.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "In Ahab’s days, Hiel the Bethelite rebuilt Jericho. At the cost of Abiram his firstborn he laid its foundation, and at the cost of Segub his youngest he set up its gates, according to the word that the LORD had spoken through Joshua son of Nun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

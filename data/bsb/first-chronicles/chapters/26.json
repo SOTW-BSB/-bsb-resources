@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CH",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "1CH.26.1",
+      "edition_verse_id": "BSB:1CH.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "These were the divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.26.2",
+      "edition_verse_id": "BSB:1CH.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.3",
+      "edition_verse_id": "BSB:1CH.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.4",
+      "edition_verse_id": "BSB:1CH.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Obed-edom also had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.5",
+      "edition_verse_id": "BSB:1CH.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ammiel the sixth, Issachar the seventh, and Peullethai the eighth. For God had blessed Obed-edom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.6",
+      "edition_verse_id": "BSB:1CH.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Also to his son Shemaiah were born sons who ruled over their families because they were strong, capable men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.7",
+      "edition_verse_id": "BSB:1CH.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Shemaiah’s sons were Othni, Rephael, Obed, and Elzabad; his brothers were Elihu and Semachiah, also capable men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.8",
+      "edition_verse_id": "BSB:1CH.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All these were descendants of Obed-edom; they and their sons and brothers were capable men with strength to do the work— 62 in all from Obed-edom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.9",
+      "edition_verse_id": "BSB:1CH.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Meshelemiah also had sons and brothers who were capable men— 18 in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.10",
+      "edition_verse_id": "BSB:1CH.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Hosah the Merarite also had sons: Shimri the first (although he was not the firstborn, his father had appointed him as the first),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.11",
+      "edition_verse_id": "BSB:1CH.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Hilkiah the second, Tebaliah the third, and Zechariah the fourth. The sons and brothers of Hosah numbered 13 in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.12",
+      "edition_verse_id": "BSB:1CH.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "These divisions of the gatekeepers, through their chief men, had duties for ministering in the house of the LORD, just as their relatives did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.26.13",
+      "edition_verse_id": "BSB:1CH.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They cast lots for each gate, according to their families, young and old alike.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.14",
+      "edition_verse_id": "BSB:1CH.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The lot for the East Gate fell to Shelemiah. Then lots were cast for his son Zechariah, a wise counselor, and the lot for the North Gate fell to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.15",
+      "edition_verse_id": "BSB:1CH.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The lot for the South Gate fell to Obed-edom, and the lot for the storehouses to his sons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.16",
+      "edition_verse_id": "BSB:1CH.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The lots for the West Gate and the Shallecheth Gate on the ascending highway fell to Shuppim and Hosah. There were guards stationed at every watch.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.17",
+      "edition_verse_id": "BSB:1CH.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Each day there were six Levites on the east, four on the north, four on the south, and two pairs at the storehouse.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.26.18",
+      "edition_verse_id": "BSB:1CH.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "As for the court on the west, there were four at the highway and two at the court.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.19",
+      "edition_verse_id": "BSB:1CH.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "These were the divisions of the gatekeepers who were descendants of Korah and Merari.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.26.20",
+      "edition_verse_id": "BSB:1CH.26.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now their fellow Levites were in charge of the treasuries of the house of God and the treasuries of the dedicated things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.26.21",
+      "edition_verse_id": "BSB:1CH.26.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "From the descendants of Ladan, who were Gershonites through Ladan and heads of the families of Ladan the Gershonite, were Jehieli,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.22",
+      "edition_verse_id": "BSB:1CH.26.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "the sons of Jehieli, Zetham, and his brother Joel. They were in charge of the treasuries of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.23",
+      "edition_verse_id": "BSB:1CH.26.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "From the Amramites, the Izharites, the Hebronites, and the Uzzielites:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CH.26.24",
+      "edition_verse_id": "BSB:1CH.26.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Shebuel, a descendant of Gershom son of Moses, was the officer in charge of the treasuries.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.25",
+      "edition_verse_id": "BSB:1CH.26.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "His relatives through Eliezer included Rehabiah his son, Jeshaiah his son, Joram his son, Zichri his son, and Shelomith his son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.26",
+      "edition_verse_id": "BSB:1CH.26.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "This Shelomith and his brothers were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and of hundreds, and by the army commanders.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.27",
+      "edition_verse_id": "BSB:1CH.26.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "They had dedicated some of the plunder from their battles to the repair of the house of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.28",
+      "edition_verse_id": "BSB:1CH.26.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Everything that had been dedicated by Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah, along with everything else that was dedicated, was under the care of Shelomith and his brothers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.29",
+      "edition_verse_id": "BSB:1CH.26.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "From the Izharites, Chenaniah and his sons had the outside duties as officers and judges over Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.30",
+      "edition_verse_id": "BSB:1CH.26.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "From the Hebronites, Hashabiah and his relatives, 1,700 capable men, had charge of the affairs of Israel west of the Jordan for all the work of the LORD and for the service of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.31",
+      "edition_verse_id": "BSB:1CH.26.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "As for the Hebronites, Jerijah was the chief of the Hebronites, according to the genealogies of his ancestors. In the fortieth year of David’s reign the records were searched, and strong, capable men were found among the Hebronites at Jazer in Gilead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CH.26.32",
+      "edition_verse_id": "BSB:1CH.26.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Among Jerijah’s relatives there were 2,700 capable men who were heads of families. King David appointed them over the Reubenites, the Gadites, and the half-tribe of Manasseh for every matter pertaining to God and for the affairs of the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

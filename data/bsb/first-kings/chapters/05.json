@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1KI.5.1",
+      "edition_verse_id": "BSB:1KI.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when Hiram king of Tyre heard that Solomon had been anointed king in his father’s place, he sent envoys to Solomon; for Hiram had always been a friend of David.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.2",
+      "edition_verse_id": "BSB:1KI.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And Solomon relayed this message to Hiram:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.3",
+      "edition_verse_id": "BSB:1KI.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "“As you are well aware, due to the wars waged on all sides against my father David, he could not build a house for the Name of the LORD his God until the LORD had put his enemies under his feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.4",
+      "edition_verse_id": "BSB:1KI.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But now the LORD my God has given me rest on every side, and there is no adversary or crisis.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.5",
+      "edition_verse_id": "BSB:1KI.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So behold, I plan to build a house for the Name of the LORD my God, according to what the LORD said to my father David: ‘I will put your son on your throne in your place, and he will build the house for My Name.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.6",
+      "edition_verse_id": "BSB:1KI.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now therefore, order that cedars of Lebanon be cut down for me. My servants will be with your servants, and I will pay your servants whatever wages you set, for you know that there are none among us as skilled in logging as the Sidonians.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.7",
+      "edition_verse_id": "BSB:1KI.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When Hiram received Solomon’s message, he rejoiced greatly and said, “Blessed be the LORD this day! He has given David a wise son over this great people!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.8",
+      "edition_verse_id": "BSB:1KI.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Hiram sent a reply to Solomon, saying: “I have received your message; I will do all you desire regarding the cedar and cypress timber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.9",
+      "edition_verse_id": "BSB:1KI.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "My servants will haul the logs from Lebanon to the Sea, and I will float them as rafts by sea to the place you specify. There I will separate the logs, and you can take them away. And in exchange, you can meet my needs by providing my household with food.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.10",
+      "edition_verse_id": "BSB:1KI.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So Hiram provided Solomon with all the cedar and cypress timber he wanted,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.11",
+      "edition_verse_id": "BSB:1KI.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and year after year Solomon would provide Hiram with 20,000 cors of wheat as food for his household, as well as 20,000 baths of pure olive oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.12",
+      "edition_verse_id": "BSB:1KI.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.13",
+      "edition_verse_id": "BSB:1KI.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then King Solomon conscripted a labor force of 30,000 men from all Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.14",
+      "edition_verse_id": "BSB:1KI.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He sent them to Lebanon in monthly shifts of 10,000 men, so that they would spend one month in Lebanon and two months at home. And Adoniram was in charge of the forced labor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.15",
+      "edition_verse_id": "BSB:1KI.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Solomon had 70,000 porters and 80,000 stonecutters in the mountains,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.16",
+      "edition_verse_id": "BSB:1KI.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "not including his 3,300 foremen who supervised the workers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.5.17",
+      "edition_verse_id": "BSB:1KI.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And the king commanded them to quarry large, costly stones to lay the foundation of the temple with dressed stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.5.18",
+      "edition_verse_id": "BSB:1KI.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So Solomon’s and Hiram’s builders, along with the Gebalites, quarried the stone and prepared the timber and stone for the construction of the temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

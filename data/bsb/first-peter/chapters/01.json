@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1PE",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "1PE.1.1",
+      "edition_verse_id": "BSB:1PE.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Peter, an apostle of Jesus Christ, To the elect who are exiles of the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, chosen",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.2",
+      "edition_verse_id": "BSB:1PE.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "according to the foreknowledge of God the Father and sanctified by the Spirit for obedience to Jesus Christ and sprinkling by His blood: Grace and peace be yours in abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.3",
+      "edition_verse_id": "BSB:1PE.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.4",
+      "edition_verse_id": "BSB:1PE.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "and into an inheritance that is imperishable, undefiled, and unfading, reserved in heaven for you,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.5",
+      "edition_verse_id": "BSB:1PE.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.6",
+      "edition_verse_id": "BSB:1PE.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.7",
+      "edition_verse_id": "BSB:1PE.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "so that the proven character of your faith — more precious than gold, which perishes even though refined by fire — may result in praise, glory, and honor at the revelation of Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.8",
+      "edition_verse_id": "BSB:1PE.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.9",
+      "edition_verse_id": "BSB:1PE.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "now that you are receiving the goal of your faith, the salvation of your souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.10",
+      "edition_verse_id": "BSB:1PE.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Concerning this salvation, the prophets who foretold the grace to come to you searched and investigated carefully,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.11",
+      "edition_verse_id": "BSB:1PE.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "trying to determine the time and setting to which the Spirit of Christ in them was pointing when He predicted the sufferings of Christ and the glories to follow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.12",
+      "edition_verse_id": "BSB:1PE.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "It was revealed to them that they were not serving themselves, but you, when they foretold the things now announced by those who preached the gospel to you by the Holy Spirit sent from heaven. Even angels long to look into these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.13",
+      "edition_verse_id": "BSB:1PE.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore prepare your minds for action. Be sober-minded. Set your hope fully on the grace to be given you at the revelation of Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.14",
+      "edition_verse_id": "BSB:1PE.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "As obedient children, do not conform to the passions of your former ignorance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.15",
+      "edition_verse_id": "BSB:1PE.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But just as He who called you is holy, so be holy in all you do,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.16",
+      "edition_verse_id": "BSB:1PE.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "for it is written: “Be holy, because I am holy.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.17",
+      "edition_verse_id": "BSB:1PE.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Since you call on a Father who judges each one’s work impartially, conduct yourselves in reverent fear during your stay as foreigners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.18",
+      "edition_verse_id": "BSB:1PE.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For you know that it was not with perishable things such as silver or gold that you were redeemed from the empty way of life you inherited from your forefathers,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.19",
+      "edition_verse_id": "BSB:1PE.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "but with the precious blood of Christ, a lamb without blemish or spot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.20",
+      "edition_verse_id": "BSB:1PE.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He was known before the foundation of the world, but was revealed in the last times for your sake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.21",
+      "edition_verse_id": "BSB:1PE.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Through Him you believe in God, who raised Him from the dead and glorified Him; and so your faith and hope are in God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.22",
+      "edition_verse_id": "BSB:1PE.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Since you have purified your souls by obedience to the truth so that you have a genuine love for your brothers, love one another deeply, from a pure heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.1.23",
+      "edition_verse_id": "BSB:1PE.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.24",
+      "edition_verse_id": "BSB:1PE.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "For, “All flesh is like grass, and all its glory like the flowers of the field; the grass withers and the flowers fall,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.1.25",
+      "edition_verse_id": "BSB:1PE.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "but the word of the Lord stands forever.” And this is the word that was proclaimed to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

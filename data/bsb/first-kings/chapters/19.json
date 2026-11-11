@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "1KI.19.1",
+      "edition_verse_id": "BSB:1KI.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Ahab told Jezebel everything that Elijah had done and how he had killed all the prophets with the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.2",
+      "edition_verse_id": "BSB:1KI.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and ever so severely, if by this time tomorrow I have not made your life like the lives of those you killed!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.19.3",
+      "edition_verse_id": "BSB:1KI.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Elijah was afraid and ran for his life. When he came to Beersheba in Judah, he left his servant there,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.4",
+      "edition_verse_id": "BSB:1KI.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "while he himself went a day’s journey into the wilderness. He sat down under a broom tree and prayed that he might die. “I have had enough, LORD,” he said. “Take my life, for I am no better than my fathers.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.19.5",
+      "edition_verse_id": "BSB:1KI.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then he lay down under the broom tree and fell asleep. Suddenly an angel touched him and said, “Get up and eat.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.6",
+      "edition_verse_id": "BSB:1KI.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he looked around, and there by his head was a cake of bread baked over hot coals, and a jar of water. So he ate and drank and lay down again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.7",
+      "edition_verse_id": "BSB:1KI.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "A second time the angel of the LORD returned and touched him, saying, “Get up and eat, or the journey will be too much for you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.8",
+      "edition_verse_id": "BSB:1KI.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So he got up and ate and drank. And strengthened by that food, he walked forty days and forty nights until he reached Horeb, the mountain of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.9",
+      "edition_verse_id": "BSB:1KI.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.10",
+      "edition_verse_id": "BSB:1KI.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "“I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.11",
+      "edition_verse_id": "BSB:1KI.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then the LORD said, “Go out and stand on the mountain before the LORD. Behold, the LORD is about to pass by.” And a great and mighty wind tore into the mountains and shattered the rocks before the LORD, but the LORD was not in the wind. After the wind there was an earthquake, but the LORD was not in the earthquake.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.12",
+      "edition_verse_id": "BSB:1KI.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "After the earthquake there was a fire, but the LORD was not in the fire. And after the fire came a still, small voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.13",
+      "edition_verse_id": "BSB:1KI.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, “What are you doing here, Elijah?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.14",
+      "edition_verse_id": "BSB:1KI.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "“I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.15",
+      "edition_verse_id": "BSB:1KI.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then the LORD said to him, “Go back by the way you came, and go to the Desert of Damascus. When you arrive, you are to anoint Hazael as king over Aram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.16",
+      "edition_verse_id": "BSB:1KI.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You are also to anoint Jehu son of Nimshi as king over Israel and Elisha son of Shaphat from Abel-meholah to succeed you as prophet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.19.17",
+      "edition_verse_id": "BSB:1KI.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then Jehu will put to death whoever escapes the sword of Hazael, and Elisha will put to death whoever escapes the sword of Jehu.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.18",
+      "edition_verse_id": "BSB:1KI.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Nevertheless, I have reserved seven thousand in Israel— all whose knees have not bowed to Baal and whose mouths have not kissed him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.19",
+      "edition_verse_id": "BSB:1KI.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So Elijah departed and found Elisha son of Shaphat. He was plowing with twelve teams of oxen, and he was with the twelfth team. Elijah passed by him and threw his cloak around him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.20",
+      "edition_verse_id": "BSB:1KI.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.” “Go on back,” Elijah replied, “for what have I done to you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.19.21",
+      "edition_verse_id": "BSB:1KI.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So Elisha turned back from him, took his pair of oxen, and slaughtered them. Using the oxen’s equipment for fuel, he cooked the meat and gave it to the people, and they ate. Then he set out to follow and serve Elijah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

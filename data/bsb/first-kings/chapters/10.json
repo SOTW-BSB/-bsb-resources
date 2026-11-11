@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1KI",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "1KI.10.1",
+      "edition_verse_id": "BSB:1KI.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.2",
+      "edition_verse_id": "BSB:1KI.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "She arrived in Jerusalem with a very large caravan— with camels bearing spices, gold in great abundance, and precious stones. And she came to Solomon and spoke to him all that was on her mind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.3",
+      "edition_verse_id": "BSB:1KI.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And Solomon answered all her questions; nothing was too difficult for the king to explain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.4",
+      "edition_verse_id": "BSB:1KI.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When the queen of Sheba saw all the wisdom of Solomon, the palace he had built,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.5",
+      "edition_verse_id": "BSB:1KI.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "the food at his table, the seating of his servants, the service and attire of his attendants, his cupbearers, and the burnt offerings he presented at the house of the LORD, it took her breath away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.6",
+      "edition_verse_id": "BSB:1KI.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "She said to the king, “The report I heard in my own country about your words and wisdom is true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.7",
+      "edition_verse_id": "BSB:1KI.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But I did not believe these things until I came and saw with my own eyes. Indeed, not even half was told to me. Your wisdom and prosperity have far exceeded the report I heard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.8",
+      "edition_verse_id": "BSB:1KI.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "How blessed are your men! How blessed are these servants of yours who stand continually before you and hear your wisdom!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.9",
+      "edition_verse_id": "BSB:1KI.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Blessed be the LORD your God, who has delighted in you to set you on the throne of Israel. Because of the LORD’s eternal love for Israel, He has made you king to carry out justice and righteousness.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.10",
+      "edition_verse_id": "BSB:1KI.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then she gave the king 120 talents of gold, a great quantity of spices, and precious stones. Never again were spices in such abundance brought in as those the queen of Sheba gave to King Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.11",
+      "edition_verse_id": "BSB:1KI.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "(The fleet of Hiram that brought gold from Ophir also brought from Ophir a great cargo of almug wood and precious stones.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.12",
+      "edition_verse_id": "BSB:1KI.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The king made the almug wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had such almug wood been brought in, nor has such been seen again to this day.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.13",
+      "edition_verse_id": "BSB:1KI.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "King Solomon gave the queen of Sheba all she desired — whatever she asked — besides what he had given her out of his royal bounty. Then she left and returned to her own country, along with her servants.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.14",
+      "edition_verse_id": "BSB:1KI.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The weight of gold that came to Solomon each year was 666 talents,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.15",
+      "edition_verse_id": "BSB:1KI.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "not including the revenue from the merchants, traders, and all the Arabian kings and governors of the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.16",
+      "edition_verse_id": "BSB:1KI.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "King Solomon made two hundred large shields of hammered gold; six hundred shekels of gold went into each shield.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.17",
+      "edition_verse_id": "BSB:1KI.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He also made three hundred small shields of hammered gold; three minas of gold went into each shield. And the king put them in the House of the Forest of Lebanon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.18",
+      "edition_verse_id": "BSB:1KI.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Additionally, the king made a great throne of ivory and overlaid it with pure gold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.19",
+      "edition_verse_id": "BSB:1KI.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The throne had six steps, and its back had a rounded top. There were armrests on both sides of the seat, with a lion standing beside each armrest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.20",
+      "edition_verse_id": "BSB:1KI.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Twelve lions stood on the six steps, one at either end of each step. Nothing like this had ever been made for any kingdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.21",
+      "edition_verse_id": "BSB:1KI.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "All King Solomon’s drinking cups were gold, and all the utensils of the House of the Forest of Lebanon were pure gold. There was no silver, because it was accounted as nothing in the days of Solomon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.22",
+      "edition_verse_id": "BSB:1KI.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For the king had the ships of Tarshish at sea with Hiram’s fleet, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes, and peacocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.23",
+      "edition_verse_id": "BSB:1KI.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "So King Solomon surpassed all the kings of the earth in riches and wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.24",
+      "edition_verse_id": "BSB:1KI.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The whole world sought an audience with Solomon to hear the wisdom that God had put in his heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.25",
+      "edition_verse_id": "BSB:1KI.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Year after year, each visitor would bring his tribute: articles of silver and gold, clothing, weapons, spices, horses, and mules.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.26",
+      "edition_verse_id": "BSB:1KI.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Solomon accumulated 1,400 chariots and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.27",
+      "edition_verse_id": "BSB:1KI.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1KI.10.28",
+      "edition_verse_id": "BSB:1KI.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Solomon’s horses were imported from Egypt and Kue; the royal merchants purchased them from Kue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1KI.10.29",
+      "edition_verse_id": "BSB:1KI.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

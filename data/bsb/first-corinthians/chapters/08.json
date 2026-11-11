@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CO",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "1CO.8.1",
+      "edition_verse_id": "BSB:1CO.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now about food sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.8.2",
+      "edition_verse_id": "BSB:1CO.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The one who thinks he knows something does not yet know as he ought to know.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.3",
+      "edition_verse_id": "BSB:1CO.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "But the one who loves God is known by God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.4",
+      "edition_verse_id": "BSB:1CO.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "So about eating food sacrificed to idols: We know that an idol is nothing at all in the world, and that there is no God but one.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.8.5",
+      "edition_verse_id": "BSB:1CO.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords),",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.6",
+      "edition_verse_id": "BSB:1CO.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "yet for us there is but one God, the Father, from whom all things came and for whom we exist. And there is but one Lord, Jesus Christ, through whom all things came and through whom we exist.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.7",
+      "edition_verse_id": "BSB:1CO.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But not everyone has this knowledge. Some people are still so accustomed to idols that they eat such food as if it were sacrificed to an idol. And since their conscience is weak, it is defiled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.8.8",
+      "edition_verse_id": "BSB:1CO.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But food does not bring us closer to God: We are no worse if we do not eat, and no better if we do.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.9",
+      "edition_verse_id": "BSB:1CO.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Be careful, however, that your freedom does not become a stumbling block to the weak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.8.10",
+      "edition_verse_id": "BSB:1CO.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "For if someone with a weak conscience sees you who are well informed eating in an idol’s temple, will he not be encouraged to eat food sacrificed to idols?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.11",
+      "edition_verse_id": "BSB:1CO.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So this weak brother, for whom Christ died, is destroyed by your knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.12",
+      "edition_verse_id": "BSB:1CO.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "By sinning against your brothers in this way and wounding their weak conscience, you sin against Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.8.13",
+      "edition_verse_id": "BSB:1CO.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Therefore, if what I eat causes my brother to stumble, I will never eat meat again, so that I will not cause him to stumble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

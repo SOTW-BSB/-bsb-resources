@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1CO",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "1CO.12.1",
+      "edition_verse_id": "BSB:1CO.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now about spiritual gifts, brothers, I do not want you to be uninformed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.2",
+      "edition_verse_id": "BSB:1CO.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "You know that when you were pagans, you were influenced and led astray to mute idols.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.3",
+      "edition_verse_id": "BSB:1CO.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Therefore I inform you that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.4",
+      "edition_verse_id": "BSB:1CO.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "There are different gifts, but the same Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.5",
+      "edition_verse_id": "BSB:1CO.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "There are different ministries, but the same Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.6",
+      "edition_verse_id": "BSB:1CO.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "There are different ways of working, but the same God works all things in all people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.7",
+      "edition_verse_id": "BSB:1CO.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now to each one the manifestation of the Spirit is given for the common good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.8",
+      "edition_verse_id": "BSB:1CO.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "To one there is given through the Spirit the message of wisdom, to another the message of knowledge by the same Spirit,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.9",
+      "edition_verse_id": "BSB:1CO.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "to another faith by the same Spirit, to another gifts of healing by that one Spirit,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.10",
+      "edition_verse_id": "BSB:1CO.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "to another the working of miracles, to another prophecy, to another distinguishing between spirits, to another speaking in various tongues, and to still another the interpretation of tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.11",
+      "edition_verse_id": "BSB:1CO.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "All these are the work of one and the same Spirit, who apportions them to each one as He determines.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.12",
+      "edition_verse_id": "BSB:1CO.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The body is a unit, though it is composed of many parts. And although its parts are many, they all form one body. So it is with Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.13",
+      "edition_verse_id": "BSB:1CO.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "For in one Spirit we were all baptized into one body, whether Jews or Greeks, slave or free, and we were all given one Spirit to drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.14",
+      "edition_verse_id": "BSB:1CO.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For the body does not consist of one part, but of many.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.15",
+      "edition_verse_id": "BSB:1CO.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.16",
+      "edition_verse_id": "BSB:1CO.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.17",
+      "edition_verse_id": "BSB:1CO.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.18",
+      "edition_verse_id": "BSB:1CO.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But in fact, God has arranged the members of the body, every one of them, according to His design.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.19",
+      "edition_verse_id": "BSB:1CO.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If they were all one part, where would the body be?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.20",
+      "edition_verse_id": "BSB:1CO.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "As it is, there are many parts, but one body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.21",
+      "edition_verse_id": "BSB:1CO.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "The eye cannot say to the hand, “I do not need you.” Nor can the head say to the feet, “I do not need you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.22",
+      "edition_verse_id": "BSB:1CO.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "On the contrary, the parts of the body that seem to be weaker are indispensable,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.23",
+      "edition_verse_id": "BSB:1CO.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and the parts we consider less honorable, we treat with greater honor. And our unpresentable parts are treated with special modesty,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.24",
+      "edition_verse_id": "BSB:1CO.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "whereas our presentable parts have no such need. But God has composed the body and has given greater honor to the parts that lacked it,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.25",
+      "edition_verse_id": "BSB:1CO.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "so that there should be no division in the body, but that its members should have mutual concern for one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.26",
+      "edition_verse_id": "BSB:1CO.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.27",
+      "edition_verse_id": "BSB:1CO.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Now you are the body of Christ, and each of you is a member of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1CO.12.28",
+      "edition_verse_id": "BSB:1CO.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And in the church God has appointed first of all apostles, second prophets, third teachers, then workers of miracles, and those with gifts of healing, helping, administration, and various tongues.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.29",
+      "edition_verse_id": "BSB:1CO.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Are all apostles? Are all prophets? Are all teachers? Do all work miracles?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.30",
+      "edition_verse_id": "BSB:1CO.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Do all have gifts of healing? Do all speak in tongues? Do all interpret?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1CO.12.31",
+      "edition_verse_id": "BSB:1CO.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But eagerly desire the greater gifts. And now I will show you the most excellent way.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

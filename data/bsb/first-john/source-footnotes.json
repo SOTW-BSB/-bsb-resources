@@ -1,0 +1,145 @@
+{
+  "edition_id": "BSB",
+  "book_code": "1JN",
+  "chapters": {
+    "1": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft BYZ and TR \\fqa your\\f*",
+          "raw_sha256": "ef9d1b8d08d3ee484041a0a88913ab40424cf46104a7f1bc1038414fd9e179ac"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 1:7 \\ft NA does not include \\fqa But\\ft .\\f*",
+          "raw_sha256": "5cb18984ae4554c5336814e4ff4a75f107aedfc74c8f7efc612b96c7557a43fc"
+        }
+      ]
+    },
+    "2": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 2:2 \\ft Or \\fqa the propitiation\\f*",
+          "raw_sha256": "a31d62ee55ee7897c6d55ad6d14f097342de961e5a5152c7445d785e6038c2bc"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 2:13 \\ft Or \\fqa you have overcome evil\\ft ; also in verse 14\\f*",
+          "raw_sha256": "fede4c81094d9d05da94b63df249fb5b11838acdbdf13dac7740fd5c559e0ef8"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 2:20 \\ft BYZ and TR \\fqa and you know all things\\f*",
+          "raw_sha256": "1f83e5a265237d3d2122840d2d3da2bc89527c24e616d715b4bf82a22b20a842"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 2:28 \\ft Literally \\fqa remain in Him\\f*",
+          "raw_sha256": "ac292d8afbe7501decf4799396195663c951b36213e2566557b96577e60d685f"
+        }
+      ]
+    },
+    "3": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\ft Literally \\fqa when He appears \\ft or \\fqa when it appears\\f*",
+          "raw_sha256": "d7e8f0371786aa07e26b65ed6bdb8735fde22dfd165725bb286843efd6d2d38f"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft Literally \\fqa just as He is pure\\f*",
+          "raw_sha256": "f992c82c05ae1b048a7e93f841860727f3cd6c9a889c3e6b9cfbec21fb4cb558"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 3:4 \\ft Or \\fqa is violation of the Law\\f*",
+          "raw_sha256": "63bf676aede53d319d939be63cc1b6d67934cc2e028a7163251a706b6148194c"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 3:7 \\ft NA \\fqa Young children in training\\f*",
+          "raw_sha256": "52042f85bd0a99c3f85d2a40ff2d184626f30bbc7e30ce6956bfc4ab02fbae4a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:7 \\ft Literally \\fqa He is righteous\\f*",
+          "raw_sha256": "f623d0ec60ac2f593e78afcda9cdd9fae6735bb31e6793df2c13847c84ed0f9a"
+        }
+      ]
+    },
+    "4": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 4:3 \\ft BYZ and TR \\fqa that Jesus Christ has come in the flesh\\f*",
+          "raw_sha256": "251ea6beb8ee0a25fe74242287c29478f6941d2d7e618676ae0b94180e1f809e"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft Or \\fqa spirit\\f*",
+          "raw_sha256": "74862981a5423b3c52b96dc4e667b6e3e9eede61f248ae590a0071b2c53b9526"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 4:9 \\ft Or \\fqa only begotten \\ft or \\fqa unique\\f*",
+          "raw_sha256": "e9acc707e674c1129cc708d2d6e663c8e3e3e2a1da25bb099e59a1a420fc0e5b"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 4:10 \\ft Or \\fqa as a propitiation\\f*",
+          "raw_sha256": "0716652fbaaa7afbba5e3fcc6cd28fc001502cf47687885cdb1f0636a48b7d5e"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 4:19 \\ft BYZ and TR \\fqa We love Him\\f*",
+          "raw_sha256": "7188c74146ce99fc94244dd0d094a14ae379c4eacffd136153520c75d2be162b"
+        }
+      ]
+    },
+    "5": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 5:1 \\ft Literally \\fqa and everyone loving the One having begotten also loves the one having been begotten from Him.\\f*",
+          "raw_sha256": "93b04fa4bf38ab6bf684b739bfa425b273eabf6795edace424e2de38628fd2c9"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 5:7 \\ft TR and PT \\fqa three that testify in heaven: The Father, the Word, and the Holy Spirit; and these three are one. \\fv 8\\fv*And there are three that testify on earth:\\f*",
+          "raw_sha256": "26e6ca89a35a15807dc60142af87db07e7a80268ac0147f06f8c8faca77ac911"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 5:13 \\ft BYZ and TR include \\fqa and that you may believe in the name of the Son of God\\ft .\\f*",
+          "raw_sha256": "5c947181f497b3ab49527dc19d938a9cd7c0d06a69062aaaf5c4e8cd932ad161"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 5:18 \\ft Or \\fqa the one who was born of God protects himself \\ft or \\fqa God protects the one born of Him\\f*",
+          "raw_sha256": "4d295e513a23f64385171ca6300fad688edef4305fb85ba22aaa0ec4d17c01fd"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:18 \\ft Or \\fqa evil\\ft ; similarly in verse 19\\f*",
+          "raw_sha256": "cd94e9cb0bf9e9779e233483428f640c54da768793bc50f1b05ece9fe6aa28eb"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 5:21 \\ft BYZ and TR include \\fqa Amen.\\f*",
+          "raw_sha256": "62544ecf9521750d206b3d6f47a9647f37a48c22b50dcf969b112f4ba14a91bb"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

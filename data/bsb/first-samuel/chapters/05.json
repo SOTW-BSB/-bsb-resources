@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "1SA",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "1SA.5.1",
+      "edition_verse_id": "BSB:1SA.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After the Philistines had captured the ark of God, they took it from Ebenezer to Ashdod,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.5.2",
+      "edition_verse_id": "BSB:1SA.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "carried it into the temple of Dagon, and set it beside his statue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.5.3",
+      "edition_verse_id": "BSB:1SA.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When the people of Ashdod got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD. So they took Dagon and returned him to his place.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.5.4",
+      "edition_verse_id": "BSB:1SA.5.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But when they got up early the next morning, there was Dagon, fallen on his face before the ark of the LORD, with his head and his hands broken off and lying on the threshold. Only the torso remained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.5.5",
+      "edition_verse_id": "BSB:1SA.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "That is why, to this day, the priests of Dagon and all who enter the temple of Dagon in Ashdod do not step on the threshold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.5.6",
+      "edition_verse_id": "BSB:1SA.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now the hand of the LORD was heavy on the people of Ashdod and its vicinity, ravaging them and afflicting them with tumors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.5.7",
+      "edition_verse_id": "BSB:1SA.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when the men of Ashdod saw what was happening, they said, “The ark of the God of Israel must not stay here with us, because His hand is heavy upon us and upon our god Dagon.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1SA.5.8",
+      "edition_verse_id": "BSB:1SA.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So they called together all the rulers of the Philistines and asked, “What shall we do with the ark of the God of Israel?” “It must be moved to Gath,” they replied. So they carried away the ark of the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.5.9",
+      "edition_verse_id": "BSB:1SA.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But after they had moved the ark to Gath, the LORD’s hand was also against that city, throwing it into great confusion and afflicting the men of the city, both young and old, with an outbreak of tumors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.5.10",
+      "edition_verse_id": "BSB:1SA.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So they sent the ark of God to Ekron, but as it arrived, the Ekronites cried out, “They have brought us the ark of the God of Israel in order to kill us and our people!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.5.11",
+      "edition_verse_id": "BSB:1SA.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then the Ekronites called together all the rulers of the Philistines and said, “Send away the ark of the God of Israel. It must return to its place, so that it will not kill us and our people!” For a deadly confusion had pervaded the city; the hand of God was very heavy upon it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1SA.5.12",
+      "edition_verse_id": "BSB:1SA.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Those who did not die were afflicted with tumors, and the outcry of the city went up to heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}
