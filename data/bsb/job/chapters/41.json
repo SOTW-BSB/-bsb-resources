@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 41,
+  "verses": [
+    {
+      "id": "JOB.41.1",
+      "edition_verse_id": "BSB:JOB.41.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Can you pull in Leviathan with a hook or tie down his tongue with a rope?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.41.2",
+      "edition_verse_id": "BSB:JOB.41.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Can you put a cord through his nose or pierce his jaw with a hook?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.3",
+      "edition_verse_id": "BSB:JOB.41.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Will he beg you for mercy or speak to you softly?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.4",
+      "edition_verse_id": "BSB:JOB.41.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Will he make a covenant with you to take him as a slave for life?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.5",
+      "edition_verse_id": "BSB:JOB.41.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Can you pet him like a bird or put him on a leash for your maidens?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.6",
+      "edition_verse_id": "BSB:JOB.41.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Will traders barter for him or divide him among the merchants?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.7",
+      "edition_verse_id": "BSB:JOB.41.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Can you fill his hide with harpoons or his head with fishing spears?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.8",
+      "edition_verse_id": "BSB:JOB.41.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If you lay a hand on him, you will remember the battle and never repeat it!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.9",
+      "edition_verse_id": "BSB:JOB.41.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Surely hope of overcoming him is false. Is not the sight of him overwhelming?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.10",
+      "edition_verse_id": "BSB:JOB.41.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "No one is so fierce as to rouse Leviathan. Then who is able to stand against Me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.11",
+      "edition_verse_id": "BSB:JOB.41.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Who has given to Me that I should repay him? Everything under heaven is Mine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.12",
+      "edition_verse_id": "BSB:JOB.41.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I cannot keep silent about his limbs, his power and graceful form.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.13",
+      "edition_verse_id": "BSB:JOB.41.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Who can strip off his outer coat? Who can approach him with a bridle?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.14",
+      "edition_verse_id": "BSB:JOB.41.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Who can open his jaws, ringed by his fearsome teeth?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.15",
+      "edition_verse_id": "BSB:JOB.41.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "His rows of scales are his pride, tightly sealed together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.16",
+      "edition_verse_id": "BSB:JOB.41.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "One scale is so near to another that no air can pass between them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.17",
+      "edition_verse_id": "BSB:JOB.41.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They are joined to one another; they clasp and cannot be separated.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.18",
+      "edition_verse_id": "BSB:JOB.41.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "His snorting flashes with light, and his eyes are like the rays of dawn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.19",
+      "edition_verse_id": "BSB:JOB.41.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Firebrands stream from his mouth; fiery sparks shoot forth!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.20",
+      "edition_verse_id": "BSB:JOB.41.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Smoke billows from his nostrils as from a boiling pot over burning reeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.21",
+      "edition_verse_id": "BSB:JOB.41.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His breath sets coals ablaze, and flames pour from his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.22",
+      "edition_verse_id": "BSB:JOB.41.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Strength resides in his neck, and dismay leaps before him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.23",
+      "edition_verse_id": "BSB:JOB.41.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "The folds of his flesh are tightly joined; they are firm and immovable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.24",
+      "edition_verse_id": "BSB:JOB.41.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "His chest is as hard as a rock, as hard as a lower millstone!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.25",
+      "edition_verse_id": "BSB:JOB.41.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "When Leviathan rises up, the mighty are terrified; they withdraw before his thrashing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.26",
+      "edition_verse_id": "BSB:JOB.41.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "The sword that reaches him has no effect, nor does the spear or dart or arrow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.27",
+      "edition_verse_id": "BSB:JOB.41.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He regards iron as straw and bronze as rotten wood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.28",
+      "edition_verse_id": "BSB:JOB.41.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "No arrow can make him flee; slingstones become like chaff to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.29",
+      "edition_verse_id": "BSB:JOB.41.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "A club is regarded as straw, and he laughs at the sound of the lance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.30",
+      "edition_verse_id": "BSB:JOB.41.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "His undersides are jagged potsherds, spreading out the mud like a threshing sledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.31",
+      "edition_verse_id": "BSB:JOB.41.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "He makes the depths seethe like a cauldron; he makes the sea like a jar of ointment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.32",
+      "edition_verse_id": "BSB:JOB.41.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He leaves a glistening wake behind him; one would think the deep had white hair!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.33",
+      "edition_verse_id": "BSB:JOB.41.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Nothing on earth is his equal— a creature devoid of fear!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.41.34",
+      "edition_verse_id": "BSB:JOB.41.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "He looks down on all the haughty; he is king over all the proud.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

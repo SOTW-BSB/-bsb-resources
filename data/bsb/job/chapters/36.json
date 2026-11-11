@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 36,
+  "verses": [
+    {
+      "id": "JOB.36.1",
+      "edition_verse_id": "BSB:JOB.36.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Elihu continued:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.36.2",
+      "edition_verse_id": "BSB:JOB.36.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Bear with me a little longer, and I will show you that there is more to be said on God’s behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.3",
+      "edition_verse_id": "BSB:JOB.36.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I get my knowledge from afar, and I will ascribe justice to my Maker.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.4",
+      "edition_verse_id": "BSB:JOB.36.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For truly my words are free of falsehood; one perfect in knowledge is with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.5",
+      "edition_verse_id": "BSB:JOB.36.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Indeed, God is mighty, but He despises no one; He is mighty in strength of understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.6",
+      "edition_verse_id": "BSB:JOB.36.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He does not keep the wicked alive, but He grants justice to the afflicted.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.7",
+      "edition_verse_id": "BSB:JOB.36.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He does not take His eyes off the righteous, but He enthrones them with kings and exalts them forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.8",
+      "edition_verse_id": "BSB:JOB.36.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And if men are bound with chains, caught in cords of affliction,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.9",
+      "edition_verse_id": "BSB:JOB.36.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "then He tells them their deeds and how arrogantly they have transgressed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.10",
+      "edition_verse_id": "BSB:JOB.36.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He opens their ears to correction and commands that they turn from iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.11",
+      "edition_verse_id": "BSB:JOB.36.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "If they obey and serve Him, then they end their days in prosperity and their years in happiness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.12",
+      "edition_verse_id": "BSB:JOB.36.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But if they do not obey, then they perish by the sword and die without knowledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.13",
+      "edition_verse_id": "BSB:JOB.36.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The godless in heart harbor resentment; even when He binds them, they do not cry for help.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.14",
+      "edition_verse_id": "BSB:JOB.36.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "They die in their youth, among the male shrine prostitutes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.15",
+      "edition_verse_id": "BSB:JOB.36.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "God rescues the afflicted by their affliction and opens their ears in oppression.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.16",
+      "edition_verse_id": "BSB:JOB.36.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Indeed, He drew you from the jaws of distress to a spacious and broad place, to a table full of richness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.17",
+      "edition_verse_id": "BSB:JOB.36.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But now you are laden with the judgment due the wicked; judgment and justice have seized you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.18",
+      "edition_verse_id": "BSB:JOB.36.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Be careful that no one lures you with riches; do not let a large bribe lead you astray.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.19",
+      "edition_verse_id": "BSB:JOB.36.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Can your wealth or all your mighty effort keep you from distress?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.20",
+      "edition_verse_id": "BSB:JOB.36.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Do not long for the night, when people vanish from their homes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.21",
+      "edition_verse_id": "BSB:JOB.36.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Be careful not to turn to iniquity, for this you have preferred to affliction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.22",
+      "edition_verse_id": "BSB:JOB.36.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Behold, God is exalted in His power. Who is a teacher like Him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.23",
+      "edition_verse_id": "BSB:JOB.36.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Who has appointed His way for Him, or told Him, ‘You have done wrong’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.24",
+      "edition_verse_id": "BSB:JOB.36.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Remember to magnify His work, which men have praised in song.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.25",
+      "edition_verse_id": "BSB:JOB.36.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "All mankind has seen it; men behold it from afar.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.26",
+      "edition_verse_id": "BSB:JOB.36.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Indeed, God is great — beyond our knowledge; the number of His years is unsearchable.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.27",
+      "edition_verse_id": "BSB:JOB.36.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For He draws up drops of water which distill the rain from the mist,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.28",
+      "edition_verse_id": "BSB:JOB.36.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "which the clouds pour out and shower abundantly on mankind.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.29",
+      "edition_verse_id": "BSB:JOB.36.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Furthermore, who can understand how the clouds spread out, how the thunder roars from His pavilion?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.30",
+      "edition_verse_id": "BSB:JOB.36.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "See how He scatters His lightning around Him and covers the depths of the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.31",
+      "edition_verse_id": "BSB:JOB.36.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "For by these He judges the nations and provides food in abundance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.32",
+      "edition_verse_id": "BSB:JOB.36.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "He fills His hands with lightning and commands it to strike its mark.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.36.33",
+      "edition_verse_id": "BSB:JOB.36.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "The thunder declares His presence; even the cattle regard the rising storm.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

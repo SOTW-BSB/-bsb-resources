@@ -1,0 +1,14 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JUD",
+  "chapter_count": 1,
+  "verse_count": 25,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 25,
+      "omitted_from_main_text": [],
+      "sha256": "efb8a643189051182252a771266311eb891bf2d0f40c66a964e1745f4dc9981a"
+    }
+  ]
+}

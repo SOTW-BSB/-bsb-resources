@@ -1,0 +1,560 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 5,
+  "verses": [
+    {
+      "id": "JHN.5.1",
+      "edition_verse_id": "BSB:JHN.5.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Some time later there was a feast of the Jews, and Jesus went up to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.2",
+      "edition_verse_id": "BSB:JHN.5.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now there is in Jerusalem near the Sheep Gate a pool with five covered colonnades, which in Hebrew is called Bethesda.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.3",
+      "edition_verse_id": "BSB:JHN.5.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "On these walkways lay a great number of the sick, the blind, the lame, and the paralyzed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.5",
+      "edition_verse_id": "BSB:JHN.5.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "One man there had been an invalid for thirty-eight years.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.6",
+      "edition_verse_id": "BSB:JHN.5.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When Jesus saw him lying there and realized that he had spent a long time in this condition, He asked him, “Do you want to get well?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.7",
+      "edition_verse_id": "BSB:JHN.5.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Sir,” the invalid replied, “I have no one to help me into the pool when the water is stirred. While I am on my way, someone else goes in before me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.8",
+      "edition_verse_id": "BSB:JHN.5.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then Jesus told him, “Get up, pick up your mat, and walk.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.9",
+      "edition_verse_id": "BSB:JHN.5.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Immediately the man was made well, and he picked up his mat and began to walk. Now this happened on the Sabbath day,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.10",
+      "edition_verse_id": "BSB:JHN.5.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "so the Jews said to the man who had been healed, “This is the Sabbath! It is unlawful for you to carry your mat.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.11",
+      "edition_verse_id": "BSB:JHN.5.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But he answered, “The man who made me well told me, ‘Pick up your mat and walk.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.12",
+      "edition_verse_id": "BSB:JHN.5.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Who is this man who told you to pick it up and walk?” they asked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.13",
+      "edition_verse_id": "BSB:JHN.5.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "But the man who was healed did not know who it was, for Jesus had slipped away while the crowd was there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.14",
+      "edition_verse_id": "BSB:JHN.5.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Afterward, Jesus found the man at the temple and said to him, “See, you have been made well. Stop sinning, or something worse may happen to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.15",
+      "edition_verse_id": "BSB:JHN.5.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And the man went away and told the Jews that it was Jesus who had made him well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.16",
+      "edition_verse_id": "BSB:JHN.5.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Now because Jesus was doing these things on the Sabbath, the Jews began to persecute Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.17",
+      "edition_verse_id": "BSB:JHN.5.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "But Jesus answered them, “To this very day My Father is at His work, and I too am working.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.18",
+      "edition_verse_id": "BSB:JHN.5.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Because of this, the Jews tried all the harder to kill Him. Not only was He breaking the Sabbath, but He was even calling God His own Father, making Himself equal with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.19",
+      "edition_verse_id": "BSB:JHN.5.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "So Jesus replied, “Truly, truly, I tell you, the Son can do nothing by Himself, unless He sees the Father doing it. For whatever the Father does, the Son also does.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.20",
+      "edition_verse_id": "BSB:JHN.5.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The Father loves the Son and shows Him all He does. And to your amazement, He will show Him even greater works than these.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.21",
+      "edition_verse_id": "BSB:JHN.5.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For just as the Father raises the dead and gives them life, so also the Son gives life to whom He wishes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.22",
+      "edition_verse_id": "BSB:JHN.5.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Furthermore, the Father judges no one, but has assigned all judgment to the Son,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.23",
+      "edition_verse_id": "BSB:JHN.5.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "so that all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.24",
+      "edition_verse_id": "BSB:JHN.5.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Truly, truly, I tell you, whoever hears My word and believes Him who sent Me has eternal life and will not come under judgment. Indeed, he has crossed over from death to life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.25",
+      "edition_verse_id": "BSB:JHN.5.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Truly, truly, I tell you, the hour is coming and has now come when the dead will hear the voice of the Son of God, and those who hear will live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.26",
+      "edition_verse_id": "BSB:JHN.5.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "For as the Father has life in Himself, so also He has granted the Son to have life in Himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.27",
+      "edition_verse_id": "BSB:JHN.5.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And He has given Him authority to execute judgment, because He is the Son of Man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.28",
+      "edition_verse_id": "BSB:JHN.5.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Do not be amazed at this, for the hour is coming when all who are in their graves will hear His voice",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.29",
+      "edition_verse_id": "BSB:JHN.5.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "and come out — those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.30",
+      "edition_verse_id": "BSB:JHN.5.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I can do nothing by Myself; I judge only as I hear. And My judgment is just, because I do not seek My own will, but the will of Him who sent Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.31",
+      "edition_verse_id": "BSB:JHN.5.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "If I testify about Myself, My testimony is not valid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.32",
+      "edition_verse_id": "BSB:JHN.5.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "There is another who testifies about Me, and I know that His testimony about Me is valid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.33",
+      "edition_verse_id": "BSB:JHN.5.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "You have sent to John, and he has testified to the truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.34",
+      "edition_verse_id": "BSB:JHN.5.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Even though I do not accept human testimony, I say these things so that you may be saved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.35",
+      "edition_verse_id": "BSB:JHN.5.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "John was a lamp that burned and gave light, and you were willing for a season to bask in his light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.36",
+      "edition_verse_id": "BSB:JHN.5.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "But I have testimony more substantial than that of John. For the works that the Father has given Me to accomplish — the very works I am doing — testify about Me that the Father has sent Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.37",
+      "edition_verse_id": "BSB:JHN.5.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And the Father who sent Me has Himself testified about Me. You have never heard His voice nor seen His form,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.38",
+      "edition_verse_id": "BSB:JHN.5.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "nor does His word abide in you, because you do not believe the One He sent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.39",
+      "edition_verse_id": "BSB:JHN.5.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.40",
+      "edition_verse_id": "BSB:JHN.5.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "yet you refuse to come to Me to have life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.41",
+      "edition_verse_id": "BSB:JHN.5.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "I do not accept glory from men,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.42",
+      "edition_verse_id": "BSB:JHN.5.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "but I know you, that you do not have the love of God within you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.43",
+      "edition_verse_id": "BSB:JHN.5.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "I have come in My Father’s name, and you have not received Me; but if someone else comes in his own name, you will receive him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.44",
+      "edition_verse_id": "BSB:JHN.5.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "How can you believe if you accept glory from one another, yet do not seek the glory that comes from the only God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.45",
+      "edition_verse_id": "BSB:JHN.5.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Do not think that I will accuse you before the Father. Your accuser is Moses, in whom you have put your hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.5.46",
+      "edition_verse_id": "BSB:JHN.5.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "If you had believed Moses, you would believe Me, because he wrote about Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.5.47",
+      "edition_verse_id": "BSB:JHN.5.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "But since you do not believe what he wrote, how will you believe what I say?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

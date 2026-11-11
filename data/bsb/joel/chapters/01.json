@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOL",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "JOL.1.1",
+      "edition_verse_id": "BSB:JOL.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "This is the word of the LORD that came to Joel son of Pethuel:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.1.2",
+      "edition_verse_id": "BSB:JOL.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear this, O elders; and give ear, all who dwell in the land. Has anything like this ever happened in your days or in the days of your fathers?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.3",
+      "edition_verse_id": "BSB:JOL.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Tell it to your children; let your children tell it to their children, and their children to the next generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.4",
+      "edition_verse_id": "BSB:JOL.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "What the devouring locust has left, the swarming locust has eaten; what the swarming locust has left, the young locust has eaten; and what the young locust has left, the destroying locust has eaten.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.5",
+      "edition_verse_id": "BSB:JOL.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Wake up, you drunkards, and weep; wail, all you drinkers of wine, because of the sweet wine, for it has been cut off from your mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.6",
+      "edition_verse_id": "BSB:JOL.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For a nation has invaded My land, powerful and without number; its teeth are the teeth of a lion, and its fangs are the fangs of a lioness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.7",
+      "edition_verse_id": "BSB:JOL.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "It has laid waste My grapevine and splintered My fig tree. It has stripped off the bark and thrown it away; the branches have turned white.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.8",
+      "edition_verse_id": "BSB:JOL.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Wail like a virgin dressed in sackcloth, grieving for the husband of her youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.9",
+      "edition_verse_id": "BSB:JOL.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Grain and drink offerings have been cut off from the house of the LORD; the priests are in mourning, those who minister before the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.10",
+      "edition_verse_id": "BSB:JOL.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The field is ruined; the land mourns. For the grain is destroyed, the new wine is dried up, and the oil fails.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.11",
+      "edition_verse_id": "BSB:JOL.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Be dismayed, O farmers, wail, O vinedressers, over the wheat and barley, because the harvest of the field has perished.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.12",
+      "edition_verse_id": "BSB:JOL.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The grapevine is dried up, and the fig tree is withered; the pomegranate, palm, and apple— all the trees of the orchard— are withered. Surely the joy of mankind has dried up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.13",
+      "edition_verse_id": "BSB:JOL.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Put on sackcloth and lament, O priests; wail, O ministers of the altar. Come, spend the night in sackcloth, O ministers of my God, because the grain and drink offerings are withheld from the house of your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.14",
+      "edition_verse_id": "BSB:JOL.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Consecrate a fast; proclaim a solemn assembly! Gather the elders and all the residents of the land to the house of the LORD your God, and cry out to the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.15",
+      "edition_verse_id": "BSB:JOL.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Alas for the day! For the Day of the LORD is near, and it will come as destruction from the Almighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.16",
+      "edition_verse_id": "BSB:JOL.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Has not the food been cut off before our very eyes — joy and gladness from the house of our God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.17",
+      "edition_verse_id": "BSB:JOL.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The seeds lie shriveled beneath the clods; the storehouses are in ruins; the granaries are broken down, for the grain has withered away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.18",
+      "edition_verse_id": "BSB:JOL.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "How the cattle groan! The herds wander in confusion because they have no pasture. Even the flocks of sheep are suffering.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.19",
+      "edition_verse_id": "BSB:JOL.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "To You, O LORD, I call, for fire has consumed the open pastures and flames have scorched all the trees of the field.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.1.20",
+      "edition_verse_id": "BSB:JOL.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Even the beasts of the field pant for You, for the streams of water have dried up, and fire has consumed the open pastures.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

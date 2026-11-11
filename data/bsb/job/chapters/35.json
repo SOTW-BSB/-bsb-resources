@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "JOB.35.1",
+      "edition_verse_id": "BSB:JOB.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Elihu went on to say:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.35.2",
+      "edition_verse_id": "BSB:JOB.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Do you think this is just? You say, ‘I am more righteous than God.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.3",
+      "edition_verse_id": "BSB:JOB.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For you ask, ‘What does it profit me, and what benefit do I gain apart from sin?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.4",
+      "edition_verse_id": "BSB:JOB.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I will reply to you and to your friends as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.5",
+      "edition_verse_id": "BSB:JOB.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Look to the heavens and see; gaze at the clouds high above you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.6",
+      "edition_verse_id": "BSB:JOB.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If you sin, what do you accomplish against Him? If you multiply your transgressions, what do you do to Him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.7",
+      "edition_verse_id": "BSB:JOB.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If you are righteous, what do you give Him, or what does He receive from your hand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.8",
+      "edition_verse_id": "BSB:JOB.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Your wickedness affects only a man like yourself, and your righteousness only a son of man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.9",
+      "edition_verse_id": "BSB:JOB.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Men cry out under great oppression; they plead for relief from the arm of the mighty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.10",
+      "edition_verse_id": "BSB:JOB.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But no one asks, ‘Where is God my Maker, who gives us songs in the night,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.11",
+      "edition_verse_id": "BSB:JOB.35.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "who teaches us more than the beasts of the earth and makes us wiser than the birds of the air?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.12",
+      "edition_verse_id": "BSB:JOB.35.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "There they cry out, but He does not answer, because of the pride of evil men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.13",
+      "edition_verse_id": "BSB:JOB.35.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Surely God does not listen to empty pleas, and the Almighty does not take note of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.14",
+      "edition_verse_id": "BSB:JOB.35.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "How much less, then, when you say that you do not see Him, that your case is before Him and you must wait for Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.15",
+      "edition_verse_id": "BSB:JOB.35.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "and further, that in His anger He has not punished or taken much notice of folly!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.35.16",
+      "edition_verse_id": "BSB:JOB.35.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "So Job opens his mouth in vain and multiplies words without knowledge.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

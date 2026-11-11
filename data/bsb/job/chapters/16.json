@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "JOB.16.1",
+      "edition_verse_id": "BSB:JOB.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.16.2",
+      "edition_verse_id": "BSB:JOB.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“I have heard many things like these; miserable comforters are you all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.3",
+      "edition_verse_id": "BSB:JOB.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Is there no end to your long-winded speeches? What provokes you to continue testifying?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.4",
+      "edition_verse_id": "BSB:JOB.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I could also speak like you if you were in my place; I could heap up words against you and shake my head at you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.5",
+      "edition_verse_id": "BSB:JOB.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But I would encourage you with my mouth, and the consolation of my lips would bring relief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.6",
+      "edition_verse_id": "BSB:JOB.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Even if I speak, my pain is not relieved, and if I hold back, how will it go away?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.7",
+      "edition_verse_id": "BSB:JOB.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Surely He has now exhausted me; You have devastated all my family.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.8",
+      "edition_verse_id": "BSB:JOB.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "You have bound me, and it has become a witness; my frailty rises up and testifies against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.9",
+      "edition_verse_id": "BSB:JOB.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "His anger has torn me and opposed me; He gnashes His teeth at me. My adversary pierces me with His eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.10",
+      "edition_verse_id": "BSB:JOB.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "They open their mouths against me and strike my cheeks with contempt; they join together against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.11",
+      "edition_verse_id": "BSB:JOB.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "God has delivered me to unjust men; He has thrown me to the clutches of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.12",
+      "edition_verse_id": "BSB:JOB.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I was at ease, but He shattered me; He seized me by the neck and crushed me. He has set me up as His target;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.13",
+      "edition_verse_id": "BSB:JOB.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "His archers surround me. He pierces my kidneys without mercy and spills my gall on the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.14",
+      "edition_verse_id": "BSB:JOB.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He breaks me with wound upon wound; He rushes me like a mighty warrior.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.15",
+      "edition_verse_id": "BSB:JOB.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I have sewn sackcloth over my skin; I have buried my horn in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.16",
+      "edition_verse_id": "BSB:JOB.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "My face is red with weeping, and deep shadows ring my eyes;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.17",
+      "edition_verse_id": "BSB:JOB.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "yet my hands are free of violence and my prayer is pure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.18",
+      "edition_verse_id": "BSB:JOB.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "O earth, do not cover my blood; may my cry for help never be laid to rest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.19",
+      "edition_verse_id": "BSB:JOB.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Even now my witness is in heaven, and my advocate is on high.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.20",
+      "edition_verse_id": "BSB:JOB.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My friends are my scoffers as my eyes pour out tears to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.21",
+      "edition_verse_id": "BSB:JOB.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Oh, that a man might plead with God as he pleads with his neighbor!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.16.22",
+      "edition_verse_id": "BSB:JOB.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For when only a few years are past I will go the way of no return.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

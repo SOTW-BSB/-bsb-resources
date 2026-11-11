@@ -1,0 +1,428 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOS",
+  "chapter": 8,
+  "verses": [
+    {
+      "id": "JOS.8.1",
+      "edition_verse_id": "BSB:JOS.8.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the LORD said to Joshua, “Do not be afraid or discouraged. Take the whole army with you, and go up and attack Ai. See, I have delivered into your hand the king of Ai, his people, his city, and his land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.2",
+      "edition_verse_id": "BSB:JOS.8.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And you shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set up an ambush behind the city.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.3",
+      "edition_verse_id": "BSB:JOS.8.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So Joshua and the whole army set out to attack Ai. Joshua chose 30,000 mighty men of valor and sent them out at night",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.4",
+      "edition_verse_id": "BSB:JOS.8.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "with these orders: “Pay attention. You are to lie in ambush behind the city, not too far from it. All of you must be ready.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.5",
+      "edition_verse_id": "BSB:JOS.8.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then I and all the troops with me will advance on the city. When they come out against us as they did the first time, we will flee from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.6",
+      "edition_verse_id": "BSB:JOS.8.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They will pursue us until we have drawn them away from the city, for they will say, ‘The Israelites are running away from us as they did before.’ So as we flee from them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.7",
+      "edition_verse_id": "BSB:JOS.8.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "you are to rise from the ambush and seize the city, for the LORD your God will deliver it into your hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.8",
+      "edition_verse_id": "BSB:JOS.8.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when you have taken the city, set it on fire. Do as the LORD has commanded! See, I have given you orders.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.9",
+      "edition_verse_id": "BSB:JOS.8.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So Joshua sent them out, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai. But Joshua spent that night among the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.10",
+      "edition_verse_id": "BSB:JOS.8.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Joshua got up early the next morning and mobilized his men, and he and the elders of Israel marched before them up to Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.11",
+      "edition_verse_id": "BSB:JOS.8.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then all the troops who were with him marched up and approached the city. They arrived in front of Ai and camped to the north of it, with the valley between them and the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.12",
+      "edition_verse_id": "BSB:JOS.8.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now Joshua had taken about five thousand men and set up an ambush between Bethel and Ai, to the west of the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.13",
+      "edition_verse_id": "BSB:JOS.8.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So the forces were stationed with the main camp to the north of the city and the rear guard to the west of the city. And that night Joshua went into the valley.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.14",
+      "edition_verse_id": "BSB:JOS.8.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When the king of Ai saw the Israelites, he hurried out early in the morning with the men of the city to engage them in battle at an appointed place overlooking the Arabah. But he did not know that an ambush had been set up against him behind the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.15",
+      "edition_verse_id": "BSB:JOS.8.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Joshua and all Israel let themselves be beaten back before them, and they fled toward the wilderness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.16",
+      "edition_verse_id": "BSB:JOS.8.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then all the men of Ai were summoned to pursue them, and they followed Joshua and were drawn away from the city.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.17",
+      "edition_verse_id": "BSB:JOS.8.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Not a man was left in Ai or Bethel who did not go out after Israel, leaving the city wide open while they pursued Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.18",
+      "edition_verse_id": "BSB:JOS.8.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the LORD said to Joshua, “Hold out your battle lance toward Ai, for into your hand I will deliver the city.” So Joshua held out his battle lance toward Ai,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.19",
+      "edition_verse_id": "BSB:JOS.8.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "and as soon as he did so, the men in ambush rose quickly from their position. They rushed forward, entered the city, captured it, and immediately set it on fire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.20",
+      "edition_verse_id": "BSB:JOS.8.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "When the men of Ai turned and looked back, the smoke of the city was rising into the sky. They could not escape in any direction, and the troops who had fled to the wilderness now turned against their pursuers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.21",
+      "edition_verse_id": "BSB:JOS.8.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When Joshua and all Israel saw that the men in ambush had captured the city and that smoke was rising from it, they turned around and struck down the men of Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.22",
+      "edition_verse_id": "BSB:JOS.8.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Meanwhile, those in the ambush came out of the city against them, and the men of Ai were trapped between the Israelite forces on both sides. So Israel struck them down until no survivor or fugitive remained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.23",
+      "edition_verse_id": "BSB:JOS.8.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But they took the king of Ai alive and brought him to Joshua.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.24",
+      "edition_verse_id": "BSB:JOS.8.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "When Israel had finished killing all the men of Ai who had pursued them into the field and wilderness, and when every last one of them had fallen by the sword, all the Israelites returned to Ai and put it to the sword as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.25",
+      "edition_verse_id": "BSB:JOS.8.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "A total of twelve thousand men and women fell that day— all the people of Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.26",
+      "edition_verse_id": "BSB:JOS.8.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Joshua did not draw back the hand that held his battle lance until he had devoted to destruction all who lived in Ai.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.27",
+      "edition_verse_id": "BSB:JOS.8.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Israel took for themselves only the cattle and plunder of that city, as the LORD had commanded Joshua.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.28",
+      "edition_verse_id": "BSB:JOS.8.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "So Joshua burned Ai and made it a permanent heap of ruins, a desolation to this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.29",
+      "edition_verse_id": "BSB:JOS.8.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "He hung the king of Ai on a tree until evening, and at sunset Joshua commanded that they take down the body from the tree and throw it down at the entrance of the city gate. And over it they raised a large pile of rocks, which remains to this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.30",
+      "edition_verse_id": "BSB:JOS.8.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "At that time Joshua built an altar on Mount Ebal to the LORD, the God of Israel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.31",
+      "edition_verse_id": "BSB:JOS.8.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "just as Moses the servant of the LORD had commanded the Israelites. He built it according to what is written in the Book of the Law of Moses: “an altar of uncut stones on which no iron tool has been used.” And on it they offered burnt offerings to the LORD, and they sacrificed peace offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.32",
+      "edition_verse_id": "BSB:JOS.8.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And there in the presence of the Israelites, Joshua inscribed on the stones a copy of the law of Moses, which he had written.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.33",
+      "edition_verse_id": "BSB:JOS.8.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "All Israel, foreigners and citizens alike, with their elders, officers, and judges, stood on both sides of the ark of the covenant of the LORD facing the Levitical priests who carried it. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded earlier, to bless the people of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.8.34",
+      "edition_verse_id": "BSB:JOS.8.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Afterward, Joshua read aloud all the words of the law— the blessings and the curses— according to all that is written in the Book of the Law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.8.35",
+      "edition_verse_id": "BSB:JOS.8.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "There was not a word of all that Moses had commanded that Joshua failed to read before the whole assembly of Israel, including the women, the little ones, and the foreigners who lived among them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

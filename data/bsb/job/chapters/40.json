@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 40,
+  "verses": [
+    {
+      "id": "JOB.40.1",
+      "edition_verse_id": "BSB:JOB.40.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD said to Job:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.40.2",
+      "edition_verse_id": "BSB:JOB.40.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Will the faultfinder contend with the Almighty? Let him who argues with God give an answer.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.3",
+      "edition_verse_id": "BSB:JOB.40.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Job answered the LORD:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.40.4",
+      "edition_verse_id": "BSB:JOB.40.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Behold, I am insignificant. How can I reply to You? I place my hand over my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.5",
+      "edition_verse_id": "BSB:JOB.40.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I have spoken once, but I have no answer — twice, but I have nothing to add.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.6",
+      "edition_verse_id": "BSB:JOB.40.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the LORD answered Job out of the whirlwind and said:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.40.7",
+      "edition_verse_id": "BSB:JOB.40.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Now brace yourself like a man; I will question you, and you shall inform Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.8",
+      "edition_verse_id": "BSB:JOB.40.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Would you really annul My justice? Would you condemn Me to justify yourself?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.9",
+      "edition_verse_id": "BSB:JOB.40.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Do you have an arm like God’s? Can you thunder with a voice like His?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.10",
+      "edition_verse_id": "BSB:JOB.40.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then adorn yourself with majesty and splendor, and clothe yourself with honor and glory.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.11",
+      "edition_verse_id": "BSB:JOB.40.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Unleash the fury of your wrath; look on every proud man and bring him low.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.12",
+      "edition_verse_id": "BSB:JOB.40.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Look on every proud man and humble him; trample the wicked where they stand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.13",
+      "edition_verse_id": "BSB:JOB.40.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Bury them together in the dust; imprison them in the grave.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.14",
+      "edition_verse_id": "BSB:JOB.40.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Then I will confess to you that your own right hand can save you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.15",
+      "edition_verse_id": "BSB:JOB.40.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Look at Behemoth, which I made along with you. He feeds on grass like an ox.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.16",
+      "edition_verse_id": "BSB:JOB.40.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "See the strength of his loins and the power in the muscles of his belly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.17",
+      "edition_verse_id": "BSB:JOB.40.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "His tail sways like a cedar; the sinews of his thighs are tightly knit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.18",
+      "edition_verse_id": "BSB:JOB.40.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "His bones are tubes of bronze; his limbs are rods of iron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.19",
+      "edition_verse_id": "BSB:JOB.40.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He is the foremost of God’s works; only his Maker can draw the sword against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.20",
+      "edition_verse_id": "BSB:JOB.40.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The hills yield him their produce, while all the beasts of the field play nearby.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.21",
+      "edition_verse_id": "BSB:JOB.40.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "He lies under the lotus plants, hidden among the reeds of the marsh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.22",
+      "edition_verse_id": "BSB:JOB.40.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The lotus plants conceal him in their shade; the willows of the brook surround him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.23",
+      "edition_verse_id": "BSB:JOB.40.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Though the river rages, Behemoth is unafraid; he remains secure, though the Jordan surges to his mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.40.24",
+      "edition_verse_id": "BSB:JOB.40.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Can anyone capture him as he looks on, or pierce his nose with a snare?[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

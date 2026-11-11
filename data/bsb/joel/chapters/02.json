@@ -1,0 +1,392 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOL",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JOL.2.1",
+      "edition_verse_id": "BSB:JOL.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Blow the ram’s horn in Zion; sound the alarm on My holy mountain! Let all who dwell in the land tremble, for the Day of the LORD is coming; indeed, it is near—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.2.2",
+      "edition_verse_id": "BSB:JOL.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "a day of darkness and gloom, a day of clouds and blackness. Like the dawn overspreading the mountains a great and strong army appears, such as never was of old, nor will ever be in ages to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.3",
+      "edition_verse_id": "BSB:JOL.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Before them a fire devours, and behind them a flame scorches. The land before them is like the Garden of Eden, but behind them, it is like a desert wasteland — surely nothing will escape them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.4",
+      "edition_verse_id": "BSB:JOL.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Their appearance is like that of horses, and they gallop like swift steeds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.5",
+      "edition_verse_id": "BSB:JOL.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "With a sound like that of chariots they bound over the mountaintops, like the crackling of fire consuming stubble, like a mighty army deployed for battle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.6",
+      "edition_verse_id": "BSB:JOL.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Nations writhe in horror before them; every face turns pale.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.7",
+      "edition_verse_id": "BSB:JOL.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They charge like mighty men; they scale the walls like men of war. Each one marches in formation, not swerving from the course.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.8",
+      "edition_verse_id": "BSB:JOL.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "They do not jostle one another; each proceeds in his path. They burst through the defenses, never breaking ranks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.9",
+      "edition_verse_id": "BSB:JOL.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They storm the city; they run along the wall; they climb into houses, entering through windows like thieves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.10",
+      "edition_verse_id": "BSB:JOL.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Before them the earth quakes; the heavens tremble. The sun and moon grow dark, and the stars lose their brightness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.11",
+      "edition_verse_id": "BSB:JOL.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The LORD raises His voice in the presence of His army. Indeed, His camp is very large, for mighty are those who obey His command. For the Day of the LORD is great and very dreadful. Who can endure it?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.12",
+      "edition_verse_id": "BSB:JOL.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Yet even now,” declares the LORD, “return to Me with all your heart, with fasting, weeping, and mourning.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.13",
+      "edition_verse_id": "BSB:JOL.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So rend your hearts and not your garments, and return to the LORD your God. For He is gracious and compassionate, slow to anger, abounding in loving devotion. And He relents from sending disaster.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.14",
+      "edition_verse_id": "BSB:JOL.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Who knows? He may turn and relent and leave a blessing behind Him — grain and drink offerings for the LORD your God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.15",
+      "edition_verse_id": "BSB:JOL.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Blow the ram’s horn in Zion, consecrate a fast, proclaim a sacred assembly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.16",
+      "edition_verse_id": "BSB:JOL.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Gather the people, sanctify the congregation, assemble the aged, gather the children, even those nursing at the breast. Let the bridegroom leave his room, and the bride her chamber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.17",
+      "edition_verse_id": "BSB:JOL.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Let the priests who minister before the LORD weep between the portico and the altar, saying, “Spare Your people, O LORD, and do not make Your heritage a reproach, an object of scorn among the nations. Why should they say among the peoples, ‘Where is their God?’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.18",
+      "edition_verse_id": "BSB:JOL.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then the LORD became jealous for His land, and He spared His people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.19",
+      "edition_verse_id": "BSB:JOL.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And the LORD answered His people: “Behold, I will send you grain, new wine, and oil, and by them you will be satisfied. I will never again make you a reproach among the nations.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.20",
+      "edition_verse_id": "BSB:JOL.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The northern army I will drive away from you, banishing it to a barren and desolate land, its front ranks into the Eastern Sea, and its rear guard into the Western Sea. And its stench will rise; its foul odor will ascend. For He has done great things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.21",
+      "edition_verse_id": "BSB:JOL.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Do not be afraid, O land; rejoice and be glad, for the LORD has done great things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.22",
+      "edition_verse_id": "BSB:JOL.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Do not be afraid, O beasts of the field, for the open pastures have turned green, the trees bear their fruit, and the fig tree and vine yield their best.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.23",
+      "edition_verse_id": "BSB:JOL.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Be glad, O children of Zion, and rejoice in the LORD your God, for He has given you the autumn rains for your vindication. He sends you showers, both autumn and spring rains, as before.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.24",
+      "edition_verse_id": "BSB:JOL.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "The threshing floors will be full of grain, and the vats will overflow with new wine and oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.25",
+      "edition_verse_id": "BSB:JOL.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I will repay you for the years eaten by locusts — the swarming locust, the young locust, the destroying locust, and the devouring locust— My great army that I sent against you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.26",
+      "edition_verse_id": "BSB:JOL.2.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "You will have plenty to eat, until you are satisfied. You will praise the name of the LORD your God, who has worked wonders for you. My people will never again be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.27",
+      "edition_verse_id": "BSB:JOL.2.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then you will know that I am present in Israel and that I am the LORD your God, and there is no other. My people will never again be put to shame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.28",
+      "edition_verse_id": "BSB:JOL.2.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And afterward, I will pour out My Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.29",
+      "edition_verse_id": "BSB:JOL.2.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Even on My menservants and maidservants, I will pour out My Spirit in those days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.30",
+      "edition_verse_id": "BSB:JOL.2.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will show wonders in the heavens and on the earth, blood and fire and columns of smoke.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.31",
+      "edition_verse_id": "BSB:JOL.2.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "The sun will be turned to darkness and the moon to blood before the coming of the great and awesome Day of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.2.32",
+      "edition_verse_id": "BSB:JOL.2.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has promised, among the remnant called by the LORD.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

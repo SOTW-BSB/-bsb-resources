@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JHN.2.1",
+      "edition_verse_id": "BSB:JHN.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.2",
+      "edition_verse_id": "BSB:JHN.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "and Jesus and His disciples had also been invited to the wedding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.3",
+      "edition_verse_id": "BSB:JHN.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When the wine ran out, Jesus’ mother said to Him, “They have no more wine.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.4",
+      "edition_verse_id": "BSB:JHN.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "“Woman, what is that to you and to Me?” Jesus replied. “My hour has not yet come.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.5",
+      "edition_verse_id": "BSB:JHN.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "His mother said to the servants, “Do whatever He tells you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.6",
+      "edition_verse_id": "BSB:JHN.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Now six stone water jars had been set there for the Jewish rites of purification. Each could hold from twenty to thirty gallons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.7",
+      "edition_verse_id": "BSB:JHN.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Jesus told the servants, “Fill the jars with water.” So they filled them to the brim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.8",
+      "edition_verse_id": "BSB:JHN.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Now draw some out,” He said, “and take it to the master of the banquet.” They did so,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.9",
+      "edition_verse_id": "BSB:JHN.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and the master of the banquet tasted the water that had been turned into wine. He did not know where it was from, but the servants who had drawn the water knew. Then he called the bridegroom aside",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.10",
+      "edition_verse_id": "BSB:JHN.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and said, “Everyone serves the fine wine first, and then the cheap wine after the guests are drunk. But you have saved the fine wine until now!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.11",
+      "edition_verse_id": "BSB:JHN.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jesus performed this, the first of His signs, at Cana in Galilee. He thus revealed His glory, and His disciples believed in Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.12",
+      "edition_verse_id": "BSB:JHN.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "After this, He went down to Capernaum with His mother and brothers and His disciples, and they stayed there a few days.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.13",
+      "edition_verse_id": "BSB:JHN.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When the Jewish Passover was near, Jesus went up to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.14",
+      "edition_verse_id": "BSB:JHN.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "In the temple courts He found men selling cattle, sheep, and doves, and money changers seated at their tables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.15",
+      "edition_verse_id": "BSB:JHN.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "So He made a whip out of cords and drove all from the temple courts, both sheep and cattle. He poured out the coins of the money changers and overturned their tables.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.16",
+      "edition_verse_id": "BSB:JHN.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "To those selling doves He said, “Get these out of here! How dare you turn My Father’s house into a marketplace!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.17",
+      "edition_verse_id": "BSB:JHN.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "His disciples remembered that it is written: “Zeal for Your house will consume Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.18",
+      "edition_verse_id": "BSB:JHN.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "On account of this, the Jews demanded, “What sign can You show us to prove Your authority to do these things?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.19",
+      "edition_verse_id": "BSB:JHN.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Jesus answered, “Destroy this temple, and in three days I will raise it up again.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.20",
+      "edition_verse_id": "BSB:JHN.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“This temple took forty-six years to build,” the Jews replied, “and You are going to raise it up in three days?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.21",
+      "edition_verse_id": "BSB:JHN.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But Jesus was speaking about the temple of His body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.22",
+      "edition_verse_id": "BSB:JHN.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "After He was raised from the dead, His disciples remembered that He had said this. Then they believed the Scripture and the word that Jesus had spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.23",
+      "edition_verse_id": "BSB:JHN.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "While He was in Jerusalem at the Passover Feast, many people saw the signs He was doing and believed in His name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.2.24",
+      "edition_verse_id": "BSB:JHN.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "But Jesus did not entrust Himself to them, for He knew them all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.2.25",
+      "edition_verse_id": "BSB:JHN.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "He did not need any testimony about man, for He knew what was in a man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

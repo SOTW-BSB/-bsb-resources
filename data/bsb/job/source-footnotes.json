@@ -1,0 +1,561 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapters": {
+    "1": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 1:6 \\ft That is, \\fqa the Accuser \\ft or \\fqa the Adversary\\ft ; here and throughout Job 1\\f*",
+          "raw_sha256": "1a3c69b169c814a41e946399360158423c53791e2db4246a7f0654054bac4ee0"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft That is, \\fqa the Accuser \\ft or \\fqa the Adversary\\ft ; here and throughout Job 2\\f*",
+          "raw_sha256": "f0618be5843c9d15bc20c8a5df002131fd02e955a681bf877795a84e2ca1637e"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 2:9 \\ft Or \\fqa Bless\\f*",
+          "raw_sha256": "5817c1c404ed0cbd41f96118b105dbb401e9f4e5e135a9625bf7f8904d2c032e"
+        }
+      ]
+    },
+    "3": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 3:8 \\ft Or \\fqa curse the sea\\f*",
+          "raw_sha256": "3ef0304c701eecb89eed78f6615b3404b5817cae1280a0e555e0e2022bd0b834"
+        }
+      ]
+    },
+    "4": {
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 4:15 \\ft Or \\fqa a wind\\f*",
+          "raw_sha256": "2a049e7bb6e159e31594cccec5c1a8b14ba7ae5cf24c0fc966cab453d776eb6a"
+        }
+      ]
+    },
+    "5": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 5:5 \\ft Or \\fqa and a snare snatches his wealth\\f*",
+          "raw_sha256": "c660dae32e969eb57dfffd2df8be2e634b90f7faa66507bdadb62d31ad6c785d"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 5:13 \\ft Cited in \\ref 1 Corinthians 3:19|1CO 3:19\\ref*\\f*",
+          "raw_sha256": "036a2371de05135ba795dfb1fcd230b9ba419eac2c8d6dd194576d570e330fbd"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 5:17 \\ft Hebrew \\fqa Shaddai\\ft ; here and throughout Job\\f*",
+          "raw_sha256": "26a576d35c7574709e10ffacaea8d0cd0727474f12b6b65a556c35679e2c9e69"
+        }
+      ]
+    },
+    "6": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 6:6 \\ft Or \\fqa in the sap of the mallow plant\\f*",
+          "raw_sha256": "9bf60aa172f6deaaabba46d266e68d5540401342c351421b220a2611a64afdd8"
+        }
+      ]
+    },
+    "7": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 7:20 \\ft LXX; Hebrew \\fqa to myself\\f*",
+          "raw_sha256": "136b2bbe30a453290c6453fb57c3809886d45de869448ee127a220a035fcdf41"
+        }
+      ]
+    },
+    "9": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 9:3 \\ft Or \\fqa If God wished to contend with someone\\f*",
+          "raw_sha256": "d2d83b035cb719488d9c8a06c602b02cda52c17189456cd61da3895c23106bb5"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 9:7 \\ft Or \\fqa rise\\f*",
+          "raw_sha256": "5bc0a9e777548436055a297c883ff82ac11ff200777c582e131130c530c089b4"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 9:12 \\ft Or \\fqa snatches someone in death\\f*",
+          "raw_sha256": "99fc7a1dd57e39489702361a31125dabc142a8712c5716cada1e449042b22c8b"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 9:19 \\ft See LXX; Hebrew \\fqa me\\f*",
+          "raw_sha256": "574c87771a5075112d2dbf19f73347ce92cab4e06dc5767087a00658aeb81585"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 9:20 \\ft Or \\fqa He would declare me guilty\\f*",
+          "raw_sha256": "d7827262d2148367d12637d18716b4007c1e342ccc4ff485b21b3c625e8ae100"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 9:30 \\ft Or \\fqa soap\\f*",
+          "raw_sha256": "35df519c349b436f60d4cc3108de4de5c64addb8e3a92fc9cd7b6b5acf813df1"
+        }
+      ]
+    },
+    "10": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 10:12 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "a7cbe44358e1a6675abefa4b1946e87ee8bc05c03e71a595ffaadd36f0abca2b"
+        }
+      ]
+    },
+    "11": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 11:12 \\ft Or \\fqa can be born tame\\f*",
+          "raw_sha256": "68976f857e00cdfdb9f75b347a06178b3bbfb14d73f95ae8eee6feb96b3d8f8e"
+        }
+      ]
+    },
+    "12": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 12:6 \\ft Or \\fqa though God keeps them in His power\\f*",
+          "raw_sha256": "88580d6febda0ccd19bde1af282028c23335ffe4b8dddf947b547842b6af6005"
+        }
+      ]
+    },
+    "13": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 13:14 \\ft Literally \\fqa Why do I take my flesh in my teeth\\f*",
+          "raw_sha256": "efb8eaa377df2f7881e25ec319fa9fad63646b5492645f408c182eb1413f6157"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 13:15 \\ft Or \\fqa I have no other hope\\f*",
+          "raw_sha256": "2016a85d6578aa0d9cf285fea3a51c5aba248c20762ad703ba31c4f45c5c75f5"
+        }
+      ]
+    },
+    "14": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 14:14 \\ft Or \\fqa my change \\ft or \\fqa my relief\\f*",
+          "raw_sha256": "73ec0f3f48e3a3a1eadbcf22f2a830b71a2af18dabe466ae55431cf3a9542714"
+        }
+      ]
+    },
+    "15": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 15:12 \\ft Or \\fqa blink\\f*",
+          "raw_sha256": "d3305da90898f28faeec0c99e9ae9550b33f32a3c61ff585234182a189b79265"
+        }
+      ]
+    },
+    "19": {
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 19:25 \\ft Or \\fqa Vindicator\\f*",
+          "raw_sha256": "068e17c77ad0d4a238b0e415a22cafeb743f2272f6bc38cd1e0700a5b6cb44ac"
+        },
+        {
+          "source_usfm": "\\f + \\fr 19:25 \\ft Or \\fqa on my grave\\f*",
+          "raw_sha256": "32c7db6963c3bfb9c400d13366305065f82e81ecc89797c94819a43efdabb735"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 19:26 \\ft Or \\fqa without my flesh\\f*",
+          "raw_sha256": "76464ca44bb57b0c6d9222ea0cb5c631978de2300a48c208660dba0a5ee18618"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 19:27 \\ft Hebrew \\fqa my kidneys yearn\\f*",
+          "raw_sha256": "7d99e725a5398054c80c8b582aed0d9eb7b699d2c0b5b81d990853c3c068d7c9"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 19:28 \\ft Many Hebrew manuscripts, LXX, and Vulgate; most Hebrew manuscripts \\fqa with me\\f*",
+          "raw_sha256": "102f3c3320a086206bbdadaca3cb3087077d59852263c807ad4b10dc58f9cc99"
+        }
+      ]
+    },
+    "20": {
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 20:25 \\ft Literally \\fqa from his gall\\f*",
+          "raw_sha256": "16861bf92c13d1a8d1b979462506a7ef75ee040cc9d3d7b0956084b29a01f160"
+        }
+      ]
+    },
+    "21": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 21:13 \\ft Or \\fqa in an instant\\f*",
+          "raw_sha256": "dec899c31c1ada97d99bcce56e5717f139bb4a3fa432c9bad08dac1199feb688"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 21:24 \\ft Literally \\fqa His pails are full of milk\\f*",
+          "raw_sha256": "104895f68909f255eb72350619d59f45eaf35c556e24cde2f9db50913595d39a"
+        }
+      ]
+    },
+    "22": {
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 22:14 \\ft Or \\fqa heaven’s horizon \\ft or \\fqa the circle of the sky\\f*",
+          "raw_sha256": "4d5d5dc8bfbcb877efc38a8306b7091a84cd765e15be7216d522630bb05a96ec"
+        }
+      ]
+    },
+    "26": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 26:6 \\fqa Abaddon \\ft means \\fqa Destruction\\ft .\\f*",
+          "raw_sha256": "4943eb56340a97ad177d8133a20fc44d62aad31f7d50916fcede160ec9e4ee71"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 26:9 \\ft Or \\fqa of His throne\\f*",
+          "raw_sha256": "4da6cc5fd90ec446fa5e941002ec099e4677a33bc051430b821bd15bdf359034"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 26:12 \\ft Or \\fqa stilled\\f*",
+          "raw_sha256": "52d95bdc1cac4bfd4cb00a9ee76b2074ca8483bb76b959f5fd828a6d607169b3"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 26:13 \\ft Hebrew \\fqa nachash\\ft ; translated in most cases as \\fqa snake\\f*",
+          "raw_sha256": "376ae28756aa5548b1fa7c47b5f3c2d2079b80424045247aa7775c0ba20d53a4"
+        }
+      ]
+    },
+    "28": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 28:11 \\ft Hebrew; LXX and Vulgate \\fqa He searches\\f*",
+          "raw_sha256": "bb37c818c4889f61ca3213da0905494c7382f5553c776faa58c6edae93be3feb"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 28:19 \\ft That is, the upper Nile region\\f*",
+          "raw_sha256": "1cdfe379f65ef6231f6dc51e5c7030618d80f59cbb2214b91edcfc34285f582b"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 28:22 \\fqa Abaddon \\ft means \\fqa Destruction\\ft .\\f*",
+          "raw_sha256": "47fcbc524c62fa13cb97773b7689682d4e77c3a25334de4c344f656e2828a0fb"
+        }
+      ]
+    },
+    "29": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 29:4 \\ft Hebrew \\fqa in the time of my harvest\\f*",
+          "raw_sha256": "569135787cba2b532094db8724bc594fb10adb70e5025a31e7bebddab1e78332"
+        }
+      ]
+    },
+    "30": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 30:4 \\ft Or \\fqa their fuel\\f*",
+          "raw_sha256": "acea22a682dbe064d98bc844421159baa3234f99840de7bb6aef7400f0f619e0"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 30:11 \\ft Hebrew \\fqa the bridle\\f*",
+          "raw_sha256": "73fd5cc3d20f1d0f612e1645473854023c3a70a4f35211d0ce1e4c80062fd22f"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 30:13 \\ft Or \\fqa with no one to assist them\\f*",
+          "raw_sha256": "1f2c4ab4707c8ce60190c77bc1e7bec9ec47857f9b373951db3e1448b85edfec"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 30:18 \\ft LXX; Hebrew \\fqa He becomes like a garment to me \\ft or \\fqa my garment is disfigured\\f*",
+          "raw_sha256": "1beb20613dffcf3078017bef85a44d37979b6f476face53923b88c33759ede37"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 30:22 \\ft Or \\fqa You dissolve me\\f*",
+          "raw_sha256": "b836463c5d8543f041e909e14fc20ce7f8a3e7fe4639261d3e66936b5a1f9372"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 30:29 \\ft Or \\fqa serpents \\ft or \\fqa dragons\\f*",
+          "raw_sha256": "26ea11dd5912a7bbe5a09667c7830be5b8749d524200dd78aec0a5252636e854"
+        },
+        {
+          "source_usfm": "\\f + \\fr 30:29 \\ft Literally \\fqa of daughters of an ostrich \\ft or \\fqa of daughters of an owl\\f*",
+          "raw_sha256": "6a83acbec232555644b462f7511fae52a00e197dc761d37fd63e6b90955ec586"
+        }
+      ]
+    },
+    "31": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 31:12 \\fqa Abaddon \\ft means \\fqa Destruction\\ft .\\f*",
+          "raw_sha256": "5691cd2654f304a179ff501e392bb6a23ff3077f262721f26f63fde3916f416f"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 31:20 \\ft Hebrew \\fqa if his loins have not blessed me\\f*",
+          "raw_sha256": "3b804f4285d5eb8f16e940cc0ed3031824968cb71e482f6fb7519ad59b057898"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 31:26 \\ft Hebrew \\fqa the light\\f*",
+          "raw_sha256": "075c3e966f919542d000decb3eadc4770f2ab47f69d62802343cb02f5d8f7f57"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 31:33 \\ft Or \\fqa like men\\f*",
+          "raw_sha256": "bf10d942086b5d5c04714810b0129fda7fbf476b723d1bccd2da9c773aa84416"
+        }
+      ]
+    },
+    "32": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 32:8 \\ft Or \\fqa the Spirit\\ft ; similarly in verse 18\\f*",
+          "raw_sha256": "77a45cd7de5e75c3c465aa0d150721c0bd19d32b293436b2662c70536a96fd2e"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 32:9 \\ft Or \\fqa many \\ft or \\fqa great\\f*",
+          "raw_sha256": "d1ba539b3bc00c6b6110069ef0e3c725279294319b2982d0b394088ee1f057a8"
+        }
+      ]
+    },
+    "33": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 33:13 \\ft Or \\fqa that He answers for none of His actions\\f*",
+          "raw_sha256": "f39feaf224ea49770d5925fd653f1a5f30839d318a6e07e7195514621cb9cf84"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 33:27 \\ft Or \\fqa Then he looks upon\\f*",
+          "raw_sha256": "81af1c947e1da2c631cf9e1b8fc0d2f8bb0a1c2f83007ab314523fd7dacd05bf"
+        }
+      ]
+    },
+    "35": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 35:2 \\ft Or \\fqa ‘I am righteous before God.’\\f*",
+          "raw_sha256": "e16b5cacd318e0c066b9b1f86b08c9d15d744d495358c833476563d9e442f8a4"
+        }
+      ]
+    },
+    "36": {
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 36:12 \\ft Or \\fqa they will cross the river of death\\f*",
+          "raw_sha256": "cc7fa0420371a4efc0cd2319fd660fb533df4df75ad522a03443156057e00159"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 36:15 \\ft Or \\fqa in their affliction\\f*",
+          "raw_sha256": "2eaa86982bc649c59a55cf66a6e734780db48da901ed903d51835a79b4d523c3"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 36:19 \\ft Or \\fqa your cry for help\\f*",
+          "raw_sha256": "a7a554927af9842d31a20cb3abb2b151f492a6c2a24ec80bca67afaf6aa3a45c"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 36:31 \\ft Or \\fqa governs \\ft or \\fqa nourishes\\f*",
+          "raw_sha256": "9f8e24f2e3d81ccc53fab6de09a9b484f653e8cb0391d7ff48d8ec84e520cbdc"
+        }
+      ]
+    },
+    "37": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 37:20 \\ft Or \\fqa speak without being swallowed up\\f*",
+          "raw_sha256": "be4f3563cbaa6dadb84a1f413ec11161525e34916ea600464810f7d85b898d35"
+        }
+      ]
+    },
+    "38": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 38:2 \\ft Cited in \\ref Job 42:3|JOB 42:3\\ref*\\f*",
+          "raw_sha256": "8fea3ab71207e3b3d937c943fb45940cea7ce1a53eb362c2f69d55105e5dbf1b"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 38:3 \\ft Hebrew \\fqa gird up your loins\\f*",
+          "raw_sha256": "d9efdbe52f67d11f57ba1400c8fce8bc09d2baea01836d9059922d3423614a71"
+        },
+        {
+          "source_usfm": "\\f + \\fr 38:3 \\ft Cited in \\ref Job 42:4|JOB 42:4\\ref*\\f*",
+          "raw_sha256": "d0dda3d726170cb5bb5b3cc2da4ece1db0fbc8ac29290b3e0d4df16c30c86aec"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 38:6 \\ft Or \\fqa who set its core in place\\f*",
+          "raw_sha256": "eee0cdb30d5738e73594b55b757f3d1c4b7db75460d3fb18beb3f199781bc2ad"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 38:32 \\ft Or \\fqa bring forth Mazzaroth in its season\\f*",
+          "raw_sha256": "a20bd35eda6718e3c62ae7fa1757a7d758520e5d2ff20f465f6fcd4b7c334c17"
+        },
+        {
+          "source_usfm": "\\f + \\fr 38:32 \\ft Or \\fqa Leo \\ft or \\fqa Arcturus\\f*",
+          "raw_sha256": "60090d27fc60ed7038659a3e588e83e95d383e11ba6ad7efa8b5e519881bd233"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 38:36 \\ft Or \\fqa Who has given the ibis wisdom\\ft , that is, wisdom about the flooding of the Nile\\f*",
+          "raw_sha256": "4a7f809ce497b0d5735156aceca802d6e7cd910c1ec14140009921cf0b1c29c0"
+        }
+      ]
+    },
+    "39": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 39:13 \\fqa Pinions \\ft are the outer parts of a bird’s wings, including the flight feathers.\\f*",
+          "raw_sha256": "d96ce63cce4665a8951a0fcc258179106f8d8d154d76fe5aa9c55cf9bcf02591"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 39:23 \\ft Or \\fqa javelin\\f*",
+          "raw_sha256": "41060310ea84d9ae7c043527083540730086d51134c3e6634a2cc486c58f2b4b"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 39:25 \\ft Or \\fqa he snorts, ‘Aha!’ \\ft \\f*",
+          "raw_sha256": "a3582fc55d3031377156ed1d9b22fe5d36da87ea8bb8f8bde14f2e96e3620c97"
+        }
+      ]
+    },
+    "40": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 40:7 \\ft Hebrew \\fqa gird up your loins\\f*",
+          "raw_sha256": "39b97d7fa53cca0f79f64c2551c81203de422f86e872b7357968d782cceb302d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 40:7 \\ft Cited in \\ref Job 42:4|JOB 42:4\\ref*\\f*",
+          "raw_sha256": "3853d64d91909ac36752b4d36c4ac2605dac116f172623113b9a4f6964eaf0dd"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 40:13 \\ft Or \\fqa in the hidden place\\f*",
+          "raw_sha256": "81431f0b6a65330c70c45b2b9c3acfb803649c7948ea15929121c48d4134c646"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 40:19 \\ft Hebrew \\fqa ways\\f*",
+          "raw_sha256": "b339729b177ed45a343bd7d39fc2d287ae3a4a9ae5fcf818dc2977f509822c0b"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 40:21 \\ft Or \\fqa bramble bushes\\ft ; also in verse 22\\f*",
+          "raw_sha256": "abd7e6daf9132c4ef0f9b1acb05c6a128002e22a024dd862ad7a6406b6eecf43"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 40:22 \\ft Or \\fqa poplars\\f*",
+          "raw_sha256": "c1bf1bbac268cf62ff099f40ea31f02fca7f2a395a182d69099f19f1b8892741"
+        }
+      ]
+    },
+    "41": {
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 41:11 \\ft Cited in \\ref Romans 11:35|ROM 11:35\\ref*\\f*",
+          "raw_sha256": "d9f6fa981dfc4b5b547c60d4e9e364e40c0bb80d4e170fb3eceee252775ccaf6"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 41:13 \\ft Or \\fqa Who can come within his double mail?\\f*",
+          "raw_sha256": "e2e547ad0816ca478a99d8fffbcc644fb26a863f8722e1a34cba57daede42fbc"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 41:29 \\ft Or \\fqa javelin\\f*",
+          "raw_sha256": "ce4d3bdf1a83dbff0a82a5a2336a736fde70dcb46f12451b80f345c7faa742da"
+        }
+      ]
+    },
+    "42": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 42:3 \\ft \\ref Job 38:2|JOB 38:2\\ref*\\f*",
+          "raw_sha256": "05577e922e165b70a3cf683ad6963c8c817f96fd6963f8a69159233d41e2f5bd"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 42:4 \\ft \\ref Job 38:3|JOB 38:3\\ref* and Job 40:7\\f*",
+          "raw_sha256": "2ed3feb538ebaa089ebaab0682a7c76ea6bb3ec8a47f6ed271aae3db0c4ea23e"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 42:11 \\ft Hebrew \\fqa a kesitah\\ft ; the value or weight of the kesitah is no longer known.\\f*",
+          "raw_sha256": "efae30a4b78c6aae89a19eb5c8fb7faf45833c45b531bd88ea9d2e6597e44feb"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

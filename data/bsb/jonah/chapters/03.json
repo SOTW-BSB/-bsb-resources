@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JON",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "JON.3.1",
+      "edition_verse_id": "BSB:JON.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the word of the LORD came to Jonah a second time:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.2",
+      "edition_verse_id": "BSB:JON.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Get up! Go to the great city of Nineveh and proclaim to it the message that I give you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.3",
+      "edition_verse_id": "BSB:JON.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "This time Jonah got up and went to Nineveh, in accordance with the word of the LORD. Now Nineveh was an exceedingly great city, requiring a three-day journey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.4",
+      "edition_verse_id": "BSB:JON.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "On the first day of his journey, Jonah set out into the city and proclaimed, “Forty more days and Nineveh will be overturned!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.5",
+      "edition_verse_id": "BSB:JON.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the Ninevites believed God. They proclaimed a fast and dressed in sackcloth, from the greatest of them to the least.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.6",
+      "edition_verse_id": "BSB:JON.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.7",
+      "edition_verse_id": "BSB:JON.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then he issued a proclamation in Nineveh: “By the decree of the king and his nobles: Let no man or beast, herd or flock, taste anything at all. They must not eat or drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.8",
+      "edition_verse_id": "BSB:JON.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Furthermore, let both man and beast be covered with sackcloth, and have everyone call out earnestly to God. Let each one turn from his evil ways and from the violence in his hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.3.9",
+      "edition_verse_id": "BSB:JON.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Who knows? God may turn and relent; He may turn from His fierce anger, so that we will not perish.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.3.10",
+      "edition_verse_id": "BSB:JON.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "When God saw their actions— that they had turned from their evil ways— He relented from the disaster He had threatened to bring upon them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "JHN.1.1",
+      "edition_verse_id": "BSB:JHN.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.2",
+      "edition_verse_id": "BSB:JHN.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He was with God in the beginning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.3",
+      "edition_verse_id": "BSB:JHN.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Through Him all things were made, and without Him nothing was made that has been made.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.4",
+      "edition_verse_id": "BSB:JHN.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "In Him was life, and that life was the light of men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.5",
+      "edition_verse_id": "BSB:JHN.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The Light shines in the darkness, and the darkness has not overcome it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.6",
+      "edition_verse_id": "BSB:JHN.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "There came a man who was sent from God. His name was John.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.7",
+      "edition_verse_id": "BSB:JHN.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "He came as a witness to testify about the Light, so that through him everyone might believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.8",
+      "edition_verse_id": "BSB:JHN.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He himself was not the Light, but he came to testify about the Light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.9",
+      "edition_verse_id": "BSB:JHN.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The true Light, who gives light to everyone, was coming into the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.10",
+      "edition_verse_id": "BSB:JHN.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He was in the world, and though the world was made through Him, the world did not recognize Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.11",
+      "edition_verse_id": "BSB:JHN.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He came to His own, and His own did not receive Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.12",
+      "edition_verse_id": "BSB:JHN.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But to all who did receive Him, to those who believed in His name, He gave the right to become children of God —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.13",
+      "edition_verse_id": "BSB:JHN.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "children born not of blood, nor of the desire or will of man, but born of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.14",
+      "edition_verse_id": "BSB:JHN.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "The Word became flesh and made His dwelling among us. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.15",
+      "edition_verse_id": "BSB:JHN.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘He who comes after me has surpassed me because He was before me.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.16",
+      "edition_verse_id": "BSB:JHN.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "From His fullness we have all received grace upon grace.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.17",
+      "edition_verse_id": "BSB:JHN.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For the law was given through Moses; grace and truth came through Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.18",
+      "edition_verse_id": "BSB:JHN.1.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.19",
+      "edition_verse_id": "BSB:JHN.1.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And this was John’s testimony when the Jews of Jerusalem sent priests and Levites to ask him, “Who are you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.20",
+      "edition_verse_id": "BSB:JHN.1.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He did not refuse to confess, but openly declared, “I am not the Christ.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.21",
+      "edition_verse_id": "BSB:JHN.1.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "“Then who are you?” they inquired. “Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.22",
+      "edition_verse_id": "BSB:JHN.1.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So they said to him, “Who are you? We need an answer for those who sent us. What do you say about yourself?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.23",
+      "edition_verse_id": "BSB:JHN.1.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "John replied in the words of Isaiah the prophet: “I am a voice of one calling in the wilderness, ‘Make straight the way for the Lord.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.24",
+      "edition_verse_id": "BSB:JHN.1.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then the Pharisees who had been sent",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.25",
+      "edition_verse_id": "BSB:JHN.1.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "asked him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the Prophet?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.26",
+      "edition_verse_id": "BSB:JHN.1.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "“I baptize with water,” John replied, “but among you stands One you do not know.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.27",
+      "edition_verse_id": "BSB:JHN.1.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "He is the One who comes after me, the straps of whose sandals I am not worthy to untie.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.28",
+      "edition_verse_id": "BSB:JHN.1.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "All this happened at Bethany beyond the Jordan, where John was baptizing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.29",
+      "edition_verse_id": "BSB:JHN.1.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The next day John saw Jesus coming toward him and said, “Look, the Lamb of God, who takes away the sin of the world!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.30",
+      "edition_verse_id": "BSB:JHN.1.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "This is He of whom I said, ‘A man who comes after me has surpassed me because He was before me.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.31",
+      "edition_verse_id": "BSB:JHN.1.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "I myself did not know Him, but the reason I came baptizing with water was that He might be revealed to Israel.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.32",
+      "edition_verse_id": "BSB:JHN.1.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "Then John testified, “I saw the Spirit descending from heaven like a dove and resting on Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.33",
+      "edition_verse_id": "BSB:JHN.1.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "I myself did not know Him, but the One who sent me to baptize with water told me, ‘The man on whom you see the Spirit descend and rest is He who will baptize with the Holy Spirit.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.34",
+      "edition_verse_id": "BSB:JHN.1.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "I have seen and testified that this is the Son of God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.35",
+      "edition_verse_id": "BSB:JHN.1.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The next day John was there again with two of his disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.36",
+      "edition_verse_id": "BSB:JHN.1.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "When he saw Jesus walking by, he said, “Look, the Lamb of God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.37",
+      "edition_verse_id": "BSB:JHN.1.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And when the two disciples heard him say this, they followed Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.38",
+      "edition_verse_id": "BSB:JHN.1.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Jesus turned and saw them following. “What do you want?” He asked. They said to Him, “Rabbi” (which means Teacher), “where are You staying?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.39",
+      "edition_verse_id": "BSB:JHN.1.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "“Come and see,” He replied. So they went and saw where He was staying, and spent that day with Him. It was about the tenth hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.40",
+      "edition_verse_id": "BSB:JHN.1.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Andrew, Simon Peter’s brother, was one of the two who heard John’s testimony and followed Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.41",
+      "edition_verse_id": "BSB:JHN.1.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "He first found his brother Simon and told him, “We have found the Messiah” (which is translated as Christ).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.42",
+      "edition_verse_id": "BSB:JHN.1.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Andrew brought him to Jesus, who looked at him and said, “You are Simon son of John. You will be called Cephas” (which is translated as Peter).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.43",
+      "edition_verse_id": "BSB:JHN.1.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "The next day Jesus decided to set out for Galilee. Finding Philip, He told him, “Follow Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.44",
+      "edition_verse_id": "BSB:JHN.1.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Now Philip was from Bethsaida, the same town as Andrew and Peter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.1.45",
+      "edition_verse_id": "BSB:JHN.1.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Philip found Nathanael and told him, “We have found the One Moses wrote about in the Law, the One the prophets foretold — Jesus of Nazareth, the son of Joseph.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.46",
+      "edition_verse_id": "BSB:JHN.1.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "“Can anything good come from Nazareth?” Nathanael asked. “Come and see,” said Philip.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.47",
+      "edition_verse_id": "BSB:JHN.1.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "When Jesus saw Nathanael approaching, He said of him, “Here is a true Israelite, in whom there is no deceit.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.48",
+      "edition_verse_id": "BSB:JHN.1.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "“How do You know me?” Nathanael asked. Jesus replied, “Before Philip called you, I saw you under the fig tree.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.49",
+      "edition_verse_id": "BSB:JHN.1.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "“Rabbi,” Nathanael answered, “You are the Son of God! You are the King of Israel!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.50",
+      "edition_verse_id": "BSB:JHN.1.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Jesus said to him, “Do you believe just because I told you I saw you under the fig tree? You will see greater things than these.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.1.51",
+      "edition_verse_id": "BSB:JHN.1.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

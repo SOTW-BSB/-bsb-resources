@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JON",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "JON.2.1",
+      "edition_verse_id": "BSB:JON.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "From inside the fish, Jonah prayed to the LORD his God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.2.2",
+      "edition_verse_id": "BSB:JON.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "saying: “In my distress I called to the LORD, and He answered me. From the belly of Sheol I called for help, and You heard my voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.3",
+      "edition_verse_id": "BSB:JON.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For You cast me into the deep, into the heart of the seas, and the current swirled about me; all Your breakers and waves swept over me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.4",
+      "edition_verse_id": "BSB:JON.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "At this, I said, ‘I have been banished from Your sight; yet I will look once more toward Your holy temple.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.5",
+      "edition_verse_id": "BSB:JON.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The waters engulfed me to take my life; the watery depths closed around me; the seaweed wrapped around my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.6",
+      "edition_verse_id": "BSB:JON.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "To the roots of the mountains I descended; the earth beneath me barred me in forever! But You raised my life from the pit, O LORD my God!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.7",
+      "edition_verse_id": "BSB:JON.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "As my life was fading away, I remembered the LORD. My prayer went up to You, to Your holy temple.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.8",
+      "edition_verse_id": "BSB:JON.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Those who cling to worthless idols forsake His loving devotion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.9",
+      "edition_verse_id": "BSB:JON.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But I, with the voice of thanksgiving, will sacrifice to You. I will fulfill what I have vowed. Salvation is from the LORD!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.2.10",
+      "edition_verse_id": "BSB:JON.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And the LORD commanded the fish, and it vomited Jonah onto dry land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

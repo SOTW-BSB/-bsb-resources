@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 29,
+  "verses": [
+    {
+      "id": "JOB.29.1",
+      "edition_verse_id": "BSB:JOB.29.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And Job continued his discourse:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.29.2",
+      "edition_verse_id": "BSB:JOB.29.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“How I long for the months gone by, for the days when God watched over me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.3",
+      "edition_verse_id": "BSB:JOB.29.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "when His lamp shone above my head, and by His light I walked through the darkness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.4",
+      "edition_verse_id": "BSB:JOB.29.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "when I was in my prime, when the friendship of God rested on my tent,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.5",
+      "edition_verse_id": "BSB:JOB.29.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "when the Almighty was still with me and my children were around me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.6",
+      "edition_verse_id": "BSB:JOB.29.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "when my steps were bathed in cream and the rock poured out for me streams of oil!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.7",
+      "edition_verse_id": "BSB:JOB.29.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "When I went out to the city gate and took my seat in the public square,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.8",
+      "edition_verse_id": "BSB:JOB.29.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "the young men saw me and withdrew, and the old men rose to their feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.9",
+      "edition_verse_id": "BSB:JOB.29.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The princes refrained from speaking and covered their mouths with their hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.10",
+      "edition_verse_id": "BSB:JOB.29.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The voices of the nobles were hushed, and their tongues stuck to the roofs of their mouths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.11",
+      "edition_verse_id": "BSB:JOB.29.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "For those who heard me called me blessed, and those who saw me commended me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.12",
+      "edition_verse_id": "BSB:JOB.29.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "because I rescued the poor who cried out and the fatherless who had no helper.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.13",
+      "edition_verse_id": "BSB:JOB.29.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The dying man blessed me, and I made the widow’s heart sing for joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.14",
+      "edition_verse_id": "BSB:JOB.29.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I put on righteousness, and it clothed me; justice was my robe and my turban.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.15",
+      "edition_verse_id": "BSB:JOB.29.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "I served as eyes to the blind and as feet to the lame.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.16",
+      "edition_verse_id": "BSB:JOB.29.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I was a father to the needy, and I took up the case of the stranger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.17",
+      "edition_verse_id": "BSB:JOB.29.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I shattered the fangs of the unjust and snatched the prey from his teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.18",
+      "edition_verse_id": "BSB:JOB.29.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "So I thought: ‘I will die in my nest and multiply my days as the sand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.19",
+      "edition_verse_id": "BSB:JOB.29.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "My roots will spread out to the waters, and the dew will rest nightly on my branches.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.20",
+      "edition_verse_id": "BSB:JOB.29.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My glory is ever new within me, and my bow is renewed in my hand.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.21",
+      "edition_verse_id": "BSB:JOB.29.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Men listened to me with expectation, waiting silently for my counsel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.22",
+      "edition_verse_id": "BSB:JOB.29.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "After my words, they spoke no more; my speech settled on them like dew.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.23",
+      "edition_verse_id": "BSB:JOB.29.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "They waited for me as for rain and drank in my words like spring showers.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.24",
+      "edition_verse_id": "BSB:JOB.29.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "If I smiled at them, they did not believe it; the light of my countenance was precious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.29.25",
+      "edition_verse_id": "BSB:JOB.29.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I chose their course and presided as chief. So I dwelt as a king among his troops, as a comforter of the mourners.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

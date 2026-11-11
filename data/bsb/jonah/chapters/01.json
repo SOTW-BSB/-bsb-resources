@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JON",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "JON.1.1",
+      "edition_verse_id": "BSB:JON.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the word of the LORD came to Jonah son of Amittai, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.2",
+      "edition_verse_id": "BSB:JON.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Get up! Go to the great city of Nineveh and preach against it, because its wickedness has come up before Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.1.3",
+      "edition_verse_id": "BSB:JON.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Jonah, however, got up to flee to Tarshish, away from the presence of the LORD. He went down to Joppa and found a ship bound for Tarshish. So he paid the fare and went aboard to sail for Tarshish, away from the presence of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.4",
+      "edition_verse_id": "BSB:JON.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Then the LORD hurled a great wind upon the sea, and such a violent storm arose that the ship was in danger of breaking apart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.5",
+      "edition_verse_id": "BSB:JON.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The sailors were afraid, and each cried out to his own god. And they threw the ship’s cargo into the sea to lighten the load. But Jonah had gone down to the lowest part of the vessel, where he lay down and fell into a deep sleep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JON.1.6",
+      "edition_verse_id": "BSB:JON.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The captain approached him and said, “How can you sleep? Get up and call upon your God. Perhaps this God will consider us, so that we may not perish.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.7",
+      "edition_verse_id": "BSB:JON.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Come!” said the sailors to one another. “Let us cast lots to find out who is responsible for this calamity that is upon us.” So they cast lots, and the lot fell on Jonah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.8",
+      "edition_verse_id": "BSB:JON.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“Tell us now,” they demanded, “who is to blame for this calamity that is upon us? What is your occupation, and where have you come from? What is your country, and who are your people?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.9",
+      "edition_verse_id": "BSB:JON.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "“I am a Hebrew,” replied Jonah. “I worship the LORD, the God of the heavens, who made the sea and the dry land.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.10",
+      "edition_verse_id": "BSB:JON.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then the men were even more afraid and said to him, “What have you done?” The men knew that he was fleeing from the presence of the LORD, because he had told them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.11",
+      "edition_verse_id": "BSB:JON.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Now the sea was growing worse and worse, so they said to Jonah, “What must we do to you to calm this sea for us?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.12",
+      "edition_verse_id": "BSB:JON.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Pick me up,” he answered, “and cast me into the sea, so it may quiet down for you. For I know that I am to blame for this violent storm that has come upon you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.13",
+      "edition_verse_id": "BSB:JON.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Nevertheless, the men rowed hard to get back to dry land, but they could not, for the sea was raging against them more and more.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.14",
+      "edition_verse_id": "BSB:JON.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So they cried out to the LORD: “Please, O LORD, do not let us perish on account of this man’s life! Do not charge us with innocent blood! For You, O LORD, have done as You pleased.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.15",
+      "edition_verse_id": "BSB:JON.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Then they picked up Jonah and cast him into the sea, and the raging sea grew calm.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.16",
+      "edition_verse_id": "BSB:JON.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then the men feared the LORD greatly, and they offered a sacrifice to the LORD and made vows to Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JON.1.17",
+      "edition_verse_id": "BSB:JON.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now the LORD had appointed a great fish to swallow Jonah, and Jonah spent three days and three nights in the belly of the fish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

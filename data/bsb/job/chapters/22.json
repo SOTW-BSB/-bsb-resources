@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "JOB.22.1",
+      "edition_verse_id": "BSB:JOB.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Eliphaz the Temanite replied:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.22.2",
+      "edition_verse_id": "BSB:JOB.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Can a man be of use to God? Can even a wise man benefit Him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.3",
+      "edition_verse_id": "BSB:JOB.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Does it delight the Almighty that you are righteous? Does He profit if your ways are blameless?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.4",
+      "edition_verse_id": "BSB:JOB.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Is it for your reverence that He rebukes you and enters into judgment against you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.5",
+      "edition_verse_id": "BSB:JOB.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Is not your wickedness great? Are not your iniquities endless?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.6",
+      "edition_verse_id": "BSB:JOB.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For you needlessly demanded security from your brothers and deprived the naked of their clothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.7",
+      "edition_verse_id": "BSB:JOB.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "You gave no water to the weary and withheld food from the famished,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.8",
+      "edition_verse_id": "BSB:JOB.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "while the land belonged to a mighty man, and a man of honor lived on it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.9",
+      "edition_verse_id": "BSB:JOB.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "You sent widows away empty-handed, and the strength of the fatherless was crushed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.10",
+      "edition_verse_id": "BSB:JOB.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore snares surround you, and sudden peril terrifies you;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.11",
+      "edition_verse_id": "BSB:JOB.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "it is so dark you cannot see, and a flood of water covers you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.12",
+      "edition_verse_id": "BSB:JOB.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Is not God as high as the heavens? Look at the highest stars, how lofty they are!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.13",
+      "edition_verse_id": "BSB:JOB.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Yet you say: ‘What does God know? Does He judge through thick darkness?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.14",
+      "edition_verse_id": "BSB:JOB.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Thick clouds veil Him so He does not see us as He traverses the vault of heaven.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.15",
+      "edition_verse_id": "BSB:JOB.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Will you stay on the ancient path that wicked men have trod?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.16",
+      "edition_verse_id": "BSB:JOB.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "They were snatched away before their time, and their foundations were swept away by a flood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.17",
+      "edition_verse_id": "BSB:JOB.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "They said to God, ‘Depart from us. What can the Almighty do to us?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.18",
+      "edition_verse_id": "BSB:JOB.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "But it was He who filled their houses with good things; so I stay far from the counsel of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.19",
+      "edition_verse_id": "BSB:JOB.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The righteous see it and are glad; the innocent mock them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.20",
+      "edition_verse_id": "BSB:JOB.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "‘Surely our foes are destroyed, and fire has consumed their excess.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.21",
+      "edition_verse_id": "BSB:JOB.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Reconcile now and be at peace with Him; thereby good will come to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.22",
+      "edition_verse_id": "BSB:JOB.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Receive instruction from His mouth, and lay up His words in your heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.23",
+      "edition_verse_id": "BSB:JOB.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If you return to the Almighty, you will be restored. If you remove injustice from your tents",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.24",
+      "edition_verse_id": "BSB:JOB.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and consign your gold to the dust and the gold of Ophir to the stones of the ravines,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.25",
+      "edition_verse_id": "BSB:JOB.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "then the Almighty will be your gold and the finest silver for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.26",
+      "edition_verse_id": "BSB:JOB.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Surely then you will delight in the Almighty and lift up your face to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.27",
+      "edition_verse_id": "BSB:JOB.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "You will pray to Him, and He will hear you, and you will fulfill your vows.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.28",
+      "edition_verse_id": "BSB:JOB.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Your decisions will be carried out, and light will shine on your ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.29",
+      "edition_verse_id": "BSB:JOB.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "When men are brought low and you say, ‘Lift them up!’ then He will save the lowly.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.22.30",
+      "edition_verse_id": "BSB:JOB.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "He will deliver even one who is not innocent, rescuing him through the cleanness of your hands.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 7,
+  "verses": [
+    {
+      "id": "JHN.7.1",
+      "edition_verse_id": "BSB:JHN.7.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After this, Jesus traveled throughout Galilee. He did not want to travel in Judea, because the Jews there were trying to kill Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.2",
+      "edition_verse_id": "BSB:JHN.7.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "However, the Jewish Feast of Tabernacles was near.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.3",
+      "edition_verse_id": "BSB:JHN.7.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So Jesus’ brothers said to Him, “Leave here and go to Judea, so that Your disciples there may see the works You are doing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.4",
+      "edition_verse_id": "BSB:JHN.7.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "For no one who wants to be known publicly acts in secret. Since You are doing these things, show Yourself to the world.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.5",
+      "edition_verse_id": "BSB:JHN.7.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For even His own brothers did not believe in Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.6",
+      "edition_verse_id": "BSB:JHN.7.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Therefore Jesus told them, “Although your time is always at hand, My time has not yet come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.7",
+      "edition_verse_id": "BSB:JHN.7.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The world cannot hate you, but it hates Me, because I testify that its works are evil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.8",
+      "edition_verse_id": "BSB:JHN.7.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Go up to the feast on your own. I am not going up to this feast, because My time has not yet come.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.9",
+      "edition_verse_id": "BSB:JHN.7.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Having said this, Jesus remained in Galilee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.10",
+      "edition_verse_id": "BSB:JHN.7.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But after His brothers had gone up to the feast, He also went — not publicly, but in secret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.11",
+      "edition_verse_id": "BSB:JHN.7.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So the Jews were looking for Him at the feast and asking, “Where is He?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.12",
+      "edition_verse_id": "BSB:JHN.7.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Many in the crowds were whispering about Him. Some said, “He is a good man.” But others replied, “No, He deceives the people.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.13",
+      "edition_verse_id": "BSB:JHN.7.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Yet no one would speak publicly about Him for fear of the Jews.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.14",
+      "edition_verse_id": "BSB:JHN.7.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "About halfway through the feast, Jesus went up to the temple courts and began to teach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.15",
+      "edition_verse_id": "BSB:JHN.7.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The Jews were amazed and asked, “How did this man attain such learning without having studied?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.16",
+      "edition_verse_id": "BSB:JHN.7.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "“My teaching is not My own,” Jesus replied. “It comes from Him who sent Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.17",
+      "edition_verse_id": "BSB:JHN.7.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If anyone desires to do His will, he will know whether My teaching is from God or whether I speak on My own.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.18",
+      "edition_verse_id": "BSB:JHN.7.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He who speaks on his own authority seeks his own glory, but He who seeks the glory of the One who sent Him is a man of truth; in Him there is no falsehood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.19",
+      "edition_verse_id": "BSB:JHN.7.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Has not Moses given you the law? Yet not one of you keeps it. Why are you trying to kill Me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.20",
+      "edition_verse_id": "BSB:JHN.7.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“You have a demon,” the crowd replied. “Who is trying to kill You?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.21",
+      "edition_verse_id": "BSB:JHN.7.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Jesus answered them, “I did one miracle, and you are all amazed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.22",
+      "edition_verse_id": "BSB:JHN.7.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But because Moses gave you circumcision, you circumcise a boy on the Sabbath (not that it is from Moses, but from the patriarchs.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.23",
+      "edition_verse_id": "BSB:JHN.7.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If a boy can be circumcised on the Sabbath so that the law of Moses will not be broken, why are you angry with Me for making the whole man well on the Sabbath?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.24",
+      "edition_verse_id": "BSB:JHN.7.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Stop judging by outward appearances, and start judging justly.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.25",
+      "edition_verse_id": "BSB:JHN.7.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Then some of the people of Jerusalem began to say, “Isn’t this the man they are trying to kill?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.26",
+      "edition_verse_id": "BSB:JHN.7.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Yet here He is, speaking publicly, and they are not saying anything to Him. Have the rulers truly recognized that this is the Christ?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.27",
+      "edition_verse_id": "BSB:JHN.7.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But we know where this man is from. When the Christ comes, no one will know where He is from.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.28",
+      "edition_verse_id": "BSB:JHN.7.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then Jesus, still teaching in the temple courts, cried out, “You know Me, and you know where I am from. I have not come of My own accord, but He who sent Me is true. You do not know Him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.29",
+      "edition_verse_id": "BSB:JHN.7.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "but I know Him, because I am from Him and He sent Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.30",
+      "edition_verse_id": "BSB:JHN.7.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "So they tried to seize Him, but no one laid a hand on Him, because His hour had not yet come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.31",
+      "edition_verse_id": "BSB:JHN.7.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Many in the crowd, however, believed in Him and said, “When the Christ comes, will He perform more signs than this man?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.32",
+      "edition_verse_id": "BSB:JHN.7.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "When the Pharisees heard the crowd whispering these things about Jesus, they and the chief priests sent officers to arrest Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.33",
+      "edition_verse_id": "BSB:JHN.7.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So Jesus said, “I am with you only a little while longer, and then I am going to the One who sent Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.34",
+      "edition_verse_id": "BSB:JHN.7.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "You will look for Me, but you will not find Me; and where I am, you cannot come.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.35",
+      "edition_verse_id": "BSB:JHN.7.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "At this, the Jews said to one another, “Where does He intend to go that we will not find Him? Will He go where the Jews are dispersed among the Greeks, and teach the Greeks?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.36",
+      "edition_verse_id": "BSB:JHN.7.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "What does He mean by saying, ‘You will look for Me, but you will not find Me,’ and, ‘Where I am, you cannot come’?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.37",
+      "edition_verse_id": "BSB:JHN.7.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "On the last and greatest day of the feast, Jesus stood up and called out in a loud voice, “If anyone is thirsty, let him come to Me and drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.38",
+      "edition_verse_id": "BSB:JHN.7.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.39",
+      "edition_verse_id": "BSB:JHN.7.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "He was speaking about the Spirit, whom those who believed in Him were later to receive. For the Spirit had not yet been given, because Jesus had not yet been glorified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.40",
+      "edition_verse_id": "BSB:JHN.7.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "On hearing these words, some of the people said, “This is truly the Prophet.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.41",
+      "edition_verse_id": "BSB:JHN.7.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Others declared, “This is the Christ.” But still others asked, “How can the Christ come from Galilee?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.42",
+      "edition_verse_id": "BSB:JHN.7.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Doesn’t the Scripture say that the Christ will come from the line of David and from Bethlehem, the village where David lived?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.43",
+      "edition_verse_id": "BSB:JHN.7.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "So there was division in the crowd because of Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.44",
+      "edition_verse_id": "BSB:JHN.7.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Some of them wanted to seize Him, but no one laid a hand on Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.45",
+      "edition_verse_id": "BSB:JHN.7.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Then the officers returned to the chief priests and Pharisees, who asked them, “Why didn’t you bring Him in?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.46",
+      "edition_verse_id": "BSB:JHN.7.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "“Never has anyone spoken like this man!” the officers answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.47",
+      "edition_verse_id": "BSB:JHN.7.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "“Have you also been deceived?” replied the Pharisees.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.48",
+      "edition_verse_id": "BSB:JHN.7.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "“Have any of the rulers or Pharisees believed in Him?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.49",
+      "edition_verse_id": "BSB:JHN.7.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "But this crowd that does not know the law— they are under a curse.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.50",
+      "edition_verse_id": "BSB:JHN.7.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "Nicodemus, who had gone to Jesus earlier and who himself was one of them, asked,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.51",
+      "edition_verse_id": "BSB:JHN.7.51",
+      "verse": 51,
+      "spans": [
+        {
+          "text": "“Does our law convict a man without first hearing from him to determine what he has done?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.7.52",
+      "edition_verse_id": "BSB:JHN.7.52",
+      "verse": 52,
+      "spans": [
+        {
+          "text": "“Aren’t you also from Galilee?” they replied. “Look into it, and you will see that no prophet comes out of Galilee.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.7.53",
+      "edition_verse_id": "BSB:JHN.7.53",
+      "verse": 53,
+      "spans": [
+        {
+          "text": "Then each went to his own home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

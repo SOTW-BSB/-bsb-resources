@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "JHN.14.1",
+      "edition_verse_id": "BSB:JHN.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Do not let your hearts be troubled. You believe in God; believe in Me as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.2",
+      "edition_verse_id": "BSB:JHN.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.3",
+      "edition_verse_id": "BSB:JHN.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.4",
+      "edition_verse_id": "BSB:JHN.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You know the way to the place where I am going.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.5",
+      "edition_verse_id": "BSB:JHN.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Lord,” said Thomas, “we do not know where You are going, so how can we know the way?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.6",
+      "edition_verse_id": "BSB:JHN.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.7",
+      "edition_verse_id": "BSB:JHN.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If you had known Me, you would know My Father as well. From now on you do know Him and have seen Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.8",
+      "edition_verse_id": "BSB:JHN.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Philip said to Him, “Lord, show us the Father, and that will be enough for us.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.9",
+      "edition_verse_id": "BSB:JHN.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.10",
+      "edition_verse_id": "BSB:JHN.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Do you not believe that I am in the Father and the Father is in Me? The words I say to you, I do not speak on My own. Instead, it is the Father dwelling in Me, performing His works.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.11",
+      "edition_verse_id": "BSB:JHN.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Believe Me that I am in the Father and the Father is in Me — or at least believe on account of the works themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.12",
+      "edition_verse_id": "BSB:JHN.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Truly, truly, I tell you, whoever believes in Me will also do the works that I am doing. He will do even greater things than these, because I am going to the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.13",
+      "edition_verse_id": "BSB:JHN.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And I will do whatever you ask in My name, so that the Father may be glorified in the Son.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.14",
+      "edition_verse_id": "BSB:JHN.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "If you ask Me for anything in My name, I will do it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.15",
+      "edition_verse_id": "BSB:JHN.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "If you love Me, you will keep My commandments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.16",
+      "edition_verse_id": "BSB:JHN.14.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And I will ask the Father, and He will give you another Advocate to be with you forever —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.17",
+      "edition_verse_id": "BSB:JHN.14.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.18",
+      "edition_verse_id": "BSB:JHN.14.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "I will not leave you as orphans; I will come to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.19",
+      "edition_verse_id": "BSB:JHN.14.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "In a little while the world will see Me no more, but you will see Me. Because I live, you also will live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.20",
+      "edition_verse_id": "BSB:JHN.14.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "On that day you will know that I am in My Father, and you are in Me, and I am in you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.21",
+      "edition_verse_id": "BSB:JHN.14.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Whoever has My commandments and keeps them is the one who loves Me. The one who loves Me will be loved by My Father, and I will love him and reveal Myself to him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.22",
+      "edition_verse_id": "BSB:JHN.14.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Judas (not Iscariot) asked Him, “Lord, why are You going to reveal Yourself to us and not to the world?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.23",
+      "edition_verse_id": "BSB:JHN.14.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Jesus replied, “If anyone loves Me, he will keep My word. My Father will love him, and We will come to him and make Our home with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.24",
+      "edition_verse_id": "BSB:JHN.14.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Whoever does not love Me does not keep My words. The word that you hear is not My own, but it is from the Father who sent Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.25",
+      "edition_verse_id": "BSB:JHN.14.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "All this I have spoken to you while I am still with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.26",
+      "edition_verse_id": "BSB:JHN.14.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things and will remind you of everything I have told you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.27",
+      "edition_verse_id": "BSB:JHN.14.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.28",
+      "edition_verse_id": "BSB:JHN.14.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "You heard Me say, ‘I am going away, and I am coming back to you.’ If you loved Me, you would rejoice that I am going to the Father, because the Father is greater than I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.29",
+      "edition_verse_id": "BSB:JHN.14.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "And now I have told you before it happens, so that when it does happen, you will believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.14.30",
+      "edition_verse_id": "BSB:JHN.14.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I will not speak with you much longer, for the prince of this world is coming, and he has no claim on Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.14.31",
+      "edition_verse_id": "BSB:JHN.14.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But I do exactly what the Father has commanded Me, so that the world may know that I love the Father. Get up! Let us go on from here.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

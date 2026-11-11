@@ -1,0 +1,488 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "JHN.18.1",
+      "edition_verse_id": "BSB:JHN.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.2",
+      "edition_verse_id": "BSB:JHN.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Now Judas His betrayer also knew the place, because Jesus had often met there with His disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.3",
+      "edition_verse_id": "BSB:JHN.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So Judas brought a band of soldiers and officers from the chief priests and Pharisees. They arrived at the garden carrying lanterns, torches, and weapons.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.4",
+      "edition_verse_id": "BSB:JHN.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Jesus, knowing all that was coming upon Him, stepped forward and asked them, “Whom are you seeking?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.5",
+      "edition_verse_id": "BSB:JHN.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Jesus of Nazareth,” they answered. Jesus said, “I am He.” And Judas His betrayer was standing there with them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.6",
+      "edition_verse_id": "BSB:JHN.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When Jesus said, “I am He,” they drew back and fell to the ground.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.7",
+      "edition_verse_id": "BSB:JHN.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So He asked them again, “Whom are you seeking?” “Jesus of Nazareth,” they answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.8",
+      "edition_verse_id": "BSB:JHN.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "“I told you that I am He,” Jesus replied. “So if you are looking for Me, let these men go.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.9",
+      "edition_verse_id": "BSB:JHN.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "This was to fulfill the word He had spoken: “I have not lost one of those You have given Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.10",
+      "edition_verse_id": "BSB:JHN.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Simon Peter drew his sword and struck the servant of the high priest, cutting off his right ear. The servant’s name was Malchus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.11",
+      "edition_verse_id": "BSB:JHN.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "“Put your sword back in its sheath!” Jesus said to Peter. “Shall I not drink the cup the Father has given Me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.12",
+      "edition_verse_id": "BSB:JHN.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Then the band of soldiers, with its commander and the officers of the Jews, arrested Jesus and bound Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.13",
+      "edition_verse_id": "BSB:JHN.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They brought Him first to Annas, who was the father-in-law of Caiaphas, the high priest that year.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.14",
+      "edition_verse_id": "BSB:JHN.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Caiaphas was the one who had advised the Jews that it would be better if one man died for the people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.15",
+      "edition_verse_id": "BSB:JHN.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now Simon Peter and another disciple were following Jesus. Since that disciple was known to the high priest, he also went with Jesus into the courtyard of the high priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.16",
+      "edition_verse_id": "BSB:JHN.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "But Peter stood outside at the door. Then the disciple who was known to the high priest went out and spoke to the doorkeeper, and brought Peter in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.17",
+      "edition_verse_id": "BSB:JHN.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "At this, the servant girl watching the door said to Peter, “Aren’t you also one of this man’s disciples?” “I am not,” he answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.18",
+      "edition_verse_id": "BSB:JHN.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Because it was cold, the servants and officers were standing around a charcoal fire they had made to keep warm. And Peter was also standing with them, warming himself.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.19",
+      "edition_verse_id": "BSB:JHN.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Meanwhile, the high priest questioned Jesus about His disciples and His teaching.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.20",
+      "edition_verse_id": "BSB:JHN.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "“I have spoken openly to the world,” Jesus answered. “I always taught in the synagogues and at the temple, where all the Jews come together. I said nothing in secret.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.21",
+      "edition_verse_id": "BSB:JHN.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Why are you asking Me? Ask those who heard My message. Surely they know what I said.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.18.22",
+      "edition_verse_id": "BSB:JHN.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When Jesus had said this, one of the officers standing nearby slapped Him in the face and said, “Is this how You answer the high priest?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.23",
+      "edition_verse_id": "BSB:JHN.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Jesus replied, “If I said something wrong, testify as to what was wrong. But if I spoke correctly, why did you strike Me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.24",
+      "edition_verse_id": "BSB:JHN.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then Annas sent Him, still bound, to Caiaphas the high priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.25",
+      "edition_verse_id": "BSB:JHN.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Simon Peter was still standing and warming himself. So they asked him, “Aren’t you also one of His disciples?” He denied it and said, “I am not.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.26",
+      "edition_verse_id": "BSB:JHN.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "One of the high priest’s servants, a relative of the man whose ear Peter had cut off, asked, “Didn’t I see you with Him in the garden?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.27",
+      "edition_verse_id": "BSB:JHN.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Peter denied it once more, and immediately a rooster crowed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.28",
+      "edition_verse_id": "BSB:JHN.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Then they led Jesus away from Caiaphas into the Praetorium. By now it was early morning, and the Jews did not enter the Praetorium, to avoid being defiled and unable to eat the Passover.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.29",
+      "edition_verse_id": "BSB:JHN.18.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So Pilate went out to them and asked, “What accusation are you bringing against this man?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.30",
+      "edition_verse_id": "BSB:JHN.18.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "“If He were not a criminal,” they replied, “we would not have handed Him over to you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.31",
+      "edition_verse_id": "BSB:JHN.18.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "“You take Him and judge Him by your own law,” Pilate told them. “We are not permitted to execute anyone,” the Jews replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.32",
+      "edition_verse_id": "BSB:JHN.18.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "This was to fulfill the word that Jesus had spoken to indicate the kind of death He was going to die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.33",
+      "edition_verse_id": "BSB:JHN.18.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "Pilate went back into the Praetorium, summoned Jesus, and asked Him, “Are You the King of the Jews?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.34",
+      "edition_verse_id": "BSB:JHN.18.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "“Are you saying this on your own,” Jesus asked, “or did others tell you about Me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.35",
+      "edition_verse_id": "BSB:JHN.18.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "“Am I a Jew?” Pilate replied. “Your own people and chief priests handed You over to me. What have You done?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.36",
+      "edition_verse_id": "BSB:JHN.18.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Jesus answered, “My kingdom is not of this world; if it were, My servants would fight to prevent My arrest by the Jews. But now My kingdom is not of this realm.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.37",
+      "edition_verse_id": "BSB:JHN.18.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "“Then You are a king!” Pilate said. “You say that I am a king,” Jesus answered. “For this reason I was born and have come into the world, to testify to the truth. Everyone who belongs to the truth listens to My voice.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.38",
+      "edition_verse_id": "BSB:JHN.18.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "“What is truth?” Pilate asked. And having said this, he went out again to the Jews and told them, “I find no basis for a charge against Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.39",
+      "edition_verse_id": "BSB:JHN.18.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "But it is your custom that I release to you one prisoner at the Passover. So then, do you want me to release to you the King of the Jews?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.18.40",
+      "edition_verse_id": "BSB:JHN.18.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "“Not this man,” they shouted, “but Barabbas!” ( Now Barabbas was an insurrectionist. )",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

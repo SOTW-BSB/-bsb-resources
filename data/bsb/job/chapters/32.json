@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 32,
+  "verses": [
+    {
+      "id": "JOB.32.1",
+      "edition_verse_id": "BSB:JOB.32.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "So these three men stopped answering Job, because he was righteous in his own eyes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.32.2",
+      "edition_verse_id": "BSB:JOB.32.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "This kindled the anger of Elihu son of Barachel the Buzite, of the family of Ram. He burned with anger against Job for justifying himself rather than God,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.32.3",
+      "edition_verse_id": "BSB:JOB.32.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and he burned with anger against Job’s three friends because they had failed to refute Job, and yet had condemned him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.4",
+      "edition_verse_id": "BSB:JOB.32.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now Elihu had waited to speak to Job because the others were older than he.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.32.5",
+      "edition_verse_id": "BSB:JOB.32.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But when he saw that the three men had no further reply, his anger was kindled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.6",
+      "edition_verse_id": "BSB:JOB.32.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "So Elihu son of Barachel the Buzite declared: “I am young in years, while you are old; that is why I was timid and afraid to tell you what I know.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.7",
+      "edition_verse_id": "BSB:JOB.32.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I thought that age should speak, and many years should teach wisdom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.8",
+      "edition_verse_id": "BSB:JOB.32.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "But there is a spirit in a man, the breath of the Almighty, that gives him understanding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.9",
+      "edition_verse_id": "BSB:JOB.32.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "It is not only the old who are wise, or the elderly who understand justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.10",
+      "edition_verse_id": "BSB:JOB.32.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Therefore I say, ‘Listen to me; I too will declare what I know.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.11",
+      "edition_verse_id": "BSB:JOB.32.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Indeed, I waited while you spoke; I listened to your reasoning; as you searched for words,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.12",
+      "edition_verse_id": "BSB:JOB.32.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I paid you full attention. But no one proved Job wrong; not one of you rebutted his arguments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.13",
+      "edition_verse_id": "BSB:JOB.32.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So do not claim, ‘We have found wisdom; let God, not man, refute him.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.14",
+      "edition_verse_id": "BSB:JOB.32.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But Job has not directed his words against me, and I will not answer him with your arguments.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.15",
+      "edition_verse_id": "BSB:JOB.32.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Job’s friends are dismayed, with no more to say; words have escaped them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.16",
+      "edition_verse_id": "BSB:JOB.32.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Must I wait, now that they are silent, now that they stand and no longer reply?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.17",
+      "edition_verse_id": "BSB:JOB.32.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "I too will answer; yes, I will declare what I know.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.18",
+      "edition_verse_id": "BSB:JOB.32.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "For I am full of words, and my spirit within me compels me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.19",
+      "edition_verse_id": "BSB:JOB.32.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Behold, my belly is like unvented wine; it is about to burst like a new wineskin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.20",
+      "edition_verse_id": "BSB:JOB.32.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "I must speak and find relief; I must open my lips and respond.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.21",
+      "edition_verse_id": "BSB:JOB.32.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "I will be partial to no one, nor will I flatter any man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.32.22",
+      "edition_verse_id": "BSB:JOB.32.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "For I do not know how to flatter, or my Maker would remove me in an instant.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

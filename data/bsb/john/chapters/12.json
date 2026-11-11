@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "JHN.12.1",
+      "edition_verse_id": "BSB:JHN.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.2",
+      "edition_verse_id": "BSB:JHN.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.3",
+      "edition_verse_id": "BSB:JHN.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Mary took about a pint of expensive perfume, made of pure nard, and she anointed Jesus’ feet and wiped them with her hair. And the house was filled with the fragrance of the perfume.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.4",
+      "edition_verse_id": "BSB:JHN.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But one of His disciples, Judas Iscariot, who was going to betray Him, asked,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.5",
+      "edition_verse_id": "BSB:JHN.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "“Why wasn’t this perfume sold for three hundred denarii and the money given to the poor?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.6",
+      "edition_verse_id": "BSB:JHN.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Judas did not say this because he cared about the poor, but because he was a thief. As keeper of the money bag, he used to take from what was put into it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.7",
+      "edition_verse_id": "BSB:JHN.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“Leave her alone,” Jesus replied. “She has kept this perfume in preparation for the day of My burial.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.8",
+      "edition_verse_id": "BSB:JHN.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The poor you will always have with you, but you will not always have Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.9",
+      "edition_verse_id": "BSB:JHN.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Meanwhile a large crowd of Jews learned that Jesus was there. And they came not only because of Him, but also to see Lazarus, whom He had raised from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.10",
+      "edition_verse_id": "BSB:JHN.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So the chief priests made plans to kill Lazarus as well,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.11",
+      "edition_verse_id": "BSB:JHN.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "for on account of him many of the Jews were deserting them and believing in Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.12",
+      "edition_verse_id": "BSB:JHN.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The next day the great crowd that had come to the feast heard that Jesus was coming to Jerusalem.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.13",
+      "edition_verse_id": "BSB:JHN.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "They took palm branches and went out to meet Him, shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!” “Blessed is the King of Israel!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.14",
+      "edition_verse_id": "BSB:JHN.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Finding a young donkey, Jesus sat on it, as it is written:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.15",
+      "edition_verse_id": "BSB:JHN.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.16",
+      "edition_verse_id": "BSB:JHN.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "At first His disciples did not understand these things, but after Jesus was glorified they remembered what had been done to Him, and they realized that these very things had also been written about Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.17",
+      "edition_verse_id": "BSB:JHN.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Meanwhile, many people who had been with Jesus when He called Lazarus from the tomb and raised him from the dead continued to testify.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.18",
+      "edition_verse_id": "BSB:JHN.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "That is also why the crowd went out to meet Him, because they heard that He had performed this sign.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.19",
+      "edition_verse_id": "BSB:JHN.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Then the Pharisees said to one another, “You can see that this is doing you no good. Look how the whole world has gone after Him!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.20",
+      "edition_verse_id": "BSB:JHN.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Now there were some Greeks among those who went up to worship at the feast.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.21",
+      "edition_verse_id": "BSB:JHN.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They came to Philip, who was from Bethsaida in Galilee, and requested of him, “Sir, we want to see Jesus.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.22",
+      "edition_verse_id": "BSB:JHN.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Philip relayed this appeal to Andrew, and both of them went and told Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.23",
+      "edition_verse_id": "BSB:JHN.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "But Jesus replied, “The hour has come for the Son of Man to be glorified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.24",
+      "edition_verse_id": "BSB:JHN.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a seed. But if it dies, it bears much fruit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.25",
+      "edition_verse_id": "BSB:JHN.12.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Whoever loves his life will lose it, but whoever hates his life in this world will keep it for eternal life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.26",
+      "edition_verse_id": "BSB:JHN.12.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If anyone serves Me, he must follow Me; and where I am, My servant will be as well. If anyone serves Me, the Father will honor him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.27",
+      "edition_verse_id": "BSB:JHN.12.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it is for this purpose that I have come to this hour.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.28",
+      "edition_verse_id": "BSB:JHN.12.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Father, glorify Your name!” Then a voice came from heaven: “I have glorified it, and I will glorify it again.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.29",
+      "edition_verse_id": "BSB:JHN.12.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "The crowd standing there heard it and said that it had thundered. Others said that an angel had spoken to Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.30",
+      "edition_verse_id": "BSB:JHN.12.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "In response, Jesus said, “This voice was not for My benefit, but yours.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.31",
+      "edition_verse_id": "BSB:JHN.12.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Now judgment is upon this world; now the prince of this world will be cast out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.32",
+      "edition_verse_id": "BSB:JHN.12.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And I, when I am lifted up from the earth, will draw everyone to Myself.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.33",
+      "edition_verse_id": "BSB:JHN.12.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "He said this to indicate the kind of death He was going to die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.34",
+      "edition_verse_id": "BSB:JHN.12.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "The crowd replied, “We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.35",
+      "edition_verse_id": "BSB:JHN.12.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Then Jesus told them, “For a little while longer, the Light will be among you. Walk while you have the Light, so that darkness will not overtake you. The one who walks in the darkness does not know where he is going.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.36",
+      "edition_verse_id": "BSB:JHN.12.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "While you have the Light, believe in the Light, so that you may become sons of light.” After Jesus had spoken these things, He went away and was hidden from them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.37",
+      "edition_verse_id": "BSB:JHN.12.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Although Jesus had performed so many signs in their presence, they still did not believe in Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.38",
+      "edition_verse_id": "BSB:JHN.12.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message? And to whom has the arm of the Lord been revealed?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.39",
+      "edition_verse_id": "BSB:JHN.12.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "For this reason they were unable to believe. For again, Isaiah says:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.40",
+      "edition_verse_id": "BSB:JHN.12.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "“He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.41",
+      "edition_verse_id": "BSB:JHN.12.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Isaiah said these things because he saw Jesus’ glory and spoke about Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.42",
+      "edition_verse_id": "BSB:JHN.12.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Nevertheless, many of the leaders believed in Him. But because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.43",
+      "edition_verse_id": "BSB:JHN.12.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "For they loved praise from men more than praise from God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.44",
+      "edition_verse_id": "BSB:JHN.12.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "Then Jesus cried out, “Whoever believes in Me does not believe in Me alone, but in the One who sent Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.45",
+      "edition_verse_id": "BSB:JHN.12.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "And whoever sees Me sees the One who sent Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.46",
+      "edition_verse_id": "BSB:JHN.12.46",
+      "verse": 46,
+      "spans": [
+        {
+          "text": "I have come into the world as a light, so that no one who believes in Me should remain in darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.47",
+      "edition_verse_id": "BSB:JHN.12.47",
+      "verse": 47,
+      "spans": [
+        {
+          "text": "As for anyone who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.48",
+      "edition_verse_id": "BSB:JHN.12.48",
+      "verse": 48,
+      "spans": [
+        {
+          "text": "There is a judge for the one who rejects Me and does not receive My words: The word that I have spoken will judge him on the last day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.12.49",
+      "edition_verse_id": "BSB:JHN.12.49",
+      "verse": 49,
+      "spans": [
+        {
+          "text": "I have not spoken on My own, but the Father who sent Me has commanded Me what to say and how to say it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.12.50",
+      "edition_verse_id": "BSB:JHN.12.50",
+      "verse": 50,
+      "spans": [
+        {
+          "text": "And I know that His command leads to eternal life. So I speak exactly what the Father has told Me to say.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

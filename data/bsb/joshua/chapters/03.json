@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOS",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "JOS.3.1",
+      "edition_verse_id": "BSB:JOS.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Early the next morning Joshua got up and left Shittim with all the Israelites. They went as far as the Jordan, where they camped before crossing over.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.3.2",
+      "edition_verse_id": "BSB:JOS.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "After three days the officers went through the camp",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.3.3",
+      "edition_verse_id": "BSB:JOS.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "and commanded the people: “When you see the ark of the covenant of the LORD your God being carried by the Levitical priests, you are to set out from your positions and follow it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.3.4",
+      "edition_verse_id": "BSB:JOS.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But keep a distance of about two thousand cubits between yourselves and the ark. Do not go near it, so that you can see the way to go, since you have never traveled this way before.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.3.5",
+      "edition_verse_id": "BSB:JOS.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Then Joshua told the people, “Consecrate yourselves, for tomorrow the LORD will do wonders among you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.3.6",
+      "edition_verse_id": "BSB:JOS.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And he said to the priests, “Take the ark of the covenant and go on ahead of the people.” So they carried the ark of the covenant and went ahead of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.3.7",
+      "edition_verse_id": "BSB:JOS.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now the LORD said to Joshua, “Today I will begin to exalt you in the sight of all Israel, so they may know that I am with you just as I was with Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.3.8",
+      "edition_verse_id": "BSB:JOS.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Command the priests carrying the ark of the covenant: ‘When you reach the edge of the waters, stand in the Jordan.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.3.9",
+      "edition_verse_id": "BSB:JOS.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So Joshua told the Israelites, “Come here and listen to the words of the LORD your God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.3.10",
+      "edition_verse_id": "BSB:JOS.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He continued, “This is how you will know that the living God is among you and that He will surely drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.3.11",
+      "edition_verse_id": "BSB:JOS.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Behold, the ark of the covenant of the Lord of all the earth will go ahead of you into the Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.3.12",
+      "edition_verse_id": "BSB:JOS.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now choose twelve men from the tribes of Israel, one from each tribe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.3.13",
+      "edition_verse_id": "BSB:JOS.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When the feet of the priests who carry the ark of the LORD — the Lord of all the earth — touch down in the waters of the Jordan, its flowing waters will be cut off and will stand up in a heap.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.3.14",
+      "edition_verse_id": "BSB:JOS.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "So when the people broke camp to cross the Jordan, the priests carried the ark of the covenant ahead of them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.3.15",
+      "edition_verse_id": "BSB:JOS.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Now the Jordan overflows its banks throughout the harvest season. But as soon as the priests carrying the ark reached the Jordan and their feet touched the water’s edge,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.3.16",
+      "edition_verse_id": "BSB:JOS.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the flowing water stood still. It backed up as far upstream as Adam, a city in the area of Zarethan, while the water flowing toward the Sea of the Arabah (the Salt Sea) was completely cut off. So the people crossed over opposite Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.3.17",
+      "edition_verse_id": "BSB:JOS.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The priests carrying the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel crossed over the dry ground, until the entire nation had crossed the Jordan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

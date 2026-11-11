@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOL",
+  "chapter": 3,
+  "verses": [
+    {
+      "id": "JOL.3.1",
+      "edition_verse_id": "BSB:JOL.3.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Yes, in those days and at that time, when I restore Judah and Jerusalem from captivity,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.3.2",
+      "edition_verse_id": "BSB:JOL.3.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will gather all the nations and bring them down to the Valley of Jehoshaphat. There I will enter into judgment against them concerning My people, My inheritance, Israel, whom they have scattered among the nations as they divided up My land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.3",
+      "edition_verse_id": "BSB:JOL.3.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They cast lots for My people; they bartered a boy for a prostitute and sold a girl for wine to drink.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.4",
+      "edition_verse_id": "BSB:JOL.3.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Now what do you have against Me, O Tyre, Sidon, and all the regions of Philistia? Are you rendering against Me a recompense? If you retaliate against Me, I will swiftly and speedily return your recompense upon your heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.3.5",
+      "edition_verse_id": "BSB:JOL.3.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For you took My silver and gold and carried off My finest treasures to your temples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.6",
+      "edition_verse_id": "BSB:JOL.3.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "You sold the people of Judah and Jerusalem to the Greeks, to send them far from their homeland.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.7",
+      "edition_verse_id": "BSB:JOL.3.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Behold, I will rouse them from the places to which you sold them; I will return your recompense upon your heads.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.3.8",
+      "edition_verse_id": "BSB:JOL.3.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "I will sell your sons and daughters into the hands of the people of Judah, and they will sell them to the Sabeans — to a distant nation.” Indeed, the LORD has spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.9",
+      "edition_verse_id": "BSB:JOL.3.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Proclaim this among the nations: “Prepare for war; rouse the mighty men; let all the men of war advance and attack!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOL.3.10",
+      "edition_verse_id": "BSB:JOL.3.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Beat your plowshares into swords and your pruning hooks into spears. Let the weak say, ‘I am strong!’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.11",
+      "edition_verse_id": "BSB:JOL.3.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Come quickly, all you surrounding nations, and gather yourselves. Bring down Your mighty ones, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.12",
+      "edition_verse_id": "BSB:JOL.3.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Let the nations be roused and advance to the Valley of Jehoshaphat, for there I will sit down to judge all the nations on every side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.13",
+      "edition_verse_id": "BSB:JOL.3.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Swing the sickle, for the harvest is ripe. Come, trample the grapes, for the winepress is full; the wine vats overflow because their wickedness is great.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.14",
+      "edition_verse_id": "BSB:JOL.3.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Multitudes, multitudes in the valley of decision! For the Day of the LORD is near in the valley of decision.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.15",
+      "edition_verse_id": "BSB:JOL.3.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The sun and moon will grow dark, and the stars will no longer shine.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.16",
+      "edition_verse_id": "BSB:JOL.3.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The LORD will roar from Zion and raise His voice from Jerusalem; heaven and earth will tremble. But the LORD will be a refuge for His people, a stronghold for the people of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.17",
+      "edition_verse_id": "BSB:JOL.3.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then you will know that I am the LORD your God, who dwells in Zion, My holy mountain. Jerusalem will be holy, never again to be overrun by foreigners.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.18",
+      "edition_verse_id": "BSB:JOL.3.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And in that day the mountains will drip with sweet wine, and the hills will flow with milk. All the streams of Judah will run with water, and a spring will flow from the house of the LORD to water the Valley of Acacias.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.19",
+      "edition_verse_id": "BSB:JOL.3.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Egypt will become desolate, and Edom a desert wasteland, because of the violence done to the people of Judah, in whose land they shed innocent blood.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.20",
+      "edition_verse_id": "BSB:JOL.3.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But Judah will be inhabited forever, and Jerusalem from generation to generation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOL.3.21",
+      "edition_verse_id": "BSB:JOL.3.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For I will avenge their blood, which I have not yet avenged.” For the LORD dwells in Zion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

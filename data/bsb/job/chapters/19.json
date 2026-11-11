@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "JOB.19.1",
+      "edition_verse_id": "BSB:JOB.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Job answered:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.19.2",
+      "edition_verse_id": "BSB:JOB.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“How long will you torment me and crush me with your words?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.3",
+      "edition_verse_id": "BSB:JOB.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Ten times now you have reproached me; you shamelessly mistreat me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.4",
+      "edition_verse_id": "BSB:JOB.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Even if I have truly gone astray, my error concerns me alone.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.5",
+      "edition_verse_id": "BSB:JOB.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If indeed you would exalt yourselves above me and use my disgrace against me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.6",
+      "edition_verse_id": "BSB:JOB.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "then understand that it is God who has wronged me and drawn His net around me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.7",
+      "edition_verse_id": "BSB:JOB.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Though I cry out, ‘Violence!’ I get no response; though I call for help, there is no justice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.8",
+      "edition_verse_id": "BSB:JOB.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He has blocked my way so I cannot pass; He has veiled my paths with darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.9",
+      "edition_verse_id": "BSB:JOB.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "He has stripped me of my honor and removed the crown from my head.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.10",
+      "edition_verse_id": "BSB:JOB.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "He tears me down on every side until I am gone; He uproots my hope like a tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.11",
+      "edition_verse_id": "BSB:JOB.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "His anger burns against me, and He counts me among His enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.12",
+      "edition_verse_id": "BSB:JOB.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His troops advance together; they construct a ramp against me and encamp around my tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.13",
+      "edition_verse_id": "BSB:JOB.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "He has removed my brothers from me; my acquaintances have abandoned me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.14",
+      "edition_verse_id": "BSB:JOB.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "My kinsmen have failed me, and my friends have forgotten me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.15",
+      "edition_verse_id": "BSB:JOB.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "My guests and maidservants count me as a stranger; I am a foreigner in their sight.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.16",
+      "edition_verse_id": "BSB:JOB.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I call for my servant, but he does not answer, though I implore him with my own mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.17",
+      "edition_verse_id": "BSB:JOB.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "My breath is repulsive to my wife, and I am loathsome to my own family.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.18",
+      "edition_verse_id": "BSB:JOB.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Even little boys scorn me; when I appear, they deride me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.19",
+      "edition_verse_id": "BSB:JOB.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All my best friends despise me, and those I love have turned against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.20",
+      "edition_verse_id": "BSB:JOB.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "My skin and flesh cling to my bones; I have escaped by the skin of my teeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.21",
+      "edition_verse_id": "BSB:JOB.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Have pity on me, my friends, have pity, for the hand of God has struck me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.22",
+      "edition_verse_id": "BSB:JOB.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Why do you persecute me as God does? Will you never get enough of my flesh?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.23",
+      "edition_verse_id": "BSB:JOB.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "I wish that my words were recorded and inscribed in a book,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.24",
+      "edition_verse_id": "BSB:JOB.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "by an iron stylus on lead, or chiseled in stone forever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.25",
+      "edition_verse_id": "BSB:JOB.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But I know that my Redeemer lives, and in the end He will stand upon the earth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.26",
+      "edition_verse_id": "BSB:JOB.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Even after my skin has been destroyed, yet in my flesh I will see God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.27",
+      "edition_verse_id": "BSB:JOB.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "I will see Him for myself; my eyes will behold Him, and not as a stranger. How my heart yearns within me!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.28",
+      "edition_verse_id": "BSB:JOB.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "If you say, ‘Let us persecute him, since the root of the matter lies with him,’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.19.29",
+      "edition_verse_id": "BSB:JOB.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "then you should fear the sword yourselves, because wrath brings punishment by the sword, so that you may know there is a judgment.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

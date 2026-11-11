@@ -1,0 +1,512 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 10,
+  "verses": [
+    {
+      "id": "JHN.10.1",
+      "edition_verse_id": "BSB:JHN.10.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.2",
+      "edition_verse_id": "BSB:JHN.10.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "But the one who enters by the gate is the shepherd of the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.3",
+      "edition_verse_id": "BSB:JHN.10.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "The gatekeeper opens the gate for him, and the sheep listen for his voice. He calls his own sheep by name and leads them out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.4",
+      "edition_verse_id": "BSB:JHN.10.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.5",
+      "edition_verse_id": "BSB:JHN.10.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But they will never follow a stranger; in fact, they will flee from him because they do not recognize his voice.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.6",
+      "edition_verse_id": "BSB:JHN.10.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Jesus spoke to them using this illustration, but they did not understand what He was telling them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.7",
+      "edition_verse_id": "BSB:JHN.10.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So He said to them again, “Truly, truly, I tell you, I am the gate for the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.8",
+      "edition_verse_id": "BSB:JHN.10.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "All who came before Me were thieves and robbers, but the sheep did not listen to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.9",
+      "edition_verse_id": "BSB:JHN.10.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "I am the gate. If anyone enters through Me, he will be saved. He will come in and go out and find pasture.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.10",
+      "edition_verse_id": "BSB:JHN.10.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "The thief comes only to steal and kill and destroy. I have come that they may have life, and have it in all its fullness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.11",
+      "edition_verse_id": "BSB:JHN.10.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I am the good shepherd. The good shepherd lays down His life for the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.12",
+      "edition_verse_id": "BSB:JHN.10.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "The hired hand is not the shepherd, and the sheep are not his own. When he sees the wolf coming, he abandons the sheep and runs away. Then the wolf pounces on them and scatters the flock.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.13",
+      "edition_verse_id": "BSB:JHN.10.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "The man runs away because he is a hired servant and is unconcerned for the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.14",
+      "edition_verse_id": "BSB:JHN.10.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I am the good shepherd. I know My sheep and My sheep know Me,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.15",
+      "edition_verse_id": "BSB:JHN.10.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "just as the Father knows Me and I know the Father. And I lay down My life for the sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.16",
+      "edition_verse_id": "BSB:JHN.10.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "I have other sheep that are not of this fold. I must bring them in as well, and they will listen to My voice. Then there will be one flock and one shepherd.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.17",
+      "edition_verse_id": "BSB:JHN.10.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The reason the Father loves Me is that I lay down My life in order to take it up again.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.18",
+      "edition_verse_id": "BSB:JHN.10.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "No one takes it from Me, but I lay it down of My own accord. I have authority to lay it down and authority to take it up again. This charge I have received from My Father.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.19",
+      "edition_verse_id": "BSB:JHN.10.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Again there was division among the Jews because of Jesus’ message.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.20",
+      "edition_verse_id": "BSB:JHN.10.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Many of them said, “He is demon-possessed and insane. Why would you listen to Him?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.21",
+      "edition_verse_id": "BSB:JHN.10.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But others replied, “These are not the words of a man possessed by a demon. Can a demon open the eyes of the blind?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.22",
+      "edition_verse_id": "BSB:JHN.10.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "At that time the Feast of Dedication took place in Jerusalem. It was winter,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.23",
+      "edition_verse_id": "BSB:JHN.10.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "and Jesus was walking in the temple courts in Solomon’s Colonnade.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.24",
+      "edition_verse_id": "BSB:JHN.10.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So the Jews gathered around Him and demanded, “How long will You keep us in suspense? If You are the Christ, tell us plainly.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.25",
+      "edition_verse_id": "BSB:JHN.10.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "“I already told you,” Jesus replied, “but you did not believe. The works I do in My Father’s name testify on My behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.26",
+      "edition_verse_id": "BSB:JHN.10.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But because you are not My sheep, you refuse to believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.27",
+      "edition_verse_id": "BSB:JHN.10.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "My sheep listen to My voice; I know them, and they follow Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.28",
+      "edition_verse_id": "BSB:JHN.10.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I give them eternal life, and they will never perish. No one can snatch them out of My hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.29",
+      "edition_verse_id": "BSB:JHN.10.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "My Father who has given them to Me is greater than all. No one can snatch them out of My Father’s hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.30",
+      "edition_verse_id": "BSB:JHN.10.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "I and the Father are one.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.31",
+      "edition_verse_id": "BSB:JHN.10.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "At this, the Jews again picked up stones to stone Him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.32",
+      "edition_verse_id": "BSB:JHN.10.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But Jesus responded, “I have shown you many good works from the Father. For which of these do you stone Me?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.33",
+      "edition_verse_id": "BSB:JHN.10.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "“We are not stoning You for any good work,” said the Jews, “but for blasphemy, because You, who are a man, make Yourself out to be God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.34",
+      "edition_verse_id": "BSB:JHN.10.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Jesus replied, “Is it not written in your Law: ‘I have said you are gods’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.35",
+      "edition_verse_id": "BSB:JHN.10.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "If he called them gods to whom the word of God came — and the Scripture cannot be broken —",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.36",
+      "edition_verse_id": "BSB:JHN.10.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "then what about the One whom the Father sanctified and sent into the world? How then can you accuse Me of blasphemy for stating that I am the Son of God?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.37",
+      "edition_verse_id": "BSB:JHN.10.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "If I am not doing the works of My Father, then do not believe Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.38",
+      "edition_verse_id": "BSB:JHN.10.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "But if I am doing them, even though you do not believe Me, believe the works themselves, so that you may know and understand that the Father is in Me, and I am in the Father.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.39",
+      "edition_verse_id": "BSB:JHN.10.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "At this, they tried again to seize Him, but He escaped their grasp.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.40",
+      "edition_verse_id": "BSB:JHN.10.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "Then Jesus went back across the Jordan to the place where John had first been baptizing, and He stayed there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.10.41",
+      "edition_verse_id": "BSB:JHN.10.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Many came to Him and said, “Although John never performed a sign, everything he said about this man was true.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.10.42",
+      "edition_verse_id": "BSB:JHN.10.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And many in that place believed in Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

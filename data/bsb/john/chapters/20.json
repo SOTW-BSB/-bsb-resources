@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "JHN.20.1",
+      "edition_verse_id": "BSB:JHN.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.2",
+      "edition_verse_id": "BSB:JHN.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "So she came running to Simon Peter and the other disciple, the one whom Jesus loved. “They have taken the Lord out of the tomb,” she said, “and we do not know where they have put Him!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.3",
+      "edition_verse_id": "BSB:JHN.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Then Peter and the other disciple set out for the tomb.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.4",
+      "edition_verse_id": "BSB:JHN.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The two were running together, but the other disciple outran Peter and reached the tomb first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.5",
+      "edition_verse_id": "BSB:JHN.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He bent down and looked in at the linen cloths lying there, but he did not go in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.6",
+      "edition_verse_id": "BSB:JHN.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Simon Peter arrived just after him. He entered the tomb and saw the linen cloths lying there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.7",
+      "edition_verse_id": "BSB:JHN.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The cloth that had been around Jesus’ head was rolled up, lying separate from the linen cloths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.8",
+      "edition_verse_id": "BSB:JHN.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Then the other disciple, who had reached the tomb first, also went in. And he saw and believed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.9",
+      "edition_verse_id": "BSB:JHN.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For they still did not understand from the Scripture that Jesus had to rise from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.10",
+      "edition_verse_id": "BSB:JHN.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then the disciples returned to their homes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.11",
+      "edition_verse_id": "BSB:JHN.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "But Mary stood outside the tomb weeping. And as she wept, she bent down to look into the tomb,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.12",
+      "edition_verse_id": "BSB:JHN.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "and she saw two angels in white sitting where the body of Jesus had lain, one at the head and the other at the feet.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.13",
+      "edition_verse_id": "BSB:JHN.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "“Woman, why are you weeping?” they asked. “Because they have taken my Lord away,” she said, “and I do not know where they have put Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.14",
+      "edition_verse_id": "BSB:JHN.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.15",
+      "edition_verse_id": "BSB:JHN.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "“Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.16",
+      "edition_verse_id": "BSB:JHN.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Jesus said to her, “Mary.” She turned and said to Him in Hebrew, “Rabboni!” ( which means “Teacher” ).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.17",
+      "edition_verse_id": "BSB:JHN.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "“Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.18",
+      "edition_verse_id": "BSB:JHN.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Mary Magdalene went and announced to the disciples, “I have seen the Lord!” And she told them what He had said to her.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.19",
+      "edition_verse_id": "BSB:JHN.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "It was the first day of the week, and that very evening, while the disciples were together with the doors locked for fear of the Jews, Jesus came and stood among them. “Peace be with you!” He said to them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.20",
+      "edition_verse_id": "BSB:JHN.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "After He had said this, He showed them His hands and His side. The disciples rejoiced when they saw the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.21",
+      "edition_verse_id": "BSB:JHN.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Again Jesus said to them, “Peace be with you. As the Father has sent Me, so also I am sending you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.22",
+      "edition_verse_id": "BSB:JHN.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "When He had said this, He breathed on them and said, “Receive the Holy Spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.23",
+      "edition_verse_id": "BSB:JHN.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If you forgive anyone his sins, they are forgiven; if you withhold forgiveness from anyone, it is withheld.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.24",
+      "edition_verse_id": "BSB:JHN.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.25",
+      "edition_verse_id": "BSB:JHN.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.20.26",
+      "edition_verse_id": "BSB:JHN.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, “Peace be with you.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.27",
+      "edition_verse_id": "BSB:JHN.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.28",
+      "edition_verse_id": "BSB:JHN.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thomas replied, “My Lord and my God!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.29",
+      "edition_verse_id": "BSB:JHN.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Jesus said to him, “Because you have seen Me, you have believed; blessed are those who have not seen and yet have believed.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.30",
+      "edition_verse_id": "BSB:JHN.20.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Jesus performed many other signs in the presence of His disciples, which are not written in this book.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.20.31",
+      "edition_verse_id": "BSB:JHN.20.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

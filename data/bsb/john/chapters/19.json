@@ -1,0 +1,512 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 19,
+  "verses": [
+    {
+      "id": "JHN.19.1",
+      "edition_verse_id": "BSB:JHN.19.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Pilate took Jesus and had Him flogged.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.2",
+      "edition_verse_id": "BSB:JHN.19.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "The soldiers twisted together a crown of thorns, set it on His head, and dressed Him in a purple robe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.3",
+      "edition_verse_id": "BSB:JHN.19.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they went up to Him again and again, saying, “Hail, King of the Jews!” and slapping Him in the face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.4",
+      "edition_verse_id": "BSB:JHN.19.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Once again Pilate came out and said to the Jews, “Look, I am bringing Him out to you to let you know that I find no basis for a charge against Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.5",
+      "edition_verse_id": "BSB:JHN.19.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "When Jesus came out wearing the crown of thorns and the purple robe, Pilate said to them, “Here is the man!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.6",
+      "edition_verse_id": "BSB:JHN.19.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "As soon as the chief priests and officers saw Him, they shouted, “Crucify Him! Crucify Him!” “You take Him and crucify Him,” Pilate replied, “for I find no basis for a charge against Him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.7",
+      "edition_verse_id": "BSB:JHN.19.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "“We have a law,” answered the Jews, “and according to that law He must die, because He declared Himself to be the Son of God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.8",
+      "edition_verse_id": "BSB:JHN.19.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "When Pilate heard this statement, he was even more afraid,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.9",
+      "edition_verse_id": "BSB:JHN.19.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "and he went back into the Praetorium. “Where are You from?” he asked. But Jesus gave no answer.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.10",
+      "edition_verse_id": "BSB:JHN.19.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "So Pilate said to Him, “Do You refuse to speak to me? Do You not know that I have authority to release You and authority to crucify You?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.11",
+      "edition_verse_id": "BSB:JHN.19.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Jesus answered, “You would have no authority over Me if it were not given to you from above. Therefore the one who handed Me over to you is guilty of greater sin.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.12",
+      "edition_verse_id": "BSB:JHN.19.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "From then on, Pilate tried to release Him, but the Jews kept shouting, “If you release this man, you are no friend of Caesar. Anyone who declares himself a king is defying Caesar.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.13",
+      "edition_verse_id": "BSB:JHN.19.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "When Pilate heard these words, he brought Jesus out and sat on the judgment seat at a place called the Stone Pavement, which in Hebrew is Gabbatha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.14",
+      "edition_verse_id": "BSB:JHN.19.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "It was the day of Preparation for the Passover, about the sixth hour. And Pilate said to the Jews, “Here is your King!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.15",
+      "edition_verse_id": "BSB:JHN.19.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "At this, they shouted, “Away with Him! Away with Him! Crucify Him!” “Shall I crucify your King?” Pilate asked. “We have no king but Caesar,” replied the chief priests.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.16",
+      "edition_verse_id": "BSB:JHN.19.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then Pilate handed Jesus over to be crucified, and the soldiers took Him away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.17",
+      "edition_verse_id": "BSB:JHN.19.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Carrying His own cross, He went out to The Place of the Skull, which in Hebrew is called Golgotha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.18",
+      "edition_verse_id": "BSB:JHN.19.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "There they crucified Him, and with Him two others, one on each side, with Jesus in the middle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.19",
+      "edition_verse_id": "BSB:JHN.19.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Pilate also had a notice posted on the cross. It read: JESUS OF NAZARETH, THE KING OF THE JEWS.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.20",
+      "edition_verse_id": "BSB:JHN.19.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Many of the Jews read this sign, because the place where Jesus was crucified was near the city, and it was written in Hebrew, Latin, and Greek.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.21",
+      "edition_verse_id": "BSB:JHN.19.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "So the chief priests of the Jews said to Pilate, “Do not write, ‘The King of the Jews,’ but only that He said, ‘I am the King of the Jews.’ ”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.22",
+      "edition_verse_id": "BSB:JHN.19.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Pilate answered, “What I have written, I have written.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.23",
+      "edition_verse_id": "BSB:JHN.19.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When the soldiers had crucified Jesus, they divided His garments into four parts, one for each soldier, with the tunic remaining. It was seamless, woven in one piece from top to bottom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.24",
+      "edition_verse_id": "BSB:JHN.19.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "So they said to one another, “Let us not tear it. Instead, let us cast lots to see who will get it.” This was to fulfill the Scripture: “They divided My garments among them, and cast lots for My clothing.” So that is what the soldiers did.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.25",
+      "edition_verse_id": "BSB:JHN.19.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Near the cross of Jesus stood His mother and her sister, as well as Mary the wife of Clopas and Mary Magdalene.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.26",
+      "edition_verse_id": "BSB:JHN.19.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, here is your son.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.27",
+      "edition_verse_id": "BSB:JHN.19.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then He said to the disciple, “Here is your mother.” So from that hour, this disciple took her into his home.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.28",
+      "edition_verse_id": "BSB:JHN.19.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "After this, knowing that everything had now been accomplished, and to fulfill the Scripture, Jesus said, “I am thirsty.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.29",
+      "edition_verse_id": "BSB:JHN.19.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "A jar of sour wine was sitting there. So they soaked a sponge in the wine, put it on a stalk of hyssop, and lifted it to His mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.30",
+      "edition_verse_id": "BSB:JHN.19.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "When Jesus had received the sour wine, He said, “It is finished.” And bowing His head, He yielded up His spirit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.31",
+      "edition_verse_id": "BSB:JHN.19.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "It was the day of Preparation, and the next day was a High Sabbath. In order that the bodies would not remain on the cross during the Sabbath, the Jews asked Pilate to have the legs broken and the bodies removed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.32",
+      "edition_verse_id": "BSB:JHN.19.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "So the soldiers came and broke the legs of the first man who had been crucified with Jesus, and those of the other.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.33",
+      "edition_verse_id": "BSB:JHN.19.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But when they came to Jesus and saw that He was already dead, they did not break His legs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.34",
+      "edition_verse_id": "BSB:JHN.19.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Instead, one of the soldiers pierced His side with a spear, and immediately blood and water flowed out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.35",
+      "edition_verse_id": "BSB:JHN.19.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "The one who saw it has testified to this, and his testimony is true. He knows that he is telling the truth, so that you also may believe.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.36",
+      "edition_verse_id": "BSB:JHN.19.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "Now these things happened so that the Scripture would be fulfilled: “Not one of His bones will be broken.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.37",
+      "edition_verse_id": "BSB:JHN.19.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "And, as another Scripture says: “They will look on the One they have pierced.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.38",
+      "edition_verse_id": "BSB:JHN.19.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "Afterward, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews), asked Pilate to let him remove the body of Jesus. Pilate gave him permission, so he came and removed His body.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.39",
+      "edition_verse_id": "BSB:JHN.19.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Nicodemus, who had previously come to Jesus at night, also brought a mixture of myrrh and aloes, about seventy-five pounds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.40",
+      "edition_verse_id": "BSB:JHN.19.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "So they took the body of Jesus and wrapped it in linen cloths with the spices, according to the Jewish burial custom.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.19.41",
+      "edition_verse_id": "BSB:JHN.19.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "Now there was a garden in the place where Jesus was crucified, and in the garden a new tomb in which no one had yet been laid.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.19.42",
+      "edition_verse_id": "BSB:JHN.19.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "And because it was the Jewish day of Preparation and the tomb was nearby, they placed Jesus there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

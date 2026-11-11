@@ -1,0 +1,119 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JOL",
+  "chapters": {
+    "1": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft The precise identification of the four kinds of locusts mentioned here is uncertain.\\f*",
+          "raw_sha256": "861a1bca8d224c773761464157fc805115d4a5b8e9cb546deacfa7f6cf42bdda"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 1:15 \\ft Hebrew \\fqa Shaddai\\f*",
+          "raw_sha256": "e73d7f96c53891679e88c6a8059370628d00a31b306935252b550b7b5f346170"
+        }
+      ]
+    },
+    "2": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 2:4 \\ft Or \\fqa like charioteers \\ft or \\fqa like cavalry\\f*",
+          "raw_sha256": "15efeee6102c6af2b08f02aa41e37633fbbaf50c66b0240fbd1092ab37321505"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 2:13 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "d5abcd7d0526572677a21e83182269f04ab0949ee387a81e3a02e3d38340dcab"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 2:20 \\ft That is, the Dead Sea\\f*",
+          "raw_sha256": "689efb23de56ef54b40e5fa4b0178b08f88eaaf0afa8f5eb171c49c7f33798e6"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:20 \\ft That is, the Mediterranean Sea, also called the Great Sea\\f*",
+          "raw_sha256": "b4da1ba9b3812c6a71ca91ebe35743577b640a16b5bab6be74ee06e92b80b3e5"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 2:22 \\ft Literally \\fqa their strength\\f*",
+          "raw_sha256": "e63552436ec55cf503ca1fb69b35385490abc7b13b23dd578524115c1749ec04"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 2:25 \\ft The precise identification of the four kinds of insects mentioned here is uncertain.\\f*",
+          "raw_sha256": "47e79e091b92495f21e45fa77890e541d8ffdf67662586274e983903ea3e5cc1"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 2:30 \\ft LXX \\fqa clouds \\ft or \\fqa billows\\f*",
+          "raw_sha256": "787ae4ea2bb684e0fe05addf1c1d9042c010e240492b73c1f2176bd01643886e"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 2:31 \\ft Or \\fqa dreadful\\ft ; LXX \\fqa glorious\\f*",
+          "raw_sha256": "deba5b838d889c7d66cfe78ae06770a2e9ba92afa93430184fcaee7e61c2a1a5"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 2:32 \\ft Cited in \\ref Acts 2:17–21|ACT 2:17-21\\ref* and Romans 10:13\\f*",
+          "raw_sha256": "945354e0e12db89d9c3a806f4a2934cfd197fd4d13570254f5a2bfdfe1efbd63"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft Or \\fqa restore the fortunes of Judah and Jerusalem\\f*",
+          "raw_sha256": "1528edd2a4c9234f37140d54dd83243be9781be77ef248d769acc7cad92e7a21"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 3:2 \\fqa Jehoshaphat \\ft means \\fqa the LORD judges\\ft ; also in verse 12.\\f*",
+          "raw_sha256": "746194191b0173d44d7267dfceec9bc8ad1904e903a77ee7d15de91bd6abf183"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 3:5 \\ft Or \\fqa palaces\\f*",
+          "raw_sha256": "2ff06f5df7ac695c117cb0b088912d024cd27e3610a59b925e74e6dee4c9d55d"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 3:6 \\ft Or \\fqa to the peoples of Javan\\f*",
+          "raw_sha256": "2e6ac103e3005861cb95701a2f82bba319ed28b0f0b67ba3ee995d7106e7c689"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 3:13 \\ft LXX \\fqa the harvest has come\\ft ; see also \\ref Mark 4:29|MRK 4:29\\ref*.\\f*",
+          "raw_sha256": "825f82c6088303a572c1c95dd6dee781e6fbd646a39c403be5d55b43fa5eee04"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 3:18 \\ft Or \\fqa Valley of Shittim\\f*",
+          "raw_sha256": "0a20e109c17b91999ae6d46bbd17912b74eb1cfbcc7ed078c0bacf6ca7972508"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 3:21 \\ft Or \\fqa For I will pardon their bloodguilt, which I have not yet pardoned.\\f*",
+          "raw_sha256": "132f459517cec4f0695ac0c8dae794c69e3b4d7e0588f7b300eb3e33d7d9e058"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

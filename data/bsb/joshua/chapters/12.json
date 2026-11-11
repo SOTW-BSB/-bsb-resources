@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOS",
+  "chapter": 12,
+  "verses": [
+    {
+      "id": "JOS.12.1",
+      "edition_verse_id": "BSB:JOS.12.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now these are the kings of the land whom the Israelites struck down and whose lands they took beyond the Jordan to the east, from the Arnon Valley to Mount Hermon, including all the Arabah eastward:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.12.2",
+      "edition_verse_id": "BSB:JOS.12.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Sihon king of the Amorites, who lived in Heshbon. He ruled from Aroer on the rim of the Arnon Valley, along the middle of the valley, up to the Jabbok River (the border of the Ammonites), that is, half of Gilead,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.3",
+      "edition_verse_id": "BSB:JOS.12.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "as well as the Arabah east of the Sea of Chinnereth to the Sea of the Arabah (the Salt Sea), eastward through Beth-jeshimoth, and southward below the slopes of Pisgah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.4",
+      "edition_verse_id": "BSB:JOS.12.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And Og king of Bashan, one of the remnant of the Rephaim, who lived in Ashtaroth and Edrei.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.5",
+      "edition_verse_id": "BSB:JOS.12.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He ruled over Mount Hermon, Salecah, all of Bashan up to the border of the Geshurites and Maacathites, and half of Gilead to the border of Sihon king of Heshbon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.6",
+      "edition_verse_id": "BSB:JOS.12.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Moses, the servant of the LORD, and the Israelites had struck them down and given their land as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.12.7",
+      "edition_verse_id": "BSB:JOS.12.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And these are the kings of the land that Joshua and the Israelites conquered beyond the Jordan to the west, from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir (according to the allotments to the tribes of Israel, Joshua gave them as an inheritance",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.12.8",
+      "edition_verse_id": "BSB:JOS.12.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "the hill country, the foothills, the Arabah, the slopes, the wilderness, and the Negev — the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.9",
+      "edition_verse_id": "BSB:JOS.12.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "the king of Jericho, one; the king of Ai, which is near Bethel, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.10",
+      "edition_verse_id": "BSB:JOS.12.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "the king of Jerusalem, one; the king of Hebron, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.11",
+      "edition_verse_id": "BSB:JOS.12.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "the king of Jarmuth, one; the king of Lachish, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.12",
+      "edition_verse_id": "BSB:JOS.12.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "the king of Eglon, one; the king of Gezer, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.13",
+      "edition_verse_id": "BSB:JOS.12.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "the king of Debir, one; the king of Geder, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.14",
+      "edition_verse_id": "BSB:JOS.12.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "the king of Hormah, one; the king of Arad, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.15",
+      "edition_verse_id": "BSB:JOS.12.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "the king of Libnah, one; the king of Adullam, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.16",
+      "edition_verse_id": "BSB:JOS.12.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "the king of Makkedah, one; the king of Bethel, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.17",
+      "edition_verse_id": "BSB:JOS.12.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "the king of Tappuah, one; the king of Hepher, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.18",
+      "edition_verse_id": "BSB:JOS.12.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "the king of Aphek, one; the king of Lasharon, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.19",
+      "edition_verse_id": "BSB:JOS.12.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "the king of Madon, one; the king of Hazor, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.20",
+      "edition_verse_id": "BSB:JOS.12.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "the king of Shimron-meron, one; the king of Achshaph, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.21",
+      "edition_verse_id": "BSB:JOS.12.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "the king of Taanach, one; the king of Megiddo, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.22",
+      "edition_verse_id": "BSB:JOS.12.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "the king of Kedesh, one; the king of Jokneam in Carmel, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.23",
+      "edition_verse_id": "BSB:JOS.12.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "the king of Dor in Naphath-dor, one; the king of Goiim in Gilgal, one;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.12.24",
+      "edition_verse_id": "BSB:JOS.12.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "and the king of Tirzah, one. So there were thirty-one kings in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

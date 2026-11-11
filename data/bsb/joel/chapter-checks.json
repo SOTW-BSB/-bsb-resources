@@ -1,0 +1,26 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JOL",
+  "chapter_count": 3,
+  "verse_count": 73,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 20,
+      "omitted_from_main_text": [],
+      "sha256": "b2e26f2417d9f5465d3a7a226e509c4fa93fe3177d2d4a2311859dcf4a415baa"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 32,
+      "omitted_from_main_text": [],
+      "sha256": "3f50e5cb25157b8739b51a678a5f8772b093e1103b91705d167c31f0ac5078a3"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "omitted_from_main_text": [],
+      "sha256": "93256e4802037e4c0cccca15adbfa65bf48a674e58136e08784197b79e71067b"
+    }
+  ]
+}

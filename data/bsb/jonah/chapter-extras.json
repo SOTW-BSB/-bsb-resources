@@ -1,0 +1,29 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JON",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 Jonah Flees from the LORD",
+        "\\s1 The Great Storm",
+        "\\s1 Jonah Cast into the Sea"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 Jonah’s Prayer"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 The Ninevites Repent"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Jonah’s Anger at the LORD’s Compassion"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

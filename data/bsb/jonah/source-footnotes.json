@@ -1,0 +1,49 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JON",
+  "chapters": {
+    "1": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 1:13 \\ft Hebrew \\fqa the men dug in\\f*",
+          "raw_sha256": "188d030b31b35033e1d76682e69d92fe87ab99fcddc94d71745b1ca6e2d6c52c"
+        }
+      ]
+    },
+    "2": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 2:8 \\ft Forms of the Hebrew \\fqa chesed \\ft are translated here and in most cases throughout the Scriptures as \\fqa loving devotion\\ft ; the range of meaning includes \\fqa love\\ft , \\fqa goodness\\ft , \\fqa kindness\\ft , \\fqa faithfulness\\ft , and \\fqa mercy\\ft , as well as \\fqa loyalty to a covenant\\ft .\\f*",
+          "raw_sha256": "a4728a1ff123b35c1a8c345a43cee3a22941017064d261d193b1db5dba1f5d93"
+        }
+      ]
+    },
+    "3": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft Or \\fqa was a great city to God\\f*",
+          "raw_sha256": "e194dca3b741ff89648397c358a635c15ce139c4fb9586c630b2a9965f67ce1a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft Literally \\fqa great city, a three-day journey\\f*",
+          "raw_sha256": "8cc0309cd0cce1eab12d931e08e0a0bd52d072b85ed8fcb40b0a59390a8f9534"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 4:1 \\ft Or \\fqa It was exceedingly evil to Jonah, and he became angry\\f*",
+          "raw_sha256": "bd151355061a9258606b1bbca6ffe8520df736ebc40a8e439c0693da9915f112"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft Hebrew \\fqa qiqayon\\ft ; that is, possibly the castor oil plant; also in verses 7, 9, and 10 \\f*",
+          "raw_sha256": "68e00670e71e4236bdefcded9acb12a3b24c2d9f88a9aea81a7d1f0bec653a26"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "JHN.21.1",
+      "edition_verse_id": "BSB:JHN.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Later, by the Sea of Tiberias, Jesus again revealed Himself to the disciples. He made Himself known in this way:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.2",
+      "edition_verse_id": "BSB:JHN.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Simon Peter, Thomas called Didymus, Nathanael from Cana in Galilee, the sons of Zebedee, and two other disciples were together.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.3",
+      "edition_verse_id": "BSB:JHN.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Simon Peter told them, “I am going fishing.” “We will go with you,” they said. So they went out and got into the boat, but caught nothing that night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.4",
+      "edition_verse_id": "BSB:JHN.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Early in the morning, Jesus stood on the shore, but the disciples did not recognize that it was Jesus.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.5",
+      "edition_verse_id": "BSB:JHN.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So He called out to them, “Children, do you have any fish?” “No,” they answered.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.6",
+      "edition_verse_id": "BSB:JHN.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He told them, “Cast the net on the right side of the boat, and you will find some.” So they cast it there, and they were unable to haul it in because of the great number of fish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.7",
+      "edition_verse_id": "BSB:JHN.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Then the disciple whom Jesus loved said to Peter, “It is the Lord!” As soon as Simon Peter heard that it was the Lord, he put on his outer garment (for he had removed it . . . ) and jumped into the sea.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.8",
+      "edition_verse_id": "BSB:JHN.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The other disciples came ashore in the boat. They dragged in the net full of fish, for they were not far from land, only about a hundred yards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.9",
+      "edition_verse_id": "BSB:JHN.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "When they landed, they saw a charcoal fire there with fish on it, and some bread.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.10",
+      "edition_verse_id": "BSB:JHN.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Jesus told them, “Bring some of the fish you have just caught.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.11",
+      "edition_verse_id": "BSB:JHN.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "So Simon Peter went aboard and dragged the net ashore. It was full of large fish, 153, but even with so many, the net was not torn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.12",
+      "edition_verse_id": "BSB:JHN.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "“Come, have breakfast,” Jesus said to them. None of the disciples dared to ask Him, “Who are You?” They knew it was the Lord.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.13",
+      "edition_verse_id": "BSB:JHN.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Jesus came and took the bread and gave it to them, and He did the same with the fish.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.14",
+      "edition_verse_id": "BSB:JHN.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "This was now the third time that Jesus appeared to the disciples after He was raised from the dead.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.15",
+      "edition_verse_id": "BSB:JHN.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "When they had finished eating, Jesus asked Simon Peter, “Simon son of John, do you love Me more than these?” “Yes, Lord,” he answered, “You know I love You.” Jesus replied, “Feed My lambs.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.16",
+      "edition_verse_id": "BSB:JHN.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Jesus asked a second time, “Simon son of John, do you love Me?” “Yes, Lord,” he answered, “You know I love You.” Jesus told him, “Shepherd My sheep.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.17",
+      "edition_verse_id": "BSB:JHN.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Jesus asked a third time, “Simon son of John, do you love Me?” Peter was deeply hurt that Jesus had asked him a third time, “Do you love Me?” “Lord, You know all things,” he replied. “You know I love You.” Jesus said to him, “Feed My sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.18",
+      "edition_verse_id": "BSB:JHN.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Truly, truly, I tell you, when you were young, you dressed yourself and walked where you wanted; but when you are old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.19",
+      "edition_verse_id": "BSB:JHN.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Jesus said this to indicate the kind of death by which Peter would glorify God. And after He had said this, He told him, “Follow Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.20",
+      "edition_verse_id": "BSB:JHN.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Peter turned and saw the disciple whom Jesus loved following them. He was the one who had leaned back against Jesus at the supper to ask, “Lord, who is going to betray You?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.21",
+      "edition_verse_id": "BSB:JHN.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "When Peter saw him, he asked, “Lord, what about him?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.22",
+      "edition_verse_id": "BSB:JHN.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Jesus answered, “If I want him to remain until I return, what is that to you? You follow Me!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.23",
+      "edition_verse_id": "BSB:JHN.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Because of this, the rumor spread among the brothers that this disciple would not die. However, Jesus did not say that he would not die, but only, “If I want him to remain until I return, what is that to you?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.21.24",
+      "edition_verse_id": "BSB:JHN.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "This is the disciple who testifies to these things and who has written them down. And we know that his testimony is true.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.21.25",
+      "edition_verse_id": "BSB:JHN.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "There are many more things that Jesus did. If all of them were written down, I suppose that not even the world itself would have space for the books that would be written.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

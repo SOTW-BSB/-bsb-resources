@@ -1,0 +1,543 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JOS",
+  "chapters": {
+    "1": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 1:4 \\ft That is, the Mediterranean Sea\\f*",
+          "raw_sha256": "b73f139572a667e96a3bf96ca18b776409691e86e838dc3c7b90f0d7c6940462"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft Cited in \\ref Hebrews 13:5|HEB 13:5\\ref*\\f*",
+          "raw_sha256": "e55bfd54585ccb34ebd0bdc795edc5c76a2c2ff23d2be83b4a834ceb3dfde07c"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 2:1 \\ft Or \\fqa Acacia Grove\\f*",
+          "raw_sha256": "bc40eaa9e1e9956d51fbaa48c9597af6601c7faa0e4876561e09ff903b81f8b9"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "0a166d8e1524383ecfcb88562ceb705be298895b2a95474f162ef0585da4cba5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 2:10 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "a4c6af7c96059cda03e78590728c770bfe360e378b776ecb7af1f85d22955ffe"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 3:1 \\ft Or \\fqa Acacia Grove\\f*",
+          "raw_sha256": "c7fd889b16435ad6f43b6150722a560abc74236b4e1d04c4f8e1687ddd11ca2e"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 3:4 \\fqa 2,000 cubits \\ft is approximately 3,000 feet or 914.4 meters.\\f*",
+          "raw_sha256": "db98811264509cda782b7a21c5e2352b9b1359ce346dac0d97dc825053558eee"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft That is, the Dead Sea\\f*",
+          "raw_sha256": "27225ae9abeccc7e4485837d2b90e0e4eadf75f4b570d34fd76288270e454ff0"
+        }
+      ]
+    },
+    "4": {
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 4:9 \\ft Some translators \\fqa And Joshua set up the twelve stones that had been in the middle of the Jordan\\f*",
+          "raw_sha256": "07913a34e7cd43674dcd1dc95b12b641ac7de5117da78256ee6506781c96d946"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 4:16 \\ft That is, \\fqa the ark of the covenant\\f*",
+          "raw_sha256": "04883cd7d073972723b8c8fee1c415d8ee5ebb0ccb919443e945ca371d1f79b9"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 4:23 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "429464064cfac39e92fd787255220616568e6c44dd6a830c1eec06a1b8f1df10"
+        }
+      ]
+    },
+    "5": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 5:1 \\ft That is, along the Mediterranean coast; literally \\fqa along the sea\\f*",
+          "raw_sha256": "1c8c6256ef6cc1d2019aa0e158d11352cde12ad0aaa87b02e58f73dbf6fea623"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:1 \\ft Or \\fqa until we had crossed over\\f*",
+          "raw_sha256": "bda93dd01d3d3bb90835b6ccc36c06046e1e7a69d61d465f32ea2bf7ae9d2b74"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft Literally \\fqa again the second time\\f*",
+          "raw_sha256": "82bcae2090cf2c8fa1bc0d2f77c00a5dd35795a390165e95b21ca63a0a7f63c9"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 5:3 \\fqa Gibeath-haaraloth \\ft means \\fqa the hill of the foreskins\\ft .\\f*",
+          "raw_sha256": "471fa2b1d5aaeb0bbb38661a51a7c8f39758d06bfe5c95327f652b1c574ce147"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 5:9 \\fqa Gilgal \\ft sounds like the Hebrew for \\fqa roll\\ft .\\f*",
+          "raw_sha256": "dff48ae5387664e200abff24fc529df03d70d60819f69f8d636dcc6120c02bd0"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 5:14 \\ft Or \\fqa and paid homage \\ft or \\fqa and worshiped\\f*",
+          "raw_sha256": "4d0342520f88847ee48bc6636bd7f8a140c72b47fc95dfc0873f0cc5389b2547"
+        }
+      ]
+    },
+    "6": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 6:5 \\ft Or \\fqa fall under itself \\ft or \\fqa fall flat\\ft ; similarly in verse 20\\f*",
+          "raw_sha256": "28f04ef33f43424f8f7ce3d4cbb3cb50e821b935cb76f597043362771bf9f98a"
+        },
+        {
+          "source_usfm": "\\f + \\fr 6:5 \\ft Literally \\fqa and the people will go up, every man straight ahead\\ft ; similarly in verse 20\\f*",
+          "raw_sha256": "4f3824d26dc8a9a7dd60d6b540532fd9e037e01702ea6d419affc2e2aec82717"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 6:17 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also in verses 18 and 21.\\f*",
+          "raw_sha256": "bbd120faec33e082718c5ff33282dcd65cc025e154afe227f995a2b9e747e4c2"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 6:26 \\ft See \\ref 1 Kings 16:34|1KI 16:34\\ref*.\\f*",
+          "raw_sha256": "50274df56232d369f4b257459fd095076cab39579569b62cf9bfd552253cc1dc"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also in verses 11, 12, 13, and 15.\\f*",
+          "raw_sha256": "0b119659247de2d7b184208d051848c3c1c937eb6557b6b6c6bba755cf8f134c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\fqa Achan \\ft means \\fqa troubler\\ft ; also called \\fqa Achar\\ft in \\ref 1 Chronicles 2:7|1CH 2:7\\ref*.\\f*",
+          "raw_sha256": "534a3cc4ca7f943bed3efababc2e3215b6a03158dae56df5b294002c4bd1f014"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:1 \\fqa Zabdi \\ft is a variant of \\fqa Zimri\\ft ; also in verses 17 and 18; see LXX and \\ref 1 Chronicles 2:6|1CH 2:6\\ref*.\\f*",
+          "raw_sha256": "b00eb20e7fd747534b4f7354ab8f873dd23573859df739335df75308007808e8"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 7:5 \\ft Or \\fqa as far as Shebarim\\f*",
+          "raw_sha256": "0121bcf0612f62957cf8930a57f56005dc892e2386c3e5806d39dff97577a557"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 7:21 \\ft That is, Babylonia \\f*",
+          "raw_sha256": "355ae241b5794182ee0df5ebc037113b585815de8ececd1b5a3ac44dc45954b5"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:21 \\fqa 200 shekels \\ft is approximately 5 pounds or 2.3 kilograms of silver.\\f*",
+          "raw_sha256": "8b18c0b79c8cba71e638ba43ae322e40d2c4de20aa37c7606ea3d7ba27097a4b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 7:21 \\fqa 50 shekels \\ft is approximately 1.26 pounds or 569.8 grams of gold.\\f*",
+          "raw_sha256": "2d1008c0c646cdd83efab8be1e98f9edee2103a50bb4c37f3bf55a1aa4d76a05"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 7:26 \\fqa Achor \\ft means \\fqa trouble\\ft .\\f*",
+          "raw_sha256": "d8db637d9ca6e264e2f3f01ea8e03e3880d80cc9e614ad481dce01b90bae460c"
+        }
+      ]
+    },
+    "8": {
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 8:18 \\ft Or \\fqa javelin\\ft ; twice in this verse, and also in verse 26\\f*",
+          "raw_sha256": "52364815632b3d3218d90a259379435bf8cdb8f57077f38427e42fe44a15615c"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 8:26 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "fb306ddcb969f5f0e9ca022c355423dc455b9a6d8b8216920aad06f436618d64"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 8:28 \\fqa Ai \\ft means \\fqa ruin\\ft .\\f*",
+          "raw_sha256": "2e47451f55c564f83d80b007d47f38cc8404f29af570667e271da842af00b89a"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 8:29 \\ft Or \\fqa He impaled the king of Ai on a pole\\f*",
+          "raw_sha256": "6cce0a634c53ac468594012eebd519dc08907775a5b9f4044c4a21ab33029af8"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 8:31 \\ft \\ref Exodus 20:25|EXO 20:25\\ref*; Deuteronomy 27:5\\f*",
+          "raw_sha256": "c8923031c6b4ac9b191b9e09a819d97c3f668c5dc7862f33d976b298378b7401"
+        }
+      ]
+    },
+    "9": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 9:1 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "a8663c36a7d6757f268dd240830b21e2f358b4465ff8d9ffc228213ce6015d04"
+        },
+        {
+          "source_usfm": "\\f + \\fr 9:1 \\ft That is, the Mediterranean Sea\\f*",
+          "raw_sha256": "476a06b906755ad09d66e03044542023a1b2b43d6a9f2ec7326161a1774a0c27"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 9:4 \\ft Or \\fqa set out with provisions\\f*",
+          "raw_sha256": "7f1144ada29adac8c50187e41b9e009de1109818d7340f0de9afde97ef8129ca"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 9:6 \\ft Forms of the Hebrew \\fqa berit \\ft are translated in most passages as \\fqa covenant\\ft ; also in verses 7, 11, 15, and 16.\\f*",
+          "raw_sha256": "2cd8c057bca9043b52728141526afbcbbaaac35492e14bfba8ac8746ecafaa6f"
+        }
+      ]
+    },
+    "10": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 10:1 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also in verses 28, 35, 37, 39, and 40.\\f*",
+          "raw_sha256": "7305faf92d4e9bfb5bcd8ef89a119b1ecc6c6712e1bd07fde2752d88f81e50d2"
+        }
+      ],
+      "12": [
+        {
+          "source_usfm": "\\f + \\fr 10:12 \\ft See \\ref Jasher 88:63|88:63\\ref*.\\f*",
+          "raw_sha256": "e15ec33713d310caafe39761b72b8c5c0a815ac3741b1d120dfc87fde2330772"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 10:13 \\ft Or \\fqa triumphed over its enemies\\f*",
+          "raw_sha256": "30e76ff09c1bd8a460ca621c9762eba3994b90736bcc7a344dc8fb92ddc835ba"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:13 \\ft Or \\fqa the Book of the Upright One\\ft , commonly cited as \\fqa Jasher\\f*",
+          "raw_sha256": "c5775cac816892248ec6e8264012fa64c01b3b54bc042cf5af4442646929ff0d"
+        },
+        {
+          "source_usfm": "\\f + \\fr 10:13 \\ft See \\ref Jasher 88:64|88:64\\ref*.\\f*",
+          "raw_sha256": "d5afdf76e698945ee4dbb391dab4945b88ecf32d5c445a157bd07c5b5ec0db6c"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 10:26 \\ft Or \\fqa impaled their bodies on five poles\\ft ; similarly in verse 27\\f*",
+          "raw_sha256": "777e71f4a09ebb9eddf2bd7b72808f4a81cdd5d039960d748e60d2e1872a196d"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 10:40 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "d247581bebbae41c014ec6c019ede67c57facb65a07614042df3421ca6543532"
+        }
+      ]
+    },
+    "11": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 11:2 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea; also in verse 16\\f*",
+          "raw_sha256": "826fa8a59c10d499bc5110745daef43ae77fb509a792ef28b144a63f7bfe8344"
+        },
+        {
+          "source_usfm": "\\f + \\fr 11:2 \\ft Or \\fqa in the heights of Dor\\ft ; \\fqa Naphoth-dor \\ft is a variant of \\fqa Naphath-dor\\ft ; see \\ref Joshua 12:23|JOS 12:23\\ref*.\\f*",
+          "raw_sha256": "203f12bb7f4c2a93c1b669f8800d232ffbd6aa01aa19e58115abe521165527f9"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 11:11 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering; also in verses 12, 20, and 21.\\f*",
+          "raw_sha256": "39c85550612ee44e0f19f14394c11ffcb16bf4c8024202ea61b61f96178c3686"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 11:20 \\ft Or \\fqa stiffen \\ft or \\fqa strengthen\\f*",
+          "raw_sha256": "fc21f963676cbc9136e3de0d8520455d44118048560a5c7964f11484b9edb770"
+        }
+      ]
+    },
+    "12": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft That is, the Sea of Galilee\\f*",
+          "raw_sha256": "3ea057c0bd19862603e5f07b1a1887ae5d53e74cb15eda6ac07465a328ccf451"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft That is, the Dead Sea\\f*",
+          "raw_sha256": "3ca3eddab87efbe9c67979c7f11b9827681b222040e30e50cddfe8725a8b987b"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 12:4 \\ft LXX; Hebrew \\fqa And the territory of Og king of Bashan\\f*",
+          "raw_sha256": "c2b372160631c0353d777235ece98687c423c0c92c3713c08a4e6a3563443535"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 12:8 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "c928e9e1b9277dbd5caf0ab1259d25ee7b50dc6e215157e8cd940c24f7559f46"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 12:23 \\ft Or \\fqa in the heights of Dor\\ft ; \\fqa Naphath-dor \\ft is a variant of \\fqa Naphoth-dor\\ft ; see \\ref Joshua 11:2|JOS 11:2\\ref*.\\f*",
+          "raw_sha256": "4fb97d639652134d66b98eb27038a2d75d5969c34cd469c9f421373ccf343f31"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:23 \\ft Hebrew; LXX \\fqa Goyim in Galilee\\f*",
+          "raw_sha256": "d5c6864d341c646fd661aa7db9e9d32ec5b90dab6bc597263cca76644dcb7f88"
+        }
+      ]
+    },
+    "13": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 13:4 \\ft Or \\fqa Arah\\f*",
+          "raw_sha256": "872eebb71534cce3a9610a4bcaabb91748a93fab2d5f0596c3f82ed7ae287947"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 13:5 \\ft Or \\fqa the area of Byblos\\f*",
+          "raw_sha256": "0f9d3bec7d2c005a532ce583605d57900dab493ac25ad69a48960fc83e29ae8b"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 13:26 \\ft LXX, Syriac, and Vulgate; Hebrew \\fqa Li-debir\\ft , a variant of \\fqa Lo-debar\\ft ; see \\ref 2 Samuel 9:4|2SA 9:4\\ref*, 2 Samuel 17:27, and Amos 6:13.\\f*",
+          "raw_sha256": "f8d6456f9774b9eb3c4753c37439e043556a2316beb079c066084f55392a1625"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 13:27 \\ft That is, the Sea of Galilee\\f*",
+          "raw_sha256": "afed6ca99340b07070d240ca156f2ba493b179fb27beb871d8297061458ee27a"
+        }
+      ]
+    },
+    "15": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 15:2 \\ft That is, the Dead Sea; also in verse 5\\f*",
+          "raw_sha256": "8c9505fe59365b2bab8a4dc316eb2afe3c32659e513a651726df6e78170168df"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 15:3 \\ft Or \\fqa the Ascent of Scorpions \\ft or \\fqa Scorpion Pass\\f*",
+          "raw_sha256": "5129db78d5821dafa7074302f7c2bc9e9a446f3eed2a3f9ffbdaeec78add399b"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 15:4 \\ft That is, the Mediterranean Sea, also called the Great Sea; also in verses 11, 12, and 47\\f*",
+          "raw_sha256": "2a7dd0d774ba8bffaf97a447f369043323ef1bd76238a0608044ce93a08fa686"
+        },
+        {
+          "source_usfm": "\\f + \\fr 15:4 \\ft LXX; Hebrew \\fqa your\\f*",
+          "raw_sha256": "cff2ee8aa012a884cabf13f24ec515b652fe44e9978fa082bd5fae670ba8598a"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 15:18 \\ft Hebrew and some LXX manuscripts; other LXX manuscripts \\fqa and he urged her\\ft ; see \\ref Judges 1:14|JDG 1:14\\ref*.\\f*",
+          "raw_sha256": "9290f6846c48cab5e45e2bbd9c38227c65d61949523e0dcfaabb03cbef1cf2fb"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 15:33 \\ft Hebrew \\fqa Shephelah \\ft or \\fqa lowlands\\ft ; that is, the western foothills of Judea\\f*",
+          "raw_sha256": "ce22adf34db4835da6ec7d0d3e86068cfb2261b0e5c8950def9e1b7fcb0a0da7"
+        }
+      ]
+    },
+    "16": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 16:2 \\ft LXX (See also \\ref Joshua 18:13|JOS 18:13\\ref*); Hebrew \\fqa from Bethel to Luz\\f*",
+          "raw_sha256": "9f819bbecce6afe63311afea5e0b97b021950d738f27b5a763b17574ebf4570f"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 16:3 \\ft That is, the Mediterranean Sea, also called the Great Sea; also in verses 6 and 8\\f*",
+          "raw_sha256": "fe0f6a262015d0d4ea12137b4bcb026cac8be6e9a548c117b3d8e84195ebddfa"
+        }
+      ]
+    },
+    "17": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 17:2 \\fqa Abiezer \\ft is a variant of \\fqa Iezer\\ft ; see \\ref Numbers 26:30|NUM 26:30\\ref*.\\f*",
+          "raw_sha256": "b60cd2e462c128169f438e8c94d6eba690b489e0dada72a9122fa033b3b345a1"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 17:9 \\ft That is, the Mediterranean Sea, also called the Great Sea; also in verse 10\\f*",
+          "raw_sha256": "295611f2aa5e9fcd5c5c931db57adfae933171d68a329055c8a501932427652d"
+        }
+      ]
+    },
+    "18": {
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 18:18 \\ft LXX; Hebrew \\fqa slope facing the Arabah\\f*",
+          "raw_sha256": "599e23bc969b8b009c8ec82f77198ec88216ed6102dad8f892ffa47bafa6b004"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 18:19 \\ft That is, the Dead Sea\\f*",
+          "raw_sha256": "931148081636c8ff1665c7eed65eeadc007b93bcfec990f093b4c4517dc99787"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 18:28 \\ft LXX, Syriac, and Vulgate; Hebrew \\fqa the Jebusite\\f*",
+          "raw_sha256": "b7fef63162c7abdb7a81559bb1b5cdf196d5c925a7f102a78ba3f876b31487cd"
+        },
+        {
+          "source_usfm": "\\f + \\fr 18:28 \\ft Hebrew \\fqa Gibeath \\ft \\f*",
+          "raw_sha256": "c2225a445c8a1de5810d3e97cbd88e33bbf669aff72ba843cfe8b3d338f5490c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 18:28 \\ft LXX; Hebrew \\fqa Kiriath\\f*",
+          "raw_sha256": "841c88d662da710fb86f691cd9b6cda16da16a8bdc3b80cab66c4ed84bcf491c"
+        }
+      ]
+    },
+    "19": {
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 19:28 \\ft Some Hebrew manuscripts \\fqa Abdon\\ft ; see \\ref Joshua 21:30|JOS 21:30\\ref*.\\f*",
+          "raw_sha256": "ceeb880018fca503ad82cc985d959a42d64419ae3ee219e15dd2a569a2906294"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 19:29 \\ft That is, the Mediterranean Sea, also called the Great Sea\\f*",
+          "raw_sha256": "85948435f7a49f748f9f1b186feaf1ca50fd9ed8dd3b7d504fb4cb51f922eea5"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 19:34 \\ft Hebrew; LXX \\fqa west, and the Jordan\\f*",
+          "raw_sha256": "596d56b1670e0fbafc24e9fd992be2e5cebb9ee9bc3b34637a84614f7b319b3f"
+        }
+      ],
+      "50": [
+        {
+          "source_usfm": "\\f + \\fr 19:50 \\fqa Timnath-serah \\ft is also known as \\fqa Timnath-heres\\ft ; see \\ref Judges 2:9|JDG 2:9\\ref*.\\f*",
+          "raw_sha256": "b1e626be35b7ff7f35a40b8897304e30c1fb9a0c785dd9f322e2a5a726a1aa32"
+        }
+      ]
+    },
+    "22": {
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 22:10 \\ft Or \\fqa to the circle of stones \\ft or \\fqa to the region\\ft ; similarly in verse 11\\f*",
+          "raw_sha256": "92786ee331fd2281594a1249e0a9d13e40a53b3934d0bf9f6d5689ff4ac5538b"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 22:20 \\fqa Achan \\ft means \\fqa troubler\\ft ; also called \\fqa Achar\\ft in \\ref 1 Chronicles 2:7|1CH 2:7\\ref*.\\f*",
+          "raw_sha256": "f754fb6d8d2338d3cb4a29808ac829d709ce1d278bd22cd435572325da510251"
+        },
+        {
+          "source_usfm": "\\f + \\fr 22:20 \\ft Forms of the Hebrew \\fqa cherem \\ft refer to the giving over of things or persons to the LORD, either by destroying them or by giving them as an offering.\\f*",
+          "raw_sha256": "ccc861078fd8fb7cc8f046bcfd964ba1980450d24773112f49d220017d277654"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 22:34 \\ft Literally \\fqa named the altar, for\\f*",
+          "raw_sha256": "533fa53f96e53cc231c3eecf820d2062895669e9ca8ee5b1155c88fc2806c78e"
+        }
+      ]
+    },
+    "23": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 23:4 \\ft That is, the Mediterranean Sea\\f*",
+          "raw_sha256": "a23c25a6c42f063ee0815c4829efd89c19397826e4340163a028bd02e9d92352"
+        }
+      ]
+    },
+    "24": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 24:2 \\ft Hebrew \\fqa the River\\ft ; also in verses 3, 14, and 15\\f*",
+          "raw_sha256": "ff7d656966f9b939067e1f12cb3febd1d840b495c6237ab15aeff112ee29472b"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 24:6 \\ft Or \\fqa the Sea of Reeds\\f*",
+          "raw_sha256": "d8bc40077ea7428ffa1c5cdde560e3edeaefab6a8b2852b0034396715fbc32a8"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 24:26 \\ft Or \\fqa terebinth\\f*",
+          "raw_sha256": "d07fe6192517008e4fa71f87763536c9b23f6b81c31bd91eba3aed4df02c1775"
+        }
+      ],
+      "30": [
+        {
+          "source_usfm": "\\f + \\fr 24:30 \\fqa Timnath-serah \\ft is also known as \\fqa Timnath-heres\\ft ; see \\ref Judges 2:9|JDG 2:9\\ref*.\\f*",
+          "raw_sha256": "46baa23eb82d341ae405633e270f02330a26a5700242b28200fd2280fac6e6b7"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 24:32 \\ft Hebrew \\fqa a hundred kesitahs\\ft ; the value or weight of the kesitah is no longer known.\\f*",
+          "raw_sha256": "13ec91db62715bb4f15fa1f5b547534146989baf0ee1e5cb907c90eaa8308563"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

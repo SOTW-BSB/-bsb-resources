@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 16,
+  "verses": [
+    {
+      "id": "JHN.16.1",
+      "edition_verse_id": "BSB:JHN.16.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“I have told you these things so that you will not fall away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.2",
+      "edition_verse_id": "BSB:JHN.16.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "They will put you out of the synagogues. In fact, a time is coming when anyone who kills you will think he is offering a service to God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.3",
+      "edition_verse_id": "BSB:JHN.16.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They will do these things because they have not known the Father or Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.4",
+      "edition_verse_id": "BSB:JHN.16.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But I have told you these things so that when their hour comes, you will remember that I told you about them. I did not tell you these things from the beginning, because I was with you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.5",
+      "edition_verse_id": "BSB:JHN.16.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Now, however, I am going to Him who sent Me; yet none of you asks Me, ‘Where are You going?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.6",
+      "edition_verse_id": "BSB:JHN.16.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Instead, your hearts are filled with sorrow because I have told you these things.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.7",
+      "edition_verse_id": "BSB:JHN.16.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But I tell you the truth, it is for your benefit that I am going away. Unless I go away, the Advocate will not come to you; but if I go, I will send Him to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.8",
+      "edition_verse_id": "BSB:JHN.16.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And when He comes, He will convict the world in regard to sin and righteousness and judgment:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.9",
+      "edition_verse_id": "BSB:JHN.16.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "in regard to sin, because they do not believe in Me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.10",
+      "edition_verse_id": "BSB:JHN.16.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "in regard to righteousness, because I am going to the Father and you will no longer see Me;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.11",
+      "edition_verse_id": "BSB:JHN.16.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "and in regard to judgment, because the prince of this world has been condemned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.12",
+      "edition_verse_id": "BSB:JHN.16.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "I still have much to tell you, but you cannot yet bear to hear it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.13",
+      "edition_verse_id": "BSB:JHN.16.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "However, when the Spirit of truth comes, He will guide you into all truth. For He will not speak on His own, but He will speak what He hears, and He will declare to you what is to come.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.14",
+      "edition_verse_id": "BSB:JHN.16.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He will glorify Me by taking from what is Mine and disclosing it to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.15",
+      "edition_verse_id": "BSB:JHN.16.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Everything that belongs to the Father is Mine. That is why I said that the Spirit will take from what is Mine and disclose it to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.16",
+      "edition_verse_id": "BSB:JHN.16.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In a little while you will see Me no more, and then after a little while you will see Me.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.17",
+      "edition_verse_id": "BSB:JHN.16.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Then some of His disciples asked one another, “Why is He telling us, ‘In a little while you will not see Me, and then after a little while you will see Me’ and ‘Because I am going to the Father’?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.18",
+      "edition_verse_id": "BSB:JHN.16.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They kept asking, “Why is He saying, ‘a little while’? We do not understand what He is saying.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.19",
+      "edition_verse_id": "BSB:JHN.16.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Aware that they wanted to question Him, Jesus said to them, “Are you asking one another why I said, ‘In a little while you will not see Me, and then after a little while you will see Me’?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.20",
+      "edition_verse_id": "BSB:JHN.16.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Truly, truly, I tell you, you will weep and wail while the world rejoices. You will grieve, but your grief will turn to joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.21",
+      "edition_verse_id": "BSB:JHN.16.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "A woman has pain in childbirth because her time has come; but when she brings forth her child, she forgets her anguish because of her joy that a child has been born into the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.22",
+      "edition_verse_id": "BSB:JHN.16.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "So also you have sorrow now, but I will see you again and your hearts will rejoice, and no one will take away your joy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.23",
+      "edition_verse_id": "BSB:JHN.16.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "In that day you will no longer ask Me anything. Truly, truly, I tell you, whatever you ask the Father in My name, He will give you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.24",
+      "edition_verse_id": "BSB:JHN.16.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Until now you have not asked for anything in My name. Ask and you will receive, so that your joy may be complete.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.25",
+      "edition_verse_id": "BSB:JHN.16.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "I have spoken these things to you in figures of speech. An hour is coming when I will no longer speak to you this way, but will tell you plainly about the Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.26",
+      "edition_verse_id": "BSB:JHN.16.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "In that day you will ask in My name. I am not saying that I will ask the Father on your behalf.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.27",
+      "edition_verse_id": "BSB:JHN.16.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For the Father Himself loves you, because you have loved Me and have believed that I came from God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.28",
+      "edition_verse_id": "BSB:JHN.16.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "I came from the Father and entered the world. In turn, I will leave the world and go to the Father.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.29",
+      "edition_verse_id": "BSB:JHN.16.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "His disciples said, “See, now You are speaking plainly and without figures of speech.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.30",
+      "edition_verse_id": "BSB:JHN.16.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Now we understand that You know all things and that You have no need for anyone to question You. Because of this, we believe that You came from God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.31",
+      "edition_verse_id": "BSB:JHN.16.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "“Do you finally believe?” Jesus replied.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.16.32",
+      "edition_verse_id": "BSB:JHN.16.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "“Look, an hour is coming and has already come when you will be scattered, each to his own home, and you will leave Me all alone. Yet I am not alone, because the Father is with Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.16.33",
+      "edition_verse_id": "BSB:JHN.16.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "I have told you these things so that in Me you may have peace. In the world you will have tribulation. But take courage; I have overcome the world!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

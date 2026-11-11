@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapter": 15,
+  "verses": [
+    {
+      "id": "JHN.15.1",
+      "edition_verse_id": "BSB:JHN.15.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“I am the true vine, and My Father is the keeper of the vineyard.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.2",
+      "edition_verse_id": "BSB:JHN.15.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "He cuts off every branch in Me that bears no fruit, and every branch that does bear fruit, He prunes to make it even more fruitful.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.3",
+      "edition_verse_id": "BSB:JHN.15.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "You are already clean because of the word I have spoken to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.4",
+      "edition_verse_id": "BSB:JHN.15.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Remain in Me, and I will remain in you. Just as no branch can bear fruit by itself unless it remains in the vine, neither can you bear fruit unless you remain in Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.5",
+      "edition_verse_id": "BSB:JHN.15.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I am the vine and you are the branches. The one who remains in Me, and I in him, will bear much fruit. For apart from Me you can do nothing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.6",
+      "edition_verse_id": "BSB:JHN.15.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If anyone does not remain in Me, he is like a branch that is thrown away and withers. Such branches are gathered up, thrown into the fire, and burned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.7",
+      "edition_verse_id": "BSB:JHN.15.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If you remain in Me and My words remain in you, ask whatever you wish, and it will be done for you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.8",
+      "edition_verse_id": "BSB:JHN.15.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "This is to My Father’s glory, that you bear much fruit, proving yourselves to be My disciples.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.9",
+      "edition_verse_id": "BSB:JHN.15.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "As the Father has loved Me, so have I loved you. Remain in My love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.10",
+      "edition_verse_id": "BSB:JHN.15.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If you keep My commandments, you will remain in My love, just as I have kept My Father’s commandments and remain in His love.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.11",
+      "edition_verse_id": "BSB:JHN.15.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "I have told you these things so that My joy may be in you and your joy may be complete.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.12",
+      "edition_verse_id": "BSB:JHN.15.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "This is My commandment, that you love one another as I have loved you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.13",
+      "edition_verse_id": "BSB:JHN.15.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Greater love has no one than this, that he lay down his life for his friends.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.14",
+      "edition_verse_id": "BSB:JHN.15.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "You are My friends if you do what I command you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.15",
+      "edition_verse_id": "BSB:JHN.15.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "No longer do I call you servants, for a servant does not understand what his master is doing. But I have called you friends, because everything I have learned from My Father I have made known to you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.16",
+      "edition_verse_id": "BSB:JHN.15.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "You did not choose Me, but I chose you. And I appointed you to go and bear fruit — fruit that will remain — so that whatever you ask the Father in My name, He will give you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.17",
+      "edition_verse_id": "BSB:JHN.15.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "This is My command to you: Love one another.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.18",
+      "edition_verse_id": "BSB:JHN.15.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "If the world hates you, understand that it hated Me first.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.19",
+      "edition_verse_id": "BSB:JHN.15.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "If you were of the world, it would love you as its own. Instead, the world hates you, because you are not of the world, but I have chosen you out of the world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.20",
+      "edition_verse_id": "BSB:JHN.15.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Remember the word that I spoke to you: ‘No servant is greater than his master.’ If they persecuted Me, they will persecute you as well; if they kept My word, they will keep yours as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.21",
+      "edition_verse_id": "BSB:JHN.15.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "But they will treat you like this because of My name, since they do not know the One who sent Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.22",
+      "edition_verse_id": "BSB:JHN.15.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "If I had not come and spoken to them, they would not be guilty of sin. Now, however, they have no excuse for their sin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.23",
+      "edition_verse_id": "BSB:JHN.15.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Whoever hates Me hates My Father as well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.24",
+      "edition_verse_id": "BSB:JHN.15.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "If I had not done among them the works that no one else did, they would not be guilty of sin; but now they have seen and hated both Me and My Father.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.25",
+      "edition_verse_id": "BSB:JHN.15.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "But this is to fulfill what is written in their Law: ‘They hated Me without reason.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JHN.15.26",
+      "edition_verse_id": "BSB:JHN.15.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "When the Advocate comes, whom I will send to you from the Father — the Spirit of truth who proceeds from the Father — He will testify about Me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JHN.15.27",
+      "edition_verse_id": "BSB:JHN.15.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And you also must testify, because you have been with Me from the beginning.[’’]",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

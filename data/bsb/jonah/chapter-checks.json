@@ -1,0 +1,32 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JON",
+  "chapter_count": 4,
+  "verse_count": 48,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "omitted_from_main_text": [],
+      "sha256": "e2aa57b0c3d09717372dfdd280951599b3866c4f3b17a9ad7d8bde8059f11697"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 10,
+      "omitted_from_main_text": [],
+      "sha256": "2f4fa657d016e359438361077c0b0ffd22e89c23505da0988086a8eef4b96d4a"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 10,
+      "omitted_from_main_text": [],
+      "sha256": "e304eb23a4a1db0a67c2660481cbdcf11e655b0e9930697da60e08db1de9ee62"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 11,
+      "omitted_from_main_text": [],
+      "sha256": "cb82ca755b2f38ea6378090a9c49d293037000c9d585f8e09911f2476cf43cd1"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOS",
+  "chapter": 14,
+  "verses": [
+    {
+      "id": "JOS.14.1",
+      "edition_verse_id": "BSB:JOS.14.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now these are the portions that the Israelites inherited in the land of Canaan, as distributed by Eleazar the priest, Joshua son of Nun, and the heads of the families of the tribes of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.2",
+      "edition_verse_id": "BSB:JOS.14.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Their inheritance was assigned by lot for the nine and a half tribes, as the LORD had commanded through Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.3",
+      "edition_verse_id": "BSB:JOS.14.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For Moses had given the inheritance east of the Jordan to the other two and a half tribes. But he granted no inheritance among them to the Levites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.4",
+      "edition_verse_id": "BSB:JOS.14.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The descendants of Joseph became two tribes, Manasseh and Ephraim. And no portion of the land was given to the Levites, except for cities in which to live, along with pasturelands for their flocks and herds.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.5",
+      "edition_verse_id": "BSB:JOS.14.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "So the Israelites did as the LORD had commanded Moses, and they divided the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.6",
+      "edition_verse_id": "BSB:JOS.14.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Then the sons of Judah approached Joshua at Gilgal, and Caleb son of Jephunneh the Kenizzite said to him, “You know what the LORD said to Moses the man of God at Kadesh-barnea about you and me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.7",
+      "edition_verse_id": "BSB:JOS.14.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought back to him an honest report.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.8",
+      "edition_verse_id": "BSB:JOS.14.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Although my brothers who went with me made the hearts of the people melt with fear, I remained loyal to the LORD my God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.9",
+      "edition_verse_id": "BSB:JOS.14.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "On that day Moses swore to me, saying, ‘Surely the land on which you have set foot will be an inheritance to you and your children forever, because you have wholly followed the LORD my God.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.10",
+      "edition_verse_id": "BSB:JOS.14.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Now behold, as the LORD promised, He has kept me alive these forty-five years since He spoke this word to Moses, while Israel wandered in the wilderness. So here I am today, eighty-five years old,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.11",
+      "edition_verse_id": "BSB:JOS.14.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "still as strong today as I was the day Moses sent me out. As my strength was then, so it is now for war, for going out, and for coming in.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.12",
+      "edition_verse_id": "BSB:JOS.14.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Now therefore give me this hill country that the LORD promised me on that day, for you yourself heard then that the Anakim were there, with great and fortified cities. Perhaps with the LORD’s help I will drive them out, as the LORD has spoken.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.13",
+      "edition_verse_id": "BSB:JOS.14.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then Joshua blessed Caleb son of Jephunneh and gave him Hebron as his inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.14.14",
+      "edition_verse_id": "BSB:JOS.14.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Therefore Hebron belongs to Caleb son of Jephunneh the Kenizzite as an inheritance to this day, because he wholly followed the LORD, the God of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.14.15",
+      "edition_verse_id": "BSB:JOS.14.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "(Hebron used to be called Kiriath-arba, after Arba, the greatest man among the Anakim.) Then the land had rest from war.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

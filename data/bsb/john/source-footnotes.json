@@ -1,0 +1,749 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapters": {
+    "1": {
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 1:5 \\ft Or \\fqa comprehended\\f*",
+          "raw_sha256": "417ec0e2b85c98b10535fc057d1d82d341a255e182ed6d6db3236c392a75a47f"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Or \\fqa and tabernacled among us\\f*",
+          "raw_sha256": "d127bf825bc5da230163caa34e44144b6a1d13341e3dad43f8f07faadecd5e23"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:14 \\ft Or \\fqa the Only Begotten \\ft or \\fqa the Unique One\\f*",
+          "raw_sha256": "0d8773838af0f46eb90a1e6422de2901084b71cabf1f03b0ca3b70b3cdd26e98"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 1:18 \\ft Or \\fqa but the only begotten God, who\\ft ; BYZ and TR \\fqa but the only begotten Son, who\\f*",
+          "raw_sha256": "c4013eddf1245dfcbe2cd1b5056cfe6f664ce525d71a5e402ee666f17316a61c"
+        },
+        {
+          "source_usfm": "\\f + \\fr 1:18 \\ft Greek \\fqa in the Father’s bosom\\f*",
+          "raw_sha256": "9149b0149f9803b3dbcb06788a456c6475fa3cf1655ea438c903cd4a539a2085"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 1:23 \\ft \\ref Isaiah 40:3|ISA 40:3\\ref* (see also LXX)\\f*",
+          "raw_sha256": "ac647db4a8a506842876e3dfe6900884cbc6212155d26d532f7164e3fd7b48ac"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 1:26 \\ft Or \\fqa in\\ft ; also in verse 31 and twice in 33\\f*",
+          "raw_sha256": "b1994e95647d26092d60e9cec1baf11a0249a3119375aa4ffc3c48b35c2e378f"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 1:34 \\ft SBL \\fqa the Chosen One of God\\f*",
+          "raw_sha256": "33178352067d4261030f52ad64790f6a828a6dd5ad9910120bdb6a545ed5e3b5"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 1:39 \\ft That is, about four in the afternoon\\f*",
+          "raw_sha256": "be4f3a42d9d0a4f1b1405c662c7c07f91d11b291d68904b2443798acb6787130"
+        }
+      ],
+      "51": [
+        {
+          "source_usfm": "\\f + \\fr 1:51 \\ft See \\ref Genesis 28:12|GEN 28:12\\ref*.\\f*",
+          "raw_sha256": "4a7f548ec0b46a59b80f9f6cf1374d86dce840d2eb21839310f43adbd053f63f"
+        }
+      ]
+    },
+    "2": {
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 2:6 \\ft Greek \\fqa two or three metretae\\ft ; that is, approximately 20.8 to 31.2 gallons (78.8 to 118.1 liters)\\f*",
+          "raw_sha256": "b536ebcbba89938d835fe1c56fe3cde7dbf28cbb68e417663b6904ed0ee39b16"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 2:14 \\ft Literally \\fqa the temple\\ft ; also in verse 15\\f*",
+          "raw_sha256": "69c2643d8a044c505f9b855c149140a606e5b9b1bf2edd46f403222330f13333"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 2:17 \\ft \\ref Psalm 69:9|PSA 69:9\\ref*\\f*",
+          "raw_sha256": "2ede83d7def94370b14a37c1bcff843ac11b7bbaa815c784ab0b04ba43206911"
+        }
+      ]
+    },
+    "3": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 3:3 \\ft Or \\fqa born from above\\ft ; also in verse 7.\\f*",
+          "raw_sha256": "5f93872f618af03eb662d0a48e056f224e19739415415c979763f8dfa2351623"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 3:7 \\ft The Greek word for \\fqa you \\ft is plural; also in verse 12.\\f*",
+          "raw_sha256": "0d41aede848ada66330b329f1e5d9fac0b487e037052ed91f3096598443f42cc"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 3:13 \\ft BYZ and TR include \\fqa who is in heaven\\ft .\\f*",
+          "raw_sha256": "7f6ead5bea36318b7d064bdcd3328a9ec3d0e34941fe681835adea11314faa07"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 3:15 \\ft Or \\fqa everyone who believes may have eternal life in Him.\\f*",
+          "raw_sha256": "9e9cf24ed994bea43ef923f2b140b29c5fa8169069efb3bcc6ce009baafda7da"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 3:16 \\ft Or \\ft only begotten \\ft or \\fqa unique\\ft ; also in verse 18\\f*",
+          "raw_sha256": "e42136f865c673a482626ace01bee400d60e881583f1dc45d2078b77a21277bb"
+        }
+      ],
+      "21": [
+        {
+          "source_usfm": "\\f + \\fr 3:21 \\ft Some translators close this quotation after verse 15.\\f*",
+          "raw_sha256": "35db58fa0c5576899403b97aa4da88340fc34db21be2148f8ecf7b3cfa7d85e9"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 3:25 \\ft TR \\fqa and the Jews\\f*",
+          "raw_sha256": "42d2797859b7860f4221d8913a4e6b4b1ba0e4220117c55460a7835e958600e4"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 3:31 \\ft Tischendorf \\fqa The One comes from heaven.\\f*",
+          "raw_sha256": "b8665b3748b928d6044aebd9328ccb2c113f41807e15835204a223094b87faa5"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 3:36 \\ft Some translators close this quotation after verse 30.\\f*",
+          "raw_sha256": "924b10aa0178a80792f73d5db5e1738e6b5b8169e34a22a7d2becaccd0255053"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 4:1 \\ft Literally \\fqa When therefore Jesus knew that the Pharisees had heard that Jesus\\ft ; NE, WH, BYZ, and TR \\fqa When therefore the Lord knew that the Pharisees had heard that Jesus\\f*",
+          "raw_sha256": "f727df2595c656ebd5eeecfe25acc27dc1c33d52a8d935c935c6696da78b0f21"
+        }
+      ],
+      "6": [
+        {
+          "source_usfm": "\\f + \\fr 4:6 \\ft That is, about noon\\f*",
+          "raw_sha256": "4ed441ffd3930fea2020bf4754117f1b1684722684419cd78d6d284d0f550871"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 4:9 \\ft Tischendorf does not include this sentence.\\f*",
+          "raw_sha256": "fa40959be2da7be86fde3ad9763cb907ca20faf892e7e7545209e9fcce461ffe"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 4:35 \\ft Literally \\fqa white\\f*",
+          "raw_sha256": "ba7744a7a8553e910138518a6cb55604d5ecfb07b8b16c45688897b0c08e5c95"
+        }
+      ],
+      "52": [
+        {
+          "source_usfm": "\\f + \\fr 4:52 \\ft That is, one in the afternoon\\f*",
+          "raw_sha256": "3d49b6fbcd7977fbbf5725e74a66bd0c7f53ea21aedde08c0c4747fb11e82547"
+        }
+      ]
+    },
+    "5": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft Or \\fqa in Aramaic\\f*",
+          "raw_sha256": "5362c0d47d7c708ce09737b7419eb1a1370be29d1c3952795282c8f46c1dc38b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:2 \\ft NA, NE, and WH \\fqa Bethzatha\\f*",
+          "raw_sha256": "0454daec1888787e518d9db4d416995d7df938d8bdd58f8e23aaee6b0bd03f16"
+        }
+      ],
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 5:3 \\ft Literally \\fqa In these\\f*",
+          "raw_sha256": "3b8e3d6cdeb2f547dd7a0f34f649f73cd4fe7961d18a632bd4210157e97ac20b"
+        },
+        {
+          "source_usfm": "\\f + \\fr 5:3 \\ft NE, BYZ, and TR include \\fqa awaiting the moving of the waters. \\fv 4\\fv*For from time to time an angel descended into the pool and stirred the water. As soon as it was stirred, the first to enter the pool would be healed of his disease.\\f*",
+          "raw_sha256": "5011f895a66406bb72e9eea0197a4c60fa1635b0b6c95478cd624203da11cafd"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 5:29 \\ft See \\ref Daniel 12:2|DAN 12:2\\ref*.\\f*",
+          "raw_sha256": "6ff9c33b09f5816cef54843c79f6a49e2b5dc38ebe0eed5d67baa6d7d08ba868"
+        }
+      ]
+    },
+    "6": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 6:7 \\ft A denarius was customarily a day’s wage for a laborer; see \\ref Matthew 20:2|MAT 20:2\\ref*.\\f*",
+          "raw_sha256": "a7eb1e9beb427db4d880645299d349fa875fba096bd584351cf41b029496b394"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 6:14 \\ft SBL, NA, NE, and WH \\fqa He had performed\\f*",
+          "raw_sha256": "3949781d93b52b0b93cfde018e290028f5016f1539a914d1466c511f2ef800aa"
+        }
+      ],
+      "19": [
+        {
+          "source_usfm": "\\f + \\fr 6:19 \\ft Greek \\fqa about twenty-five or thirty stadia\\ft ; that is, approximately 2.87 to 3.45 miles (4.62 to 5.55 kilometers)\\f*",
+          "raw_sha256": "42e0f675562a2a78bbbfff1bc04939865406db524412c16d7594c3b56f0172ca"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 6:31 \\ft \\ref Psalm 78:24|PSA 78:24\\ref*; see also Exodus 16:4.\\f*",
+          "raw_sha256": "c312a412dbdf0d874db6af000e185a90a0944b94c01f1a46f2a521b506ef6cc7"
+        }
+      ],
+      "45": [
+        {
+          "source_usfm": "\\f + \\fr 6:45 \\ft \\ref Isaiah 54:13|ISA 54:13\\ref*\\f*",
+          "raw_sha256": "cf150d103cea043554b7cbc57a68818e7222b649ef16801bc9b251c46c7b8c59"
+        }
+      ],
+      "69": [
+        {
+          "source_usfm": "\\f + \\fr 6:69 \\ft BYZ and TR \\fqa You are the Christ, the Son of the living God\\f*",
+          "raw_sha256": "328fe1706c4987e46e2817df5274a4b4f21f89458e78ce08ac8b6f99f4d46dc9"
+        }
+      ]
+    },
+    "7": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 7:2 \\ft That is, Sukkot, the autumn feast of pilgrimage to Jerusalem; also translated as \\fqa the Feast of Booths \\ft or \\fqa the Feast of Shelters \\ft and originally called \\fqa the Feast of Ingathering\\ft (see \\ref Exodus 23:16|EXO 23:16\\ref* and Exodus 34:22).\\f*",
+          "raw_sha256": "00ea85c60e75c275f3468efcc5c5886f24fa39aa6200bf156e94d686b2cade96"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 7:8 \\ft NE, WH, BYZ, and TR \\fqa I am not yet\\f*",
+          "raw_sha256": "d856846ad8abcde516f15dc9ef3e73baa84a4e4e042d28d39d1438822fae0fa2"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 7:14 \\ft Literally \\fqa the temple\\ft ; also in verse 28\\f*",
+          "raw_sha256": "4c8c1d57c564245e81bb6030097f4c0688d75ea57f1a7956023d12ee9b440cf9"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 7:35 \\ft Literally \\fqa Will He go to the Diaspora among the Greeks\\ft ; the Jewish people living outside the land of Israel since the Babylonian exile were referred to as \\fqa the Diaspora\\ft .\\f*",
+          "raw_sha256": "15a393a8401391608f508a9422932020a27a21be1bc01d0e91951ad84185893f"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 7:39 \\ft Literally \\fqa the Spirit was not yet\\ft ; BYZ and TR \\fqa the Holy Spirit was not yet\\f*",
+          "raw_sha256": "a592b0c5747fc97f700096aeabbac3d68b2b2a8d17ac31059854ae1735f35f26"
+        }
+      ],
+      "42": [
+        {
+          "source_usfm": "\\f + \\fr 7:42 \\ft See \\ref Micah 5:2|MIC 5:2\\ref*.\\f*",
+          "raw_sha256": "1d45eee32f7e0372032053c244e7b47fcefc2c151188eec559838b2935a8d0b2"
+        }
+      ],
+      "52": [
+        {
+          "source_usfm": "\\f + \\fr 7:52 \\ft Some early manuscripts do not include \\ref John 7:53|JHN 7:53\\ref* through John 8:11.\\f*",
+          "raw_sha256": "016262410a08dda8b10a88060a8fd6e14630e34e1f250ad450cc46df74c354fd"
+        }
+      ]
+    },
+    "8": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 8:2 \\ft Literally \\fqa the temple\\ft ; also in verse 20\\f*",
+          "raw_sha256": "742e7a8be16aff3cb4157ae910c719985f342f964bb481ab9856ec522c98ead0"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 8:9 \\ft NE, BYZ, and TR include \\fqa and were convicted by their conscience,\\f*",
+          "raw_sha256": "f518215abe01af955947600ee4efa1fd6ac58d4599c00430f5a8e4c1d070974c"
+        }
+      ],
+      "10": [
+        {
+          "source_usfm": "\\f + \\fr 8:10 \\ft NE, BYZ, and TR include \\fqa and saw no one but the woman\\ft .\\f*",
+          "raw_sha256": "c0944e62f7f6485e4a0af8f2eee18051247eb524b159c713ea244ef1adcfc8fc"
+        },
+        {
+          "source_usfm": "\\f + \\fr 8:10 \\ft WH and NA \\fqa where are they\\f*",
+          "raw_sha256": "66f83d6a3f367f989fea252e4142b97b2cf384897f5c1697f25b9ba88a4ab495"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 8:16 \\ft Literally \\fqa but (it is) I and the Father who sent Me\\ft ; NE \\fqa but (it is) I and the One who sent Me\\f*",
+          "raw_sha256": "185ced5677145f25be547d3f098917dee07c53591b9a150d0ccbbd39af1ac3c7"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 8:17 \\ft See \\ref Deuteronomy 19:15|DEU 19:15\\ref*.\\f*",
+          "raw_sha256": "0d47e695819ad076c415ed4dd206441470ba05925d8cfb57551a8f18446d7748"
+        }
+      ],
+      "54": [
+        {
+          "source_usfm": "\\f + \\fr 8:54 \\ft WH and TR \\fqa Your\\f*",
+          "raw_sha256": "eb6d659fec4d07322d727ad740833e930cff57285cfd99640fffa50375649fb0"
+        }
+      ],
+      "58": [
+        {
+          "source_usfm": "\\f + \\fr 8:58 \\ft Literally \\fqa before Abraham was, I am!\\f*",
+          "raw_sha256": "04fd0c65148161c9a5e04bba7b5ca21653e520abd915c820d80b3c3312b7e792"
+        }
+      ],
+      "59": [
+        {
+          "source_usfm": "\\f + \\fr 8:59 \\ft BYZ and TR include \\fqa going through the midst of them, and so He passed by\\ft .\\f*",
+          "raw_sha256": "37ccfd3a6e1a4fb761db2eabd80997eb9ca4fcfa8f19da84610af91d37ed8da6"
+        }
+      ]
+    },
+    "9": {
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 9:4 \\ft BYZ and TR \\fqa I must do\\f*",
+          "raw_sha256": "5db887bad004212e74629a108102099bd2cbada82ad6d441eaed8af52c35e37d"
+        }
+      ],
+      "35": [
+        {
+          "source_usfm": "\\f + \\fr 9:35 \\ft BYZ and TR \\fqa the Son of God\\f*",
+          "raw_sha256": "812746218ce885cb26c7ea7206a1fe2525bf5891747685fd6c5574d40302c364"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 9:39 \\ft Literally \\fqa so that those not seeing may see and those seeing may become blind. \\ft Some manuscripts do not include \\fqa \\fv 38\\fv*“Lord, I believe.”... \\fv 39\\fv*Then Jesus declared\\ft .\\f*",
+          "raw_sha256": "e9f6d38e03704332b2b429519bec951df7f1794e52415e526f3957233cd49e03"
+        }
+      ]
+    },
+    "10": {
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 10:8 \\ft BYZ \\fqa All who came\\f*",
+          "raw_sha256": "1745bdf210a739a660aca6e051e1c25a530ead4a440b9bf31ee984c69ada6a1f"
+        }
+      ],
+      "22": [
+        {
+          "source_usfm": "\\f + \\fr 10:22 \\ft That is, Hanukkah, the historic celebration of the Maccabean Revolt and rededication of the temple\\f*",
+          "raw_sha256": "ab451a9a373c2a177edd3060824caae46de056fc911c4c730a39a564f49d5f9b"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 10:23 \\ft Literally \\fqa the temple\\f*",
+          "raw_sha256": "f0f94af04ee868515da72eb920dba933413f111231a5e535b7960c739c7d0506"
+        }
+      ],
+      "34": [
+        {
+          "source_usfm": "\\f + \\fr 10:34 \\ft \\ref Psalm 82:6|PSA 82:6\\ref*\\f*",
+          "raw_sha256": "a98c229c3d897c12c14f8731c232631ea9d45d076c675a2a1b6eeeba12508edd"
+        }
+      ]
+    },
+    "11": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 11:2 \\ft Literally \\fqa was the one having anointed the Lord with fragrant oil and having wiped His feet\\ft ; see \\ref John 12:3|JHN 12:3\\ref*.\\f*",
+          "raw_sha256": "d84a5b9a466f332af53e1542a0f2f25e921c7c67a02cd04cae4d0f34e16f4743"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 11:16 \\fqa Didymus \\ft means \\fqa the twin\\ft .\\f*",
+          "raw_sha256": "80fd435bee338e88589f75a182b7836e0278f40879f3e1a3a95eec10505907f8"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 11:18 \\ft Greek \\fqa about fifteen stadia\\ft ; that is, approximately 1.72 miles or 2.78 kilometers\\f*",
+          "raw_sha256": "19996e5c2f9e6e62c931c82494ec3fda6dceab7c3db0c924f9065c5388699219"
+        }
+      ],
+      "33": [
+        {
+          "source_usfm": "\\f + \\fr 11:33 \\ft Or \\fqa He was indignant in spirit\\ft ; similarly in verse 38\\f*",
+          "raw_sha256": "5b83eb299d2fc92e7d665266a53877b0e2ee6eb728e32de49f661e17940af56b"
+        }
+      ],
+      "44": [
+        {
+          "source_usfm": "\\f + \\fr 11:44 \\ft Greek \\fqa soudariō\\f*",
+          "raw_sha256": "8e2191014710047aa89b8bc2a2684ba1be1daf9bc2981b6eba822e7382413bca"
+        }
+      ],
+      "47": [
+        {
+          "source_usfm": "\\f + \\fr 11:47 \\ft Or \\fqa the Council\\f*",
+          "raw_sha256": "11d2ebe21b03908b61a1739a1a1d10b1149ad2f84257de95a4ac915a60587a06"
+        }
+      ],
+      "56": [
+        {
+          "source_usfm": "\\f + \\fr 11:56 \\ft Literally \\fqa the temple\\f*",
+          "raw_sha256": "968f1cc72886834590e4754ceeeca008655b011506ba9361c11c22b4d948b210"
+        }
+      ]
+    },
+    "12": {
+      "3": [
+        {
+          "source_usfm": "\\f + \\fr 12:3 \\ft Greek \\fqa a litra\\ft ; that is, approximately 12 ounces or 340 grams\\f*",
+          "raw_sha256": "9bcabf080b673dad14c4e3b58c49a7054f05b08382e46411fba23ddaff20f59d"
+        }
+      ],
+      "5": [
+        {
+          "source_usfm": "\\f + \\fr 12:5 \\ft A denarius was customarily a day’s wage for a laborer; see \\ref Matthew 20:2|MAT 20:2\\ref*.\\f*",
+          "raw_sha256": "b2eee31d323eb7e62761ef5211373bdbe27af1f9e1318b366809555fb45454f2"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 12:8 \\ft See \\ref Deuteronomy 15:11|DEU 15:11\\ref*.\\f*",
+          "raw_sha256": "595c4d787bf911ac1f9bb9e338a9480c295271f1371caf3a3445da10306a4b56"
+        }
+      ],
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 12:13 \\fqa Hosanna \\ft is a transliteration of the Hebrew \\fqa Hosia-na\\ft , meaning \\fqa Save, we pray \\ft or \\fqa Save now\\ft , which became a shout of praise; see \\ref Psalm 118:25|PSA 118:25\\ref*.\\f*",
+          "raw_sha256": "c6b26fd7b4089e6fb60458e198fda7af292d297a08c4e6a84a4a364a91599bb6"
+        },
+        {
+          "source_usfm": "\\f + \\fr 12:13 \\ft \\ref Psalm 118:26|PSA 118:26\\ref*\\f*",
+          "raw_sha256": "50ee2e8a42d632025cc597e4ad9c8f5a34d98e34e9d880d5ad371b6ae7c70062"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 12:15 \\ft \\ref Zechariah 9:9|ZEC 9:9\\ref*\\f*",
+          "raw_sha256": "b58d17c62b5859467039a177a993639a29076f7c87e2816bd46877f285a0f387"
+        }
+      ],
+      "38": [
+        {
+          "source_usfm": "\\f + \\fr 12:38 \\ft \\ref Isaiah 53:1|ISA 53:1\\ref*\\f*",
+          "raw_sha256": "883c8c5db2d774678f7d7a3f30adb95f84cddeff223f2030001d3b3c81efa210"
+        }
+      ],
+      "40": [
+        {
+          "source_usfm": "\\f + \\fr 12:40 \\ft \\ref Isaiah 6:10|ISA 6:10\\ref*\\f*",
+          "raw_sha256": "43757f15b8dc4f285639893e7a931c874461f6e59d8a73d49e9c73eebcbf5ea0"
+        }
+      ]
+    },
+    "13": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 13:1 \\ft Or \\fqa He showed them the full extent of His love.\\f*",
+          "raw_sha256": "35b160de72f54d00d30c73a61029621baadf17ebfb746223dabad210e8e41bd5"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 13:16 \\ft Cited in \\ref John 15:20|JHN 15:20\\ref*\\f*",
+          "raw_sha256": "9d7cf7e6db0c2e26b73b10c12575fa289056d0c494eb4fe7c881f13b45dc7ec3"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 13:18 \\ft \\ref Psalm 41:9|PSA 41:9\\ref*\\f*",
+          "raw_sha256": "118a829fc948d14576f7f0194166982db79e061dde27bb8802d7e0c20e1e1478"
+        }
+      ],
+      "23": [
+        {
+          "source_usfm": "\\f + \\fr 13:23 \\ft Greek \\fqa was reclining in the bosom of Jesus\\f*",
+          "raw_sha256": "014a71c847a1d8fb855e170632100b273aae48933db0ce58fde707962c68d520"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 13:32 \\ft WH does not include \\fqa If God is glorified in Him\\ft .\\f*",
+          "raw_sha256": "eb9648e9e624fb86c2c979bb052b00f4e35fe5eb43828201a6ceef5a024be4e7"
+        }
+      ]
+    },
+    "14": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 14:1 \\ft Or \\fqa Believe in God\\f*",
+          "raw_sha256": "9851853ef273584ed0032741eb354f0aaf5f0e5753b9329fc8c25a579355ee93"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 14:2 \\ft Or \\fqa If it were not so, I would have told you. I am going there to prepare a place for you.\\f*",
+          "raw_sha256": "af615e8c3d12479fe4df8aca078a98d773d1e2726de897bb429c24b7bfa0018f"
+        }
+      ],
+      "4": [
+        {
+          "source_usfm": "\\f + \\fr 14:4 \\ft BYZ and TR \\fqa And where I go you know, and the way you know.\\f*",
+          "raw_sha256": "d014f2721267842a7e71e7b5c216aa9ac95f46cd5d7bba2dccd20d40a469ef54"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 14:14 \\ft TR does not include \\fqa Me\\ft .\\f*",
+          "raw_sha256": "34e2f44fb8f2a6bc9e830a6d44a114602a166ac04b4dc545bffc35010a9b1aaf"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 14:15 \\ft Or \\fqa If you love Me, keep\\f*",
+          "raw_sha256": "975737d130398fb7d5ebf0f61c5b9630d46930cfc5a69e68a28e30bf33f3c369"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 14:16 \\ft Or \\fqa Comforter \\ft or \\fqa Helper \\ft or \\fqa Counselor\\ft ; Greek \\fqa Paraclete\\ft ; also in verse 26\\f*",
+          "raw_sha256": "bc6eb4f34a81f070dc1f3d104a4d8de6db17a709c5b8f5d0df55bf637e00bbfb"
+        }
+      ],
+      "17": [
+        {
+          "source_usfm": "\\f + \\fr 14:17 \\ft WH \\fqa and is in you\\f*",
+          "raw_sha256": "61de099323b699e2cd2192cf3f8cf0e2daebda39f16fbf1e116d4a45e489a60a"
+        }
+      ]
+    },
+    "15": {
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 15:20 \\ft \\ref John 13:16|JHN 13:16\\ref*\\f*",
+          "raw_sha256": "8395b7f185646023103d3ce5593798d3000c591ee7ae67ff417890ce40a2f5a2"
+        }
+      ],
+      "25": [
+        {
+          "source_usfm": "\\f + \\fr 15:25 \\ft See \\ref Psalm 35:19|PSA 35:19\\ref*, Psalm 38:19, and Psalm 69:4.\\f*",
+          "raw_sha256": "ce97bdb17566f42eee4ea8afee2da50813fc60e23869ebdc0736d3a3caae1935"
+        }
+      ],
+      "26": [
+        {
+          "source_usfm": "\\f + \\fr 15:26 \\ft Or \\fqa Comforter \\ft or \\fqa Helper \\ft or \\fqa Counselor\\ft ; Greek \\fqa Paraclete\\f*",
+          "raw_sha256": "4871b0379dee3d0e00ba7c7837a605c7c3d7fbc545b3579386d5db1b8e222bb4"
+        }
+      ]
+    },
+    "16": {
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 16:7 \\ft Or \\fqa Comforter \\ft or \\fqa Helper \\ft or \\fqa Counselor\\ft ; Greek \\fqa Paraclete\\f*",
+          "raw_sha256": "23ddf49884686bede66727edf96e3b5cb88fa2efa546e42c2d6a5ddcf9bfd8af"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 16:16 \\ft BYZ and TR include \\fqa because I go away to the Father.\\f*",
+          "raw_sha256": "1d0407b8afbd24d4472fb213283c3159e6f76d11df0fefef8775a98c446ea1ea"
+        }
+      ],
+      "27": [
+        {
+          "source_usfm": "\\f + \\fr 16:27 \\ft WH \\fqa from the Father\\f*",
+          "raw_sha256": "fd2e8c60a96eb3498cc69a34f01025a5c73dff73e77bb686d9822d67f79a1a9c"
+        }
+      ]
+    },
+    "17": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 17:2 \\ft Literally \\fqa all flesh\\f*",
+          "raw_sha256": "1a4400a97e5a7fca70219f5932d2f271f0a82ece1b3016cc302399566331b080"
+        }
+      ],
+      "11": [
+        {
+          "source_usfm": "\\f + \\fr 17:11 \\ft Literally \\fqa Your name, which You gave Me\\ft ; TR \\fqa Your name. These You have given Me\\ft ; similarly in verse 12\\f*",
+          "raw_sha256": "e1eba6e8758232abc0dbc34c2a706f98376c23b01106217eb8e9cc0be56e472f"
+        }
+      ],
+      "15": [
+        {
+          "source_usfm": "\\f + \\fr 17:15 \\ft Or \\fqa from evil\\f*",
+          "raw_sha256": "665bbe70f8d64b7621bd6d8f634f61323402bf82965d233a4d1a62c2dea2ec61"
+        }
+      ]
+    },
+    "18": {
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 18:2 \\ft HF and PT \\fqa Jesus also\\f*",
+          "raw_sha256": "e6719021c65001cd9942b6a60dae87e17dc5add1c3ec108d83e4ec503eae957b"
+        }
+      ],
+      "9": [
+        {
+          "source_usfm": "\\f + \\fr 18:9 \\ft See \\ref John 6:39|JHN 6:39\\ref* and John 17:12.\\f*",
+          "raw_sha256": "b2eb259aa198d2879a9cc0d2bb05953b81510e303e45c1abca42ab722ef52f9b"
+        }
+      ],
+      "32": [
+        {
+          "source_usfm": "\\f + \\fr 18:32 \\ft See \\ref John 12:32–33|JHN 12:32-33\\ref*.\\f*",
+          "raw_sha256": "57a45791a18d10bdeb075e498cd489588161e36db87ca386b4b422b225100151"
+        }
+      ]
+    },
+    "19": {
+      "13": [
+        {
+          "source_usfm": "\\f + \\fr 19:13 \\ft Or \\fqa in Aramaic\\ft ; also in verses 17 and 20\\f*",
+          "raw_sha256": "f21ee9982912332b085ca2f2e8ab07fd3a40f9c9c299cff8e2307247d2515739"
+        }
+      ],
+      "14": [
+        {
+          "source_usfm": "\\f + \\fr 19:14 \\ft That is, about noon\\f*",
+          "raw_sha256": "bd2160ee37217d439c5e8ae386941576da7899fc413deef003958bbf32102e86"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 19:24 \\ft \\ref Psalm 22:18|PSA 22:18\\ref*\\f*",
+          "raw_sha256": "fbeca6018cdfbe7dd1dcd04e3fb8db3e2bb9d4b6d411e6ac79df20b994eb82d6"
+        }
+      ],
+      "28": [
+        {
+          "source_usfm": "\\f + \\fr 19:28 \\ft See \\ref Psalm 22:15|PSA 22:15\\ref*.\\f*",
+          "raw_sha256": "cebf1e244e2bdd6e0aa3bb3d0526c8738793a87f90a8eadf33b17c9e2619133f"
+        }
+      ],
+      "29": [
+        {
+          "source_usfm": "\\f + \\fr 19:29 \\ft Or \\fqa A jar of wine vinegar\\ft ; similarly in verse 30\\f*",
+          "raw_sha256": "02040b6d64a9a0ca7de678b806fdafc1f65419695866100c46beb98d7f7770ed"
+        },
+        {
+          "source_usfm": "\\f + \\fr 19:29 \\ft See \\ref Psalm 69:21|PSA 69:21\\ref*.\\f*",
+          "raw_sha256": "935f032a657f7bd0c4e4f1d01450a684d27d048608180ef1fa3a340fd73ddfb8"
+        }
+      ],
+      "36": [
+        {
+          "source_usfm": "\\f + \\fr 19:36 \\ft \\ref Psalm 34:20|PSA 34:20\\ref*; see also Exodus 12:46 and Numbers 9:12.\\f*",
+          "raw_sha256": "b0b527c86322b67037c232893fb9a6682e125c9e33cd8165c3f48307fe7664cc"
+        }
+      ],
+      "37": [
+        {
+          "source_usfm": "\\f + \\fr 19:37 \\ft \\ref Zechariah 12:10|ZEC 12:10\\ref*\\f*",
+          "raw_sha256": "5b81476f8d29e73a54bc5d78a131cd249d9878123918e8f48b0e88d681a06758"
+        }
+      ],
+      "39": [
+        {
+          "source_usfm": "\\f + \\fr 19:39 \\ft Greek \\fqa about a hundred litras\\ft ; that is, approximately 34 kilograms\\f*",
+          "raw_sha256": "03d4adf7098a3364138c00e59f010e82c3492e7d152e90b144b709f3c51a5b16"
+        }
+      ]
+    },
+    "20": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 20:1 \\ft Literally \\fqa Now on the first of the Sabbaths, early,\\f*",
+          "raw_sha256": "3163d5c7a669e29ca1f0d38b38198beac41e5a8262bfdda1fd4cd0f7062f0428"
+        }
+      ],
+      "7": [
+        {
+          "source_usfm": "\\f + \\fr 20:7 \\ft Greek \\fqa soudarion\\f*",
+          "raw_sha256": "233c9722dad800746532842c0315af804406e0a92b01983d43733ee8e4796c8d"
+        }
+      ],
+      "16": [
+        {
+          "source_usfm": "\\f + \\fr 20:16 \\ft Or \\fqa in Aramaic\\f*",
+          "raw_sha256": "d44d293fb1b52c13abc66e041de807b4d28e630949354249f655b5436efefa00"
+        }
+      ],
+      "24": [
+        {
+          "source_usfm": "\\f + \\fr 20:24 \\fqa Didymus \\ft means \\fqa the twin\\ft .\\f*",
+          "raw_sha256": "73cb66defbde5aa6dbf0ff0d2c61e17e90955e987c00006fabf71daef227aa70"
+        }
+      ],
+      "31": [
+        {
+          "source_usfm": "\\f + \\fr 20:31 \\ft Or \\fqa may continue to believe\\f*",
+          "raw_sha256": "4346cc59f7b4652ffc8aa7d5fe0ceb269fcbce79961c59c6d17f0dede4d6ec7e"
+        }
+      ]
+    },
+    "21": {
+      "1": [
+        {
+          "source_usfm": "\\f + \\fr 21:1 \\ft That is, the Sea of Galilee\\f*",
+          "raw_sha256": "f298b00ec48e6b97df12787aa57da4deb13a94194aca9cbacec83fc2fa6e053d"
+        }
+      ],
+      "2": [
+        {
+          "source_usfm": "\\f + \\fr 21:2 \\fqa Didymus \\ft means \\fqa the twin\\ft .\\f*",
+          "raw_sha256": "962c096ebebbc77ceb2865d2c2897670af22498096a3aa3e9b18571bcd4dda34"
+        }
+      ],
+      "8": [
+        {
+          "source_usfm": "\\f + \\fr 21:8 \\ft Greek \\fqa about two hundred cubits away\\ft ; that is, approximately 300 feet or 91 meters\\f*",
+          "raw_sha256": "f2687adad72367c2a719a583d91338d3444a83c647964f0b444959b069cbc731"
+        }
+      ],
+      "18": [
+        {
+          "source_usfm": "\\f + \\fr 21:18 \\ft Or \\fqa others\\f*",
+          "raw_sha256": "a1b38481f6be1d45afaef49072804602d1ae155bf483f77a01967ab01b602fa6"
+        }
+      ],
+      "20": [
+        {
+          "source_usfm": "\\f + \\fr 21:20 \\ft Greek \\fqa reclined on His bosom\\f*",
+          "raw_sha256": "e38acad084d9b67eaee7d53688e235158435af4440a5b5deddc63d801b1b0c69"
+        }
+      ]
+    }
+  },
+  "note": "Original BSB USFM footnotes are retained as archival source metadata only, not displayed in the verse-only reader. Variant readings are not silently promoted into main text."
+}

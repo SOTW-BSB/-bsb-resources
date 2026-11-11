@@ -1,0 +1,548 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOS",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "JOS.21.1",
+      "edition_verse_id": "BSB:JOS.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now the family heads of the Levites approached Eleazar the priest, Joshua son of Nun, and the heads of the other tribes of Israel",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.2",
+      "edition_verse_id": "BSB:JOS.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "at Shiloh in the land of Canaan and said to them, “The LORD commanded through Moses that we be given cities in which to live, together with pasturelands for our livestock.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.3",
+      "edition_verse_id": "BSB:JOS.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So by the command of the LORD, the Israelites gave the Levites these cities and their pasturelands out of their own inheritance:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.4",
+      "edition_verse_id": "BSB:JOS.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The first lot came out for the Kohathite clans. The Levites who were descendants of Aaron the priest received thirteen cities by lot from the tribes of Judah, Simeon, and Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.5",
+      "edition_verse_id": "BSB:JOS.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "The remaining descendants of Kohath received ten cities by lot from the tribes of Ephraim, Dan, and the half-tribe of Manasseh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.6",
+      "edition_verse_id": "BSB:JOS.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The descendants of Gershon received thirteen cities by lot from the tribes of Issachar, Asher, Naphtali, and the half-tribe of Manasseh in Bashan.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.7",
+      "edition_verse_id": "BSB:JOS.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And the descendants of Merari received twelve cities from the tribes of Reuben, Gad, and Zebulun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.8",
+      "edition_verse_id": "BSB:JOS.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "So the Israelites allotted to the Levites these cities, together with their pasturelands, as the LORD had commanded through Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.9",
+      "edition_verse_id": "BSB:JOS.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "From the tribes of Judah and Simeon, they designated these cities by name",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.10",
+      "edition_verse_id": "BSB:JOS.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "to the descendants of Aaron from the Kohathite clans of the Levites, because the first lot fell to them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.11",
+      "edition_verse_id": "BSB:JOS.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They gave them Kiriath-arba (that is, Hebron), with its surrounding pasturelands, in the hill country of Judah. (Arba was the father of Anak.)",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.12",
+      "edition_verse_id": "BSB:JOS.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But they had given the fields and villages around the city to Caleb son of Jephunneh as his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.13",
+      "edition_verse_id": "BSB:JOS.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "So to the descendants of Aaron the priest they gave these cities, together with their pasturelands: Hebron, a city of refuge for the manslayer, Libnah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.14",
+      "edition_verse_id": "BSB:JOS.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Jattir, Eshtemoa,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.15",
+      "edition_verse_id": "BSB:JOS.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Holon, Debir,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.16",
+      "edition_verse_id": "BSB:JOS.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Ain, Juttah, and Beth-shemesh— nine cities from these two tribes, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.17",
+      "edition_verse_id": "BSB:JOS.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And from the tribe of Benjamin they gave them Gibeon, Geba,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.18",
+      "edition_verse_id": "BSB:JOS.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Anathoth, and Almon— four cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.19",
+      "edition_verse_id": "BSB:JOS.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "In all, thirteen cities, together with their pasturelands, were given to the priests, the descendants of Aaron.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.20",
+      "edition_verse_id": "BSB:JOS.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The remaining Kohathite clans of the Levites were allotted these cities: From the tribe of Ephraim",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.21",
+      "edition_verse_id": "BSB:JOS.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "they were given Shechem in the hill country of Ephraim (a city of refuge for the manslayer), Gezer,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.22",
+      "edition_verse_id": "BSB:JOS.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Kibzaim, and Beth-horon— four cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.23",
+      "edition_verse_id": "BSB:JOS.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "From the tribe of Dan they were given Elteke, Gibbethon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.24",
+      "edition_verse_id": "BSB:JOS.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Aijalon, and Gath-rimmon— four cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.25",
+      "edition_verse_id": "BSB:JOS.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And from the half-tribe of Manasseh they were given Taanach and Gath-rimmon— two cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.26",
+      "edition_verse_id": "BSB:JOS.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "In all, ten cities, together with their pasturelands, were given to the rest of the Kohathite clans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.27",
+      "edition_verse_id": "BSB:JOS.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "This is what the Levite clans of the Gershonites were given: From the half-tribe of Manasseh they were given Golan in Bashan, a city of refuge for the manslayer, and Beeshterah— two cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.28",
+      "edition_verse_id": "BSB:JOS.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "From the tribe of Issachar they were given Kishion, Daberath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.29",
+      "edition_verse_id": "BSB:JOS.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Jarmuth, and En-gannim— four cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.30",
+      "edition_verse_id": "BSB:JOS.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "From the tribe of Asher they were given Mishal, Abdon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.31",
+      "edition_verse_id": "BSB:JOS.21.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Helkath, and Rehob— four cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.32",
+      "edition_verse_id": "BSB:JOS.21.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And from the tribe of Naphtali they were given Kedesh in Galilee (a city of refuge for the manslayer), Hammoth-dor, and Kartan— three cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.33",
+      "edition_verse_id": "BSB:JOS.21.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "In all, thirteen cities, together with their pasturelands, were given to the Gershonite clans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.34",
+      "edition_verse_id": "BSB:JOS.21.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "This is what the Merarite clan (the rest of the Levites) were given: From the tribe of Zebulun they were given Jokneam, Kartah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.35",
+      "edition_verse_id": "BSB:JOS.21.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Dimnah, and Nahalal— four cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.36",
+      "edition_verse_id": "BSB:JOS.21.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "From the tribe of Reuben they were given Bezer, Jahaz,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.37",
+      "edition_verse_id": "BSB:JOS.21.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Kedemoth, and Mephaath— four cities, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.38",
+      "edition_verse_id": "BSB:JOS.21.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And from the tribe of Gad they were given Ramoth in Gilead, a city of refuge for the manslayer, Mahanaim,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.39",
+      "edition_verse_id": "BSB:JOS.21.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Heshbon, and Jazer— four cities in all, together with their pasturelands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.40",
+      "edition_verse_id": "BSB:JOS.21.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "In all, twelve cities were allotted to the clans of Merari, the remaining Levite clans.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.41",
+      "edition_verse_id": "BSB:JOS.21.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "For the Levites, then, there were forty-eight cities in all, together with their pasturelands, within the territory of the Israelites.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.42",
+      "edition_verse_id": "BSB:JOS.21.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "Each of these cities had its own surrounding pasturelands; this was true for all the cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.43",
+      "edition_verse_id": "BSB:JOS.21.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "Thus the LORD gave Israel all the land He had sworn to give their fathers, and they took possession of it and settled in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.44",
+      "edition_verse_id": "BSB:JOS.21.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And the LORD gave them rest on every side, just as He had sworn to their fathers. None of their enemies could stand against them, for the LORD delivered all their enemies into their hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.45",
+      "edition_verse_id": "BSB:JOS.21.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "Not one of all the LORD’s good promises to the house of Israel had failed; everything was fulfilled.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

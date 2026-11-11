@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 17,
+  "verses": [
+    {
+      "id": "JOB.17.1",
+      "edition_verse_id": "BSB:JOB.17.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“My spirit is broken; my days are extinguished; the grave awaits me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.17.2",
+      "edition_verse_id": "BSB:JOB.17.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Surely mockers surround me, and my eyes must gaze at their rebellion.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.3",
+      "edition_verse_id": "BSB:JOB.17.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Give me, I pray, the pledge You demand. Who else will be my guarantor?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.4",
+      "edition_verse_id": "BSB:JOB.17.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You have closed their minds to understanding; therefore You will not exalt them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.5",
+      "edition_verse_id": "BSB:JOB.17.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If a man denounces his friends for a price, the eyes of his children will fail.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.6",
+      "edition_verse_id": "BSB:JOB.17.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "He has made me a byword among the people, a man in whose face they spit.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.7",
+      "edition_verse_id": "BSB:JOB.17.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "My eyes have grown dim with grief, and my whole body is but a shadow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.8",
+      "edition_verse_id": "BSB:JOB.17.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The upright are appalled at this, and the innocent are stirred against the godless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.9",
+      "edition_verse_id": "BSB:JOB.17.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "Yet a righteous one holds to his way, and the one with clean hands grows stronger.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.10",
+      "edition_verse_id": "BSB:JOB.17.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "But come back and try again, all of you. For I will not find a wise man among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.11",
+      "edition_verse_id": "BSB:JOB.17.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "My days have passed; my plans are broken off — even the desires of my heart.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.12",
+      "edition_verse_id": "BSB:JOB.17.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "They have turned night into day, making light seem near in the face of darkness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.13",
+      "edition_verse_id": "BSB:JOB.17.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If I look for Sheol as my home, if I spread out my bed in darkness,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.14",
+      "edition_verse_id": "BSB:JOB.17.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "and say to corruption, ‘You are my father,’ and to the worm, ‘My mother,’ or ‘My sister,’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.15",
+      "edition_verse_id": "BSB:JOB.17.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "where then is my hope? Who can see any hope for me?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.17.16",
+      "edition_verse_id": "BSB:JOB.17.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Will it go down to the gates of Sheol? Will we go down together into the dust?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 25,
+  "verses": [
+    {
+      "id": "JOB.25.1",
+      "edition_verse_id": "BSB:JOB.25.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Bildad the Shuhite replied:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.25.2",
+      "edition_verse_id": "BSB:JOB.25.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“Dominion and awe belong to God; He establishes harmony in the heights of heaven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.25.3",
+      "edition_verse_id": "BSB:JOB.25.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Can His troops be numbered? On whom does His light not rise?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.25.4",
+      "edition_verse_id": "BSB:JOB.25.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "How then can a man be just before God? How can one born of woman be pure?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.25.5",
+      "edition_verse_id": "BSB:JOB.25.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If even the moon does not shine, and the stars are not pure in His sight,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.25.6",
+      "edition_verse_id": "BSB:JOB.25.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "how much less man, who is but a maggot, and the son of man, who is but a worm!”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

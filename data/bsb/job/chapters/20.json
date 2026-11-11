@@ -1,0 +1,356 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 20,
+  "verses": [
+    {
+      "id": "JOB.20.1",
+      "edition_verse_id": "BSB:JOB.20.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Zophar the Naamathite replied:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.20.2",
+      "edition_verse_id": "BSB:JOB.20.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“So my anxious thoughts compel me to answer, because of the turmoil within me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.3",
+      "edition_verse_id": "BSB:JOB.20.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "I have heard a rebuke that insults me, and my understanding prompts a reply.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.4",
+      "edition_verse_id": "BSB:JOB.20.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do you not know that from antiquity, since man was placed on the earth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.5",
+      "edition_verse_id": "BSB:JOB.20.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "the triumph of the wicked has been brief and the joy of the godless momentary?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.6",
+      "edition_verse_id": "BSB:JOB.20.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Though his arrogance reaches the heavens, and his head touches the clouds,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.7",
+      "edition_verse_id": "BSB:JOB.20.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "he will perish forever, like his own dung; those who had seen him will ask, ‘Where is he?’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.8",
+      "edition_verse_id": "BSB:JOB.20.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "He will fly away like a dream, never to be found; he will be chased away like a vision in the night.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.9",
+      "edition_verse_id": "BSB:JOB.20.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The eye that saw him will see him no more, and his place will no longer behold him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.10",
+      "edition_verse_id": "BSB:JOB.20.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "His sons will seek the favor of the poor, for his own hands must return his wealth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.11",
+      "edition_verse_id": "BSB:JOB.20.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The youthful vigor that fills his bones will lie down with him in the dust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.12",
+      "edition_verse_id": "BSB:JOB.20.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Though evil is sweet in his mouth and he conceals it under his tongue,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.13",
+      "edition_verse_id": "BSB:JOB.20.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "though he cannot bear to let it go and keeps it in his mouth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.14",
+      "edition_verse_id": "BSB:JOB.20.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "yet in his stomach his food sours into the venom of cobras within him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.15",
+      "edition_verse_id": "BSB:JOB.20.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "He swallows wealth but vomits it out; God will force it from his stomach.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.16",
+      "edition_verse_id": "BSB:JOB.20.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He will suck the poison of cobras; the fangs of a viper will kill him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.17",
+      "edition_verse_id": "BSB:JOB.20.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "He will not enjoy the streams, the rivers flowing with honey and cream.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.18",
+      "edition_verse_id": "BSB:JOB.20.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He must return the fruit of his labor without consuming it; he cannot enjoy the profits of his trading.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.19",
+      "edition_verse_id": "BSB:JOB.20.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For he has oppressed and forsaken the poor; he has seized houses he did not build.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.20",
+      "edition_verse_id": "BSB:JOB.20.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Because his appetite is never satisfied, he cannot escape with his treasure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.21",
+      "edition_verse_id": "BSB:JOB.20.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Nothing is left for him to consume; thus his prosperity will not endure.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.22",
+      "edition_verse_id": "BSB:JOB.20.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "In the midst of his plenty, he will be distressed; the full force of misery will come upon him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.23",
+      "edition_verse_id": "BSB:JOB.20.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "When he has filled his stomach, God will vent His fury upon him, raining it down on him as he eats.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.24",
+      "edition_verse_id": "BSB:JOB.20.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Though he flees from an iron weapon, a bronze-tipped arrow will pierce him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.25",
+      "edition_verse_id": "BSB:JOB.20.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "It is drawn out of his back, the gleaming point from his liver. Terrors come over him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.26",
+      "edition_verse_id": "BSB:JOB.20.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Total darkness is reserved for his treasures. A fire unfanned will consume him and devour what is left in his tent.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.27",
+      "edition_verse_id": "BSB:JOB.20.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "The heavens will expose his iniquity, and the earth will rise up against him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.28",
+      "edition_verse_id": "BSB:JOB.20.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "The possessions of his house will be removed, flowing away on the day of God’s wrath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.20.29",
+      "edition_verse_id": "BSB:JOB.20.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This is the wicked man’s portion from God, the inheritance God has appointed him.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

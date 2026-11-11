@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 33,
+  "verses": [
+    {
+      "id": "JOB.33.1",
+      "edition_verse_id": "BSB:JOB.33.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“But now, O Job, hear my speech, and listen to all my words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.33.2",
+      "edition_verse_id": "BSB:JOB.33.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Behold, I will open my mouth; my address is on the tip of my tongue.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.3",
+      "edition_verse_id": "BSB:JOB.33.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "My words are from an upright heart, and my lips speak sincerely what I know.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.4",
+      "edition_verse_id": "BSB:JOB.33.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "The Spirit of God has made me, and the breath of the Almighty gives me life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.5",
+      "edition_verse_id": "BSB:JOB.33.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Refute me if you can; prepare your case and confront me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.6",
+      "edition_verse_id": "BSB:JOB.33.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I am just like you before God; I was also formed from clay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.7",
+      "edition_verse_id": "BSB:JOB.33.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Surely no fear of me should terrify you; nor will my hand be heavy upon you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.8",
+      "edition_verse_id": "BSB:JOB.33.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Surely you have spoken in my hearing, and I have heard these very words:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.9",
+      "edition_verse_id": "BSB:JOB.33.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "‘I am pure, without transgression; I am clean, with no iniquity in me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.10",
+      "edition_verse_id": "BSB:JOB.33.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Yet God finds occasions against me; He counts me as His enemy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.11",
+      "edition_verse_id": "BSB:JOB.33.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "He puts my feet in the stocks; He watches over all my paths.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.12",
+      "edition_verse_id": "BSB:JOB.33.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Behold, you are not right in this matter. I will answer you, for God is greater than man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.13",
+      "edition_verse_id": "BSB:JOB.33.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Why do you complain to Him that He answers nothing a man asks?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.14",
+      "edition_verse_id": "BSB:JOB.33.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "For God speaks in one way and in another, yet no one notices.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.15",
+      "edition_verse_id": "BSB:JOB.33.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "In a dream, in a vision in the night, when deep sleep falls upon men as they slumber on their beds,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.16",
+      "edition_verse_id": "BSB:JOB.33.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "He opens their ears and terrifies them with warnings",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.17",
+      "edition_verse_id": "BSB:JOB.33.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "to turn a man from wrongdoing and keep him from pride,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.18",
+      "edition_verse_id": "BSB:JOB.33.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "to preserve his soul from the Pit and his life from perishing by the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.19",
+      "edition_verse_id": "BSB:JOB.33.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "A man is also chastened on his bed with pain and constant distress in his bones,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.20",
+      "edition_verse_id": "BSB:JOB.33.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "so that he detests his bread, and his soul loathes his favorite food.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.21",
+      "edition_verse_id": "BSB:JOB.33.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "His flesh wastes away from sight, and his hidden bones protrude.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.22",
+      "edition_verse_id": "BSB:JOB.33.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "He draws near to the Pit, and his life to the messengers of death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.23",
+      "edition_verse_id": "BSB:JOB.33.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Yet if there is a messenger on his side, one mediator in a thousand, to tell a man what is right for him,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.24",
+      "edition_verse_id": "BSB:JOB.33.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "to be gracious to him and say, ‘Spare him from going down to the Pit; I have found his ransom,’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.25",
+      "edition_verse_id": "BSB:JOB.33.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "then his flesh is refreshed like a child’s; he returns to the days of his youth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.26",
+      "edition_verse_id": "BSB:JOB.33.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He prays to God and finds favor; he sees God’s face and shouts for joy, and God restores His righteousness to that man.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.27",
+      "edition_verse_id": "BSB:JOB.33.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Then he sings before men with these words: ‘I have sinned and perverted what was right; yet I did not get what I deserved.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.28",
+      "edition_verse_id": "BSB:JOB.33.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "He redeemed my soul from going down to the Pit, and I will live to see the light.’",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.29",
+      "edition_verse_id": "BSB:JOB.33.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Behold, all these things God does to a man, two or even three times,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.30",
+      "edition_verse_id": "BSB:JOB.33.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "to bring back his soul from the Pit, that he may be enlightened with the light of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.31",
+      "edition_verse_id": "BSB:JOB.33.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Pay attention, Job, and listen to me; be silent, and I will speak.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.32",
+      "edition_verse_id": "BSB:JOB.33.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "But if you have something to say, answer me; speak up, for I would like to vindicate you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.33.33",
+      "edition_verse_id": "BSB:JOB.33.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "But if not, then listen to me; be quiet, and I will teach you wisdom.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

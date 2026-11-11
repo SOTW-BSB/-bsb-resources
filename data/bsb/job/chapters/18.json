@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "JOB.18.1",
+      "edition_verse_id": "BSB:JOB.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then Bildad the Shuhite replied:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.18.2",
+      "edition_verse_id": "BSB:JOB.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "“How long until you end these speeches? Show some sense, and then we can talk.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.3",
+      "edition_verse_id": "BSB:JOB.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Why are we regarded as cattle, as stupid in your sight?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.4",
+      "edition_verse_id": "BSB:JOB.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "You who tear yourself in anger— should the earth be forsaken on your account, or the rocks be moved from their place?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.5",
+      "edition_verse_id": "BSB:JOB.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Indeed, the lamp of the wicked is extinguished; the flame of his fire does not glow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.6",
+      "edition_verse_id": "BSB:JOB.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "The light in his tent grows dark, and the lamp beside him goes out.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.7",
+      "edition_verse_id": "BSB:JOB.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "His vigorous stride is shortened, and his own schemes trip him up.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.8",
+      "edition_verse_id": "BSB:JOB.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "For his own feet lead him into a net, and he wanders into its mesh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.9",
+      "edition_verse_id": "BSB:JOB.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "A trap seizes his heel; a snare grips him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.10",
+      "edition_verse_id": "BSB:JOB.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "A noose is hidden in the ground, and a trap lies in his path.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.11",
+      "edition_verse_id": "BSB:JOB.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Terrors frighten him on every side and harass his every step.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.12",
+      "edition_verse_id": "BSB:JOB.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "His strength is depleted, and calamity is ready at his side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.13",
+      "edition_verse_id": "BSB:JOB.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "It devours patches of his skin; the firstborn of death devours his limbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.14",
+      "edition_verse_id": "BSB:JOB.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "He is torn from the shelter of his tent and is marched off to the king of terrors.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.15",
+      "edition_verse_id": "BSB:JOB.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Fire resides in his tent; burning sulfur rains down on his dwelling.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.16",
+      "edition_verse_id": "BSB:JOB.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The roots beneath him dry up, and the branches above him wither away.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.17",
+      "edition_verse_id": "BSB:JOB.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "The memory of him perishes from the earth, and he has no name in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.18",
+      "edition_verse_id": "BSB:JOB.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "He is driven from light into darkness and is chased from the inhabited world.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.19",
+      "edition_verse_id": "BSB:JOB.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "He has no offspring or posterity among his people, no survivor where he once lived.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.20",
+      "edition_verse_id": "BSB:JOB.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Those in the west are appalled at his fate, while those in the east tremble in horror.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.18.21",
+      "edition_verse_id": "BSB:JOB.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Surely such is the dwelling of the wicked and the place of one who does not know God.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

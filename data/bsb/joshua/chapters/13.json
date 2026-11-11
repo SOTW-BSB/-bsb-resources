@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOS",
+  "chapter": 13,
+  "verses": [
+    {
+      "id": "JOS.13.1",
+      "edition_verse_id": "BSB:JOS.13.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.2",
+      "edition_verse_id": "BSB:JOS.13.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "This is the land that remains: All the territory of the Philistines and the Geshurites,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.3",
+      "edition_verse_id": "BSB:JOS.13.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "from the Shihor east of Egypt to the territory of Ekron on the north (considered to be Canaanite territory)— that of the five Philistine rulers of Gaza, Ashdod, Ashkelon, Gath, and Ekron, as well as that of the Avvites;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.4",
+      "edition_verse_id": "BSB:JOS.13.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "to the south, all the land of the Canaanites, from Mearah of the Sidonians to Aphek, as far as the border of the Amorites;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.5",
+      "edition_verse_id": "BSB:JOS.13.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "the land of the Gebalites; and all Lebanon to the east, from Baal-gad below Mount Hermon to Lebo-hamath.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.6",
+      "edition_verse_id": "BSB:JOS.13.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "All the inhabitants of the hill country from Lebanon to Misrephoth-maim — all the Sidonians — I Myself will drive out before the Israelites. Be sure to divide it by lot as an inheritance to Israel, as I have commanded you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.7",
+      "edition_verse_id": "BSB:JOS.13.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Now therefore divide this land as an inheritance to the nine tribes and the half-tribe of Manasseh.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.8",
+      "edition_verse_id": "BSB:JOS.13.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The other half of Manasseh, along with the Reubenites and Gadites, had received the inheritance Moses had given them beyond the Jordan to the east, just as Moses the servant of the LORD had assigned to them:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.9",
+      "edition_verse_id": "BSB:JOS.13.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The area from Aroer on the rim of the Arnon Valley, along with the city in the middle of the valley, the whole plateau of Medeba as far as Dibon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.10",
+      "edition_verse_id": "BSB:JOS.13.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "and all the cities of Sihon king of the Amorites who reigned in Heshbon, as far as the border of the Ammonites;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.11",
+      "edition_verse_id": "BSB:JOS.13.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "also Gilead and the territory of the Geshurites and Maacathites, all of Mount Hermon, and all Bashan as far as Salecah—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.12",
+      "edition_verse_id": "BSB:JOS.13.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "the whole kingdom of Og in Bashan, who had reigned in Ashtaroth and Edrei and had remained as a remnant of the Rephaim. Moses had struck them down and dispossessed them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.13",
+      "edition_verse_id": "BSB:JOS.13.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "but the Israelites did not drive out the Geshurites or the Maacathites. So Geshur and Maacath dwell among the Israelites to this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.14",
+      "edition_verse_id": "BSB:JOS.13.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "To the tribe of Levi, however, Moses had given no inheritance. The food offerings to the LORD, the God of Israel, are their inheritance, just as He had promised them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.15",
+      "edition_verse_id": "BSB:JOS.13.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "This is what Moses had given to the clans of the tribe of Reuben:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.16",
+      "edition_verse_id": "BSB:JOS.13.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "The territory from Aroer on the rim of the Arnon Valley, along with the city in the middle of the valley, to the whole plateau beyond Medeba,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.17",
+      "edition_verse_id": "BSB:JOS.13.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "to Heshbon and all its cities on the plateau, including Dibon, Bamoth-baal, Beth-baal-meon,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.18",
+      "edition_verse_id": "BSB:JOS.13.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Jahaz, Kedemoth, Mephaath,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.19",
+      "edition_verse_id": "BSB:JOS.13.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Kiriathaim, Sibmah, Zereth-shahar on the hill in the valley,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.20",
+      "edition_verse_id": "BSB:JOS.13.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Beth-peor, the slopes of Pisgah, and Beth-jeshimoth—",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.21",
+      "edition_verse_id": "BSB:JOS.13.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "all the cities of the plateau and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon until Moses killed him and the chiefs of Midian (Evi, Rekem, Zur, Hur, and Reba), the princes of Sihon who lived in the land.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.22",
+      "edition_verse_id": "BSB:JOS.13.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "The Israelites also killed the diviner Balaam son of Beor along with the others they put to the sword.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.23",
+      "edition_verse_id": "BSB:JOS.13.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And the border of the Reubenites was the bank of the Jordan. This was the inheritance of the clans of the Reubenites, including the cities and villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.24",
+      "edition_verse_id": "BSB:JOS.13.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "This is what Moses had given to the clans of the tribe of Gad:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.25",
+      "edition_verse_id": "BSB:JOS.13.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "The territory of Jazer, all the cities of Gilead, and half the land of the Ammonites as far as Aroer, near Rabbah;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.26",
+      "edition_verse_id": "BSB:JOS.13.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "the territory from Heshbon to Ramath-mizpeh and Betonim, and from Mahanaim to the border of Debir;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.27",
+      "edition_verse_id": "BSB:JOS.13.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "and in the valley, Beth-haram, Beth-nimrah, Succoth, and Zaphon, with the rest of the kingdom of Sihon king of Heshbon (the territory on the east side of the Jordan up to the edge of the Sea of Chinnereth).",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.28",
+      "edition_verse_id": "BSB:JOS.13.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "This was the inheritance of the clans of the Gadites, including the cities and villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.29",
+      "edition_verse_id": "BSB:JOS.13.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "This is what Moses had given to the clans of the half-tribe of Manasseh, that is, to half the tribe of the descendants of Manasseh:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.30",
+      "edition_verse_id": "BSB:JOS.13.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "The territory from Mahanaim through all Bashan— all the kingdom of Og king of Bashan, including all the towns of Jair that are in Bashan, sixty cities;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.31",
+      "edition_verse_id": "BSB:JOS.13.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "half of Gilead; and Ashtaroth and Edrei, the royal cities of Og in Bashan. All this was for the clans of the descendants of Machir son of Manasseh, that is, half of the descendants of Machir.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.13.32",
+      "edition_verse_id": "BSB:JOS.13.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "These were the portions Moses had given them on the plains of Moab beyond the Jordan, east of Jericho.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.13.33",
+      "edition_verse_id": "BSB:JOS.13.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "To the tribe of Levi, however, Moses had given no inheritance. The LORD, the God of Israel, is their inheritance, just as He had promised them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    }
+  ]
+}

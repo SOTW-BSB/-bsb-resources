@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOB",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "JOB.24.1",
+      "edition_verse_id": "BSB:JOB.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "“Why does the Almighty not reserve times for judgment? Why may those who know Him never see His days?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOB.24.2",
+      "edition_verse_id": "BSB:JOB.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Men move boundary stones; they pasture stolen flocks.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.3",
+      "edition_verse_id": "BSB:JOB.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "They drive away the donkey of the fatherless and take the widow’s ox in pledge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.4",
+      "edition_verse_id": "BSB:JOB.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "They push the needy off the road and force all the poor of the land into hiding.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.5",
+      "edition_verse_id": "BSB:JOB.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Indeed, like wild donkeys in the desert, the poor go to work foraging for food; the wasteland is food for their children.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.6",
+      "edition_verse_id": "BSB:JOB.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "They gather fodder in the fields and glean the vineyards of the wicked.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.7",
+      "edition_verse_id": "BSB:JOB.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Without clothing, they spend the night naked; they have no covering against the cold.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.8",
+      "edition_verse_id": "BSB:JOB.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Drenched by mountain rains, they huddle against the rocks for want of shelter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.9",
+      "edition_verse_id": "BSB:JOB.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "The fatherless infant is snatched from the breast; the nursing child of the poor is seized for a debt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.10",
+      "edition_verse_id": "BSB:JOB.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Without clothing, they wander about naked. They carry the sheaves, but still go hungry.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.11",
+      "edition_verse_id": "BSB:JOB.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "They crush olives within their walls; they tread the winepresses, but go thirsty.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.12",
+      "edition_verse_id": "BSB:JOB.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "From the city, men groan, and the souls of the wounded cry out, yet God charges no one with wrongdoing.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.13",
+      "edition_verse_id": "BSB:JOB.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then there are those who rebel against the light, not knowing its ways or staying on its paths.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.14",
+      "edition_verse_id": "BSB:JOB.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "When daylight is gone, the murderer rises to kill the poor and needy; in the night he is like a thief.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.15",
+      "edition_verse_id": "BSB:JOB.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "The eye of the adulterer watches for twilight. Thinking, ‘No eye will see me,’ he covers his face.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.16",
+      "edition_verse_id": "BSB:JOB.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "In the dark they dig through houses; by day they shut themselves in, never to experience the light.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.17",
+      "edition_verse_id": "BSB:JOB.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "For to them, deep darkness is their morning; surely they are friends with the terrors of darkness!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.18",
+      "edition_verse_id": "BSB:JOB.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "They are but foam on the surface of the water; their portion of the land is cursed, so that no one turns toward their vineyards.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.19",
+      "edition_verse_id": "BSB:JOB.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "As drought and heat consume the melting snow, so Sheol steals those who have sinned.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.20",
+      "edition_verse_id": "BSB:JOB.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "The womb forgets them; the worm feeds on them; they are remembered no more. So injustice is broken like a tree.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.21",
+      "edition_verse_id": "BSB:JOB.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "They prey on the barren and childless, and show no kindness to the widow.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.22",
+      "edition_verse_id": "BSB:JOB.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Yet by His power, God drags away the mighty; though rising up, they have no assurance of life.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.23",
+      "edition_verse_id": "BSB:JOB.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "He gives them a sense of security, but His eyes are on their ways.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.24",
+      "edition_verse_id": "BSB:JOB.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "They are exalted for a moment, then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOB.24.25",
+      "edition_verse_id": "BSB:JOB.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "If this is not so, then who can prove me a liar and reduce my words to nothing?”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

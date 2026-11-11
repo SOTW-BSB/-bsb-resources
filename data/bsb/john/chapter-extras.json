@@ -1,0 +1,175 @@
+{
+  "edition_id": "BSB",
+  "book_code": "JHN",
+  "chapters": {
+    "1": {
+      "source_headings": [
+        "\\s1 The Beginning",
+        "\\s1 The Witness of John",
+        "\\s1 The Word Became Flesh",
+        "\\s1 The Mission of John the Baptist",
+        "\\s1 Jesus the Lamb of God",
+        "\\s1 The First Disciples",
+        "\\s1 Jesus Calls Philip and Nathanael"
+      ]
+    },
+    "2": {
+      "source_headings": [
+        "\\s1 The Wedding at Cana",
+        "\\s1 Jesus Cleanses the Temple"
+      ]
+    },
+    "3": {
+      "source_headings": [
+        "\\s1 Jesus and Nicodemus",
+        "\\s1 John’s Testimony about Jesus"
+      ]
+    },
+    "4": {
+      "source_headings": [
+        "\\s1 Jesus and the Samaritan Woman",
+        "\\s1 The Disciples Return and Marvel",
+        "\\s1 Many Samaritans Believe",
+        "\\s1 Jesus Heals the Official’s Son"
+      ]
+    },
+    "5": {
+      "source_headings": [
+        "\\s1 The Pool of Bethesda",
+        "\\s1 The Father and the Son",
+        "\\s1 Testimonies about Jesus",
+        "\\s1 The Witness of Scripture"
+      ]
+    },
+    "6": {
+      "source_headings": [
+        "\\s1 The Feeding of the Five Thousand",
+        "\\s1 Jesus Walks on Water",
+        "\\s1 Jesus the Bread of Life",
+        "\\s1 Many Disciples Turn Back",
+        "\\s1 Peter’s Confession of Faith"
+      ]
+    },
+    "7": {
+      "source_headings": [
+        "\\s1 Jesus Teaches at the Feast",
+        "\\s1 Is Jesus the Christ?",
+        "\\s1 Living Water",
+        "\\s1 Division over Jesus",
+        "\\s1 The Unbelief of the Jewish Leaders"
+      ]
+    },
+    "8": {
+      "source_headings": [
+        "\\s1 The Woman Caught in Adultery",
+        "\\s1 Jesus the Light of the World",
+        "\\s1 The Truth Will Set You Free",
+        "\\s1 Before Abraham Was Born, I Am"
+      ]
+    },
+    "9": {
+      "source_headings": [
+        "\\s1 Jesus Heals the Man Born Blind",
+        "\\s1 The Pharisees Investigate the Healing",
+        "\\s1 Spiritual Blindness"
+      ]
+    },
+    "10": {
+      "source_headings": [
+        "\\s1 Jesus the Good Shepherd",
+        "\\s1 Jesus at the Feast of Dedication",
+        "\\s1 John’s Testimony Confirmed"
+      ]
+    },
+    "11": {
+      "source_headings": [
+        "\\s1 The Death of Lazarus",
+        "\\s1 Jesus Comforts Martha and Mary",
+        "\\s1 Jesus Raises Lazarus",
+        "\\s1 The Plot to Kill Jesus"
+      ]
+    },
+    "12": {
+      "source_headings": [
+        "\\s1 Mary Anoints Jesus",
+        "\\s1 The Plot to Kill Lazarus",
+        "\\s1 The Triumphal Entry",
+        "\\s1 Jesus Predicts His Death",
+        "\\s1 Belief and Unbelief"
+      ]
+    },
+    "13": {
+      "source_headings": [
+        "\\s1 Jesus Washes His Disciples’ Feet",
+        "\\s1 Jesus Predicts His Betrayal",
+        "\\s1 Love One Another",
+        "\\s1 Jesus Predicts Peter’s Denial"
+      ]
+    },
+    "14": {
+      "source_headings": [
+        "\\s1 In My Father’s House Are Many Rooms",
+        "\\s1 The Way, the Truth, and the Life",
+        "\\s1 Jesus Promises the Holy Spirit",
+        "\\s1 Peace I Leave with You"
+      ]
+    },
+    "15": {
+      "source_headings": [
+        "\\s1 Jesus the True Vine",
+        "\\s1 No Greater Love",
+        "\\s1 The Hatred of the World"
+      ]
+    },
+    "16": {
+      "source_headings": [
+        "\\s1 Persecution Foretold",
+        "\\s1 The Promise of the Holy Spirit",
+        "\\s1 Grief Will Turn to Joy",
+        "\\s1 Ask in My Name"
+      ]
+    },
+    "17": {
+      "source_headings": [
+        "\\s1 Prayer for the Son",
+        "\\s1 Prayer for the Disciples",
+        "\\s1 Prayer for All Believers"
+      ]
+    },
+    "18": {
+      "source_headings": [
+        "\\s1 The Betrayal of Jesus",
+        "\\s1 Peter’s First Denial",
+        "\\s1 Jesus before the High Priest",
+        "\\s1 Peter’s Second and Third Denials",
+        "\\s1 Jesus before Pilate"
+      ]
+    },
+    "19": {
+      "source_headings": [
+        "\\s1 The Soldiers Mock Jesus",
+        "\\s1 The Crucifixion",
+        "\\s1 The Death of Jesus",
+        "\\s1 Jesus’ Side Is Pierced",
+        "\\s1 The Burial of Jesus"
+      ]
+    },
+    "20": {
+      "source_headings": [
+        "\\s1 The Resurrection",
+        "\\s1 Jesus Appears to Mary Magdalene",
+        "\\s1 Jesus Appears to the Disciples",
+        "\\s1 Jesus Appears to Thomas",
+        "\\s1 The Purpose of John’s Book"
+      ]
+    },
+    "21": {
+      "source_headings": [
+        "\\s1 Jesus Appears by the Sea of Tiberias",
+        "\\s1 Jesus and Peter",
+        "\\s1 Jesus and the Beloved Disciple"
+      ]
+    }
+  },
+  "note": "Source headings retained here only for technical traceability, not displayed by the text-only reader."
+}

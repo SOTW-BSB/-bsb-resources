@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "BSB",
+  "book_code": "JOS",
+  "chapter": 18,
+  "verses": [
+    {
+      "id": "JOS.18.1",
+      "edition_verse_id": "BSB:JOS.18.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then the whole congregation of Israel assembled at Shiloh and set up the Tent of Meeting there. And though the land was subdued before them,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.2",
+      "edition_verse_id": "BSB:JOS.18.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "there were still seven tribes of Israel who had not yet received their inheritance.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.3",
+      "edition_verse_id": "BSB:JOS.18.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "So Joshua said to the Israelites, “How long will you put off entering and possessing the land that the LORD, the God of your fathers, has given you?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.4",
+      "edition_verse_id": "BSB:JOS.18.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Appoint three men from each tribe, and I will send them out to survey the land and map it out, according to the inheritance of each. Then they will return to me",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.5",
+      "edition_verse_id": "BSB:JOS.18.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "and divide the land into seven portions. Judah shall remain in their territory in the south, and the house of Joseph shall remain in their territory in the north.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.6",
+      "edition_verse_id": "BSB:JOS.18.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "When you have mapped out the seven portions of land and brought it to me, I will cast lots for you here in the presence of the LORD our God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.7",
+      "edition_verse_id": "BSB:JOS.18.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The Levites, however, have no portion among you, because their inheritance is the priesthood of the LORD. And Gad, Reuben, and half the tribe of Manasseh have already received the inheritance that Moses the servant of the LORD gave them beyond the Jordan to the east.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.8",
+      "edition_verse_id": "BSB:JOS.18.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "As the men got up to go out, Joshua commanded them to map out the land, saying, “Go and survey the land, map it out, and return to me. Then I will cast lots for you here in Shiloh in the presence of the LORD.”",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.9",
+      "edition_verse_id": "BSB:JOS.18.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "So the men departed and went throughout the land, mapping it city by city into seven portions. Then they returned with the document to Joshua at the camp in Shiloh.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.10",
+      "edition_verse_id": "BSB:JOS.18.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And Joshua cast lots for them in the presence of the LORD at Shiloh, where he distributed the land to the Israelites according to their divisions.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.11",
+      "edition_verse_id": "BSB:JOS.18.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "The first lot came up for the clans of the tribe of Benjamin. Their allotted territory lay between the tribes of Judah and Joseph:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.12",
+      "edition_verse_id": "BSB:JOS.18.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "On the north side their border began at the Jordan, went up past the northern slope of Jericho, headed west through the hill country, and came out at the wilderness of Beth-aven.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.13",
+      "edition_verse_id": "BSB:JOS.18.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "From there the border crossed over to the southern slope of Luz (that is, Bethel) and went down to Ataroth-addar on the hill south of Lower Beth-horon.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.14",
+      "edition_verse_id": "BSB:JOS.18.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "On the west side the border curved southward from the hill facing Beth-horon on the south and came out at Kiriath-baal (that is, Kiriath-jearim), a city of the sons of Judah. This was the western side.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.15",
+      "edition_verse_id": "BSB:JOS.18.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "On the south side the border began at the outskirts of Kiriath-jearim and extended westward to the spring at the Waters of Nephtoah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.16",
+      "edition_verse_id": "BSB:JOS.18.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Then it went down to the foot of the hill that faces the Valley of Ben-hinnom at the northern end of the Valley of Rephaim and ran down the Valley of Hinnom toward the southern slope of the Jebusites and downward to En-rogel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.17",
+      "edition_verse_id": "BSB:JOS.18.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "From there it curved northward and proceeded to En-shemesh and on to Geliloth facing the Ascent of Adummim, and continued down to the Stone of Bohan son of Reuben.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.18",
+      "edition_verse_id": "BSB:JOS.18.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Then it went on to the northern slope of Beth-arabah and went down into the valley.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.19",
+      "edition_verse_id": "BSB:JOS.18.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The border continued to the northern slope of Beth-hoglah and came out at the northern bay of the Salt Sea, at the mouth of the Jordan. This was the southern border.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.20",
+      "edition_verse_id": "BSB:JOS.18.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "On the east side the border was the Jordan. These were the borders around the inheritance of the clans of the tribe of Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.21",
+      "edition_verse_id": "BSB:JOS.18.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "These were the cities of the clans of the tribe of Benjamin: Jericho, Beth-hoglah, Emek-keziz,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.18.22",
+      "edition_verse_id": "BSB:JOS.18.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Beth-arabah, Zemaraim, Bethel,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.23",
+      "edition_verse_id": "BSB:JOS.18.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Avvim, Parah, Ophrah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.24",
+      "edition_verse_id": "BSB:JOS.18.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Chephar-ammoni, Ophni, and Geba— twelve cities, along with their villages.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.25",
+      "edition_verse_id": "BSB:JOS.18.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "Gibeon, Ramah, Beeroth,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.26",
+      "edition_verse_id": "BSB:JOS.18.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "Mizpeh, Chephirah, Mozah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.27",
+      "edition_verse_id": "BSB:JOS.18.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "Rekem, Irpeel, Taralah,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.18.28",
+      "edition_verse_id": "BSB:JOS.18.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Zelah, Haeleph, Jebus (that is, Jerusalem), Gibeah, and Kiriath-jearim— fourteen cities, along with their villages. This was the inheritance of the clans of the tribe of Benjamin.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
