@@ -13,6 +13,18 @@
   "note": "Future logical hook only. No BSB lexical alignment, Strong’s data, or UI integration is asserted here.",
   "historical_commentary_resource": "SOTW-Historical-Commentaries/historical-commentary-resources",
   "commentary_join_id": "GEN.1.1",
-  "published_integration_status": "NOT_BUILT",
-  "facsimile_pages_available": false
+  "published_integration_status": "STAGING_HISTORICAL_COMMENTARY_READER_LINK",
+  "facsimile_pages_available": false,
+  "historical_commentary_reader_bridge": {
+    "schema_version": "1.0.0",
+    "bridge_script": "assets/sotw-commentary/bridge.js",
+    "authority": "SOTW-Historical-Commentaries/historical-commentary-resources",
+    "navigation_manifest": "api/v3/navigation-coverage/v1/manifest.json",
+    "scope_source": "api/v3/navigation-coverage/v1/books/{BOOK}.json",
+    "join": "canonical {BOOK}.{CHAPTER}.{VERSE}, independent of edition text",
+    "original_P_separate": true,
+    "no_verse_zero": true,
+    "source_provider": "CrossWire/SWORD and HelloAO; original author attribution retained",
+    "caveat": "Installed as independently attributed study links; browser acceptance checked separately; no embedded or remapped commentary"
+  }
 }

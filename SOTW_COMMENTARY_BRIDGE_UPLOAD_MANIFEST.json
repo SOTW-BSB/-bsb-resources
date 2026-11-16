@@ -1,0 +1,32 @@
+{
+  "kind": "sotw_historical_commentary_authorized_direct_github_install",
+  "edition_id": "BSB",
+  "repository": "SOTW-BSB/-bsb-resources",
+  "baseline_main_commit": "8d1c260fb880d7da1ba45cf1afe86c62ed19069f",
+  "baseline_historical_commit": "96d361a2675c448c65c9aa4f24b5b5bcd12ce85d",
+  "file_count": 5,
+  "preserve_verses_and_facsimiles": true,
+  "files": [
+    {
+      "path": "assets/sotw-commentary/bridge.js",
+      "sha": "91b8c24964a7fe372905750ea811c19aa3d5b659",
+      "prior": null
+    },
+    {
+      "path": "assets/bsb/reader.js",
+      "sha": "05ce9ad01e3c4933edf9487819593cac98831583",
+      "prior": "70b3dd871a3f481a743bf6bab5d529b29bc52e50"
+    },
+    {
+      "path": "data/bsb/route-map.json",
+      "sha": "64b219e2d4aa4b9dcd406fa8675ec4b38eb20a79",
+      "prior": "a012a1bc9631440ad2fc879872c8dea1bc3787fc"
+    },
+    {
+      "path": "data/bsb/historical-commentary-bridge-v1.json",
+      "sha": "acb00489e7cb7290be97227210ed3378c9446210",
+      "prior": null
+    }
+  ],
+  "status": "STAGING_PENDING_REVIEW"
+}

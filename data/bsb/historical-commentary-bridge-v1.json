@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "sotw_historical_commentary_reader_bridge",
+  "edition_id": "BSB",
+  "consumer_repository": "SOTW-BSB/-bsb-resources",
+  "canonical_key_pattern": "{BOOK}.{CHAPTER}.{VERSE}",
+  "historical_commentary_repository": "SOTW-Historical-Commentaries/historical-commentary-resources",
+  "historical_baseline_commit": "96d361a2675c448c65c9aa4f24b5b5bcd12ce85d",
+  "read_only_api_base": "https://sotw-historical-commentaries.github.io/historical-commentary-resources/",
+  "navigation_manifest": "api/v3/navigation-coverage/v1/manifest.json",
+  "book_overlay": "api/v3/navigation-coverage/v1/books/{BOOK}.json",
+  "chapter_index": "api/v3/snapshots/{SNAPSHOT}/index/{BOOK}/{CHAPTER}.json",
+  "source_chapter_from_index": "authors[].path",
+  "original_nonverse_source": "author_sections[].source.chapter_file",
+  "separate_scopes": [
+    "verse",
+    "chapter",
+    "book",
+    "passage",
+    "work",
+    "volume",
+    "book_group"
+  ],
+  "navigation_rules": [
+    "verse routes only from exact source index",
+    "P routes only from accepted overlay status=active and eligible_books",
+    "no verse zero",
+    "no inferred coverage",
+    "missing source means unavailable",
+    "never copy another translation's text"
+  ],
+  "ui_bridge_script": "assets/sotw-commentary/bridge.js",
+  "publication_status": "STAGING_DIRECT_GITHUB_INSTALL_PENDING_BROWSER_ACCEPTANCE"
+}

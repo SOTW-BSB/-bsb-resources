@@ -81,4 +81,7 @@ function select(n,updateHash){
  if(updateHash && location.hash!==urlFor(chapter.chapter,selectedVerse)) history.replaceState(null,'',urlFor(chapter.chapter,selectedVerse));
 }
 init();
+
+/* SOTW historical commentary bridge: read-only optional resource */
+(()=>{const s=document.createElement("script");s.src="../../../assets/sotw-commentary/bridge.js";s.dataset.sotwBook=code;s.dataset.sotwEdition="BSB";s.dataset.sotwBridge="1";document.head.append(s);})();
 })();
