@@ -1,0 +1,59 @@
+name: Import HelloAO BSB interlinear (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: "Import one chapter, one book, or all 66 books"
+        required: true
+        type: choice
+        options: [one_chapter, one_book, all_books]
+        default: one_chapter
+      book:
+        description: "HelloAO book code (e.g. JHN, GEN); unused for all_books"
+        required: false
+        type: string
+        default: JHN
+      chapter:
+        description: "Chapter number; used only for one_chapter"
+        required: false
+        type: string
+        default: "3"
+
+permissions:
+  contents: read
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Import from public HelloAO GET API
+        env:
+          SCOPE: ${{ inputs.scope }}
+          BOOK: ${{ inputs.book }}
+          CHAPTER: ${{ inputs.chapter }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "$SCOPE" in
+            one_chapter)
+              [[ "$CHAPTER" =~ ^[1-9][0-9]*$ ]] || { echo "Invalid chapter"; exit 2; }
+              python3 scripts/import_helloao_bsb_interlinear.py --book "$BOOK" --chapter "$CHAPTER" ;;
+            one_book)
+              python3 scripts/import_helloao_bsb_interlinear.py --book "$BOOK" ;;
+            all_books)
+              python3 scripts/import_helloao_bsb_interlinear.py --all ;;
+            *) echo "Invalid scope"; exit 2 ;;
+          esac
+      - name: Upload staged source files (not a commit or deployment)
+        uses: actions/upload-artifact@v4
+        with:
+          name: helloao-bsb-interlinear-source
+          path: data/bsb/helloao-interlinear/v1/
+          if-no-files-found: error
+          retention-days: 30
