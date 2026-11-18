@@ -115,9 +115,13 @@ jobs:
               raise SystemExit('Artifact source run identity mismatch')
           print('Pinned original artifact metadata and digest match.')
           PY
+          # The archived source.json already exists in this repository.
+          # Extract into a clean temporary directory, never into the checked-out source tree.
+          ARTIFACT_DIR="$RUNNER_TEMP/bsb-helloao-artifact"
+          test ! -e "$ARTIFACT_DIR" || { echo 'Artifact staging directory exists; refusing to overwrite.'; exit 1; }
           gh run download "$SOURCE_RUN_ID" --repo "$GITHUB_REPOSITORY" \
             --name helloao-bsb-interlinear-source \
-            --dir data/bsb/helloao-interlinear/v1
+            --dir "$ARTIFACT_DIR"
 
       - name: Verify every source chapter hash, book identity and word count
         if: github.event.inputs.mode == 'publish_interlinear'
@@ -125,8 +129,25 @@ jobs:
         run: |
           set -euo pipefail
           python3 scripts/verify_helloao_bsb_interlinear.py \
-            --source-dir data/bsb/helloao-interlinear/v1 \
+            --source-dir "$RUNNER_TEMP/bsb-helloao-artifact" \
             --bsb-book-catalog data/bsb/books.json
+
+      - name: Install verified chapters and manifest without overwriting existing configuration
+        if: github.event.inputs.mode == 'publish_interlinear'
+        shell: bash
+        run: |
+          set -euo pipefail
+          ARTIFACT_DIR="$RUNNER_TEMP/bsb-helloao-artifact"
+          TARGET="data/bsb/helloao-interlinear/v1"
+          test -f "$ARTIFACT_DIR/manifest.json"
+          test -d "$ARTIFACT_DIR/chapters"
+          test -f "$TARGET/source.json"
+          test ! -e "$TARGET/manifest.json"
+          test ! -e "$TARGET/chapters"
+          # The original checked-in source.json is authoritative. Do not copy
+          # the duplicate from the downloaded artifact or rewrite the pilot.
+          cp -R "$ARTIFACT_DIR/chapters" "$TARGET/chapters"
+          cp "$ARTIFACT_DIR/manifest.json" "$TARGET/manifest.json"
 
       - name: Mark only the verified source manifest as published
         if: github.event.inputs.mode == 'publish_interlinear'

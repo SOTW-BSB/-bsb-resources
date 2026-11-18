@@ -18,3 +18,10 @@ On passing those checks, it commits only data/bsb/helloao-interlinear/v1/chapter
 The source artifact expires December 18, 2026. If expired or unavailable, run stage_api/all_books again, then deliberately re-pin the replacement artifact and digest. No silent fallback or full-corpus re-import occurs in publish mode.
 
 GitHub push must be fast-forward and is never forced. Owner should inspect GitHub Actions PASS and main/data/bsb/helloao-interlinear/v1/manifest.json to confirm actual publication. Retain publisher terms: https://berean.bible/terms.htm and source documentation docs/HELLOAO_BSB_INTERLINEAR_IMPORT.md.
+
+
+## November 18, 2026: publish extraction collision fixed
+
+The first `publish_interlinear` run failed while unpacking `source.json` over the existing checked-in `data/bsb/helloao-interlinear/v1/source.json`. The source import itself was successful and no interlinear chapters were committed by that failed run. The workflow now downloads the pinned artifact into a separate `$RUNNER_TEMP/bsb-helloao-artifact` directory, verifies all 1,189 source chapters **there**, then copies only verified `chapters/` and `manifest.json` to the repository. The existing `source.json` is retained and its publication status is updated after verification. Existing word-alignment pilot, dictionaries and readers remain untouched.
+
+Original failed run: https://github.com/SOTW-BSB/-bsb-resources/actions/runs/44355971873
