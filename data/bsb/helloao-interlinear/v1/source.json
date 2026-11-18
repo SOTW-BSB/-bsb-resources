@@ -1,6 +1,6 @@
 {
   "schema": "sotw-bsb-helloao-interlinear-connection/1.0.0",
-  "status": "API_CONFIGURED_NOT_FETCHED",
+  "status": "PUBLISHED_SOURCE_DATA_NOT_READER_CONNECTED",
   "method": "GET",
   "provider": "HelloAO Free Use Bible API",
   "dataset": "bsb-interlinear",
@@ -14,5 +14,6 @@
   "existing_dictionary_policy": "Use SOTW Strong's and Webster; do not copy STEPBible lexicon definitions",
   "published_pilot": "data/bsb/word-alignment/v1/",
   "pilot_modified": false,
-  "reader_integration": "NOT_YET_CONNECTED"
+  "reader_integration": "NOT_YET_CONNECTED",
+  "published_source_run": 44344550874
 }
