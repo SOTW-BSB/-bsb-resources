@@ -3,36 +3,56 @@ name: Import HelloAO BSB interlinear (manual)
 on:
   workflow_dispatch:
     inputs:
+      mode:
+        description: "Stage from API, or publish the verified 66-book artifact from run 44344550874"
+        required: true
+        type: choice
+        options:
+          - stage_api
+          - publish_interlinear
+        default: stage_api
       scope:
-        description: "Import one chapter, one book, or all 66 books"
+        description: "Used only for stage_api; ignored for publish_interlinear"
         required: true
         type: choice
         options: [one_chapter, one_book, all_books]
         default: one_chapter
       book:
-        description: "HelloAO book code (e.g. JHN, GEN); unused for all_books"
+        description: "Book code for staging (e.g. JHN); ignored for publication"
         required: false
         type: string
         default: JHN
       chapter:
-        description: "Chapter number; used only for one_chapter"
+        description: "Chapter for one_chapter staging; ignored for publication"
         required: false
         type: string
         default: "3"
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: helloao-bsb-interlinear-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  import:
+  import_or_publish:
     runs-on: ubuntu-latest
     timeout-minutes: 70
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Check out SOTW BSB source repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Import from public HelloAO GET API
+      - name: Check offline publication validator tests
+        run: python3 -m unittest discover -s tests -p 'test_verify_helloao_bsb_interlinear.py' -v
+
+      - name: Import from public HelloAO GET API (staging only)
+        if: github.event.inputs.mode == 'stage_api'
         env:
           SCOPE: ${{ inputs.scope }}
           BOOK: ${{ inputs.book }}
@@ -50,10 +70,113 @@ jobs:
               python3 scripts/import_helloao_bsb_interlinear.py --all ;;
             *) echo "Invalid scope"; exit 2 ;;
           esac
-      - name: Upload staged source files (not a commit or deployment)
+      - name: Upload staged source files, without committing
+        if: github.event.inputs.mode == 'stage_api'
         uses: actions/upload-artifact@v4
         with:
           name: helloao-bsb-interlinear-source
           path: data/bsb/helloao-interlinear/v1/
           if-no-files-found: error
           retention-days: 30
+
+      - name: Check pinned successful 66-book import artifact
+        if: github.event.inputs.mode == 'publish_interlinear'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ARTIFACT_ID: "14445777054"
+          SOURCE_RUN_ID: "44344550874"
+          EXPECTED_ARTIFACT_SHA256: "sha256:69c96f463ecc22da68946039979f9d66210703409269c8921527f087518bf4d1"
+          EXPECTED_SOURCE_SHA: "ef50426253c5936251069076044afc423153a813"
+        shell: bash
+        run: |
+          set -euo pipefail
+          test ! -e data/bsb/helloao-interlinear/v1/manifest.json || {
+            echo 'Published BSB interlinear manifest already exists. Refusing overwrite.'; exit 1;
+          }
+          test ! -d data/bsb/helloao-interlinear/v1/chapters || {
+            echo 'Published BSB interlinear chapter directory already exists. Refusing overwrite.'; exit 1;
+          }
+          gh api "repos/$GITHUB_REPOSITORY/actions/artifacts/$ARTIFACT_ID" > "$RUNNER_TEMP/bsb-artifact-metadata.json"
+          python3 - <<'PY'
+          import json, os, pathlib
+          item = json.loads((pathlib.Path(os.environ['RUNNER_TEMP']) / 'bsb-artifact-metadata.json').read_text())
+          requirements = {
+              'id': int(os.environ['ARTIFACT_ID']),
+              'name': 'helloao-bsb-interlinear-source',
+              'digest': os.environ['EXPECTED_ARTIFACT_SHA256'],
+              'expired': False,
+          }
+          for key, value in requirements.items():
+              if item.get(key) != value:
+                  raise SystemExit(f'Artifact provenance mismatch: {key}')
+          run = item.get('workflow_run', {})
+          if (run.get('id') != int(os.environ['SOURCE_RUN_ID']) or
+                  run.get('head_sha') != os.environ['EXPECTED_SOURCE_SHA']):
+              raise SystemExit('Artifact source run identity mismatch')
+          print('Pinned original artifact metadata and digest match.')
+          PY
+          gh run download "$SOURCE_RUN_ID" --repo "$GITHUB_REPOSITORY" \
+            --name helloao-bsb-interlinear-source \
+            --dir data/bsb/helloao-interlinear/v1
+
+      - name: Verify every source chapter hash, book identity and word count
+        if: github.event.inputs.mode == 'publish_interlinear'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 scripts/verify_helloao_bsb_interlinear.py \
+            --source-dir data/bsb/helloao-interlinear/v1 \
+            --bsb-book-catalog data/bsb/books.json
+
+      - name: Mark only the verified source manifest as published
+        if: github.event.inputs.mode == 'publish_interlinear'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          root = Path('data/bsb/helloao-interlinear/v1')
+          manifest_path = root / 'manifest.json'
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          assert manifest['status'] == 'STAGED_SOURCE_DATA_NOT_READER_CONNECTED'
+          manifest['status'] = 'PUBLISHED_SOURCE_DATA_NOT_READER_CONNECTED'
+          manifest['publication'] = {
+              'source_run': 44344550874,
+              'artifact_id': 14445777054,
+              'artifact_sha256': '69c96f463ecc22da68946039979f9d66210703409269c8921527f087518bf4d1',
+              'publication_mode': 'owner_initiated_verified_artifact',
+          }
+          manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          config_path = root / 'source.json'
+          config = json.loads(config_path.read_text(encoding='utf-8'))
+          assert config['status'] == 'API_CONFIGURED_NOT_FETCHED'
+          config['status'] = 'PUBLISHED_SOURCE_DATA_NOT_READER_CONNECTED'
+          config['reader_integration'] = 'NOT_YET_CONNECTED'
+          config['published_source_run'] = 44344550874
+          config_path.write_text(json.dumps(config, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+
+      - name: Commit verified source data only, never reader or pilot files
+        if: github.event.inputs.mode == 'publish_interlinear'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- data/bsb/helloao-interlinear/v1/chapters/ \
+            data/bsb/helloao-interlinear/v1/manifest.json \
+            data/bsb/helloao-interlinear/v1/source.json
+          STAGED_CHAPTERS="$(git diff --cached --name-only | grep -c '^data/bsb/helloao-interlinear/v1/chapters/' || true)"
+          if [[ "$STAGED_CHAPTERS" -ne 1189 ]]; then
+            echo "Expected 1,189 staged chapter files, found $STAGED_CHAPTERS"; exit 1
+          fi
+          if git diff --cached --name-only | grep -Ev '^data/bsb/helloao-interlinear/v1/(chapters/|manifest\.json$|source\.json$)'; then
+            echo 'Unexpected paths staged; refusing to commit'; exit 1
+          fi
+          git commit -m 'Publish verified full HelloAO BSB interlinear source corpus v1'
+          git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)" \
+            push origin HEAD:main
+          echo 'Verified BSB original-language source published to main. SOTW reader NOT changed.'
