@@ -1,0 +1,18 @@
+{
+  "schema": "sotw-bsb-helloao-interlinear-connection/1.0.0",
+  "status": "API_CONFIGURED_NOT_FETCHED",
+  "method": "GET",
+  "provider": "HelloAO Free Use Bible API",
+  "dataset": "bsb-interlinear",
+  "books_url": "https://bible.helloao.org/api/d/bsb-interlinear/books.json",
+  "chapter_url_pattern": "https://bible.helloao.org/api/d/bsb-interlinear/{BOOK}/{CHAPTER}.json",
+  "source_rights": "https://berean.bible/terms.htm",
+  "importer": "scripts/import_helloao_bsb_interlinear.py",
+  "import_output_path": "data/bsb/helloao-interlinear/v1/chapters/{BOOK}/{NN}.json",
+  "original_languages_route_map": "https://raw.githubusercontent.com/SOTW-Original-Languages/original-language-resources/main/study-data/v1/route-map.json",
+  "english_dictionary": "https://raw.githubusercontent.com/SOTW-Original-Languages/original-language-resources/main/webster1828.json",
+  "existing_dictionary_policy": "Use SOTW Strong's and Webster; do not copy STEPBible lexicon definitions",
+  "published_pilot": "data/bsb/word-alignment/v1/",
+  "pilot_modified": false,
+  "reader_integration": "NOT_YET_CONNECTED"
+}
